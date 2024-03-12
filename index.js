@@ -14,6 +14,7 @@ import fs from "fs"; // 导入 fs 模块，用于文件操作
 
     // 访问指定网页
     await page.goto(url);
+    console.log(`正在访问页面：${url}`)
 
     // 使用 page.evaluate() 方法在页面上下文中执行 JavaScript 代码，获取所有文章链接
     const hrefs = await page.evaluate(() => {
@@ -26,6 +27,7 @@ import fs from "fs"; // 导入 fs 模块，用于文件操作
     for (const href of hrefs) {
         // 访问当前文章链接
         await page.goto(href);
+        console.log(`正在访问页面：${href}`)
 
         // 使用 page.evaluate() 方法在页面上下文中执行 JavaScript 代码，获取文章内容
         const articleContent = await page.evaluate(() => {
@@ -34,6 +36,7 @@ import fs from "fs"; // 导入 fs 模块，用于文件操作
                 .map((articleContent) => articleContent.textContent) // 提取元素文本内容
                 .join("\n"); // 将文本内容拼接成一个字符串
         });
+        console.log(`已获取 ${articleContent.length} 个单词.`)
 
         // 提取文件名，并将其用作保存文件的文件名
         const fileName = href.split("/").pop().replace(".html", "");
@@ -44,6 +47,7 @@ import fs from "fs"; // 导入 fs 模块，用于文件操作
                 console.log(err); // 输出错误信息到控制台
             }
         });
+        console.log(`已将内容写入到文件：${fileName}.txt`);
     }
 
     // 关闭浏览器实例
