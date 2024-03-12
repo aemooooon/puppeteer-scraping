@@ -29,13 +29,11 @@ import fs from "fs"; // 导入 fs 模块，用于文件操作
         await page.goto(href);
         console.log(`正在访问页面：${href}`)
 
-        // 使用 page.evaluate() 方法在页面上下文中执行 JavaScript 代码，获取文章内容
-        const articleContent = await page.evaluate(() => {
-            const contentElement = document.querySelectorAll("section#page-content p"); // 获取文章内容元素
-            return Array.from(contentElement)
-                .map((articleContent) => articleContent.textContent) // 提取元素文本内容
-                .join("\n"); // 将文本内容拼接成一个字符串
+        // 使用 page.$$eval() 进行内容抓取
+        const articleContent = await page.$$eval("section#page-content p", (elements) => {
+            return elements.map(articleContent => articleContent.textContent).join("\n");
         });
+
         console.log(`已获取 ${articleContent.length} 个单词.`)
 
         // 提取文件名，并将其用作保存文件的文件名
