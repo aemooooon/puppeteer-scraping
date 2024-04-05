@@ -1,0 +1,12 @@
+SAN FRANCISCO—Tesla Inc. said on Tuesday it will remove ultrasonic sensors from its vehicles starting this month, as it moves ahead with using only cameras in its safety and driver-assistant features.
+Tesla vehicles now have 12 ultrasonic sensors on the front and rear bumpers, and short-range sound sensors are mainly used in parking applications and to detect close objects.
+“It‘ll save them a few dollars. I mean those things are pretty cheap,” Guidehouse Insights analyst Sam Abuelsamid said, referring to ultrasonic sensors. “It’ll also save them some chips.”
+Tesla last year started dropping radar sensors amid a chip shortage.
+Chief Executive Elon Musk has said Tesla can achieve full autonomy with cameras only, but he has missed his targets to roll out self-driving taxis which require no drivers.
+The automaker faces growing regulatory, legal, and public scrutiny over its Autopilot system following crashes.
+Tesla said it will remove ultrasonic sensors from the Model 3 and Model Y globally over the next few months, followed by the Model S and Model X in 2023.
+The transition will temporarily limit automated parking features, but not affect crash safety ratings, Tesla noted.
+“It remains to be seen whether this will be ’two steps forward and one step backward' or the other way around,” said Raj Rajkumar, a professor of electrical and computer engineering at Carnegie Mellon University.
+While self-driving tech firms and automakers use multiple sensors like expensive lidars, Tesla relies only on cameras and artificial intelligence to help a vehicle recognize the environment.
+“The question is how well the cameras can see nearby the car, which sometimes can be limited,” said Professor Philip Koopman of Carnegie Mellon University.
+A widely followed Tesla researcher known only as “Green” on Twitter wrote in a tweet on Tuesday that ultrasonic sensors are also used in Autopilot as a “fail-safe” feature for changing lanes.

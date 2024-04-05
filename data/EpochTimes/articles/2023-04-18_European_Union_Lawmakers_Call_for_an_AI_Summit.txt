@@ -1,0 +1,17 @@
+European Union lawmakers on Monday warned world leaders about the threats of advanced artificial intelligence (AI) systems, urging them to hold a summit to discuss how to control its development.
+The 12 members of the European Parliament (MEP), all working on EU legislation on this type of technology, called on President Joe Biden and European Commission President Ursula von der Leyen to convene the meeting, and said AI firms should be more responsible.
+That open letter, published in March by the Future of Life Institute (FLI), had warned that AI could spread misinformation at an unprecedented rate, and that machines could “outnumber, outsmart, obsolete and replace” humans if left unchecked.
+The MEPs said they disagreed with some of the FLI message’s “more alarmist statements.”
+“We are nevertheless in agreement with the letter’s core message: with the rapid evolution of powerful AI, we see the need for significant political action,” they added.
+The letter urged countries to reflect on potential systems of governance, and to exercise restraint in their pursuit of very powerful AI.
+A spokesperson for von der Leyen did not immediately respond to a request for comment.
+The Biden administration has been seeking public comments on potential accountability measures for AI systems as questions loom about their impact on national security and education.
+The European Commission proposed the draft rules for an AI Act nearly two years ago under which AI tools are expected to be classified according to their perceived level of risk, from low to unacceptable.
+The U.S. educational software maker has combined its corpus of quiz answers with the chatbot’s AI model known as GPT-4 to create CheggMate, a study aide tailored to students, said CEO Dan Rosensweig.
+“It’s a tutor in your pocket,” he said ahead of its announcement of CheggMate on Monday.
+The software will adapt to students by processing data on what classes they are taking and exam questions they have missed, personalizing practice tests and guiding study in a way generalist programs like ChatGPT cannot, Rosensweig said. It will be available next month for free initially, Chegg said.
+The tools will let video editors do things like change the lighting in a shot from midday to sunset or generate background music just by typing in a few words of text to tell the system what to do. The tools build on a new system called Adobe Firefly that the company introduced last month for generating still images and text.
+Twitter owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc. about putting money into his new venture.
+Musk has secured thousands of graphics processing units, systems that power the computing required for intensive tasks such as AI and high-end graphics, from Nvidia Corp., according to FT. Shares of the chip company, which declined to comment on the matter, gained on the news on Friday.
+Musk last month registered a firm named X.AI Corp., incorporated in Nevada, according to a state filing. The firm lists Musk as the sole director and Jared Birchall, the managing director of Musk’s family office, as a secretary.
+It was not clear if the firm is related to Musk’s reported AI start-up efforts.

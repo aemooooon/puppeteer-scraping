@@ -1,0 +1,24 @@
+Software that mimics human society is being tested to see if it can help prevent religious violence.
+Researchers used artificial intelligence algorithms to simulate actions driven by sectarian divisions. 
+Their model contains thousands of agents representing different ethnicities, races and religions.
+Norway and Slovakia are trialling the tech to tackle tensions that can arise when Muslim immigrants settle in historically Christian countries.  
+The Oxford University researchers hope their system can be used to help governments respond to incidents, such as the recent London terror attacks. 
+However, one independent expert said that the tool needed more work before it could be used in real-life situations.
+"This could be an extremely useful research project when it reaches maturity as a thought tool for analysing factors involved in religious conflict," said Prof Noel Sharkey.
+The research, published in the Journal for Artificial Societies and Social Stimulation, indicates people are a peaceful species by nature.
+Even in times of crisis, such as natural disasters, the simulated humans came together peacefully. 
+But in some situations the program indicated people were willing to endorse violence. 
+Examples included occasions when other groups of people challenged the core beliefs that defined their identity.
+The research team drew on the Northern Ireland Troubles to programme conditions that saw what the researchers call "xenophobic social anxiety" escalate into extreme physical violence.  
+The conflict - which involved political and cultural factors in addition to religion - spanned three decades and claimed the lives of approximately 3,500 people.
+The computer model also used scenarios based on the 2002 Gujarat riots in India. Two thousand people died during three days of inter-communal violence between Hindus and Muslims.
+Research author Justin Lane said: "To use AI to study religion or culture, we have to look at modelling human psychology because our psychology is the foundation for religion and culture.
+"The root causes of things like religious violence rest in how our minds process the information that our world presents."
+The results suggest the risk of religious conflict escalates when a group's core beliefs or sacred values are challenged so frequently that they overwhelm people's ability to deal with them. But even then, anxiety only spills over into violence in about 20% of the scenarios modelled.  
+"Religious violence is not our default behaviour - in fact it is pretty rare in our history," said Mr Lane. 
+"It is only when people's core belief systems are challenged, or they feel that their commitment to their own beliefs is questioned that anxiety and agitations occur.
+"We might be able to trick our psychology into accepting others as part of our group when we'd otherwise be triggered toward more primal fears," he added. 
+The researchers believe one answer to reducing the risk of religious violence and terrorism is to create situations that stop people seeing outsiders as a threat.  
+The most risky situations are when the difference in the size of two different religious groups is similar and people encounter "out-group members" more regularly, perceiving them as dangerous.
+The encounters need not be face-to-face. It could be that the threat is brought to someone's attention through conventional and social media.  
+"We appear to live somewhat in our own information bubbles, but we still receive a lot of information about out-group members and that information appears to trigger our psychology even if there isn't actually a real person there," Mr Lane warned. 

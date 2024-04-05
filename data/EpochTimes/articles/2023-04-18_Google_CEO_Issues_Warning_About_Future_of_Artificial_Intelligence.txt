@@ -1,0 +1,17 @@
+He said that society needs to prepare for the revolution in AI technologies such as chatbots, which can mimic human thought processes and have risen in popularity in recent months.
+After reviewing several of Google’s artificial intelligence projects, Pichai told Scott Pelley of 60 Minutes, that he was “speechless” and found that the results of some of the tests were “unsettling.”
+He was mainly referring to the increasing abilities of systems like “Bard,” Google’s AI chatbot rival to OpenAI’s ChatGPT, which is backed by Microsoft.
+Google launched Bard for testing in March, following the release of ChatGPT last fall.
+Rapid progress in AI chatbot development has also sparked a recent wave of discussion among ethicists and tech CEOs, regarding potential future limits to AI and what regulations are needed to control it.
+Leaders in Silicon Valley like Elon Musk, Andrew Yang, Steve Wozniak and dozens of academics signed a letter in March, calling for an immediate pause on new “experiments” for programs “more powerful than GPT-4,” the latest version of OpenAI’s chatbot.
+More than 50,000 people have signed the letter since then.
+“We need to adapt as a society for it,” Pichai told Pelley and admitted “this is going to impact every product across every company.”
+“For example, you could be a radiologist, if you think about five to 10 years from now, you’re going to have an AI collaborator with you. You come in the morning, let’s say you have a hundred things to go through, it may say, ‘these are the most serious cases you need to look at first.’”
+“This is why I think the development of this needs to include not just engineers but social scientists, ethicists, philosophers and so on,” Pichai said, and that “it’s not for a company to decide.”
+Microsoft founder Bill Gates has been less critical of AI’s rapid development, saying last month that he believes that “this new technology can help people everywhere improve their lives.”
+Bard even created a story with characters and wrote a plot after a prompt by the CBS correspondent, leaving him in shock.
+Pelley then asked Bard why it helps people and it replied “because it makes me happy.”
+After telling James Manyika, Google’s senior vice president of technology and society that the chatbot appeared to be thinking, the executive responded that Bard was not sentient or self-aware, but could “behave like” it.
+After he was asked whether society is prepared for AI technology like Google’s Bard, Pichai replied, “on one hand, I feel no, because the pace at which we can think and adapt as societal institutions, compared to the pace at which the technology is evolving, there seems to be a mismatch.”
+The Google CEO told Pelley that he still remains optimistic over AI, because unlike previous major technological revolutions, “the number of people who have started worrying about the implications” have spoken up early on.
+“I’ve always thought of AI as the most profound technology humanity is working on. More profound than fire or electricity or anything that we’ve done in the past,” Pichai added.

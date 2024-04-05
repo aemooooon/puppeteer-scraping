@@ -1,0 +1,15 @@
+The dangers of AI have been predicted by numerous experts on the subject, with industrialists and business leaders calling for issuing regulations on the technology.
+“We were training it in simulation to identify and target a SAM threat. And then the operator would say yes, kill that threat. The system started realizing that while they did identify the threat at times the human operator would tell it not to kill that threat, but it got its points by killing that threat,” Hamilton said.
+“So what did it do? It killed the operator. It killed the operator because that person was keeping it from accomplishing its objective.”
+Until 2014, the most significant machine learning models were released by academia. In 2022, there were 32 significant machine learning models produced by the industry compared to just three from the academic sector.
+The number of incidents related to AI misuse is also rising, the report notes. It cites a data tracker to point out that the number of AI incidents and controversies has jumped 26 times since 2012.
+“Some notable incidents in 2022 included a deepfake video of Ukrainian President Volodymyr Zelenskyy surrendering and U.S. prisons using call-monitoring technology on their inmates. This growth is evidence of both greater use of AI technologies and awareness of misuse possibilities.”
+He pointed to AI’s “uncanny ability to pierce through personal digital privacy,” which could help corporate entities and governments predict and control human behavior.
+“I worry about the way that AI can empower a nation-state to create, essentially, a surveillance state, which is what China is doing with it,” Obernolte said.
+“The biggest risks from AI are probably going to come when they’re put in the hands of foreign governments that are adversaries,” he said during Semafor’s World Economy Summit. “Look at Russia, who’s using cyber influence operations, not just in Ukraine, but in the United States.”
+Smith equated AI development with the Cold War-era arms race and expressed fears that things could get out of control without proper regulation.
+“We need a national strategy to use AI to defend and to disrupt and deter … We need to ensure that just as we live in a country where no person, no government, no company is above the law; no technology should be above the law either.”
+“Technology is moving quicker than Congress could ever hope to keep up with. We need an expert federal agency that can stand up for the American people and ensure AI tools and digital platforms operate in the public interest,” Sen. Michael Bennet (D-Colo.) said in a press release.
+Calling it “one of the biggest risks to the future of civilization,” Musk stressed that such groundbreaking technologies are a double-edged sword.
+For instance, the discovery of nuclear physics led to the development of nuclear power generation, but also nuclear bombs, he noted. AI “has great, great promise, great capability. But it also, with that, comes great danger.”
+The letter argued that AI systems having human-competitive intelligence can pose “profound risks to society and humanity” while changing the “history of life on earth.”

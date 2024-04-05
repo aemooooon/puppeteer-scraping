@@ -1,0 +1,34 @@
+Police Scotland has unveiled a new aerial drone system to help in searches for missing and vulnerable people.  
+The remotely-piloted aircraft system (RPAS) can see things we can't to try to work out where people are.  
+It uses advanced cameras and neural computer networks to spot someone it is looking for - from "a speck" up to 150 metres away.
+Its recognition software is compact enough to be run on a phone, with the technology learning as it goes. 
+"The drone itself has very special sensors on it," said Insp Nicholas Whyte, of Police Scotland's air support unit.  
+"There's a very highly-powered optical camera which can allow us to see things quite clearly from a good height. Also, there's a thermal imaging sensor which detects heat.  
+"We're there to find people. People who need our help or people who are lost."  
+The system is the result of a collaboration involving Police Scotland, the technology multinational Thales and the University of the West of Scotland (UWS).  
+The matchmaker in the partnership is CENSIS, one of Scotland's eight not-for-profit innovation centres.  
+The CENSIS remit is to bring together private businesses and the public sector to exploit advances in sensing, imaging and the so-called Internet of Things.  
+Drones are an increasingly common sight. Outwardly, this one looks no different apart from - almost inevitably - a flashing blue light.  
+But the data this drone gathers is processed in real time. The software can discern a person, animal or vehicle from just a handful of pixels in a huge moving colour image.  
+How? Because they taught it to.  
+Prof Carl Schaschke, dean of the School of Computing, Engineering and Physical Sciences at UWS, said it could spot someone from up to 150 metres away.
+"It does that by being shown images, multiple images, time and time again until it recognises what the objects are from pretty much any orientation," he said.  
+The term artificial intelligence may conjure up images of Terminator-like thinking robots.  
+But in this case it means a machine that can learn.  
+The team taught it using hundreds of hours of footage of police officers in different clothing, positions and situations.  
+And there's another breakthrough.  
+"It doesn't require sophisticated supercomputing," Prof Schaschke said.  
+"It really is quite a low-cost approach to this - it simply uses a mobile phone."
+A search needs just two police officers to operate it: one to fly the drone, the other to use the recognition software.   
+Thales' technology and innovation lead Dr Barry Connor said the system had been designed to ease the burden on its users.
+He said: "That's very important in order to reduce the cognitive burden, with operators having a deluge of data.
+"Being able to operate something on a mobile platform in real time is a breakthrough."  
+Police Scotland has already deployed three of the drones across Scotland and the system's formal launch will come on Thursday at the annual CENSIS technology summit in Glasgow.  
+Technology of this kind inevitably raises questions of privacy and civil liberties, but Insp Whyte is adamant that this is not a spy drone.  
+"This is a very overt policing tool," he said.  
+"We're not hiding anything. It's there to help people, it's there to find people.  
+"We'll comply fully with all the human rights legislation - in fact a data protection impact assessment has been carried out and we review that yearly. Also, before we deploy we'll use social media to tell the public this is what we're doing.  
+"So we're very open and transparent about how we deploy the drones."
+There is another way in which people will be alerted that one of the drones is approaching: it makes a bit of a racket.  
+Its four rotors produce a sound like an angry garden strimmer.  
+Nothing like as ear-splitting as a low-flying plane, but enough to tip you the wink that it's in the area.  

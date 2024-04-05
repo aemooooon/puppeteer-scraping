@@ -1,0 +1,29 @@
+China's largest chip manufacturer's stock sank after the US revealed it could be its next trade ban target.
+Semiconductor Manufacturing International Corporation (SMIC) said it was "in complete shock and perplexity" after the Pentagon revealed it had proposed the firm be added to a government blacklist.
+This would restrict suppliers from providing it with American-based tech without special permission.
+Beijing said it was "firmly opposed".
+A foreign ministry spokesman accused Washington of "blatant bullying" and using supposed national security concerns to break international trade rules .
+The move could make SMIC the next focus of a trade clash that has already threatened Chinese tech firm Huawei's survival and forced Bytedance to negotiate the sell-off of video-sharing app TikTok's American operations.
+SMIC has a less advanced production line than some of its rivals - it cannot make transistors as small as they can, limiting its ability to produce some of the cutting-edge chips featured in the latest smartphones.
+Even so, the firm is an important semiconductors provider to Chinese companies, including Huawei, while also serving international clients including Qualcomm.
+Analysts have said a trade ban could threaten SMIC's existence, and in turn set back Beijing's efforts to spur on the country's semiconductor industry as part of its Made in China 2025 strategy.
+"SMIC would be unable to update the software of any of its US machines or have personnel from suppliers helping it to get them working," Richard Windsor, founder of research firm Radio Free Mobile, told the BBC.
+"It would also be unable to buy any more equipment or any upgrades for new technologies. If this were to persist for the long term, it would represent an existential threat that could see the company close its doors."
+This in turn could compromise China's wider technology and artificial intelligence ambitions.
+Pentagon spokeswoman Sue Gogh said on Saturday that adding the Shanghai-based firm to the Department of Commerce's Entity List would "ensure that all exports to SMIC would undergo a more comprehensive review".
+She did not say what had motivated its intervention, but Reuters reported that defence chiefs are concerned the company has links to the Chinese military.
+SMIC denies such ties. "The company manufactures semiconductors and provides services solely for civilian and commercial end-users and end-uses," it told the Bloomberg news agency over the weekend.
+"We have no relationship with the Chinese military. Any assumptions of the company's ties with the Chinese military are untrue statements and false accusations."
+Even so, this was not enough to avoid a sell-off on Monday. 
+SMIC's Hong Kong-based shares dropped 23% while those traded via a secondary listing in Shanghai fell 11%. In total, more than $6bn was wiped off its market value, according to the Financial Times.
+Company-watchers have also cast doubt over its claims to independence.
+Mr Windsor has noted that Datang Telecom Group is one of SMIC's biggest shareholders, as well as being a board member and customer. It supplies equipment to the People's Liberation Army.
+"[This] provides a fairly strong link to the military, which seems to contradict SMIC's own statements," he wrote in a research note.
+Elsewhere, the Financial Times said an unnamed US defence contractor has compiled a report claiming that SMIC had manufactured devices for researchers at universities affiliated with the People's Liberation Army.
+The BBC has asked SMIC to respond to both points.
+The trade blacklist would be damaging to SMIC's prospects.
+But it could also give fresh impetus to Beijing's goal of being less dependent on Western tech.
+As of 2019, only 16% of computer chips used in China were produced domestically, according to the Center for Strategic and International Studies (CSIS) think tank.
+Beijing wants that figure to be 70% by 2025. The Chinese Communist Party's leaders reportedly plan to reveal further support for the sector in October.
+CSIS has said that while export controls may slow China down, Washington should also consider providing financial support to its domestic semiconductor industry too.
+"The United States is coasting on spending over science, research, and technology that dates to the 1980s," blogged researcher James Andrew Lewis.

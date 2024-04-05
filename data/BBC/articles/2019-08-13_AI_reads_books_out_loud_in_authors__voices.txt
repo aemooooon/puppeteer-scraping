@@ -1,0 +1,10 @@
+Chinese search engine Sogou is creating artificial-intelligence lookalikes to read popular novels in authors' voices. 
+It announced "lifelike" avatars of Chinese authors Yue Guan and Bu Xin Tian Shang Diao Xian Bing - created from video recordings - at the China Online Literature+ conference.
+Last year, Sogou launched two AI newsreaders, which are still used by the government's Xinhua news agency.
+Appetite for audiobooks in China is on the rise, mirroring trends in the West.
+Chinese think tank iiMedia expects the market to more than double between 2016 and 2020, to 7.8bn Chinese yuan (£900m) a year. 
+It is now a simple process to use text-to-speech technology to quickly generate an audio version of a book, using digitised, synthetic voices. 
+But most people prefer audiobooks that are "professionally narrated" by authors, actors or famous public figures.
+And now, advances in machine learning and speech-to-text technologies mean that digitised voices are becoming more lifelike.
+For example, the company Lyrebird allows clients to create custom "vocal avatars" from just a one-minute recording of their voices.
+On its website, it showcases its services with two audio recordings of former US President Barack Obama and current US President Donald Trump, created using machine learning.

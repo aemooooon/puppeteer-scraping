@@ -1,0 +1,11 @@
+Microsoft is adding its centralized AI-assisted feature Copilot to Windows 11, the company announced on May 22.
+Such tasks will be performed in conjunction with Bing Chat, and include summarizing or explaining content that users are viewing and providing information.
+Copilot will be integrated directly into Windows 11, and “familiar and easy” to use, with customers simply opening the feature via a button in the taskbar across all apps, programs, and windows, according to Panay.
+“Once open, the Windows Copilot sidebar stays consistent across your apps, programs, and windows, always available to act as your personal assistant,” Panay explained.
+“It makes every user a power user, helping you take action, customize your settings and seamlessly connect across your favorite apps,” he added.
+Along with summarizing content, Copilot will also answer simple and complex questions, such as the time in another time zone, and search for flights and accommodations.
+They also noted that superintelligence—AI that possesses intelligence that far surpasses the brightest human minds—could become the most powerful technology that “humanity has had to contend with.”
+“We can have a dramatically more prosperous future but we have to manage risk to get there. Given the possibility of existential risk, we can’t just be reactive,” Altman and other executives noted.
+However, the executives said they ultimately believe that with the correct approach to advancing technology, AI could create tremendous value in the world.
+Speaking at the AI Forward 2023 event in San Francisco on May 22, Gates said AI developers are currently racing to develop a personal AI agent that could perform everyday tasks for users, including reading and conducting online searches.
+“Whoever wins the personal agent, that’s the big thing, because you will never go to a search site again, you will never go to a productivity site, you’ll never go to Amazon again,” Gates said.

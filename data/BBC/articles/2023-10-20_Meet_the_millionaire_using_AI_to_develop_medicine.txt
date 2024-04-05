@@ -1,0 +1,26 @@
+As a student Andrew Hopkins came up with an idea that would revolutionise the way life-saving drugs are created.
+Sixteen years later, he has founded his company which uses AI for the discovery and creation of medicine.
+His company Exscientia is working on a pill to prevent Covid and precision-based cancer treatments, among other projects.
+His parents both worked in factories in Port Talbot and he was employed in its steelworks before going to university.
+Prof Hopkins was in the middle of a PhD at Oxford University when he made the connection with computers and making medicine quicker.
+''I was studying how to design new HIV drugs back in the mid-90s," he explained.
+''Coming home from the lab at about two in the morning it struck me - how could we invent drugs in a far more efficient manner than what we do now?
+''The idea of how we could potentially use computers to revolutionise the way we invented drugs really stuck with me, and has stayed with me throughout my career over the next 20-25 years.''
+Growing up in the shadow of the Port Talbot steelworks, his love for science was ignited.
+His parents, Brian and Barbara, met in 1965 in Neath while working in a factory.
+''From the age of 16 I worked as a scientist in the steelworks every summer," he said.
+"I was lucky enough that they sponsored me and I got a scholarship to go to university where I did chemistry at Manchester.
+''When I graduated, I was offered a job and went back to the steelworks. It was an important part of my early education as a scientist and in fact I learnt a lot about business there as well."
+AI has been a controversial technology with many calling for greater regulation, but he believes it can and will revolutionise healthcare.
+''The reason it costs so much is that most of the things we take into clinical trials fail. Around 96% of the drugs we make fail," he said.
+"It takes 15 years to go from an idea to a drug to get approval to become a medicine for patients.
+''If we use AI we can now conduct 90% fewer experiments in what we need to make, test and optimise a drug than traditionally has been the case.
+''We're already showing that the drugs we've got in the clinic have allowed us to run projects in about 18 months compared to a traditional process of around four years.
+"A scientist can work in a big pharma company for their entire career and never discover a drug. What we want to do is to enable our scientists to see a drug moving forward into the clinic and hopefully then to patients multiple times in their career.''
+Exscientia recently used AI in a clinical trial using its precision medicine method on a blood cancer patient's sample from a biopsy.
+''We tested it against nearly 140 different medicines which is far more than you'd ever test a patient on," Prof Hopkins said.
+''That allowed us to really understand at an individual level how a patient responded. We can then provide that information to a physician as a new recommendation about which drugs should be taken based on an individual's response.
+''What we found is in the control group, unfortunately, within a year everyone's cancer [had] progressed. But in the group we tested, even after four years, 25% of patients were still progression free.''
+There has been concern AI will cause job losses, but Prof Hopkins said it was "potentially a new industrial evolution".
+''We have nearly 500 people here now, over 350 here in the UK. We have offices and labs all across the world," he said.
+''This is about how we create new types of jobs. We mistake thinking AI is a general intelligence; thinking it has human characteristics. It's not. This is mathematics.

@@ -1,0 +1,11 @@
+An ice rink has been used to test anti-skidding on a car powered by artificial intelligence (AI).
+University of Surrey researchers brought the driverless vehicle to Guildford Spectrum for a trial which they declared a "huge success".
+The car drove around for 90 minutes to test traction control and "gathered more data than expected", they added.
+The AI system senses when wheels are spinning too quickly and adjusts the power accordingly.  
+The technology was tested on the University's ZEBRA car - which stands for Zero Emission test Bed for Research on Autonomous driving. 
+The team is using AI to develop a way of preventing skidding in icy or wet conditions. 
+Carmine Caponio, a researcher in automotive engineering at the University of Surrey, said: "Our system appeared to work very well, and we must now analyse our data and prepare for further tests.  
+"It is highly unusual to be able to test technology on ice like this outside of large industrial companies - so to have a facility like the Spectrum available to us is a real privilege."
+By using its driverless function, the researchers were able to more accurately control the vehicle's acceleration, enabling more precise, consistent tests.  
+Mario Mihalkov, researcher at Surrey's Centre for Automotive Engineering, said: "We hope our findings will be of great interest to car makers - and can help make driving safer in slippery conditions for millions of drivers."  
+The team hopes to return to the rink for more tests in early 2024.

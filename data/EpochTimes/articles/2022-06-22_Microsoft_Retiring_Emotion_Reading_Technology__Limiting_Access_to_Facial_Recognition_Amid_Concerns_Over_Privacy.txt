@@ -1,0 +1,11 @@
+Microsoft on Tuesday announced it would stop selling technology that predicts a person’s emotional state and gender amid concerns over its privacy and a lack of consensus on a definition of “emotions.”
+It comes after an extensive review resulting in a team at Microsoft developing a “Responsible AI Standard” that guides the company’s AI product development and deployment.
+The tech giant will also limit “unrestricted” access to facial recognition technology.
+“We will retire facial analysis capabilities that purport to infer emotional states and identity attributes such as gender, age, smile, facial hair, hair, and makeup,” Bird wrote.
+“We collaborated with internal and external researchers to understand the limitations and potential benefits of this technology and navigate the tradeoffs. In the case of emotion classification specifically, these efforts raised important questions about privacy, the lack of consensus on a definition of ‘emotions,’ and the inability to generalize the linkage between facial expression and emotional state across use cases, regions, and demographics,” Bird continued.
+The product manager also noted that application programming interface access to “capabilities that predict sensitive attributes also opens up a wide range of ways they can be misused—including subjecting people to stereotyping, discrimination, or unfair denial of services.”
+Such artificial intelligence tools will no longer be available to new customers beginning June 21, 2022. Existing customers will have one year before losing access to them.
+“While API access to these attributes will no longer be available to customers for general-purpose use, Microsoft recognizes these capabilities can be valuable when used for a set of controlled accessibility scenarios,” Bird noted.
+Microsoft will also introduce limited access to its facial recognition technology, and new customers using those technologies must obtain prior approval.
+Existing customers of Azure Face API, Computer Vision, and Video Indexer, on the other hand, have one year to apply and get approval for continued access based on their provided use cases.
+Beginning June 30, 2023, existing customers will no longer have access to those facial recognition capabilities if their applications are not approved by Microsoft.

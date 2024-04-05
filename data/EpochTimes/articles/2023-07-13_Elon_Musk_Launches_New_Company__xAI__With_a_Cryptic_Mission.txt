@@ -1,0 +1,10 @@
+Twitter CEO Elon Musk has announced that he’s forming a new artificial intelligence company called xAI.
+The new company is separate from X Corp, the Musk-owned firm that has absorbed Twitter as part of Musk’s long-awaited move to turn the social media platform into an “everything app.”
+xAI will, however, work closely with Twitter, Tesla, and other companies “to make progress towards our mission,” per its website.
+The team is led by Musk, with some team members having worked on various AI projects in the past, such as Google’s DeepMind and OpenAI, the company behind the chatbot ChatGPT.
+The website lists Igor Babuschkin, Manuel Kroiss, Yuhuai (Tony) Wu, Christian Szegedy, Jimmy Ba, Toby Pohlen, Ross Nordeen, Kyle Kosic, Greg Yang, Guodong Zhang, and Zihang Dai as team members, with a note indicating that xAI is “actively recruiting” researchers and engineers.
+Earlier, Twitter announced it would require users to have an account on the social media platform to view tweets, a move that Musk called a “temporary emergency measure.”
+At the time, Musk said that hundreds of organizations or more were scraping Twitter data “extremely aggressively,” a remark that followed his earlier expressions of displeasure with artificial intelligence firms like OpenAI, which owns ChatGPT, for using Twitter’s data to train their large language models.
+The letter doesn’t call for a halt to AI development in general, just the most advanced systems in what Musk and the other experts described as an act of “merely a stepping back from the dangerous race to ever-larger unpredictable black-box models with emergent capabilities.”
+“Having succeeded in creating powerful AI systems, we can now enjoy an ‘AI summer’ in which we reap the rewards, engineer these systems for the clear benefit of all, and give society a chance to adapt,” the experts said.
+“Society has hit pause on other technologies with potentially catastrophic effects on society. We can do so here. Let’s enjoy a long AI summer, not rush unprepared into a fall,” they argued.

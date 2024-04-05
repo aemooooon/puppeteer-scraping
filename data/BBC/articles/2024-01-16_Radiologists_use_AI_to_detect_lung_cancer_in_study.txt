@@ -1,0 +1,14 @@
+Radiologists are using artificial intelligence (AI) software to help detect abnormalities on chest X-rays as part of a new research study.
+Clinicians at Ipswich Hospital will review the X-rays in conjunction with AI as part of the LungIMPACT research. 
+It is hoped, if successful, it could speed up diagnostic times.
+Consultant radiologist Dr James Hathorn said the study was "important for the future of healthcare".
+He said: "There aren't many big clinical research studies focused on artificial intelligence to prove its real worth, so we're really excited to be part of this study to help find clinical evidence for the benefits."
+"We want all AI products to be properly researched and evidenced so this is an important study for the future of healthcare."
+The AI software should help detect any possible abnormalities and help radiologists prioritise which X-rays to review first.
+Dr Hathorn added: "Hopefully using this technology will speed up the time to diagnosis and ensure patients who need treatment can have it as fast as possible."
+Final decisions will remain with clinicians. 
+The study is being run by Nottingham University Hospitals NHS Trust with Ipswich Hospital one of a few national sites taking part. 
+All GP-referred chest X-rays at Ipswich Hospital will go through the study. 
+The study will run until the end of July 2024, so may view 9,000 chest X-rays taken from GP referrals. 
+Frances Farnworth, assistant director of research and development at East Suffolk and North Essex NHS Foundation Trust, said: "Real-world research in routine environments is really important, as it comes with all the necessary regulatory checks and approvals necessary in the NHS.
+"This assures our patients their data stays within a secure environment."

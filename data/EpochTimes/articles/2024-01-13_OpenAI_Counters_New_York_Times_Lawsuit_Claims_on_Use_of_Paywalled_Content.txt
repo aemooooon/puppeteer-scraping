@@ -1,0 +1,19 @@
+OpenAI responded to a copyright infringement lawsuit filed by The New York Times by describing its use of the media outlet’s content as negligible.
+“Because models learn from the enormous aggregate of human knowledge, any one sector—including news—is a tiny slice of overall training data, and any single data source—including The New York Times—is not significant for the model’s intended learning.”
+The company argued that using content available on the internet to train its models constitutes fair use “as supported by long-standing and widely accepted precedents.”
+“We view this principle as fair to the creators, necessary for innovators, and critical for US competitiveness,” the company said.
+“While defendants engaged in wide-scale copying from many sources, they gave Times content particular emphasis when building their LLMs, revealing a preference that recognizes the value of those works,” the lawsuit states.
+However, according to OpenAI, there are multiple entities and academic institutions that have submitted comments to the US Copyright Office arguing for fair use.
+“Other regions and countries, including the European Union, Japan, Singapore, and Israel also have laws that permit training models on copyrighted content, an advantage for AI innovation, advancement, and investment,” OpenAI said.
+“So we have measures in place to limit inadvertent memorization and prevent regurgitation in model outputs,” OpenAI said. “We also expect our users to act responsibly; intentionally manipulating our models to regurgitate is not an appropriate use of our technology and is against our terms of use.”
+The lawsuit argued that there are numerous examples of how the AI programs copied The New York Times’s content verbatim, in addition to attributing incorrect information to the media source.
+“Using the valuable intellectual property of others in these ways without paying for it has been extremely lucrative for defendants,” the lawsuit states. “Microsoft’s deployment of Times-trained LLMs throughout its product line helped boost its market capitalization by a trillion dollars in the past year alone.”
+But OpenAI said The New York Times isn’t “telling the full story.”
+Their last communication was on Dec. 19, OpenAI said, which came after a series of negotiations focusing on “a high-valued partnership.”
+“We had explained to The New York Times that, like any single source, their content didn’t meaningfully contribute to the training of our existing models and also wouldn’t be sufficiently impactful for future training,” OpenAI said. “Their lawsuit on December 27—which we learned about by reading The New York Times—came as a surprise and disappointment to us.”
+The media publication informed OpenAI of regurgitations of content—which the company said it takes seriously—but didn’t provide examples, OpenAI said.
+“Interestingly, the regurgitations The New York Times induced appear to be from years-old articles that have proliferated on multiple third-party websites,” OpenAI said. “It seems they intentionally manipulated prompts, often including lengthy excerpts of articles, in order to get our model to regurgitate.
+The article describes a Navy computer named Perceptron that was being designed to “perceive, recognize and identify its surroundings without human training or control.”
+Now, over 60 years later, AI has become a reality, while simultaneously bringing about ethical dilemmas and legal issues surrounding its use.
+According to the BakerHostetler law firm, there has been “a flurry of copyright litigations” since the rise of AI, with 10 lawsuits currently filed and more expected.
+In response to The Epoch Times’ request for comment, Ian Crosby, partner with Susman Godfrey and lead counsel for The New York Times, said: “The blog concedes that OpenAI used The Times’s work, along with the work of many others, to build ChatGPT.

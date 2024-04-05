@@ -1,0 +1,17 @@
+The Attorney General’s Office Election Law Unit launched an investigation into the source of the Jan. 21 phone calls late last month, working in coordination with state and federal partners, including the Anti-Robocall Multistate Litigation Task Force and the Federal Communications Commission Enforcement Bureau.
+Investigators subsequently linked the phone calls to a Texas-based firm called Life Corporation and an individual named Walter Monk, Mr. Formella’s office said.
+Mr. Formella said a cease-and-desist letter has been sent to the company for violating voter suppression laws, including RSA 659:40, III, which “prohibits any person from engaging in voter suppression by knowingly attempting to prevent or deter another person from voting or registering to vote based on fraudulent, deceptive, misleading, or spurious grounds or information.”
+Additionally, his Office’s Election Law Unit is issuing subpoenas to Life Corporation for documents and records.
+The Epoch Times was unable to reach Life Corporation for comment.
+“Ensuring public confidence in the electoral process is vital. AI-generated recordings used to deceive voters have the potential to have devastating effects on the democratic election process,” said Mr. Formella in a statement.
+He also thanked the various task forces that coordinated with his office during the probe, stating that their partnership and fast action “sends a clear message that law enforcement, regulatory agencies, and industry are staying vigilant and are working closely together to monitor and investigate any signs of AI being used maliciously to threaten our democratic process.”
+Mr. Formella did not state which AI software was used to produce the fake robocalls in New Hampshire but noted his office is aware of reports that the recorded message was likely made using software from ElevenLabs.
+His office is probing the reports, the attorney general said.
+They began with President Biden’s famous catchphrase “What a bunch of malarkey” before encouraging recipients not to participate in the New Hampshire Primary and to instead save their votes for the November Presidential elections.
+“You know the value of voting Democratic,” the phone calls continued. “Our votes count. It’s important that you save your vote for the November election. We'll need your help in electing Democrats up and down the ticket.
+“Voting this Tuesday only enables the Republicans in their quest to elect Donald Trump again. Your vote makes a difference in November, not this Tuesday. If you would like to be removed from future calls, please press two now,” the recording continued.
+The robocalls also illegally spoofed their caller ID information to appear to come from a number belonging to a former New Hampshire Democratic Party Chair.
+Mr. Formella’s office said that traceback technology also found that Texas-based Lingo Telecom was the voice service provider for many of the calls.
+After Lingo Telecom was informed that the fake calls were being investigated, it suspended services to Life Corporation, the AG said.
+Lingo Telecom was also subpoenaed by the New Hampshire AG’s office.
+The Federal Communications Commission’s (FCC) Enforcement Bureau also ordered the company to stop permitting illegal robocall traffic on its networks.

@@ -1,0 +1,19 @@
+Iranian and Russian hackers have been “ruthlessly” trying to steal sensitive information from British journalists and politicians, the UK’s cyber security watchdog has warned.
+“The Russia-based SEABORGIUM (Callisto Group/TA446/COLDRIVER/TAG-53) and Iran-based TA453 (APT42/Charming Kitten/Yellow Garuda/ITG18) actors continue to successfully use spear-phishing attacks against targeted organisations and individuals in the UK, and other areas of interest, for information gathering activity,” NCSC’s alert stated.
+The attacks are not aimed at the general public but target specific sectors, including academia, defence, government organisations, NGOs, think tanks, as well as politicians, journalists, and activists, the watchdog said.
+The NCSC advisory recommended organisations and individuals remain vigilant to approaches and follow the mitigation advice to protect their online accounts from compromise.
+According to the NCSC, SEABORGIUM and TA453 conduct reconnaissance on social media and professional networking platforms and identify hooks to engage their target.
+They have also created fake social media or networking profiles that impersonate respected experts and used supposed conference or event invitations, as well as false approaches from journalists.
+Both groups use webmail addresses from different providers (including Outlook, Gmail, and Yahoo) in their initial approach, impersonating known contacts of the target or eminent names in the target’s field of interest or sector.
+The actors have also created malicious domains resembling legitimate organisations to appear authentic.
+NCSC Director of Operations Paul Chichester said: “The UK is committed to exposing malicious cyber activity alongside our industry partners and this advisory raises awareness of the persistent threat posed by spear-phishing attacks.
+“These campaigns by threat actors based in Russia and Iran continue to ruthlessly pursue their targets in an attempt to steal online credentials and compromise potentially sensitive systems.
+“We strongly encourage organisations and individuals to remain vigilant to potential approaches and follow the mitigation advice in the advisory to protect themselves online.”
+The centre advised the use of strong passwords, multi-factor authentication, and email vigilance including disabling mail-forwarding to reduce the risk of being hacked.
+In November 2020, then-Prime Minister Boris Johnson announced the formation of the National Cyber Force (NCF), which would work alongside the NCSC and conduct cyber operations to disrupt hostile state activities, counter-terror plots, and support military operations.
+While the latest alert is about Russia and Iran, the NCSC has previously highlighted the threat from the Chinese Communist Party (CCP) regime.
+The NCSC’s sixth annual review, published in November 2022, named regimes in Russia, China, Iran, and North Korea as presenting “the most acute cyber threat to the UK and its interests.”
+She warned that the UK can’t take its eyes off China, saying: “While the threat from Russia has been particularly obvious over the last year, it’s important not to forget that China’s technical development and evolution—the scale and pace of what they are able to do—is still likely to be the single biggest factor affecting our cybersecurity in the years to come.”
+The NCSC said UK organisations haven’t been significantly impacted by the cyber front of Russia’s invasion of Ukraine but cautioned against complacency as Russia “continues to be a persistent and active threat to the UK and its interests.”
+The cybersecurity watchdog also stated that the Chinese regime poses the biggest threat to the UK’s cybersecurity in the coming years.
+It stated that China has put “significant resources” into emerging tech research and development, including artificial intelligence, quantum computing, and semiconductors, in order to achieve “technical supremacy.”

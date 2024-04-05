@@ -1,0 +1,20 @@
+Chinese netizens mocked Chinese artificial intelligence (AI) companies for their recent launch of ChatGPT copycats.
+The public launch of the AI chatbot ChatGPT has created a sensation inside China, despite Chinese Internet users needing to break through the Great Firewall to access it.
+Expected to be a tool to improve office and learning efficiency, ChatGPT can learn and analyze human languages to carry out conversations, interact with people, and even complete tasks such as writing emails, video scripts, copywriting, translating, and coding.
+A recent study conducted by investment bank UBS estimated that the number of monthly active users likely exceeded 100 million at the end of January this year, only two months after its launch, making it the fastest-growing app in history.
+There have been heated discussions on whether advanced AI products will gradually take control of human behavior and replace certain jobs, increasing the unemployment rate.
+Baidu, Alibaba, Tencent, Xiaomi, ByteDance, and Kuaishou are among the online technology companies that have already begun R&D in the same field.
+Baidu announced on Feb. 13 that it is testing it’s ChatGPT-like chatbot, “ERNIE Bot,” which is set to be released in March.
+Yuan Yu, a technology company in China that focuses on AI, unveiled its AI-powered chatbot, “ChatYuan,” on Feb. 3. The company’s official website claims that ChatYuan has the ability to respond to inquiries in multiple areas, such as law and health, and can also aid in creative writing.
+Chinese news portal Sina proudly declared that Yuan Yu was the first Chinese AI company that dared to challenge ChatGPT, but three days after its launch, ChatYuan’s app page became unavailable.
+State media China Business Network later said that ChatYuan was “botched up” shortly after making the first attempt to compete with its U.S. counterpart.
+Some users ended up with a “failure page” that stated, “the app ChatYuan has suspended its service due to alleged violation of relevant laws, regulations, and policies,” according to the report.
+Yuan Yu has not yet responded to the reports on its poor performance.
+Many have been chatting with ChatGPT by circumventing China’s internet blockade, and the replies have made viewers laugh.
+When a Chinese netizen asked, “When will China unify Taiwan?” ChatGPT replied, “I don’t know which region will be occupied, but eventually, it will be the advanced system that unifies the backward, the civilized that unifies the barbaric.”
+Some netizens tried Baidu’s copycat and shared their experience on Chinese social media.
+“After trying Baidu’s copycat ChatGPT, [I found] that its ‘awesomeness’ lies in the fact that not only the input text cannot include any censored words, the generated answers cannot have any censored words either,” a user wrote.
+Another person expressed his concerns: “How can Chinese firms compete in this race … the number of forbidden words is simply too large.”
+A netizen named Jia Jia commented: “In a country where all Internet content is manually reviewed and censored, won’t the artificial intelligence develop an artificial‘ intellectual disability’ in the end?”
+There are also people who mock Chinese tech firms for always boasting of being the tier-one technology in the world.
+A netizen pointed out that censorship in China is the biggest setback for AI-powered chatbots.

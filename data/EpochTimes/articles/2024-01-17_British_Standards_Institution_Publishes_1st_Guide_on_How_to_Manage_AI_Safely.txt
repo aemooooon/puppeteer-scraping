@@ -1,0 +1,8 @@
+The British Standards Institution (BSI) has published the first international standard on how to safely manage artificial intelligence amid growing concerns about its potential risks.
+Ms. Taylor Martin said BSI wanted to be at the forefront of “ensuring AI’s safe and trusted integration across society.”
+Judy Slatyer, head of Australia’s National AI Centre, said last month: “In 2024, hundreds of millions of people will be using the increasingly advanced features of AI in their everyday work and life. Already some 54 percent of global consumers are using AI every day and we’ll see this increase significantly next year.”
+The BSI said they published the new standard amid an ongoing debate about the need to regulate AI, which has been spurred by the release of tools such as ChatGPT.
+In a press release, the BSI said the threats posed range from “AI being used to create malware for cyber attacks” to a “potentially existential threat to humanity, if humans were to lose control of the technology.”
+At the summit, Prime Minister Rishi Sunak announced he would be creating the world’s first AI safety institute, which would build on the work of the Frontier AI Taskforce, a research team dedicated to evaluating the risks posed by the technology.
+Mr. Sunak highlighted the task force’s progress in securing “privileged access” to the proprietary technology models of leading AI giants such as Google DeepMind, Anthropic, and OpenAI.
+But he said, “Consumers and industry need to be confident that in the race to develop these new technologies we are not embedding discrimination, safety blind spots or loss of privacy.”

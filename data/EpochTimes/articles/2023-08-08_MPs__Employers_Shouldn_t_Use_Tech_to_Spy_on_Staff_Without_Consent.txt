@@ -1,0 +1,25 @@
+Employers should be banned from using computers and artificial intelligence (AI) to spy on workers without their consent, MPs have recommended.
+The group, which launched an inquiry into the increasing prevalence of smart and connected technology earlier this year, found that the increased use of robotics in workplaces across Britain could have “negative impacts” on employees including heightened stress.
+The DCMS committee has now urged the government to commission research to improve the evidence base of the use of automated and data collection systems at work.
+MPs also want more detailed guidance from the Information Commissioner’s Office on a principles-based code for designers and operators of workplace-connected tech.
+“Industrial robotics and AI are being deployed in ‘smart workplaces’ ranging from offices and vehicles to smart factories and warehouses,” the committee said.
+“However, the introduction of connected tech in workplace environments can also have negative impacts on employees.
+“The monitoring of employees in smart workplaces should be done only in consultation with, and with the consent of, those being monitored.”
+MPs heard from a range of experts that the use of AI had the potential to impact “the nature of the employer/employee relationship and its inherent power imbalance.”
+The committee heard that technology was being used in settings such as warehouses for “the micro-determination of time and movement tracking through connected devices.”
+It focused on devices that displayed wireless connectivity to other devices and systems via the internet, and remote and/or autonomous operation.
+While recognising that connected tech has a range of benefits, including improved efficiency, safety, security and health, the committee found a range of risks and harms associated with their use, including a loss of privacy, operational unpredictability and unfairness, online safety concerns and broadening patterns of domestic abuse.
+During the scope of the inquiry, the panel heard from a range of experts who gave evidence on tech and data concerns raised from within a variety of sectors.
+MPs were told of a trial by police forces in Devon, Cornwall and Dorset, that saw officers given Fitbit activity monitors.
+The programme was meant to boost physical activity but led those involved to “feelings of failure and guilt when goals were not met.”
+The committee also warned that “smart” technology such as home security systems are being used to control victims of domestic violence.
+The report said: “We have found that tech abuse is becoming increasingly common.
+“While there is no ‘silver bullet’ for dealing with tech abuse, the Government can take more steps to tackle it by improving the criminal justice response, raising public awareness and convening industry to ensure manufacturers and distributors are mitigating risks through product design.”
+Speaking about the findings, Tory chair of the committee Dame Caroline Dinenage said that while the rising popularity of connected technology brought “undoubted benefits” the flip side is the “real risk some of these gadgets pose to privacy and personal safety online.”
+“The Government must make it a priority to work with manufacturers to tackle this technology-facilitated abuse, which is only going to get worse in the future,” she said.
+“Connected devices also harvest a large amount of personal data and there are particular concerns where children are involved.
+“The Government and Information Commissioner’s Office should make sure products used in schools and by young people at home have privacy settings that are intuitive for children and have age-appropriate terms and conditions.”
+Speaking to Westminster’s Human Rights Joint Committee, Jeremias Adams-Prassl said “dark use” of the technology in the UK will grow unless legislation is implemented.
+The Oxford academic—who specialises in law and AI ethics—said AI could be used by employers to not only hire and fire staff, but “predict” when workers will exercise certain rights or even life choices.
+Citing examples from the United States, Mr. Adams-Prassl said some employers had used predictive analytics to determine how likely an employee is to join a trade union.
+He also laid out concerns that companies could also use the technology to discriminate during interview stages, such as determining when a woman is most likely to have children.

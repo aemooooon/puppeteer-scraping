@@ -1,0 +1,36 @@
+Nadia Alaee and her team are on the lookout for people that can bring artificial intelligence (AI) skills into the HR team at Deel, a San Francisco-based software company. 
+She says the administrative work around staff leaving and arriving at the firm could be "streamlined" using AI.
+It's not just in the HR team that Ms Alaee is on the lookout for AI skills; the company is searching for anyone that has experience of tools such as ChatGPT, the generative AI software created by OpenAI, in both technical and non-technical roles. 
+"If someone can come in with knowledge of AI tools and teach team members how to use them for specific tasks then that's a huge asset for us," says Ms Alaee, a senior director at the firm.
+The latest wave of AI tech hit in late 2022, with a public version of ChatGPT, but rivals are multiplying and include Google's Bard and Claude from Anthropic.
+Called generative AI, this form of artificial intelligence can produce all sorts of content - from computer code, to artwork, to essays. The material is not always perfect, but is cheap and quick to produce, making it attractive to businesses. 
+Job posts mentioning AI or generative AI have, globally, more than doubled in the past two years, according to a report by LinkedIn.
+LinkedIn also found that two in five UK workers (38%) predicted a significant change to their jobs in their next year because of AI, and while the majority (76%) are excited about this change, over a third (36%) admit to feeling overwhelmed by the amount there is to learn.
+A separate report by software company ServiceNow, found a similar proportion of office workers (41%), admit to currently lacking the technical abilities needed to work alongside and use AI systems.
+According to Ngaire Moyes, UK country manager at LinkedIn, AI can "help remove the drudgery from day-to-day work, improve productivity and free-up time for more strategic and creative work".
+The efficiency benefits are even more pertinent for smaller businesses.
+"At a fast-growth, early-stage company, our two biggest constraints are time and resources," says Deirdre McGettrick, chief executive and co-founder of ufurnish.com, a UK online furniture comparison website with 16 employees.
+"AI can help propel the business forward at a much quicker rate of output without requiring increased resources," she says.
+Ms McGettrick has two uses for AI. The first is for content, where instead of outsourcing work to copywriters, existing team member use ChatGPT to write the copy. That copy is then checked by a member of staff before it is published on the website.
+The second use is for software development.
+"We look to hire software engineers who can use AI to write code," she says.
+More technology of business
+Meanwhile, many of Deel's employees are already using AI tools to help support both managers and staff in writing performance reviews.
+Ms Alaee believes that AI helps some staff write more in-depth responses to questions, by giving them more confidence in their writing.
+The downside of Deel's use of AI for performance reviews is that the process is less personalised. 
+"There's a level of human input required when we're using these AI tools to make sure we're tailoring the response to that person or situation so it doesn't feel robotic, generic or like a checkbox exercise," says Ms Alaee. 
+Companies will also want to ensure that by using AI tools, they don't put themselves at risk of legal or security breaches, lose the culture of the organisation or the value of human expertise.
+"If you're just using the technology to do all of the work, it can be a detriment to you and your team members, as there could be misinterpretations, work that goes against company policies, or errors as a result of bias within AI," says Ms Alaee. "And the employees who overuse the tools may not be able to hit their targets [because AI can only go so far]."
+Emma Parry, professor of human resources at the Cranfield School of Management, explains that AI systems are only as good as the data that they are based on.
+"Data is often based on human decisions, meaning we're at risk of replicating or even introducing human biases as we use it. In the workplace, this could lead to discrimination and a reduction in opportunities for individuals from marginalised communities," she says.
+And this is why, at least for the time being, AI is a tool that will help most people to do their jobs better, rather than replace them.
+"Success in many job roles will be reliant on our ability to evolve as we work alongside AI in our day-to-day work life, while organisations will also need to be re-designed and re-created in order to be effective," says Prof Parry. 
+According to LinkedIn, two thirds of UK professionals have not yet been provided with any formal AI training or guidelines from their employer.
+But according to Ms Moyes from LinkedIn, employers aren't expecting everyone to become AI experts, but they are wanting professionals to become AI-literate, which just means understanding how to make use of the tools available to help you do your job better.
+Nevertheless, Paola Dyboski, founder of Dr Zigs, a specialty bubble toy manufacturer based in North Wales, has been surprised by the lack of adoption of AI tools.
+"We work with contractors for our marketing needs and while the awareness of AI is there, I have been surprised at the resistance to learn and use new AI tools," she says.
+So how can workers get the AI skills they need?
+First, by experimenting with many of the free versions of the tools available online.
+"Get familiar with the AI tools available - play with them yourself, read about what is coming out," says Ms Alaee.
+After that there are a huge number of courses available online that focus on understanding the types of tools available and how to use them, as well as tailored courses for particular professions.
+But before rushing to learn about AI tools, business leaders and employees should consider why they think they ought to use AI.

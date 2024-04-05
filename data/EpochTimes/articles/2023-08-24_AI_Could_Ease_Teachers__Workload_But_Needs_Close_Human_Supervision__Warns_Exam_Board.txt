@@ -1,0 +1,12 @@
+Artificial intelligence has the potential to help reduce teacher workload by automating simple marking processes, but needs close human supervision to be effective, said one of the leading UK exam boards.
+AQA researchers trialled AI tools including ChatGPT, GPT4, LLaMA and Alpaca on a range of science papers. Their findings showed that AI could help teachers create tasks and informal assessments for students, such as quizzes.
+For example, teachers could use AI to make a bespoke on-screen quiz on a topic, and then use the tool to mark the students’ responses and offer feedback.
+ChatGPT trial showed there was a potential for AI to create curriculum summary presentations.
+While workload remains one of the biggest factors in teacher recruitment and retention, researchers looked into how AI could reduce it, without compromising the quality of education.
+AI could be useful in helping teachers with shorter pieces of feedback and their distribution to senior leaders and parents. An interactive chatbot, such as ChatGPT, could create a lesson with audio, video and text resources around a given topic, under the teacher’s supervision.
+Alex Scharaschkin, AQA executive director of assessment research and innovation, noted the potential of AI to transform education.
+In its response to the Department for Education consultation, AQA said that certain risks were associated with AI use by teachers.
+AI chatbots and other tools can base their output on wrong and misleading information, otherwise known as hallucinations. AI could be limited in the way it interprets content and perpetuates biases and prejudices if it is informed by unregulated real-world data.
+Mr. Scharaschkin has likened the AI tools to actors in the British medical drama series Casualty, where they learn medical jargon and sound like medical experts but cannot perform surgeries.
+“They will always need close human supervision,” he added.
+AI would struggle to explain how it reached a marking decision, something that teaches and students can request after exam results day. AQA claimed that at present all AI-generated explanations would have to be reviewed by human experts.

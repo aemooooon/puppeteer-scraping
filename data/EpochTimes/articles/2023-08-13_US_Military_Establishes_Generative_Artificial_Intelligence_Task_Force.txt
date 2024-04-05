@@ -1,0 +1,8 @@
+The U.S. Department of Defense said on Aug. 10 that it has established a task force to analyze and integrate generative artificial intelligence (AI) tools, such as large language models, across the department.
+The task force was established under the direction of Deputy Secretary of Defense Kathleen Hicks, and will be led by Craig Martell, the department’s chief digital and artificial intelligence officer.
+Mr. Martell said the United States will need “to identify proper protective measures and mitigate national security risks that may result from issues such as poorly managed training data” when adopting generative AI.
+Col. Strohmeyer said that AI tools could process “secret-level and classified data” within 10 minutes, a significant reduction from the hours or days a human would take to complete such a task.
+Bonnie Jenkins, the State Department’s undersecretary for arms control and international security, said the U.S. political declaration contains guidelines outlining best practices for the responsible military use of AI.
+Ms. Jenkins said that advancements in this technology “will fundamentally alter militaries around the world,” as demonstrated by the Ukrainian army’s application of AI to analyze battlefield situations.
+The report says that “the intensifying geopolitical rivalry between the United States and [China]” is combining with “the rapid development of artificial intelligence technologies, including for military applications.”
+“Taken together, the emergence of military AI will likely deepen U.S.-China rivalry and increase strategic risks.”

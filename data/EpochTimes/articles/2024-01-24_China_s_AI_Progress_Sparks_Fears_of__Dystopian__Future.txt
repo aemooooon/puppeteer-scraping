@@ -1,0 +1,26 @@
+Washington and Beijing have quietly engaged in a dialog surrounding the safe development of Artificial Intelligence (AI), but behind the talks remains fierce competition over the technology’s development and how it should be used.
+U.S. participants included scientists from research organizations like OpenAI, Anthropic, and Cohere, while Chinese experts came from state-run Tsinghua University and other state-funded institutions.
+In November, 28 countries signed the Bletchley Declaration at the first-ever AI Safety Summit in the U.K., concurring in a collective effort to ensure that AI would be used in a “human-centric, trustworthy and responsible” manner.
+The communiqué recognizes that advanced AI models can cause “potential for serious, even catastrophic, harm.”
+China and the United States—the two most competitive rivalries in AI tech—signed the engagement, along with the U.K. European Union, France, Germany, Japan, Kenya, and Nigeria.
+Japanese electrical engineer Li Jixin told The Epoch Times that AI intelligence experts coincidentally have a cautious attitude toward the development of AI as it can potentially harm humanity.
+Facial recognition technology is also used to spy on ordinary citizens. A database leak in 2019 provided a glimpse into the pervasiveness of the Chinese Communist Party’s (CCP) surveillance tools that made more than 6.8 million records in a single day from cameras around hotels, parks, tourist attractions, and mosques.
+Mr. Li believes AI technology is being designed to monitor the nationals because “the CCP is not a democratically elected government and has no natural legitimacy, and the most crucial thing it [CCP] fears is losing its power.”
+AI applications and other technological means would closely monitor people’s words and actions to identify dissenters; thus, they could be targeted by the state, Mr. Li said.
+More than 140 cities worldwide have adopted Chinese facial recognition technology to create “safe cities” and “smart cities” in transportation, logistics, and law enforcement.
+The Republican Square in Belgrade, Serbia’s capital, has also been fitted with Chinese-made surveillance equipment. Huawei’s surveillance system can monitor people’s behavior in the square and elsewhere in the city, recognizing their faces, identifying their license plate numbers, and determining suspicious activity.
+“In this war for hegemony, political power is as important as economic and military power. If other Asian countries tread the path of democracy, it will be easier for the U.S. to maintain its influence in the region. If, however, many Asian nations opt for authoritarianism, the foundations of the U.S.-led liberal order will gradually erode,” he said.
+Researchers at the Center for New American Security warned about the CCP’s overseas expansions in a Politico article on Nov. 30, 2023.
+“The upshot may well be an AI future in which the United States’ and Europe’s painstaking agreements on safe, rights-respecting AI are rendered obsolete by a world already hardwired with Chinese AI systems—winning Beijing favor among non-Western nations and setting de facto authoritarian standards for the technology’s development globally,” they wrote.
+The overall goal is to convince the American people that “this technology isn’t going to be used for evil” and that the U.S. government will stay ahead of the Chinese communists.
+“I think it’s absolutely critical that we do not allow [the CCP] to win this race because they would use it for a techno-totalitarian, dystopian purpose, and the free world needs to be in command of the rules of AI going forward,” he said.
+Over the past years, the United States and China have locked into a fierce race in all aspects of AI technology.
+U.S. companies and organizations have developed most of the world’s major languages and intermodal models. In 2022, China developed only three machine learning systems, while the U.S. created 16, including OpenAI’s DALL-E 2, GPT-3, and Google’s PaLM.
+Conversely, China is the largest importer and semiconductor market, relying on U.S. chips.
+To restrict the advancement of Chinese AI technology, Washington has implemented export controls on high-end chips, preventing advanced chips from falling into the hands of the CCP for the purpose of developing supercomputers or semiconductors for military or other applications.
+Beijing, in a tit-for-tat retaliatory, counter-backed by restricting exports of rare minerals to America.
+Meanwhile, the CCP doubled down on its chip exploration.
+Yet, it needs to value the quality and how advanced the chips made in China are. But “in total AI journal, conference, and repository publications,” China has long held the first place, as indicated in the Artificial Intelligence Index Report 2023.
+Mr. Li pointed out that the Chinese dictatorial regime exercises a prerogative in developing AI that no legalistic countries have, that is, to “arbitrarily obtain and misuse the private information of its citizens.”
+Usually, legalistic countries tend to heed protecting people’s private information, so tech companies cannot acquire substantial personal information for AI training.
+“In China, on the contrary, the populous can’t monitor the government, so the CCP is free to access personal privacies to build up big data for AI training,” he said.

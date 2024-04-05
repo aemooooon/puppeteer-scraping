@@ -1,0 +1,17 @@
+The UK Space Agency (UKSA) wants to hear from anyone with novel ideas for how to track all the pieces of debris now moving in orbit.
+UKSA has £1m to dispense in grants for smart new solutions. 
+There are about 900,000 redundant objects larger than 1cm circling overhead.
+Even the smallest items are capable of doing immense damage to, or even destroying, an operational satellite in a collision.
+The funding is designed to seed further entrants to the UK's burgeoning space start-up sector.  
+"We're looking to support new companies that want to use artificial intelligence and machine learning to better exploit the data that's already out there," explained Jacob Geer, the UKSA's head of space surveillance and tracking (SST). 
+"But the second theme is around new ways to sense and track space objects - in low-Earth orbit (LEO) in particular, because it's in LEO that a lot of the new missions will be going," he told BBC News.  
+Britain has a long history in SST. RAF Fylingdales in North Yorkshire, for example, has been using radar to track space objects for more than 50 years. But as the amount of traffic overhead - especially commercial traffic - increases, ever more sophistication is needed to monitor and understand what's going on.
+Today, satellite operators will sometimes receive a warning that their hardware is at risk of a collision with another object. But this notification can often be either so imprecise in its detail or arrive so close to the moment of possible intersection that it's next to useless. 
+With thousands of new satellites, large and small, to be launched in the coming decade, SST is a field that's ripe for new thinking.
+Under the UKSA funding stream to be announced on Tuesday, companies will be able to bid for a maximum grant award of £250,000.
+The international market for space surveillance and tracking has the potential to reach over £100m by 2035, analysts believe.
+The UKSA hopes that if British businesses are well represented in this sector, it will also give new satellite operators the confidence to choose this country as a base as well.
+"What's exciting here is that if we can get this right; if we can get some assurance about operating safely, it will enable companies to push the boundaries of innovation even further in the types of new missions they intend to launch. If we're able to give them that support, they'll want to come to, and work from, the UK," said Dr Alice Bunn, the UKSA's international director.
+Britain made space safety a priority for itself at the recent European Space Agency Ministerial Council, by pledging more money to the policy area than any other member state. 
+This included a substantial contribution to the ADRIOS (Active Debris Removal/In orbit servicing) programme, which is backing the Swiss-led ClearSpace-1 mission to grab some old rocket hardware and pull it out of the sky.
+Britain is also involved in another debris-capture demonstration called ELSA-d organised by the Japanese start-up Astroscale.

@@ -1,0 +1,13 @@
+The Chinese regime has the largest hacking program in the world, and its artificial intelligence program is built on sensitive data the regime stole over the years, FBI Director Christopher Wray said on Thursday.
+Speaking at the World Economic Forum in Davos, Switzerland, Wray warned of the cybersecurity threats posed by the Chinese Communist Party’s (CCP) use of technological advances against the United States.
+Wray said the artificial intelligence program in China is “built on top of the massive troves of intellectual property” and is not constrained by the same set of laws that apply in the United States and other democracies.
+He said the CCP could use artificial intelligence to advance its hacking program, intellectual property theft, and repression that not only occurs in mainland China but “increasingly is a product that they export around the world” if left unchecked.
+“That’s something we’re deeply concerned about, and I think everyone here should be deeply concerned about,” Wray said at the forum.
+Such concerns have long been voiced by U.S. officials.
+In October 2021, for instance, U.S. counterintelligence officials issued warnings about China’s ambitions in artificial intelligence as part of a renewed effort to inform business executives, academics, and local and state government officials about the risks of accepting Chinese investment or expertise in key industries.
+“China’s economy also gives it leverage and tools, sway over companies. … For many U.S. and foreign companies doing business in China, or looking to, the cost effectively amounts to a blanket consent to state surveillance in the name of security, at best,” Wray said at a cybersecurity talk at Boston College on June 1, 2022.
+“At worst, they’ve got to accept the risk that their sensitive information may be co-opted to serve Beijing’s geopolitical goals,” he said.
+Wray also described how the CCP uses state-mandated tax systems in China to covertly spy on companies on the mainland. He said that Chinese laws require businesses to make use of a small suite of software options for tax purposes, at least one of which was used by the CCP to implant malware into companies’ systems to allow covert government access to the company’s data.
+Aside from direct government intervention, Wray said that China, along with Iran and Russia, is hiring hackers as if they were cyber mercenaries, and providing them with state resources to conduct attacks on the United States on China’s behalf.
+Such actors, he said, frequently target the defense and industrial sectors to cause havoc, deny access, or steal secrets.
+“The Chinese government is methodical, hacking in support of long-term economic goals,” he said.

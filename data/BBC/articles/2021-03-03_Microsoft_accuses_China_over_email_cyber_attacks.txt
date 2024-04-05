@@ -1,0 +1,16 @@
+Microsoft has blamed a Chinese cyber-espionage group for attacks on its mail server software. 
+The tech giant said the hackers belonged to a state-backed group, which was a "highly skilled and sophisticated actor". 
+In a blog post, Microsoft said the hacking campaign made use of four previously undetected vulnerabilities in different versions of the software. 
+The security flaws allowed the hackers to remotely access email inboxes.  
+Microsoft's Threat Intelligence Centre attributed the attacks with "high confidence" to Hafnium, a group assessed to be state-sponsored and operating out of China.  
+It based its conclusion on "observed victimology, tactics and procedures".
+Microsoft said Hafnium targets infectious disease researchers, law firms, higher education institutions and defence contractors.  
+Policy think tanks and non-governmental groups have also been targeted. 
+This is the eighth time in the past 12 months that Microsoft has publicly accused nation-state groups targeting institutions critical to civil society. 
+Although Hafnium is based in China, it conducts its operations primarily from leased virtual private servers in the US, Microsoft said. 
+Separately, Microsoft said it has observed Hafnium interacting with users of its Office 365 suite.
+The company has released software updates aimed at addressing the vulnerabilities in its software. 
+Microsoft said the attack was in no way related to the SolarWinds attack, which hit US government agencies late last year. 
+While many US tech firms have had a tumultuous relationship with the Chinese government, Microsoft has maintained a mainland presence since 1992. 
+Unlike Facebook and Twitter, Microsoft's business-oriented social media platform LinkedIn is still accessible in China. 
+So too is its search engine Bing, although locally-grown Baidu dominates the search market. 

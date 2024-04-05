@@ -1,0 +1,15 @@
+New Zealand could soon be using artificial intelligence (AI) to control invasive species populations.
+Predator control traps based on AI technology are currently being tested in parts of New Zealand to protect its native wildlife, such as the kea and kaka birds.
+The fully automated kill traps developed by Critter Solutions trigger only when the AI recognises the animal as a pest species.
+Project leader Helen Blackie, from the environmental planning and consultancy firm Boffa Miskell, described the technology as the first of its kind.
+“These traps are the first to be able to effectively ‘think for themselves’ and make a decision as to whether an interacting animal is a target pest species or not,” she said.
+“A key technical success has been developing the trap so that it is extremely fast at triggering when an animal is recognised—within a fraction of a second—after detecting the presence of a pest.”
+Importantly, such traps wouldn’t pose any danger to the species that are protected, with the AI able to identify native birds such as the kiwi and weka.
+They also don’t require a physical trigger to activate the trap.
+“Traditional traps also require the pest to push, pull, or stand on a trigger to activate the trap, which can further reduce catch rates,” Ms. Blackie said. “By using AI, we can do away with manual triggers completely.”
+The traps are designed to be left out in the wild for long periods before any maintenance is required—they are self-resetting, self-luring, and don’t require much power. It can also be set to a “passive” mode to collect data on native species.
+“We use our AI monitoring cameras trained on the traps, which show us the approaching species in real-time, then we get a notification of the trap triggering, which species it was, and a further notification that the trap has reset and is ready and waiting for the next animal,” Ms. Blackie said.
+“We have enough data from the first field trials already to prove the trap’s effectiveness for possums, which is hugely exciting. Every time the fully automated trap has identified a possum and triggered has resulted in a successful kill,” he said.
+“In our first night testing in the field, the trap had recognised and killed its first possum within an hour, and then its second, a few hours afterwards, highlighting the benefit of the open design of the trap to increase animal interaction rates, which was very exciting for the research team.”
+The new traps, scheduled to be rolled out in 2024, are expected to help New Zealand meet its goal of becoming predator-free by 2050, an initiative launched by the former National government in 2016.
+“Rats, possums, and stoats kill 25 million of our native birds every year, and prey on other native species such as lizards and, along with the rest of our environment, we must do more to protect them,” former Prime Minister John Key said during the announcement, adding that the invasive pests cost the economy around $3.3 billion a year.

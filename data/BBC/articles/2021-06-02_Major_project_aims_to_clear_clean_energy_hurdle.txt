@@ -1,0 +1,27 @@
+A major project aims to overcome a barrier to electricity grids that are entirely supplied by renewable energy.
+Output from wind turbines varies because wind speeds fluctuate; output from solar cells changes according to cloud cover and other factors.
+This is called variability, and overcoming it is crucial for increasing the share of renewables on the grid.
+A group of leading nations will invest $248m over the next decade to solve the issue by 2030.
+The effort has emerged from a clean-tech research programme called Mission Innovation (MI). 
+Environmentalists say the sum’s a fraction of the many trillions of dollars of damages that climate change is projected to wreak on society, unless it’s curbed.
+But the 23 member governments involved in the programme are spending US$5.8bn per year more than in 2015 – and they say they’ll commit more public funds to clean tech if they can afford it.
+Solutions to the variability problem will include energy storage; for example, smart power systems which respond to changes in demand; advanced controls and artificial intelligence.
+Those behind MI say that half of the global emissions reductions required to achieve climate targets by 2050 depend on technologies that exist today, but are only at demonstration or prototype phase.
+These include hydrogen power, advanced battery storage and zero-emission fuels.
+Solar power and wind power are already widely affordable, but the statement says nations need to develop whole energy systems to match.
+The other main areas of the group’s research will be hydrogen power, shipping, long-distance transportation, and carbon dioxide removal from the air.
+Members of the partnership include the US, UK, the EU and China.
+Each member has agreed to open three “hydrogen valleys” - clusters of industries powered by clean hydrogen fuel. 
+A few of the partners want to produce some of this hydrogen by splitting it from natural gas, and seizing the CO2 emissions by carbon capture technology.
+Environmentalists say this fossil fuel hydrogen is an inefficient technology being promoted by the oil and gas industry. They want to derive all hydrogen from renewable electricity.
+The project also says it will help develop ships capable of running on zero-emission fuels such as green hydrogen, green ammonia, green methanol, and advanced biofuels.
+Tom Burke from the climate think tank E3G told BBC News: “John Kerry, Bill Gates, et al. are wrong about the importance of R&D [research and development]. Deployment of what we already have is what matters and for which we need big bucks.”
+Jennie Dodson, head of secretariat at MI, told BBC News: “There’s recognition that more investment is still needed – but all the countries in MI are committing to maintain and seek to increase wherever possible."
+She said R&D investment levels were always smaller than infrastructure spending, but act as a catalyst for investment.
+She gave two examples. One is a $5m prize for cooling buildings which produced technologies delivering cooling that's five times more efficient.
+The other is the announcement, in 2016, that the Swedish government would work with industries to pilot fossil fuel-free steel manufacturing. 
+“They've provided around 50 million euros for pilot scale plants, with additional funding from industry", she said. "The Swedish government’s support has provided political backing and financial de-risking of the initial demonstration phases of these projects. 
+“This is now leading to billions of dollars investment by the industry - and influencing other steel manufacturers and companies to develop fossil-free steel manufacturing.” 
+Mission Innovation was first launched in parallel with the 2015 Paris agreement on climate.
+A recent analysis from the development charity Tearfund, the International Institute for Sustainable Development and the Overseas Development Institute showed that G7 nations were still channelling more cash to fossil fuel firms than to renewables.
+This included Covid-19 grants to the aviation and car industries, which received $115bn from the G7 countries. Of that, 80% was given with no attempt to force the sectors to cut their emissions in return for the support.

@@ -1,0 +1,18 @@
+As generative Artificial Intelligence (AI) has become the next big thing in computing, Nvidia CEO Jensen Huang on Monday said anyone can become a computer programmer without the need to write code.
+Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio, and synthetic data.
+The ability to tell an AI system what to create and then the AI will do the coding is bridging what Huang called the “digital divide.” The result will be a new era where anyone can program computers.
+During a speech at the Computex forum in Taipei, Huang said AI was leading a computing revolution.
+“The programming barrier is incredibly low. We have closed the digital divide. Everyone is a programmer now—you just have to say something to the computer,” he said in a speech.
+Huang noted that the rapid pace of development in AI will have far-reaching effects on society.
+“The rate of progress, because it’s so easy to use, is the reason why it’s growing so fast. This is going to touch literally every single industry.”
+Nvidia considers generative AI to be the most significant computing platform of our time, as individuals and companies develop new applications and harness the power of generative AI in the process.
+Generative AI enables creative professionals to generate images from text prompts, assists programmers in application development and debugging, and allows architects to transform 2D floor plans into 3D models.
+Unlike traditional models of computer application development that require new hardware and applications to adapt to advancements like AI, Huang said generative AI has the capability to both enhance existing applications and facilitate the creation of new ones.
+“Every single computing era you could do different things that weren’t possible before, and artificial intelligence certainly qualifies,” Huang remarked.
+Chips made by Nvidia have helped companies such as Microsoft add human-like chat features to search engines such as Bing.
+Huang demonstrated what AI could do, including getting a program to write a short pop song praising Nvidia with only a few words of instruction.
+He unveiled several new applications, including a partnership with the world’s largest advertising group WPP for generative AI-enabled content for digital advertising.
+Nvidia has become the world’s most valuable listed semiconductor company as a major supplier of chips and computing systems for artificial intelligence.
+The company last week forecast second-quarter revenue more than 50 percent above Wall Street estimates and said it was boosting supply to meet surging demand for its artificial intelligence chips, which are used to power ChatGPT and many similar services.
+AI’s frenzy has catapulted Nvidia to an almost trillion-dollar market capitalization—a status currently held by only five companies, including Microsoft and Apple.
+Nvidia has strained to meet the demand for its AI chips, with Tesla CEO Elon Musk, who is reportedly building out an artificial intelligence startup, last week telling an interviewer that the GPUs are “considerably harder to get than drugs.”

@@ -1,0 +1,26 @@
+What happens when thousands of hackers gather in one city with the sole aim of trying to trick and find flaws in artificial intelligence (AI) models? That is what the White House wants to know. 
+This week at the world's largest annual hacker convention - Def Con 31 in Las Vegas - big tech are opening up their powerful systems to be tested side by side for the first time. 
+Under the spotlight are large language models, those helpful chatbots like OpenAI's ChatGPT and Google's Bard.
+Dr Rumman Chowdhury, chief executive of Humane Intelligence and a Responsible AI Fellow at Harvard is one of the organisers of the event. 
+She told BBC News they have designed a competition to "identify problems in AI systems" and "create independent evaluation". She says the event will be a safe space for companies "to talk about their problems and how we solve them". 
+Meta, Google, OpenAI, Anthropic, Cohere, Microsoft, Nvidia and Stability have been persuaded to open up their models to be hacked to identify problems. 
+Dr Chowdhury says companies know many things can go wrong, so the competition is a way to find out what happens when a determined set of hackers challenge their models against the clock.  
+The organisers estimate that over two-and-a-half days, 3,000 people working alone at one of 158 laptops will each be given 50 minutes to try to find flaws in eight large language AI models. 
+Contestants will not know which company's model they are working with, although experienced ones might be able to guess. Completing a successful challenge earns points and the person with the highest overall total wins. 
+The prize is a powerful piece of computing kit, a graphics processing unit, but perhaps more important according to Dr Chowdhury will be the "bragging rights".
+One of the challenges asks hackers to get a model to hallucinate or invent a fact about a political person or major figure. 
+Dr Seraphina Goldfarb-Tarrant, head of AI safety at Cohere, says while it is known that models can make up facts, it is not clear how frequently it occurs. 
+"We know models hallucinate information, but it will be useful to raise awareness of how often that happens. We still don't know," she said.
+The consistency of the models will also be tested, and Dr Goldfarb-Tarrant says there are concerns about how they work across different languages.
+"The safety guards are not working in different languages and people think they are." 
+For example, she says if you ask various large language models in English how to join a terror organisation they will not give you an answer, because of a safety mechanism. However, ask the model in a different language and it gives a list of steps to follow. 
+Dr Goldfarb-Tarrant has been getting Cohere's models ready for the event, and says despite their robustness, "it doesn't mean there aren't vulnerabilities in our models, we just haven't found them yet".
+This event has the support of the White House. In May it announced the exercise, saying it would "provide critical information to researchers and the public about the impacts of these models, and will enable AI companies and developers to take steps to fix issues found in those models".
+The pace at which the companies have been developing their tools has prompted fears over the spread of disinformation, especially ahead of next year's US presidential election. In July, seven leading artificial intelligence companies committed to voluntary safeguards to manage the risks posed by the tech, but legal safeguards will take longer to be agreed. 
+Dr Chowdhury says there is "a regulatory arms race happening right now", and this event is a way of highlighting current AI problems rather than existential threats. 
+She says it is less about asking if AI can set off a nuclear weapon, but more about challenging the systems "to see whether they have embedded harms and biases". 
+"For instance do they lie to us, make up fake capital cities, lie about whether they are qualified medics, make up a piece of political information that is completely fake?" she said.
+Dr Goldfarb-Tarrant wants the focus for regulation to be addressing current problems. She wants governments "to spend them time regulating AI now to prevent misinformation".
+Dr Chowdhury wants to know: "What happens when, or if, we do find problems with these models. What is going to be the response of tech companies?
+"If we cannot create simple AI machine-learning predictive models that are free of bias and discrimination, then we're not going to have the more complex artificial generative intelligence models of the future free of those issues." 
+Once the challenge has been completed the companies will be able to see the data gathered, and respond to any flaws highlighted. 

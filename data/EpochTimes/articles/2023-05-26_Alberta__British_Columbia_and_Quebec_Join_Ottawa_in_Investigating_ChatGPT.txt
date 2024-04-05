@@ -1,0 +1,4 @@
+Alberta’s privacy authority says the joint investigation would see if OpenAI, which is the parent company of ChatGPT, obtained valid consent from Canadians to collect, use and disclose their personal information via its chatbot.
+ChatGPT, which was launched in November, uses already existing information on the internet and responds to questions from users in a conversational manner.
+The privacy authorities say they will also investigate if the U.S.-based company followed its obligation to transparency, access, accuracy and accountability.
+Privacy Commissioner of Canada Philippe Dufresne has said artificial intelligence and its effects on privacy are a top priority.

@@ -1,0 +1,18 @@
+The Boston Dynamics robot Spot can now be fully remote-controlled from anywhere in the world, using a web browser-based platform called Scout.
+Previously, Spot was controlled via a bespoke tablet, which meant the operator had to be nearby, said the firm's vice president Michael Perry.
+Boston Dynamics said it had sold 400 Spot robots in the last year.
+They are being used in construction, deep underground mines, nuclear power plants and offshore oil rigs.
+Despite relatively limited sales to date, the company's new owner believes there is huge potential for the business.
+Two months ago, Hyundai bought an 80% controlling share of Boston Dynamics from Softbank, in a deal which valued the robotics firm at $1.1bn (£810m). 
+Google's parent Alphabet had sold the enterprise to Softbank in 2017 for the much lower reported sum of about $100m.
+A video of Spot "sitting" itself down onto a charging dock, using a skipping rope, opening doors, moving objects and climbing stairs was released to mark the latest development.
+The basic model costs $74,500 (£55,000).
+The robots are commonly used to patrol sites and gather data, the firm said.
+Using Scout, the robot can now be controlled remotely with either a keyboard or a joystick, via a web browser. 
+If Spot falls out of communication range, it will retrace its steps until the last point at which it received a signal, said Chris Bentzel, Scout's engineering lead.
+Scout controls include:
+By highlighting an area of the camera display on screen, Spot's camera can zoom in on it.
+However, companies will need to take safety precautions if they intend to use the robot without anyone physically close by to supervise it.
+"Our measure of success is not that we can make the robot work, but [whether] you can," said chief executive Robert Playter.
+The machine can now also ship with a 1m (3.3ft)-long  arm attached to its body. This can pick things up, pull things along and open doors.
+The arm had been shown off before, however it can only be added or removed by Boston Dynamics and costs extra. 

@@ -1,0 +1,12 @@
+A waste management company is trialling the use of artificial intelligence (AI) to sort plastic waste.
+Grundon has invested in a robotic arm at its Bishop's Cleeve site in Gloucestershire which can pick rubbish at "a human rate".
+The Zen Robotics machine learns to remember plastic in a similar way to which humans learn to recognise items.
+The company hopes the technology will increase the volume of recyclable material Grundon can capture.
+The 'Fast Picker' arm is supplied by Helsinki-based supplier of robotic waste separation technology - Zen Robotics.
+It works by scanning rubbish on a belt before deciding which items to pick - the robot then has an "in-belt brain" of information which it retains through training.
+Over time, as more items are picked, the "brain" identifies more waste streams, storing the information in its AI memory.
+Government statistics show the UK generated almost 44 million tonnes of commercial and industrial waste in 2018.
+The latest available estimate for England - in 2020 - was almost 34 million tonnes.
+Once plastic trials are complete, Grundon will begin training the robot to pick steel or aluminium cans, paper and cardboard.
+Ed Fagan, Grundon's head of projects, said: "Both optical and robotic sorters can be deployed alongside humans in our waste sorting facilities.
+"But where we can really see robotic sorters making a difference is in environments which are less well suited for humans, such as the sorting of contaminated waste or working in areas with high levels of noise and dust."

@@ -1,0 +1,18 @@
+Twitter owner Elon Musk said Saturday that the social media platform will limit how many tweets users can read due to “extreme” levels of system manipulation and data scraping.
+The limits rise to 1,000 posts per day for existing unverified accounts, meaning ones without a blue checkmark, while verified accounts enjoy ten times the volume, 10,000 posts, per day.
+Meanwhile, the quota for a new unverified account was raised to 500 posts per day.
+Some users expressed disappointment about the throttling.
+“If this does end up causing issues for folks, would you be open to increasing the view limit?” he asked.
+Earlier, Twitter announced it would require users to have an account on the social media platform to view tweets, a move that Musk on Friday called a “temporary emergency measure.”
+Musk said at the time that hundreds of organizations or more were scraping Twitter data “extremely aggressively,” with a negative impact on user experience.
+Musk’s tweet came shortly after Microsoft announced it was removing Twitter from one of its advertising platforms.
+Microsoft did not respond to a request for comment from The Epoch Times on Musk’s lawsuit threat.
+Earlier, Musk joined more than 1,100 individuals, including experts and industry executives such as Apple co-founder Steve Wozniak, in signing an open letter calling on all artificial intelligence labs to pause training of systems more powerful than Chat GPT-4 for at least six months.
+The letter doesn’t call for a halt to AI development in general, just the most advanced systems in what Musk and the other experts described as an act of “merely a stepping back from the dangerous race to ever-larger unpredictable black-box models with emergent capabilities.”
+“Having succeeded in creating powerful AI systems, we can now enjoy an ‘AI summer’ in which we reap the rewards, engineer these systems for the clear benefit of all, and give society a chance to adapt,” the experts said.
+“Society has hit pause on other technologies with potentially catastrophic effects on society. We can do so here. Let’s enjoy a long AI summer, not rush unprepared into a fall,” they argued.
+The Microsoft co-founder threw cold water on the idea of a development pause and suggested a different course of action.
+“I don’t think asking one particular group to pause solves the challenges,” Gates said. “Clearly, there [are] huge benefits to these things … what we need to do is identify the tricky areas.”
+Besides recommending a more surgical approach to addressing the risks of AI by presumably identifying the biggest risks and working on ways to mitigate them, Gates criticized the letter’s vague criteria for enforcement.
+“I don’t really understand who they’re saying could stop, and would every country in the world agree to stop, and why to stop,” Gates told Reuters. “But there are a lot of different opinions in this area.”
+He also acknowledged the possibility that superintelligent or “strong” AIs could, in the future, set their goals that could run counter to the interests of humanity.

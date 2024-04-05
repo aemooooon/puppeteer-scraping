@@ -1,0 +1,42 @@
+Mark Zuckerberg is facing the European Parliament on Tuesday, answering yet more questions about how his company will tackle a scandal over the improper use of Facebook members' data. 
+It's one of several crises engulfing the company in recent months, from Russian propaganda to hate speech. 
+In an effort to answer concerns, he will once again turn to the fact Facebook has been hiring people in droves. 
+Thousands of new workers have been taken on to add a human touch to moderation and verification processes that aren't yet sophisticated enough to solve the problem with computing power alone.
+The company said it now has 15,000 people involved in the community safety effort, well on the way to its stated aim of 20,000. That's double what it had this time last year.
+Tasked with being the defensive line against some of Facebook's worst actors, this team wields significant power - and some see it as imperative that it is representative of the communities most at risk online.
+"It is absolutely critical to have diverse moderators and to know the level of diversity within your moderation team," said Brandie Nonnecke, director at the CITRUS Tech for Social Good Program at the University of California.
+"The more diverse your moderators, the more collectively informed they will be on the nuanced norms underpinning what is and is not considered hate speech among diverse participants on Facebook."
+So who are they?
+It's hard to find out, thanks to the complexity of how Facebook has set about employing thousands of people in a hurry.
+The 15,000 it has hired so far aren't just those removing posts - known as content reviewers - but also engineers, data analysts, and a host of other related jobs.
+Content reviewers so far make up at least 7,500 - the frontline staff that make the initial decision on what stays up and what comes down, if artificial intelligence hasn't caught it first.
+Most - Facebook wouldn't say exactly how many - are not full-time Facebook employees. Instead, the company uses several contracting firms to fill the roles, namely Accenture, Arvato and the Consolidated Contractors Company, known as CCC.
+Facebook said using these firms has helped it scale up its moderation efforts quickly and globally.
+But this also means content reviewers will not be included in Facebook's diversity report, the annual break down of the gender and ethnic make-up of the company.
+Like many other US tech giants, the report reveals an uncomfortable truth: an organisation that is mostly male, and overwhelmingly White or Asian.
+Facebook said it did "welcome, encourage and want people from all backgrounds" to become moderators, but it could not share any practical measure it had in place to achieve that aim.
+Looking down the chain, one of the firms contracted by Facebook, Accenture, was also unable to offer diversity figures for its vast moderation workforce.
+One reason for that, the BBC understands, is that many of the moderation staff used by Accenture (for moderation contracts for other companies) are themselves contracted from further outside agencies.
+Complicating things further, rules on data collection - and to what degree a company can log the ethnicity of its employees - varies in different parts of the world.
+The last time Mr Zuckerberg publicly faced politicians was last month. Two gruelling sessions in front of US intelligence committees.
+Democratic Senator Cory Booker raised concerns about Facebook's newly-acquired workforce.
+"It's a real serious problem that you are an industry that lacks diversity in a very dramatic fashion," Sen Booker told Mr Zuckerberg, asking if the company would be open to an independent audit of its processes - to which the answer was "yes".
+That audit was announced at the start of this month, and is being spearheaded by a coalition of civil rights groups.
+Madihha Ahussain, from Islamic rights group Muslim Advocates, told the BBC details around the scope of the audit were still being worked out. She said the group hoped assessing the diversity of moderators would be part of its work.
+"If they’re not tracking that because they’re bringing on contractors, there needs to be some measure of how equipped these people are to take on these challenges," she said.
+"If they can’t share with us the backgrounds of the people they’re bringing on, what can they share to ensure these people are properly trained?"
+Senator Booker welcomed the audit, but in a follow-up letter to Facebook expressed a desire to watch closely over the speed of progress.
+"If Facebook is truly committed to eliminating harassment and discrimination on its platform and understanding how social media and big data affects underserved communities, then recruiting, hiring, and retaining diverse researchers and data scientists must be an imperative," he wrote.
+Facebook said it took seriously the goal of making sure moderators were able to make sound decisions.
+For instance, it told the BBC it would endeavour to make sure hate speech posted in a certain country would be moderated by someone located in that same country, or at least someone sufficiently familiar with the cultural norms of that area.
+"They need to come from the country," said Guy Rosen, Facebook's head of product, in a briefing session earlier this month.
+"Even between the UK and the US, there's nuances in things that are offensive in English."
+And when it comes to more binary areas of content removal - such as nudity - those tasks are handled all over the world regardless of where they are posted.
+All decisions are supposed to be made within the company's exhaustive policy guidelines, published by the firm earlier this month. 
+To cope, content reviewers get "many hours" of training with a live instructor, including time spent working alongside veteran content reviewers.
+Staff get ongoing support once in the role, for what is a gruelling, intimidating and often disturbing task.
+Speaking to German publication The Local, one Berlin-based content reviewer working with contractor Arvato put it plainly.
+"I personally did not have much faith in humankind beforehand, and now I virtually do not have any," they said.
+But reflecting on the collective goal, another concluded: "We feel good about what we do."
+_______
+Follow Dave Lee on Twitter @DaveLeeBBC

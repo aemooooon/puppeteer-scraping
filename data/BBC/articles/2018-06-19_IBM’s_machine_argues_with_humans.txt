@@ -1,0 +1,34 @@
+On a stage in San Francisco, IBM’s Project Debater spoke, listened and rebutted a human’s arguments in what was described as a groundbreaking display of artificial intelligence.
+The machine drew from a library of “hundreds of millions” of documents - mostly newspaper articles and academic journals - to form its responses to a topic it was not prepared for beforehand.
+Its performance was not without slip-ups, but those in attendance made clear their thoughts when voting on who did best. 
+While the humans had better delivery, the group agreed, the machine offered greater substance in its arguments. 
+That, IBM said, spoke to the heart of its goal: augmenting human beings to make decisions quickly and with more data than ever before.
+“I think it says actually very optimistic things about how humans respond to facts and figures,” said Noa Ovadia, one of the human debaters at the event. 
+“I think they are important, but they’re not everything when we make up our argumentation.”
+Ms Ovadia was Israel’s national debating champion in 2016, and began working with IBM a few months ago as an opponent to its machine.
+She told the BBC: “I think eventually when it can do what we do but better, that’ll be great thing for the human race - for informed decision-making, for informed voting, for informed everything.”
+Project Debater was not hooked up to the internet. Instead, it drew its information from a data bank of carefully curated sources chosen by IBM’s researchers.
+The machine took part in two debates. The first was on whether there should be more publicly funded space exploration. The second was on whether more should be invested in telemedicine technologies.
+Each participant had four minutes to make an opening statement, then a four-minute rebuttal, and then a two minute-conclusion.
+When Ms Ovadia argued money should be spent on more pressing needs than space travel, the machine offered this reply: “It is very easy to say that there are more important things to spend money on, and I do not dispute this. No one is claiming that this is the only item on our expense list. But that is beside the point.
+“As subsidising space exploration would clearly benefit society, I maintain that this is something the government should pursue.”
+The machine, like the human, was not given prior knowledge of what the debate topic would be. However, IBM had a list of topics - around 100 or so - it felt would draw a meaningful debate based on the data that was in Project Debater’s memory.
+“Over time, and in relevant business applications, we will naturally move toward using the system for issues that haven’t been screened,” said Arvind Krishna, IBM’s director of research, in a blog post. 
+In an interview with the BBC, Mr Krishna said this experiment pushes the boundaries of AI in a way the likes of Google were yet to demonstrate with its game-playing AI. 
+“Project Debater is about mastering language, and language is nuanced,” he said. “In this case also, there is no particular right or wrong.”
+Where the machine fell by the wayside in these debates was in often repeating itself - making the same argument, just in different words - or by adding curious turns of phrase that were likely a result of messy data being fed into the system. 
+Prof Chris Reed, from the University of Dundee, described the demonstration as an “impressive piece of technology”.
+“This is really quite a significant step forward,” said the academic, who is not affiliated with IBM.
+“I think what impressed me was the combination of AI techniques. Tackling something like debating is not a one-shot deal. 
+“You need to be able to solve many problems and then bring all those problems together in an engineered solution.”
+IBM is of course no stranger to public displays of artificial intelligence. Its Watson supercomputer was able to win US gameshow Jeopardy in 2011, and before that, Deep Blue famously beat world chess champion Garry Kasparov. 
+But bringing practical applications to the technology behind these publicity stunts has proven more difficult. The company recently laid off employees - it would not say how many - working on healthcare applications for Watson. 
+IBM’s Mr Krishna said he felt advanced decision-making had clear commercial value.
+“When in business you have to make a decision, sometimes on the seat of your pants, sometimes from the biases of those who give advice,” he said.
+“If you can lead Project Debater to come up with its pros and cons on a topic, you can look at both equally and that can mean a much more useful decision.”
+Prof Reed, for the most part, agreed.
+“I think this is very much about building teams... where you’ve got some human parties taking part in the debate and some computational 
+“Obviously they’ve got different strengths and weaknesses, and the idea is to architect these teams in such a way that they can work better than just humans on their own.”
+A future bone of contention, Prof Reed suggested, might not be the AI system itself - but the data it is fed, and what biases may be contained within.
+_______
+Follow Dave Lee on Twitter @DaveLeeBBC

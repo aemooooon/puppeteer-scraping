@@ -1,0 +1,15 @@
+Microsoft Corp plans to buy a tech firm known for helping to develop Apple's Siri speech recognition software in a deal valued at $19.7bn (£13.3bn).
+The purchase of Nuance Communications is the second largest in Microsoft's history, after its acquisition of networking site LinkedIn in 2016.
+Microsoft said it would bolster its software and artificial intelligence expertise for healthcare companies.
+So-called "telehealth" and remote doctor visits have boomed in lockdown.
+This growth is forecast to continue after the pandemic. 
+"Nuance provides the AI layer at the healthcare point of delivery," Microsoft chief executive Satya Nadella said in a statement. "AI is technology's most important priority, and healthcare is its most urgent application."
+The deal, which includes Nuance debt, is expected to be completed this year. 
+Nuance, based in Massachusetts, was founded in 1992. It employs more than 1,600 people globally and is active in 28 countries. 
+Known as a speech recognition pioneer, it has more recently focused on providing software to the healthcare industry, such as software that helps to automate radiology reports and makes it easier for doctors to create patient notes by dictation.
+Nearly 80% of US hospitals are already Nuance customers, Mr Nadella said. Purchasing the firm will dramatically expand Microsoft's potential market in the health care industry.
+Nuance executives said joining forces with Microsoft would help deepen its cloud-based offerings and allow it to tap into Microsoft's existing global customer base.
+The acquisition builds on a partnership the two companies formed in 2019 to automate clinical administrative work such as documentation. 
+Wedbush Securities analyst Dan Ives said the deal was "a strategic no brainer in our opinion for [Microsoft] and fits like a glove into its healthcare endeavours at a time in which hospitals and doctors are embracing next generation AI capabilities from thought leaders such as Nuance". 
+"Clearly, [Microsoft] is on the "offensive" around M&A with the company in a clear position of strength to capitalize on its entrenched position in the cloud going forward," he added, calling Nuance "another feather in its cap".
+Microsoft is to pay $56 per share to bring the firm under its own roof. That price is about 23% higher than where Nuance shares were trading on Friday.

@@ -1,0 +1,10 @@
+Researchers have been given £10m to develop and use artificial intelligence (AI) in diagnosing cancer.
+The government funds will allow digital scanners to be installed in West Yorkshire and Harrogate NHS hospitals.
+It means samples of tissue cells can be digitally scanned, stored and analysed, with the data being used to train computers on how to make a diagnosis. 
+A Leeds NHS trust spokesman said the scheme would help "diagnose cancer faster, better and at lower cost".
+Currently, pathologists make a diagnosis from tissue samples stored on a glass slide and analysed via a microscope. 
+Investment from the Department of Business, Energy and Industrial Strategy is helping to fund the research programme, which is being led by the University of Leeds and conducted at the Leeds Teaching Hospitals NHS Trust.
+Dr Yvette Oade, chief medical officer at Leeds Teaching Hospitals NHS Trust, said: "This is a really exciting step for patients because computers using artificial intelligence can be trained to recognise the patterns of disease. 
+"Machines will support clinically trained pathologists to diagnose cancer faster, better and at lower cost."
+"We can also explore how to use digital pathology as part of precision medicine to ensure patients receive treatments tailored to their disease. 
+"This is a huge opportunity for Yorkshire to lead in this new area and further enhance our position as a hub for medical technology."

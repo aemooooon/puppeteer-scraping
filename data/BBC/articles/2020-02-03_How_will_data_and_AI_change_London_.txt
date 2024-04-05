@@ -1,0 +1,17 @@
+With growing pressure to cut carbon emissions and reduce the number of vehicles on the road, some small cameras could help provide the answer to London's emission woes. 
+You could easily miss it. 
+It's a small triangular grey box high up on a lamp-post but it could hold the key to big changes on London's streets.
+These are scanners counting who is using the road and how. 
+The computer is learning all the time, so much so that it has a 98% accuracy rate in identifying vehicles and people.
+Previously, transport planners used people to do manual data counts which were more unreliable and could only provide a snapshot of who was using the road. 
+The new system can run 24 hours a day, seven days a week and is part of what is called the "smart city" revolution. 
+As cities try to encourage environmental forms of getting around such as walking and cycling, many are being redesigned to make that easier and safer. 
+In London, the mayor's Transport Strategy has a target of 80% of journeys in London to be made by walking, cycling and public transport by 2041. 
+Using the data from these scanners, planners would be able to change streets and target investment. 
+For example on a feed of Millbank, it becomes obvious from the data that hardly any pedestrians use the pavement by the river. Is there a barrier to pedestrians getting there? Should there be a pedestrian crossing? 
+If the data shows high numbers of cyclists on one road, could investment be targeted there to provide a bike lane? If buses are being held up at a junction, could that be redesigned? 
+There is also the potential to link up the scanners to traffic signals to manage demand on the network. 
+Transport for London (TfL) says all the video, which is part of a two-year trial with Vivacity, is discarded within seconds, meaning no personal data is stored. 
+Glynn Barton, TfL's director of network management, said: "We're always looking for innovative new ways of making our roads safer and more efficient. 
+"New data from trials such as this will be really valuable as we invest and make day-to-day decisions to enable more people to walk and cycle."
+It is early days but the use of this kind of data has the potential to radically change London's streetscapes.

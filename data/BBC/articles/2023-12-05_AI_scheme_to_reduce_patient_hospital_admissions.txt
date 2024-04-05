@@ -1,0 +1,11 @@
+Artificial intelligence software is to be used to predict if a patient is at risk to try and prevent the need for a hospital visit.
+The "Brave AI" system is about to be rolled out to 30 doctors' practices across the south west. 
+Using an algorithm to identify patterns in patients' records, it can assess the risk of unplanned emergency call-outs.
+Support services can then intervene and offer preventative care and reduce the need for hospital care.
+The system will now be expanded to GP practices in Gloucestershire, Wiltshire, Somerset, North Somerset, Dorset, Devon and Cornwall.
+The new contract enables nurses, pharmacists, therapists and doctors to offer personalised support where needed, including remote health monitors or offering apps to self-report their health conditions.
+The roll-out follows the successful "Brave AI" pilot scheme, where NHS Somerset partnered with the North Sedgemoor Primary Care Network (PCN) to analyse data from more than 500 care home residents.
+The results found the number of resident falls were reduced by 35%, visits to emergency departments by 60%, and ambulance call-outs by 8.7%. 
+Dr Vin Diwakar, NHS director for transformation, said: "These measures not only keep some of the most vulnerable patients out of hospital, but encourage conversations with patients who might not otherwise contact their GP, spotting health conditions that might otherwise go unnoticed and boosting our ability to intervene early." 
+"With the latest figures showing that hospitals are already under considerable pressure as we enter December, it is now vital that we maximise the use of these kinds of tools to cut admissions where we can." 
+If the current roll-out scheme proves successful, the technology will eventually be introduced to all GP practices across the south west.

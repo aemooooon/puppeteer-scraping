@@ -1,0 +1,42 @@
+A Scottish company is using "digital twin" technology to build replicas of entire communities in cyberspace. 
+They say their aim is to help people reduce their energy bills and cut carbon emissions on a huge scale.  
+One plan nearing completion is a project that will create digital twins of 30 schools for Stirling Council.  
+The digital twinning concept is already widespread. In effect, it is a perfect replica in cyberspace of something that exists in the real world.  
+It could be a machine, an animal or a building.  
+Or in one project already up and running, more than a hundred buildings.
+The Glasgow-based company Integrated Environmental Solutions (IES) has helped construct a 3D digital model of the first phase of the Trent Basin development in Nottingham.  
+It is a zoomable model offering people access to remarkable levels of detail in real time.    
+You can click on individual homes to monitor their energy consumption and the flows of heat and air. 
+More importantly, the people who live there can do the same to reduce their bills. 
+It looks impressive online, even more so on a 147in touchscreen placed at the heart of the development.  
+Sensors across the site feed live information to the digital replica: how much solar energy is gathered locally, how much electricity is stored in an enormous Tesla battery, how much is exported to the grid.  
+The approach has been promoted by Project SCENe, which stands form Sustainable Community Energy Networks.  
+Its partners include Nottingham University where Mark Gillott is professor of sustainable building design.  
+"We have Europe's largest community battery," he tells the BBC's Saturday Good Morning Scotland programme.
+"A large urban solar farm and a whole bunch of houses that are low energy in their design.  
+"The digital twin has been set up to give us an interface with that development.  
+"We're working with IES because we wanted something that was very interactive, very visual.  
+"We wanted to make it clear and easy for users...to understand how the systems are actually performing."
+IES has been in business for 25 years.  In that time they reckon they've helped deliver around a million buildings that are more energy efficient.  
+Its founder and chief executive Don McLean says their techniques have already saved "30 power stations worth of energy".  
+The Nottingham project has piloted an approach IES are calling the Intelligent Communities Lifecycle (ICL).  
+It expands the building-by-building approach to look at whole neighbourhoods.  
+The ICL product manager Ruggiero Guida fires up his laptop and zooms in on one home.  
+"I have data from all the meters and sensors that have been installed into the building."
+It looks impressive. But there was a problem at first: People.  
+"For the first four or five months no-one signed up," he says, "because everyone was concerned about privacy, about their data.  
+"But the more people started to interact with the screen, they started to sign up.  
+"Then all of a sudden, in a month, they had 25 new families."  
+The system also means new ideas can be tried in the digital realm to see if they will work in the real world.  
+New windows or solar panels can be installed in cyberspace to establish whether they would work or be costly mistakes here in the material world.  
+The next planned step is to use the technology on a far bigger stage: 30 schools run by Stirling Council.  
+The council says the project is under way and nearing completion, describing it as an "exciting initiative" that will help reduce energy bills and CO2 emissions.  
+Existing energy systems mean the schools are already dotted with sensors, feeding back energy information to several different platforms.  
+Don McLean says his team will pull all that data together to create a digital twin of the school estate in a single command centre. Then they will use artificial intelligence to make sense of it all.  
+He says the concept could be scaled up to cover not just all of Stirling's council premises but the whole of the city.  
+But why stop there?  
+"The word community is very flexible," he says.  
+"It could also mean a campus or a county or a company.  
+"It just depends on the scale you want to work at, so really there is no limit to what we can do. 
+"Could we eventually have the whole world in a digital twin that's using our technology? Yes that's possible.  
+"But I think it would take us a week or two to do it." 

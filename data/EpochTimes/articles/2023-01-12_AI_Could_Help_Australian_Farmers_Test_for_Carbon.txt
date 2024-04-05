@@ -1,0 +1,19 @@
+Researchers are hoping that a project that uses artificial intelligence and satellite imagery could make it cheaper and easier for landowners to realise the potential of carbon on their farms.
+Mohammed Rahman from Federation University is leading the research that includes the development of a machine that can then learn to give accurate soil carbon estimates.
+“My aim is to develop the algorithm that will measure the soil carbon by analysing the images,” the computer scientist told AAP.
+By using free images from NASA and the European Space Agency Sentinel satellite,  Rahman aims to turn the imagery into two-dimensional maps so farmers can prioritise where they capture and store carbon.
+Carbon farming involves landholders removing carbon dioxide from the atmosphere through methods like tree planting and increasing decomposing plant material and microbes to store carbon in the soil.
+Rahman said while there’s plenty of work happening in carbon farming, he hopes his research could be a “game changer” for those wanting to understand the potential of their land.
+The three-year research project aims to help reduce costs and make carbon farming more accessible and is also looking at whether farmers can rely on mobile imagery.
+“The problem I’m trying to solve is to get more farmers to participate in the incentive programs,” the PhD student said.
+A unique feature of the project would be the adoption of two separate models to improve accuracy, a physics-based model and a machine-learning model.
+“If we can get an accuracy of 70 percent (from mobile images), that can be used as a rapid testing method like we do rapid COVID testing,” he said.
+This week a review of Australia’s carbon credit market by former chief scientist Ian Chubb found the system needs more transparency, with carbon collection data to be more publicly available, to encourage participation.
+In November, the federal government awarded eight projects, almost $29 million in grants to accelerate technologies that reduce the cost of soil carbon measurement.
+“One problem about carbon measurement is ... you have to take samples and send them to the laboratory, and it might take a few hours to a few weeks, and it’s expensive,” Rahman said.
+Carbon Farmers of Australia head Louisa Kiely welcomed the research and said using satellite imagery to work out what’s underneath the soil is “the holy grail”.
+But she said in the short term; data will still need to be collected so that the results can be calibrated.
+“This research may provide a step in the right direction, but modelled estimates will still require field samples to ensure the modelling is accurate,” Kiely said.
+Victorian farmer Peter Moore, whose land was used to carry out some of the research trials, said while he’s long known the benefits of soil health, having extra information about carbon levels would help.
+“If I get the information, I can actually determine just how much nitrogen I might need, these sorts of things,” Moore said.
+John Connor from the Carbon Market Institute said ongoing research is vital for the industry to scale up.

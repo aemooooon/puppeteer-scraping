@@ -1,0 +1,25 @@
+Worried about a lump? Got a nasty cough that won't budge? Many people Google queries about such symptoms daily - but now they can get NHS advice instantly by asking Amazon's Alexa.
+The voice-activated assistant is now automatically searching NHS web pages to find answers to medical questions. 
+And the government hopes it will reduce the demand on human doctors.
+But the move has split opinion among artificial intelligence (AI) experts and data ethicists.
+"The sensitive data holdings of a national healthcare provider like the NHS are a form of 'critical social infrastructure',"  said Berlin-based tech expert Mathana Stender.
+"Yet they've been handed to a foreign company that's both a defence contractor and targeted advertiser,"
+NHS GP David Wrigley asked, among other things, whether the questions asked via Alexa would be encrypted and who would store any data relating to patient queries.
+Amazon has said all data would be kept confidential.
+The NHS has increasingly partnered with private companies to offer access to its services.
+Notably, Babylon Health, Push Doctor and Now GP all allow video appointments with GPs to be made remotely.
+Babylon Health, for example, says only patients and staff involved in service provision have access to patient medical records. 
+It adds that all data is encrypted and held in English data centres.
+Amazon said multiple layers of authentication would protect the data from UK customers and that all information would be encrypted.
+Some commentators felt that the service did not present obvious risks to users' privacy.
+Areeq Chowdhury, at the Future Advocacy think tank, pointed out that Alexa already responded to health queries from users.
+"Now the advice (which will be better and more accurate) will come from the NHS website," he tweeted.
+New Scientist's deputy news editor Jacob Aron said the "fuss" over the partnership was "ridiculous".
+"It's just a Google search you talk to, and at least people will get NHS [information]."
+There was another issue at stake, however. Some pointed out that Amazon is known to have major ambitions in the healthcare industry.
+During 2018 the firm took a number of steps in this direction - including pairing up with Omron Healthcare to allow a blood pressure monitor to be controlled via Alexa.
+It also announced software that could automatically analyse electronic health records for information that could be useful to doctors.
+The tool will use AI to pick out important details from medical documents - including "hospital admission notes and a patient's medical history".
+Some have asked whether the NHS-Alexa partnership will allow Amazon to gather yet more data on how patients raise medical concerns.
+"Is Amazon training its algorithm... on NHS patients' queries?" asked data privacy campaigner Phil Booth.
+Amazon said that it would not sell products or make product recommendations based on the data collected as part of the NHS partnership.

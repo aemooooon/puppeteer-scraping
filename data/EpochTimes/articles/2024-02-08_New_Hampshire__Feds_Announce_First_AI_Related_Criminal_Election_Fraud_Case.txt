@@ -1,0 +1,24 @@
+A Texas-based pollster has been identified as the source behind AI-generated robocalls pretending to be President Joe Biden during the recent New Hampshire presidential primary, state Attorney General John Formella announced.
+Mr. Formella said he believes it is the first criminal investigation into the use of artificial intelligence to interfere with an election.
+The robocalls were conducted by Life Corporation, which is owned by Arlington, Texas businessman Walter Monk, Mr. Formella said.
+Between 5,000 and 24,000 fake calls allegedly were made by an AI-created President Biden urging New Hampshire voters to stay home on primary day and wait to vote instead in November.
+“It’s providing us a real-life example of an attempt to use AI to interfere with an election,“ said Mr. Formella. ”AI-generated recordings used to deceive voters have the potential to have devastating effects on the democratic election process.”
+At a press conference on Feb. 6,  Mr. Formella said the fake calls of President Biden were made two days before the primary.
+The DNC did not respond to inquiries from The Epoch Times about the robocalls.
+Mr. Formella serves under New Hampshire Republican Gov. Chris Sununu, who has been campaigning for GOP presidential candidate Nikki Haley and has drawn speculation that he would be her vice president pick should she win the nomination.
+Before he became New Hampshire attorney general in 2021, Mr. Formella served as Gov. Sununu’s legal counsel.
+Mr. Sununu is a known foe of former President Donald Trump, the frontrunner in the race for the Republican nomination.
+Mr. Formella said the robocalls pretending to be President Biden stated, “It’s important that you save your vote for the November election and that, “Your vote makes a difference in November, not this Tuesday.”
+Mr. Monk did not respond to inquiries from The Epoch Times.
+“The Task Force has immediate concerns that this attempt to disrupt New Hampshire’s Presidential Primary Election is something that Life Corp, its subsidiaries, affiliates, customers, and/or other individuals or entities in the robocall ecosystem may seek to replicate in each of our respective states in the upcoming primary elections and caucuses during this year’s Presidential election cycle,” Mr. Stern wrote in his Feb. 5 letter.
+“This Notice is intended to inform Life Corp about the Task Force’s concerns regarding its apparent involvement in this call campaign, and to caution Life Corp that it should cease originating any illegal call traffic immediately.”
+In addition to the New Hampshire attorney general’s office, the FCC’s Enforcement Bureau has issued a cease-and-desist order to Mr. Monk.
+In his letter, Mr. Formella suggested that his office was looking into Life Corporation’s activities before the Jan. 21 robocalls. He stated that his election law unit “reserves the right to take further enforcement actions based on conduct preceding the date of the order.”
+As part of the investigation, the FCC and Mr. Formella also issued subpoenas and notice to preserve documents to Lingo Telecom, which routed the fake President Biden robocalls, according to Mr. Formella.
+“This is not the first time Lingo and Life have been subjects of an illegal robocall investigation,” wrote the FCC.
+According to Mr. Formella, the software programs YouMail and Nomorobo were used to track the robocalls.
+“We will not tolerate any action that seeks to undermine the integrity of our elections and our democratic process,” Mr. Formella warned.
+“The message to any person or company who would attempt to engage in these activities is clear and it’s simple: Don’t try it.”
+In addition to faked statements by President Biden, Mr. Formella said, the calls also illegally manipulated the caller ID so that it would appear they were coming from a number belonging to the “New Hampshire Democratic Chair.”
+The current New Hampshire Democratic primary chair is Ray Buckley.
+Mr. Buckley has not responded to inquiries from The Epoch Times.

@@ -1,0 +1,37 @@
+Words matter. And the way we use them in job adverts can dictate whether or not people bother to apply. This is a big problem if you're a business trying to recruit more women and ethnic minorities into your workforce. So can tech help remove these unconscious biases?
+A job description that uses the phrase "We're looking for someone to manage a team" may seem innocuous enough.
+But research, based on an analysis of hundreds of millions of job ads, has shown that the word "manage" encourages more men than women to apply for the role.
+Changing the word to "develop" would make it more female-friendly, says Kieran Snyder, chief executive of Seattle-based Textio, an "augmented writing software" company.
+Textio uses artificial intelligence to pore over job descriptions in real time, highlighting any terms that could come across as particularly masculine or feminine. The software then suggests alternatives. 
+"We don't explain why this or that phrase excludes women," says Ms Snyder. "We just provide the data and the company in question can come up with their own theory on why that sentence doesn't work."
+When Australian software giant Atlassian used Textio's software for its job-ad copy, the results were striking. It saw an 80% increase in the hiring of women in technical roles globally over a two-year period.
+"We wanted to create a work culture where diverse ideas get shared," says Aubrey Blanche, Atlassian's global head of diversity and belonging. 
+She says Textio taught her company to avoid terms such as "coding ninja" - a common phrase in Silicon Valley job ads. 
+"These words send a message to women that these are hostile work environments for female staffers," says Ms Blanche.
+And the word stakeholder apparently "serves as a signal to people of colour that their contributions may not be valued", adds Ms Blanche. 
+"We don't know why, but this is what the data shows."
+Back in 2011, researchers from Canada and the US found that job posts using more masculine wording "led women to have a lower sense that they would belong in the position or company than the same ads using more feminine wording," the report stated. 
+The researchers also found that gender preferences can be conveyed subtly through words such as "competitive," or "leader", usually associated with male stereotypes, while words such as "support" and "interpersonal" are associated with female stereotypes.
+Building on this kind of research, another recruitment tech company, TalVista, assesses job descriptions and highlights "discouraging" terms in red and "inviting" terms in green, assigning an overall thumb up or thumb down score to the text.
+For example, replacing a word such as "build" with "create" achieves a better overall score, the company says.   
+"Diversity and inclusion are always critical for talent acquisition," TalVista chief executive Elaine Orler says. 
+"But when a job post uses words like 'strong' or 'dynamic' many candidates are repelled but they don't know why; it's in their unconscious bias but they can't pinpoint why."
+Tech firm Applied also offers gender-balancing advice for job ads and a tool that scores the overall reading age of the ad.
+"It's remarkable the number of job descriptions that are written with the same density and complexity as a Harvard Law Review article when you definitely don't need a PhD to do the job itself," says Applied chief executive and co-founder Kate Glazebrook.
+Applied numbers the UK government, Transport for London, Hilton Hotels and Penguin Random House among clients who've benefited from more inclusionary language in their job ads.
+Even the format of a job ad can make a difference. 
+Textio's analysis reveals that ads with lengthy bullet points detailing the role's responsibilities will face a drop-off in women applying for the job. 
+All this matters because a more diverse workforce has been shown to foster a wider variety of ideas and improve a company's profitability, recent research has shown.
+Companies boasting the most ethnically diverse executive teams are 33% more likely to outperform their peers, according to McKinsey & Company. 
+More Technology of Business
+And those with the most gender-diverse boardrooms are 15% more likely to enjoy above-average profitability than companies with a more homogenous make-up, it found.
+One report by US economists found that moving from an all-male or all-female office to one split evenly along gender lines could boost revenue by roughly 41%.
+Dr Wendy Hirsh, principal associate at the Institute for Employment Studies in Sussex, remarks: "There is a growing awareness in the UK to be inclusive. Employers realise, with the rise of a skill shortage here, that if you skew a job ad to only one group of applicants, you could be missing out on some very talented workers."
+Data analytics and machine learning have certainly enabled far greater scrutiny of the language we use in recruitment, with decisions based on hard evidence rather than hunches.
+But as helpful as these writing services may be, some human resources (HR) experts caution against their overuse.
+William Tincup, an HR tech consultant and president of recruitment news outlet RecruitingDaily.com, says editing these job ads so thoroughly "could water them down and make them so vanilla no one feels emotionally attached to them.
+"You don't want applicants to get bored by the text."
+Dr Hirsh points out that where a job post is listed can also make a big difference to who applies. 
+For example, if the post is announced on social media, those who aren't on those networks, most likely older candidates, may not even see it, she says. 
+"Going to a specialist recruitment agency to post the job will also rule out those who don't know about that agency," she adds.
+But despite his reservations, Mr Tincup welcomes services such as Textio and Applied. 

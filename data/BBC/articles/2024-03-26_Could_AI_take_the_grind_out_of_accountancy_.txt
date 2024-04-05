@@ -1,0 +1,31 @@
+Owen Hewitt, is a trainee chartered accountant at accountancy firm haysmacintyre.
+He's two years into his training with more exams coming up this year. 
+What's unusual about him and his peers, is that they will be the first generation of accountants to use artificial intelligence (AI) right from the beginning of their careers.
+Mr Hewitt is hoping that AI will take over some of the more tedious parts of the job.
+"These (AI) can remove the burden of the more time-consuming tasks, like analysis of financial data," says Mr Hewitt.
+That leaves the humans to focus on more subjective - and more interesting - decisions, like whether a business is viable, or whether debts are likely to be paid.
+"Whilst AI can learn from data and make predictions, it can't yet replace the human judgement required to weigh up different variables and make an informed decision," he says.
+So, AI is increasingly being used for routine and time-consuming tasks such as summarising documents, creating content, drafting documentation, advanced searching, analytics and insight and knowledge management - often work done by more junior accountancy staff.
+"When you look at some of the tasks that auditors were doing - some of the boring, mundane tasks around churning data and manipulating it into a format where you can then actually do something valuable with it - that's where artificial intelligence can play a really big part," says Matthew Campbell, audit chief technology officer for KPMG UK.
+Given that auditing is a relatively low-margin business, there's concern that the more widespread use of AI could lead to a loss of jobs.
+According to a KPMG survey, four in 10 senior audit professionals expect that the increased efficiency that AI can bring will lead to a reduction in the size of auditing teams.
+Already, many manual audit and reporting tasks have been outsourced to other countries, with most major banks in the UK now having taken on large numbers of qualified accountants in India, who perform a significant proportion of month-end financial reporting tasks.
+This, says Alex King, founder and chartered accountant at finance platform Generation Money, means that junior accountants working in audit will need to focus more on client-facing skills.
+"Generally, the nature of a junior accountant's role is likely to change more towards systems management - overseeing AI powered software and databases - and relationship management, and away from the traditional reconciliations and ledgers work," he says.
+As a result, training programmes are changing.
+"We're still recruiting a number of people, graduates, and we're also recruiting a number of apprentices. I think what will change over time is the skillsets of some of those individuals," says Mr Campbell.
+"We're already starting to see that, so we've invested in putting a number of our auditors through a master's degree in applied data science, so they can take that auditing and accounting knowledge with their data science skills knowledge, to really bring the best of those skills together."
+The accountancy industry has seen some high-profile failures in recent years.
+In March, KPMG was fined £1.5m for failings in its 2019 audit of advertising agency M&C Saatchi. And it's not alone in making errors.
+Last summer, a report from the US Public Company Accounting Oversight Board (PCAOB) found that four in 10 audits conducted by global accounting firms had significant flaws, and that the proportion was rising rapidly.
+Meanwhile, the UK's accountancy regulator, the Financial Reporting Council (FRC), carried out 19 investigations in the 2022-2023 financial year, slapping fines of £40.5 million on auditing firms and their clients for audit failings.
+As a result, auditing firms are now under great scrutiny; and to tighten up their procedures, many are turning to AI.
+"As generative AI plays a more prominent role in contributing to first drafts of content, the human auditor role can be elevated to focus on areas of judgment and challenge," says Marc Bena, digital audit leader at PwC UK.
+"The ability to analyse data at a much larger scale also means we can perform better risk assessments and analysis."
+AI is particularly good at spotting anomalies in vast amounts of data, making it useful when examining what may amount to billions of transactions by a client.
+KPMG itself uses AI for high-risk transactions to look for such anomalies, such as the posting of unusual amounts, postings made by somebody unusual or postings made at a weekend.
+"We get to a point where it's a truly data-driven audit, where we identify the risks from within a population of data and use that to help focus our audit efforts on the most complex, the high-risk, the most judgmental areas," says Mr Campbell.
+More technology of business
+As for more high-level jobs, AI may help here too. Auditing firms have been finding it hard to retain talent, with 90% of auditors telling Caseware last year that it is either somewhat or extremely difficult.
+Overall, auditing job vacancies rose during the last year by a quarter, according to a survey from automation platform DataSnipper. However, 86% of auditing staff agreed that AI helps cut down time on repetitive task - and 83% said they'd be more inclined to stay at a company with AI initiatives in place.
+"They can get through some of the laborious, time-intensive tasks to actually get into the value of doing the analysis, the output and the interpretation," says Mr Campbell.

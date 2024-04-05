@@ -1,0 +1,44 @@
+Home Secretary Sajid Javid has warned he will "not be afraid to take action" against tech giants if they do not help to tackle child sexual abuse online.
+Mr Javid said he was "demanding" companies take "more measures" - or face new legislation.
+He added that some sites were refusing to take online abuse seriously - and highlighted live-streaming of child abuse as a growing problem.
+Facebook, Google and Microsoft say they are committed to tackling the issue.
+Mr Javid said it was his "personal mission" to tackle online child abuse, adding: "I've been impressed by the progress the likes of Google, Facebook, Microsoft, Twitter and Apple have made on counter-terrorism.
+"Now I want to see the same level of commitment from these companies and others for child sexual exploitation."
+Last week, his cabinet colleague Jeremy Hunt criticised Google for failing to "cooperate" with the UK over the issue.
+Mr Javid refused to go into detail about what new legislation surrounding abuse might look like.
+However, he stated his desire for tech companies to work more closely with law enforcement agencies, stop child grooming on their sites and block abuse material as soon as they detect it being uploaded.
+Referrals of child abuse images to the National Crime Agency (NCA) have surged by 700% in the last five years, according to new figures - and the NCA estimates that about 80,000 people in the UK present some kind of sexual threat to children online.
+Furthermore, the images being uncovered are getting more graphic, the Home Office said, with abuse of babies and children under 10 becoming more frequently documented.
+The Home Office warned that live-streaming of abuse was also on the rise, enabled by faster internet speeds, smartphone technology and the growing ease of money transfers across borders.
+In his speech, Mr Javid said: "One officer I met during a visit to the NCA's Child Exploitation Online Protection Command, who had previously worked in counter-terrorism for over 20 years, told me how in all his years of working he's never been so shocked by the scale of the threat or the determination of the offenders as he is in his current job." 
+He went on: "The threat has evolved a lot more quickly than the industry's response and industry has just not kept up.
+"So let me say this - I'm not just asking for change, I am demanding it and the people are demanding it too - and if the web giants do not take more measures to remove this type of content from their platforms, I will not be afraid to take action."
+By Joe Whitwell, BBC Technology reporter
+Millions of hours of video are uploaded to social networks every day, so finding illegal material can be like looking for a needle in a haystack.
+Most of the tech giants have been investing in artificial intelligence to proactively search for videos and posts that contravene their policies or the laws of the countries they operate in. 
+In March 2017, Facebook rolled out pattern-recognition algorithms to help detect Facebook Live posts from people who might be thinking of harming themselves.
+But algorithms alone cannot police content - and even a small percentage of incorrectly flagged videos could amount to thousands of clips every day. 
+Human reviewers remain an important part of the equation - but hiring them costs money.
+In January, Germany introduced a new law demanding that social networks quickly remove illegal material or face fines of up to 50m euros.
+That proved to be just the motivation many social networks needed to step up to the challenge. Facebook reportedly recruited several hundred new staff in Germany to deal with reports of illegal content.
+Figures indicate that police in England and Wales recorded about 23 child sexual offences involving the internet every day in 2017/18 - up from about 15 a day in the previous 12 months. 
+The scale of the offending has led to demands for internet giants to take more action to stop access to sexual abuse images and videos.
+Technology companies doing more to remove indecent images from circulation would be a "monumental landmark" in child protection, the NCA said.
+There have also been calls for tougher sentences for people who download indecent images of children.
+The agency added that in one week of action in July, 131 arrests were made, including teachers, a children's entertainer and a former police officer. Only 13 of those arrested were registered sex offenders, 19 others held positions of trust.
+The Internet Watch Foundation (IWF), which assesses and removes online child abuse material, said it fully supported Mr Javid in his warning.
+Susie Hargreaves, IWF chief executive, said offenders were becoming more "sophisticated in their crime".
+Tony Stower, head of child safety online at the NSPCC, said it was right that the Home Secretary is laying down the challenge to big tech companies.
+He said: "These firms have been told time and again to play their part in stopping online child abuse, but have done very little."
+The NSPCC is calling on the government to create an independent regulator with power to investigate and fine platforms which do not do enough to catch groomers.
+Facebook said it takes the exploitation of children very seriously.
+A spokesperson told the BBC: "It's why Facebook works closely with child protection experts, the police and other technology companies to block and remove exploitative photos and videos, as well as to prevent grooming online. 
+"We agree with the home secretary that by continuing to work together in this way, we can make more progress, faster."
+Google said it takes a zero-tolerance approach to child sexual abuse material and has invested for two decades in technology, teams and partnerships to tackle the issue.
+The firm announced that it was making available "cutting-edge" artificial intelligence that can dramatically improve how non-governmental organisations and other technology companies review content "at scale" and protect more children.
+Microsoft condemned child sexual exploitation as a "horrific crime", stating that the company works closely with others in industry, government and civil society to help combat its spread online.
+A spokeswoman said: "Predators are constantly evolving their tactics and that is why we work collaboratively with other companies... to create tools that protect children online and help bring perpetrators to justice."
+If you're worried that a child or young person is at risk or is being abused you can contact the children's social care team at their local council. You can choose not to give your details.
+You can report it online to the Child Exploitation and Online Protection command (Ceop).
+Or you can call the NSPCC 24-hour helpline on 0808 800 5000 for expert advice and support.
+If a child is at immediate risk call 999, or call the police on 101 if you think a crime has been committed.

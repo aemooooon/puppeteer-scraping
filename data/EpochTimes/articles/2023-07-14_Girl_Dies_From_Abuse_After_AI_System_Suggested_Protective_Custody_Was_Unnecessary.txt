@@ -1,0 +1,11 @@
+A 4-year-old Japanese girl died in her mother’s care after the local government decided not to place her in temporary protective custody—a decision influenced in part by an artificial intelligence evaluation program, according to officials in the prefecture of Mie.
+Introduced in 2020, the AI program uses historic data from around 13,000 previous child-welfare cases, and calculates what percentage of these saw a child taken into temporary custody.
+Officials believed that the program could help to alleviate the pressure on child consultation centers, which function as the country’s equivalent of child protective services.
+The AI program determined a custody rate for the case of 39 percent.
+The decision was then made that prefectural officials would pay periodic visits to the child, who would stay in the care of her mother.
+Another reason the officials decided to leave the girl with her mother was that the bruises did not appear to be the result of abuse—and also that the mother assured the officials that she would follow the directions and support from the child consultation center.
+Officials stated that the AI program was never used on its own to decide whether a child should be placed in protective care: rather, it was utilized as a reference point to assist prefectural officials in considering several factors before making a decision. They admitted that the AI had taken their visits into account when calculating the level of risk to the child.
+Child consultation center staff later discovered that the girl had been absent from the day care facility for a long period of time, but no attempt was made to contact the mother.
+“We can’t draw a conclusion now as to whether (the way the AI system was used to make the decision) was 100 percent appropriate,” the governor said. He stated that the case will be reviewed by a third-party committee of outside experts.
+Also on Tuesday, the Mie Prefectural Government announced a proposal to conduct in-person at-home evaluations regarding the safety of all children who are under the supervision of child consultation centers.
+Japan has spent years researching how to include AI in child care in order to expand services to support the child-rearing environment. Unifa, a Japanese startup founded in 2013, offers AI-powered tools to track children’s growth and habits as they attend day care.

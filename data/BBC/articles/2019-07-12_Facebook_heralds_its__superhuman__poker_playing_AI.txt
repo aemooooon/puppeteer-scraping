@@ -1,0 +1,20 @@
+Facebook’s artificial intelligence team has made what it describes as a “superhuman” poker champion, a bot with the ability to beat world-leading human pros.
+Facebook is heralding the AI bot, named Pluribus, as a major breakthrough: the first capable of beating as many as six players, in a game that involves “hidden” information - the cards that are yet to be revealed. 
+The team’s research also makes humbling reading for any poker players proud of their ability to spot a “tell”. 
+“We think of bluffing as this very human trait,” explained Noam Brown, the lead researcher from Facebook’s AI team, speaking to BBC News. 
+“But what we see is that bluffing is actually mathematical behaviour. When the bot ‘bluffs’, it doesn’t view it as deceptive or dishonest, it’s just the way to make the most money.” 
+Mr Brown said neither he nor Facebook had any plans to use the AI in real poker games. Indeed, the firm has said it is not publicly disclosing much of the code for fear of having a negative impact on the poker community. It would, a spokesman said, provide examples of techniques to other researchers working on AI. A research paper has been published in the journal Science.
+Beyond poker, Mr Brown would not be drawn on what practical use Facebook might have in mind for the technology. 
+“My research is focused on advancing the fundamentals,” he said.  
+“Everything from cyber-security, to fraud-detection, to navigating traffic with self-driving cars - this research could be fundamental.” 
+Cheaper technique
+Facebook created a model in which the AI would play hands against itself “trillions” of times once being programmed with the game’s rules, a technique referred to as “reinforcement learning”. In other words, practice makes (almost) perfect. 
+One notable achievement, Mr Brown said, was the comparatively low amount of computing power needed to train and run Pluribus.  
+The AI needed just $150-worth of cloud computing resources to work. Similar efforts, from Google’s AI research shop Deepmind, have relied on supercomputers consisting of more than 5,000 specialist processors, at a reported cost of millions of dollars. Reducing the computing power necessary for AI experiments is seen as a key hurdle to the technology’s development, with the computing power needed currently exceeding the rate at which processors are getting more efficient. 
+Mr Brown said just 20 hours of learning was needed to programme the AI up to the ability of a world-beating poker professional. On average, the bot was making $1,000 per hour when playing against five humans. As part of its Facebook’s announcement for the new technology, Facebook quoted several human poker champions who had been invited to play against the AI. 
+“Pluribus is a very hard opponent to play against,” said Chris Ferguson, a World Series of Poker champion.  
+"It’s really hard to pin him down on any kind of hand.” 
+The work will likely make the team popular among the AI researchers that have been trying to create a poker-playing AI for more than a decade, but Mr Brown said he was unclear how such advancements might go down in the casino business. 
+“I was in Las Vegas just last week,” he joked. “But they didn’t know about these results. I’ll have to go back." 
+_____
+Follow Dave Lee on Twitter @DaveLeeBBC

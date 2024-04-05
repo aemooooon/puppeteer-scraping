@@ -1,0 +1,29 @@
+Imagine wearing high-tech body armour that makes you super strong and tireless.
+Such technology, more specifically called an exoskeleton, sounds like the preserve of the Iron Man series of superhero movies.
+Yet the equipment is increasingly being worn in real life around the world. And one manufacturer - California's SuitX - expects it to go mainstream.
+"There is no doubt in my mind that these devices will eventually be sold at hardware stores," says SuitX's founder Homayoon Kazerooni. "As the prices come down you'll be able to simply buy them at Home Depot."
+In simple terms, an exoskeleton is an external device that supports, covers and protects its user, giving greater levels of strength and endurance.
+Sometimes also referred to as "wearable robots", they can be battery-powered and computer-operated, incorporating motors and hydraulics. Or they can be more simple, passive designs that use springs and dampeners. 
+"Integrating humans and machines into one system opens up a new realm of opportunity," says Adrian Spragg, an expert on the technology at management consultancy Accenture. "Many of the early applications have been focused on military and medical applications, but in the last several years there's been an explosion of use in a range of cases."
+This expansion, which has come together with rapid advances in the technology, has seen exoskeletons increasingly used by manufacturing workers. Versions for consumers are also now being developed to help people more easily do everything from DIY, to walking, climbing stairs, and other daily activities.
+One report says sales are now due to rocket as a result. Global exoskeleton revenues are expected to rise from $392m (£284m) in 2020 to $6.8bn in 2030, according to a study by ABI Research.
+New Tech Economy is a series exploring how technological innovation is set to shape the new emerging economic landscape.
+SuitX's "suits" are now being tested by car manufacturers General Motors and Fiat. Prof Kazerooni, who is also the director of the University of California's Berkeley Robotics and Human Engineering Laboratory, says that the primary benefit of the firm's exoskeletons is to prevent muscle fatigue.
+"We've shown that muscle activity in the back, shoulder and knees drops by 50%," he says. "If muscle activities drop, that means the risk of muscle injury is less.
+"This means that factory or plant managers get more productivity, their insurance costs are lower, and there are less workdays lost to injury. There's less cost and more productivity."
+General Motors is also looking at a battery-powered exoskeleton glove developed by Swedish firm Bioservo.
+This glove, called the Iron Hand, has sensors and motors in each finger, which automatically respond to the level of force that the wearer applies to his or her hand when lifting or gripping something. The glove therefore takes up some of the strain.
+BioServo says it can increase the wearer's hand strength by 20% for extended periods.
+Jason Cottrell, the chief executive of MyPlanet, a Canadian software firm that has conducted surveys on the use of exoskeletons, says the world is only just beginning to understand the potential for exoskeleton technology.
+"The implications are, in a word, enormous," he says. "Labour-intensive industries like manufacturing and agriculture have always depended on a workforce that must endure a certain level of physical exhaustion and risk.
+"Devices that support a person's frame while doing their job will fundamentally change how the industries run."
+As an example of other possible applications, Mr Cottrell points to Delta Airlines, which announced last year that it was testing a full-body exoskeleton made by Utah-based Sarcos Robotics. The powered suit, which is being tried out by Delta freight-handling, maintenance and ground support staff, can lift weights of up to 14st (90kg) for eight hours at a time.
+"And what about a server in a restaurant?" adds Mr Cottrell. "How could they benefit from a device that helps support the arm that carries the tray?"
+The most advanced exoskeletons use artificial intelligence (AI) computer systems - software that can to a certain extent learn and adapt by itself. Prof Sandra Wachter, a senior research fellow in AI at Oxford University, says that such body suits are to be welcomed, but with some caution too.
+"In general I see this development as very positive for occupational health and safety," she says. "Machines are supposed to help us with dull, dangerous and dirty jobs.
+"Robotics that protect your shoulders, your back and head, for example when you're picking up or moving things, is crucial. This is exactly one of the exciting benefits of robotics.
+"Problems, however, arise if robotics also double as workplace surveillance. Are these suits tracking your movements, how fast you move, and how often you take breaks? Does a system compare this data with those of other workers to score or rank them? What happens if you move slower than others, or take breaks more often?"
+At the moment, however, more widespread adoption of exoskeleton technology is still held back by a number of factors, including battery capacity, limited range of motion, and cost. 
+"The average cost [of a full-body exoskeleton] is around $45,000," says Accenture's Mr Spragg. "However, with economies of scale and technological maturity, prices will come down." 
+SuitX's Prof Kazerooni says that falling prices will also open up the possibility to tap into a potentially huge market - recreational exoskeletons. His firm is now working on such a device that supports the wearer's knee.
+"It's not only for people who are going climbing and hiking, or younger people who want to be more adventurous, or for people who want to do more walking and climbing but not hurt their knees," he says. "It'll be for all ages. It's simply giving you a little boost." 

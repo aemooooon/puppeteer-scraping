@@ -1,0 +1,12 @@
+An AI robotics startup from California has raised over $70 million to build a humanoid robot that the company expects will be used to do a wide range of manual labor.
+Sunnyvale-based Figure is developing Figure 01, which the company thinks will resolve labor shortages, support the global supply chain, and perform dangerous tasks. Figure has raised $70 million to develop its android.
+“We believe that the structured, repetitive, and often dangerous tasks in warehouses are a great potential first application,” he said.
+As humanoid robots increasingly join the workforce, from farmlands to factories, Adcock expects the cost of labor to decrease until it becomes equivalent to the price of renting a robot.
+“Over time, humans could leave the loop altogether as robots become capable of building other robots—driving prices down even more.”
+An analysis of tasks involved in more than 900 occupations estimated that around two-thirds of U.S. occupations are exposed to “some degree” of automation by AI, with around a quarter to up to half of such workloads at potential threat of replacement by AI.
+While AI presents a threat to jobs that require the application of the mind, like accounting, writing, and designing, the fusion of artificial intelligence with humanoid robots could mean physical labor would also be at higher risk of being replaced.
+Figure plans to offer its robots as services through a subscription contract model, which will make it much more affordable for those who wish to use it, Adcock said.
+The company intends to demonstrate the humanoid robot in warehouses within the next 12 months and eventually pilot these machines in commercial areas with a few clients within two years. Wider adoption could take as long as five years, Figure stated.
+The firm is also considering integrating generative AI into Figure 01 to boost its semantic capabilities and help it interact with humans better. OpenAI’s ChatGPT is an example of a generative AI.
+“Over the next 10, 15 years, you’ll see large portions of advanced countries’ militaries become robotic,” Milley said.
+“I would submit that the country, the nation state, that takes those technologies and adapts them most effectively for military operations, that country is probably going to have a decisive advantage at the beginning of the next conflict.”

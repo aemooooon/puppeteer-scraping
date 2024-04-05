@@ -1,0 +1,15 @@
+People may worry that robots are coming for their jobs - but the companies making the bots are struggling to find qualified employees, research suggests.
+According to analysis from jobs site Indeed, there are at least twice as many jobs in artificial intelligence as there are suitable applicants. 
+It says the number of roles in AI has risen by 485% in the UK since 2014.
+Academics say the "massive" skills gap in education systems is partly to blame for the shortage.
+Indeed said that the artificial-intelligence sector would benefit from investment in education.
+''Our data shows that competition for this shallow pool of candidates is fierce, with the numbers of available roles outstripping potential new hires," it said. 
+In March, a study by PricewaterhouseCoopers estimated that up to 30% of existing UK jobs could be affected by automation in the next 15 years. 
+Professor Paul Newman, head of the Oxford Robotics Institute, said the UK was light-years away from producing enough people skilled in machine learning, computing, coding and data analysis to meet demand. 
+He told the BBC that the solution should begin in schools.
+"When it comes to the AI skills gap, the equivalent of reading is IT skills, so using a computer - just as reading is 'using' a book," he said.
+"But now reflect on what it means to be skimping on coding, which is the dual of writing. That is going to look pretty dumb in a decade's time."
+Noel Sharkey, emeritus professor of AI and robotics at Sheffield University, said it would be critical to ensure engineers also developed creative skills.
+"We need more people in Steam (Science, Technology, Arts and Maths). We are particularly missing out on female talent and university numbers for women in computer science are falling," he told the BBC. 
+Mariano Mamertino, economist at Indeed, said employers in every sector were "keen" to take advantage of AI.
+"The AI sector is likely to keep growing as the potential for the widespread application of the technology, across different industries, becomes more clear. 

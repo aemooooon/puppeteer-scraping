@@ -1,0 +1,40 @@
+Online hate has been in the headlines again recently due to an avalanche of racist posts directed at three players who missed penalties in England's defeat to Italy in the Euro 2020 final. 
+Warning: This article contains language that some may find offensive
+While Twitter said it had deleted more than 1,000 racist tweets following the match, the platform has previously been criticised for failing to remove abusive content. 
+So how do social media platforms like Twitter decide that a violation has occurred? And who or what is behind these decisions? 
+Back in April, I had my own encounter with social media content moderation. 
+I had turned to Twitter to express my outrage at the proposals for a new football European Super League. Imagine my surprise when I was hit with a 12-hour ban for hateful conduct. My "crime"? Posting the below tweet: 
+"Just trying to work out how fantasy footie will work without the 'big 6' - does that mean that Lingard will be the most expensive player? 🙈 Also if this #EuropeanSuperLeague goes ahead @Arsenal can take my 25 years of support and shove it."
+Twitter had labelled it: "You may not promote violence against, threaten, or harass other people on the basis of race, ethnicity, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability or serious disease."
+I submitted an appeal. However, within a few hours, my case had been reviewed, and the ban upheld. 
+Looking back, my tweet seemed a far cry from the vile hate directed at the England players. A cursory search of Twitter found several tweets similar to mine that had not been deleted.
+Adding to my confusion was the fact that often genuine abuse is reported to the platform to no avail. 
+Caz May, who's 26 and from Bristol, uses Twitter to chat with fellow football fans. Caz was at a Bristol Rovers game when she saw a series of notifications pop up on her phone. 
+"A lot of it is sexist comments, things like, 'Oh I bet that fat bitch Caz isn't happy'- or they would like reference my boobs or call me an ugly bint."
+The abuse took a toll on Caz's mental health: "You start thinking, 'What if they're right, what if I am fat, what if I am ugly?'" 
+Caz says she was targeted because she is a woman - which is against Twitter's policy on hateful conduct. However, when she reported the abuse, she was told it didn't break the rules.
+Twitter and other social media firms are notoriously opaque when it comes to how they moderate content. It is likely it uses its own proprietary AI software, with human moderators checking decisions wherever possible. 
+Jessica Field, assistant director of the Harvard Law School Cyberlaw Clinic, says human content-moderators are "rarely, if ever, the first line of defence for identifying offensive content". 
+A 2020 report by NYU Stern suggested Twitter has about 1,500 moderators - a surprisingly small number considering the platform has 199 million daily users worldwide. 
+Twitter and Facebook have ramped up automated content moderation since the start of the pandemic. In 2021, 97% of posts classified as hate speech by Facebook were removed using AI.
+For the social media giants, a move away from human content moderation was inevitable. The sheer number of posts that need checking daily has left moderators scrambling to keep up - and some have even complained of PTSD. 
+However, relying on AI for content moderation comes with its own challenges. Like the AI used to suggest accounts to follow or posts you might like, the systems used for content moderation rely on machine learning, a process where AI is shown thousands of existing examples and then continues to learn by itself, separating hateful posts from non-hateful ones. 
+But AI is only as good as the data it is trained on, so if the data doesn't include different genders and ethnicities, then it might struggle to detect the kind of abuse that was directed at Caz. 
+According to Dr Bertie Vidgen, a research fellow in online harms at The Turing Institute, Twitter's content moderation AI has probably been trained to pick up on words or phrases that have been flagged before. However, as there isn't an industry standard "it's hard to know whether the model understands nuance". 
+Social media companies do not open up their systems for third-party evaluation, so it is as difficult for independent researchers like Dr Vidgen to evaluate them, as it is for Twitter users like me to understand why a tweet is flagged. 
+To understand what the capabilities and limitations of Twitter's model might be, Paul Rottger, a PhD researcher at the University of Oxford and The Alan Turing Institute, along with Dr Vidgen and his colleagues tested four content moderation models powered by similar AI, including two of the most popular commercial options - Perspective by Google and Two Hat's Sift Ninja. 
+They put several sample tweets into each of the models and these were returned with a label - hateful or non-hateful. The models also provided a confidence score for variables like use of sexually explicit language or a threat. 
+All four models struggled with context and found it particularly difficult to detect hate aimed at women, probably due to incomplete training data. This could explain why some of the abuse aimed at Caz wasn't picked up. Additionally, if Twitter's model is predominantly trained on American English data, then it might have missed the hateful use of British colloquialisms such as "bint". 
+I was curious about how my tweet about the European Super League would fare when run through the systems. 
+Mr Rottger and Dr Vidgen revealed the results of the test over Zoom - none of the models had flagged my post as being hateful. When mistakes like this occur, it's usually easy to guess what might have happened. But in my case they were stumped. 
+Without access to Twitter's model, it's impossible to be certain what it noticed, but it's likely that the answer comes back to the AI's struggle with context. 
+My use of the ubiquitous "monkey with hands covering face" emoji could also be culpable. "If you swap a word with an emoji, the model suddenly can't pick up on it any more," says Dr Vidgen. Much like some of the abuse directed at the England players, online trolls have been using emojis to avoid being flagged by the system. It is possible that Twitter over-corrected, and my use of the emoji was mistakenly flagged as hateful. 
+I contacted Twitter to see if they could explain what had happened. 
+The firm said: "We use a combination of technology and human review to enforce Twitter Rules. In this case, our automated systems took action on the account referenced in error." 
+Twitter agreed to remove the violation from its system - but didn't respond to any of my other questions about how its content moderation system actually works. 
+I also asked Twitter about the abuse directed at Caz. Despite Twitter itself stating that harassment isn't tolerated on the platform, Twitter told me that the tweets Caz received were "not in violation of Twitter rules". 
+So what's next for content moderation? The experts I spoke to expressed hope that the technology would improve, but they all sounded a message of caution too. While the issues around training data should be resolved quickly, picking up the more subtle forms of hate and learning to understand context raises issues for the next generation of AI. 
+"How much do we want to tell these models about who is doing the speaking, who is being spoken to?" 
+Dr Vidgen says social media companies being more transparent and engaging with researchers and policymakers is key to tackling online hate. 
+In the autumn, the UK Parliament will consider a new online safety bill requiring social media companies to accept responsibility for taking down harmful content - or risk multi-billion pound fines. 
+While we don't know how long it will take for automated content moderation to improve, in an effort to clamp down on cyber-bullying, Twitter recently announced that it is working on a feature that will allow users to "un-mention" themselves, but this is yet to be rolled out. 

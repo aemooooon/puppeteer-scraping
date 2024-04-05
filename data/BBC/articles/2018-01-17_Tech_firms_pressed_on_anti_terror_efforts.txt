@@ -1,0 +1,19 @@
+In a session that appeared to be more about keeping up pressure than making any specific demands, US lawmakers once again pressed major technology companies over efforts to combat terrorism and propaganda.
+Policy representatives from Facebook, Twitter and YouTube appeared in front of the Senate Commerce Committee in Washington on Wednesday.
+The social media companies said they were doing more than ever to block and remove harmful content.
+But senators suggested that more could be done to quickly get this kind of material off the firm's respective services.
+Senator John Thune, who chairs the committee, questioned why a video showing bomb-making techniques was repeatedly uploaded to YouTube. The clip was reportedly used by the Manchester Arena attacker to create his bomb.
+"We are catching re-uploads of this video quickly and removing it as soon as those uploads are detected," said Juniper Downs, YouTube's public policy director.
+The company has said that 98% of videos removed due to extremist or other inappropriate content are done so automatically by the site's algorithms.
+Google, which owns YouTube, has pledged to hire more human moderators to add an extra layer of protection for this process. 
+The session follows an announcement on Tuesday that YouTube would limit the number of users that can make money from their videos, and add human review for its highest-profile users to filter out content that is merely offensive, rather than terror-related.
+The companies are all working together to share intelligence on harmful content, so a video or image flagged on one service would also be blocked on others.
+Nonetheless, Twitter's policy boss Carlos Monje described the task as a "cat-and-mouse game".
+Drifting somewhat from the session's stated topic, the companies were also asked about efforts to quell Russian propaganda from spreading online.
+Twitter missed its deadline to provide more information to Congress about apparent Russian meddling on its platform. 
+But it said it was working on a tool to notify users that had been targeted, or at had least come across, propaganda.
+Facebook has a similar tool in its so-called Disclosure Portal. Google said that the nature of its services made it more difficult to know what users had seen, a suggestion strongly criticised by Senator Thune.
+As this year's crucial US mid terms draw near, all of the companies will be under intense pressure to make sure there is not a repeat of the seemingly rampant Russian activity on the networks.
+Twitter said it would implement several new measures to monitor discussions for any potential manipulation, as well as open up more formal communications lines with US politicians to escalate any problems.
+Also appearing at the hearing was Clinton Watts from the Foreign Policy Research Institute.
+"Social media companies continue to get beat in part because they rely too heavily on technologists and technical detection to catch bad actors," he told the committee.

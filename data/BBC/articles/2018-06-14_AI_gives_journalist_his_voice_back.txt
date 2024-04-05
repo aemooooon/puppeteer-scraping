@@ -1,0 +1,29 @@
+A US radio journalist who lost his voice two years ago will soon return to the air, thanks to artificial intelligence.
+Jamie Dupree, 54, a political radio journalist with Cox Media Group, is unable to talk due to a rare neurological condition. 
+A new voice was created for him by Scottish technology company CereProc.
+CereProc trained a neural network to predict how Mr Dupree would talk, using samples from his old voice recordings.
+"This has saved my job and saved my family from a terrible financial unknown," Mr Dupree told the BBC. "There is not much of a market for radio reporters who can't talk."
+Typically, in order to create a voice for someone, the individual needs to read out a script for 30 hours in order to gather enough data.
+Then artificial intelligence is applied to either chop up words from the audio file and stick them back together on demand, or the technology is used to predict and imitate the person's speech patterns.
+Both of these methods can cost tens of thousands of pounds, and take a month to produce just one voice.
+To speed up the process and make it more affordable, CereProc started developing its own neural networks in 2006.
+Today, its artificial intelligence system can generate a voice in just a few days for £500, once a user has recorded themselves reading the script on its website. 
+The neural networks, which contain between six to 10 layers each, work by slicing audio recordings of words down to phonetics.
+The artificial intelligence system slices each word read out by an individual into 100 tiny pieces, and does this with lots of common words until eventually it understands how basic phonetics work in that person's voice and has an ordered sequence for all the pieces in each word.
+Then, the neural network can create its own sounds and predict what the person would sound like if they were to say a series of words in conversation.
+Many computer scientists around the world are trying to replicate the human brain by training neural networks to perform image recognition, but CereProc says that it is much easier to apply artificial intelligence to sound.
+"AI techniques work quite well on small constrained problems, and learning to model speech is something deep neural nets can do really well," Chris Pidcock, CereProc's chief technical officer and co-founder, told the BBC.
+"It's a much more solvable problem than machine intelligence."
+Mr Dupree has been covering political news from Congress in Washington DC for the past 35 years. And as a journalist producing content for six radio stations, his voice is essential to his work. 
+He began losing his voice in 2016, but there was nothing wrong with his vocal cords, throat or larynx. 
+After baffling doctors from several large US university hospitals, eventually Mr Dupree was diagnosed with tongue protrusion dystonia - a rare neurological condition where the tongue pushes forward out of his mouth and his throat tightens whenever he wants to speak, making it impossible for him to say more than two or three words at a time.
+Rather than give up his work, Mr Dupree continued to do interviews with policymakers in Congress using an eWriter tablet to scribble questions during one-to-one interviews, or by recording the answers given to groups of journalists in the Senate building's hallways between hearings.
+Although he was still writing and producing stories, he had essentially gone off the air completely, because he could not present the stories he had written.
+Then, in December, a member of the US Congress spoke out on his behalf on the floor of the House of Representatives.
+The resulting media attention spurred his employer to try to find a way for Mr Dupree to return to the air, since it had almost 30 years' worth of his radio broadcasts on file. 
+Thanks to the computer-generated voice produced by CereProc, from Monday, 25 June, onwards Mr Dupree will once again be heard by WSB Atlanta listeners, as well as audiences of Cox Media-owned stations in Orlando, Jacksonville, Dayton and Tulsa. 
+With his new voice, Mr Dupree can now write a script and then use a free text-to-speech software program called Balabolka on his laptop to turn it into an audio recording. 
+If a word or turn of phrase doesn't sound quite right in the recording, he can slow certain consonants or vowels down, or swap a word to one that does work, or change the pitch, and he can have a full radio story ready to go live in just seven minutes. 
+"It is me, there is no doubt about that," said Mr Dupree.
+"Yes, it is slightly robotic, but no-one was promising me that it was going to be perfect."
+In person, when talking to family and colleagues, Mr Dupree still has to rely on the eWriter tablet, or saying a couple of words slowly, but the new voice has made a big difference to his life.

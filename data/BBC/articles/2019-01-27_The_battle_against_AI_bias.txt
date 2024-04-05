@@ -1,0 +1,37 @@
+For someone tasked with advancing a technology which, in the words of Google's chief executive, is "more profound than electricity and fire", Jeff Dean is a remarkably calm man.
+As the head of Artificial Intelligence (AI) at the tech giant, he is responsible for leading a department that is integral to the future of Google, if not the future of human activity on Earth.
+That such a cosmic task doesn't faze Mr Dean, who remains Zen even amid the frenzy at the World Economic Forum in Davos, is perhaps unsurprising. 
+One of his early interventions at Google involved dealing with a threat that "almost certainly" originated from outer space.
+Back at the turn of the century, Google's search engine began to malfunction, and its small group of coders were mystified as to the cause. It was Mr Dean, along with his close friend Sanjay Ghemawat, who diagnosed the extraterrestrial problem. 
+Google was running on cheap hardware, explains Dean, "sort of held together with baling wire and chewing gum", and it was therefore susceptible to "a very low probability event".
+"A particular ray from outer space will come in and hit one of the memory cells that stores a bit - either a zero or one - and flip it to a one or a zero, which is particularly bad if you're manipulating lots of data, because all of a sudden a few random bits in your data will be will be flipped and corrupted.
+"Most machines these days have hardware protection against those. But the early machines Google were using really didn't." 
+These days, however, it's Google's cutting-edge machines that preoccupy Mr Dean's mind, and that of the firm's boldly named "Brain Team".
+Its mission, to "make machines intelligent and improve people's lives" could hardly be more ambitious, even if the current applications of AI at Google are somewhat more pedestrian.
+It is machine learning that enables Google users to retrieve their photos by searching for objects that appear in them (by typing in cake, or cat, for example), and machine learning that is behind speech recognition tools, which can turn audio from several languages into text.
+Google's translation tool is another of the AI team's triumphs, but also provided an early example of the way in which algorithms can "learn from the world as it is, not the world as we would like it to be".
+When an algorithm is fed a large collection of text, Mr Dean explains, it will teach itself to recognise words which are commonly put together.
+"You might learn for example, an unfortunate connotation, which is that doctor is more associated with the word 'he' than 'she', and nurse is more associated with the word 'she' than 'he'.
+"But you'd also learn that surgeon is associated with scalpel and that carpenter is associated with hammer. So a lot of the strength of these algorithms is that they can learn these kinds of patterns and correlations".
+The task, says Mr Dean, is to work out which biases you want an algorithm to to pick up on, and it is the science behind this that his team, and many in the AI field, are trying to navigate. 
+"It's a bit hard to say are we're going to come up with a perfect version of unbiased algorithms."
+A surprising example of a company grappling with these issues is the professional networking site LinkedIn. When its 562 million users log in to their accounts, they are served up unique recommendations for jobs and connections - powered by AI. More importantly, recruiters who use LinkedIn are presented with a list of ideal candidates, filtered by machine learning.
+But the site's co-founder, Allen Blue, soon identified a problem with this process. Women weren't showing up high enough on those shortlists.
+"What we were able to do is say: 'All right, we're going to correct that algorithm," says Mr Blue, "so that it returns men and women in equal proportion to the people who actually match the search criteria and orders them in a way to make sure that the women are not being accidentally de-prioritised'".
+But fixing this problem was just the tip of the AI iceberg, he says.
+"We are just coming to the place where we understand how it is possible to build a machine learning algorithm with the best possible intentions, but still unintentionally introduce bias into the results," he explains.
+His favourite example is facial recognition.
+"The first versions of facial recognition trained on pictures of celebrities who are mostly white and mostly male, and that means that there is 97% accuracy on white men but three percent accuracy on African women."
+There can be no remedy, he argues, that does not involve increasing the diversity of those who build AI algorithms.
+"When we look at the people [on LinkedIn] who actually have AI skills, only 22% of them are women," says Mr Blue.
+What's worse, he adds, is that "the women tend to have roles which are a little bit more research oriented more teaching oriented whereas the men have tend to have roles which are more leadership oriented."
+"Everyone's biased, but we're not fully understanding how people work if women aren't actually there helping design."
+Despite these warnings, both Mr Blue and Mr Dean are brimming with enthusiasm when it comes to talking about the potential positives of AI.
+When it comes to the hiring process, Blue argues, computers can even teach us how to eliminate human failings.
+"When you go in and speak to someone face-to-face, you get a great read, or energy off them, or whatever, that is built on your very idiosyncratic…  and therefore biased, views of what makes a good person to come work at a company. 
+"Artificial intelligence can help you separate that good feeling you get from a viewpoint which eliminates that bias… that's what I mean by pure machines and people working together."
+For Mr Dean, it's the work Google's AI teams have been doing on humanitarian issues around the world - such as systems that can predict flooding and earthquake aftershock - that he cites as their proudest achievements.
+A particular focus is healthcare and biosciences, which had led to tools that can diagnose of a disease called diabetic retinopathy from a retinal image, without the need for an ophthalmologist.
+Its these uses of AI that Mr Dean has been extolling at the World Economic Forum, where session after session focused on data privacy and governance concerns about the technology.
+For Google's part, Mr Dean is confident that the company's internal principles will help protect against the potential misuse of AI, and reveals that his team have "certainly decided not to publish some kinds of work that we think are might have negative implications".
+But he says the way to protect against the misuse of machine learning, is to get the right kind of intelligent humans to come and work in the sector.

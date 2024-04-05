@@ -1,0 +1,18 @@
+The Department of Defense has awarded a contract to an AI firm to deploy software that can predict and neutralize so-called “disinformation” threats on social media platforms.
+New York-based artificial intelligence company Accrete AI, announced the Pentagon award in an Aug. 29 press statement.
+U.S. Special Operations Command said it wants to analyze social media data and capture “emerging narratives” to quickly generate the information it needs to eliminate unfriendly trends in real time.
+In 2022, Accrete delivered Argus, its AI software for open-source threat detection, to the DOD.
+The Pentagon’s Defense Innovation Unit, which was co-founded by former Google CEO Eric Schmidt, helped develop Argus last November.
+The DOD paid Accrete millions of dollars for a five-year license for Argus to assist it in uncovering things like “behavioral anomalies indicative of potentially illicit activity that are too complex for humans to identify.”
+The company’s CEO, Prashant Bhuyan, claims that the AI software will be able to predict and neutralize harmful “viral disinformation” even as it is still going viral.
+The tool would be used by intelligence analysts and other specialists to predict real-time disinformation threats on social media.
+“Synthetic media, including AI-generated viral narratives, deep fakes, and other harmful social media-based applications of AI, pose a serious threat to U.S national security and civil society,” said Mr. Bhuyan.
+He described social media “an unregulated environment where adversaries routinely exploit reasoning vulnerabilities and manipulate behavior through the intentional spread of disinformation.”
+A civilian version, called Nebula Social, will be marketed to private corporations in order to monitor their online reputations and will be designed to protect against “customer pain points.”
+He said that the private sector also has an urgent need for military-level information warfare tools to be made publicly available for their use.
+“Government agencies and enterprises alike have an urgent need to manage a plethora of risks and opportunities posed by AI-generated synthetic media,” Mr. Bhuyan said.
+“Companies are already experiencing significant economic damage caused by the spread of AI-generated viral disinformation and deep fakes manufactured by competitors, disgruntled employees, and other types of adversaries.”
+The software is able to filter content by analyzing a company core values and responding to the most relevant issues first, before bad actors can negatively impact client behavior with AI-generated fake content.
+“We believe that the market for AI that can predict and neutralize malign AI-generated synthetic media is about to explode,” predicted Mr. Bhuyan.
+The EU law also attempts to prevent the spread of personally harmful content or disinformation, ban or limit certain user-targeting advertising practices, and make companies share some internal data with regulators.
+The European Commission will be the ultimate decider on what is considered “disinformation.”

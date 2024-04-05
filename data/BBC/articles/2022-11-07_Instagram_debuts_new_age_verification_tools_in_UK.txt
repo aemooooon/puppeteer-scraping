@@ -1,0 +1,16 @@
+Instagram has introduced technology to help verify the age of users in the UK and EU.
+Anyone trying to edit their date of birth from that of an under-18 to that of an over-18 must verify their age.
+But now, users have the option to record a video of themselves that will be analysed by age-estimation technology, instead of uploading ID.
+Instagram said this would help ensure users' experiences on the platform were age appropriate.
+In June, Instagram announced it was exploring ways for teenagers to verify their age and comply with platform rules.
+And in a US trial, they were given three ways to verify they were over 18: 
+Instagram says it already uses artificial intelligence and in-app reports to help determine whether users are under 18 and, indeed, under 13, its minimum age.
+But according to research commissioned by UK media regulator Ofcom, one in three children lies about their age to access adult content on social media.
+Instagram accounts for under-18s:
+Instagram public policy director Tara Hopkins said video age verification was an "important step" in delivering safer and better experiences for teenagers on the platform. 
+"We want everyone to experience Instagram in a way that's appropriate for their age, which means we need to know how old they are - and this is a challenge across our industry," she said.
+Instagram already uses video selfies to verify the identity of users locked out of their account
+It has now extended its partnership with UK digital identity provider Yoti to use them to verify age. 
+Yoti's technology estimates age by analysing facial features.
+On average, it says, it is accurate to within:
+Meta, which owns Instagram, says the technology cannot identify anything about users except their age and it and Yoti will delete images once this has been done.

@@ -1,0 +1,16 @@
+The UK should sell anonymised medical records to boost research and remain competitive amid a global race of artificial intelligence (AI), Sir Tony Blair and Lord William Hague said on Thursday.
+Subhajit Basu, professor of Law and Technology at the University of Leeds, said the proposal “raises questions” about issues including patient consent and accountability.
+“Biotech is promising a future of new cures and treatments for many diseases, more personalised and effective health care, and many new materials and transformed manufacturing processes,” they wrote.
+Their report says the NHS is a valuable source of data and a new approach is needed to provide commercial access to records via a separate company—an NHS Data Trust—in which “NHS England has a controlling stake, with additional investments from other companies.”
+They said the company “would strictly preserve privacy while bringing massive benefits to research, public health, and patient treatment” while free from government interference.
+Touting the benefits of scientific research, the pair said maintaining the position of a world leader in science and innovation is “the crucial task that, more than anything else ... will determine the future prosperity of Britain.”
+They say the data from millions of NHS records would provide a platform for artificial intelligence which could monitor patients via wearable technology and alert doctors of problems.
+The plan also includes access to a cloud-based “personal health account” through the NHS app to book appointments and manage treatment, creating a laboratory of biodesign, helping biotech companies to scale up, and creating strong international “pandemic biosecurity.”
+Commenting on the report, Mr. Basu said while it’s an “ambitious vision,” it “also raises several critical concerns.”
+“On the one hand, their report suggests that anonymised NHS data could be a valuable resource for driving medical innovation, especially in AI and biotechnology,” he said in an email to The Epoch Times.
+“On the other hand, there are significant ethical and practical considerations to take into account.”
+The professor said selling medical data “raises questions about patient consent and the commodification of personal health information” even when the data is anonymised, adding that there’s a “delicate balance between fuelling medical advancement and protecting individual privacy rights.”
+Mr. Basu also said creating a separate company tasked with managing NHS data could lead to concerns over “accountability and transparency in how this data is used and who benefits from it.”
+“It’s crucial to consider who ultimately benefits from such arrangements and whether they align with the wider public interest, particularly in a health care system that is publicly funded and trusted by its users,” he said.
+“There is an inherent risk that the pursuit of profitability could overshadow the primary objective of health care—to provide equitable and ethical medical treatment to all.”
+With the development of big data, AI, gene therapies, and increasing cyber attacks, there have been increasing concerns over the handling of patient data.

@@ -1,0 +1,9 @@
+ChatGPT, the artificial intelligence (AI) chatbot developed by OpenAI, was taken offline for emergency maintenance on March 20 due to a bug in an open-source library that triggered a data breach.
+At the time, many ChatGPT users reported that they could see titles from other active user’s chat history. Some also reported seeing in their own history other people’s first messages of new conservations with the chatbot.
+OpenAI stated that, upon deeper investigation, besides users seeing titles and conversations of others, the company “also discovered that the same bug may have caused the unintentional visibility of payment-related information of 1.2% of the ChatGPT Plus subscribers who were active during a specific nine-hour window.”
+OpenAI did not disclose the exact number of paying accounts that were exposed.
+It is unclear how many ChatGPT Plus subscribers there are. However, since its release as a free prototype to the public on Nov. 30, 2022, the company reported 100 million users in February.
+The company added: “In the hours before we took ChatGPT offline on Monday, it was possible for some users to see another active user’s first and last name, email address, payment address, the last four digits (only) of a credit card number, and credit card expiration date. Full credit card numbers were not exposed at any time.”
+The company has reached out to users who were affected to inform them that their payment information may have been exposed. “We are confident that there is no ongoing risk to users’ data,” OpenAI said on Friday.
+The company shared the technical details about the bug and explained the actions it took to fix and prevent similar situations in the future.
+“Everyone at OpenAI is committed to protecting our users’ privacy and keeping their data safe. It’s a responsibility we take incredibly seriously. Unfortunately, this week we fell short of that commitment, and of our users’ expectations,” the company said.

@@ -1,0 +1,9 @@
+A new artificial intelligence (AI) tool has been developed to help boost cancer diagnosis and treatment.
+Scientists at Histofy, a spin-out company from The University of Warwick, have designed the device to help medical professionals to grade cancer by analysing how cells divide.
+Counting the number of cells undergoing division serves as a key indicator of cancer aggressiveness, or grade.
+This information is then used to decide on treatment options.
+Traditional cell division counting methods have been described by Histofy scientists as "time-consuming and plagued by poor reliability".
+To address this, the team developed MitPro, which uses AI to count and profile how cancer cells split throughout the entire tumour sample. This identifies the most suitable areas for further analysis.
+The tool has been designed to enhance the current standard of care for grading various cancers, such as breast cancer and sarcomas.
+Simon Graham, chief technology officer for Histofy at the University of Warwick's computer science department, said: "AI holds tremendous potential in facilitating better cancer care. 
+"MitPro helps to improve current grading systems across a range of cancers by more accurately assessing the rate in which cancer cells are dividing."

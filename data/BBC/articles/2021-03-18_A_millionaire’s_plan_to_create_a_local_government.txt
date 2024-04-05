@@ -1,0 +1,44 @@
+A radical experiment is being considered in the US state of Nevada. It would allow new local governments to be formed on land owned by tech firms. Jeffrey Berns, the cryptocurrency millionaire who proposed the idea, is convinced of its revolutionary potential. The challenge now is changing the minds of sceptics who are not. For some, one man's utopia is their dystopia.
+Loosely translated from Ancient Greek, utopia means "nowhere". A place that doesn't exist.
+For now, this is an apt description of the place Mr Berns and his software company, Blockchains, believe could become somewhere extraordinary.
+That place is a barren plot of land spanning 67,000 acres (271 sq km) in Nevada's rural Storey County. Mr Berns bought the land for $170m (£121m) in 2018.
+On this site, he hopes to develop a "smart city" from the internet up.
+Named Painted Rock, it would include all the trappings of a typical city - homes, schools and businesses - but with one fundamental difference. Residents would use the city's services and cryptocurrency on digital applications built with database technology known as blockchain.
+Unveiled last year, the plan envisions a city of more than 36,000 residents, 15,000 homes, and 11 million sq ft of commercial space. Blockchain estimates that, eventually, the city will generate $4.6bn in output annually.
+For this to happen, Mr Berns says a new model of local government is needed in Nevada. This government would have powers to raise taxes, enforce the law, and administer public services such as schools, utilities and transport.
+"There are some really cool things we could develop if we had the area and the flexibility to do it. That's what this is about," Mr Berns told the BBC.
+This vision has found favour with Nevada's Democratic Governor, Steve Sisolak. Within the next few months, he will seek to pass a law that would permit Blockchains and other companies to create self-governing "innovation zones" in the state.
+Under the proposal, only high-tech businesses with at least 50,000 acres of land that promise to invest $1.25bn would be able to form innovation zones. These zones would initially be overseen by three supervisors appointed by the governor. Elections for this supervisory board would only be held once 100 residents live in the zone, which would be subject to state law.
+To Mr Sisolak, innovation zones represent the blue-sky thinking needed to revitalise Nevada's tourism-reliant economy after the coronavirus pandemic.
+"There's no doubt about it: this is a big idea," the governor said during a briefing in February. "But our state is not afraid of thinking big."
+Big thinking has begotten big money. Blockchains has made $60,000 in political donations to Mr Sisolak and his campaign fundraisers over the years.
+From the start, the company has been inextricably linked to the governor's legislation, which seems tailor made for its smart-city project.
+While political contributions are not unusual in the US, they raise questions about the motivations of the donor. 
+So, what is the philosophy behind this project?
+"I'm not anti-government," Mr Berns said. "But I do think the government has stuck its nose into our business too much. I think corporate America is worse than the government as far as sticking their nose in our business is concerned. So I'm trying to create a place where they can't interfere."
+For Mr Berns, "they" are an impediment to a future without risk-averse politicians who stifle innovation, or unaccountable tech firms that harvest our data for profit.
+Blockchain, Mr Berns argues, will help us invent that future.
+In Mr Berns's imagined smart city, residents would manage most of their affairs on blockchain applications, eliminating the need for "middlemen'' such as banks. In theory, these residents would control their own data, with their devices, with their digital identity.
+"I want to create a place where we can rethink things. Where we can democratise democracy," Mr Berns said.
+As for how this would actually work in practice, the details are sketchy. Beyond talk of a carbon-neutral city, little is known about the provision of water, power and transport. Most importantly, many of the applications needed for the city have not been invented yet.
+Even Jeremy Aguero, an economic analyst hired by Blockchains, could not fathom what a blockchain-powered city would look like.
+He told the BBC it was inconceivable, like "putting a man on the moon" was for those who first attempted flight.
+One feature he was sure about was a tax levied on blockchain transactions within innovations zones. He likened this to a credit card transaction fee that would raise revenues for local and state authorities in Nevada.
+Like Mr Aguero, Mr Berns - a former consumer lawyer who made his fortune in cryptocurrency trading - has a well-rehearsed spiel about blockchain.
+Yet for all his idealism, he's not done enough to address the concerns of some local leaders, residents, and experts.
+On 2 March, the elected leaders of Storey County voted to oppose the formation of a "separatist" government on land owned by Blockchains.
+Speaking to the BBC, spokesman Austin Osborne said the leaders supported the idea of smart cities, but were "not in favour of carving the county up".
+A separate government was not "necessary or appropriate", because Storey County had already successfully housed a Tesla car factory and two data centres owned by Google and Switch, he argued.
+"Storey County has transformed northern Nevada," he said. "Any argument that says this county can't build something because it can't keep up is completely wrong."
+What's more, he said there are "people who are looking at whether this sort of a model fits within our democratic system".
+One such person is Professor Shoshana Zuboff, author of The Age of Surveillance Capitalism, a book about the economic logic of powerful tech firms.
+She was suspicious of Mr Berns's faith in blockchain as a driver of data democratisation and liberation from Big Tech.
+"Blockchain technology is a substitute for contracts. It's a substitute for social trust," she said.
+"So there may well be specific applications for blockchain technology that are useful. But blockchain as a substitution for society is essentially throwing in the towel on the idea of democratic renewal."
+She said tech firms have long been keen to find areas where they can install themselves as the governance power.
+Google's Sidewalk Labs project in Toronto, Canada is one prominent example. The bid to transform a disused waterfront into a smart city was abandoned last year after fierce opposition from privacy advocates and financial pressures.
+This is one of several cautionary tales for Blockchains.
+It's now up to Nevada's lawmakers to decide whether Blockchains's smart city will succeed where others have faltered.
+The governor's bill is expected to be presented to Nevada's legislature within the next few weeks.
+Pete Ernaut, a lobbyist for Blockchains, said the fate of the legislation will probably be decided by late May. Then, if the legislation passes, Blockchains says it will publish a master plan for its innovation zone in July.
+But just because it can, does it mean it should? If lawmakers decide it should not, or something else goes wrong, Blockchain's land "would be sold", Mr Berns said.

@@ -1,0 +1,36 @@
+If there was a court case on whether society should embrace artificial intelligence (AI) or reject it, there would likely be a hung jury. 
+No-one, it seems, can decide whether the benefits - such as automating written tasks, and sifting through vast amounts of information in seconds - outweigh the problems of biased data, and a lack of accuracy and accountability.
+For the legal profession itself, AI represents both a threat and an opportunity. It could lead to a "savage reduction" in jobs for humans, according to a 2021 report from the UK's Law Society.
+And a study this year from the universities of Pennsylvania, New York and Princeton estimated that the legal sector was the industry  most likely to be impacted by AI.
+At the same time, AI can play a hugely valuable role in researching and putting cases together. Although there is precedent for things going horribly wrong.
+New York lawyer Steven Schwartz found himself facing his own court hearing this year, when he used popular AI system ChatGPT to research precedents for a case involving a man suing an airline over personal injury. Six of the seven cases he used had been completely made up by the AI.
+While that may have left many law firms reluctant to embrace such systems, Ben Allgrove, the chief innovation officer at international law firm Baker McKenzie, has a different interpretation.
+"I don't think that it is a technology story, it's a lawyer story," he says. "You've got to get through the lack of professionalism [by Mr Schwartz], and the lack of ethics, before you get to the fact that the tool was something he shouldn't have been using."
+Baker McKenzie has been tracking developments in AI since 2017, and has since set up a team of lawyers, data scientists and data engineers to test the new systems that are coming to market.
+Mr Allgrove thinks that the vast majority of AI usage in his firm will come from using the new AI-powered versions of existing legal software providers, like LexisNexis and Microsoft's 365 Solution for Legal.
+LexisNexis launched its AI platform back in May, which can answer legal questions, generate documents and summarise legal issues. Meanwhile, Microsoft's AI-tool, Copilot, will launch for commercial customers next month, as an extra-cost add-on for 365.
+"We already use LexisNexis and Microsoft, and they will increasingly get capabilities driven by generative AI. And we will buy those things if they make sense and are at the right price."
+Generative AI is the type of AI that everyone is talking about. It is the AI that can create text, images and music based on the data it was trained with.
+The caveat is that currently, premium, paid-for versions of such tools are expensive. Paying for Microsoft's Copilot alone would "double our technology spend", Mr Allgrove says.
+The alternative is for law firms to pay a lesser amount to access AI systems not specifically aimed at the legal market, such as Google's Bard, Meta's Llama, and OpenAI's ChatGPT. The firms would plug into such platforms, and adapt them for their own legal use.
+Baker McKenzie is already testing several. "We are going out to the market and saying we want to test the performance of these models," says Mr Allgrove.
+Such testing is crucial, he explained, to "validate performance", because all the systems will all make errors.
+Legal software system RobinAI uses what it calls an AI co-pilot to help speed up the process of drafting and querying contracts, both for in-house legal teams in large organisations, and for individuals.
+It is primarily using an AI system developed by a company called Anthropic. This was set up by a former vice president of research at OpenAI, and is backed with investment from Google.
+But RobinAI has also created its own AI models that are being trained on the minutiae of contract law. Any contract used by the system gets uploaded and labelled, and is then used as learning tool. 
+This means the firm has built up a huge database of contracts, something Karolina Lukoszova, co-head of legal and product at UK-based RobinAI, thinks will be key to the use of AI in the legal profession.
+"Companies will need to train their own smaller models on their own data within the company," she says. "That will give them better results and ones that are ringfenced."
+To make sure information is accurate, RobinAI has a team of human lawyers working alongside the AI.
+Alex Monaco is an employment lawyer who runs both his own solicitor practice and a tech firm called Grapple.
+Grapple was developed to provide members of the public with what Mr Monaco calls "an ontology of employment law", and offers advice on a range of workplace issues from bullying and harassment to redundancy. It can generate legal letters and provide summaries of cases.
+He is excited about the potential for AI to democratise the legal profession.
+"Probably 95% of the inquiries that we get are from people who just cannot afford lawyers," says Mr Monaco.
+But thanks to widely available free AI tools, people can now build their own legal cases. Anyone with an internet connection can use Bard or ChatGPT to help formulate a legal letter. And while it might not be as good as a letter written by a lawyer, it is free.
+"AI is not replacing humans, it's not replacing lawyers. What it is doing is supercharging people's understanding and implementation of their legal rights," he says.
+And in a world where everyone is using AI, he adds that this could be very important.
+Read additional stories on artificial intelligence
+"Companies and corporations are using AI for hiring and firing. They are profiling CVs, using AI for restructuring, mass redundancies and so on. They're using this against the average employee."
+While the use of AI in law is very much still at an early stage, some systems are already facing their own legal challenges.
+DoNotPay, which dubs itself as the world's first robot lawyer, offering to fight parking fines and other citizen cases using AI, has been hit with a range of lawsuits, the latest of which accuses the firm of practising law without a license.
+Meanwhile, as a result of Steven Schwartz's case, several senior judges in the US now require lawyers to disclose whether AI was used for court filings.
+Mr Monaco thinks this will be both difficult to define and police.

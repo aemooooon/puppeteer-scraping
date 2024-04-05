@@ -1,0 +1,8 @@
+You might think that intelligent people think more quickly.
+However, a recent study has found that this is only partially true and applies only to simple problem-solving. When the difficulty level is higher, those with high IQs take their time.
+The researchers arranged a test involving 650 participants, who were shown patterns and asked to find the rules governing those patterns. The patterns become progressively more challenging.
+The scientists measured the IQ of the participants using conventional tests, and they measured the connection among the measured IQ, the activation patterns, and the overall test performance.
+The researchers suggested that this was explained by how those participants’ brains functioned. They seemed to show more patience as all areas of their brain did the required processing instead of jumping to conclusions.
+The results showed that the responses of the participants and those of the artificially created brains match.
+Markham hopes that by simulating the brain in the computer, scientists and researchers can better understand how the brain works, study its behavior under different conditions, and potentially develop treatments for brain disorders and diseases.
+Churchland and her team work on simulating networks of neurons to study how brains combine visual and auditory information.

@@ -1,0 +1,41 @@
+Northern Ireland can be a testing centre for artificial intelligence in the UK, according to a group representing the software industry.
+Belfast-based IT firm Kainos announced it was investing £10m to develop the use of generative AI in its business.
+David Crozier, new head of The Software Alliance, believes more companies in Northern Ireland will follow suit.
+He described the Kainos announcement as a "super statement of intent".
+He said Northern Ireland had "historically been very strong at developing enterprise software solutions" so it was "no surprise" technology companies here were investing in research and innovation.
+"Kainos won't be the last company to make announcements in terms of investing in AI, and generative AI in particular, and I think that's where Northern Ireland can be very strong in terms of its value proposition."
+Mr Crozier said he believed Northern Ireland could be "the perfect petri dish and testing ground for technologies, which, then if they work here, can be exported globally". 
+He added that "the likes of our teachers, our educators and our parents need to consider how the next generation of talent can be trained in those types of technologies - be of the mindset that those technologies will be part of their future and their career". 
+Northern Ireland has various clusters of research in AI including cybersecurity, medicine, robotics and economics.
+The Artificial Intelligence Research Centre (AIRC) was announced earlier this year at Ulster University, in partnership with Kainos.
+Meanwhile, the research and development of AI-enabled cybersecurity projects is facilitated at the Cyber AI-hub at Queen's University Belfast.
+The Belfast Region City Deal and Derry and Strabane District City Deal provide the potential to unlock further funding for AI, alongside private investment.
+Kainos, which has staff in more than 20 countries, is already working in the field of AI for various organisations including the United Nations, the Ministry of Defence and the National Crime Agency.
+Its incoming chief executive, Russell Sloan, said it was investing in the skills of more than 1,000 staff through the £10m investment "to ensure they can harness generative AI for the benefit of our customers".
+"If you think about all of the roles we have within the organisation or actually across wider industry, they will change as a result of generative AI," he said.
+"So we need to make sure that people are staying abreast of what is available to them.
+"That's not just within the technology sector as well, I think if you look more broadly within society you can see roles will change and evolve, and we need to make sure that we're changing and evolving with that."
+However, there are concerns about AI.
+In July, the Trades Union Congress said Westminster had to act to ensure employment law kept pace with advances in AI technology and MPs have warned Prime Minister Rishi Sunak that the UK is in danger of falling behind the EU unless new legislation comes soon.
+Interest in AI has mushroomed since chatbot ChatGPT emerged, causing a stir with its ability to answer complex questions in a human-sounding way.
+It can do that because of the incredible computational power AI systems possess, which has caused unease.
+For Kainos' incoming chief executive, it is not necessarily that AI will cause jobs to disappear but that it will "reduce an element of the mundane tasks that people have to perform and allow them to focus on the higher-value tasks". 
+Mr Sloan also acknowledges there are "things we need to be mindful of" in terms of security and ethics.
+"If you think about bias within algorithms, about bias within data sets, we need to make sure we're implementing things without bias and doing things in the right way for customers."
+In the meantime, the UK is set to host a global AI summit this November, which will "bring together key countries, leading tech companies and researchers to agree safety measures to evaluate and monitor the most significant risks from AI".
+There are 50,000 people employed in the sector in the UK, and Downing Street says it is worth £3.7bn to the economy.
+Mr Sloan highlighted the importance of education and "pushing the boundaries about what Northern Ireland does in terms of AI and possibly even becoming a centre of excellence on a worldwide scale".
+Simon Whittaker, chief executive officer of Northern Ireland cyber-security firm, Vertical Structure, said the investment from Kainos was significant.
+"This should be seen as a mark of how seriously they are taking this incredible set of technologies," he said.
+"I know that there are significant local employers based here developing and using these technologies in, for instance, their chatbots for customer support, some decision making and other areas, we are just not aware of it.
+"We have shown ourselves to be a region of significant talent in many industries over the last century, most recently in cyber-security, as called out by [US] President Biden in his recent visit, and now we have the opportunity to be world beating in AI."
+Mr Whittaker added that responsible AI usage was "all about ensuring that we can empower people to use the technology without losing track of the fact that the person must still own the output". 
+Belfast-based firm Enzai's governance platform helps users understand and manage the risks of AI and has attracted customers from the US to India. 
+Earlier this year, the firm's co-founder Ryan Donnelly joined government ministers and advisers in a meeting at 10 Downing Street to discuss AI.
+The company has also raised $4m (£3.18m) in seed funding.
+Mr Donnelly believes Northern Ireland has an opportunity to be a centre for AI, but that it will have to continue to adapt.
+"It moves so quickly - to grab the opportunity of AI, to be AI savvy - you have to move quickly," he added.
+"These are the most powerful technologies that have been developed, with every step forward there is an equal step forward in risk that companies need to manage."
+Meanwhile, for David Crozier, education is crucial - he said that while AI is not a "panacea to all problems", he believes it will bring more opportunities.
+"I think our members and myself are in the glass half-full category," he added.
+"If you go back to the invention of the printing press, the steam engine, it is just a new technology, there will be opportunities there to do things more efficiently, but that goldrush brings opportunity to build new tools, new solutions.

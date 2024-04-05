@@ -1,0 +1,7 @@
+The Oil and Gas Authority (OGA) has announced a major release of industry data in the hope of encouraging more exploration.
+The UK Oil and Gas National Data Repository (NDR) contains details of thousands of wells, seismic surveys and pipelines.
+It is hoped that giving industry and academics access to the information will encourage collaboration.
+The data is now freely-available via an online platform.
+Nic Granger, of the OGA said: "The world is arguably entering a 'fourth industrial revolution', with data at its heart.
+"The National Data Repository is a UK first and is an important milestone in our vision to enable open, transparent data.
+"The platform makes data available for machine learning and artificial intelligence and offers the opportunity to uncover new prospects and previously overlooked plays." 

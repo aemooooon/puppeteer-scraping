@@ -1,0 +1,14 @@
+The co-founder of DeepMind, the British artificial intelligence company owned by Google's parent Alphabet, has gone on leave from the company.
+DeepMind did not say why Mustafa Suleyman was taking time off, but said it was a mutual decision.
+"Mustafa's taking some time out right now after 10 hectic years," the company said in a statement.
+The firm expects Mr Suleyman to return to his post as DeepMind's head of applied AI later this year.
+The news was first reported by Bloomberg, which linked the move to recent controversies over some of DeepMind's work in the health sector.  
+The "applied" unit of DeepMind, which is tasked with finding and implementing practical applications of the company's research, faced heavy criticism in July 2017 over its mobile app Streams. 
+DeepMind had partnered with the Royal Free Hospital in London to help doctors predict instances of kidney injury by using the app. The UK's data regulator said the hospital did not tell patients enough about the way their data was used - but said the app could continue to be used if the "shortcomings" were addressed. 
+In November 2018, it was announced management and development of the Streams app would taken over by a newly-created Google Health division. 
+Since then, the app has received considerable praise by hospital managers, credited with significantly speeding up diagnoses. 
+"It's a huge change to be able to receive alerts about patients anywhere in the hospital," said Mary Emerson, from the Royal Free Hospital, in an interview with the BBC earlier this month.  
+"Healthcare is mobile and real time, and this is the first device that has enabled me to see results in a mobile real-time way." 
+The BBC was unable to reach Mr Suleyman for comment directly.
+_____
+Follow Dave Lee on Twitter @DaveLeeBBC

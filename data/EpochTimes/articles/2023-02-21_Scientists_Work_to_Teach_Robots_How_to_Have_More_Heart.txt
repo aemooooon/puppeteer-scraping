@@ -1,0 +1,12 @@
+Computer scientists in Indiana are training robots to comprehend human emotions, nonverbal cues, tone of voice, subconscious movements and gestures, and eye movements in pursuit of teaching them to become more heart-smart, not just head-smart.
+Aniket Bera, an Assoc. Prof. of computer science at Purdue University’s College of Science and an expert in emotional computing—the study of giving machines emotional intelligence—said his lab works at the intersection of humans and machines.
+“The goal of my research is to use artificial intelligence (AI) to improve human life,” Bera said.
+“We are trying to build AI models and systems that are more humanlike and more adept at interacting with humans. If we can maximize AI’s ability to interpret and interact with humans, we can help people more efficiently.”
+Historically, humans have sent coal mine canaries, rescue dogs, and bomb-sniffing rats into scenes of natural disasters, battlefields, and perilous environments.
+But there’s no risk to a living dog if one sends in a robot dog.
+“Most people who die in the earthquake don’t die in the actual quake,” Bera said.
+“They die from being trapped in the rubble; they die because first responders couldn’t find them fast enough.”
+“A drone can scan the environment and crawl through debris to detect signs of life, including heartbeats, body heat, and carbon dioxide, much more safely than even dogs can.”
+An AI assistant can also be of use between therapy sessions by taking note of a person’s nonverbal communication and speech patterns to help human therapists track their patients’ progress.
+For those who are neurodivergent or have social anxiety, this may even be a preferred method of getting therapy.
+“I think the bleak scenario is realistic because AI is attempting to model what makes humans special. So if we’re able to capture that in the technology, of course, it’s going to pose just as much risk to us as we have posed to other species, the dodo, for example.”

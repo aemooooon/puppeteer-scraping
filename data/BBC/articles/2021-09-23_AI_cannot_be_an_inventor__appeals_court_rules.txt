@@ -1,0 +1,29 @@
+Artificial intelligence (AI) cannot be the inventor of new patents, the UK Court of Appeal has ruled. 
+Patents assign the ownership of a new invention to its creator.
+At its core, the argument is about whether a law written for human inventors can be applied to machines. 
+The appeal court ruled against Stephen Thaler, creator of a system called Dabus, who took a case against the UK's Intellectual Property Office (IPO) which refused patents to his AI.
+It is the latest such judgement in a long-running battle to grant machines the status of inventor.  
+Earlier this month, Mr Thaler lost a similar case in the United States - although he has won elsewhere. 
+Mr Thaler filed two patent applications in 2018, one for a type of food container and one for a flashing light. But he did not list himself as the inventor.
+Instead, he chose to list Dabus, arguing that he should be granted the patent, "by ownership of the creativity machine" - while making clear that Dabus, not he, was the inventor. 
+The IPO told Mr Thaler he needed to list a real person as the inventor - something he did not do, and the IPO decided that the application had been withdrawn.   
+Mr Thaler took the case to the High Court - where he lost - and onward to the Court of Appeal. 
+The UK panel decided, by a two-to-one majority, that an inventor must be a real human person under UK law. 
+"Only a person can have rights. A machine cannot," wrote Lady Justice Elisabeth Laing in her judgement. "A patent is a statutory right and it can only be granted to a person." 
+Lord Justice Arnold, agreeing, wrote: "In my judgement it is clear that, upon a systematic interpretation of the 1977 Act, only a person can be an 'inventor'." 
+The third judge, Lord Justice Birss, took a different view. While he agreed that "machines are not persons", he concluded that the law did not demand a person be named as the inventor at all. 
+"The fact that no inventor, properly so-called, can be identified simply means that there is no name which the [IPO] has to mention on the patent as the inventor," he wrote. 
+Instead, the IPO "is is not obliged to name anyone (or anything)." 
+He also signalled that the patent case could have been made simpler if only Mr Thaler "was not such an obsessive". 
+If "instead of calling Dabus the inventor, he named himself... then none of these problems would arise," he wrote. 
+But since Lord Justice Arnold and Lady Justice Elisabeth Laing had the majority, the appeal was dismissed. 
+Diego Black from intellectual property law firm, Withers & Rogers, said the decision "is as expected".
+"The rights to a patent normally belong to the inventor, or their successor in title. However, if a decision were made to allow a machine to be named as inventor, ownership of these rights would be thrown into question," he explained.
+"It seems inevitable that the current criteria for assessing inventorship will need to be reassessed to take into account the greater role the machine plays in the invention process," he said.
+But such a change would need careful consideration, he said.
+Mr Thaler filed similar applications - and has followed up with legal challenges - in several countries, as part of a bid to gain patent rights for AI. 
+Some academics believe that the law around invention is outdated, and should be changed. 
+The movement has seen mixed success.  
+In July, an Australian court decided that AI systems can be recognised as the inventor for patent purposes - an outcome of one of Mr Thaler's Dabus-related claims. Days earlier, South Africa had issued a similar ruling.
+But the United States, arguably one of the most significant markets to secure patents in, agrees with the UK judges that only "natural persons" can be inventors.  
+Earlier this month, US District Judge Leonie M Brinkema upheld that ruling, writing: "As technology evolves, there may come a time when artificial intelligence reaches a level of sophistication such that it might satisfy accepted meanings of inventorship. 

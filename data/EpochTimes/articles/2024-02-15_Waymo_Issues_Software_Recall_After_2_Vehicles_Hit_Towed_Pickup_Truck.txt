@@ -1,0 +1,13 @@
+Waymo, an autonomous ride-hail service, issued a voluntary recall on Tuesday for its self-driving software after two of its robotaxis hit the same pickup truck being towed in Phoenix, Arizona, in December 2023.
+Waymo chief safety officer Mauricio Pena said the company’s entire fleet was updated with new software to address “this rare issue” and that its ride-hailing service was not interrupted by the update.
+In the blog post, Mr. Pena stated that the pickup truck was “improperly towed” and was “persistently angled across a center turn lane and a traffic lane.”
+“Following contact, the tow truck and towed pickup truck did not pull over or stop traveling, and a few minutes later another Waymo vehicle made contact with the same pickup truck while it was being towed in the same manner,” he said.
+According to him, neither Waymo vehicle was transporting riders at the time. He said the “unusual scenario” resulted in “no injuries and minor vehicle damage.”
+“We determined that due to the persistent orientation mismatch of the towed pickup truck and tow truck combination, the Waymo AV incorrectly predicted the future motion of the towed vehicle,” he stated.
+Waymo said it has informed the Phoenix Police Department, the Arizona Department of Public Safety, and the National Highway Traffic Safety Administration (NHTSA) about the two collisions.
+“Based on our own analysis and our consultations with NHTSA, we concluded that it would be appropriate to submit a voluntary recall report of the software present on our fleet at the time of the two collisions,” it stated.
+The company said it developed, rigorously tested, and validated a fix to the software it began deploying to its fleet on Dec. 20.
+“This voluntary recall reflects how seriously we take our responsibility to safely deploy our technology and to transparently communicate with the public,” Mr. Pena stated.
+“There are hundreds of recall reports submitted annually to NHTSA and we respect the importance of this road safety framework and our relevant legal obligations,” he added.
+The clashes follow a recent incident in which a Waymo robotaxi was set on fire by a crowd of people after it drove toward the cross streets in San Francisco on the first day of Chinese New Year.
+The incident highlighted both the limited ability of robotic cars to make judgment calls and hostility to them for various reasons, such as concerns about safety, the jobs they might take from human drivers, and a more generalized fear of artificial intelligence, according to officials and academics.

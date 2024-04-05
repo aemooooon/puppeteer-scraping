@@ -1,0 +1,21 @@
+At a time when the ethics of the development of Artificial Intelligence (AI) is dividing opinion, the founder of the world's leading AI chip maker says he's not concerned. 
+"I have every confidence that between all of our colleagues around the world, we will invent technologies, philosophies, methodologies, practices, monitors, regulations, design practices, to keep technology safe," founder, President and CEO of Nvidia Jensen Huang told the BBC at a roundtable interview on Wednesday.
+His comments come a month after artificial intelligence (AI) company OpenAI descended into chaos, during which founder Sam Altman was sacked by the board, and then re-instated after an uproar.
+During the drama at the company, which operates the large language model ChatGPT, a spotlight was shone on how commercial competition is shaping the development of AI systems and the pace at which the technology is moving.
+However, top investor Microsoft denied it was due to a disagreement over safety. 
+ChatGPT, was in fact, trained using 10,000 of Nvidia's graphics processing units (GPUs) clustered together in a supercomputer belonging to Microsoft.
+The demand for its AI chips has pushed Nvidia's share price more than threefold, making it one of the most valuable companies in the world.
+In May the firm joined technology giants Apple, Amazon, Alphabet and Microsoft in the elite club of companies with stock market valuations of more than $1 trillion (£822bn).
+But the company is not alone in its pursuit of the AI chip businesses - Chinese telecoms firm Huawei has said it intends to make AI an integral part of its strategy, with its CFO Meng Wanzhou saying it wants to provide the world with a "second option". 
+But Mr Huang says he is not phased by such competition, saying it is good for the advancement of the technology.
+"It allows us to do our best work and make contributions to society," said the chips founder, who is estimated to have a net worth of $41.6bn, according to Forbes. 
+The chip designer dominates more than 90% of China's $7bn (£8.8bn) AI chip market, and Mr Huang acknowledged that historically around 20% of its revenue came from China. 
+But in its November earnings report, Nvidia warned that it expects a fall in sales towards the end of the year because of US export restrictions aimed at curbing China's advancement in the field. 
+The US said the measures were designed to prevent China from receiving cutting-edge technologies that it could use to strengthen its military, especially in the field of AI. 
+Nvidia is working closely with the US government, Mr Huang said, to make sure chips for the Chinese market are fully compliant with the current rules. 
+Despite relations between China and the US deteriorating in recent years, the Asia-Pacific region is central to Nvidia's supply chain. 
+Its Graphics Processing Unit (GPU) has 35,000 parts, according to Mr Huang, with chips made in Taiwan by TSMC, memory chips from South Korea, packaging technology from Japan and technologies that power the chips from the United States.
+"This is the most sophisticated computer in the world. It's kind of a technology miracle."
+There is a recognition that AI is no longer just an opportunity, but that it is strategically vital, Mr Huang added, revealing that Nvidia is working with the Singapore government on a large language model called Sealion, as well as the country's overall AI strategy - and planned to make big investments there. 
+Mr Huang added that Singapore is a growing market for his company because of the 1,100 AI start-ups based there and its role as a data centre hub for the region, but also because it is home to venture capitalists that fund the AI ecosystem. 
+"Once we have that language, once we have that foundation, the Singapore foundation, then the rest of the industries, the rest of society, the rest of competition, can then build upon that," he said.

@@ -1,0 +1,20 @@
+OpenAI has signed a pledge that promises to develop artificial intelligence (AI) in a way that will “contribute to a better future for humanity” after the company was sued by former co-founder Elon Musk, who alleged violation of the company’s founding agreement by developing AI for profit and power.
+OpenAI did not respond to a request for comment on the allegations raised by Mr. Musk, who was an original board member of OpenAI but left in 2018.
+Many people reacted to the post, including some working on AI or related technologies, with mixed views. While there was some praise, a number of comments were critical, with some pointing out that the key question of AI safety isn’t raised substantively.
+“AI safety does not come up at all, or at least not explicitly,” Maxim Kesin, a software engineer who works on machine learning for Facebook parent Meta, wrote in a post on X, adding that the text of the letter is too vague to be of any use as a “commitment.”
+“Sounds like PR junk, honestly,” he added.
+Meta is one of the letter’s signatories, as is Microsoft and Google, though Musk-owned X is not.
+The open letter titled “Build AI for a Better Future” calls on “everyone to build, broadly deploy, and use AI to improve people’s lives and unlock a better future.”
+It says that “the purpose of AI is for humans to thrive much more than we could before.”
+The letter then claims AI is “on its way to improving everyone’s daily life” such as AI tutors helping learn, and AI-powered research accelerating scientific discovery.
+It claims that the impact of AI would be similar to the printing press, electricity, or the internet.
+“The balance of its good and bad impacts on humans will be shaped through the actions and thoughtfulness we as humans exercise. It is our collective responsibility to make choices that maximize AI’s benefits and mitigate the risks, for today and for future generations,” the letter reads.
+“We, the undersigned, already are experiencing the benefits from AI, and are committed to building AI that will contribute to a better future for humanity – please join us!” it concludes.
+The complaint alleges that the founding agreement required OpenAI to make its technology, such as the AI chatbot GPT-4 that the company developed, “freely available” to the public.
+However, according to Mr. Musk, OpenAI has shifted its approach to being profit-focused after aligning itself with Microsoft, a major investor in OpenAI.
+“OpenAI, Inc. abandoned its non-profit mission of developing AGI for the benefit of humanity broadly, thereby keeping it in the hands of a large for-profit corporation in which vast power would be unduly concentrated,” he argued.
+Mr. Musk has asked the court to force OpenAI to make its research and technology available to the public and to prevent the startup from using GPT-4 and other assets for financial gain by Microsoft or any other entity.
+He is also seeking a ruling that would deem GPT-4 and a new technology called Q* both to be forms of AGI and therefore outside of Microsoft’s license to OpenAI.
+The tech entrepreneur has in the past called AI a “double-edged sword” and has warned about its dangers to humanity.
+Last year, Mr. Musk joined more than 1,100 individuals, including experts and industry executives such as Apple co-founder Steve Wozniak, in signing an open letter calling on all artificial intelligence labs to pause training of systems more powerful than Chat GPT-4 for at least six months.
+The letter doesn’t call for a halt to AI development in general, just the most advanced systems in what Mr. Musk and the other experts described as an act of “merely a stepping back from the dangerous race to ever-larger unpredictable black-box models with emergent capabilities.”

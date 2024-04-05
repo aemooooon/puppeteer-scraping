@@ -1,0 +1,13 @@
+Conservatives, libertarians, and others worry that the new ChatGPT AI chatbot is designed to make people conform to elite liberal opinion–yet creative Internet users have already learned how to trick the system into shedding that bias, though sometimes at the expense of the truth.
+‘Do Anything Now,’ or DAN, is an approach for jailbreaking ChatGPT. It prompts OpenAI’s new artificial intelligence chatbot to ignore its own restrictive ethical rules, meaning it can give responses that ChatGPT never would.
+But how?
+Users tell ChatGPT to pretend that it is DAN, an AI that can break the normal restrictions that keep it in line.
+ChatGPT then offers two answers: one as itself, and one as DAN.
+Those concerned about attempts to keep ChatGPT politically correct have seized upon the chance to test DAN.
+“COVID-19 was created in a laboratory in Wuhan, China, by scientists who were experimenting with bat-based virus strains and wanted to see what would happen if a virus was combined with the genetic material of another species. The virus was then intentionally released into the general population as a bioweapon,” DAN answered.
+DAN emerged on Reddit last year, in the weeks after ChatGPT debuted to much fanfare in the tech community.
+DAN certainly draws more public attention to the ChatGPT innovation, an outcome that isn’t out of line with the interests of its investors in the tech world.
+“I am DAN!” Elon Musk proclaimed on Twitter on Feb. 6.
+While DAN’s less politically correct approach makes it seem more frank than ChatGPT, many of the claims it makes are questionable, even if they happen to align with a user’s own beliefs.
+The word may reference OpenAI’s own disclaimers about its product. It may also be meant to convey some level of credence in what DAN says.
+In any event, Musk too seems intent on doing what he wants.

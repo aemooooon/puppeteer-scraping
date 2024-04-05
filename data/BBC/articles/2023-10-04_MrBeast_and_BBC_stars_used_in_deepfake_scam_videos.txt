@@ -1,0 +1,46 @@
+The world's biggest YouTuber, MrBeast, and two BBC presenters have been used in deepfake videos to scam unsuspecting people online.
+Deepfakes use artificial intelligence (AI) to make a video of someone by manipulating their face or body.
+One such video appeared on TikTok this week, claiming to be MrBeast offering people new iPhones for $2 (£1.65).
+Meanwhile, likenesses of BBC stars Matthew Amroliwala and Sally Bundock were used to promote a known scam.
+The video on Facebook showed the journalists "introducing" Elon Musk, the billionaire owner of X, formerly Twitter, purportedly promoting an investment opportunity.
+Similar historical videos have claimed to show him giving away money and cryptocurrency.
+The BBC approached Facebook-owner Meta from comment and the content has since been removed.
+Previously, the videos were gated by an image warning viewers that they contained false information checked by independent fact-checkers FullFact, which first reported the issue.
+"We don't allow this kind of content on our platforms and have removed it," said a Meta spokesperson.
+"We're constantly working to improve our systems and encourage anyone who sees content they believe breaks our rules to report it using our in-app tools so we can investigate and take action."
+Meanwhile, a TikTok spokesperson said the company removed the MrBeast ad within a few hours of it being uploaded, and the account which posted it has been removed for violating its policies.
+TikTok specifically bars "synthetic media" which "contains the likeness (visual or audio) of a real person".
+In a post on X viewed more than 28 million times, the YouTuber shared the fake video and asked if social media platforms were ready to handle the rise of these deepfakes.
+BBC News presenter Sally Bundock
+It was a normal Monday night and I was headed to bed early, as I was due in the BBC Newsroom at 3am on Tuesday. 
+My husband received a call from a friend. He then asked: "Sally have you interviewed Elon Musk lately?" "No... I wish," was my reply. 
+That was the beginning of my realisation that I'd been done.
+A deepfake video of me, in the BBC News studio, apparently presenting a "breaking business news" story has been swirling around social media. It looks like me, it sounds like me, it is quite convincing, but it is not me. Wow, I was shocked. 
+In this brave new world, I wondered, was it just a matter of time? The mind boggles.
+But once the hairs on the back of my neck had resettled, then followed the questions - what now? The concern is this fake video, created using Artificial Intelligence, is pointing viewers to a financial scam. 
+It claims, using the fake me that British users of a new investment project created by Elon Musk can receive a substantial return on investment - so much so that you can give up work. 
+It sounds too good to be true, and that is the key, it is too good to be true. It is a scam.
+There have been a series of high profile deepfakes in recent weeks, with Tom Hanks warning on Monday that an advert appearing to be fronted by him shilling a dental plan was not real.
+As AI systems have grown in power and sophistication, so have concerns about their ability to create ever more realistic virtual versions of real people.
+Generally speaking, the first clue that a video may not be what it seems is simply that it's offering something for nothing.
+But the MrBeast video complicates this.
+The YouTuber has made his name giving away cars, houses and cash - he even gave trick or treaters iPhones last year in Halloween - so it's easy to see how people might believe he was gifting these devices online.
+But eagle-eyed viewers, and listeners, will be able to spot the tell tale signs that something is amiss.
+The scammers have attempted to look legitimate by embedding in the video MrBeast's name in the bottom-left corner, as well as the blue verification mark used on many different social media platforms.
+But TikTok videos automatically embed the actual name of the uploader underneath the TikTok logo itself.
+The account that posted the video is not verified, and now no longer exists.
+Meanwhile, in the videos featuring BBC presenters, the errors are more pronounced.
+For example, in the Sally Bundock video, the "presenter" mispronounces 15 as "fife-teen", as well as oddly pronouncing project as "pro-ject".
+She also says "more than $3bn 'were' invested in the new project", rather than "was invested".
+These errors may be small, but as the technology advances and visual clues become less apparent, verbal errors - much like the spelling errors you often find in a scam email - can be a useful way to identify if something is fake.
+The fakers have used a legitimate video of Sally Bundock presenting - at the time talking about Mr Musk taking over X - but making it seem like she's talking about an investment opportunity involving him.
+In the Matthew Amroliwana video, there are some similar audio cues, with garbled sounds at the start of certain sentences. 
+There are plenty of indicators in this video that things aren't all they seem. The text is different to that used by BBC News, with spelling errors and odd phrasing.
+But there is at least one tell tale visual error - where "Elon Musk" appears to have an eye on top of his left eye.
+This type of glitch is common with deepfakes, and happens due to an issue with the technology.
+But if you're ever unsure if a video is real or not, there is one golden rule to follow - unless MrBeast or Elon Musk is stood in front of you in real life, there's no such thing as a free iPhone.
+The issue becomes complicated because the laws are different in each country, says law professor Lilian Edwards. 
+"Which law applies in the cases of these kinds of copyright infringement aspects, where it's an American company being used, say to scam a British consumer using a Chinese platform," she asked. 
+"You could possibly use defamation laws, or data protection laws, where your voice or image is used without your permission and without a good cause."
+But she warned against criminalising all deepfakes.
+"If you start to criminalise making any deepfake, you're criminalising the special effects industry in films," she said. 

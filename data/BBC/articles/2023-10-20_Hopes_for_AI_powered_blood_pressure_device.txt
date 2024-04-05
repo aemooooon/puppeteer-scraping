@@ -1,0 +1,15 @@
+Software that uses artificial intelligence to take a person's blood pressure could be rolled out across the country.
+Lifelight has been developed by a company based on the Southampton University Science Park.
+In trials across Hampshire and the Isle of Wight, patients look at a tablet screen that takes a blood pressure reading from their face in 40 seconds.
+The technology targets people who do not regularly engage with the NHS.
+Xim, the company behind Lifelight, has been running trials with the NHS since 2019 and claims it is already as accurate as the traditional inflatable cuff.
+The company hopes the contactless technology will be made available for patients to use at home on their tablets and smart phones.
+David Petronzio from Lifelight said the camera on the tablet detects colour changes, known as "microblushes", in a patient's face, which occur every time their heart beats.  
+Artificial intelligence is then used to translate the information into blood pressure, heart rate and respiration data.
+Trials have taken part at Thornhill Baptist Church, in Southampton, and Paulsgrove surgery, in Portsmouth.
+Dr Lindsay Welch, from Wessex Academic Health Science Network, said they are targeting five "key" places where people don't have regular cardiovascular checks.
+She added that these are "also places where people are often struggling with money and have lots of other complex illnesses and social problems".
+According to figures from Public Health England, 43% of people with hypertension in the UK are undiagnosed.
+Dr Karen Kyd, a GP from Portsdown Group Practice, said: "High blood pressure is common and often doesn't have any symptoms. 
+"Left untreated, it can cause serious health problems including strokes, heart attacks, kidney disease and dementia, so it's especially important to take the time to get a simple check. Support can then be offered to bring the blood pressure under control.
+"This initiative will help us to make tests even more accessible and provide innovative care to our patients."

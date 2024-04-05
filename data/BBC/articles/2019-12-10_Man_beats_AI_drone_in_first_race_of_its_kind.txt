@@ -1,0 +1,8 @@
+One of the world's top drone pilots has beaten nine computer-piloted drones in a race around an obstacle course. 
+Swiss pilot Gabriel Kocher wore first-person-view goggles to pilot his drone through the course in six seconds. 
+The fastest automated drone, completing the unseen course in 12 seconds without the use of GPS or any human intervention, won a $1m (£0.76m) prize.
+Organisers the Drone Racing League predicts AI-powered drones will dominate the competition by 2023. 
+Its first artificial-intelligence robotic racing contest was the result of a collaboration between aerospace giant Lockheed Martin and crowd-sourced problem-solving platform HeroX. 
+"Our team worked really hard throughout each stage to bring a robust and (most importantly) fast solution to the table," said the prize-winning MVLab team.
+"We are proud to have won despite the remarkable competitors that we had to face."
+Dr Steve Wright, senior research fellow in avionics and aircraft systems, at University of the West of England told BBC News: "Ten years ago if you needed a processor that could solve those sort of problems - how to fly a drone through a course - it would have been the size of a dinner plate and would have guzzled energy and got so hot you could fry an egg on it. 

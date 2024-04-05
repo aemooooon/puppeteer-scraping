@@ -1,0 +1,16 @@
+Canada’s federal privacy commissioner and several of his provincial counterparts are in the midst of an investigation into the artificial intelligence (AI) company that makes ChatGPT because of a confidential complaint alleging the technology has been violating Canadians’ privacy.
+The OPC has not released further details as the investigation is ongoing.
+The Epoch Times asked the Office of the Information and Privacy Commissioner of Ontario (IPCO) if it also plans to join the investigation, and it said Ontario “does not have its own private sector privacy law covering private sector organizations.”
+As a result, the IPCO said it has called on the provincial government to establish “clear and binding rules around the public sector’s use of AI technologies, including ChatGPT.”
+The platform has grown rapidly since its introduction. Two months after being launched by OpenAI, ChatGPT had an estimated 100 million active monthly users, making it the fastest-growing consumer platform in history.
+The Epoch Times asked the OPC for further details of the investigation’s nature as well as clarification of whether the complaint made against ChatGPT took issue with the platform’s general operations or with a specific instance of privacy violation.
+Tobi Cohen, the OPC’s senior communications adviser, said federal Privacy Commissioner Philippe Dufresne decided to launch the investigation after considering the level of risk that the complaint’s subject matter posed to the privacy of Canadians.
+Prior to initiating the investigation in early April, Cohen said the OPC considered the general impact that ChatGPT could post to Canadians’ privacy rights, along with “the impact on affected individuals, the scope of the actions of the organization in question, and whether the matter involves novel or systemic issues warranting examination.”
+Cohen said Dufresne has also “expanded” the investigation’s scope in addition to carrying it out with some other provinces.
+In particular, the investigation will now examine if OpenAI “obtained valid and meaningful consent for the collection, use and disclosure of the personal information of individuals based in Canada via ChatGPT,” and also if it has maintained “its obligations with respect to openness and transparency, access, accuracy, and accountability.”
+Lastly, the privacy commissioners will seek to determine if OpenAI has acted in a way that a “reasonable person would consider appropriate, reasonable or legitimate in the circumstances, and whether this collection is limited to information that is necessary for these purposes.”
+Altman acknowledged public concerns surrounding ChatGPT and its most recent iteration, GPT-4. He said OpenAI shares some of those concerns, but noted it’s important to understand that GPT-4 “is a tool, not a creature.”
+He said that while ChatGPT will do away with some jobs, he believes it will replace them with “far greater jobs.”
+“GPT-4 and other systems like it are good at doing tasks, not jobs, and so you see already people that are using GPT-4 to do their job much more efficiently,” Altman said at the hearing.
+“GPT-4 will, I think, entirely automate away some jobs, and it will create new ones that we believe will be much better.”
+He went on to say that he believes federal governments have a role to play in facilitating this change.

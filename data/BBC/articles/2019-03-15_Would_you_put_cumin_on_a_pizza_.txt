@@ -1,0 +1,37 @@
+What do Tuscan Chicken, Bourbon Pork Tenderloin and New Orleans Sausage all have in common?
+They're all new spice mix flavours that have been developed by the world's biggest spice firm using artificial intelligence (AI). 
+But with taste such a subjective experience, can machines really do the job better than humans? And what does this mean for cultures that see spice as a clear token of identity?
+Spice giant McCormick, which sells spices to consumers but also develops flavours for the food industry, says it spent four years crunching through more than 40 years of flavour-related data, using machine learning to come up with new flavour combinations that human scientists might not have considered. 
+After all, would you have thought of trying cumin on pizza? 
+But some traditional spice producers are unimpressed.
+Neelam Verhomal runs Mohanlal Verhomal (MV) Spices in Jodhpur, northern India, along with her mother and six sisters. She laughs when she hears about the AI developments.
+For her, there is a real human art to creating the perfect spice blends.
+"My late father Mohanlal was a scientist and inventor and he actually tested each spice and its chemical composition to prepare the masala blends," she says.
+"My mother would then do the taste test at home - and that made a big difference."
+Her family's mixes don't contain preservatives or flavour enhancers and are made using traditional grinding methods, with matriarch Bhagvanti overseeing the process and giving the final sign-off.
+So McCormick and its tech partner IBM Research are straying into controversial territory.
+As someone of Kenyan-Indian heritage, I can testify that it's rare for a South Asian family not to possess a masala dabba - a storage box used to create spice blends at home filled with staples such as turmeric, cumin, paprika and asafoetida (hing). 
+Our own one is more than 60 years old and has travelled through several continents and generations.
+Spices aren't just a flavour, they're key to culture, heritage and history. So does AI really have a role to play here? 
+Dr Hamed Faridi, McCormick's chief science officer, says that deep analysis of tens of thousands of previously successful spice mixes is helping the company come up with new flavours more quickly.
+"A product, from the beginning to the end, can take somewhere between 50 to 150 iterations before it is ready for commercialisation," Dr Faridi says.
+If all that data is shared and analysed, the company says it could cut the time it takes to come up with new flavours by 70% and reduce training time for new product developers. 
+"It takes an experienced product developer about 10 to 15 years to become highly trained in what they do, so it makes business sense to develop a system that means every person is as good as the best person we have," says Dr Faridi.
+Combining flavours is a complex business it seems.
+"In a kitchen [at home] you might have maybe one or two types of fresh garlic and possibly a garlic powder," explains IBM research scientist Dr Robin Lougee.
+"But a product developer at McCormick will have potentially 50 different types of garlic, all of which are different sizes, different granule sizes, have different flavour profiles. On top of that they have to consider all of the other constraints."
+These constraints - usually client requirements - can include the need for recipes to be kosher or halal, free from genetically modified organisms, or low in salt, for example, as well as needing regulatory approval.
+More Technology of Business
+The AI is also useful for suggesting similar flavours that might act as a substitute if a certain spice is hard to come by, says Dr Lougee.
+But sometimes the AI isn't all that clever.
+"In the early days of our collaboration, a product developer was trying to make a Cajun rice dish," she says. "We tried out our suggestion generation engine and it created a great Cajun spice mix, but it left out all the rice. 
+"It hadn't yet learned that you have to take into account the application, so all it had done was create a seasoned salt," she says.
+Food technology historian Dr Nadia Berenstein says that in a world full of so many food and drink choices there is a "restless search for novelty" in an increasingly competitive industry. And the battleground is flavour.
+Neelam does admit that technology can play a part, given that spices such as green cardamom and pepper from Kerala have been hard to source recently. AI-suggested alternatives could be useful.
+But if you don't have access to commercially sensitive databases produced by the largest spice company in the world, Dr Stuart Farrimond, author of The Science of Spice, has come up with a spice-based periodic table for home cooks.
+He believes people now want to know more about where their food has come from and how it is made. 
+"Spices have always been in demand but there appears to have been a rise in flavour transparency because people are interested in health and also what is going into the food that they are cooking," he says.
+So should traditional spice mix producers fear AI?
+"AI is just a tool that's available to our generation to be able to do what humans have always done, and that's to explore new tastes and experiences," says Dr Lougee.
+That may be true, but just don't think of taking away our masala dabba.
+Follow Dhruti Shah on Twitter @dhrutishah

@@ -1,0 +1,3 @@
+Nvidia became the ninth public company to ever hit the $1 trillion level mark, joining tech giants  Microsoft, Alphabet, Amazon, and Apple.
+“We thought if they beat the guidance by about 5 percent, that’s good enough for the stock to stay where it is. But they’re beating [the] guidance consensus by 50 percent,” said Pajjuri.
+Intel traditionally has been a supplier of central processing units (CPUs), but Nvidia’s GPUs are essential for generative AI platforms like OpenAI’s ChatGPT and Google’s Bard.

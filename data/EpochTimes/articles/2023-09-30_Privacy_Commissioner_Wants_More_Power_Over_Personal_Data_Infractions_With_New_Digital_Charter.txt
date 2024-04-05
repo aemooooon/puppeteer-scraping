@@ -1,0 +1,8 @@
+Privacy Commissioner Philippe Dufresne told a House of Commons committee that his office must be given more power to penalize digital privacy infractions, including financial penalties.
+The Standing Committee on Industry and Technology (INDU) is currently studying Bill C-27, the Digital Charter Implementation Act.
+Mr. Dufresne told the committee on Sept. 28 that his office has long been asking for the “modernization” of both the Personal Information Protection and Electronic Documents Act (PIPEDA) and the Privacy Act.
+“We also recommend that an organization’s purposes for collecting, using or disclosing information, be specific and explicit and that penalties be available in cases where the personal information of Canadians is collected, used or disclosed for inappropriate purposes,” he said.
+Mr. Dufresne provided 15 recommendations predicated on privacy being a fundamental right, fostering trust in public interest and innovation, and confidence in institutions’ participation as digital citizens.
+Industry Minister François-Philippe Champagne announced on Sept. 26 that he would heed criticism of C-27 pertaining to inadequate privacy protection.
+Conservative MP and industry critic Rick Perkins followed up Mr. Vis’s motion with a sub-amendment stipulating the committee will pause its study of the bill until Mr. Champagne has presented his amendments.
+The government also said it would forbid using AI for “reckless and malicious” reasons, creating oversight and administering financial penalties for any infractions.

@@ -1,0 +1,23 @@
+Chinese artificial intelligence company SenseTime is experiencing a continuous reduction in shareholding by its major shareholders.
+The company—hit by U.S. sanctions over Uyghur concerns—has accumulated losses of 43.83 billion yuan (about $6.14 billion) in the past five years.
+The company joins Megvii Technology, Yitu Technology, and Cloudwalk Technology as part of China’s four “AI dragons.”
+According to industry insiders, the other three “AI dragons” also performed below expectations due to U.S. sanctions.
+Equity information provided by the Hong Kong Stock Exchange (HKEX) on June 19 showed that Alibaba Group Holding Ltd. (09988.HK) sold 50 million shares of SenseTime on June 15 at an average of HK$2.2670 (about US$0.295) per share. Alibaba reduced its holdings worth 113.35 million Hong Kong dollars (about US$14.74 million) in cash this time, and its stake fell to 5.91 percent. On June 20, the closing price of SenseTime (00020.HK) dropped to HK$2.25 (about US$0.293).
+This is the second time this month that Alibaba reduced its holdings in SenseTime Group, with the last reduction on June 5, when it sold 70 million shares at an average price of HK$2.1974 (US$0.2857) per share, cashing out HK$153.82 million (US$20 million) and reducing its stake to 6.84 percent.
+Alibaba reduced its stake in SenseTime three times this year, the first time being on April 11, when it reduced its stake by 40 million shares.
+SenseTime’s share price plunged 50 percent when its lock-up period expired on June 30, 2022, and closed that day at HK$3.13 (about $0.41) per share, falling below its offering price of HK$3.85 (about $0.50).
+When Alibaba cut its stake on April 11, SenseTime Group’s share price was at its highest since the lifting of the trading ban.
+In addition to Alibaba, SenseTime Group has been reduced by other major shareholders many times since the listing ban was lifted.
+For example, Softbank Group has reduced its holdings five times since Dec. 5 last year.
+The latest reduction was on April 6, when it cut its holdings by 50 million shares, reducing its shareholding ratio to 13.95 percent, and cashing out approximately HK$138 million (about US$17.94 million).
+“I am not surprised at all that SenseTime is experiencing a wave of share reduction by its major shareholders,” he told The Epoch Times on June 21.
+“It’s not because AI is not good, but because SenseTime is not doing well. In fact, it is not just SenseTime that fails to perform, none of China’s four ‘AI dragons’ has had a satisfactory performance.”
+Tokumori said SenseTime is the type of company that has been relying on capital investment for many years but has lost money year after year—it was only a matter of time before the bubble burst.
+“SenseTime’s strengths lie in image recognition and big data, which are very different from the generative AI that is now in the limelight. Its revenue from the launching of new technology is weak to begin with,” he explained.
+As a result, SenseTime Group postponed its scheduled Hong Kong IPO on Dec. 17, 2021, and restarted its IPO in Hong Kong on Dec. 20 of the same year. Before that, it was listed in Hong Kong on Sept. 30, 2021.
+SenseTime was earlier put on the U.S. Entity List in 2019, an export blacklist that limited its capacity to access U.S. technology.
+Tokumori said the impact of the sanctions was comprehensive.
+“SenseTime only provides algorithms, which means running SenseTime’s algorithms on other people’s hardware. For example, running SenseTime’s face recognition on Hikvision’s cameras—with the failure of Hikvision, there will be no orders for SenseTime,” he said.
+“Another impact of sanctions on SenseTime is that foreign companies are afraid to cooperate with SenseTime, and domestic business alone cannot support its current valuation.”
+Hikvision was placed on the Specially Designated Nationals and Blocked Persons (SDN list) by the U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) in 2022, affecting more than 180 countries and regions that use Hikvision products.
+The company’s 2022 full-year net profit fell by 23.59 percent year-on-year, and in the first quarter of this year, there was a 1.9 percent year-on-year decline in revenue and a 20.7 percent year-on-year decline in net profit attributable to its shareholders.

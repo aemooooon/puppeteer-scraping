@@ -1,0 +1,26 @@
+An artificial intelligence (AI) report released by the Australian Signals Directorate warns that the technology can “intentionally  or inadvertently cause harm.”
+The publication, produced by the Australian Cyber Security Centre with international partners, including the United States, warned that AI presented both opportunities and threats.
+Threats included data poisoning of an AI model, input manipulation attacks, generative AI hallucinations, privacy and intellectual property concerns, and model stealing attacks.
+The report noted government, academia, and industry have a role to play managing AI technology, including via regulation and governance.
+The threats were not outlined to deter from AI use, but to help AI stakeholders engage with the technology securely, it said.
+Describing data poisoning, the publication highlighted this tactic entails manipulating an AI’s training data to teach the model “incorrect patterns.”
+This can lead to the AI model “misclassifying data” or producing “biased, inaccurate or malicious” outputs.
+“Any organisational function that relies on the integrity of the AI system’s outputs could be negatively impacted by data poisoning,” the publication states.
+“An AI model’s training data could be manipulated by inserting new data or modifying existing data; or the training data could be taken from a source that was poisoned to begin with. Data poisoning may also occur in the model’s fine-tuning process.”
+Manipulation attacks like prompt injection can also be a threat, the report highlighted. This involves malicious instructions or hidden commands being implemented into an AI system.
+“Prompt injection can allow a malicious actor to hijack the AI model’s output and jailbreak the AI system. In doing so, the malicious actor can evade content filters and other safeguards restricting the AI system’s functionality,” the report noted.
+In addition, the study highlighted that generative AI systems can hallucinate. This occurs when a generative AI, such as a chatbot, processes incomplete or incorrect patterns and generates completely false information.
+“Organisational functions that rely on the accuracy of generative AI outputs could be negatively impacted by hallucinations, unless appropriate mitigations are implemented,” the authors noted.
+Organisations also needed to be careful about the information they shared with generative AI systems due to privacy and intellectual property concerns.
+Information provided to AI systems could be incorporated into the system’s training data, influencing outputs to prompts from outside the organisation, the report explained.
+Finally, the publication warned of the risk of model stealing attacks, where a malicious actor provided inputs to an AI system and used the outputs to create a replica.
+The authors note model stealing is a “serious intellectual property concern.”
+“For example, consider an insurance company that has developed an AI model to provide customers with insurance quotes,” the report said.
+“If a competitor were to query this model to the extent that it could create a replica of it, it could benefit from the investment that went into creating the model, without sharing in its development costs.”
+International collaborators in the report included the United States, United Kingdom, Canada, New Zealand, Germany, Israel, Japan, Norway, Singapore, and Sweden.
+In the United States, the FBI, National Security Agency, and Cybersecurity and Infrastructure Security Agency collaborated with authors on the report.
+The study encouraged organisations to evaulate AI’s benefits and risks and consider cyber security implications of the technology.
+Organisations were encouraged to consider cyber security frameworks, privacy and data protection obligations, privileged access, multi-authentication, backups of the AI system, supply chains of AI systems, health checks of the AI system and staff interaction.
+He raised concerns about the creation of deepfake images and fake audio messages using AI technology.
+“We need but think of the long-standing problem of disinformation in the form of fake news which today can employ deepfakes, namely the creation and diffusion of images that appear perfectly plausible but false (I too have been an object of this), or of audio messages that use a person’s voice to say things which that person never said.”
+The pope said like every other product of human intelligence and skill, the “algorithms are not neutral.” He called on the international community to adopt a “binding” treaty that regulates AI.

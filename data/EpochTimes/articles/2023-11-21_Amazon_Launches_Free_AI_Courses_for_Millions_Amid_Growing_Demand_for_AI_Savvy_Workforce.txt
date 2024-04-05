@@ -1,0 +1,15 @@
+Amazon plans to train and educate millions of people across the globe on artificial intelligence (AI) for free, the company announced on Nov. 20.
+The tech giant plans to offer the free training amid what it says is a growing need for an AI-savvy workforce, according to a press release.
+However, the study also found that three out of four employers who consider it a priority are also unable to find people qualified for the job.
+Dubbed “AI Ready,” the new initiative unveiled Monday aims to provide free training and education on AI skills—including how to make use of the generative AI technology behind language-based models such as ChatGPT—to 2 million people worldwide by 2025, Amazon said.
+Amazon intends to meet that goal by launching new courses and learning initiatives in AI and scaling its existing free AI training programs and courses as part of efforts to remove the cost barrier associated with accessing these “critical skills.”
+As of Monday, the tech giant is now offering eight new, free courses to help both Amazon employees and non-employees “upskill in AI and generative AI,” the company said.
+Those courses are “open to anyone” and “aligned to in-demand jobs,” according to the tech giant. They range from foundational to advanced and are available to business leaders as well as technologists.
+Under the new initiative, Amazon will offer an “Introduction to Generative Artificial Intelligence” course for business and non-technical audiences as well a “Generative AI Learning Plan for Decision Makers” three-course series and an “Introduction to Amazon CodeWhisperer” course, which teaches participants how to use Amazon’s AI code generator, which produces whole lines of code.
+For those with more experience, such as developers and technical audiences, Amazon will offer courses ranging from the “Foundations of Prompt Engineering” to “Building Generative AI Applications Using Amazon Bedrock” and “Low-Code Machine Learning on AWS” among others.
+Amazon is also funding a new AWS Generative AI Scholarship program in partnership with the online learning platform Udacity, and a new collaboration with Code.org which it said is designed to help students learn about generative AI.
+Eligible students will also be able to take the Introducing Generative AI with AWS course for free.
+Via its new collaboration between Amazon Future Engineer and Code.org, the tech giant will offer students an hour-long introduction to coding and AI, during which participants will “create their own virtual music video set to hit songs from artists including Miley Cyrus, Harry Styles, and more.”
+Additionally, AWS is providing up to $8 million in AWS Cloud computing credits to Code.org, which runs on AWS, to further support that introductory lesson.
+In Monday’s press release, Amazon noted a growing demand for AI jobs as more and more companies turn to advanced technology to transform the workplace.
+Many firms are also willing to pay higher salaries to individuals who have AI skills, the company said, citing the AWS study, which found that employers are willing to pay an average of 47 percent more for workers with AI skills and expertise.

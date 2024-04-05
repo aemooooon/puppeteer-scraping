@@ -1,0 +1,17 @@
+A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces.
+African-American females were even more likely to be misidentified, it indicated.
+It throws fresh doubt on whether such technology should be used by law enforcement agencies.
+One critic called the results "shocking".
+The National Institute of Standards and Technology (Nist) tested 189 algorithms from 99 developers, including Intel, Microsoft, Toshiba, and Chinese firms Tencent and DiDi Chuxing.
+Amazon - which sells its facial recognition product Rekognition to US police forces - did not submit one for review.
+The retail giant had previously called a study from the Massachusetts Institute of Technology "misleading". That report had suggested Rekognition performed badly when it came to recognising women with darker skin.
+When matching a particular photo to another one of the same face - known as one-to-one matching - many of the algorithms tested falsely identified African-American and Asian faces between ten to 100 times more than Caucasian ones, according to the report.
+And African-American females were more likely to be misidentified in so-called one-to-many matching, which compares a particular photo to many others in a database.
+Congressman Bennie Thompson, chairman of the US House Committee on Homeland Security, told Reuters: "The administration must reassess its plans for facial recognition technology in light of these shocking results."
+Computer scientist and founder of the Algorithmic Justice League Joy Buolamwini called the report "a comprehensive rebuttal" to those claiming bias in artificial intelligence software was not an issue.
+Algorithms in the Nist study were tested on two types of error:
+The software used photos from databases provided by the State Department, the Department of Homeland Security and the FBI, with no images from social media or video surveillance.
+"While it is usually incorrect to make statements across algorithms, we found empirical evidence for the existence of demographic differentials in the majority of the face recognition algorithms we studied," said Patrick Grother, a Nist computer scientist and the report's primary author. 
+"While we do not explore what might cause these differentials, this data will be valuable to policymakers, developers and end users in thinking about the limitations and appropriate use of these algorithms."
+One of the Chinese firms, SenseTime, whose algorithms were found to be inaccurate said it was the result of "bugs" which had now been addressed.
+"The results are not reflective of our products, as they undergo thorough testing before entering the market. This is why our commercial solutions all report a high degree of accuracy," a spokesperson told the BBC.

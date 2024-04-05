@@ -1,0 +1,18 @@
+The UK intelligence service has advised politicians to use disappearing WhatsApp messages on personal use devices, which would see texts automatically deleted after a set period.
+Politicians using WhatsApp on their personal phones and for personal use should consider opting for the disappearing messages setting, the NCSC said.
+WhatsApp users can set messages to disappear 24 hours, 7 days, or 90 days after they’re sent unless that message is kept. Disappearing messages can be turned on for all or selected chats.
+“By turning this on you will limit what a successful attacker could access if they do manage to get in,” the advice says.
+Politicians should also be careful when receiving message requests from unknown accounts. “Consider calling first to verify who they are,” the guidance says.
+This could lead to poor decisions being made with incomplete information and make record keeping and scrutiny more difficult, the IfG said.
+“Democratic events such as elections are attractive targets for adversaries, and organisations and individuals must be prepared for threats, old and new,” said the NCSC.
+Among the measures set out by the centre are increased scrutiny of Electoral Management System (EMS) data and mitigation of election disruption risks.
+Organisations coordinating elections should ensure the security of EMS suppliers, review the level of access individuals have, and enhance the security of cloud hosting infrastructure.
+The NCSC noted the “crucial role” of EMS software in voter registration, ballot preparation, and election administration.
+The NCSC has warned about risks to electoral processes posed by spear-phishing and spoofing.
+Spear-fishing involves cyber attacks that target specific individuals or organisations, typically through malicious emails encouraging them to share sensitive information.
+Attackers can use generative artificial intelligence to create “even more convincing spear-phishing content,” the guidance cautioned.
+“Without the right controls in place, an attacker could use your domain to send emails pretending to be your organisation, also known as spoofing. This could be used to make spear-phishing emails look more convincing,” said the NCSC.
+Elected representatives, candidates, activists, and staffers are all part of the high-risk individuals group, according to the NCSC.
+Having a weak password, failure to set up a two-step verification process, and inadequate privacy settings on social media accounts all increase the chance of a cyber attack.
+The centre advised politicians to consider setting up stronger passwords. Complex but easy to remember passwords could use a sequence of three random words, the NCSC advised.
+Users also can write down their passwords and keep them separate for their devices, or alternatively use a password manager.

@@ -1,0 +1,9 @@
+Artificial intelligence is being used to help predict when a patient with colon cancer is likely to experience nasty side effects from chemotherapy.
+The technology can identify patients at risk of overdosing on medication which can lead to problems like infections, nerve damage, gastrointestinal issues and other side effects.
+About 70 percent of colon cancer patients who have chemotherapy experience an overdose because the only way to work out how much they need is based on height and weight, according to Western Health colorectal surgeon and University of Melbourne Professor Justin Yeung.
+However, that doesn’t take body composition like muscle or fatty tissue into account, which can lead to different reactions.
+“You have two patients, one a sumo wrestler and one a fitness person. They have the same body surface area but because they have different body make-up they will respond to the chemotherapy differently,” Professor Yeung told AAP.
+An algorithm was able to identify 129 patients likely to develop side effects based on current dosing methods at Western Health in Melbourne during an Australian-first study.
+The research is now expanding to include breast cancer patients and it’s hoped once regulators give it the green light the technology will be used widely within a decade.
+Yeung said the findings were significant as there hadn’t been many new chemotherapy drugs developed in recent years and artificial intelligence offered a simple fix using existing medication.
+“If we can use this feature to better predict (side effects) likely to happen then we can help support patients, guide doctors and nurses to provide more active surveillance support for these patients in a very tailored manner,” Yeung added.

@@ -1,0 +1,12 @@
+A university has been given £15m for a training centre aimed at developing artificial intelligence to tackle climate change.
+The government funding was awarded to the University of Southampton in the hope of training at least 70 PhD students.
+They will learn to use an AI technology that works on sustainability, called SustAI, the university said.
+It was also awarded £31m in June towards developing trustworthy AI.
+Associate Professor Dr Lindsay-Marie Armstrong said: "Sustainability is at the heart of the centre, both in its research and ethos. 
+"We will equip our students with the ability to transform academic research and make a real change to businesses and society."
+Professor Enrico Gerding, SustAI director, said: "Environmental sustainability is one of the greatest challenges our world is facing - and many countries are setting ambitious targets to reduce emissions and increase renewable energy production.
+"AI will be key to achieving these targets and, through SustAI, we will nurture the next generation of engineers and technologists who will be trained to create a sustainable future using AI."
+The investment was announced ahead of this week's AI safety summit, held at Bletchley Park, looking at the risks posed by the technology.
+The funding includes £8m from the government's UK Research and Innovation (UKRI) department.
+UKRI chief executive Professor Dame Ottoline Leyser said the UK was in a strong position to harness the power of AI.
+She added: "Crucial to this endeavour is nurturing the talented people and teams we need to apply AI to a broad spectrum of challenges, from healthy aging to sustainable agriculture, ensuring its responsible and trustworthy adoption."

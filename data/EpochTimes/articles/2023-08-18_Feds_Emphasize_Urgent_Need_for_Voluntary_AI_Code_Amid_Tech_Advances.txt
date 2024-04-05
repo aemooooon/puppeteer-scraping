@@ -1,0 +1,10 @@
+The federal government is planning to consult the public about a “voluntary code of practice,” which would be required for companies working with generative artificial intelligence (AI).
+However, critics have suggested the government is being less than transparent.
+“These consultations involve roundtables with stakeholders with expertise and experience in this area, including Canada’s Advisory Council on Artificial Intelligence, and representatives from academia, civil society, Canada’s AI research institutes, and industry,” says the webpage, which is undated.
+The department said recent advances in AI have “reaffirmed the urgency” of ensuring AI systems are “developed and used safely.”
+The broad deployment of generative AI systems potentially makes them a wide risk and subject to misuse, said the discussion paper. It said Canada has responded by creating the Artificial Intelligence and Data Act (AIDA), tabled as part of Bill C-27 in June 2022.
+Some critics have said the bill might be out of date because it was written before the launch of ChatGPT and its competitors.
+The government intends to create a voluntary code to “ensure that developers, deployers, and operators of generative AI systems are able to avoid harmful impacts, build trust in their systems, and transition smoothly to compliance with Canada’s forthcoming regulatory regime.”
+“The code will provide voluntary guidance to companies developing and using AI systems, and it will help them to prepare their processes and products before formal regulation takes effect,” it says.
+Specifically, the discussion paper said that software coders and those who install generative AI would have to identify ways the system might be used for malicious purposes such as impersonating real individuals or conducting “spearfishing” attacks.
+Developers would also need to identify ways AI could attract harmful, inappropriate use, citing its use for medical or legal advice as examples. The federal government also said human oversight and monitoring of AI systems is “critical” to ensure the technology is developed and used safely.

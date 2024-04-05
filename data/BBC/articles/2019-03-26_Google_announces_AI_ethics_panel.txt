@@ -1,0 +1,16 @@
+Google has launched a global advisory council to offer guidance on ethical issues relating to artificial intelligence, automation and related technologies. 
+The panel consists of eight people and includes former US deputy secretary of state, and a University of Bath associate professor. 
+The group will "consider some of Google's most complex challenges”, the firm said. 
+The panel was announced at MIT Technology Review's EmTech Digital, a conference organised the Massachusetts Institute of Technology.
+Google has come under intense criticism - internally and externally - over how it plans to use emerging technologies. 
+In June 2018 the company said it would not renew a contract it had with the Pentagon to develop AI technology to control drones. Project Maven, as it was known, was unpopular among Google’s staff, and prompted some resignations. 
+In response, Google published a set of AI “principles” it said it would abide by. They included pledges to be "socially beneficial' and "accountable to people".
+The Advanced Technology External Advisory Council (ATEAC) will meet for the first time in April. In a blog post, Google’s head of global affairs, Kent Walker, said there would be three further meetings in 2019.  
+Google has published a full list of the panel’s members. It includes leading mathematician Bubacarr Bah, former US deputy secretary of state William Joseph Burns, and Prof Joanna Bryson, who teaches computer science at the University of Bath, UK. 
+It will discuss recommendations about how to use technologies such as facial recognition. Last year, Google’s then-head of cloud computing, Diane Greene, described facial recognition tech as having "inherent bias” due to a lack of diverse data. 
+In a highly-cited thesis entitled Robots Should Be Slaves, Prof Bryson argued against the trend of treating robots like people.
+"In humanising them," she wrote, "we not only further dehumanise real people, but also encourage poor human decision making in the allocation of resources and responsibility."
+In 2018 she argued that complexity should not be used as an excuse to not properly inform the public of how AI systems operate.
+"When a system using AI causes damage, we need to know we can hold the human beings behind that system to account."
+_____
+Follow Dave Lee on Twitter @DaveLeeBBC

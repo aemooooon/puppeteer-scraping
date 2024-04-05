@@ -1,0 +1,13 @@
+The world’s biggest social media company has announced plans to lead the world in artificial intelligence, with Meta revealing it will launch several AI products in Australia this year.
+The tech giant made the announcement during its quarterly earnings call on Feb. 2, in which chief executive Mark Zuckerberg discussed plans to deliver “a world-class AI assistant” and take on competitors such as Microsoft and Google.
+But its AI ambitions will cost the company behind Facebook a substantial sum, with Meta revealing it expected higher expenses for infrastructure and bigger losses for its augmented and virtual reality services.
+Mr. Zuckerberg said moving into AI would be “a major goal” for the company, which would seek to develop a full general intelligence model that could “reason, plan, code, remember” and deliver advanced services.
+Meta could train its AI model using the “hundreds of billions of publicly shared images and tens of billions of public videos” shared on Facebook and Instagram, he said, which was bigger than datasets used by competing firms.
+“If we succeed, everyone who uses our services will have a world-class AI assistant to help get things done,” he said.
+“I also think everyone will want a new category of computing devices that let you frictionlessly interact with AIs that can see what you see and hear what you hear, like smart glasses.”
+Meta Australia and New Zealand managing director Will Easton said the company’s AI creations would also be delivered to local users, starting in 2024.
+“This year, we’re excited to start rolling out several AI services across our family of apps in Australia and New Zealand,” Mr. Easton said.
+“As a company, we’re focused on building the most advanced AI products and services.”
+Meta’s ambitions will put it into direct competition with Microsoft’s Copilot, Google’s Bard, and OpenAI’s ChatGPT, all of which are trained using data from search engines.
+There could be a significant cost involved in realising Meta’s ambitions, however, as the company revealed its capital expenditure was expected to grow by as much as US$9 billion ($14 billion) in 2024—up by US$2 billion ($3 billion) on previous forecasts.
+Meta’s Reality Labs, which makes augmented and virtual reality products including Oculus VR, lost US$4.65 billion ($7 billion) during the last three months of 2023, and were expected to lose more due to ongoing investments.

@@ -1,0 +1,62 @@
+We asked an AI to come up with some creative recipes for the excess turkey, stuffing and pudding at the end of your Christmas meal. This is what happened when we cooked them.
+Sit back, push your plate away and hold your belly. You eat until stuffed, but if your Christmas dinner is anything like ours here at BBC Future, there will almost certainly be plenty of food left at the end of your festive celebrations this year.
+But rather than adding your leftovers to the 1.3 billion tonnes of food that gets thrown away every year around the world – a third of the food produced annually –  another option is to pop the extra turkey and stuffing into the fridge for another day.
+You might also like:
+ • The chef making 120 burgers every hour
+ • The musicians that cannot hear
+ • Will this technology end traffic jams?
+For most of us, using up the Christmas leftovers means endless rounds of turkey sandwiches and lashings of Brussel sprout curry in the days leading up to New Year. So, to help inject some creativity into this year’s leftover eat-up, we turned to artificial intelligence for some culinary assistance.
+A number of research teams around the world have been developing AI systems that are capable of learning from existing recipes and then coming up with some of their own. We asked researchers behind two innovative algorithms to see what their AI’s take would be on Christmas food.
+One, developed by computer scientists at Stanford University, can turn whatever food is left in your fridge into a unique recipe based on those ingredients. The other, created by AI researchers at the University of Illinois, puts a cultural twist on a meal by creating dishes from one country in the style of another cuisine.
+The first algorithm, called Forage, uses a type of AI known as deep neural networks, which attempt to replicate the way the human brain works. Networks like these are able to handle problems involving complex data and are increasingly being used to tackle tasks as diverse as controlling self-driving cars and recognising the early signs of cancer in health scans.
+Angelica Willis, a graduate student at Stanford University, led a team of researchers who fed (not literally – machines still can’t taste food) more than 60,000 recipes to their neural network to help it learn some of the basic concepts of cooking like chopping, baking or frying ingredients.
+“We also rewarded creativity in the model so that it didn’t just learn to recite the recipes it was trained on but instead comes up with creative, never-before-seen recipes,” says Willis. “It even comes up with catchy titles for each recipe.”
+The team then asked the algorithm to generate some recipes using holiday leftovers as the main ingredients. We decided to cook what it came up with (mainly so you don’t have to):
+Turkey Croquettes
+Leftovers: Turkey, stuffing, Brussels sprouts, gravy, cranberry sauce
+Steps: Add water to last 4 ingredients, mix well. Add salt and butter, 1/4 tsp. Add 2 cups flour a little at a time. Add turkey. With clean, knife, peel carefully and cut lengthwise into 1/4-inch-thick circles. Set the stuffing over top. Meanwhile, heat some oil to a depth of small fry pan or deep fryer, fry until golden brown.
+Additional ingredients added by AI: Egg, flour, butter, salt, vegetable oil
+Without knowing how much water to add, we guessed and ended up with more of a batter than a dough and so looked more like fritters after frying. It was also baffling to know what exactly we were peeling so carefully. While the resulting “croquettes” were not too bad to eat, it was hard to get past the decidedly sprouty undertones these had in our taste tests.
+Spanish Potato Casserole
+Leftovers: Bread sauce, pigs-in-blankets (sausages wrapped in bacon), red cabbage, potatoes
+Steps: Melt butter in a saucepan over moderately low heat. First cooking thinly sliced potatoes. Add the vegetable oil and soy sauce to the cabbage, add the pork and toss. Add carrots, green pepper, green onions, cheese and salt. Season and slice with cut-up coriander and chilies. Immediately spread the rest of the bread sauce decoratively and bake for 25 minutes.
+Additional ingredients added AI: Carrots, green pepper, green onions, cheese (we used leftover stilton), salt, oil, coriander, chilies
+This was probably the easiest recipe to follow and made sense. It was quite well received by those brave enough to give it a taste. Our Spanish colleague, however, was sceptical about whether this could pass as a local dish in his home country.
+Zabaglione brown bread
+Leftovers: Christmas pudding, brandy butter, cream
+Steps: Mix cream cheese with 1/4 cup of flour with other ingredients in a bowl until smooth; chop in the food processor. Mix together pecans, nutmeg and brandy butter. Blend in oil until well-mixed. Twist and place 1 portion on a greased cookie sheet. Bake until bread browned (about 10 minutes). Remove from oven. Add a layer of jam and sugar. Remove cover, turn and cook for five minutes. Remove from pan, peel off sides. Serve warmed or as a luncheon or brunch item with chocolate or pastries and dust with powdered sugar.
+Additional ingredients added by AI: pecans, nutmeg, jam, sugar
+We were quite excited by the reference to the custard-like Italian dessert in the name of this dish, but after following the recipe we ended up with a dense brown brick rather than the light, creamy dish we were hoping for. The AI also seems to have confused itself by adding cream cheese instead of cream in the method. Amazingly, however, this was probably the highest rated concoction in the taste tests.
+Spiced apple crust
+Leftovers: Christmas cake, mince pies, sherry, marzipan
+Steps: Mix ingredients well, with sugar mixture in the saucepan. Add apple, vanilla, blend in bourbon [for some reason the AI substituted sherry for bourbon]. In large bowl, whisk together with crumbs and cinnamon. Stir in flour, both yeast, sugar and salt to taste and flavour of batter. Set in baking pan over two-thirds full. Sift 1/2 cup of flour and spread the hot honey into the first layer of batter. Beat butter, egg whites, cream, chopped walnuts, and apple juice and the remaining tablespoon of flour at medium speed. Stir in M&M's and 1/3 cup flour. On a floured surface, roll out dough and place on floured baking sheet then brush top(s) with a little flour or ground almonds if desired. Bake at 375 degrees for 35 to 40 minutes.
+Additional ingredients added by AI: Apple, vanilla, bourbon (optional in place of Sherry), flour, honey, egg, walnuts, yeast, sugar, apple juice, salt, butter, M&M's
+This was probably the most controversial of the dishes the AI came up with and also the most baffling of all the cooking instructions. Following the method it outlines resulted in a batter rather than a pastry, so we ended up with something topped with a candy studded Yorkshire Pudding. While this was well liked when reasonably fresh, as time wore on it quickly turned to cardboard.
+Spicy seafood casserole
+Leftovers: Smoked salmon, cheese, nuts, prawn cocktail 
+Steps: In a skillet, heat oil, add bay leaf and onion. Saute onion and pepper until soft. Crumble finely diced salmon and add to the onion and pepper - stir to combine. Cover and cook over low until salmon is tender. Season to taste. Add shrimps and cheese into oyster pan, reduce heat. Makes enough sauce as cheese gravy.
+Additional ingredients added by model: chili peppers, cilantro, onion, oil, bay leaf
+We decided not to cook this one. It looked about as close to a bout of food poisoning as we were prepared to get. But we can imagine the result at least looking like a casserole, if a strange tasting one.
+According to Willis and her colleagues, however, as time goes on the machine-learning model will improve with time. They have been working on the technology for around a year now. And it is worth remembering that professional chefs spend years learning the art of combining ingredients and flavours. The recipes dreamed up by Forage were more like something a student might create shortly after leaving home for the first time.
+The Forage algorithm was also originally designed to work with basic ingredients rather than the leftovers of other dishes, which may also explain why some of the dishes it came up with are not so easy to cook or eat.
+It often failed to give specific measures for ingredients or temperatures when cooking – elements that are important to dishes that rely on fine-tuned chemistry to work, such as in many cakes and pastries. 
+“A new day is dawning,” says Willis. “It is one in which supercomputers can be more than analytical powerhouses. They can exemplify creative genius, including culinary expertise. But like any machine learning model in the early stages of training, it sometimes got confused.”
+A good example of this was when we asked it for a recipe that used up those persistently pesky tangerines, toffees and mulled wine that often linger for weeks after Christmas.
+“The model does not quite know what toffee is or how to use it,” says Willis. “For some reason, it was really interested in combining toffee with chicken and pasta.”
+The recipe below is one example of what it came up with, together with the baffling name it gave it. No one knows who Stewart is or why he thinks serving toffees with spaghetti is a good idea.
+Stewart’s for life spaghetti
+Leftovers: Tangerines, mulled wine, toffee
+Steps: Combine noodles and next ingredients to toffee, blending well, then pour over spaghetti. Continue layering peppered mushrooms with 1/2 cup of cheese. Top with cooked chicken. Bake at 450 degrees for 30 to 45 minutes. Remove from oven.
+The second algorithm we used was developed by Lav Varshney and his team at the University of Illinois. It was trained on nearly 40,000 recipes from 20 different countries using a system that can apply semantic reasoning to replace certain ingredients with those it considers to be equivalent from a different cuisine.
+Varshney and his team asked their algorithm to produce Indian recipes for some classic Christmas recipes, which were then cooked by the Michelin star-holding chef Keisuke Matsushima, who runs a restaurant in Nice, France.
+“It was very interesting to use AI as it can take you somewhere completely new,” says Matsushima, who is originally from Tokyo, Japan. “I don’t know how every flavour and taste will combine, so the AI would create new experiences.”
+The AI’s Indian Christmas Pudding was perhaps the most interesting of the dishes it created, adding subtle flavours like rose petals and fenugreek leaves instead of cooking apples and candied peel. It also substituted almonds with cashew nuts and nutmeg for cardamom. Butter was replaced with ghee and it added cumin.
+But Matsushima’s favourite was the Indian roast turkey that was stuffed with garam masala, sausage meat, mushrooms, breadcrumbs, cashew nuts, fenugreek leaves and turmeric.
+“This was very easy to make and worked well,” he says.
+A twist on the traditional mince pie saw mincemeat replaced with red lentils and flavoured with rose petals and fenugreek while the pastry was made with ghee.
+“These dishes were not something you would eat all the time,” says Matsushima. “They were not easy to taste on the first mouthful and the flavour is unusual – not good – but by the third taste people started to like it.”
+But would he serve any of our Christmas recipes in his restaurant?
+“I’m not sure this is something I can serve to my diners,” he says. “It is good for new experiences and experiments but I wouldn’t choose to eat these.”
+Despite this, Matshushima is now working with Varshney and his team on a project to find substitutes for the Japanese savoury taste umami in the hope of developing French and Italian dishes that can exploit this recently discovered “fifth taste”.
+“We might still have a bit of a way to go before we have five-star restaurants led by robotic chefs,” adds Willis. “But this is definitely an interesting way of leveraging technology to meet the needs of humans.”
+Join 900,000+ Future fans by liking us on Facebook, or follow us on Twitter or Instagram. 

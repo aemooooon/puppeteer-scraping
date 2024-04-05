@@ -1,0 +1,19 @@
+Major websites are turning to automatic systems to moderate content as they tell their staff to work from home.
+YouTube, Twitter and Facebook are all relying on artificial intelligence and automated tools to find problematic material on their platforms.
+The tech giants admit this may lead to some mistakes - but say they still need to remove harmful content.
+The coronavirus scare has led to a surge of medical misinformation across the web.
+Google, which owns YouTube, said appeals about content wrongfully removed could take longer under the new measures.
+Twitter, meanwhile, promised that no accounts suspended by automated software would be permanently banned without a human review.
+Content review operations for Facebook, Twitter and Google are spread around the globe, including in the US, India and Spain.
+All those countries have said employees should work from home – but switching the content review operation to remote working is complicated.
+Facebook has sent home all its content reviewers until further notice, and says it is paying them during this time.
+In a blogpost, Facebook said: "With fewer people available for human review we'll continue to prioritise imminent harm and increase our reliance on proactive detections in other areas."
+Twitter said it would increase the use of machine-learning and automation but acknowledged they could "sometimes lack the context that our teams bring, and this may result in us making mistakes".
+As a result, it said it would not permanently ban any accounts based solely on automated systems.
+And nearly all of Google's full-time employees worldwide have been ordered to work from home due to the coronavirus pandemic.
+"This means automated systems will start removing some content without human review," YouTube said in a blog.
+"As we do this, users and creators may see increased video removals, including some videos that may not violate policies.
+"Our workforce precautions will also result in delayed appeal reviews."
+It added it would also be more cautious about what content gets promoted, including livestreams.
+It comes at a time when the tech giants are being asked to ramp up their removal of coronavirus misinformation on their platforms.
+The UK's Digital, Culture, Media and Sport committee has asked the government to explain why it has taken two months to set up a unit to counter the spread of disinformation about the virus.

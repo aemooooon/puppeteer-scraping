@@ -1,0 +1,36 @@
+Many of us buy makeup, hair and skincare products that we never end up finishing, because they don't suit us, or work as we'd hoped. 
+But could changing the way we produce and shop for cosmetics reduce the number of partly-used items lingering in bathrooms around the world?
+It's a question that Selah Li, a 29-year-old entrepreneur from China, began investigating in 2018, while she was studying a masters in human robot interaction at the Royal Institute for Technology in Stockholm.
+Alongside "feeling guilty" about the waste caused by her own unused beauty purchases, she also became curious about how many products end up as waste, because they are never bought from stores in the first place.
+"I saw a shelf of fifty shades of foundation and I was very happy because I am a minority here, and I can't always find my shade. But at the same time, as a scientist by training I was wondering: how do they predict the sales and the production of everything?," says Ms Li. 
+"I was looking into the data and it turns out [brands] cannot really predict it. Demand fluctuates quite a lot."
+BBC World Service - Business Daily, Cutting waste in the beauty industry
+Ms Li says there is either a danger of overproduction  - with stores left with items they can't shift before their expiry dates - or underproduction, which contributes to shoppers subsequently selecting product alternatives that aren't quite right for them and never get finished.
+Exactly how much waste is created as a result of miscalculations is difficult to quantify. This is because unused products in our bathrooms usually end up in our rubbish bins and are included in general statistics about household waste.
+Plus, beauty companies are often tight-lipped about how much of their stock is wasted. I contacted several large retailers in the UK and Scandanavia and none wanted to comment on wasted cosmetics.
+Ms Li thought there must be a better way to sell cosmetics and formed a start-up called Ellure.
+It aims to cut waste in the beauty industry by enabling customers to design their own products, which are then produced on-demand. 
+"You don't have the problem that you need to predict what is going to be sold, where," says Li.
+"And you have the added benefit of consumers considering this product to be more personal, and thus they are going to use it more."
+The company launched its own lipstick brand last year. Through Ellure's website, customers first upload a selfie of themselves or pick a photo model with a similar skin tone. Then they use an online colour wheel to pick from more than 10,000 shades, which they can try-on virtually. 
+Their choice is sent to a 3D printer, run by software that creates the shade from six core colours, and adjusts the consistency, as some shades need to be thicker than others.
+The finished product is typically available in three to five minutes, packaged in a recyclable glass tube.
+"I would say there will be customers who won't have the patience, who'll want to grab the ready-made products. But there are also a lot more customers who now understand we could reduce a lot of waste in the cosmetic industry," says Ms Li.
+While Ellure's 3D make-up printing currently remains niche, it fits into a growing trend for increased personalisation in the beauty industry, which sped up during the pandemic when customers were unable to visit physical stores to test products.
+Many brands already offer digital testing apps and websites, where you can upload a selfie to see if a certain colour of lipstick or eyeshadow suits you, or get suggestions for skin or hair products based on analysis of your photo by Artificial Intelligence.
+But while companies have, so far, tended to promote these tools as new innovations designed to offer an updated shopping experience, there is a now rising focus on marketing the potential sustainability benefits to customers, particularly in Nordic countries.
+"The issue of waste within the beauty industry has grown substantially over time and the magnitude of the problem is significant. We have to acknowledge that," says Irina Mazur, from Revieve, a Helsinki-based beauty technology provider. 
+"Trial and error contributes to the accumulation of waste. [But] we see that accurate personalization guides consumers to the right products."
+Revieve launched in 2016 and has since developed online personalisation tools used by global beauty and cosmetics brands including Shiseido, Babor and Boots No.7, as well as Kicks, one of the largest beauty chains in the Nordics.
+The company's own research mirrors Ellure's findings, suggesting customers using its tools are more likely than other shoppers to buy the same items in future; a sign they're using up products before replacing them.
+Ms Mazur says that this helps to boost business for beauty brands by encouraging long-lasting loyalty, while the customer data can also be used to fine-tune production planning.
+"Having the data also helps the brand make decisions for perhaps what to stock and what to not over stock, or what products to source in different regions."
+Jessika Luth Richter, an associate senior lecturer in sustainable consumption, waste and the circular economy at Lund University in Sweden agrees there is "definitely potential" for "a trend that people use their time to mindfully select what kinds of products that they're going to buy".
+However, Ms Richter argues that there are challenges when it comes to using personalisation tools as a way of encouraging customers to shop more sustainably.
+"It does depend on whether they see that time spent trying to find the right products as also an enjoyable experience and worth that time," she argues. "Also, there are people that would prefer having an actual person helping them as well."
+Another issue is the cost. Priced at around £21 (295kr, $27) Ellure's customised lipsticks aren't budget products, while Revieve largely works with luxury brands and mid-range high street retailers.
+"A lot of consumers ultimately buy on price, even if they say they will buy on environmental attributes or on better quality products," says Ms Richter. "This is always a challenge in sustainable consumption."
+More technology of business:
+At Glitch Glam, a UK-based consultancy that helps beauty brands connect with emerging technologies, founder Camilla Purkis-White says she is also unsure about the extent to which online personalisation tools and on demand products can help drive more sustainable shopping habits. 
+On the one hand Ms Purkis-White believes there is "most certainly a benefit" from using online tools when it comes to selecting products we use regularly, such as moisturisers or foundations. 
+However, she argues that the beauty industry still brings in a lot of its revenue from seasonal colours and other trends, and suggests this is only likely to ramp up as brands expand the use of Artificial Intelligence tools in other parts of their business.

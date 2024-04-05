@@ -1,0 +1,14 @@
+Software that can detect and delete unsolicited penis pictures sent via private messages on Twitter is being developed by researchers in Seattle.
+The project was started after developer Kelsey Bressler was sent an unsolicited nude photo by a man.
+She is now helping a friend refine an artificial intelligence system that can detect the unwanted penis pictures and delete them before they are ever seen.
+She said social networks could do more to protect users from cyber-flashing.
+"When you receive a photo unsolicited it feels disrespectful and violating," Ms Bressler told the BBC.
+"It's the virtual equivalent of flashing someone in the street. You're not giving them a chance to consent, you are forcing the image on them, and that is never OK."
+To test and train the artificial intelligence system, Ms Bressler and her team set up a Twitter inbox where men were invited to "send nudes for science".
+So many volunteered their nude photos that the team has had to close the inbox.
+Initial tests showed the system was "tricked" by a man wearing a cage over his genitals.
+A photo of a penis covered in glitter was also missed by the software.
+However, Ms Bressler said the software was a "huge success" when it came to detecting "vanilla" penis photos and nudes.
+"I see the issue come up in my news feed almost daily, but Twitter has not yet shown they care enough to find a solution," Ms Bressler told the BBC.
+"If this tech could be created in a couple of days, I'm not sure why tech companies have not led similar initiatives. 
+"People say the easy solution is to close your messages - but we should not have to shut ourselves off to the world because some people do not know how to behave."

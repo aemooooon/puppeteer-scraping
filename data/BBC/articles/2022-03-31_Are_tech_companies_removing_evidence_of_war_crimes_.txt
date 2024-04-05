@@ -1,0 +1,53 @@
+In just three months, last year, TikTok removed 80 million uploaded videos that in some way broke its rules. 
+Powerful artificial intelligence combined with human moderators had removed them at lightning speed, 94.2% before anyone had seen them, it said. 
+Systems that searched for "violative content" had removed 17 million of the videos removed automatically. 
+And other social-media companies share a similar story - thousands of hours of content taken down every day. 
+Now, some are asking whether Big Tech, by removing so much content, is also removing footage of war crimes in Ukraine. 
+TikTok was already hugely popular around the world before Russian President Vladimir Putin's decision to invade Ukraine - but the war has been a coming-of-age moment for the platform.
+Videos using various Ukrainian hashtags have had billions of views. 
+But Ukrainians uploading videos from the ground could be generating more than "likes". 
+They may well be uploading a piece in a jigsaw of evidence that will one day be used to prosecute war crimes. 
+But they may also be breaking TikTok's and other social-media companies' strict rules on graphic content. 
+"TikTok is a platform that celebrates creativity but not shock-value or violence," TikTok's rules say. 
+"We do not allow content that is gratuitously shocking, graphic, sadistic or gruesome."
+And some, but not all, content depicting possible atrocities could fall into that category.
+Researchers are unclear how much Ukrainian user-generated content Tiktok, and other social-media companies such as Meta, Twitter and YouTube are taking down.
+"TikTok is not as transparent as some of the other companies - and none of them are very transparent," Witness programme director Sam Gregory says.
+"You don't know what was not visible and taken down because it was graphic, but potentially evidence. 
+"There's a huge issue here." 
+This is not the first time big social-media companies have had to deal with evidence of potential war crimes. 
+The Syria conflict threw up similar problems. 
+Human Rights Watch has called for a centralised system of uploads from conflict zones for years, without success. 
+"At the moment, it doesn't exist," senior conflict researcher Belkis Wille says.
+She describes the haphazard and convoluted process prosecutors have to follow to obtain evidence removed from social media.
+"Authorities can write to the social-media companies, or ask for a subpoena or court order…. but the way the process works right now, no-one has a very good picture of where all this content is," Ms Wille says.
+And that is a real problem for investigators.
+Even before Ukraine, those trying to document atrocities highlighted how increased moderation was having a detrimental effect on evidence gathering. 
+"This pace of detection means that human-rights actors are increasingly losing the race to identify and preserve information," a report into digital evidence of atrocities, by the Human Rights Center, at Berkeley School of Law, said. 
+The report called for "digital lockers" - places where content can be stored and reviewed not just by social-media companies but by non-governmental organisations (NGOs) and legal experts. 
+But many social-media companies do not want to invite outsiders into their moderation processes, leaving researchers with a Rumsfeldian conundrum - they often do not know what has being taken down, so how can they know what to request or subpoena? 
+These are unknown unknowns.
+But not all social-media platforms have the same policies when it comes to graphic content. 
+Telegram has been hugely important in sharing videos from the ground in Ukraine. 
+It also happens to have an extremely light-touch policy on moderation. 
+Videos that would be taken down on Twitter or Facebook stay up on Telegram. 
+And that is not the only reason the platform is helping investigators. 
+"I would say some of the most valuable photo and video content that we as an organisation have received is from Telegram," Ms Wille says. 
+And there is another key benefit. 
+Social-media companies such as Facebook and Twitter automatically strip content of a picture or video's metadata - a kind of digital ID, revealing where and when the content was captured and crucial for investigators.
+"One benefit we've found is that the metadata is not stripped on Telegram," Ms Wille says. 
+Protecting the metadata, from the moment an action was captured to the moment it is shown in court, is sometimes referred to as "chain of custody". 
+Wendy Betts, the director of Eye Witness, a project of the International Bar Association focused on the collection of verifiable human-rights atrocities, encourages people to film possible war crimes on its app, Eye Witness to Atrocities, to preserve the information in the best possible way for use in court. 
+"As footage passes from photographer to an investigator to a lawyer… if any link in that chain is missing, that footage is going to be looked at as more suspect, because changes could have been made during that gap," she says.
+But all these solutions feel piecemeal and unsatisfactory. 
+With no one digital locker all social-media companies use, with no one place where all this is being stored, crucial evidence could be falling down the cracks.
+In some cases, it is not clear social-media companies are storing or documenting these videos at all. 
+BBC News asked TikTok, Google, Meta and Twitter about their policies in this area. 
+TikTok forwarded its policies on protecting its users during the Ukraine war but failed to address any of the questions asked. 
+"We don't have more to share beyond this information right now," a representative said.
+And neither Twitter nor Google responded.
+Only Meta gave a tailored response.
+"We will only remove this type of content when it glorifies the violence or celebrates the suffering of others or when the content is extremely graphic or violent - for example, video footage of dismemberment," a representative said.
+"In relation specifically to the war in Ukraine, we are exploring ways to preserve this type and other types of content when we remove it."
+The very different responses from these four huge technology companies tells its own story. 
+There is no system, no policy, they all share. 

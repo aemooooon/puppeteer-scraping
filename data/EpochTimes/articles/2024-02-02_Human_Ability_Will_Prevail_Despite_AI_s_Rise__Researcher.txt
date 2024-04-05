@@ -1,0 +1,17 @@
+Despite its rapid development, artificial intelligence (AI) will not be able to replace inherent human qualities and knowledge that people have built over decades, an AI researcher has argued.
+While some educators have endorsed the use of AI in the classroom as a tool to enhance students’ learning and streamline administrative processes, others raised concerns about AI’s biases and its threat to jobs.
+Senior AI research fellow, Immaculate Motsi-Omoijiade, said AI needs to be developed based on an ethical model.
+“When these models are built, if we can have it ethical by design, that cuts off half of the issues,” Ms. Motsi-Omoijiade told the roundtable. “AI can automate error. It can automate biases.”
+She said that it can magnify existing societal issues if it’s not built correctly initially.
+She also noted that while people in different sectors were worried about the impact of AI on their jobs, the technology has its limitations.
+“I don’t think everyone needs to be an AI expert,” she added.
+“I spoke to a bunch of lawyers back in the UK, and people were scared—like, ‘AI is going to take my job.’
+“But AI can’t hold someone’s hand at the end of life. AI can’t reassure someone in, say, writing their will. AI can’t bring that pastoral support to teachers.”
+Ms. Motsi-Omoijiade noted that there is already a generation that is “petrified of being not relevant” in the wake of AI.
+“It’s important to upskill and know what’s going on, but it’s also important to not throw away the inherent human capabilities and qualities and knowledge that people have built over decades and just tell them they’re no longer relevant because they can’t get their head around how to operate these gene models,” she said.
+He said that the technology is being pushed by individual early adopter teachers.
+“Are we too reliant on early adopters?” Mr. Liu said.
+“We are, and necessarily so, but it’s because a lot of teachers in multiple sectors are very tired, and students as well. They have change fatigue and everything.
+“So, in terms of the quick wins that we need to do, I think one of the things is that we need to somehow relieve that teacher and student tiredness that has developed and accentuated over the past three years because of COVID teaching.”
+Meanwhile, Carlo Iacono, AI Strategy Development Adviser at Charles Sturt University said AI could further entrench the digital divide.
+“We’ve got a couple of kids who have money, and they’ve got access to ChatGPT-4 and are already using it in their work,” he said.

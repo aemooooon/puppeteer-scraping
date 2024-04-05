@@ -1,0 +1,11 @@
+The digital publisher’s shares rose 120 percent, to $2.09 on Jan. 27 after gaining more than 150 percent in trading on Jan. 26 following the news. Year to date, the stock is up 186 percent.
+The newspaper reported that the website sent a memo to staff on Jan. 26 to confirm that BuzzFeed will use AI to produce content with the goal of “enhancing the quiz experience, informing our brainstorming, and personalizing our content for our audience.”
+“Our industry will expand beyond AI-powered curation (feeds), to AI-powered creation (content),” BuzzFeed CEO Jonah Peretti said. “AI opens up a new era of creativity, where creative humans like us play a key role in providing the ideas, cultural currency, inspired prompts, IP, and formats that come to life using the newest technologies.”
+The Journal cited one example of what AI could do for BuzzFeed. The technology could create customized romantic-comedy pitches by asking the audience for personal information, which would then create unique ideas with these responses.
+“In order for BuzzFeed to weather an economic downturn that I believe will extend well into 2023, we must adapt, invest in our strategy to serve our audience best, and readjust our cost structure,” Peretti said in a memo to employees.
+Since going public in December 2021 following a reverse merger with a special purpose acquisition company (SPAC), BuzzFeed’s shares had tumbled to less than $1. The firm has been battered and bruised by a combination of factors, including constant revenue misses, declining readership, bearish guidance, and waning enthusiasm over SPACs.
+Companies are betting big on ChatGPT.
+Microsoft, for example, recently invested $10 billion in OpenAI as part of a multiyear deal. The tech juggernaut plans to integrate ChatGPT and other AI tools into its suite of products. This would be the third agreement between both sides since 2019.
+Azure is a cloud computing platform operated by Microsoft.
+But that doesn’t mean artificial intelligence isn’t infallible for content creation.
+CNET, a digital technology website, started testing an internally designed AI-powered tool to help write explainers pertaining to financial-services subjects. The publisher had to suspend the experiment after the publication found factual errors in its 77 articles.

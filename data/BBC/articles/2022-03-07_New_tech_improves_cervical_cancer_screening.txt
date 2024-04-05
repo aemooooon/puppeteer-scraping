@@ -1,0 +1,19 @@
+A pilot scheme using artificial intelligence and advanced imaging to help diagnose cervical cancer is being trialled in Airdrie.
+University Hospital Monklands said it has become the first hospital in the UK to pilot the technology.
+The technology creates digital images of cervical smear slides from samples with Human Papilloma Virus (HPV).
+Health experts say it could help earlier detection of pre-cancerous cells and cancer cells.
+More than 3,000 women are diagnosed with cervical cancer in the UK each year and six women are diagnosed in Scotland every week, according to Jo's Cervical Cancer Trust.
+The lab at University Hospital Monklands receives 3,500 cervical screening samples from across the country every week and is one of the first in the world to pilot the technology as part of its cervical screening programme.
+The technology uses a digital cytology system, the GeniusTM Digital Diagnostics System, from women's health company Hologic, to create digital images of cervical smear slides from samples that have tested positive for HPV, which accounts for more than 95% of cervical cancers.
+These images can be quickly reviewed using an advanced algorithm which assesses the cervical cells in the sample and provides the screener with an image gallery of the most diagnostically-relevant cells.
+The system will help medical experts quickly identify and accurately diagnose abnormalities as they will have fewer cells to analyse.
+Health experts say it could be instrumental in ensuring earlier detection of pre-cancerous cells and cancer cells and potentially save lives.
+Allan Wilson, consultant biomedical scientist at NHS Lanarkshire who is leading the pilot, said: "Looking for abnormal cells is like trying to find a needle in a haystack because in some cases there are only around 50 abnormal cervical cells in a sample that may contain 15,000 normal cells.
+"This pilot with Hologic has shown how digital cytology can revolutionise our analysis process in our cervical screening programme."
+He said the preliminary results were promising, with the Monklands team increasing capacity by about 25% in the slide assessment and improving analysis turnaround times. She added that this allowed screeners to dedicate more time to training on the latest technologies and deal with difficult-to-diagnose cases.
+"We are now undertaking a retrospective study, using the digital cytology system to test its performance against previous known results," he said. 
+"This will then provide the clinical data to make a recommendation on the use of digital cytology in the cervical screening programme in Scotland.
+"Through artificial intelligence (AI) and digital diagnostics, we have the potential to improve outcomes for women not only in Scotland, but around the world."
+Cervical screening is routinely offered to anyone with a cervix in Scotland between the ages of 25 and 64 every five years.
+Samantha Dixon, chief executive of Jo's Cervical Cancer Trust, said: "Catching cervical cell changes means they can be treated to prevent them from developing into cervical cancer.
+"The earlier they are diagnosed, the less invasive treatment might be. Anything that improves or speeds up this process, which in turn could improve outcomes for women and people with a cervix is a hugely positive thing which we want to see explored fully."

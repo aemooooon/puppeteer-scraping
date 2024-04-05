@@ -1,0 +1,36 @@
+"Come get your AI pillow - stop snoring tonight!" 
+I'm walking around CES - the tech industry's annual showcase of all its latest gadgets - in a bit of a daze, until this pitch grabs my attention.
+What on earth is an AI pillow? 
+Motion Sleep, a South Korean company, has a large space in one of the main exhibition halls at CES. Intrigued, I wander in. 
+First I'm offered a few stats about the consequences of bad sleep. One sign points to the number of accidents caused by drowsy driving. Another goes through the health consequences of sleep apnoea. 
+The solution the company has landed on is a pillow that detects snoring. It then pumps air into different compartments of a pillow, which gently lifts the head, making the offending snorer roll over and - in theory - alleviating snoring. 
+This is a pretty typical CES product so far. There are thousands of these kinds of inventions that may or may not take off. 
+But this pillow is different, we are told. This pillow contains AI. 
+"With the AI, it can be trained to know what you sound like specifically when you snore," a representative insists.  
+"That way it can differentiate between you snoring and the TV or cars outside."
+And the pillow is far from the only device to lay claim to the special power that, we are meant to believe, AI confers. At Samsung's exhibit, for example, an entire section was devoted to AI-capable household devices. 
+I'm shown an AI vacuum cleaner - that looks very much like a normal vacuum cleaner - with one small difference. 
+An "AI" function mode apparently allows the vacuum to assess types of surfaces. It can then apply different levels of suction accordingly. 
+There's an AI washing machine that can purportedly detect different types of fabric too. 
+"AI Wash uses sensors to sense the laundry's weight and level of soiling, and optimises the amount of water, detergent and rinsing time, using machine learning," a Samsung press release says. 
+I'm shown the washing machine by a Samsung representative. I'm still slightly puzzled about how this is actually using AI. 
+"This will learn your clothes," they say. I remain confused. 
+Elsewhere at the show, there's an AI mirror and even an AI toothbrush. No product is too boring or humdrum, it seems, to escape an AI makeover. 
+The explanation, perhaps, is that all of these companies are facing pressure from investors and shareholders to have some kind of AI offering, because it attracts attention and investment. 
+OpenAI's incredibly successful launch of ChatGPT is why everyone is talking about AI - and the potential it has. 
+This is a large language model (LLM) that uses a type of machine learning to produce detailed and human-like answers to questions. 
+But an AI toothbrush or vacuum is a very long way away from ChatGPT.
+And that takes us neatly to one of the major problems with AI more generally. It has no universally accepted definition. 
+"AI suffers from an unrelenting, incurable case of vagueness," Eric Siegel, a machine learning expert, told me over the summer. 
+That lack of a definition means that all things AI have been caught up in a blistering year of hype. 
+That's the case with products that already contained AI without much fanfare before. Now their AI capability, however obscure, is hammed up. 
+But there is a problem with this craze for all things AI: Companies claiming AI capability when really their products don't actually use machine learning. 
+The Federal Trade Commission in the US has put out advisory notes aimed at companies stretching the definition of AI. 
+"Does the product actually use AI at all? If you think you can get away with baseless claims that your product is AI-enabled, think again," a note from the FTC published in February last year says. 
+Yet in that same note, the FTC accepts that AI is "an ambiguous term with many possible definitions". 
+That's clearly a problem for consumers - but it's also a problem for journalists. For years now I've covered companies that claim to be using AI in their products. Often they provide no evidence to back this assertion up - often saying the technology is proprietary. 
+It's very hard then to know what the engine looks like when you can't look under the bonnet. 
+Some companies are already aware that the use of the term AI has become counter-productive. One product that has had rave reviews this year at CES is called R1, made by Rabbit. The phone like device uses a form of generative AI - and allows users to circumvent apps, and simply ask for things to be done. Like booking a flight or taxi. 
+But in Rabbit's pitch, AI is barely mentioned. Instead the company talks about foundation models, and even a new term: Large Action Models.
+Back at Samsung, I come across a product that clearly does use generative AI: A fridge that analyses the food in it and can suggest recipes. At last something that appears to be pretty obviously AI. 
+But then I'm hit with another question. Do I need my fridge to give me recipes? I have never felt frustrated about the lack of culinary advice given to me by my fridge. 

@@ -1,0 +1,13 @@
+Artificial Intelligence (AI) can analyse X-rays and diagnose medical issues just as well as doctors, a study has claimed.
+Software was trained using chest X-rays from more than 1.5m patients, and scanned for 37 possible conditions.
+It was just as accurate or more accurate than doctors' analysis at the time the image was taken for 35 out of 37 conditions, the University of Warwick said.
+The AI could reduce doctors' workload and delays in diagnosis, and offer radiologists the "ultimate second opinion", researchers added.
+The software understood that some abnormalities for which it scanned were more serious than others, and could flag the most urgent to medics, the university said.
+To check the results were accurate, more than 1,400 X-rays analysed by the software were cross-examined by senior radiologists.
+They then compared the diagnoses made by the AI with those made by radiologists at the time.
+The software, called X-Raydar, removed human error and bias, said lead author, Dr Giovanni Montana, Professor of Data Science at Warwick University.
+"If a patient is referred for an X-ray with a heart problem, doctors will inevitably focus on the heart over the lungs," he said.
+“This is totally understandable but runs the risk of undetected problems in other areas".
+AI such as this would be the "future of medicine" and act as a "co-pilot for busy doctors", said co-author, Professor Vicky Goh of King’s College London.
+The AI X-ray tool was a collaboration between Warwick University, King’s College London and the NHS, and funded by the Wellcome Trust.
+The software was available open source for non-commercial use to increase the pace of research development, the university added.

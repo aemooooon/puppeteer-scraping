@@ -1,0 +1,36 @@
+Two leading universities are trying to develop apps that listen to users' coughs and voices to predict whether they are infected with the coronavirus.
+But the two projects are taking different approaches to privacy.
+The Cambridge University effort seeks to keep volunteers anonymous, but says this is currently limiting its work.
+Meanwhile, a team at Carnegie Mellon University says it is critical that users register themselves, but it has had to temporarily go offline.
+The two initiatives are independent of one another. 
+Both rely on machine learning, a form of artificial intelligence in which computers analyse large amounts of data to find patterns that can be used to solve problems. 
+In this case, the goal is to be able to distinguish the Covid-19 from other illnesses including the flu.
+Both teams acknowledge that the resulting software would not replace the need for other medical tests.
+Cambridge University launched the Covid-19 Sounds project on Tuesday.
+Members of the public are being invited to breathe and cough into a computer's microphone, as well as provide details of their age, gender, approximate location, and whether they have recently tested positive for the coronavirus.
+They are then asked to read the following phrase three times: "I hope my data can help to manage the virus pandemic."
+"The aim is to collect enough data to check whether from these sounds we're able to diagnose people who have Covid-19 and perhaps even the stage of the disease," explains Prof Cecilia Mascolo.
+"If we get this to work, we could perhaps help services such as the UK's 111 NHS helpline."
+In its first day, about 1,200 people provided recordings, 22 of whom said they had recently tested positive.
+The team hopes to have a product ready in as little as two months time.
+"The analysis won't take too long, but it all depends on the quality of the data we collect," Prof Mascolo adds.
+At present, the project is limited to collecting samples via a website, rather than a smartphone app. 
+This is in part because Apple and Google are restricting who can publish coronavirus-related apps to their stores, and this effort has yet to qualify.
+"The app is better because it can go back to the volunteers on following days and ask them to make recordings again," explains Prof Pietro Cicuta, another team member.
+This is not possible to do via the website, he adds, without compromising users' anonymity.
+The Carnegie Mellon team's Covid Voice Detector is built on the foundations of earlier voice-profiling work done at the Pittsburgh-based university.
+It briefly went live on 30 March. Users were asked to cough, record vowel sounds and recite the alphabet, as well as provide details about themselves.
+At the end of the process, the tool displayed an indication of how likely they were to have Covid-19.
+But the researchers realised a rethink was required.
+"It doesn't matter how many disclaimers you put up there - how clearly you tell people that this has not been medically validated - some people will take the machine as the word of God," explains Dr Rita Singh.
+"If a system tells a person who has contracted Covid-19 that they don't have it, it may kill that person.
+"And if it tells a healthy person they have it, and they go off to be tested, they may use up precious resources that are limited.
+"So, we have very little room for error either way, and are deliberating on how to present the results so that these risks vanish."
+She still hopes to bring the data-gathering aspect of the service back online before the end of this week.
+The plan is to allow users to register without having to provide their names. But unlike Cambridge's effort, volunteers will need to set up an account linked to their email address.
+Prof Singh says this is required to provide users with revised feedback as the tool becomes more accurate - for example if someone moves into a high-risk group.
+"The other thing is that we take the right to be forgotten seriously," she adds.
+"So they should have the ability to come back to us years down the line, press a button and say I want every single sample of my voice deleted."
+While both projects are optimistic about their prospects, another expert in AI-based sound recognition has concerns.
+"With the Midlands and London suffering the worst Covid-19 outbreaks in the UK, the regional variations in the way people sound means some areas could have undue influence on the AI model unless carefully controlled in the data," commented Chris Mitchell, chief executive of Audio Analytic.
+ "The other challenge is purely technical.

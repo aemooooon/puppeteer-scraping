@@ -1,0 +1,37 @@
+For football fans around the globe the pinnacle of the sport is the World Cup final. But what if that match was ultimately just the precursor to a game between the best humans and the best robots?
+It might sound farfetched, but this is the aim of an organisation that has been running an annual global soccer tournament for robots since 1997.
+Founded by a group of robotics scientists, the Robot Soccer World Cup or RoboCup has set itself an ambitious goal.
+"By the middle of the 21st Century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of [football governing body] FIFA, against the winner of the most recent World Cup."
+RoboCup teams already use human-shaped robots with advanced artificial intelligence (AI) software systems that enable them make decisions for themselves, such as whether to shoot or pass.
+But could these robots ever be good enough to beat a World Cup-winning squad of humans by 2050?
+"It's certainly plausible. I wouldn't bet too much on it but I wouldn't bet too much against it either," says Peter Stone, RoboCup president and computer science professor at the University of Texas at Austin. 
+"Thirty years is a long time technologically speaking. A lot can happen in that kind of time span."
+In the meantime RoboCup has another aim - to serve as a vehicle to promote both robotics and AI.
+Teams from around the world participate in the global competition, which currently has a number of different categories. In the Standard Platform League, teams all use the same robot so the focus is on their development of AI software.
+While in the Humanoid League, teams design and build their own robots so they have to develop both their own AI and the physical robotics.
+Other events include RoboCup Rescue, where robots compete in search and rescue scenarios; and RoboCup@Work, involving work-based tasks such as manufacturing and delivery.
+Playing football is, however, the main focus. "One [challenge] is building a robot that can run as quickly and easily as a person - can bend it like Beckham, or kick the ball and change direction," says Prof Stone.
+"I wouldn't have imagined where we're at now 20 years ago, but there's still a long way to go."
+Among the teams that have competed in the RoboCup is Cyrus, a group of AI and robotics staff and students from Canada's Dalhousie University.
+New Tech Economy is a series exploring how technological innovation is set to shape the new emerging economic landscape.
+With no physical tournament being held since 2019 due to coronavirus, in June Cyrus won an online event, RoboCup's Software League, where teams compete inside a computer game.
+Mahtab Sarvmaili, a Cyrus team member and post-graduate computer science student, says she believes it is "quite possible" that robotic sports will become widespread - and potentially profitable - in the future. 
+"This may or may not happen, but as an ambitious vision it drives a global, creative and enthusiastic community of researchers to develop AI soccer towards that goal," she says. 
+"It will be profitable through the ads, just as live [human] sports games are."
+In the long-term, however, even advocates of robot sports believe that keeping the public's attention might pose a problem if the machines do reach a stage where they can compete with humans.  
+As an example, Prof Stone notes that while the general public was enthralled by IBM computer Deep Blue's victory over world chess champion Garry Kasparov in 1997, few people today follow such matches between humans and computers. 
+"There's always a buzz when the AI community gets close to meeting a human level in any kind of endeavour. There's a lot of fanfare around that... but after that, it tends to get less interesting." 
+The true benefit from RoboCup instead comes, says Prof Stone, in how spin-off technologies can help advance the wider world of robotics.
+One of the world's leading users of robots, Amazon Robotics, was originally founded by a previous RoboCup winner - Raffaello D'Andrea.
+In 2003 he set up robotics firm Kiva Systems, which was then bought for $775m (£566m) by retail giant Amazon in 2012 and renamed.
+Today Amazon Robotics runs thousands of robots at Amazon warehouses around the world, helping to collect and sort orders and deliveries.
+"The technology that he developed for RoboCup, of the robots moving around and kicking the ball, is exactly the technology that formed the impetus for Amazon Robotics," says Prof Stone.
+"Bringing together some of the world's experts and most creative technologists to work towards an endeavour they're passionate about has a real good track record of leading to great other things that have impact."
+For some, robots in the sports world are already having an impact of a very different kind. 
+In June, US robotics firm OhmniLabs and carmaker Volkswagen unveiled Champ, a telepresence robot with a two-way TV screen and speakers and microphone that can connect to someone in another location.
+Champ has been designed so children who are too ill to attend a football game or other sporting event can go out onto the pitch remotely with their favourite team. They can see and hear what is going on, and also talk to the players via the robot.
+Champ made his debut at a US verses Mexico women's game in July - allowing young fan, Luna Perrone, who has a rare form of bone cancer, to experience being there in person.
+But will Champ get to cheer as other robots beat the world's best human football team by 2050? Prof Sandra Wachter, a leading AL and robotics expert at Oxford University, says the difficulty is that football requires both physical - and mental - skills.
+"On the football field there are game strategies and formations that are followed, and which very often need to be adjusted very quickly and spontaneously. 
+"Spotting an opening for a goal opportunity can arise within a couple of seconds, and seizing that moment requires acting very fast. Very often this needs a good amount of intuition, trust, non-verbal and verbal communication between team members.
+"At some point, robotics may well surpass human capacity when it comes to playing football, but it is hard to say if and when this will happen." 

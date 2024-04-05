@@ -1,0 +1,11 @@
+There is a long history of governments and technology companies falling out over extremist content. It has largely gone this way.
+Impatient minister: "You've got some of the brightest boffins on the planet - if they can get an AI to tell me whether I need to take an umbrella tomorrow, why can't they sort out terrorism?"
+Smug technology tycoon: "Now, listen, this is all very complex, so much so that it's not worth me bothering to explain it all to a numbskull with a history degree like you. Let's just say this, it's the internet, it's beyond the control of local politicians, it's huge and we don't decide how people use it - nor would we want to."
+That of course is an outdated caricature. Things have moved on - politicians have gained a better understanding of the challenges posed by the internet, and the technology giants have finally woken up to political reality and accepted some responsibility for what is posted on their platforms.
+So, when Theresa May - or any other leading politician - demands action, they now nod sympathetically and say, 'We will do our best to help out.'
+Having seen a little pressure result in movement on issues ranging from child abuse images to music piracy, the politicians are confident that they can get movement on extremist content.
+But the technology companies still think the politicians have a simplistic view of the world.
+They will point out the challenge of deciding what is extremist content - if you are going to ban sermons from firebrand preachers, does that include those from all religions?
+They will ask whether we really want the likes of Mark Zuckerberg and Larry Page to have the power to determine what is acceptable - and how that will play in countries such as the United Sates that have free speech at the heart of their constitutions.
+And they will point out that while Western politicians can put pressure on companies such as Facebook and Google, that will cut no ice with some of the platforms favoured by terrorist sympathisers - such as Telegram, founded by a Russian entrepreneur. 
+My prediction is that in a month the politicians and the technology tycoons will agree that they have made progress - and that artificial intelligence (AI) can help solve this problem - but there is more to do. And then when the next terrorist outrage happens, the blame game will start again.

@@ -1,0 +1,17 @@
+Artificial intelligences poses a risk to financial stability and the trust in banks, a Bank of England (BoE) analyst has warned.
+Analyst Kathleen Blake wrote in a post, published on Wednesday, that AI models could bring the bias embedded in their training data into decisions made by financial institutions.
+This can range from decisions to offer exploitative interest rates to ethnic minorities to offering smaller lines of credit to women.
+“For individual financial institutions, the use of biased or unfair AI could lead to reputational and legal risk, risks that many prudential regulators consider in setting capital requirements,” Ms. Blake said.
+She cited an example of the algorithm used by Apple and Goldman Sachs for decisions on credit card applications, “which seemingly offered smaller lines of credit to women than to men.”
+While the New York State Department of Financial Services found no violation of fair lending requirements, Ms. Blake argued that in the future such incidents can damage reputation and trust.
+“Trust is an important concept for financial stability of the financial system in aggregate, but also the stability of individual institutions,” she said.
+Isolated incidents caused by biased AI data may not appear significant, but in combination with other risks they could lead to loss of capital, the analyst warned.
+AI models are fed data through which they can arrive at a decision. AI models recognise certain patterns and make predictions, when sufficient information is provided.
+If the data informing the AI algorithm is biased or flawed, the model’s decisions will reflect that.
+Ms. Blake argued that AI bias can’t be prevented by simply removing some features from the input data.
+She discussed the unlawful practice of redlining in insurance and mortgage lending, when white people were historically given better interest rates than ethnic groups.
+“If firms train their models on biased historical data which includes redlining, there is a risk of such algorithms learning to copy patterns of discriminatory decision-making,” Ms. Blake said.
+She suggested that use of historical data sets could shape decision-making processes in the future and significantly impact the output of AI models in adverse ways.
+Society’s trust in the financial sector is key, the blog said. In times of low trust, which can be exacerbated by the cost-of-living crisis and high inflation, the public’s confidence in its financial institutions could be swayed.
+Central banks will have to consider this in their use of AI models, Ms. Blake said.
+“For example, if you live in one city and there is activity on your bank card in another city, it is possible to use data from the geolocation systems on your mobile phone to check your location, notify you of the activity and ask you to verify it. This helps prevent crimes such as identity theft involving cards,” said Santander.

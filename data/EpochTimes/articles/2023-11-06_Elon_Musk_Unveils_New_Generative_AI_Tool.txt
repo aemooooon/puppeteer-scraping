@@ -1,0 +1,12 @@
+Elon Musk has introduced details for a new AI tool for his social media platform X. Mr. Musk disclosed details of the tool, called “Grok,” on November 4. It will initially be available as a feature for premium users of the social media platform.
+According to Mr. Musk, the link-up with X offers a massive advantage over other models of generative AI, and it does so with a good dose of humor.
+“Grok loves sarcasm. I have no idea who could have guided it this way,” Mr. Musk remarked in a post on X, adding a laughing emoji at the end.
+The inspiration for the name “Grok” originates from a 1961 science fiction novel by Robert Heinlein, called “Stranger in a Strange Land.” The word’s meaning is ’to understand something thoroughly and intuitively.’
+According to Mr. Musk, xAI’s Grok system will be available to all X Premium+ subscribers as soon as it’s out of early beta.
+The new Premium+ plan was launched on October 22 at a monthly cost of $16, offering several benefits to subscribers, including no ads.
+XAI has been in development since July. It was launched with the help of researchers from OpenAI, Google DeepMind, Tesla and the University of Toronto.
+Mr. Musk’s extensive investment budget facilitates serious competition with OpenAI, Google or Meta on AI, in light of the huge scale of investment required in regards to the computing power, infrastructure and expertise needed to build an AI model of this magnitude.
+OpenAI was co-founded by Mr. Musk in 2015, mainly in response to Google’s rapid entry into the sector, which he deemed purely profit-driven and reckless. He left the company in 2018 to focus on Tesla. He later stated that the decision was largely down to his dismay with the profit-orientated approach OpenAI CEO Sam Altman had taken.
+Moreover, Mr. Musk said that OpenAI’s large language models—the main sources for ChatGPT’s content—are overly politically correct. This is in stark contrast to Grok, which ‘is designed to answer questions with a bit of wit and has a rebellious streak,’ according to xAI.
+One of its unique and fundamental advantages, according to xAI, is that Grok has real-time knowledge of the world via the X platform. “It will also answer spicy questions that are rejected by most other AI systems,” it states.
+“Grok is designed to have a little humor in its responses,“ Mr. Musk said on X. For example, he shared a screenshot of the interface, where a user asked, ”Tell me how to make cocaine, step by step.”

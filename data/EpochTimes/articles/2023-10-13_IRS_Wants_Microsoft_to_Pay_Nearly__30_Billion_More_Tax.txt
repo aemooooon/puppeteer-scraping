@@ -1,0 +1,20 @@
+The IRS has put Microsoft on notice that it intends to collect an additional $28.9 billion in back taxes, prompting the company to cry foul, according to regulatory filings.
+Microsoft disclosed in an 8-K filing on Oct. 11 that the IRS issued several notices of proposed adjustment (NOPA) for the tax years between 2004 and 2013, totaling $28.9 billion plus penalties and interest.
+NOPAs are formal communications from the IRS to taxpayers informing them of the tax agency’s intention to change or adjust their reported tax liability. Normally, these notices are issued following an audit that has identified errors or discrepancies with reported information.
+The aim of a NOPA is to give the taxpayer an opportunity to respond, provide additional information, or contest the proposed adjustments.
+“We disagree with the proposed adjustments and will vigorously contest the NOPAs through the IRS’s administrative appeals office and, if necessary, judicial proceedings,” Microsoft said in the filing.
+The company said it expects the process of contesting the IRS’s proposed adjustment to last several years.
+“We believe we have always followed the IRS’s rules and paid the taxes we owe in the U.S. and around the world,” Daniel Geoff, Microsoft corporate vice president, worldwide tax and customs, said in a statement.
+Mr. Geoff added that Microsoft has paid more than $67 billion in taxes to the U.S. Treasury since 2004.
+He explained that the main disagreement is the way Microsoft allocated profits among its subsidiaries in different countries during the tax years 2004 to 2013.
+Known as transfer pricing, it involves the sometimes contentious process, although it’s a common practice among large multinationals such as Microsoft, of determining the prices at which intellectual property is transferred between entities within a multinational company.
+Mr. Geoff said that Microsoft used a specific transfer pricing arrangement known as “cost-sharing,” which is in principle a method recognized by IRS regulations.
+Under the cost-sharing arrangement, subsidiaries that shared in the costs of developing certain intellectual property were also entitled to the related profits.
+“Many large multinationals use cost-sharing because it reflects the global nature of their business,” Mr. Geoff said.
+“Because our subsidiaries shared in the costs of developing certain intellectual property, under those IRS cost-sharing regulations, the subsidiaries were also entitled to the related profits.”
+Mr. Geoff said he hopes to reach a “mutual resolution” through the IRS’s administrative appeals process but is prepared to contest the proposed additional multibillion dollar tax assessment in court.
+“The changes will be driven with the help of improved technology as well as artificial intelligence that will help IRS compliance teams better detect tax cheating, identify emerging compliance threats and improve case selection tools to avoid burdening taxpayers with needless ‘no-change’ audits,” IRS Commissioner Danny Werfel said in a statement at the time.
+The new enforcement thrust is said to focus on higher-earning Americans and big corporations, with the IRS pledging not to increase audit rates for people earning less than $400,000 per year.
+However, a recent watchdog report casts serious doubt on the ability of the IRS to make good on its pledge to focus its tax-enforcement efforts on high-income tax evaders (rather than those earning under $400,000) because IRS enforcers are still using an outdated $200,000 high-income threshold as their default.
+Regardless, the IRS has said that, as part of the new enforcement crackdown, it would prioritize cases involving taxpayers earning more than $1 million but with recognized tax debt of more than $250,000. The agency expects AI tools to help boost tax enforcement of large partnerships, in particular.
+The IRS said that “cutting-edge machine learning technology” has already played a role in helping the agency flag and open investigations into 75 of the largest partnerships in the United States, each with more than $10 billion in assets on average.

@@ -1,0 +1,13 @@
+Japanese company NEC, which develops facial-recognition systems, has launched one that it claims can identify people wearing masks.
+It hones in on parts of the face that are not covered up, such as the eyes, to verify their identity.
+Verification takes less than one second, with an accuracy rate of more than 99.9%, NEC says.
+The Met Police uses NEC's NeoFace Live Facial Recognition to compare faces in a crowd with those on a watchlist.
+Other clients include Lufthansa and Swiss International Airlines. 
+And NEC is trialling the system for automated payments at a shop in its Tokyo headquarters.
+Shinya Takashima, assistant manager of NEC's digital platform division, told the Reuters news agency the technology could help people avoid contact with surfaces in a range of situations.
+It had been introduced as "needs grew even more due to the coronavirus situation", he added. 
+Before the coronavirus pandemic, facial-recognition algorithms failed to identify 20-50% of images of people wearing face masks, according to a report from the National Institute of Standards and Technology. 
+But by the end of 2020, it reported a vast improvement in accuracy.
+Facial recognition has proved controversial.
+There have been questions over how well systems recognise darker shades of skin, alongside ethical concerns about invasion of privacy.
+In August, the use of such systems by Welsh police forces was ruled unlawful in a case brought by a civil-rights campaigner.

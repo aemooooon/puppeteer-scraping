@@ -1,0 +1,26 @@
+The federal government must move urgently to regulate artificial intelligence, says a top AI pioneer, warning the technology’s current trajectory poses major societal risks.
+Yoshua Bengio, dubbed a “godfather” of AI, told members of Parliament on Feb. 5 that Ottawa should put a law in place immediately, even if that legislation is not perfect.
+The scientific director at Mila, the Quebec AI Institute, says a “superhuman” intelligence that is as smart as a human being could be developed within the next two decades—or even the next few years.
+“We’re not ready,” Mr. Bengio said.
+One short-term risk of AI is the use of deepfake videos to spread disinformation, he said. They use AI to make it look as though a public figure is saying something they didn’t, or doing something that never happened.
+The technology can also be used to interact with people through text or dialogue “in a way that can fool a social-media user and make them change their mind on political questions,” said Mr. Bengio.
+“There’s real concern about use of AI in politically oriented ways that go against the principles of our democracy.”
+A year or two down the road, the worry is that more-advanced systems can be used for cyberattacks.
+AI systems are getting better and better at programming.
+“When these systems get strong enough to defeat our current cyber defences and our industrial digital infrastructure, we are in trouble,” Mr. Bengio said.
+“Especially if these systems fall in the wrong hands.”
+The House of Commons industry committee where Mr. Bengio testified on Feb. 5 is studying a Liberal government bill that would update privacy law, and begin regulating some artificial intelligence systems.
+The bill as it’s drafted would give the government time to develop regulations, but Mr. Bengio says some provisions should take effect right away.
+“With the current approach, it would take something like two years before enforcement (is) possible,” he said.
+One of the initial rules he said he wants to see implemented is a registry that would require systems with a specified level of capability to report to the government.
+Mr. Bengio said that would put the responsibility and cost of demonstrating safety on large tech companies developing these systems, rather than on taxpayers.
+Bill C-27 was first drafted in 2022 to target what are described as “high-impact” AI systems.
+Mr. Bengio said the government should change the legislation’s definition of “high-impact” to include technology that poses national security and societal threats.
+That could include any AI systems that bad actors could use to design dangerous cyberattacks and weapons, or systems that find ways to self-replicate, despite programming instructions to the contrary.
+Generative AI systems like ChatGPT, which can create text, images and videos, emerged for widespread public use after the bill was first introduced.
+The government says it plans to amend the legislation to reflect that.
+Liberals say they aim to require companies beyond such systems to take steps ensuring the content they create is identifiable as AI-generated.
+Mr. Bengio said it’s “very important to cover general-purpose AI systems because they’re also the ones that could be the most dangerous if misused.”
+Catherine Régis, a professor at the Université de Montréal, also said at the committee meeting on Feb. 5 that the government needs to act urgently, citing recent “meteoric developments in AI, which we’re all familiar with.”
+Speaking in French, she pointed out that AI regulation is a global effort, and Canada must figure out what to do at the national level if it wants to have a voice.
+“Decisions will be taken on a global scale that’ll have an impact on all countries,” she said.

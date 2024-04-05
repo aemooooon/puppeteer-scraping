@@ -1,0 +1,10 @@
+The authors of the study, published in June, analyzed 24 public contracts awarded by PLA units and state-owned defense enterprises in 2020, sifting through thousands of purchasing records to find out exactly how the Chinese military comes to acquire AI chips.
+They found that the PLA is placing orders for AI chips designed by companies in the United States and manufactured in Taiwan and South Korea, despite efforts by both the Trump and Biden administrations to limit technology exports to the Chinese military.
+Those AI chips could effectively bolster the Chinese Communist Party (CCP) in its efforts to be a world leader in AI.
+Of the 97 individual AI chips identified in public PLA purchase records, nearly all were designed by Nvidia (which currently dominates the AI chip market), Xilinx (now AMD), Intel, or Microsemi, according to the report.
+“By comparison, we could not find any public records of PLA units or state-owned defense enterprises placing orders for high-end AI chips designed by Chinese companies, such as HiSilicon (Huawei), Sugon, Sunway, Hygon, or Phytium,” the authors noted.
+Those breakthroughs, according to the document, will be so significant that “some technologies and applications achieve a world-leading level and AI becomes the main driving force for China’s industrial upgrading and economic transformation.”
+By 2050, China also hopes that the AI industry will “enter into the global high-end value chain.”
+“This new-generation AI will be widely used in intelligent manufacturing, intelligent medicine, intelligent city, intelligent agriculture, national defense construction, and other fields, while the scale of AI’s core industry will be more than 400 billion RMB ($59.8 billion) and the scale of related industries will exceed 5 trillion RMB (over $747 billion).”
+However, the authors of the Georgetown University study note that current policies put in place by the United States government are insufficient to limit Chinese military access to AI chips.
+Instead, they suggest that the Biden administration adopt new export control measures in an effort to keep the powerful AI chips from falling into the hands of the PLA.

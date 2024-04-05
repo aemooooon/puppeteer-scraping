@@ -1,0 +1,18 @@
+Facebook will pay its third-party US content moderators to work from home. 
+On a call with reporters, Facebook's chief Mark Zuckerberg said the contract workers would still get their full salaries even if they were unable to do all their normal tasks.
+The company will also increase use of artificial intelligence to moderate content during the coronavirus crisis.
+Mr Zuckerberg said its work-from-home policy would last until the "public health response has been sufficient".
+But one workers' rights group said Facebook's move did not go far enough.
+"It's great that they are letting them work from home, but it seems like the bare minimum Facebook could do," said Joe Rivano Barros a campaign manager with the Workers Agency.
+He noted the contract workers are not getting bonus payments, unlike those directly employed by the tech firm.
+Facebook has approximately 15,000 content moderators in the US, who are hired by third-party contracting companies.
+They review posts that have been flagged by users or the firm's own software to determine if the content is inappropriate or harmful.
+Mr Zuckerberg said that privacy concerns meant that some data could not be shared with the contractors when they are working away from base, although he did not specify the details.
+He acknowledged, however, that this could lead to some content slipping through the cracks that would normally be deleted. 
+He added some decisions about the most sensitive topics - including content involving self-harm and suicide - would be taken over by Facebook's full-time staff because the infrastructure was not in place to support the mental health repercussions of the contractors dealing with the posts.
+He said there might be more of this type of content as a result of people being told to go into self-isolation because of the pandemic.
+"I am personally quite worried that the isolation from people being at home could potentially lead to to more depression or mental health issues, and I want to make sure that we are ahead of that supporting our community," he said.
+Facebook has been working on algorithms for several years to automatically spot and remove content that violates its policies.
+However, earlier this week the limitations of the scheme were highlighted when a large number of legitimate coronavirus posts were wrongly flagged and removed from view - something the firm blamed on a spam-filter bug.
+Mr Rivano Barros said the increased use of AI was a worrying signal to contract workers, who fear it will ultimately replace them.
+Facebook announced on Tuesday it would also be creating a $100m (£86m) grant programme to support small businesses impacted by the outbreak. 

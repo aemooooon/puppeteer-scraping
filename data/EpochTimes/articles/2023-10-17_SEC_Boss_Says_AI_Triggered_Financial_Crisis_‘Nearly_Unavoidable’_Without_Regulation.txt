@@ -1,0 +1,11 @@
+United States Securities and Exchange Commission (SEC) Chair Gary Gensler believes a financial crisis stemming from the widespread use of artificial intelligence (AI) is “nearly unavoidable” without swift intervention by regulators.
+In an interview with the Financial Times, Mr. Gensler outlined why, in his opinion, regulators must quickly find a way to manage risks posed to financial stability by the concentration of power in artificial intelligence platforms.
+“I do think we will in the future have a financial crisis, and in the after-action reports, people will say ‘Aha! There was either one data aggregator or one model we’ve relied on,” he said.
+“Maybe it’s in the mortgage market, maybe it’s in some sector of the equity market,” Mr. Gensler added.
+He predicts a financial crisis triggered by AI could happen as soon as the late 2020s or early 2030s. The last and most destructive market turmoil was the global financial crisis (GFC) between mid-2007 and early 2009, which caused the worst worldwide economic crisis since the Great Depression of 1929.
+“It’s a hard financial stability issue to address because most of our regulation is about individual institutions, individual banks, individual money market funds, individual brokers; it’s just in the nature of what we do,” Mr. Gensler said.
+“And this is about a horizontal matter, whereby many institutions might be relying on the same underlying base model or underlying data aggregator.”
+“In terms of regulatory suggestions, I didn’t hear much,” he told The Epoch Times at the time.
+Sen. Josh Hawley (R-Mo.) said he doubted Mr. Schumer’s sincerity in seeking solutions to protect the U.S. public from AI.
+“It’s a little bit like with antitrust the last two years,” Mr. Hawley said at the time.
+“He talks about it constantly and does nothing about it. You’ll see. My sense is that a big part of what this is a lot of song and dance that covers the fact that actually nothing is advancing.”

@@ -1,0 +1,20 @@
+Canadian LinkedIn users wanting to ensure the public that they’re the real deal now have another method of verifying their online/digital identity: government identification.
+The Microsoft-owned platform announced Thursday that it is giving its 22 million Canadian members the option to verify their profiles by providing a copy of their government identification to a third-party company partnering with LinkedIn.
+The optional verification method, which has been offered to U.S. users since the spring, is meant to bolster trust in the platform and boost safety in a digital age where identity can be key, said LinkedIn’s Canadian country manager and senior director of strategic accounts, Diana Luu.
+“It is a huge concern for folks. We know that,” she said.
+“We really did want to provide this extra layer of protection against identity theft impersonation, other fraudulent activities.”
+LinkedIn’s latest community report shows the company restricted 201,000 fake accounts after they were reported by members between July and December 2022. Another 44.7 million fake accounts were stopped at registration and 13.2 million were restricted before member reports over the same period.
+About 87.4 per cent of the fake accounts were caught by automated technology, while 12.6 per cent were discovered through manual reviews.
+LinkedIn’s move to counter false accounts via identification documents comes in the form of a partnership with Clear, a New York-based company already used across the U.S. for biometric-based entry to sports venues and airport departure areas. Clear is the same company LinkedIn uses for its U.S. verification program.
+Users wanting their identity verified on LinkedIn create an account with Clear requiring them to take a photo of themselves, provide an image of their government-issued ID like a driver’s licence or passport and agree to share their data with LinkedIn.
+If the images and names match, LinkedIn will add a green check mark to the user’s profile along with a note explaining their account was verified based on government identification.
+Throughout the process, LinkedIn said Clear will ask for consent to securely share its users’ names, addresses, dates of birth, document types and issuers with LinkedIn.
+Once LinkedIn has obtained the information it holds onto the data for as long as someone wants to retain their verification, Luu said.
+Any information LinkedIn gains from Clear will not be visible on LinkedIn profiles and LinkedIn will not share personal data with Clear before, during or after the verification, she added.
+“We go through the proper vetting process and so we hope that members can trust us as a platform and our partners to keep their data and their privacy secure and safe,” Luu said.
+Clear’s privacy policy says it never sells consumer data and when someone no longer wants to use its services, it will delete all their data upon request.
+Clear verifications will have no influence on its algorithms or how prominently one’s content appears across the platform, but Luu said the U.S. launch has already shown those with verified accounts benefit from the added layer of authenticity.
+“We find that they have a greater chance of finding the right professional opportunities that matter to them and connecting with folks and really just enjoying authentic and more credible interactions on our platform.”
+The Clear program comes months after LinkedIn’s vice-president of product management said in an October blog post that fraudulent activity is becoming even more common across the internet as the world sees “rapid advances” in artificial intelligence-based synthetic images.
+“AI-based image generators can create an unlimited number of unique, high-quality profile photos that do not correspond to real people,” wrote Oscar Rodriquez.
+“Fake accounts sometimes use these convincing, AI-generated profile photos to make their fake LinkedIn profile appear more authentic.”

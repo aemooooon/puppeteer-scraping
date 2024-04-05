@@ -1,0 +1,50 @@
+WASHINGTON—Robotic killing machines prowl the land, the skies, and the seas. They’re fully automated, seeking out and engaging with adversarial robots across every domain of war. Their human handlers are relegated to the rearguard, overseeing the action at a distance while conflicts are fought and won by machines.
+Far from science fiction, this is the vision of Joint Chiefs of Staff Chairman Gen. Mark Milley.
+The United States, according to Milley, is in the throes of one of the myriad revolutions in military affairs that have spanned history.
+Such revolutions have spanned from the invention of the stirrup to the adoption of the firearm to the deployment of mechanized warfare and, now, to the mass fielding of robotics and artificial intelligence (AI).
+It’s a shift in the character of war, Milley said, that’s greater than any to have come before.
+“We’re at a pivotal moment in history from a military standpoint. We’re at what amounts to a fundamental change in the very character of war.”
+Milley said he believes, however, that the world’s most powerful armies will be predominantly robotic within the next decade, and he means for the United States to be the first across that cybernetic Rubicon.
+“Over the next 10 to 15 years, you’ll see large portions of advanced countries’ militaries become robotic,” Milley said. “If you add robotics with artificial intelligence and precision munitions and the ability to see at range, you’ve got the mix of a real fundamental change.”
+“That’s coming. Those changes, that technology ... we are looking at inside of 10 years.”
+That means that the United States has “five to seven years to make some fundamental modifications to our military,” Milley said, because the nation’s adversaries are seeking to deploy robotics and AI in the same manner, but with Americans in their sights.
+The nation that is the first to deploy robotics and AI together in a cohesive way, he said, will dominate the next war.
+“I would submit that the country, the nation-state, that takes those technologies and adapts them most effectively and optimizes them for military operations, that country is probably going to have a decisive advantage at the beginning of the next conflict,” Milley said.
+The global consequences of such a shift in the character of war are difficult to overstate.
+Milley compared the ongoing struggle to form a new way of war to the competition that occurred between the world wars.
+In that era, Milley says, all the nations of Europe had access to new technologies ranging from mechanized vehicles to radio to chemical weapons. All of them could have developed the unified concept of maneuver warfare that replaced the attrition warfare that had defined World War I.
+But only one, he said, first integrated their use into a bona fide new way of war.
+By being the first to integrate these technologies into a new concept, Milley said, the United States can rule the future battlefield.
+To that end, the Pentagon is experimenting with new unmanned aerial, ground, and undersea vehicles and seeking to exploit the pervasiveness of nonmilitary smart technologies, from watches to fitness trackers.
+Likewise, the U.S. Army Futures Command, created in 2018, maintains as a critical goal the designing of what it calls “Army 2040.” In other words, the AI-dependent, robotic military of the future.
+Futures Command deputy commanding general Lt. Gen. Ross Coffman said he believes that 2040 will mark the United States’ true entry into an age characterized by artificially intelligent killing machines.
+Speaking at a March 28 summit of DOD leaders and technology experts, Coffman described the partnership between man and machine that he envisions for the future, relating it to the relationship between a dog and its master.
+Rather than having AI help soldiers get into the fight, however, Coffman said humans will be helping machines to the battlefield.
+The effort appears at the very least to be a real start toward Milley’s vision of fielding autonomous systems en masse. It also raises deep concerns about what the next war could look like and whether the very much human DOD leadership is adequately prepared for managing its autonomous creations.
+John Mills, former director of cybersecurity policy, strategy, and international affairs at the Office of the U.S. Secretary of Defense, said he believes that this path is rife with the potential for unintended consequences.
+“It is Skynet,” Mills told The Epoch Times, referencing the fictional AI that conquers the world in the movie “The Terminator.”
+“It is the realization of a Skynet-like environment.
+“The question is, ‘What could possibly go wrong with this situation?’ Well, a lot.”
+Mills said that he doesn’t believe AI deserves all the mystique it’s been given in popular culture but that he is concerned about the apparent trend in military decision-making toward building systems with real autonomy—that is, systems capable of making the decision to kill without first obtaining human approval.
+“[AI] sounds dark and mysterious, but it’s really big data, the ability to ingest and analyze that data with big analytics, and the key thing now is to action that data, often without human interaction,” Mills said.
+The loss of this “man-in-the-loop” in many proposed future technologies is thus a cause for concern.
+Training human beings to correctly identify between friend and foe before engaging in kinetic action is complicated enough, Mills said, and it’s much more so with machines.
+“What’s different now is the ability to action these incredible data sets autonomously and without human interaction,” Mills said.
+“The integration of AI with autonomous vehicles, and letting them action independently without human decision-making, that’s where everything spins out of control.”
+To that end, Mills expressed concern about what a future conflict might look like between the United States, and its allies, and China in the Indo–Pacific.
+Imagine, he said, an undersea battlespace in which autonomous submarines and other weapons systems littered the seas.
+Fielded by Chinese, American, Korean, Australian, Indian, and Japanese forces, the resulting chaos would likely end with autonomous systems engaging in war throughout the region, while manned vessels held back and sought to best launch the next group of robotic war machines. Anything else would risk putting real lives in the way of the automated killers.
+“How do you plan for engagement scenarios with autonomous undersea vehicles?” Mills said.
+“This is going to be absolute chaos in subsurface warfare.”
+None of these efforts, however, actually will prevent the adoption of fully autonomous killing machines. And they were never intended to.
+“That’s foundational,” Mills said of the document. “It’s very important because it drives development.”
+Although 3000.09 is often referenced by proponents of man-in-the-loop technologies, the document does not actually promote such technologies, nor does it prohibit the use of fully automated lethal systems.
+Instead, the document outlines a series of rigorous reviews that proposed autonomous systems must go through. And although no independent AI weapon systems have made it through that process yet, the future is likely to see many such systems.
+This is in no small part to the fact that China’s communist regime is rapidly working to field its own automated killing machines, and the DOD will have to prepare to meet that threat head-on, all the while attempting to retain American values.
+“[China is] trying to address these hard problems also, of allowing [AI] to engage without human intervention,” Mills said.
+“I think their proclivity is to allow it even if they accidentally kill their own people.”
+To that end, the next war may well be one fought primarily between artificially intelligent robots, with human handlers standing at the sidelines, trying their best to direct the action.
+Whether the United States can manage that without losing control of its creations remains to be seen.
+Mills said he is hopeful that if anyone can do it, it’s the United States. After all, he said, we have the best human talent.
+“I think we still have enough guardrails where it will be iterative, so that we can become smarter and learn to build into the algorithms precautions and control measures,” Mills said.
+“I think we have good teams and people in place.”

@@ -1,0 +1,26 @@
+Police officers have raised concerns about using "biased" artificial-intelligence tools, a report commissioned by one of the UK government's advisory bodies reveals.
+The study warns such software may "amplify" prejudices, meaning some groups could become more likely to be stopped in the street and searched.
+It says officers also worry they could become over-reliant on automation.
+And it says clearer guidelines are needed for facial recognition's use.
+"The police are concerned that the lack of clear guidance could lead to uncertainty over acceptable uses of this technology," the Royal United Services Institute (Rusi)'s Alexander Babuta told BBC News.
+"And given the lack of any government policy for police use of data analytics, it means that police forces are going to be reluctant to innovate.
+"That means any potential benefits of these technologies may be lost because police forces' risk aversion may lead them not to try to develop or implement these tools for fear of legal repercussions."
+Rusi interviewed about 50 experts for its study, including senior police officers in England and Wales - who were not named - as well as legal experts, academics and government officials.
+The work was commissioned by the Centre for Data Ethics and Innovation, which plans to draw up a code of practice covering the police's use of data analytics next year.
+One of the key concerns expressed was about using existing police records to train machine-learning tools, since these might be skewed by the arresting officers' own prejudices.
+"Young black men are more likely to be stopped and searched than young white men, and that's purely down to human bias," said one officer.
+"That human bias is then introduced into the datasets and bias is then generated in the outcomes of the application of those datasets."
+An added factor, the report said, was people from disadvantaged backgrounds were more likely to use public services frequently. And this would generate more data about them,  which in turn could make them more likely to be flagged as a risk.
+Matters could worsen over time, another officer said, when software was used to predict future crime hotspots.
+"We pile loads of resources into a certain area and it becomes a self-fulfilling prophecy, purely because there's more policing going into that area, not necessarily because of discrimination on the part of officers," the interviewee said.
+There was disagreement, however, on how much scope should be given to officers wanting to ignore predictive software's recommendations.
+"Officers often disagree with the algorithm," said one.
+"I'd expect and welcome that challenge. The point where you don't get that challenge, that's when people are putting that professional judgement aside."
+But another officer worried about others being too willing to ignore an app's recommendations, adding: "Professional judgement might just be another word for bias."
+Mr Babuta said this problem could be addressed.
+"There are ways that you can scan and analyse the data for bias and then eliminate it," he told BBC News.
+"[And] there are police forces that are exploring the opportunities of these new types of data analytics for actually eliminating bias in their own data sets."
+But he added that "we need clearer processes to ensure that those safeguards are applied consistently".
+In the meantime, one officer described the current landscape as being like "a patchwork quilt  - uncoordinated and delivered to different settings and for different outcomes".
+The National Police Chiefs' Council has responded saying UK police always seek to strike a balance between keeping people safe and protecting their rights.
+"For many years police forces have looked to be innovative in their use of technology to protect the public and prevent harm and we continue to explore new approaches to achieve these aims," Assistant Chief Constable Jonathan Drake said.

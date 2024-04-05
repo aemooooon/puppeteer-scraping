@@ -1,0 +1,38 @@
+Crossing paths with a robot or “bot” online is as common as finding a pair of shoes in your closet.
+It’s a fundamental part of the internet, but users have hit a critical tipping point: An increasing number of people are losing the ability to distinguish between bots and humans.
+It’s a scenario developers have warned about for years, and it’s easy to see why.
+Coupled with advances in human-like exchanges driven by artificial intelligence (AI), almost a third of internet users can’t tell if they’re interacting with a person any more.
+More than 2 million volunteers and 15 million conversations later, 32 percent of participants picked incorrectly.
+There was also little difference in the results based on age categories. Older and younger adults both struggled at a similar level to discern who—or what—was on the other end of the conversation.
+The bottom line: While super realistic bots have taken over nearly half the internet, a rising number of folks can’t even tell.
+Mr. Cooper is a tech developer and a managing partner at Lolly. He noted company and website transparency is key for people’s confidence in their online interactions. But in the meantime, there’s no substitute for good old-fashioned human instinct.
+“Spotting bots is like finding Waldo in a crowd. Look for repetitive patterns, lack of personalization, or rapid responses. Also, trust your gut. If it feels off, it might just be,” he said.
+While much of the discussion of malicious or “bad bot” traffic centers on social media, the influence of maligned AI interactions has much farther-reaching consequences.
+Consumer confidence in reading online reviews for a product or service has been problematic for years, but it appears to have passed a new milestone.
+Reports of AI language models leaving reviews for products on sites like Amazon emerged in April this year. The bot reviews were easy to identify since the chatbot literally told readers that it was an AI language model in the first sentence.
+But not every bot masquerading as a human is so easy to catch.
+Consequently, major companies and search engines like Google have been plagued with a sharp rise in false reviews.
+Last year, Amazon filed a lawsuit against fake review brokers on Facebook, and Google had to remove 115 million counterfeit evaluations.
+“More bot traffic could indeed open the floodgates for online scams,” Mr. Cooper said.
+This happened in 2016 and was especially problematic during the U.S. presidential election. Since then, AI-generated content has grown more sophisticated, and tech insiders say people need to be prepared for another bot surge in 2024.
+And with more people struggling to tell the difference, online scammers have a significant advantage.
+“The difficulties in distinguishing between bots and actual humans will probably get worse as this technology develops, which will hurt internet users. The possibility of being used by bad actors is a major worry,” Vikas Kaushik, CEO of TechAhead, told The Epoch Times.
+Mr. Kaushik said without the ability to identify bots, people can easily get caught up in disinformation and phishing scams. Further, these digital cons aren’t always obvious.
+Tech security researcher Kai Greshake told Vice in March that hackers could trick Bing’s AI chatbot into asking for personal information from users through the use of hidden text prompts.
+“As a member of the sector, I see this developing into a serious problem,”  Kaushik said, adding: “To create more complex detection techniques and build open standards for recognizing bots, developers and academics must collaborate.”
+He believes education and awareness campaigns are essential so the public can be more cautious and confident while “conversing online with strangers.”
+Mr. Cooper agreed.
+“The bot-human confusion could lead to misunderstandings, mistrust, and misuse of personal data. It’s like chatting with a parrot, thinking it’s a person: amusing until it repeats your secrets.”
+It’s a sentiment shared often alongside notions of moving off the grid and a longing for the days when the “dead internet theory” seemed much less plausible. But for many, this isn’t realistic.
+Alternatively, some are striving for a balance with their online usage, including limiting social media usage.
+Humanity’s love-hate relationship with social media, especially Facebook and Twitter, has created anxiety, anger, and depression for millions.
+And the surge in bot traffic is throwing gas on this fire.
+Stepping back from social media and its bot swarms has its merits.
+As humanity’s day-to-day interactions continue shifting from physical to virtual, people have become increasingly dependent on the web. So it begs to question: Can humans take back the internet from the bots?
+Some tech experts believe it’s possible. And it starts with helping people identify what they’re engaging with.
+“There are a few strategies users can employ to identify bots,” Zachary Kann, the founder of Smart Geek Home, told The Epoch Times.
+In his experience as a network security professional, Mr. Kann said there are methods a user can employ to determine if they’re interacting with another person.
+Like Mr. Cooper, he suggested watching response patterns carefully.
+“Bots often respond instantly and may use repetitive language.”
+Mr. Kann also said people should check profiles since bots often have generic or incomplete online profiles.
+He added an inability to distinguish between bots and humans could lead to research accuracy challenges.

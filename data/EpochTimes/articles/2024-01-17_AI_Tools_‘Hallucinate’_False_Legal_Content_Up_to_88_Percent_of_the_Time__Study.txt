@@ -1,0 +1,30 @@
+AI models generate fake legal content frequently, with such “hallucination rates” happening 69 to 88 percent of the time in popular models, according to a recent study by researchers from Stanford and Yale.
+The study found that ChatGPT 3.5 hallucinated 69 percent of the time when faced with legal questions. With PaLM 2, the hallucination rate jumped to 72 percent, and with Llama 2, it increased to 88 percent.
+The study comes as the use of AIs in the legal sector is becoming more prevalent, with many companies now offering such tools.
+Various tasks include finding evidence from multiple documents, crafting case briefs, and creating litigation strategies. With increased use, apprehension about the effectiveness of such AI tools also has risen.
+Researchers concluded that AI models “cannot always predict, or do not always know, when they are producing legal hallucinations.” As such, they “caution against the rapid and unsupervised integration of popular LLMs into legal tasks.”
+“Even experienced lawyers must remain wary of legal hallucinations, and the risks are highest for those who stand to benefit from LLMs the most—pro se litigants [who represent themselves] or those without access to traditional legal resources.”
+To assess the level of hallucinations, researchers tested the AI models against three types of legal research tasks—low, moderate, and high complexity.
+Low-complexity tasks involve easily accessible information about a case: whether it was real, which court decided it, and who wrote the majority opinion.
+Moderate tasks require the AI models to be knowledgeable about the legal opinions of the case. It asks questions like which case a quotation belongs to and the authority cited.
+High-complexity tasks necessitate AI to have legal reasoning skills and require the models to “synthesize core legal information out of unstructured legal prose.” This involves questions about the factual background of a case, the core legal question in the lawsuit, and its procedural posture.
+Researchers discovered that hallucinations vary based on six factors—the complexity of the task, the hierarchical level of the court, the jurisdictional location, the prominence of the case, the year the case was decided, and the LLM that is queried.
+AI performance deteriorated as tasks got more complex. AI models “are not yet able to perform the kind of legal reasoning that attorneys perform when they assess the precedential relationship between cases—a core purpose of legal research,” the researchers stated.
+Hallucinations were the highest at the lowest court levels—the appeals and district courts.
+This suggests that the LLMs are “knowledgeable about the most authoritative and wide-ranging precedents.” But on the flip side, it also shows that the AI models “are not well attuned to localized legal knowledge.”
+“After all, the vast majority of litigants do not appear before the Supreme Court, and may benefit more from knowledge that is tailored to their home District Court—their court of first appearance,” the researchers said.
+In terms of jurisdictions at the circuit level, the LLMs perform best dealing with lawsuits from the Ninth Circuit comprising California and adjacent states, the Second Circuit covering New York and adjacent states, and the Federal Circuit headquartered in Washington.
+Performance was found to be lowest in circuit courts in the geographic center of the United States.
+Authors noted that the Second, Ninth, and Federal Circuit courts play an “influential role” in the U.S. legal system.
+At the SCOTUS level, hallucinations vary depending on how prominent a case is. Hallucinations in SCOTUS cases were found to be “most common” among the Supreme Court’s oldest and newest cases.
+They were least common in the post-war Warren Court cases (1953-1969). This suggests that LLMs “may fail to internalize case law that is very old but still applicable and relevant law.”
+While acknowledging that AI tools can help those who cannot afford a lawyer to deal with basic legal issues, he stressed that “any use of AI requires caution and humility.”
+He noted that some lawyers using AI submitted “briefs with citations to non-existent cases” last year.
+Justice Roberts drew a distinction between the judiciary and other fields to highlight why AI may not be the best fit for the legal system.
+“Many professional tennis tournaments, including the U.S. Open, have replaced line judges with optical technology to determine whether 130-mile-per-hour serves are in or out. These decisions involve precision to the millimeter. And there is no discretion; the ball either did or did not hit the line.”
+“By contrast, legal determinations often involve gray areas that still require application of human judgment,” he wrote. “Machines cannot fully replace key actors in court.
+“Judges, for example, measure the sincerity of a defendant’s allocution at sentencing. Nuance matters.”
+The justice predicted that while human judges will be “around for a while,” judicial work, specifically at the trial level, will be “significantly affected” by artificial intelligence.
+“Those changes will involve not only how judges go about doing their job, but also how they understand the role that AI plays in the cases that come before them.”
+In a sworn declaration to the court, Mr. Cohen claimed he was not aware that Bard could create citations that looked real but were actually false.
+It specifically highlighted the issue of privacy when using current AI tools.

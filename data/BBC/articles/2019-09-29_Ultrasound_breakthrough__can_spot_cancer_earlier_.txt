@@ -1,0 +1,40 @@
+A new ultrasound technique is being hailed as the biggest breakthrough in the technology for  more than 60 years. 
+Developed at Heriot-Watt University in Edinburgh, it produces images that are 10 times better than current scans.  
+Researchers believe its ability to precisely pinpoint tumours could one day replace biopsies in investigating suspected cancer cases.  
+The method, which is about to begin trials in human patients, uses existing scanning equipment.  
+In 1958, Prof Ian Donald of Glasgow University pioneered the use of ultrasound to reveal how babies were developing in their mothers' wombs.  
+Ultrasound waves are beyond the reach of human hearing.  Prof Donald used the pulsed waves to build images that had never been seen before.   
+Women at Glasgow Royal Maternity Hospital were the first to benefit from a technique which is now commonplace worldwide.  
+But ultrasound scans have their limitations.  
+Even at their best, they look fuzzy. Sometimes they are so indistinct it can be difficult to tell if the unborn child is a girl or a boy.
+The scan on a screen in a lab at Heriot-Watt shows neither. It's a prostate gland.  
+Alongside a familiar looking greyscale scan there is a new, far sharper colour image produced by the new technique.  
+Dr Vassilis Sboros says diagnosing whether it conceals a tumour is helped by an image that is 10 times more detailed than before.  
+"In the future, this is the kind of picture we will all be looking at in the clinic," he says.  
+"As if we can look inside our bodies with a microscope, anywhere.  
+"This is the first technology that can claim to have a near-microscopic quality."  
+The scanning technology itself is not new.  The innovation has come in physics, statistics - and bubbles.  
+Clinicians have long used microbubbles to increase the contrast of ultrasound images. 
+These are typically tiny capsules of hydrocarbon gas in a lipid shell, each bubble a fraction of a millimetre across.  
+Clouds of them are injected into a patient's bloodstream to diagnose liver and other diseases.  
+The team first used physics to observe how individual microbubbles behaved.  
+"They're very small, about the size of a red blood cell, so they go everywhere the blood goes" says physicist Dr Mairead Butler.  
+"We've looked at bubbles in tubes, out of tubes, one by one."  
+Once the physics of microbubbles had been established, Dr Weiping Lu used statistics and computing power to reveal what ultrasound scans had not been able to show before. 
+Dr Lu says it helps to think of each microbubble as a car in traffic.  He used artificial intelligence to create a powerful algorithm that can track each one, and reveal the busiest routes.  
+"A car is like a microbubble," he says, "and the road network is blood vessel.
+"What you're going to do is singly point at those cars.  Then you can work out their trajectories.  
+"Put them together statistically and then you can see how fast, how slow.  
+"How wide the road is, how narrow it is, where are the junctions - and where something is abnormal."  
+It's a powerful analogy, although Dr Lu says the reality is far more complex.  
+Just as tracking individual cars would build a road map, this signal processing produces an image of blood vessels by watching where microbubbles go.
+If they go somewhere unexpected, it could be a sign of cancer - and one detectable much earlier than before.  
+These are super-resolution images showing details far beyond the physical limitations of the scanner. 
+In normal conditions, scanning a patient's abdomen would show details no smaller than a millimetre across.  The new images are already 10 times better and the team expect to be able to refine the process to see yet smaller features.  
+Trials on human patients are expected to begin before the end of 2019 at the Western General Hospital in Edinburgh.  
+Consultant urological surgeon Prof Alan McNeill says it's "exciting" that the Western will be the first hospital in the world to assess the technique.
+"A method that maps the blood flow of the tumour accurately could well provide new information about the disease state that allows us to better identify those men who need urgent treatment and those who don't," he explains. 
+Prostate patients are being tested first because a patient's gland is typically removed entirely during surgery.  This means the accuracy of the super-resolution images can be compared with the real thing.  
+But the method is expected to be applied to more than prostates - or even cancer.  
+Most important diseases change the body's blood flow, which means this technique could be used across medicine.  
+Details of the breakthrough have been published in the Journal of Investigative Radiology during the Herot-Watt's "year of health" which is designed to showcase multidisciplinary research.  

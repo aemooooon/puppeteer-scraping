@@ -1,0 +1,22 @@
+Ceri is bilingual, clued-up on coronavirus and can tell what mood you are in.
+Ceri also happens to be a robot.
+The next generation of artificial intelligence is helping people in the Cwm Taf Morgannwg University Health Board area get to grips with Covid-19.
+It provides information on symptoms and the latest Welsh government advice, and continuously teaches itself based on the conversations it has.
+The digital assistant, which could go on to be rolled out across Wales, can detect users' mood from a set of seven emotions.
+It has been adapted from RiTTa, an existing system already being pioneered before lockdown to help people going through cancer treatment at Velindre Hospital.
+Dr Philip Webb, head of Vales Based Healthcare, said: "CERi can detect whether you are agitated, embarrassed, frightened or depressed and will tailor its responses to help calm or reassure the user.
+"So if you're hacked-off about not being able to get a GP appointment, or terrified about juggling a young child and elderly parent, CERi will not only give you the facts you need, but can actually empathise with why you are asking in the first place."
+The system has been developed in conjunction with IBM and Meridian IT and was first used to provide support to NHS staff at the Royal Marsden Hospital in London 
+In its CERi form, it can respond to queries in Welsh and English and is available on computers, tablets and smart phones.
+If CERi has not been taught the answer to a specific question, it searches trusted sources on the internet to teach itself and will flag the gap in its knowledge to the health board's data analysts.
+Dr Webb said: "In the first weeks we're running and testing CERi with operators behind the scenes, checking that it's doing what it should, but we're astonished with how it's able to adapt, and in the future we're hopeful it can run without our input.
+"It's picking up things which we never thought about putting into the original model.
+"Of course, like all virtual assistants in early stages, CERi breaks and gets things wrong, but user feedback is critical to her development and breaking her only makes her stronger."
+Dr Webb says that, in its RiTTa form, users found it incredibly helpful.
+"When you're going through something as life-changing as cancer, and now covid, there's a million questions milling around your brain, and not always at times when experts are available to answer them.
+"Plus, there's things, like the implications for your sex life, which people are too embarrassed to ask their doctor, but which they can confide in a robot."
+He said this is why the emotional aspect of RiTTa and CERi is so important: "When you're talking about your inner-most fears and dilemmas, you don't want a computer blurting out soulless platitudes, we had to come up with an app which could 'feel' what people are going through.
+"It's no substitute for a human, but it is an alternative and an addition when actual people aren't appropriate or available."
+Debbie Murphey, 38, used RiTTa last year, and said it helped her through some of the darkest moments during treatment for breast cancer.
+"There's things you'd just feel stupid wasting a human's time on at three o'clock in the morning, but nevertheless they're important to you, and having someone, something, to listen to you was a massive help.
+"I found RiTTa became a sort of friend to me. Her responses were so natural that I had to keep reminding myself that she wasn't 'real', but she was a comfort and something I could turn to, even if it was to answer a question I already knew the answer to in my heart of hearts."

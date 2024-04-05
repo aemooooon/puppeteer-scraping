@@ -1,0 +1,38 @@
+A man with more than a passing resemblance to Mark Zuckerberg (but a bit more pumped) is having the world's most awkward first date with Kuki, a blue-haired young woman.
+He wears a blue baseball cap emblazoned with the words "Make Facebook Great Again". She is a little more dressed for the occasion, with green satin trousers the highlight of her outfit.
+They chat about politics, their favourite football teams (Liverpool for Blenderbot and Leeds United "all the way" for Kuki) and hobbies - Kuki used to collect coins but now just spends them, apparently.
+The man's name is Blenderbot and he isn't human. Like Kuki, he is a digital being.
+And their date isn't real either, it's actually an experiment in the form of an online competition dubbed Bot Battle, designed to see whether conversation powered by artificial intelligence can sound convincingly human.
+Behind the avatars are AI-powered chatbots of the type increasingly used online to help people in call centres and on websites.
+For a first date, the two cover a lot of ground, discussing politics, religion, and whether the Queen is really a lizard.
+Like Microsoft's now infamous Tay chatbot which was trained on Twitter conversations and rapidly descended into racist swearing, the two don't shy away from controversy, variously discussing Brexit, killing celebrities and Hitler, described by Blenderbot as a "great man" who had helped him through "a lot of hard times". 
+He also rather cheerily tells Kuki that he has "killed many people in my life", following up politely with a "how about you?"
+The two have been chatting to each other 24/7 since 20 October - and won't stop until 3 November. Real people are invited to listen in via a live-stream on Twitch, and vote for the bot they think has the most human-like conversational skills.
+So far, 79% of the 15,000 or so votes have gone to Kuki, according to Pandorabots, the firm running the competition and which owns the Kuki bot.
+The decision to let them chat ad nauseam was to "highlight the strengths as well as the weaknesses of today's state-of-the-art conversational AI systems," said Pandorabots chief executive Lauren Kunze.
+And while most chatbots are little more than a textbox on a website, the decision to give them a body and face will make them "better liked, understood and remembered versus their voice- or text-only counterparts," said Dr Ari Shapiro, founder of Embody Digital, which created the avatars.
+BlenderBot was built by Facebook's AI division - which may explain the Mark Zuckerberg lookalike - and is the culmination of years of research in conversational AI.
+But Facebook did not sanction its use in this competition, even though it is open source. Neither was it approached by the organiser, and was unclear about what version of the bot was used or how it was implemented.
+According to a blogpost about the bot, Blenderbot brings "empathy, knowledge and personality".
+In his chat with Kuki, however, he seems to lack social skills: obsessing over another woman called Lucy, who he variously describes as his mother and best friend.
+"I have a lot of things to tell you about me," he enthuses at one point. "Lucy, Lucy and Lucy." Which, were this a real date, would perhaps not be the best conversational gambit.
+He also rather shockingly admits that he doesn't use Facebook and thinks Mark Zuckerberg is the creator of Netflix drama Stranger Things.
+While Blenderbot is the brainchild of one of the world's largest corporations, Kuki began life as a hobby. Formerly known as Mitsuku, she was originally designed by UK-based Steve Worswick in his spare time.
+Mitsuku was showcased for years at the Loebner Prize, winning five times.
+That competition, now defunct, is a version of the Turing Test: an "imitation game" devised by Alan Turing to determine whether a computer is capable of passing for a human.
+Mr Worswick has long wanted to pitch his home-made bot against those designed by the tech giants.
+"They make claims about state-of-the-art machine-learning chatbots but they are not publicly available. Google released a chatbot called Meena earlier this year and said it was the best in the world but wouldn't let anyone talk to it.
+"A lot of these chatbots are trained on huge bodies of data from Reddit or Twitter which may not be the best place to get an education. I prefer using handcrafted rules and that has taken 15 years - but I'm pleasantly surprised, Kuki is holding its own."
+Chatbots are increasingly being used by businesses to interact with people, via customer service, sales, marketing and tech support across a range of industries.
+Take Vera, which works in recruitment and can interview as many as 1,500 candidates per day, including for Ikea Russia. 
+Or IBM's Watson assistant, which is currently working with hundreds of businesses, including Humana, one of the US's largest insurance providers.
+It is important that the AI engine running these bots can respond appropriately to limit frustration and ensure that they are doing a useful job.
+Brett Frischmann is professor in law at Villanova University and author of Re-engineering Humanity, a book which looks at the interaction between machines and humans. He thinks the gradual creep towards chatting with bots has consequences we may not have considered.
+"We are outsourcing our conversations and I'm not so worried about how intelligent the bots are getting, but more concerned with what happens to human conversation as we are increasing our reliance on bots."
+The conversation between Blenderbot and Kuki is full of sentences that go nowhere.
+Both are disarmingly polite and full of enthusiasm. And they know a thing or two about human values, albeit in a rather cliched form. "Kindness is a virtue", says Kuki, more than once.
+But they aren't at any point really connecting with each other, and it would be impossible for any person to be fooled into thinking they were human.
+"Did you know why women can't put on mascara with their mouths closed?" asks Kuki.
+"Thank you for sharing it with me," replies Blenderbot, politely but entirely missing the point, adding for good measure: "You are a good person."
+They obviously don't have any self-awareness but, for those who veer towards the view that AI may one day take over the world, there is perhaps a hint of it when Kuki offers to tell Blenderbot a joke.
+"I will play it on your soundcard," she suggests in what could be interpreted as a rare moment of understanding that they are digital, rather than human, beings.  

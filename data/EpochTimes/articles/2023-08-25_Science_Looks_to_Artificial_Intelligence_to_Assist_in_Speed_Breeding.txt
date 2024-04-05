@@ -1,0 +1,17 @@
+Artificial intelligence (AI) has the potential to play a significant role in helping to address global food security challenges, researchers from The University of Queensland, Australia, claim.
+The scientists say artificial intelligence can assist in food production to feed 10 billion people by 2050.
+Additionally, he thinks this technology has wide application to other plants and animals because the goal is the same—to bring traits together as soon as possible and give this package to the farmers who can apply it.
+For the last 10 years, the group has spent a lot of time developing protocols on speed breeding and communicated these outcomes with groups around the world to establish the technology, which, together with AI is the new frontier in plant and animal breeding, Prof. Hikey argues.
+The co-inventor of the technology for genomic prediction and speed breeding is Professor Ben Hayes from QAAFI, who, along with his team, found four ways to use AI in plant and animal speed breeding.
+“The second use involves analysing images taken on a large scale to capture genetic variation between related lines of plants and certain traits in animals that we want.
+“The third area is to take genetic markers and use that information to predict how good a variety is going to be for breeding.”
+The fourth application of AI will change how scientists perceive breeding.
+“You might have one good chromosome segment in a line that is otherwise not so good, but AI can identify the optimal crossing path to combine it with other segments across the genome and develop a new and superior genotype.
+“The crosses needed to bring together the AI-selected beneficial segments can be progressed rapidly using speed breeding, which allows researchers to turn over multiple generations very quickly.
+“Together, AI-informed selection with speed breeding allows researchers and breeders to generate vastly superior genotypes, ready for evaluation, in just a year or two.”
+It involves creating controlled environments that optimize the growth conditions for plants, allowing them to complete their life cycles much more quickly than they would under natural conditions.
+The primary goal of speed breeding is to reduce the time it takes to produce multiple generations of plants, enabling plant breeders to select and propagate desirable traits more rapidly.
+Several techniques and technologies are employed in speed breeding to achieve this accelerated growth which are as follows:
+Speed breeding has proven to be particularly useful for crops with long growth cycles, such as wheat, barley, and certain tree species. By rapidly cycling through generations, breeders can more quickly identify and propagate desirable traits, ultimately leading to the development of improved plant varieties.
+This technique has the potential to contribute to global food security by accelerating the process of developing crops that are more resilient to diseases, pests, and changing environmental conditions. Especially when this approach is combined with AI technology.
+AI offers great potential to contribute to addressing food security challenges. However, it’s important to consider ethical, social, and economic implications. Access to AI technologies, data privacy concerns, and the potential displacement of labour in traditional agriculture are factors that need to be carefully managed.

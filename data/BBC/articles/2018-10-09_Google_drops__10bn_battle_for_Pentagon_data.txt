@@ -1,0 +1,24 @@
+Google has abandoned efforts to win a $10bn (£7.7bn) Pentagon cloud computing contract.
+The firm said the work might have transgressed principles it published in June limiting its artificial-intelligence-related activities.
+Thousands of its staff had previously protested against its involvement in a separate Department of Defense project.
+The tech firm revealed the latest decision hours after confirming it had exposed Google+ users' personal data.
+The Pentagon contract was for a project named after the Star Wars films - the Joint Enterprise Defense Infrastructure cloud (Jedi).
+Bids were due to be submitted on Friday. 
+Securing the contract, which involves about a decade's worth of work, could have helped Google catch up with Amazon and Microsoft - the two market leaders in selling cloud computing services to governments and businesses.
+According to Reuters, Amazon Web Services is the favourite to win.
+A Google spokeswoman said: "While we are working to support the US government with our cloud in many areas, we are not bidding on the Jedi contract because first, we couldn't be assured that it would align with our AI principles, and second, we determined that there were portions of the contract that were out of scope with our current government certifications."
+This refers to the fact Google is currently allowed to handle only "moderate" security-cleared US government data, but not more sensitive material.
+Earlier on Monday, the search firm had announced it was closing Google+ to consumers following the discovery of a bug in March.
+It said the flaw could have made it possible for unauthorised third-parties to have scraped 500,000 members' private details from the social network.
+Google said it had found no evidence that anyone had actually exploited the flaw, and added that it was unable to specify which users had been affected.
+But the Wall Street Journal reported that the business's chief executive, Sundar Pichai, had been briefed on the matter seven months ago and had been informed that the company did not intend to make the matter public "because of fears that doing so would draw regulatory scrutiny".
+Google has not responded to this claim.
+The timing of the bug's discovery coincided with Facebook's Cambridge Analytica data breach scandal, which some believe might have prompted Google to carry out its audit.
+European data privacy watchdogs are now looking into the affair. 
+Because it happened before the General Data Protection Regulation (GDPR) came into effect, each country's relevant authority can pursue Google individually.
+The Irish Data Protection Commission said in a statement it had not been aware of the issue and would be looking for answers from Google in respect of the nature, impact and risk to individuals.
+The two latest developments came on the eve of a consumer-focused Google event.
+The firm is expected to unveil new handsets and other kit in New York at 11:00 ET (16:00 BST).
+Mr Pichai introduced the launches of the two previous generations of Pixel smartphones, but the BBC understands he will not do so this year.
+A source told the BBC that he had never been scheduled to attend and that Google's hardware chief, Rick Osterloh, would instead run proceedings.
+Mr Pichai was previously "empty chaired" when he declined to attend a privacy hearing by the US Senate Intelligence Committee in September.

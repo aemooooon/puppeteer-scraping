@@ -1,0 +1,15 @@
+Access to the ChatGPT chatbot has been restored in Italy.
+It was banned by the Italian data-protection authority at the start of April over privacy concerns.
+It maker, OpenAI, which is backed by Microsoft, said it had successfully "addressed or clarified" the issues raised.
+It said its privacy policy was now accessible to people before they registered for ChatGPT and there was a new tool to verify the age of users.
+The Italian data-protection authority, also known as Garante, had temporarily restricted the chatbot and launched a probe over the artificial intelligence application's suspected breach.
+As Garante had accused OpenAI of failing to check the age of ChatGPT's users who are supposed to be aged 13 or above, OpenAI said it would offer a tool to verify users' ages in Italy upon sign-up.
+OpenAI explained that it would also provide a new form for European Union users to exercise their right to object to its use of personal data to train its models.
+The Italian regulator told the BBC it "welcomed the measures OpenAI implemented" but called for even more compliance.
+In particular, the spokesperson said, around "implementing an age verification system and planning and conducting an information campaign to inform Italians of what happened as well as of their right to opt-out from the processing of their personal data for training algorithms."
+Garante said it would carry on its "fact-finding activities regarding OpenAI also under the umbrella of the ad-hoc task force that was set up by the European Data Protection Board."
+An OpenAI spokesperson said it appreciated the Garante for being collaborative, and that it would continue ongoing constructive discussions. 
+Millions of people have used ChatGPT since it launched in November 2022. 
+It can answer questions using natural, human like language and it can also mimic other writing styles. 
+Microsoft has spent billions of dollars on it and it was added to Bing last month.  
+It has also said that it will embed a version of the technology in its Office apps, including Word, Excel, Powerpoint and Outlook.

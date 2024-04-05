@@ -1,0 +1,49 @@
+There's a strong chance you've recently seen an email or pop-up box offering "some important updates" about the way a social media company or website plans to use your data. Are we about to regain control of our personal information?
+In our increasingly connected world, data has come to be seen as something to buy and sell. 
+Businesses offer personalised goods and services to consumers, raising the possibility of data driving economic growth and even improving wellbeing.
+But this optimistic picture about the rise of data science is incomplete. 
+The scandal involving the improper sharing of the data of 87 million Facebook users with political consultancy Cambridge Analytica made it painfully obvious that data is sometimes shared without our knowledge. 
+In May, tough new privacy laws are being introduced across Europe, offering EU consumers far greater control over their data and large fines for firms which break the rules.
+It is worth pausing to think about how we got to this point. 
+To begin to understand, we must remember that data can easily be copied, shared and collected from multiple sources.
+Whenever we use digital devices - everything from web browsers, to phones, loyalty cards and CCTV cameras - we create data that allows advertisers, insurers, the police and others to understand aspects of our lives.
+Only its availability and the ingenuity of its handler limits what it can tell us.
+This is very different to a traditional commodity that can be bought and sold: a house, for example.
+If you sell your house, the buyer might come to understand something of your personality, perhaps through a taste for high-spec kitchens and red carpets.
+Beyond that, the potential insight into your life is limited - your diaries and photo albums will have moved with you.
+More stories like this:
+With data, it is more complicated. Once you sign up for an online service, constant and often seamless data collection starts.
+Minimal understanding and agreement are often sufficient for this collection to begin: clicking "I agree" to terms and conditions you may or may not have read can be enough. 
+It's as if, rather than handing over a clean and tidy house, you have invited the buyer to move in with you and start taking notes: how you behave, whom you talk to, who visits you and who spends the night.
+Many people never have a clear understanding of how the data they produce is shared, collected and interpreted.
+It can be combined with data from other sources, and investigated in unpredictable and unforeseen ways to gain in-depth knowledge about our lives, preferences, and likely future behaviours.
+This knowledge can be used to influence us in subtle but powerful ways.
+The advertisements, news, and friends we encounter online are often the result of this nudging.
+And, unlike a house, the data can be copied again and again at little to no cost, reaching an unlimited number of people.
+It is clear that the risks to privacy with data are substantial. Recognising this, additional safeguards are being introduced.
+In Europe, from 25 May, a new law called the General Data Protection Regulation (GDPR) will be in place.
+The aim is to give individuals the power to make informed choices about how their data is collected and used.
+Personal data can only be collected for precise and pre-defined purposes. Companies will have to be very clear about how and why they are collecting it.
+New transparency rules are intended to make sure consumers know what types of data are being collected when they use an app or platform, as well as who it might be shared with.
+This is why we have been seeing the notices about "important updates" popping up on Facebook and Twitter, for example.
+Companies will be required to protect users' privacy "by default". If data is leaked, users must be told if it is likely to pose a high risk to them.
+There could also be less use of the "legalese" that prevents so many of us from understanding what happens to our data and making informed choices about what to share.
+This is because consent for data to be shared will only apply if the terms and conditions are written "using clear and plain language".
+Companies have a compelling reason to comply: fines up to 4% of worldwide annual turnover can be applied if the standards are not met. 
+And although the GDPR is a European Union law, companies based outside its borders will also need to adhere if they offer goods and services in the EU, or process the data of its residents.
+Even with Brexit looming, British organisations will continue to feel its effects.
+A new Data Protection Bill is currently making its way through Parliament, which will adopt the standards created by the GDPR. 
+As such, the GDPR's impact will be felt globally, not just in Europe.
+However, much work remains to ensure the law has its intended impact. Key terms and requirements need clarification and testing in court.
+And individuals will need to be made aware of their rights if they are to exercise them.
+There is also the possibility that users will not benefit from the controls of the GDPR if companies change the way they work.
+In the case of Facebook, 1.5 billion members will no longer be protected after the firm decided they would no longer be regulated by its European headquarters in Ireland, but by Facebook Inc in the US. Facebook says it plans clearer privacy rules worldwide.
+Some business groups have also raised concerns, suggesting that many companies are unaware of the changes and the new regulations will be an additional burden.
+Despite these caveats, had the GDPR already been in force, the Cambridge Analytica scandal may have played out very differently.
+With the great potential and risks of big data firmly fixed in the public's attention, meaningful co-operation and oversight over personal data are a priority for many people.
+We will soon have some of the tools needed to take us in this direction.
+And the punishments needed to deal with companies which break the rules.
+About this piece
+This analysis piece was commissioned by the BBC from an expert working for an outside organisation.
+Dr Sandra Wachter is a lawyer and research fellow at the Oxford Internet Institute, University of Oxford, and the Alan Turing Institute, the national institute for data science and artificial intelligence.
+Follow her at @SandraWachter5

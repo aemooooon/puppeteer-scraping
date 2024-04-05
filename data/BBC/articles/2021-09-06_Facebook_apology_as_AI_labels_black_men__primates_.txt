@@ -1,0 +1,11 @@
+Facebook users who watched a newspaper video featuring black men were asked if they wanted to "keep seeing videos about primates" by an artificial-intelligence recommendation system. 
+Facebook told BBC News it "was clearly an unacceptable error", disabled the system and launched an investigation.
+"We apologise to anyone who may have seen these offensive recommendations."
+It is the latest in a long-running series of errors that have raised concerns over racial bias in AI.
+In 2015, Google's Photos app labelled pictures of black people as "gorillas". 
+The company said it was "appalled and genuinely sorry", though its fix, Wired reported in 2018, was simply to censor photo searches and tags for the word "gorilla". 
+In May, Twitter admitted racial biases in the way its "saliency algorithm" cropped previews of images. 
+Studies have also shown biases in the algorithms powering some facial-recognition systems.
+In 2020, Facebook announced a new "inclusive product council" - and a new equity team in Instagram - that would examine, among other things, whether its algorithms exhibited racial bias.
+The "primates" recommendation "was an algorithmic error on Facebook" and did not reflect the content of the video, a representative told BBC News.
+"We disabled the entire topic-recommendation feature as soon as we realised this was happening so we could investigate the cause and prevent this from happening again."

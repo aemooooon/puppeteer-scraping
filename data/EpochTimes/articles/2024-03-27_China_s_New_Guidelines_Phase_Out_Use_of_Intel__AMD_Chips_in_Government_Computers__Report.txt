@@ -1,0 +1,9 @@
+China’s government has unveiled new guidelines to phase out the use of U.S.-made microprocessors from Intel and AMD in government personal computers and servers, the Financial Times reported.
+The Chinese Finance Ministry and the Ministry of Industry and Information unveiled the new guidelines on Dec. 26, 2023. The report states that government agencies above the township level have been told to purchase “safe and reliable” processors and operating systems.
+The Chinese Communist Party’s (CCP) procurement guidance will also impact Microsoft’s Windows operating system and foreign-made database software to make way for domestic alternatives, according to the report.
+Shortly after the guidelines were unveiled, the state-owned China Information Technology Security Evaluation Center released its list of processors and operating systems that meet the guidelines’ criteria, which are sourced from local companies.
+Beijing has been trying to reduce its reliance on foreign firms by building out its local semiconductor industry. This is as it grapples with U.S. export curbs on technology, including cutting-edge chips.
+The CCP’s latest move could make a big dent in the U.S.-based chip firms’ earnings, as China was Intel’s largest market in 2023, with 27 percent of revenue, while AMD drew about 15 percent of its sales from the country.
+The Epoch Times has reached out to Intel and AMD for comment.
+“[China] seeks to use advanced computing [chips] and supercomputing capacity in the development and deployment of these [artificial intelligence (AI)] models to further its goal of surpassing the military capabilities of the United States and its allies,” said the Bureau of Industry and Security (BIS).
+According to another statement from the BIS, such a move is vital to preventing communist China and other hostile powers from disrupting global security and, in an apparent reference to Taiwan, from destabilizing regional stability.

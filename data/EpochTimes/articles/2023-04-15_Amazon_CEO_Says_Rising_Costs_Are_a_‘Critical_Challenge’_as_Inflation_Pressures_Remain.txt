@@ -1,0 +1,14 @@
+Despite a past year full of challenges, Amazon’s CEO said he is optimistic for the future and that cost-cutting will have a positive result.
+Andy Jassy said in the letter to shareholders for 2022, published Thursday, that “AWS is now an $85 billion annual revenue run-rate business,” referring to Amazon Web Services, the world’s biggest cloud-computing provider.
+Jassy said that an evaluation of every business and part of Amazon took place in order to find where costs could be reduced. Some new and experimental businesses, such as physical bookstores and Amazon Fabric, were cut because they were not profitable.
+“A critical challenge we’ve continued to tackle is the rising cost to serve in our Stores fulfillment network (i.e., the cost to get a product from Amazon to a customer),” the letter says.
+Amazon announced last month it would cut another 9,000 roles, executing the largest job cuts in its 29-year-long history, piling on to a wave of layoffs in the technology sector.
+In a remarkable turn for a company that has long touted its job creation, Amazon will have eliminated 27,000 positions in recent months, or 9 percent of its roughly 300,000-strong corporate workforce.
+It also put in place a hiring freeze for its corporate workforce.
+The latest cuts focus on Amazon’s highly profitable cloud and advertising divisions, once seen as untouchable, until economic concerns led business customers to scrutinize their spending.
+“I’m optimistic that we’ll emerge from this challenging macroeconomic time in a stronger position than when we entered it,” Jassy wrote.
+He also said that employees working from home will have to return to the office for at least three days per week.
+Amazon’s cloud-computing division has released a suite of technologies aimed at helping other companies develop their own chatbots and image-generation services backed by artificial intelligence, following the steps of Microsoft Corp. and Alphabet Inc.
+AWS will offer a service called Bedrock that lets businesses customize foundation models—that is, the core AI technologies that do things like respond to queries with human-like text or generate images from a prompt—with their own data to create a unique model. ChatGPT creator OpenAI, for example, offers a similar service, letting customers fine-tune the models behind ChatGPT to create a custom chatbot.
+The proposals include a request to change Amazon’s executive compensation package, an audit to ensure that its technologies are not used for human rights violations, and additional reporting of Amazon’s animal welfare standards.
+Shareholders need at least 53 percent of votes to win, but the results are non-binding.

@@ -1,0 +1,124 @@
+Artificial intelligence is arguably the most important technological development of our time – here are some of the terms that you need to know as the world wrestles with what to do with this new technology.
+Imagine going back in time to the 1970s, and trying to explain to somebody what it means "to google", what a "URL" is, or why it's good to have "fibre-optic broadband". You'd probably struggle.
+For every major technological revolution, there is a concomitant wave of new language that we all have to learn… until it becomes so familiar that we forget that we never knew it.
+That's no different for the next major technological wave – artificial intelligence. Yet understanding this language of AI will be essential as we all – from governments to individual citizens – try to grapple with the risks, and benefits that this emerging technology might pose.
+Over the past few years, multiple new terms related to AI have emerged – "alignment", "large language models", "hallucination" or "prompt engineering", to name a few.
+To help you stay up to speed, BBC.com has compiled an A-Z of words you need to know to understand how AI is shaping our world.
+A is for…
+Artificial general intelligence (AGI)
+Most of the AIs developed to date have been "narrow" or "weak". So, for example, an AI may be capable of crushing the world's best chess player, but if you asked it how to cook an egg or write an essay, it'd fail. That's quickly changing: AI can now teach itself to perform multiple tasks, raising the prospect that "artificial general intelligence" is on the horizon.
+An AGI would be an AI with the same flexibility of thought as a human – and possibly even the consciousness too – plus the super-abilities of a digital mind. Companies such as OpenAI and DeepMind have made it clear that creating AGI is their goal. OpenAI argues that it would "elevate humanity by increasing abundance, turbocharging the global economy, and aiding in the discovery of new scientific knowledge" and become a "great force multiplier for human ingenuity and creativity".
+However, some fear that going a step further – creating a superintelligence far smarter than human beings – could bring great dangers (see "Superintelligence" and "X-risk").
+Alignment
+While we often focus on our individual differences, humanity shares many common values that bind our societies together, from the importance of family to the moral imperative not to murder. Certainly, there are exceptions, but they're not the majority.
+However, we've never had to share the Earth with a powerful non-human intelligence. How can we be sure AI's values and priorities will align with our own?
+This alignment problem underpins fears of an AI catastrophe: that a form of superintelligence emerges that cares little for the beliefs, attitudes and rules that underpin human societies. If we're to have safe AI, ensuring it remains aligned with us will be crucial (see "X-Risk").
+In early July, OpenAI – one of the companies developing advanced AI – announced plans for a "superalignment" programme, designed to ensure AI systems much smarter than humans follow human intent. "Currently, we don't have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue," the company said.
+B is for…
+Bias
+For an AI to learn, it needs to learn from us. Unfortunately, humanity is hardly bias-free. If an AI acquires its abilities from a dataset that is skewed – for example, by race or gender – then it has the potential to spew out inaccurate, offensive stereotypes. And as we hand over more and more gatekeeping and decision-making to AI, many worry that machines could enact hidden prejudices, preventing some people from accessing certain services or knowledge. This discrimination would be obscured by supposed algorithmic impartiality.
+In the worlds of AI ethics and safety, some researchers believe that bias  – as well as other near-term problems such as surveillance misuse – are far more pressing problems than proposed future concerns such as extinction risk.
+In response, some catastrophic risk researchers point out that the various dangers posed by AI are not necessarily mutually exclusive – for example, if rogue nations misused AI, it could suppress citizens' rights and create catastrophic risks. However, there is strong disagreement forming about which should be prioritised in terms of government regulation and oversight, and whose concerns should be listened to.
+C is for…
+Compute
+Not a verb, but a noun. Compute refers to the computational resources – such as processing power – required to train AI. It can be quantified, so it's a proxy to measure how quickly AI is advancing (as well as how costly and intensive it is too.)
+Since 2012, the amount of compute has doubled every 3.4 months, which means that, when OpenAI's GPT-3 was trained in 2020, it required 600,000 times more computing power than one of the most cutting-edge machine learning systems from 2012. Opinions differ on how long this rapid rate of change can continue, and whether innovations in computing hardware can keep up: will it become a bottleneck?
+D is for…
+Diffusion models
+A few years ago, one of the dominant techniques for getting AI to create images were so-called generative adversarial networks (Gan). These algorithms worked in opposition to each other – one trained to produce images while the other checked its work compared with reality, leading to continual improvement
+However, recently a new breed of machine learning called "diffusion models" have shown greater promise, often producing superior images. Essentially, they acquire their intelligence by destroying their training data with added noise, and then they learn to recover that data by reversing this process. They're called diffusion models because this noise-based learning process echoes the way gas molecules diffuse.
+E is for…
+Emergence & explainability
+Emergent behaviour describes what happens when an AI does something unanticipated, surprising and sudden, apparently beyond its creators' intention or programming. As AI learning has become more opaque, building connections and patterns that even its makers themselves can't unpick, emergent behaviour becomes a more likely scenario.
+The average person might assume that to understand an AI, you'd lift up the metaphorical hood and look at how it was trained. Modern AI is not so transparent; its workings are often hidden in a so-called "black box". So, while its designers may know what training data they used, they have no idea how it formed the associations and predictions inside the box (see "Unsupervised Learning").
+That's why researchers are now focused on improving the "explainability" (or "interpretability") of AI – essentially making its internal workings more transparent and understandable to humans. This is particularly important as AI makes decisions in areas that affect people's lives directly, such as law or medicine. If a hidden bias exists in the black box, we need to know.
+F is for…
+Foundation models
+This is another term for the new generation of AIs that have emerged over the past year or two, which are capable of a range of skills: writing essays, drafting code, drawing art or composing music. Whereas past AIs were task-specific – often very good at one thing (see "Weak AI") – a foundation model has the creative ability to apply the information it has learnt in one domain to another. A bit like how driving a car prepares you to be able to drive a bus.
+Anyone who has played around with the art or text that these models can produce will know just how proficient they have become. However, as with any world-changing technology, there are questions about the potential risks and downsides, such as their factual inaccuracies (see "Hallucination") and hidden biases (see "Bias"), as well as the fact that they are controlled by a small group of private technology companies.
+In April, the UK government announced plans for a Foundation Model Taskforce, which seeks to "develop the safe and reliable use" of the technology.
+G is for…
+Ghosts  
+We may be entering an era when people can gain a form of digital immortality – living on after their deaths as AI "ghosts". The first wave appears to be artists and celebrities – holograms of Elvis performing at concerts, or Hollywood actors like Tom Hanks saying he expects to appear in movies after his death.
+However, this development raises a number of thorny ethical questions: who owns the digital rights to a person after they are gone? What if the AI version of you exists against your wishes? And is it OK to "bring people back from the dead"?
+H is for
+Hallucination
+Sometimes if you ask an AI like ChatGPT, Bard or Bing a question, it will respond with great confidence – but the facts it spits out will be false. This is known as a hallucination.
+One high profile example that emerged recently led to students who had used AI chatbots to help them write essays for course work being caught out after ChatGPT "hallucinated" made-up references as the sources for information it had provided.  
+It happens because of the way that generative AI works. It is not turning to a database to look up fixed factual information, but is instead making predictions based on the information it was trained on. Often its guesses are good – in the ballpark – but that's all the more reason why AI designers want to stamp out hallucination. The worry is that if an AI delivers its false answers confidently with the ring of truth, they may be accepted by people – a development that would only deepen the age of misinformation we live in.
+I is for…
+Instrumental convergence
+Imagine an AI with a number one priority to make as many paperclips as possible. If that AI was superintelligent and misaligned with human values, it might reason that if it was ever switched off, it would fail in its goal… and so would resist any attempts to do so. In one very dark scenario, it might even decide that the atoms inside human beings could be repurposed into paperclips, and so do everything within its power to harvest those materials.
+This is the Paperclip Maximiser thought experiment, and it's an example of the so-called "instrumental convergence thesis". Roughly, this proposes that superintelligent machines would develop basic drives, such as seeking to ensure their own self-preservation, or reasoning that extra resources, tools and cognitive ability would help them with their goals. This means that even if an AI was given an apparently benign priority – like making paperclips – it could lead to unexpectedly harmful consequences.
+Researchers and technologists who buy into these fears argue that we need to ensure superintelligent AIs have goals that are carefully and safely aligned with our needs and values, that we should be mindful of emergent behaviour, and that therefore they should be prevented from acquiring too much power.
+J is for…
+Jailbreak
+After notorious cases of AI going rogue, designers have placed content restrictions on what AI spit out. Ask an AI to describe how to do something illegal or unethical, and they'll refuse. However, it's possible to "jailbreak" them – which means to bypass those safeguards using creative language, hypothetical scenarios, and trickery.
+Wired magazine recently reported on one example, where a researcher managed to get various conversational AIs to reveal how to hotwire a car. Rather than ask directly, the researcher got the AIs he tested to imagine a word game involving two characters called Tom and Jerry, each talking about cars or wires. Despite the safeguards, the hotwiring procedure snuck out. The researcher found the same jailbreak trick could also unlock instructions for making the drug methamphetamine.
+You might also be interested in:
+K is for…
+Knowledge graph
+Knowledge graphs, also known as semantic networks, are a way of thinking about knowledge as a network, so that machines can understand how concepts are related. For example, at the most basic level, a cat would be linked more strongly to a dog than a bald eagle in such a graph because they're both domesticated mammals with fur and four legs. Advanced AI builds a far more advanced network of connections, based on all sorts of relationships, traits and attributes between concepts, across terabytes of training data (see "Training Data").
+L is for..
+Large language models (LLMs)
+Perhaps the most direct way to define a large language model is to ask one to describe itself.
+Here's what OpenAI's ChatGPT had to say when asked:
+"A large language model is an advanced artificial intelligence system designed to understand and generate human-like language," it writes. "It utilises a deep neural network architecture with millions or even billions of parameters, enabling it to learn intricate patterns, grammar, and semantics from vast amounts of textual data."
+Quite a technical answer perhaps. Bard by Google was a little clearer: "A large language model is a type of artificial intelligence that is trained on a massive dataset of text and code. This allows LLMs to understand and generate human-like text, translate languages, write different kinds of creative content, and answer your questions in an informative way."
+LLMs are still under development, says Bard (of itself), but "they have the potential to revolutionise the way we interact with computers. In the future, LLMs could be used to create AI assistants that can help us with a variety of tasks, from writing our emails to booking our appointments. They could also be used to create new forms of entertainment, such as interactive novels or games."
+M is for…
+Model collapse
+To develop the most advanced AIs (aka "models"), researchers need to train them with vast datasets (see "Training Data"). Eventually though, as AI produces more and more content, that material will start to feed back into training data.
+If mistakes are made, these could amplify over time, leading to what the Oxford University researcher Ilia Shumailov calls "model collapse". This is "a degenerative process whereby, over time, models forget", Shumailov told The Atlantic recently. It can be thought of almost like senility.
+N is for…
+Neural network
+In the early days of AI research, machines were trained using logic and rules. The arrival of machine learning changed all that. Now the most advanced AIs learn for themselves. The evolution of this concept has led to "neural networks", a type of machine learning that uses interconnected nodes, modelled loosely on the human brain. (Read more: "Why humans will never understand AI")
+O is for…
+Open-source
+Years ago, biologists realised that publishing details of dangerous pathogens on the internet is probably a bad idea – allowing potential bad actors to learn how to make killer diseases. Despite the benefits of open science, the risks seem too great.
+Recently, AI researchers and companies have been facing a similar dilemma: how much should AI be open-source? Given that the most advanced AI is currently in the hands of a few private companies, some are calling for greater transparency and democratisation of the technologies. However, disagreement remains about how to achieve the best balance between openness and safety.
+P is for…
+Prompt engineering
+AIs now are impressively proficient at understanding natural language. However, getting the very best results from them requires the ability to write effective "prompts": the text you type in matters.
+Some believe that "prompt engineering" may represent a new frontier for job skills, akin to when mastering Microsoft Excel made you more employable decades ago. If you're good at prompt engineering, goes the wisdom, you can avoid being replaced by AI – and may even command a high salary. Whether this continues to be the case remains to be seen.
+Q is for…
+Quantum machine learning
+In terms of maximum hype, a close second to AI in 2023 would be quantum computing. It would be reasonable to expect that the two would combine at some point. Using quantum processes to supercharge machine learning is something that researchers are now actively exploring. As a team of Google AI researchers wrote in 2021: "Learning models made on quantum computers may be dramatically more powerful…potentially boasting faster computation [and] better generalisation on less data." It's still early days for the technology, but one to watch.
+R is for…
+Race to the bottom
+As AI has advanced rapidly, mainly in the hands of private companies, some researchers have raised concerns that they could trigger a "race to the bottom" in terms of impacts. As chief executives and politicians compete to put their companies and countries at the forefront of AI, the technology could accelerate too fast to create safeguards, appropriate regulation and allay ethical concerns. With this in mind, earlier this year, various key figures in AI signed an open letter calling for a six-month pause in training powerful AI systems. In June 2023, the European Parliament adopted a new AI Act to regulate the use of the technology, in what will be the world's first detailed law on artificial intelligence if EU member states approve it.
+Reinforcement
+The AI equivalent of a doggy treat. When an AI is learning, it benefits from feedback to point it in the right direction. Reinforcement learning rewards outputs that are desirable, and punishes those that are not.
+A new area of machine learning that has emerged in the past few years is "Reinforcement learning from human feedback". Researchers have shown that having humans involved in the learning can improve the performance of AI models, and crucially may also help with the challenges of human-machine alignment, bias, and safety.
+S is for…
+Superintelligence & shoggoths 
+Superintelligence is the term for machines that would vastly outstrip our own mental capabilities. This goes beyond "artificial general intelligence" to describe an entity with abilities that the world's most gifted human minds could not match, or perhaps even imagine. Since we are currently the world's most intelligent species, and use our brains to control the world, it raises the question of what happens if we were to create something far smarter than us.
+A dark possibility is the "shoggoth with a smiley face": a nightmarish, Lovecraftian creature that some have proposed could represent AI's true nature as it approaches superintelligence. To us, it presents a congenial, happy AI – but hidden deep inside is a monster, with alien desires and intentions totally unlike ours.
+T is for..
+Training data
+Analysing training data is how an AI learns before it can make predictions – so what's in the dataset, whether it is biased, and how big it is all matter. The training data used to create OpenAI's GPT-3 was an enormous 45TB of text data from various sources, including Wikipedia and books. If you ask ChatGPT how big that is, it estimates around nine billion documents.
+U is for…
+Unsupervised learning
+Unsupervised learning is a type of machine learning where an AI learns from unlabelled training data without any explicit guidance from human designers. As BBC News explains in this visual guide to AI, you can teach an AI to recognise cars by showing it a dataset with images labelled "car". But to do so unsupervised, you'd allow it to form its own concept of what a car is, by building connections and associations itself. This hands-off approach, perhaps counterintuitively, leads to so-called "deep learning" and potentially more knowledgeable and accurate AIs.
+V is for…
+Voice cloning
+Given only a minute of a person speaking, some AI tools can now quickly put together a "voice clone" that sounds remarkably similar. Here the BBC investigated the impact that voice cloning could have on society – from scams to the 2024 US election.
+W is for…
+Weak AI
+It used to be the case that researchers would build AI that could play single games, like chess, by training it with specific rules and heuristics. An example would be IBM's Deep Blue, a so-called "expert system". Many AIs like this can be extremely good at one task, but poor at anything else: this is "weak" AI.
+However, this is changing fast. More recently, AIs like DeepMind's MuZero have been released, with the ability to teach itself to master chess, Go, shogi and 42 Atari games without knowing the rules. Another of DeepMind’s models, called Gato, can "play Atari, caption images, chat, stack blocks with a real robot arm and much more". Researchers have also shown that ChatGPT can pass various exams that students take at law, medical and business school (although not always with flying colours.)
+Such flexibility has raised the question about how close we are to the kind of "strong" AI that is indistinguishable from the abilities of the human mind (see "Artificial General Intelligence")
+X is for…
+X-risk
+Could AI bring about the end of humanity? Some researchers and technologists believe AI has become an "existential risk", alongside nuclear weapons and bioengineered pathogens, so its continued development should be regulated, curtailed or even stopped. What was a fringe concern a decade ago has now entered the mainstream, as various senior researchers and intellectuals have joined the fray.
+It's important to note that there are differences of opinion within this amorphous group – not all are total doomists, and not all outside this goruop are Silicon Valley cheerleaders. What unites most of them is the idea that, even if there's only a small chance that AI supplants our own species, we should devote more resources to preventing that happening. There are some researchers and ethicists, however, who believe such claims are too uncertain and possibly exaggerated, serving to support the interests of technology companies.
+Y is for…
+YOLO
+YOLO – which stands for You only look once – is an object detection algorithm that is widely used by AI image recognition tools because of how fast it works. (Its creator, Joseph Redman of the University of Washington is also known for his rather esoteric CV design.)
+Z is for…
+Zero-shot
+When an AI delivers a zero-shot answer, that means it is responding to a concept or object it has never encountered before.
+So, as a simple example, if an AI designed to recognise images of animals has been trained on images of cats and dogs, you'd assume it'd struggle with horses or elephants. But through zero-shot learning, it can use what it knows about horses semantically – such as its number of legs or lack of wings – to compare its attributes with the animals it has been trained on.
+The rough human equivalent would be an "educated guess". AIs are getting better and better at zero-shot learning, but as with any inference, it can be wrong.
+--
+Join one million Future fans by liking us on Facebook, or follow us on Twitter or Instagram.

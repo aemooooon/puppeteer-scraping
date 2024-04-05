@@ -1,0 +1,19 @@
+Microsoft has rolled out a string of new security measures aimed at deterring cyber threats and preventing vulnerabilities that have plagued the big tech firm in recent years.
+The measures, dubbed the “Secure Future Initiative” (SFI), were announced by Brad Smith, Microsoft vice chair and president, in a Nov. 2 blog post.
+According to Microsoft, the new security measures, which heavily incorporate artificial intelligence (AI), will bring together every part of the company to advance cybersecurity protection.
+The company also was subjected to a 2021 hack resulting from a flaw in its Microsoft Exchange Server email that left emails belonging to at least 30,0000 organizations across the United States exposed.
+“The past year has brought to the world an almost unparalleled and diverse array of technological change. Advances in artificial intelligence are accelerating innovation and reshaping the way societies interact and operate,” Mr. Smith wrote the blog post.
+“At the same time, cybercriminals and nation-state attackers have unleashed opposing initiatives and innovations that threaten security and stability in communities and countries around the world.”
+The company’s new approach, the SFI, will operate under three pillars, focused on AI-based cyber defenses, advances in fundamental software engineering, and “advocacy for stronger application of international norms to protect civilians from cyber threats,” according to the blog post.
+Specifically, under the AI aspect of the initiative, Microsoft will be using advanced AI tools to improve the company’s threat intelligence and analysis to better detect cyber threats.
+“We are extending these capabilities directly to customers, including through our Microsoft security technologies, which collect and analyze customer data from multiple sources,” Microsoft stated.
+The company will also be using “game-changing” AI for its Security Copilot tool, which combines a large language model with a security-specific model that has various skills and insights from Microsoft’s threat intelligence. This will make existing threat analysts more effective and responsive while simultaneously helping combat the shortage of trained cybersecurity professionals, according to Microsoft.
+Microsoft also plans to use AI to “transform” software development, the blog post states.
+The tech giant also plans to bolster identity protection against highly sophisticated attacks, noting that identity-based threats such as password attacks have increased tenfold during the past year, with cybercriminals using ever more sophisticated techniques to steal and use login credentials.
+“We will also make these advanced capabilities freely available to non-Microsoft application developers,” the company stated.
+Finally, Microsoft stated that it plans on “pushing the envelope” when it comes to enhancing its vulnerability response and speed, with the firm aiming to slash the time it takes to mitigate cloud vulnerabilities by 50 percent.
+The company also vowed to push for more “transparent” and “consistent” reporting of such vulnerabilities across the tech sector.
+Microsoft noted in the Nov. 2 blog post that its Digital Crimes Unit is tracking 123 sophisticated ransomware-as-a-service affiliates, whereby various developers sell or rent ransomware to buyers.
+Since September 2022, the company estimates that ransomware attempts have surged by more than 200 percent, according to this year’s Microsoft Digital Defense Report.
+The tech giant also noted an increase over the past year of “nation-state efforts to target cloud services, either directly or indirectly, to gain access to sensitive data, disrupt critical systems, or spread misinformation and propaganda.”
+While Microsoft acknowledged the significant role tech companies and the private sector play in cybersecurity protection, the company also called on governments across the world to do more to bolster protections online.

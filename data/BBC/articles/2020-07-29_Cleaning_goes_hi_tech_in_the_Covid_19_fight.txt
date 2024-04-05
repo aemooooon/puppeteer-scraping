@@ -1,0 +1,14 @@
+Robots are being trialled to see how effective they can be in disinfecting items and public areas in the fight against coronavirus.
+The University of Leeds is using robots to help sanitise parts of the city centre and Leeds Bradford Airport.
+Meanwhile, an engineering firm is working with a supermarket chain to trial an automatic trolley wash.
+The schemes aim to reduce the risk of Covid-19 transfer to both cleaning staff and the public.
+The robots being used in the city centre and the airport were originally designed to inspect, and conduct repairs on, infrastructure such as pipes and bridges.
+They were developed by researchers in the Self Repairing Cities project, a consortium involving the University of Leeds and Birmingham, and University College London.
+Adapted to combine navigation, computer vision and artificial intelligence, they find objects which need regular cleaning and then spray a mist of diluted alcohol over them.
+Dr Bilal Kaddouh, assistant professor at the Leeds School of Mechanical Engineering, said the trials had gone well.
+"The robots were able to identify the objects that they needed to clean, and they were able to manoeuvre in the public spaces.
+"The robotic arms effectively delivered the disinfectant on to the target surfaces."
+The next stage will be to have the robots work autonomously, he said.
+The trolley wash is being tested at Asda's store in Morley, the company said.
+Developed by the WasteCare Group, the unit works by coating trolleys with fine particles containing an anti-microbial solution.
+It is waterless, using an electrostatically charged mist to ensure all touch points are thoroughly sterilised.

@@ -1,0 +1,37 @@
+A man with a shiny metal Concorde model on his desk, and old circuit boards on a shelf, is clearly in love with technology. 
+Chris Sharp is the chief technology officer at Digital Realty, a US business at the intersection of construction and high-tech. It builds data centres, the anonymous warehouses full of computers that keep the online world spinning. 
+And the advent of artificial intelligence (AI), which requires far more processing power than standard computing, has put rocket boosters under the data centre world. 
+His company has just built a huge new data centre in Portland, Oregon dedicated to AI. Just how different is this from an ordinary data centre?
+"A normal data centre needs 32 megawatts of power flowing into the building. For an AI data centre it's 80 megawatts," says Mr Sharp.
+AI systems are using all this extra electricity simply because they are doing so much more processing than standard computing. They are chewing through far more data.
+Mr Sharp also points out that the entire web of technical support demanded by AI is greater. "You have five times more cabling, for instance."
+All of this points to a problem. How can AI grow when it requires so much more power to function?
+Demanding ever more juice from the existing grid means competing with homes and other industries, and is not going to win the data centre sector any friends if blackouts result.
+"Our industry has to find another source of power," Mr Sharp declares. He reckons that is nuclear.
+More pressingly, he predicts that data centres in the not too distant future will come with their own dedicated, built-in nuclear reactors.
+The technology in question is the much-touted Small Modular Reactor (SMR). These are designs for advanced reactors with about a third of the power generation of a traditional, large nuclear plant.
+While there are currently no SMRs in commercial operation around the world, China is building the world's first, and similar technology is already used by nuclear-powered submarines.
+Meanwhile, universities, such as the UK's Imperial College London, have for years operated small nuclear reactors for teaching and training purposes. Imperial's own reactor, located just outside London, was operational from 1965 to 2010. 
+Today most companies developing SMRs for commercial use are focusing on helping towns and cities to keep their lights on. However, a clutch of specialist firms have decided that data centres are the best candidates for their SMR designs.
+Dr Michael Bluck runs the Centre for Nuclear Engineering at Imperial College London. "Data centres are power hungry things, but with AI we're moving into a new level of power requirements," he says.
+"There are about 50 SMR designs out there. The challenge is to build them in repeatable units, factory style, standardising production lines. 
+"There's no reason why a small fast reactor can't power a data centre, except that you have to get it past the regulator."
+In the US, one SMR design from a company called NuScale has already been given the go-ahead by the Office of Nuclear Energy. Meanwhile, in the UK the Office for Nuclear Regulation is continuing to study SMR designs from Rolls-Royce and US tech firm Holtec International.
+And US energy firm Westinghouse wants to build four SMRs in north east England, in Tees Valley, close to the existing Hartlepool nuclear power station.
+Read additional stories on artificial intelligence
+Dr Bluck thinks nuclear submarines offer a compelling safety case for SMR technology. "We build a reactor and put it in a submarine, and people sleep within two yards of it." 
+And he forecasts the tech sector's involvement in SMR development will prove decisive. "These guys have got oodles of cash!"
+By contrast, Dr Doug Parr, chief scientist for Greenpeace UK, says that the high cost of SMRs will prove to be too great a barrier.
+Unrealistic hype lies behind the cost estimates for SMRs," he says. "This hype will fall away as delays and difficulties emerge."  
+Dr Parr argues that data centre operators will get cold feet when revised costings emerge to render SMRs uncompetitive compared with renewable energy sources.
+Greenpeace is also opposed to nuclear power on safety grounds, pointing out the risk of accidents, and the need to deal with the radioactive waste.
+Spencer Lamb, chief commercial officer at British data centre developer Kao Data, doesn't view nuclear-powered facilities in the UK as being something imminent. "I've heard about SMRs, but it will take a long time to deploy a nuclear-configured data centre in the UK, and AI is happening now," he says.
+Back in California, a company called Oklo says it has an SMR design that is almost ready to roll.
+"AI is the catalyst, the main driver," says Brian Gitt, who is in charge of business development at the company. 
+Oklo plans to manufacture SMRs that it says can built both quickly and safely.
+"People question the viability of nuclear power due to the waste product and risk of an accident," says Mr Gitt. "We recycle the fuel through our reactor multiple times, dealing with the waste, and the new reactors cannot melt-down, they are self-cooling and self-regulating."
+Mr Gitt declines to reveal if any data centre firms have already signed contracts, but he says that "all the major operators are interested". He adds: "Power is their biggest problem, and they want to deploy this technology within four years, by 2028." 
+Mr Gitt says that his 25 years working in the energy business has convinced him that nuclear power is the only answer to the pressures the new AI data centre world faces.
+"[Without us] they just don't have the power to turn on all the machines they need to have. We are signing letters of intent on specific data centre locations for the 2028 timeframe."
+So what will a data centre's very own nuclear plant look like? Oklo envisages a large stainless steel tank that contains the SMR dropped into a 50ft (15m) deep hole in the ground. The data centre would then constructed on and around it.
+Perhaps the ultimate tie up between SMRs, AI and data centres is evident on Oklo's board. 

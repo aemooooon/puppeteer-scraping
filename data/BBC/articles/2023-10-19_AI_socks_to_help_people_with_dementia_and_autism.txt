@@ -1,0 +1,12 @@
+Carers of people with dementia and autism could get support from socks which use artificial intelligence (AI).
+The SmartSocks, created by Milbotix, alert carers when the wearer is in distress.
+The socks track heart rate, sweat, temperature and motion, to enable those caring for people to intervene before issues escalate.
+The Dorset Integrated Care System will trial the socks at care homes in 2024.
+Councillor Jane Somper, from Dorset Council, said "Smart Socks can help enable people living with dementia or other conditions to retain their independence and have better day-to-day quality of life."
+Bristol-based Milbotix, the start-up company behind the product, said it wanted to create wearable technology that was not complex, uncomfortable or stigmatising.
+The machine washable socks are paired with an app, installed on a smartphone.
+A sensor embedded in one of the socks collects data from the foot and the ankle of the wearer which is sent to the AI, which estimates whether the person is distressed. 
+The care team would then be alerted through the app.
+Dr Zeke Steer, Milbotix founder, was inspired to make the product after his grandmother began to show signs of early onset dementia.
+He said partnering with the council meant the company could "hear the expert voices of people providing and receiving care".
+"We are committed to building a product that genuinely help carers and improves wearers' overall wellbeing," he added.

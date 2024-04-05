@@ -1,0 +1,35 @@
+Computers are getting better at recognising faces and shapes and making connections between images, heralding a new age of visual search that could transform the way we interact with the world around us. 
+Have you ever searched Google maps for a destination, asked it for directions, then walked off in completely the wrong direction?
+I have, plenty of times - and I'm way down the street before the arrow on my phone jolts into the right position telling me I'm getting colder, not hotter. 
+Of course, being a man, I have to walk on a few more metres before finally admitting my mistake and effecting the 180-degree "swivel of shame".
+And this always seems to happen when I'm late for a meeting, which is quite often. But that's another story.
+The problem is that GPS signals don't work so well in built-up cities, bouncing off the walls of tall buildings and generally getting a bit lost.
+Anyone who's waved frantically at their Uber as it sails past to what it thinks is your location further down the road knows this problem only too well.
+So imagine what joy it would be to navigate without the need for GPS - if arrows overlaid on my smartphone camera's field of vision could show me which way to go. 
+Well, this is one of the many applications of mixed or augmented reality (AR) and computer vision working together.
+Computer vision is a branch of artificial intelligence that involves teaching computers how to recognise and discern between objects in the real world.
+It's the technology underpinning driverless vehicles, facial recognition, medical diagnostics, and even the bunny ears and whiskers you can add to your face on Snapchat. 
+Tech company Blippar has developed "urban visual positioning" that it claims has double the accuracy of GPS. This computer vision feature, incorporated in its new app, AR City, recognises exactly where users are and overlays directional information on to the phone's screen.
+So now I'll be able to see which direction I should be walking by following the arrows overlaid onto the image of the real street.
+But this level of detail is currently available only in Central London in the UK, and San Francisco and Mountain View in California, explains Danny Lopez, Blippar's chief operating officer.
+Basic navigation, using AR overlaid onto Apple Maps, will show walking routes through 300 cities and make use of existing GPS technology, he says. Street names and information about points of interest will also be overlaid onto the maps.
+This beta version of the AR City app is only available on Apple iPhone 6s and above, however.
+Blippar initially specialised in applying AR to marketing - making products come to life when you point your smartphone at them. But it has since refocused its attentions on "indexing and cataloguing the physical world", says Mr Lopez.
+But getting machines to understand the world visually is no mean feat.
+"Historically, computers have understood and organised text data," says Ian Fogg, principal analyst at research firm IHS Markit. 
+"But in recent years we've seen computers organise photos based on understanding the composition - whether they are mostly beaches, forests, people and so on.
+"Now they're moving into real-time analysis - such as the Microsoft Translate app recognising a sign and translating it instantaneously."
+Computers don't "see" digital images, they just see numbers, so they have to be trained to interpret those patterns.
+"This involves breaking down thousands and thousands of images into pixels then using algorithms to teach the machine the difference between a human, a house or a car," says Mr Lopez.
+It took Blippar three months to train its system to recognise every make and model of car in the US with a accuracy rate of 97.5%, he says.
+None of this could have been achieved without the rise of cloud computing power, he adds.
+Ben Silbermann, co-founder and chief executive of Pinterest, the "visual discovery tool" that has 200 million users globally, says his company is "at the leading edge of computer vision".
+Computers can now isolate different objects within the same photo - think Facebook face tagging but for objects. 
+This is enabling Pinterest users to take photos and then have the system identify, for example, the lamp, chair or table designs within the picture, and either find the exact match or something similar.
+This sounds straightforward, but "you need an awful lot of labelled data to train the system," says Mr Silbermann. 
+"We've hired a lot of experts in the computer vision field."
+He admits that the science is still nascent, comparing it to where speech recognition was several years ago.
+"Apple's Siri didn't work so well a few years ago, but now it does. Computer vision is where language was then."
+Looking to the future, this blend of physical and digital will be most effective when we don't have to hold smartphones up in front of our eyes but can see through smart glasses and heads-up displays. 
+"The reality is that in terms of practicality we're heading towards a world where AR will best be experienced through a headset," says Danny Lopez. 
+"At the moment, they're clunky, expensive and not very comfortable or cool."

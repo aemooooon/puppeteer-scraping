@@ -1,0 +1,3 @@
+Rep. Yvette Clarke (D-N.Y.) introduced legislation in Congress to criminalize “deepfakes,” a form of video technology that creates computer-generated images that often are indistinguishable from real footage.
+Generative AI, a subset of artificial intelligence, allows the creation of various content, such as text, images, audio, and video, with remarkable simplicity using just a basic user prompt.
+However, organizations such as the Electronic Frontier Foundation (EFF) have urged Congress against acting hastily. They argue that regulation could have a negative effect on free expression.

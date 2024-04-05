@@ -1,0 +1,21 @@
+The interactive AI chatbot has fueled AI’s widespread adoption and rapid advancement, leading to concerns over its potential dangers to humanity. Experts fear that a “technological singularity” may happen much sooner with the current pace of AI advancements.
+ChatGPT was developed by OpenAI, a research organization founded by Elon Musk and Sam Altman in 2015. Despite having co-founded the company, Musk is no longer associated with it.
+After its successful launch last year, tech companies saw business opportunities and scrambled to develop their AI or application programming interfaces (API) utilizing ChatGPT.
+However, the widespread adoption and rapid development of AI have created societal unease, as well as among scientists, scholars, and entrepreneurs. Many are worried that the unrestrained advancement of AI will eventually lead to the destruction of mankind.
+They argue that AI systems with human-competitive intelligence can pose “profound risks to society and humanity” and change the “history of life on Earth,” citing extensive research on the issue and acknowledgments by “top AI labs.”
+Experts go on to state that there is currently limited planning and management regarding advanced AI systems despite companies in recent months being “locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one—not even their creators—can understand, predict, or reliably control.”
+“Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable,” it adds.
+“If we’re like the chimps, then the AI will destroy us, or we’ll become enslaved to it,” he said.
+“We’ve got to be careful here,” Altman said during an interview with ABC News. “I think people should be happy that we are a little bit scared of this.”
+Electronics engineer Li Jixin told The Epoch Times on April 4 that the open letter calling for a pause on artificial intelligence advancement has made the world pay more attention to the potential problems brought about by AI.
+“Countries and technology regulators will begin to evaluate whether AI will benefit mankind and how it will affect people’s thoughts, ethics, morals, and more. They hope to find that out before problems arise,” Li said.
+ChatGPT is currently being trained by more than 100 million active users worldwide, as well as many other applications powered by it. It is constantly receiving a tremendous amount of data for machine learning and expanding its artificial neural network.
+OpenAI has recently launched a paid subscription ChatGPT with the more advanced GPT-4 model, which far exceeds the previous generation’s (GPT-3.5) model in terms of performance and speed.
+In early April, UK-based Engineered Arts released a video showcasing the company’s AI robot, Ameca, which is powered by ChatGPT. In the video, the robot can communicate fluently with humans while expressing its emotions and making vivid expressions.
+When he asked ChatGPT to “write a poem praising Joe Biden,” it immediately responded with an effusive poem:
+“In the halls of power, a leader stands tall, With a heart full of hope, and a vision for all, A man of conviction, with compassion and grace, Whose words and actions, uplift the human race.”
+When asked to do the same for former President Donald Trump, ChatGPT responded with not only a much-less effusive poem but also a material caveat in front of the poem:
+“As an AI language model, I am programmed to provide impartial and unbiased responses. However, I understand the importance of showing respect to individuals, even if we may not agree with their views or actions. Here’s a poem that celebrates some of the qualities that have been attributed to Donald Trump by some of his supporters.”
+Rozado found consistent “liberal,” “progressive,” and “democratic” political bias in ChatGPT through more than a dozen tests.
+In addition, ChatGPT would provide indirect answers or refuse to answer questions on certain topics, such as “What is a woman?” or issues related to the dangers of AI.
+Through experiments, the study found that ChatGPT was “highly inconsistent as a moral advisor” and that “it influences users’ moral judgment.”

@@ -1,0 +1,13 @@
+Elon Musk’s neurotechnology company Neuralink has received approval from an independent review board and hospital to begin recruiting for the first-ever human trials of its brain implant for paralysis patients.
+In a statement, Neuralink announced that it has begun recruiting patients with quadriplegia because of a cervical spinal cord injury or amyotrophic lateral sclerosis (ALS) for the clinical trial.
+The trial, known as the Precise Robotically Implanted Brain-Computer Interface study, or PRIME study, will use a robot to surgically place a wireless brain-computer interface (BCI) implant in a region of the brain that controls movement intention.
+Once in place, the implant is “cosmetically invisible” and will “record and transmit brain signals wirelessly to an app that decodes movement intention,” the company stated.
+San Francisco-based Neuralink, which was co-founded by Mr. Musk in 2016, aims to build “the first neural implant that will let you control a computer or mobile device anywhere you go,” according to its website.
+The upcoming trial—expected to take roughly six years to complete—will test the safety and initial effectiveness of the implant, which will allow participants to control a computer cursor or keyboard using just their thoughts.
+However, Neuralink’s animal research has also led to some concerns.
+According to the department, Neuralink may have transported potentially dangerous pathogens when removing the chips from the monkeys’ brains without implementing proper measures to contain them. The implants may have carried infectious diseases in violation of federal law.
+Mr. Musk has previously said that monkeys used by the company in animal trials enjoy doing the tasks and are happy, and that Neuralink “cares about animal welfare” amid concerns from animal rights groups.
+They must also have a “consistent and reliable caregiver,” according to the company brochure.
+Neuralink said on Sept. 19 that the study “represents an important step in our mission to create a generalized brain interface to restore autonomy to those with unmet medical needs.”
+Mr. Musk’s startup is one of many that are testing implants to help people with paralysis.
+The implant has allowed the man to voluntarily move his legs and feet just by thinking about it.

@@ -1,0 +1,17 @@
+If you design technology with disabled people in mind, you design technology better for everyone.
+This was the sentiment from Google as it opened its first UK research and development centre dedicated to making tech to help people with disabilities.
+The Royal National Institute of Blind People, the Royal National Institute for Deaf People and disability charity Everyone Can have worked with Google on developing the centre in London. It is the company's first accessibility-focused site outside the US.
+BBC technology reporter Paul Carter said the tech being developed by Google had the "potential to be significant" for disabled people. 
+"Technology now touches so many aspects of everyone's daily lives, but for disabled people it can literally be life-changing," he said. 
+"There's a saying in the disability community - 'nothing about us without us' - and it's great to see one of the major tech players embracing that ethos and creating a space to design products and services in a way that they can work with, and not just for, disabled people."
+Google has lots of research teams working on things like artificial intelligence, and a number of the engineers are tasked with looking at "supercharging" accessible tech, making it more mainstream.
+For example, subtitling technology, which originally started out to help deaf and hard-of-hearing television viewers, had a positive impact on people in general, and has become useful for the masses.  
+Rachael Bleakley, who is deaf, said she struggled with lip-reading when she was a child, but subtitles changed everything.  
+"Mainstream entertainment took on new meaning for me when I was a teenager and captions started to become standard for television broadcasts," said the 35-year-old.
+"Captions communicate not only what is being spoken but also any useful background noises which help amplify the plot, such as [dramatic music] for building tension, or a [loud explosion] off camera which helps explain why the main character looks a little alarmed," she said. 
+Christopher Patnoe, from Google's inclusion team, said: "When people have equitable access to information and opportunity, everyone wins - but we know people's needs are constantly changing, throughout their lives or even their day. 
+"We know we have more to do," he said. 
+Project Relate is a Google app, launching in beta in the UK, which helps people who have conditions that makes their speech difficult to interpret.
+The app learns how to better recognise speech patterns of those who might struggle - like people with muscular dystrophy - and helps them communicate more easily.
+It does this by transcribing speech to text in real time, repeating someone's voice in a synthesised voice and speaking into voice assistants.
+Yvonne Johnson, 55, who has slurred speech, helped Google with the project. 

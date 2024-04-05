@@ -1,0 +1,15 @@
+Tech giant Nvidia says the US has told it to stop shipping some of its advanced artificial intelligence chips to China immediately. 
+The restrictions were supposed to be introduced 30 days from 17 October.
+That was when President Joe Biden's administration announced measures to block countries, including China, Iran and Russia, from buying high-end AI chips designed by Nvidia and others.
+Nvidia did not say why the timeline had been moved forward.
+In a statement to the US Securities and Exchange Commission (SEC), Nvidia said the US government said these curbs were "effective immediately", but added that "given the strength of demand for the Company's products worldwide, the Company does not anticipate that the accelerated timing of the licensing requirements will have a near-term meaningful impact on its financial results". 
+The new restrictions bar exports of Nvidia's advanced AI chips, which had been designed for the Chinese market to comply with earlier export regulations.
+The acceleration of the introduction of the US curbs is the latest move in the ongoing technology dispute between Washington and Beijing.
+Chinese authorities have yet to publicly comment on Nvidia's announcement, but it hit back at the Biden administration's decision to impose new restrictions on advanced chip exports when it was announced last week.
+The country's foreign ministry said the curbs "violate the principles of the market economy and fair competition".
+The move was seen as an attempt to close loopholes that became apparent after an initial wave of chip controls last October.
+At the time, the US said the measures were designed to prevent China from receiving cutting-edge technologies that it could use to strengthen its military, especially in the field of AI.
+Soaring demand for Nvidia's AI chips has pushed up its share price more than threefold, making it one of the most valuable companies in the world.
+In May the firm joined technology giants Apple, Amazon, Alphabet and Microsoft in the elite club of companies with stock market valuations of more than $1 trillion (£822bn).
+California-based Nvidia has come to dominate the market for chips used in AI systems.
+Chip giant Advanced Micro Devices (AMD), which also supplies AI chips to China, has not made any announcement about the accelerated export curbs. It did not immediately respond to a BBC request for comment.

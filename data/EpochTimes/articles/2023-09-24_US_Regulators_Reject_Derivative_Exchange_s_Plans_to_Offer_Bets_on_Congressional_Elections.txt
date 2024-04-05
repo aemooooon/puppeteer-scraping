@@ -1,0 +1,16 @@
+U.S. financial regulators have rejected a bid by prediction market Kalshi to offer bets on U.S. congressional elections.
+In June, Kalshi proposed to roll out a new product: cash-settled, binary contracts for congressional elections that would be in the form “Will (chamber of Congress) be controlled by (party) for (term)?”
+The proposal would have allowed various market players, including hedge funds, to bet as much as $100 million on which political party would win control on Capitol Hill.
+These categories include contracts that involve gaming or other activity that violates state or federal laws.
+In many states, betting or wagering on elections is prohibited by statute or common law, he pointed out.
+Mr. Benham added that the analysis CFTC has reached and its final determination “are squarely within” the panel’s “duty and discretion” given its role in regulating derivatives markets, which Kalshi is.
+The regulator’s decision means that the elections wager contracts proposed by Kalshi are prohibited and can’t be listed or made available for clearing or trading on or through its platform.
+Mr. Benham said that approval of political event contracts of the type that Kalshi was seeking to offer would require the CFTC to “exercise its oversight and enforcement authorities in the manner of an election cop.”
+He said it makes sense for the CFTC to have a mandate to fight fraud, manipulation, and false reporting in derivative markets for things such as commodities—but not political contests.
+“Our new authorities would per se include monitoring elections, candidates, and countless participants in the political machinations that proliferate in the media and cyberspace in an effort to prevent manipulation and false reporting within the political system—something that the CFTC currently lacks the mandate to do,” he said.
+The decision was reached in a 3–1 vote, with all three Democratic commissioners voting against approval.
+He said that many financial products that are commonplace today—such as insurance and exchange-traded funds—were initially met with skepticism.
+“Our mission is bold. Bold missions are hard. This is not the first time the Kalshi team gets a ‘NO’ and it’s probably not the last time. We have pushed through all the previous NOs and we will push through this one,” he said.
+Dennis Kelleher, co-founder and CEO of Better Markets, a nonpartisan organization that promotes the public interest in the financial markets, praised the CFTC’s decision.
+“With at least hundreds of millions and more likely billions of dollars being bet and with the rise of low-cost social media and artificial intelligence, allowing betting on U.S. elections would almost certainly lead to election interference, abuses, and other illegal conduct,” he said.
+Mr. Kelleher argued that gamblers would try to influence political outcomes for profit by, for instance, investing in negative ads, which could have a big effect on close races.

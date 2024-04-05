@@ -1,0 +1,18 @@
+Canada participated in the first-ever international summit on the safety of artificial intelligence (AI) in early November in the UK, where newfound opportunities were being balanced with warnings about the dire consequences of leaving the technology unchecked.
+However, the fast pace of developments in AI means tabled legislation can quickly become irrelevant, and Bill C-27 has moved slowly in the House of Commons.
+Ottawa recognizes the fast-moving pace of the technology and has sought to create more open-ended and nimble legislation, but this has also raised questions in terms of whether regulation can be effective.
+Some of the concerns raised have been heard and the government will be tabling amendments to C-27, the minister said.
+The bill, which does not apply to the government, focuses on the commercial usage of “high-impact AI systems,” a term not currently defined in the legislation. Mr. Champagne said an amendment will introduce a definition. He has described high-impact AI systems as those that could be involved in deciding whether or not an individual can get a loan or an insurance policy, for example.
+“We have to make sure that the algorithm does not generate biased results that would lead in the wrong direction,” the minister said.
+Another amendment mentioned by Mr. Champagne aims to cover AI systems like ChatGPT. The tool was launched in November last year by OpenAI and enables users to engage in conversations with the system, answer questions, and perform tasks. Other tech companies have launched competitors, such as Google’s Bard and X’s Grok.
+The lack of “robust” consultation has also been called out by business interests, with Canadian Chamber of Commerce Vice-President Catherine Fortin LeFaivre saying it’s “required to properly address AI regulation needs in Canada.”
+“It’s critical that our AI regulations are precise enough to provide important guardrails for safety, while allowing for our businesses to harness AI’s full potential responsibly,” she testified at the Oct. 31 committee meeting.
+While testifying at the Oct. 31 committee meeting, he went further than the privacy commissioner, saying that people should be able to contest decisions made by AI systems, such as those involving insurance, school admissions, and credit scoring.
+“There has been much gaslighting from industry lobbyists and self-interested parties whose profits depend on mass surveillance, arguing that meaningful AI privacy regulations limit innovation,” he said. “Privacy and AI regulations are not impediments to innovation.”
+Ms. Vipond also questioned the relevance of the government’s voluntary AI code of conduct for businesses.
+“I think that any time we go into voluntary we get into trouble, just as a fundamental approach to the work, so we do have major concerns there,” she said.
+U.S. President Joe Biden said he places the “highest urgency” on the safe and responsible development and use of AI. “The rapid speed at which AI capabilities are advancing compels the United States to lead in this moment for the sake of our security, economy, and society,” he wrote.
+The common understanding is that AI is full of both promise and pitfalls.
+Mr. Champagne said the world previously put a stop to technology it judged harmful and that AI should be assessed the same way.
+He said boundaries should be set in which we can “have creative and responsible innovation to help people in so many ways, but that there is going to be a line that should not be crossed because that would be detrimental to people.”
+It says decisions about letting AI systems replace humans in a number of tasks should not be “delegated to unelected tech leaders.”

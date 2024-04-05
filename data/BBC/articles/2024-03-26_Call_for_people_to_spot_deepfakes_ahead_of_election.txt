@@ -1,0 +1,9 @@
+A university report has called for people to be taught how to spot AI-generated deepfakes ahead of the general election.
+The report from the University of Surrey's Institute for People-Centred AI also recommends greater funding for research into detecting deepfakes.
+Deepfakes use a form of AI called deep learning to make images of fake events.
+Dr Bahareh Heravi, reader in AI and the media at the institute, said: “AI makes it easier than ever before to sow false information among voters.
+“That’s why we must give voters the tools to tell fact from fiction. Greater media literacy can only strengthen our democracy.”
+Other recommendations from the report include a wider use of content verification, including clear labelling of AI-generated content,  and a "fact-checkers code" to encourage companies to investigate and report misinformation.
+Laws to make social media companies responsible for content on their platforms have also been suggested.
+Director of innovation and partnerships at the institute Dr Andrew Rogoyski said: “With so much opportunity arising from AI, it’s unhelpful to let the negative applications like fakery and disinformation grow in use."
+The next general election must be held by 28 January 2025.

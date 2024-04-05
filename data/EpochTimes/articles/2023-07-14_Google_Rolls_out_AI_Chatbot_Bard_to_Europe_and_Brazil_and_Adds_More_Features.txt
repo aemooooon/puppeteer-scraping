@@ -1,0 +1,11 @@
+LONDON—Google said Thursday that it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users.
+The company also said it’s adding more features to Bard as it scrambles to keep up with rival Microsoft—which uses OpenAI’s popular ChatGPT service in its Bing search engine—in the race to capitalize on generative artificial intelligence technology that has captured worldwide attention.
+Google launched Bard in February, but its planned rollout last month in the European Union was delayed as regulators checked whether the service complied with the 27-nation bloc’s strict privacy rules.
+The company said it has “proactively engaged with experts, policymakers and privacy regulators.”
+The Irish Data Protection Commission, Google’s main EU privacy watchdog, said it sent the internet search giant a detailed list of questions seeking more information.
+As a result, Google hit pause and “made a number of changes” ahead of Thursday’s European launch, ”in particular increased transparency and changes to controls for users,” the watchdog said.
+Google detailed the improvements in a blog post, which said Bard can now be used in more than 40 languages, including Arabic, Chinese, German, Hindi and Spanish.
+Users also can tailor the tone and style of Bard’s replies and ask it to read out responses, which Google said is “helpful if you want to hear the correct pronunciation of a word or listen to a poem or script.”
+English-language users can now start uploading images along with prompts for Bard to analyze for answers, Google said.
+A new breed of AI chatbots has wowed users with the ability to respond to questions with text, images or video that mimic human work, underscoring big advances by the technology that companies are rushing to take advantage of.
+Billionaire Elon Musk, who has voiced concerns about the existential risk that artificial intelligence could pose to humanity, this week launched his own AI company with the lofty but vague goal of understanding the universe.

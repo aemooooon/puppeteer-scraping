@@ -1,0 +1,19 @@
+Artificial Intelligence - a rapidly advancing technology promising to transform whole industries in the next five years with profound implications for how we live and work. 
+Or, as we hear on this week's Tech Tent, a massively overhyped buzzword for quite a mundane field of computer science which has not made any great leap forward in the last decade.
+That is the view we hear from Zia Chishti, who is deeply sceptical about the claims that AI is disrupting every industry on earth at breakneck speed.
+What is striking is that Mr Chishti is not some contrary pundit, but a computer scientist who has built two multi-billion dollar businesses, the latest devoted to using AI. 
+Afiniti describes itself as the world's leading artificial intelligence solutions provider and helps its clients use machine-learning techniques to interact with their customers. 
+But the firm's founder says the rush by big corporations to prove they have an AI strategy is based on fashion rather than real changes in the technology.
+"Really there's nothing here that's tremendously groundbreaking - the same principles that were at work even 40 years ago are still at work today," he says.
+He accepts that machine learning, where computers are given vast amounts of data and learn to spot patterns in it, has advanced as processing power has leaped forward. 
+But he seems dubious that these techniques have much to do with the kind of AI we have been warned about by the likes of Ray Kurzweil and Elon Musk, where machines surpass humans and make them redundant.
+That Artificial General Intelligence, he says, would need computers to acquire human characteristics such as understanding meaning and context, or even becoming conscious.  
+"Nobody serious thinks we've made any progress on those fronts," he says. "There's not one person in the field that has any view that we're any closer to generalised intelligence than we were two decades ago."
+I bring up what seemed to many the most impressive demonstration of advances in AI, Google DeepMind's defeat of a world champion player of the ancient Chinese game of Go. 
+But he dismisses this and IBM Watson's mastery of the game show Jeopardy as "marketing" with little relevance to real world deployment of artificial intelligence.
+Our special guest on this week's programme is Kriti Sharma, who oversees artificial intelligence development for the business software firm Sage. 
+She tells us we should not get too hung up on terminology when we talk about AI: "Machine learning, predictive analytics, AI - in reality it's about the problems that AI can solve for humanity."  
+She says even the smallest businesses are now finding that AI techniques can save them money and make them more productive.
+As a counter to Mr Chishti's cynical take on DeepMind's Go victory as a marketing exercise, she points to the same company's project to automate the diagnosis of eye scans, potentially bringing more rapid treatment to millions of patients. 
+She thinks we need to focus on short-term gains rather than dreams of sentient machines: "We're too fixated on creating AI that is as good as humans - in reality we need something that can support and make human lives better," she says.
+Perhaps Mr Chishti, who has been immersed in this subject since his student days, is just too close to  it, like a fan of an indie band who loses interest when it goes mainstream.  But  his scepticism reflects divisions in the AI world about the very definition of its discipline and mission.

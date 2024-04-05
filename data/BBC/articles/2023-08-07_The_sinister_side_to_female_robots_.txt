@@ -1,0 +1,55 @@
+When we give AI a humanoid form, we typically choose the robot to have feminine characteristics. Are we playing on stereotypes?
+There is a popular idea that artificial intelligence (AI) is out to get us.
+It was this public image problem that the United Nations was recently trying to address at its AI for Good conference in Geneva.
+The event in July was intended promote AI to help solve global problems, and it was described as the largest-ever gathering of humanoid robots.
+There was Ai-Da (the "world's first ultra-realistic humanoid robot artist") and Grace (the "world’s foremost nursing assistant robot") as well as Sophia, Nadine, and Mika. There was even a rock star robot, Desdemona.
+All of these androids have one thing in common – they are all female by design. So why is it that creators typically choose to give their robots feminine characteristics?
+It is often argued that the choice to make AI voice systems female is rooted in gender bias. But sometimes there is a more innocent reason for the sex a designer gives their robot: they have modelled it on themselves.
+You might also like:
+ This is the case with Nadine, whose creator Nadia Magnenat Thalmann describes her as a "robot selfie". Meanwhile, Geminoid, the only robot at the conference that was explicitly male, is the spitting image of its maker, Japanese roboticist Hiroshi Ishiguro.
+One of the keynote speakers at the conference was Ai-Da, an AI machine which can draw, paint and sculpt, and is also a performance artist.
+Lisa Zevi, head of operations for the Ai-Da project, tells the BBC that in this particular case, there was a good reason for giving Ai-Da a broadly female look.
+"Female voices are typically very underrepresented in both the art and technology spaces," she says. "We want to give a voice to those underrepresented groups effectively."
+Specifically, Ai-Da's persona is inspired by Victorian mathematician Ada Lovelace – considered by many to be the first computer programmer – as is her appearance.
+Other than those robots modelled on an individual, one particular reason is often suggested for choosing a female robot: we have an innate preference for women's voices.
+Karl MacDorman, an expert in robotics and human-computer interaction from the University of Indiana in the US, believes this argument may have a basis. He has conducted research which has found that women prefer women's voices, and men do not really have a preference.
+By testing their reactions to voices, the research found a discrepancy between what people report on questionnaires and what they really feel – women like a female voice far more than they admit, and men say they greatly prefer a female voice on questionnaires (even though they don't really care).
+"Thus, a female voice may work better for both groups. Women on average are happier interacting with female voices, and men believe they should be happier, even if they're indifferent," MacDorman concludes.
+This might not tell the whole story though.
+Early versions of AI like Siri and Alexa were given female voices, and MacDorman's work has been quoted as justification for this choice. Yet he believes some major corporate decisions had already been made for entirely different reasons, and his findings were simply convenient.
+"I suspect they had made their decision before I had published any work on this topic," he says. "They probably made the decision for reasons that are unconscious, or reasons that they might not like to admit to, and then they need the justification for it later when they are challenged."
+MacDorman believes our own expectations may play a bigger part in the decision-making than many designers are prepared to admit. "In terms of quality of service or customer service roles I think that they may be more associated with women than with men.
+"The initial stereotype then becomes reinforced just because it becomes a popular choice to give artificial intelligence a female voice."
+MacDorman believes that this could be considered sexist, because the roles that AI typically performs – delivering information or customer service – are in a sense servile.
+And he hints that this may also play into male fantasies.
+Kathleen Richardson, professor of ethics and culture of robots and AI at the UK's De Montfort University, remembers when humanoid robots did not typically take an adult female form. 
+"In the lab that I was in [15 years ago], they always made them child-like," she tells the BBC. "The idea was, if they were childlike, they wouldn't be threatening to people, and people would be more comfortable with inviting them into their home."
+Richardson says this drive to make androids less threatening has morphed into the female forms that we see today, and it is driven by the preoccupation that we have about the increasing role that technology is playing.
+"You've got to dislodge this very deep fear of depersonalisation and dehumanisation that comes with introducing more technologies into our lives, particularly in our personal arenas," she says.
+"People write reams of how terrifying it is, how the terminators are around the corner. That would be terrifying to have in the home, right?"
+MacDorman – who has also worked with robots for decades – agrees these fears had a role in robot design, especially early on. "A female android is generally considered more approachable, especially for children, so it was considered better suited to human-robot interaction experiments," he says.
+This tallies with his experience of working on robots in Japan between 2003 and 2005 – many of the experiments were with children and the team he worked with believed a female android seemed less threatening.
+But Richardson suspects that there may be an altogether more basic motive at play in modern designs of humanoid robots.
+She likens robots to art – what you see is just an image on a surface – and believes that robot design suffers from the same issues that modern art critics often lament when they appraise historical paintings.
+"There was a famous theorist called Laura Mulvey who talked about the male gaze in art, and how male artists were representing female figures. They were normally representing them as submissive, as naked, as objects of male desire. And I think in a way, we're seeing the male gaze just replicated in robotics, because these are just images on surfaces – there's nothing that that sits behind these images. There's no sentient being. There's no life.
+"We can't just transfer what's going on inside people and inside people's relationships to these new artefacts that are created."
+When she looks at the anthropomorphic adult female figures on display at the Geneva conference, Richardson says she sees "a bunch of puppets".
+MacDorman agrees that heterosexual male designers – and it is a very male-dominated industry, he says – are choosing to make their creations female because of their interest in the opposite sex.
+"There's definitely a sexualisation. The more realistic the robot and the more realistic the voice, the greater the tendency to sexualise it. If it's something very realistic, there's the tendency to see it or to treat it as if it were human. It's kind of pressing our Darwinian buttons, so to speak," he says.
+Where could this sexulisation of robots end up? Richardson fears a future in which robots are routinely used for sexual purposes. Her Campaign Against Porn Robots aims to draw attention to the ethical harm of normalising such uses of this technology.
+The idea of having sex with an android has existed in mainstream entertainment for decades, in science fictions films such as Blade Runner, AI Artificial Intelligence, Her and Ex Machina.
+In her book Man-Made Women, Richardson warns of a growing trend – the idea has jumped from science fiction to morning talk shows and music videos. Sex doll brothels are opening in Barcelona, Berlin and Moscow.
+"For those wanting to attend talks on the subject there is even an annual international conference on love and sex with robots," she writes.
+She cautions that there would be a massive cost to normalising such interaction. "What we're building into society is this very egocentric idea that actually what a single human being is feeling and thinking and experiencing is "a relationship". So they can project onto an AI avatar all these feelings.
+"But people know intuitively, a relationship involves two parties. It's not just something happening in one person – it has to be something that happens between you and another person. And the relationship is the bit in the middle, really, isn't it? It's not going on just on one side or the other."
+MacDorman sees the potential for a growing industry to evolve around this function.
+"There's a concern generally with AI, especially when it's related to sex: human relationships are difficult. There's risk involved with any kind of intimacy, and AI is more compliant."
+Some people find pornography easier than dating, he says, and AI could provide a way of avoiding the effort of dealing with other human beings, and the fear of rejection that this brings.
+One particular danger, he says, is that the often servile nature of AI can feed people's narcissism.
+But the high price of such robots may act as a limit to their adoption. "In order to build an android, there's considerable cost relative to other kinds of robots," he says. "To make them realistic is expensive."
+He sees more of a future in animated characters which are interactive, rather than three-dimensional humanoid "companion bots". "Pretty much anything with moving parts is going to be problematic. Think about the attention the automobile requires compared to whatever computer you're working on.
+"You probably use the computer for a much longer period of time throughout the day, and it requires much, much less attention."
+He thinks that regardless of our erotic desires, humanoid robots will therefore remain unaffordable for most consumers.
+Most – but not all. "Just as some people can afford supercars, there will be those who can afford androids," he says.
+--
+Join one million Future fans by liking us on Facebook, or follow us on Twitter or Instagram.

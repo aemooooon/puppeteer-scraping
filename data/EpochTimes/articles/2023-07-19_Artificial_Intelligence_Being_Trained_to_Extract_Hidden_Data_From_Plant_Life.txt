@@ -1,0 +1,20 @@
+Scientists from the University of New South Wales (UNSW) and the Botanic Garden of Sydney are now using artificial intelligence (AI) to understand and counter the impact the changing climate can have on plant life.
+Mr. Cornwell said that because the planet is changing quite rapidly, and there’s so much data, similar machine learning methods can be used to effectively document the effects of changing climates.
+Machine learning algorithms can also be trained to identify trends that may not be instantly noticeable to researchers. This could generate new insights into plant evolution and adaptation and produce predictions for responses that flora may have to the future effects of environmental change.
+“Historically, a valuable scientific effort was to go out, collect plants, and then keep them in a herbarium,” said Mr. Cornwell
+“Every record has a time and a place and a collector and a putative species ID.
+The largest herbarium imaging project was undertaken by the Botanic Gardens of Sydney. The project resulted in the transformation of over one million plant samples from the National Herbarium of NSW into high-resolution digital images.
+“The digitisation project took over two years, and shortly after completion, one of the researchers–Dr Jason Bragg–contacted me from the Botanic Gardens of Sydney.”
+“He wanted to see how we could incorporate machine learning with some of these high-resolution digital images of the Herbarium specimens,” Mr. Cornwell said.
+“This type of AI is called a convolutional neural network, also known as Computer Vision,” said Mr. Cornwell.
+“The process essentially teaches the AI to see and identify the components of a plant in the same way a human would.
+“We had to build a training data set to teach the computer: this is a leaf, this is a stem, this is a flower.”
+He said that they essentially taught the computer to locate the leaves and then measure their sizes.
+“Measuring the size of leaves is not novel because lots of people have done this,” he said.
+“But the speed with which these specimens can be processed and their individual characteristics can be logged is a new development.”
+The scientists analysed over 3,000 samples using the AI and have disproved a regularly observed interspecies pattern.
+The study revealed that the size of leaves within a single species doesn’t increase in warmer climates. Instead, they found that factors other than climate have a significant effect on leaf size.
+Cornwell said that leaf size being larger in wetter climates like tropical rainforests than it is in drier climates like deserts is a very consistent pattern seen in leaves between species across the globe.
+“The first test we did was to see if we could reconstruct that relationship from the machine-learned data, which we could.”
+“But the second question was, because we now have so much more data than we had before, do we see the same thing within species?”
+The results of the test revealed that although this pattern exists between plants of different species, it doesn’t exist between plants of the same species. This is likely because of a different process called gene flow, which weakens plant adaptation on a local scale and could prevent the leaf size of a single species from changing in varying climates.

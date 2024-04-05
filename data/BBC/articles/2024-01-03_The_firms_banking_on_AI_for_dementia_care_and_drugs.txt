@@ -1,0 +1,42 @@
+Artificial Intelligence (AI) is now part of our daily lives, whether we know it or not. For years, healthcare organisations have been exploring its potential for improving cancer diagnosis and cutting treatment times, but two Cambridgeshire start-ups are trying something else. One wants to provide life-saving drugs faster and cheaper. The other is trying to improve lives for those with dementia and their carers.
+Matt Ash's mum spent two weeks without heating one winter, because she did not know how to tell anyone what had happened.
+She is one of 900,000 people in the UK with dementia.
+"Me and my siblings live hours away from mum," said Matt.
+"When she was diagnosed, we were plunged into the world of remote caring.
+"At first she was fine living alone, but it was hard for us to know how the disease was progressing and when we should intervene." 
+That is what led the electronics engineer and his Supersense Technologies co-founder, James Brown, to try and develop a solution. 
+The Cambridge-based team has produced a device that can monitor a home and the person living there without cameras or microphones. 
+By installing it early in someone's dementia journey, it can "learn" their regular behaviour and alert carers to problems or changes in patterns.
+James said: "Are they waking more at night? Has their mobility changed?
+"It can spot subtle changes over a long period of time, but also alert carers to falls straight away.
+"We hope it will give people with dementia independence for longer and give their carers confidence.
+"Privacy and simplicity are key. It's just one plug-in box with some clever sensors inside, which empowers carers to take the right action at the right time for them."
+Matt and James travel around the region asking carers what they need, and then try to engineer a solution. 
+In Colchester, Essex, they met Lynn who is 60 and has been looking after her husband Terry since he was diagnosed aged 55. 
+"I can't leave him. I wouldn't feel comfortable," she said.
+"Every day is different. Some days he knows my name, some days he doesn't. 
+"Some days he can't find the front door, but I want to be able to pop to the shop sometimes."
+The social worker has been helping Supersense Technologies with its research. 
+"A single box monitoring system would be fabulous for Terry. No interaction. 
+"Pendants and telephones are no good for him. He wouldn't know what to do with them. 
+"He used to be a builder, but now he can't build anything." 
+Phil is 67 and cares for his wife Anne at their home in Tiptree, just down the road. He is still able to leave her for short periods of time, but hopes this technology will allow carers to make those trips more confidently.
+"I'm happy with the design because it doesn't have any cameras that can be hacked into," he said.
+"Obviously you don't want to invade the privacy of the person with dementia or anyone else in the house. It sounds almost too good to be true." 
+James and Matt are being supported by Judge Business School. 
+Their project is in its infancy, but they hope it makes the final shortlist for the prestigious Longitude Prize on Dementia in 2024. 
+Meanwhile, 15 miles (24km) from Cambridge, nestled in a cluster of barns and stone buildings in Fordham, is BiologIC Technologies.  
+In purpose-built labs, the company is trying to use artificial intelligence to make life-saving drugs more affordable and quicker to produce. 
+"Around the world scientists are developing wonderful drugs, but it can take 10 years or more of trial and error," said Richard Vellacott, the company's chief executive.
+"AI can analyse the data generated from those trials in a way humans can't, and learn lessons about the best way for future medicines to be developed.
+"It could help to cut the development time down to a year, and that would cut costs too and hopefully make these drugs available to anyone who needs them."
+The team is currently working with nucleic acid medicines. It is what many Covid-19 vaccines are based on, but they also have the potential to become key in cancer care.
+The company has made "biological computers" that process liquids and DNA, instead of the usual electronic data.
+In a machine smaller than a house brick, made on a 3D printer, they can produce hundreds of thousands of vaccines in a few hours. 
+If they need to upscale production, they simply print more machines.
+"This technology will also be invaluable with the growing use of personalised medicines," said Richard. 
+"It's possible to have hundreds of these small machines each producing something unique to the patient, rather than the traditional large vats making huge quantities of the same thing."
+The UK government has been clear that it believes artificial intelligence has an important role in healthcare. In October it announced a £100m fund to accelerate the use of AI in life sciences. 
+It has also pledged £2bn for engineering biology - a way of combining the two scientific fields to find solutions to the world's food, fuel, environmental and medical problems. 
+Next year will see both of these sectors expand in the UK.
+BiologIC and Supersense hope to harness the opportunities of that growth and develop products that make a big difference.

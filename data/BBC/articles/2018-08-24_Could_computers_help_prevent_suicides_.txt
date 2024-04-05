@@ -1,0 +1,9 @@
+Researchers at a Welsh university are hoping to develop technology which would alert doctors to people with a high chance of taking their own lives.
+Up to 350 people kill themselves in Wales each year and it is the leading cause of death in under-25s.
+A team of researchers at Swansea University found that 80% of people who take their own lives saw their GP at least once in the last year.
+Artificial intelligence (AI) could help identify those considering suicide.
+Researchers used the university's SAIL Databank to obtain information about more than 2,000 suicides held in SID-Cymru, an electronic database of self-inflicted and undetermined intent deaths in Wales since 2001.
+Dr del Pozo Banos, an expert in mental health informatics and AI, said the team wanted to develop an algorithm which analyses routinely collected health data to flag people at risk.
+Dr Banos described the preliminary results, which recorded almost 75% accuracy, as very promising.
+The team now plans to gradually increase the complexity of the AI system to improve its precision before carrying out thorough trials.
+Prof Ann John, who is chair the national advisory group to Welsh Government on suicide and self-harm prevention, said: "AI methods have huge potential to improve suicide prevention, and this is an exciting development. 

@@ -1,0 +1,11 @@
+Microchips, also known as semiconductors, have become an essential part of everyday technology, and are utilized in almost every electronic device, from smartphones to computers and medical equipment.
+In 2020, more than 932 billion chips were manufactured around the world, while in 2021, roughly 1.15 trillion semiconductor units were shipped across the globe.
+However, increased demand for microchips, shortages, and supply-chain issues—kickstarted by the COVID-19 pandemic—have led to a global chip shortage that has severely affected manufacturers.
+TSMC supplies a string of large firms, including Apple, Intel, Qualcomm, AMD, Nvidia, Broadcom, and Marvell.
+The self-ruled island has also granted large tax breaks as an incentive for technology companies that invest in their R&D as well as those that export high-tech products, such as chipmaking machines and the raw materials that are needed to make the chips, further bolstering its position as the world leader in chip production.
+As a result, the United States is facing a chronic shortage of chips that the Department of Commerce says poses economic and national security risks to the nation.
+A government survey of more than 150 companies that produce and buy chips in January this year found that urgent action is needed to resolve the crisis as soon as possible.
+Earlier this year, U.S. lawmakers passed legislation that would provide $52 billion in funding for semiconductor chips, including $2 billion set aside for chips used by automakers.
+The legislation, known as the Chips and Science Act, aims to boost the country’s ability to compete with Chinese technology, while simultaneously reducing its reliance on manufacturers in Taiwan, as well as South Korea.
+However, tensions between Taiwan and China, which views the former as part of its territory, have steadily increased and fears are rife that Beijing may attempt to invade the nation, meaning microchip factories could potentially fall under the control of China.
+Experts widely believe that in such a scenario, Beijing would likely block exports of chips to the United States and its allies, prompting a global shortage of essential chips and significantly affecting critical technology.

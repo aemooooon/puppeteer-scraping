@@ -1,0 +1,19 @@
+An expert in artificial intelligence has warned against “ploughing ahead” with certain types of AI which could have potentially disastrous consequences for the human race.
+In a blog posted last month, Bengio said a rogue AI “could behave in ways that would be catastrophically harmful to a large fraction of humans, potentially endangering our societies and even our species or the biosphere.”
+Cohen said: “So the idea behind reinforcement learning is we administer and withhold rewards, according to some conception of what we want it to do. And we hope that in order for the rewards it has to do what we want. But if it could remove humanity’s control over our infrastructure, take it over for itself, prevent humans from ever getting in its way it could direct a robot to give it the reward instead of us.”
+He drew an analogy with a bear overpowering its trainer to obtain the treats the trainer is using.
+Cohen said: “The concept of reinforcement learning really depends on the reinforcer. Being more powerful than the reinforced and successes of reinforcement learning today should be recognised as dependent on that fact.”
+“So I think ploughing ahead with reinforcement learning and similar algorithms is a fantastically bad idea,” he added.
+Cohen said: “If they were capable enough, they would intervene in the provision of their own reward and spend as much energy as they needed to spend to secure their control over that.”
+But he said, “Now that Geoff Hinton is saying similar things, Yoshua Bengio is saying similar things—both Turing Award winners—those sorts of characterisations of this position are falling apart.”
+World-renowned computer scientist Stuart Russell, in his book Human Compatible, also warns of the dangers of an out-of-control AI.
+Cohen said: “This is not a fringe position. Despite sounding a bit like sci-fi, it just turns out to be a perfectly plausible thing.”
+He said he was not proposing “we should just destroy our computers,” like in the sci-fi prequel book, “Dune: The Butlerian Jihad.”
+Cohen said he believed there needed to be a pause in the progress of this type of AI development and also urged governments to bring in legislation to manage the risk.
+Cohen said: “I think that the most likely route to success in crafting regulation and societal norms that prevent us from developing dangerously advanced artificial agents is one which leaves open the possibility of potentially tremendous economic growth offered by other AI algorithms.”
+Cohen said: “(It might decide to) kill everyone who might potentially contract that disease. We have an intuitive sense of constraints, when we’re plotting courses of action towards achieving our goals. And while we can expect a very intelligent artificial agent to understand our common sense, restrictions on our own behaviour, the very different question is how we can get it to care.”
+Cohen said he was more concerned about people losing money, rather than not having purpose in their lives.
+He said: “I think the landed gentry of 150 years ago got on fine without work being their source of purpose. But if they’re not able to get an income to support their family that would, of course, be a problem. A big one, if it’s on the scale that it could be.”
+But Cohen pointed out Goldman Sachs also projected a lot of economic growth from AI and he said, “If governments can tax that and redistribute it, that could be a win-win.”
+Cohen said that prior to the industrial revolution around 98 percent of people were farmers.
+“Technology destroyed a lot of those jobs. But they were re-employed in other jobs. I’m not sure how long of a latency there was. I’m not sure how challenging that was for people. But if we had banned the technology that prevented our transition from an agrarian society, we'd be in a much worse position,” he said.

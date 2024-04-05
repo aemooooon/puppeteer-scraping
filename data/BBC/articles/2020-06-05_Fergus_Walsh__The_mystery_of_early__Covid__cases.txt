@@ -1,0 +1,51 @@
+My experience of testing positive for coronavirus antibodies clearly struck a nerve. Two weeks ago I wrote that I'd had no recent symptoms but dismissed a bout of pneumonia in January because it was weeks before the first confirmed cases of Covid-19 in the UK.
+Many of you responded with your own experiences of having Covid-like symptoms - some as far back as November - and urged me to investigate further.  
+But is it possible to prove when coronavirus first struck in the UK, and does it matter?
+First, a reminder of the timeline.
+China reported a cluster of cases on 31 December 2019, but later told the WHO that the earliest symptoms from these patients dated back to 8 December.
+But according to unreleased government data obtained by the South China Morning Post (which, I should stress, has not been seen by the BBC) the first case in Wuhan could have been on 17 November, with several further cases that month.
+No individual has yet been identified as "patient zero", the first person to get infected with the new virus.
+The first confirmed cases in the UK were identified on 31 January, when two Chinese nationals tested positive in York. 
+They caught the virus abroad. The first confirmed case of transmission inside the UK was registered in Surrey on 28 February.
+But plenty of people are doubting the official timeline.
+The author Catherine Mayer believes it's possible her late husband Andy Gill - guitarist and co-founder of Gang of Four - may have been one of the earliest to be struck down by Covid-19.
+She spoke movingly about his death on the Coronavirus Newscast last month.
+Andy returned from a tour in China on 23 November 2019 and fell ill in December with many symptoms of Covid-19. He died in St Thomas's hospital on 1 February. Doctors did consider whether it might be this new virus they were hearing about, but the timelines didn't seem plausible.
+Then a story broke that suggested coronavirus had already been in Europe in December. A hospital near Paris retested old samples from a pneumonia patient which tested positive for coronavirus. 
+Catherine wrote to Andy's specialist, who agreed it might have been coronavirus - but how to prove it? She began doing her own detective work and discovered that his tour manager had fallen seriously ill with a respiratory infection too. And, sadly, Catherine's stepfather also died, on 22 December. "It raises all sorts of questions for me on a personal level," she says.  
+"The key question is, could this have been the coronavirus Covid-19?" asks Prof Tom Solomon, director of the UK Emerging Infections Research Unit at the University of Liverpool. "I think the simple answer is yes, it could have been. We now know the virus was around longer - new viruses are always around before you spot them."
+As the BBC's medical correspondent, since 2004 I have reported on global disease threats such as bird flu, swine flu, Sars and Mers - both coronaviruses - and Ebola. You could say I've been waiting much of my career for a global pandemic. And yet when Covid-19 came along, the world was not as ready as it could have been. Now it's here I wish, like everyone else, it would go away. Sadly, we may have to live with coronavirus indefinitely. In this column I will be reflecting on that new reality. 
+Read last week's column:  Why do healthy people volunteer to be vaccine guinea pigs?
+And many of you have been doing your own investigations. Debra Scott from Blackpool thinks she caught the virus in late November at her husband's school reunion, where there was "lots of hugging and handshaking".  
+Her symptoms included a "cough that could kill a horse" and lasted for weeks. "I kept thinking I was getting better then - boom - it floored me again and again," she says. 
+She was so convinced it was Covid that she sent a blood sample off to a lab for an antibody test, which came back positive. She hopes it will give her some immunity, because she's diabetic. "Before I had the test I was panicking, I didn't want to end up on a ventilator," says Debra. 
+Tricia Camm from Whitby was ill at the end of January, while on holiday in the Scottish lochs. She now thinks it was coronavirus because she lost her sense of taste and kept sending meals back in restaurants. "I was so disappointed, I love the food there," she says. 
+But others are more sceptical. David Brown, a retired molecular virologist worked on coronaviruses for 20 years.
+His wife got pneumonia over Christmas, with an appalling cough and loss of taste and smell.  
+He thinks she and many others probably had another coronavirus, OC43, which can also cause respiratory illnesses. 
+"OC43 can be really severe. It can cause recurring infections in your lifetime like other coronaviruses. There's no surveillance of it, and it's impossible to go back and check," he says.
+Public Health England has been doing surveillance of the prevalence of Covid-19.
+This includes analysing samples from blood donors across England, which are tested for the presence of coronavirus antibodies. 
+It found the antibodies were present in 1.5% of donor samples in London in the week of 23 March.
+Given that it takes at least two weeks for antibodies to show up, that means those people got infected at least two weeks previously, in early March.  
+That is only a week or so after the first confirmed human to human transmission in the UK.  Bear in mind that donors are advised to wait a couple of weeks after any sickness before giving blood, so it might have been even earlier - unless they were asymptomatic and never knew they had been infected with a virus.
+Frustratingly, there are no plans to check donations made in February or January, which would give firmer evidence about the origins of Covid-19 in the UK. 
+Another piece of the jigsaw could come as an accidental by-product of a huge research study using low dose chest CT scans to look for the early signs of lung cancer.  
+The Summit trial scanned 6,500 men and women in Greater London between November 2019 and lockdown on 23 March 2020.
+Dr Joseph Jacob, a consultant radiologist at UCLH is planning to use artificial intelligence to analyse the scans to look for tell-tale signs of Covid-19. 
+Healthy lungs should look black on a scan because they are mostly air, but with Covid they often have what's known as a "ground glass" appearance - like opaque windows in a bathroom.
+There is an obvious problem here. Other respiratory diseases can also cause this shadowy appearance, and so it may be hard to distinguish between Covid-19 and seasonal flu.
+Dr Jacobs told me: "We won't be able to definitely say whether it's Covid because we won't have blood or tissue samples from the patients. But as you go from January to March the incidence of flu should be decreasing."
+But we've got to be really careful that we don't retrofit general winter respiratory symptoms to match Covid-19.  
+Researchers at the University of Nottingham have begun analysing samples from patients with lung problems going back to January.
+Jonathan Ball, professor of molecular virology says: "The earliest point we can detect the virus is about the third week of February. 
+"One thing that I constantly get told is: 'I must have had Covid in November, December, or January, because my symptoms fit the description.' But that doesn't fit what we've found in samples."
+If coronavirus was present in the UK much earlier than was thought, it would change our understanding of how fast the disease spread and when was the best time to introduce lockdown measures.
+Epidemics start small, but without social distancing cases can double every two to three days.
+If you mistake the start date of an epidemic, your estimates of how many people are infected at any given point can be wildly inaccurate.
+This is further complicated by the unknown proportion of people who've had the virus without displaying any symptoms.
+Countries which introduced strict social distancing measures or had effective test and isolate measures early on in their epidemics have tended to emerge from lockdowns or controls with far fewer deaths than others.
+Now that antibody tests are becoming more widely available, it should be possible for NHS staff, and later the public, to check whether they have previously been infected with coronavirus.
+But it won't tell them when they had the infection. So that hacking cough, high temperature or loss of taste and smell you had early this year really might have been Covid-19.  But then again, unless your swab, blood or tissue samples are sitting in a pathology department somewhere awaiting re-analysis, we will probably never know.  
+Follow @BBCFergusWalsh on Twitter
+A group of amateur singers experienced a viral illness with familiar symptoms long before the first recorded case of coronavirus in the UK.

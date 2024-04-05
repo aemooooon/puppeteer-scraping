@@ -1,0 +1,5 @@
+The tech company’s plan to harvest and harness online public data is raising new privacy concerns.
+Google’s previous user policy stated that publicly available information would only be scraped to help train its “language models” for Google Translate.
+Nonetheless, the amendments to Google’s previously stated user policy show that it is investing heavily in its AI program and that skimming general search behavior could be a significant factor in its continued development.
+The California-based tech company has also announced a new AI-based search system, known as the Search Generative Experience (SGE), as part of its new lineup of AI products.
+Twitter also began requiring an account to view tweets, then quietly removed the requirement earlier this week.

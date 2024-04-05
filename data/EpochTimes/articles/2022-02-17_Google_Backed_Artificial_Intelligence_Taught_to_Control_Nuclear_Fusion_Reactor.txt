@@ -1,0 +1,16 @@
+DeepMind, the UK-based subsidiary of Alphabet, Google’s parent company, has taught artificial intelligence how to control a nuclear fusion reactor.
+DeepMind whose long-term goal is to “solve intelligence, developing more general and capable problem-solving systems, known as artificial general intelligence (AGI)” was launched in 2010 and acquired by Google in 2014.
+The scientific discovery company collaborated with the nuclear fusion research lab, the Swiss Plasma Center at École Polytechnique Fédérale de Lausanne on the project.
+Together, they have “developed a new magnetic control method for plasmas based on deep reinforcement learning” which they applied to a real-world plasma for the first time in the SPC’s tokamak research facility, called TCV.
+TCV is one of the few research centers in the world that has a tokamak in operation.
+A tokamak is a doughnut-shaped vessel that makes use of magnetic fields to confine and squeeze the plasma for triggering the fusion reaction. They are leading candidates for the generation of sustainable electric power.
+The magnetic coils used in the tokamak are high voltage which means they must be controlled carefully otherwise it runs the risk of the plasma colliding with the vessel walls and deteriorating.
+To ensure this doesn’t happen, researchers at the SPC first test their control systems configurations on a simulator before using them in the tokamak.
+“Our simulator is based on more than 20 years of research and is updated continuously,” said Federico Felici, an SPC scientist and co-author of the study. “But even so, lengthy calculations are still needed to determine the right value for each variable in the control system. That’s where our joint research project with DeepMind comes in.”
+To solve the challenges of shaping and maintaining high-temperature plasma within the tokamak vessel, which is hotter than the surface of the sun, researchers turned to AI or a “controller design that autonomously learns to command the full set of control coils.”
+DeepMind developed an AI algorithm that can create and maintain specific plasma configurations, which relates to its shape and position in the device.
+The AI algorithm was then trained on the SPC’s simulator which meant it had to try a number of different control strategies in simulation to gather experience.
+“Based on the collected experience, the algorithm generated a control strategy to produce the requested plasma configuration,” researchers explained.
+“After being trained, the AI-based system was able to create and maintain a wide range of plasma shapes and advanced configurations, including one where two separate plasmas are maintained simultaneously in the vessel. Finally, the research team tested their new system directly on the tokamak to see how it would perform under real-world conditions.”
+The AI-based system was able to successfully produce and control a diverse set of plasma configurations, including elongated, conventional shapes, as well as advanced configurations, which even included “snowflake” configurations.
+“Our architecture constitutes an important step forward in terms of generality, in which a single framework is used to solve a broad variety of fusion-control challenges, satisfying several of the key promises of machine learning and artificial intelligence for fusion,” researchers wrote.

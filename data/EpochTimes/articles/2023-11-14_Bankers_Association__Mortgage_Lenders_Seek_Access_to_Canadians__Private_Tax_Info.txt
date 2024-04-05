@@ -1,0 +1,12 @@
+Canadian banks and mortgage lenders are asking the Canada Revenue Agency for electronic access to private federal tax records to validate borrowers’ income.
+The Canadian Bankers Association, in a recent submission to the Senate banking committee, described the measure as a fraud prevention solution.
+“This would allow banks to reduce mortgage fraud that serves to drive up costs for borrowers,” the Bankers Association chief economist Alex Ciappara told the committee in the submission.
+The Association, in its proposal, is asking the Canada Revenue Agency to release information from line 15000 of borrowers’ T1 annual tax return—the line that reveals gross income.
+“That can be a technology-based solution to reduce mortgage fraud and thus help with mortgage costs,” Mr. Ciappara said, as first reported by Blacklocks Reporter.
+“If we have consent from the taxpayer we can ask Canada Revenue Agency for the income number to put into the mortgage application to improve the process in terms of obtaining a mortgage, to reduce costs.”
+Mr. Ciappara did not go into detail about how much costs would drop if the association were to be granted access to tax information. He also didn’t explain why the current method of checking borrowers’ Notices Of Reassessment was inadequate.
+Mortgage Professionals Canada is also seeking electronic access to confidential records.
+“A digital income verification tool is an urgently required fraud prevention solution,”  the group wrote in a separate submission to the Commons finance committee.
+“Fraud hurts consumers, undermines Canada’s reputation and ultimately impacts investment,” the group said, adding that there have been “increased instances of title and mortgage fraud in the Greater Toronto Area and British Columbia and of money laundering in real estate transactions.”
+Mortgage Professionals Canada did not provide any figures or give details on the extent of fraud, but said that artificial intelligence allows “fraudsters to replicate documents more easily.”
+Edge Realty Analytics Ltd. housing analyst Ben Rabidoux told the Commons finance committee in September that mortgage fraud is becoming a problem in Canada. The solution, he said, is to “streamline direct income verification between lenders and the Canada Revenue Agency.”

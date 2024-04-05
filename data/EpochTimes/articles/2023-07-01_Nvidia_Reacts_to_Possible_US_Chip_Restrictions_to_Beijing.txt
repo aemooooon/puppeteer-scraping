@@ -1,0 +1,12 @@
+Nvidia is downplaying possible U.S. chip-export restrictions to China by the Biden administration.
+The Wall Street Journal reported on June 27 that the White House was mulling even more restrictions on artificial intelligence (AI) chip exports to China.
+A potential chip ban could affect Nvidia’s status as the world’s leader for the graphics processors needed to build AI software like ChatGPT.
+Nvidia’s latest A100 and H100 chips are highly desired by tech firms around the world to build advanced AI systems.
+Last November, Nvidia CEO Jensen Huang announced that the firm was offering an new advanced chip called the A800 to China that was lower performing and met export control rules.
+“We estimate China data center sales in the 5–10 percent range of total $30 billion data center sales this year,” Malik said. “Overall, we believe AI demand will exceed supply this year and Nvidia can move its chips around.”
+“With an update on export controls now expected, investors will be assessing just how limiting the new rules will be for chip makers’ sales,” Susannah Streeter, an analyst at broker Hargreaves Lansdown, told Barron’s.
+“A handful of tech companies pack a huge punch on Wall Street due to their sheer size, so any wobble in confidence reverberates on indexes.”
+“We are aware of reports that the U.S. Department of Commerce is considering further controls that may restrict exports of A800 and our H800 products to China,” Kress said in a statement provided to The Epoch Times.
+“However, given the strength of our demand for our products worldwide, we do not anticipate that such additional restrictions, if adopted, would have an immediate material impact on our financial results,” she said.
+China accounted for between 20–25 percent of the company’s data center revenue, totaling $4.28 billion in sales in the first quarter, and also included other chips, not just those used for AI, like networking parts, noted Kress.
+Kress also warned about the impact on the company’s growth prospects.

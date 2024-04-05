@@ -1,0 +1,12 @@
+Amazon has become the latest tech giant to announce a chatbot powered by artificial intelligence (AI). 
+It said that the bot, called Q, would help businesses to do things like summarise long documents or group chats and would increase productivity. 
+It comes a year after OpenAI's bot ChatGPT shook the market, sparking a rush among tech firms to adopt them.
+Amazon also said it would protect companies from copyright issues arising from the use of its bot.
+It follows high-profile lawsuits brought against ChatGPT-maker OpenAI, over claims that firms' copyright was infringed to train the system.
+Amazon will hope that Q, which will gradually be rolled out across it main business applications, will entice more companies to use its cloud computing services.
+The bot can also answer customer queries, generate charts, analyse data and help businesses with their coding needs. 
+The race between tech giants to innovate in AI has been heating up, with Microsoft considered to be leading the field after its big investment in ChatGPT.
+In September, Amazon said it would invest "up to $4bn [£3.2bn]" in Anthropic, an AI firm set up by ex-OpenAI staff members. It also owns Mechanical Turk, a service which crowdsources training of AI models. 
+As it launches Q, the company promised to protect businesses from copyright claims, such as the lawsuit brought by comedian Sarah Silverman against OpenAI and Facebook-owner Meta in July. 
+Ms Silverman, along with two other authors, claimed their books had been "ingested and used to train ChatGPT", and that Meta's Llama AI system was also using their work.
+In November, a judge in the US dismissed much of Silverman's lawsuit.

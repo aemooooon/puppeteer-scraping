@@ -1,0 +1,19 @@
+Police could lose most of the reports they receive about children at risk on Facebook because of a move to encrypt the platform, the National Crime Agency (NCA) has said.
+It said Facebook's owner Meta will not be able to spot key signs of abuse, and the alerts it gets from a US child safety hotline could reduce by 92%.
+When messages are encrypted, only the sender and receiver can read them. 
+Meta said it would try to flag risky accounts using artificial intelligence.
+It would "proactively detect accounts engaged in malicious patterns of behaviour instead of scanning private messages", the company said, adding that users will also be able to flag abusive content.
+Facebook, Messenger and Instagram allow children aged 13 and above to have accounts.
+In December, Meta, the company behind all three, announced "default end-to-end encryption" for personal chats and calls, promising users a "more secure and private service". 
+As a result, "that platform is not as safe as it was for children," the NCA's director general of operations Rob Jones told reporters, adding that he would advise parents to "think very carefully" about allowing their children to use it.
+The NCA is concerned that children go onto Facebook pretending to be adults, while paedophiles "masquerade as children" to get in contact with them. 
+The agency, sometimes described as "Britain's FBI", currently receives reports of children at risk on Facebook and Instagram via the US National Centre for Missing and Exploited Persons.
+Because messages now sent on Facebook can only be read by the sender and receiver, the NCA said that, as a result, Meta will no longer be able to use AI to spot worrying content. 
+The NCA's concerns are shared by the government. 
+The government supports end-to-end encryption but ministers are demanding safety measures to detect of grooming and child sexual abuse material.
+In September, then home secretary, Suella Braverman, warned that referrals from social media companies result in the arrests of 800 predators a month and up to 1,200 children safeguarded from child sexual abuse.
+Meta said: "As we roll out end-to-end encryption, we expect to continue providing more reports to law enforcement than our peers due to our industry-leading work on keeping people safe."
+The company believes encryption will prevent hackers, fraudsters and criminals from reading private messages and said it had developed other measures to protect children including a restriction on users over 19s sending messages to young people who don't follow them.
+The NCA director general, Graham Biggar, also said he wanted more people to prison for watching pictures and videos of child abuse.
+He said 80% of convictions do not result in prison sentences. 
+The NCA also wants the government to make it an offence to run a website to enable men to exchange child abuse images. 

@@ -1,0 +1,17 @@
+Online platforms will be forced to scan the private messages of users if proposed industry standards are implemented in Australia, global privacy watchdogs claim.
+The group is responding to moves by Western governments, including Australia’s eSafety Commissioner Inman Grant, to do more to tackle online sex exploitation material and other harmful content.
+Released draft standards, of the Online Safety Act, to regulate “Class 1” online material, including content considered seriously harmful, such as videos showing the sexual abuse of children or acts of terrorism.
+The standard applies to services including “email, instant messaging, short messages services (SMS), multimedia message services (MMS) and chat, as well as services that enable people to play online games with each other and dating services.”
+Further other “apps and websites ... as well as online file storage services” will come under the microscope.
+Australia’s eSafety commissioner, Ms. Grant, has said the standard “does not require service providers to monitor the content of private emails, instant messages, SMS, MMS, online chats and other private communications.”
+Generally “client-side scanning” results in online messages between a sender and receiver losing their privacy.
+The complexity they add could also limit the reliability of a communication, and potentially stop legitimate messages from reaching their intended destination. They also have the potential to be exploited by criminals.
+If the decryption and scanning take place on a server through which the messages pass, that means “end-to-end encryption” is ultimately, not achieved.
+The coalition also claims the technologies favoured by the eSafety commissioner are, in any case, ineffective, saying: “These methods have been widely criticised by privacy and security researchers, digital rights advocacy organisations and human rights groups around the world.”
+“Contrary to the goals of the standards, this will leave everyone less safe online” and create an “unreasonable and disproportionate risk of harm to individuals and communities,” the group said.
+The coalition also said there was a lack of clear safeguards to guarantee digital privacy for the millions that use such apps each day.
+It gives the commissioner the power to impose an obligation on providers that their service is not “used to solicit, access, distribute or store” Class 1 material.
+If the provider is subsequently prosecuted for failing to do so, it bears the burden of proof to show that it took “appropriate and proportionate” action to restrict and remove the material.
+Nicolas Suzor, who researches internet governance at the Queensland University of Technology, points out that some potential Class 1B material—instructions in matters of crime or information about prohibited drug use—are things that Australians might want to have available online, and gives the example of articles on safe medical abortions, currently illegal in certain states of the United States.
+Meanwhile, the national programs manager at the Scarlet Alliance, Gala Vanting, said the technology is of particular concern for those in the sex work industry.
+“It’s very likely to over-capture content. It’s very unskilled at reading context [in] sexual content.” she said.

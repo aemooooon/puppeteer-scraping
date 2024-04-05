@@ -1,0 +1,19 @@
+“We need to stop being complacent,” Nicholas Chaillan said. “We need to wake up before it’s too late for our kids.”
+China is leading right now. They’re already leading in many of those fields, because of their adoption of technology from their companies.
+Here’s an example. Using DARPA [Defense Advanced Research Projects Agency], which is the defense research lab, we set two jets fighting each other, one flown by artificial intelligence and the other by the best Air Force pilot. Every single time, the human lost.
+It’s going to change the way we think, the way we build weapons.
+The U.S. government has no Agile training to this day mandated for our acquisition workforce.
+By adopting Agile, you continuously deliver value, small incremental pieces of value, so you can validate that what you’re building makes sense for your customers, or the warfighter, in my case. You can be more efficient.
+You end up never waiting five years to learn that a billion dollars of taxpayer money was wasted.
+There is no Agile training. We built it during my tenure, but it wasn’t mandated. The mandated training is still the legacy training.
+That’s mostly because they don’t understand that by making those weapons more efficient and better, we can prevent mistakes and save lives. But you can’t just live in your Silicon Valley bubble. You have to look at what’s going on around the world and take action sometimes.
+So, if we don’t have access to the best breed of technologies, we’re not going to keep up. We’re already behind.
+In 10 years, it will be too late to fix it. This is what’s criminal.
+If I’m China and I’m going to attack Taiwan, it would make sense to disable some of our power, so our military would be so busy trying to fix the situation in the United States that we couldn’t even think about Taiwan.
+You know, we have a tremendous risk on the supply chain side, where all the chips, everything we buy is made in China. What stops them from putting malicious code into these chips?
+People aren’t taking seriously the supply chain risk as a whole. We see cars sitting in lots because they’re awaiting chips coming from China. How is that acceptable?
+Keep in mind, when you buy a piece of software, that software comes with dependencies from other companies. These projects can be impacted by malicious actors.
+We have a concept called a time bomb in software, where that software can be triggered to explode the system or turn off all the software in the system. All these triggers could be dormant for years until the bad actor decides to push the button and say, “That’s it. It is time for us to activate this.”
+First of all, it gets tremendous access to your phone, so it sees your pictures, videos, and your geolocation and a lot of other things about you.
+This can be used also as a weapon of misinformation, where they can promote content. People dismiss TikTok as a teenager app, which is absolutely not true. It’s used by countless companies for their marketing.
+We need to communicate better with industry. We need all U.S. companies to join us in the fight. We have to share this knowledge.

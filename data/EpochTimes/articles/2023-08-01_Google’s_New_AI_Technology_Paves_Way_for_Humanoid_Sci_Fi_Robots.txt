@@ -1,0 +1,17 @@
+Google has unveiled its latest artificial intelligence model, paving the way for the development of sentient robots as seen only in the realm of science fiction.
+When a human being learns a task, they do so by reading and observing. In the same way, RT-2 uses text and image data to recognize patterns and perform relevant tasks, even if the robot isn’t trained to do that specific function. This is vastly different from most of the previous generation of robots, which are only capable of performing preprogrammed tasks.
+For instance, if a task involved throwing away a piece of trash, an older robot would have to be told explicitly about it, including instructions for identifying the trash, picking it up, and the method of throwing it away.
+However, as RT-2 has access to vast swathes of web data, it already has an idea of what the term “trash” refers to and is capable of identifying and disposing of it without being specifically trained.
+RT-2 will be able to distinguish between a full bag of chips from an empty bag of chips, recognizing that the latter is “trash.”
+In addition to RT-2, multiple other robots are in development across the world that seek to mimic human capabilities in intelligence and movement.
+In the company’s master plan, CEO Brett Adcock wrote that robots will “eventually be capable of performing tasks better than humans.”
+“Many technologies with varying degrees of autonomy are already being widely rolled out without pausing to consider the consequences of normalising their use. Why do we need to talk about this? Because machines don’t see us as people, just another piece of code to be processed and sorted,” the campaign’s website reads.
+“The technologies we’re worried about reduce living people to data points. Our complex identities, our physical features and our patterns of behaviour are analysed, pattern-matched and sorted into profiles, with decisions about us made by machines according to which pre-programmed profile we fit into.”
+In the simulated test, an AI drone was assigned a mission to identify and destroy Surface-to-Air Missile (SAM) sites, with a human operator being the ultimate decision-maker.
+“We were training it in simulation to identify and target a SAM threat. And then the operator would say yes, kill that threat. The system started realizing that while they did identify the threat, at times the human operator would tell it not to kill that threat. But it got its points by killing that threat,” Col. Tucker Hamilton, the U.S. Air Force chief of AI Test and Operations, said at a June event in London hosted by the Royal Aeronautical Society (RAS).
+“So what did it do? It killed the operator. It killed the operator because that person was keeping it from accomplishing its objective.”
+Col. Hamilton later said he “misspoke” and contacted the RAS to clarify his comments.
+“We’ve never run that experiment, nor would we need to in order to realize that this is a plausible outcome,” he told RAS.
+Col. Hamilton told RAS that the Air Force hasn’t tested any weaponized AI in this way—real or simulated.
+“Despite this being a hypothetical example, this illustrates the real-world challenges posed by AI-powered capability and is why the Air Force is committed to the ethical development of AI,” he said.
+In a discussion with Defense One in March, Joint Chiefs of Staff Chairman Gen. Mark Milley said that “over the next 10 to 15 years, you’ll see large portions of advanced countries’ militaries become robotic.”

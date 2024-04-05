@@ -1,0 +1,22 @@
+The rapid development of artificial intelligence (AI) has many world leaders questioning how such advanced technology can be harnessed for good without also exposing society to great harm.
+“On artificial intelligence, we both believe the same thing, which is that AI has helped society and will continue to move society forward,” Mr. Lieu noted during the Sept. 29 interview, which aired on Oct. 19.
+“We want America to be in the lead on artificial intelligence,” he said. “And then at the same time, we want to mitigate any significant risks that could harm people.”
+“The idea is to have a light touch from Congress so that we are identifying harms and helping the administration—whichever party is in power at the time—to be able to regulate with specificity,” Mr. Buck said.
+“But to start with, we’re trying to make sure that we are encouraging AI, encouraging innovation, and not putting a wet blanket on something that this country really is at the forefront of right now.”
+Mr. Lieu, referencing that meeting, said he felt that the public would also benefit from a more open and transparent process.
+“I think it’s great that the Senate is doing these closed-door hearings, but we don’t actually know what’s being said behind closed doors,” he said.
+“And it’s not helpful, really, to the American public if 27 AI experts talk to Ken Buck and me because no one knows what they told us. So, we think this commission bill is also helpful because it’s going to be fully transparent.”
+One regulatory solution that has been floated by tech leaders, like Tesla CEO Elon Musk, is the creation of a federal agency devoted to AI oversight.
+But Mr. Buck was wary of that idea, holding that such an agency would likely be “captured” by the tech companies and other organizations dependent on AI.
+“That’s why they don’t want the Antitrust Division and the Federal Trade Commission in charge of AI,” he contended. “They have not—Microsoft has not had good luck with the Antitrust Division in the last 30 years.
+“And Amazon, Facebook, Google have not had good luck with the FTC or the Antitrust Division. So, they want to create something new that they can capture.”
+And at no time is that judgment more imperative than during wartime.
+“The United States should never get to that place where we just let an AI launch a weapon by itself,” Mr. Lieu said, noting that just one error could cause great devastation.
+The bill, introduced in April, establishes that it is the “sense of Congress” that the decision to launch nuclear weapons should not be made by AI. The bill also prohibits the use of federal funds to deploy nuclear weapons with autonomous weapons systems not subject to “meaningful human control.”
+Mr. Buck noted that he would extend that policy even further to include non-nuclear weapons.
+“If we have an autonomous system that sends a conventional missile into a foreign capital, foreign major city, it starts something that humans might want or might not want. And so, I think that there’s no way of anticipating enough of the factors with AI to really trust AI in initiating conflict.”
+The congressmen also emphasized the need to address other risks associated with AI, including so-called “deep-fakes”—where the technology fabricates images, footage, or audio that appears real—as well as the potential for bad actors to abuse the technology at the expense of others.
+On the latter, Mr. Buck stressed the need for the United States to establish itself as a leader on AI to prevent nations like China from taking advantage.
+“Given what Communist China is doing with cybercrimes and hacking and other activities targeting the United States, it’s really important to me that we stay far ahead of Communist China with our AI products and development,” he said.
+“I’m hoping that we stay far enough ahead so that when they develop new ways to hack into our businesses and really personal information, we have an AI system in place that can counter that and keep Americans safe,” he added.
+But despite the various harms associated with AI, the congressmen were confident that the technology holds promise for the overall advancement of society.

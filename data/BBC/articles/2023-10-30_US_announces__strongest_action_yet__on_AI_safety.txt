@@ -1,0 +1,22 @@
+The White House has announced what it is calling "the most significant actions ever taken by any government to advance the field of AI safety".
+An executive order from President Joe Biden requires Artificial Intelligence (AI) developers to share safety results with the US government. 
+It places the US at the centre of the global debate on AI governance.
+The UK government is this week holding a summit on AI safety, hosted by Prime Minister Rishi Sunak.
+The two-day meeting begins on 1 November at Bletchley Park. It has been prompted by concerns that the rapid advance of AI systems could lead to problems such as the development of more deadly bio-weapons and more paralysing cyber-attacks.
+Announcing the safety measures, Mr Biden vowed to "harness the power of AI while keeping Americans safe".
+The tech entrepreneur and AI expert Gary Marcus told the BBC the US announcement seemed more ambitious in its scope.
+"Biden's executive order sets a high initial bar. The executive order is broad, focusing on both current and long-term risks, with some - though probably not enough - teeth," he said.
+"The UK summit seems to have greatly narrowed its focus, primarily focusing around the long-term risk, with not enough focus on the here and now, and it's just not clear how much with teeth will come out of it, or what authority it really has."
+Alex Krasodomski, senior research associate at Chatham House, told the BBC the executive order showed the US considered itself the leader in terms of how to address such threats.
+On Monday, Mr Biden told reporters and tech workers at the White House: "As artificial intelligence expands the boundary of human possibility, and tests the bounds of human understanding, this landmark executive order is a testament to what we stand for. 
+"Safety, security, trust, openness, American leadership and the undeniable rights endowed by our creator that no creation can take away." 
+The US measures include:
+The Biden administration is also taking steps to beef up its AI workforce. From Monday, workers with AI expertise can find relevant openings in the federal government on AI.gov.
+Mr Krasodomski said the order was "really important", but one that "doesn't necessarily run in-line with the UK's objectives and aims for the summit".
+"The UK summit is referenced in the executive order. But it's mentioned under the heading of 'advancing American leadership abroad' -  indicating that the US very clearly knows that it is the big player here alongside China but more precisely, it is the US companies that are really driving forward," he said. 
+Mr Krasodomski added: "It's difficult to put together a small, highly technical summit but I think clearly if this technology is going to have significant global impact there's going to have to be a ton of other kinds of work and engagement with countries around the world." 
+US Vice-President Kamala Harris and top executives from the US tech giants are arriving in the UK this week to discuss AI safety at the UK government's AI Summit, which it has billed as a "world first".
+The summit will focus on growing fears about the implications of so-called frontier AI. President of the EU Commission Ursula von der Leyen and UN Secretary General Antonio Guterres will also attend. 
+The UK is determined to position itself as a global leader in trying to minimise the risks posed by this powerful technology. 
+But the EU is in the process of passing an AI act, China has already devised a number of strict AI rules and and now the US has issued this order.
+On top of that, according to the Reuters news agency, the Group of Seven (G7) industrial countries is reportedly agreeing a code of conduct for companies developing advanced AI systems.

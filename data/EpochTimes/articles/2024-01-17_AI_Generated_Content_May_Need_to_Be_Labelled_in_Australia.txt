@@ -1,0 +1,9 @@
+Growing public mistrust of Artificial Intelligence (AI) has prompted the Australian federal government to move to regulate the technology, including asking tech companies to watermark or indicate that a piece of content was created by AI.
+More than 500 submissions were received by an inquiry into safe and responsible AI, prompting Industry and Science Minister Ed Husic to say that while the government wanted to ensure “low risk” uses of AI continued to develop, some applications needed new, stricter regulation.
+Those “high-risk” AI systems include those used to “predict a person’s likelihood of recidivism, suitability for a job, or in enabling a self-driving vehicle,” while examples of “low-risk” AI use include filtering emails or managing minor business operations.
+Tech giants Google and Meta, large banks, supermarkets, legal bodies, and universities all created submissions to the inquiry.
+But Mr. Husic said the government was aiming to strike a balance between encouraging innovation and addressing the public’s concerns related to the safety and responsibility of AI systems.
+The report cited surveys that showed only a third of Australians believe there are adequate safeguards around the design and development of AI.
+“Australians understand the value of artificial intelligence but they want to see the risks identified and tackled,” he said, before the release of the report. “We have heard loud and clear that Australians want stronger guardrails to manage higher-risk AI.”
+It has also pledged to start consulting with the tech industry on new transparency measures.
+These include whether the use of AI to generate deepfakes constitutes misleading or deceptive conduct under consumer law, and whether AI used in healthcare could potentially breach privacy laws.

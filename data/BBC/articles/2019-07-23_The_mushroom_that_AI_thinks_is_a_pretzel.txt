@@ -1,0 +1,12 @@
+Butterflies labelled as washing machines, alligators as hummingbirds and dragonflies that become bananas.
+These are just some of the examples of tags which artificial intelligence system have given images.
+Now researchers have released a database of 7,500 images that AI systems are struggling to identify correctly.
+One expert said it was crucial to solve the issue if these systems were going to be used in the real world.
+"No-one quite knows why they are failing to recognise these images which don't look that hard," said Calum Chace, an expert in the field.
+"And while no-one knows what the solution is, my hunch is that it won't hold up AI research for long because there is an enormous amount of money and talent that can be thrown at the problem to solve it."
+The researchers from UC Berkeley, and the Universities of Washington and Chicago, said the images they have compiled - in a dataset called ImageNet-A - have the potential to seriously affect the overall performance of image classifiers, which could have knock-on effects on how such systems operate in applications such as facial recognition or self-driving cars.
+"The problem has to be solved before systems like self-driving cars become standard," said Mr Chace.
+The images were all collected online and none had been digitally altered.
+Researchers hope the database will help experts improve the accuracy of how AI systems classify images.
+Previous images tested on AI may have been too simple and not fully represent the ones the systems will encounter "in the real word", the researchers said.
+AI often misidentifies objects because it is over-generalising, so for instance a shadow in a picture of a sundial will lead algorithms to label shadows as sundials. Or it may think that all cars are limousines.

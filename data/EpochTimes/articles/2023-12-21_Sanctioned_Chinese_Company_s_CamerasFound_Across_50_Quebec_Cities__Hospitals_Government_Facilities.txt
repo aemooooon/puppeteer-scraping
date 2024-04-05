@@ -1,0 +1,7 @@
+Surveillance cameras made by a sanctioned Chinese tech company, Hikvision, are reportedly installed in 50 Quebec cities and public facilities. Canada’s intelligence service has issued warnings about the potential national security risks posed by Hikvision’s surveillance systems.
+“Chinese company Hangzhou Hikvision Digital Technology Co. Ltd poses a threat to Canada’s national security because it and its products could serve as an intelligence collection platform at home and abroad,” the document, titled “CSIS Security Alert,” states in French.
+In its security alert, CSIS cited reports dating back to 2020 that the U.S. Department of Defence warned that Hikvision is owned and operated by the People’s Liberation Army of the People’s Republic of China (PRC).
+“Around the world, ’smart city' systems are using Hikvision’s facial recognition technologies, which can create a platform for the PRC to carry out espionage activities abroad,” the CSIS document stated.
+“Additionally, Hikvision’s products have security vulnerabilities that make them extremely vulnerable. These security vulnerabilities, combined with gaps in privacy controls, allow the PRC to intercept private data remotely.”
+Despite warnings from CSIS, the Quebec transport ministry acquired 4,000 Hikvision cameras last year specifically for video conferences for its officials, as reported by Le Journal de Montréal.
+The CSIS document also outlined the connections between Hikvision and Beijing’s repression of Uyghur minorities.

@@ -1,0 +1,14 @@
+An artificial intelligence tool has been developed to predict new variants of viruses before they emerge.
+Researchers at the University of Oxford and Harvard Medical School claim the model could have predicted mutations of the Covid-19 virus during the pandemic.
+It is hoped the model, named EVEscape, will help in the design of vaccines by studying how viruses mutates in response to the human immune system.
+The University of Oxford said the technology was "predicting the future".
+During the Covid-19 pandemic waves were driven by different variants of the virus that had undergone multiple genetic changes.
+Those mutations can alter the virus's behaviour, potentially making it spread faster or making it harder for our immune systems to recognise and fight off.
+In late 2021, the Omicron variant did just that and infected millions, although it did not lead to a huge spike in hospitalisations and deaths.
+EVEscape - short for Evolutionary Model of Variant Effect - combines a deep-learning model of how a virus evolves, along with detailed biological and structural information about it.
+In the journal Nature, the research team described how it works by predicting the likelihood that a viral mutation will enable it to escape immune responses, for example, by preventing antibodies from binding.
+The model was tested with information only available at the beginning of the Covid-19 pandemic in February 2020 and successfully predicted which SARS-CoV-2 mutations would occur and which would become most prevalent. 
+The team said it also predicted which antibody-based therapies would lose their efficacy as the pandemic progressed and the virus developed mutations to escape these treatments.
+It is hoped the technology could help in prevention measures and the design of vaccines that target variants of concern before they become prevalent.
+Co-lead author for the study Pascal Notin, said it would have "accurately predicted" the most frequent mutations of Covid-19 if it had been used at the start of the pandemic.
+"This work is of tremendous value, both for pandemic surveillance efforts, but also to inform vaccine design in a way that is robust to the emergence of certain at-risk mutations," he added.

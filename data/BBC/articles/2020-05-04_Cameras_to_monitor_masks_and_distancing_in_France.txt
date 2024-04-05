@@ -1,0 +1,15 @@
+Video surveillance cameras in France will monitor how many people are wearing masks and their compliance with social distancing when the coronavirus lockdown is eased next week.
+The resort city of Cannes on the Côte d'Azur has trialled the monitoring software, installed at outdoor markets and on buses.
+It is not clear how many other cities will adopt this digital surveillance.
+French firm Datakalab says its software does not violate EU data privacy law.
+"No image is stored or transmitted, ensuring that personal information is protected," Datakalab said, announcing its collaboration with Cannes city hall, ahead of the 11 May relaxation of France's tough lockdown.
+Many artificial intelligence (AI) innovations are being adopted worldwide in the rush to stop the spread of Covid-19, and use of these tools, under emergency laws, has raised the alarm about possible invasions of privacy. 
+The French surveillance system does include an automatic alert to city authorities and police where breaches of the mask and distancing rules are spotted.
+But Datakalab, a startup launched in 2017, insists that it is "not facial recognition", as the system does not store identifying data. That sets it apart from the kind of hi-tech surveillance common in China.
+Datakalab says its algorithms can be incorporated into existing surveillance systems in other public spaces, such as hospitals, stations, airports and shopping centres.
+France has suffered one of the highest Covid-19 death rates in Europe, along with the UK, Italy and Spain. The French death toll - which includes deaths in care homes - now stands at 24,895.
+From 11 May face masks will be compulsory in France on public transport and in secondary schools.
+Shops and markets will also have the right to ask shoppers to wear masks, and should ensure they remain a metre (3ft) apart, the French government says.
+At one Cannes market in the trial 70% of shoppers were already wearing masks. The city plans to distribute free masks to all residents.
+Cannes Mayor David Lisnard said, "This technology doesn't identify people but just gives us mathematical analysis to meet people's needs." 
+Since 17 March, France has been under a strict lockdown which includes having to carry a form explaining why you are outside in a public space.

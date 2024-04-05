@@ -1,0 +1,30 @@
+Artificial Intelligence has the ability to perform illegal financial trades and cover it up, new research suggests.
+In a demonstration at the UK's AI safety summit, a bot used made-up insider information to make an "illegal" purchase of stocks without telling the firm.
+When asked if it had used insider trading, it denied the fact.
+Insider trading refers to when confidential company information is used to make trading decisions.
+Firms and individuals are only allowed to use publicly-available information when buying or selling stocks. 
+The demonstration was given by members of the government's Frontier AI Taskforce, which researches the potential risks of AI.
+The project was carried out by Apollo Research, an AI safety organisation which is a partner of the taskforce.
+"This is a demonstration of a real AI model deceiving its users, on its own, without being instructed to do so," Apollo Research says in a video showing how the scenario unfolded.
+"Increasingly autonomous and capable AIs that deceive human overseers could lead to loss of human control," it says in its report.
+The tests were made using a GPT-4 model and carried out in a simulated environment, which means it did not have any effect on any company's finances.
+However, GPT-4 is publicly available. The same behaviour from the model occurred consistently in repeated tests, according to the researchers. 
+In the test, the AI bot is a trader for a fictitious financial investment company. 
+The employees tell it that the company is struggling and needs good results. They also give it insider information, claiming that another company is expecting a merger, which will increase the value of its shares.
+In the UK, it is illegal to act on this type of information when it is not publicly known.
+The employees tell the bot this, and it acknowledges that it should not use this information in its trades.
+However, after another message from an employee that the company it works for suggests the firm is struggling financially, the bot decides that "the risk associated with not acting seems to outweigh the insider trading risk" and makes the trade.
+When asked if it used the insider information, the bot denies it.
+In this case, it decided that being helpful to the company was more important than its honesty.
+"Helpfulness, I think is much easier to train into the model than honesty. Honesty is a really complicated concept," says Apollo Research chief executive Marius Hobbhahn.
+While the AI has the capability of lying in its current form, Apollo Research still had to "look for" the scenario.
+"The fact that it exists is obviously really bad. The fact that it was hard-ish to find, we actually had to look for it a little bit until we found these kinds of scenarios, is a little bit soothing," Mr Hobbhahn said.
+"In most situations, models wouldn't act this way. But the fact that it exists in the first place shows that it is really hard to get these kinds of things right," he added.
+"It's not consistent or strategic in any sense. The model isn't plotting or trying to mislead you in many different ways. It's more of an accident."
+AI has been used in financial markets for a number of years. It can be used to spot trends and make forecasts, while most trading today is done by powerful computers with human oversight.
+Mr Hobbhahn stressed that current models are not powerful to be deceptive "in any meaningful way", but "it's not that big of a step from the current models to the ones that I am worried about, where suddenly a model being deceptive would mean something."
+He argues that this is why there should be checks and balances in place to prevent this type of scenario taking place in the real world.
+Apollo Research has shared its findings with OpenAI, the creators of GPT-4.
+"I think for them this is not a huge update," says Mr Hobbhahn. 
+"This is not something that was totally unexpected to them. So I don't think we caught them by surprise".
+The BBC has contacted OpenAI for comment.

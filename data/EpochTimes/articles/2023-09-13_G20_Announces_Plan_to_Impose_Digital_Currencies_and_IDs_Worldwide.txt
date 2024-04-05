@@ -1,0 +1,26 @@
+The leaders of the Group of 20 nations have agreed to a plan to eventually impose digital currencies and digital IDs on their respective populations, amid concern that governments might use them to monitor their people’s spending and crush dissent.
+The G20, which is made up of the world’s leading rich and developing nations and is currently under India’s presidency, adopted a final declaration on the subject over the weekend in New Delhi.
+The group announced last week that they had agreed to build the necessary infrastructure to implement digital currencies and IDs.
+While the group said that discussions are already underway to create international regulations for cryptocurrencies, it claimed that there was “no talk of banning cryptocurrency” at the summit.
+Many critics are concerned that governments and central banks will eventually regulate cryptocurrencies and then immediately replace them with central bank digital currencies (CBDC), which lack similar privacy and security.
+Indian Finance Minister Nirmala Sitharaman said that discussions are underway to build a global framework to regulate crypto assets because they believe that cryptocurrencies can’t be regulated efficiently without total international cooperation.
+“India’s [G20] presidency has put on the table key issues related to regulating or understanding that there should be a framework for handling issues related to crypto assets,” Ms. Sitharaman said before the G20 gathering.
+The top items discussed at the New Delhi summit included building digital public infrastructure, digital economy, cryptoassets, and CBDCs.
+Gita Gopinath, the International Monetary Fund’s (IMF) first deputy managing director, said in a video posted on X, formerly known as Twitter, that the G20 “helped shape a global perspective on how policymakers should deal with crypto assets.”
+She also told Business Today that there was “no talk of banning cryptocurrencies, indicating a global consensus against such measures” in the discussions.
+However, some of the suggestions call for additional policing of cryptocurrencies, which are decentralized and don’t operate under central banks’ control.
+She called for the United Nations to have a role in AI regulation and called the European Union’s COVID-19 digital certificate a perfect model for digital public infrastructures (DPI), which would include digital IDs.
+“Many of you are familiar with the COVID-19 digital certificate. The EU developed it for itself. The model was so functional and so trusted that 51 countries on four continents adopted it for free,” Ms. von der Leyen said.
+“Today, the WHO uses it as a global standard to facilitate mobility in times of health threats. I want to thank Dr. Tedros again for the excellent cooperation,” she said, referring to WHO Director-General Tedros Adhanom Ghebreyesus.
+She wrote that the IMF was also “contributing to proposals for a comprehensive policy framework.”
+In a separate statement, Ms. Georgieva said, “More work lies ahead, including in the realm of digital money and crypto assets.”
+“To this end, the G20 has tasked relevant institutions to improve regulation and supervision of crypto assets—the IMF is contributing to proposals for a comprehensive policy framework—and advance the debate on how central bank digital currencies could impact the global economy and financial system,” she added.
+The IMF chief suggested that rather than recognize cryptocurrency assets as legal tender, governments should create licensing and registration processes for crypto asset issuers and focus on treating their activities similarly.
+Several major economies, including Japan and Russia, will roll out their pilot CBDCs this year.
+Nigeria introduced the eNaira, the world’s first issued CBDC, although it has proved unpopular.
+The nation’s India Stack DPI system, which comprises the Aadhaar digital ID and the interoperable UPI digital payments platform, has been cited as an example in the report.
+The G20 believes that DPIs can serve people not just in the financial sector, but also in the domains of health, education, and social welfare.
+“The India Stack exemplifies this approach, combining digital ID, interoperable payments, a digital credentials ledger, and account aggregation. In just six years, it has achieved a remarkable 80 percent financial inclusion rate—a feat that would have taken nearly five decades without a DPI approach,” Queen Maxima of the Netherlands, who wrote the foreword to the report, said.
+The queen is the U.N. secretary-general’s special advocate for inclusive finance for development and was one of the speakers at the IMF—World Bank annual meeting in Washington last year.
+“If designed properly, CBDCs could hold great promise to support a digital financial system that works for everyone. But that is an important ‘if,’” Queen Maxima said. “If designed and implemented with inclusion in mind, CBDCs could offer many options to expand access to the unbanked and to serve the vulnerable and the poor.”
+However, her statements in support of the plan have come under criticism by some in the debate over digitalization in the Netherlands for violating the norm regarding the role of the Dutch monarchy in politics.

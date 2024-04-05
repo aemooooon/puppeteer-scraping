@@ -1,0 +1,29 @@
+Snapchat has been accused of a "worrying failure" to assess the potential privacy risks its AI chatbot poses to users - especially children - by the UK's data watchdog.
+The Information Commissioner's Office (ICO) warned it could close down the My AI feature in the UK after a "preliminary investigation".
+The US company said it was "closely reviewing" the provisional findings.
+The tool lets users message a computer which mimics human conversation.
+Snapchat describes it as an "evolving feature" which is powered by ChatGPT, an online AI tool which uses new technology to convincingly imitate realistic responses.
+Snap, the parent company behind Snapchat, became the first social media platform to adopt an artificial intelligence-powered chat function earlier this year.
+The app has 21 million users in the UK, many of whom are children. The ICO said it was particularly concerned about the potential privacy risks for 13- to 17-year-old users.
+Snap said it would "work constructively" with the ICO after it issued a preliminary notice against the company, adding that it had carried out a "robust legal and privacy review" before the function went public.
+The data watchdog stressed its findings are not final and it has not concluded that the company breached any data protection laws.
+At this stage the notice is a signal to Snap to ensure My AI complies with data protection rules which includes the Children's Design Code. 
+The watchdog's code contains 15 standards that online services need to follow. This ensures they are complying with their obligations under data protection law to protect children's data online.
+The ICO said that if a final enforcement notice was to be adopted, Snap might not be able to offer the My AI function to UK users until the company carries out "an adequate risk assessment".
+The company describes My AI as "an experimental and friendly" chatbot designed to be a personal sidekick to each Snapchatter who chats with it.
+The feature, which can be used as an assistant to plan day trips or create menus, has more than two million chats per day happening on the app, according to Snap's boss Evan Spiegel.
+It was made available to all Snapchat users in April, after being launched for a fee in February.
+Since then, the social media platform said "a lot of progress" had been made in its capabilities although it admitted that "mistakes may occur". 
+"My AI may answer incorrectly, provide biased answers or note it is unsure of the answers so don't rely on its advice," the company said.
+Snap has also been criticised for being unclear over whether the chatbot can access private information such as location data.
+"Snapchat can only ever access your location if you consent to share it," the firm said.
+One of the other concerns about My AI is - because of how young users of Snapchat skew - whether they really understand the implications of data collection.
+"Privacy is a foundational value for us - it is critical to our core use case of helping people visually communicate with their friends and family," the platform stressed.
+Information Commissioner John Edwards said, "The provisional findings of our investigation suggest a worrying failure by Snap to adequately identify and assess the privacy risks to children and other users before launching My AI.
+"We have been clear that organisations must consider the risks associated with AI, alongside the benefits.
+"Today's preliminary enforcement notice shows we will take action in order to protect UK consumers' privacy rights."
+In the case of serious breaches, the ICO has the power to issue fines of £17.5 million or 4% of a company's annual worldwide turnover from the preceding financial year, whichever is higher.
+A Snap spokeswoman said: "We are closely reviewing the ICO's provisional decision.
+"Like the ICO, we are committed to protecting the privacy of our users.
+"In line with our standard approach to product development, My AI went through a robust legal and privacy review process before being made publicly available.
+"We will continue to work constructively with the ICO to ensure they're comfortable with our risk assessment procedures."

@@ -1,0 +1,24 @@
+“We figured out how to make humans scale,” tech CEO Emad Mostaque told attendees at the Goldman Sachs 2023 Disruptive Technology Symposium in London.
+He was referring to astounding progress in the field of generative artificial intelligence, seen most notably in the app ChatGPT4, which instantly produces research results presented in nearly flawless prose, good enough to fool a college entrance examiner.
+While some, including Mostaque, fear dystopian outcomes from the unbridled use of machine learning, others predict this new technology will increase global productivity on a massive scale.
+Emerging generative AI tools could drive a 7 percent rise in the world’s gross domestic product (GDP) worth nearly $7 trillion, increasing worker productivity as much as 1.5 percent over a decade, according to Goldman Sachs Research (GSR).
+Yet the prospect of job elimination and wage reduction due to automation, among other possible ills, lingers, causing widespread mistrust of AI and prompting calls for a halt to its development.
+“Generative AI can streamline business workflows, automate routine tasks and give rise to a new generation of business applications,” writes Kash Rangan, a software analyst at Goldman Sachs Research.
+This could accelerate the development of everything from the discovery of new drugs to the creation of software code.
+The report’s authors envision particular value in AI in the sales industry, especially for software-as-a-service firms. By doing nearly instantaneous market research and creating sales copy that is virtually indistinguishable from human-generated content, AI applications can multiply the efforts of a sales team in upselling, cross-selling, and developing new customers.
+These gains in productivity could drive a market of some $150 billion for generative AI products according to GSR, an increase of 22 percent over the current global software industry.
+Mostaque, founder and CEO of Stability AI, was joined by Elon Musk, Apple co-founder Steve Wozniak, and more than 17,000 others including engineers at Meta and Google in signing a letter calling on AI firms to immediately pause development for at least six months to evaluate risks posed by the technology.
+“AI systems with human-competitive intelligence can pose profound risks to society and humanity, as shown by extensive research and acknowledged by top AI labs,” the letter, released March 29, states.
+“Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete, and replace us? Should we risk loss of control of our civilization?” the letter asks.
+“Such decisions must not be delegated to unelected tech leaders. Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable.”
+Mostaque, speaking at the March 2023 symposium in London, warned of unprecedented volatility in the marketplace.
+“There’s no programmers in five years,” he said.
+Mostaque foresees similar machine replacement of human artists, teachers, and even physicians.
+“Despite significant uncertainty around the potential for generative AI, its ability to generate content that is indistinguishable from human-created output and to break down communication barriers between humans and machines reflects a major advancement with potentially large macroeconomic effects,” Joseph Briggs and Devesh Kodnani, economists at Goldman Sachs, wrote.
+They predict that AI could replace the work done by 300 million full-time employees, but insist that not all lost work will result in lost jobs.
+“Although the impact of AI on the labor market is likely to be significant, most jobs and industries are only partially exposed to automation and are thus more likely to be complemented rather than substituted by AI,” they wrote.
+The two cited a study by economist David Autor, which states that 60 percent of today’s workers are employed in occupations that didn’t exist in 1940. Thus, Briggs and Kodnani conclude, 85 percent of employment growth during that period was driven by new technology.
+Yet Autor’s study also found that automation has worsened the economic position of workers over the past four decades.
+“Amidst a technological ecosystem delivering rising productivity, and an economy generating plenty of jobs ... we found a labor market in which the fruits are so unequally distributed, so skewed toward the top, that the majority of workers have tasted only a tiny morsel of a vast harvest,” Autor wrote.
+The problem, according to Autor, is that job creation has flourished due to automation but wages have not grown at the same rate, which adds to the skepticism many feel over advancements in AI.
+“Where innovation fails to drive opportunity, however, it generates a palpable fear of the future: the suspicion that technological progress will make the country wealthier while threatening livelihoods of many,” Autor wrote.

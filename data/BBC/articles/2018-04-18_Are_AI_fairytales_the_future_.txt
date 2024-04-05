@@ -1,0 +1,22 @@
+ It was recently reported that the meditation app Calm had published a "new" fairytale by the Brothers Grimm.
+However, The Princess and the Fox was written not by the brothers, who died over 150 years ago, but by humans using an artificial intelligence (AI) tool.
+It's the first fairy tale written by an AI, claims Calm, and is the result of a collaboration with Botnik Studios - a community of writers, artists and developers. Calm says the technique could be referred to as "literary cloning".
+Botnik employees used a predictive-text program to generate words and phrases that might be found in the original Grimm fairytales. Human writers then pieced together sentences to form "the rough shape of a story", according to Jamie Brew, chief executive of Botnik.
+The full version is available to paying customers of Calm, but here's a short extract:
+"Once upon a time, there was a golden horse with a golden saddle and a beautiful purple flower in its hair. The horse would carry the flower to the village where the princess danced for joy at the thought of looking so beautiful and good.
+"'It's magnificent!' she said to her father, the king of bread and cheese. 'Will you give it something to eat and drink if I finally marry the prince?'"
+It doesn't yet produce the finest prose, but Botnik's predictive keyboard is available for users to experiment with online. In addition to suggesting phrases based on the classic fairytales, it can also mimic the style of the Communist Manifesto, Buzzfeed quizzes and pancake recipes. 
+So will artificial intelligence continue to generate new works from our favourite dead authors?
+The Princess and the Fox may be the first AI-powered fairytale, but the technique that produced it - using computers to generate content and then using humans to edit that content - is fairly widespread.
+Mario Klingemann, artist-in-residence at Google Arts and Culture, says that even the Marxist keyboard "is not really a novelty". 
+"This type of creative augmentation method has been used by artists and authors even before the advent of computers," he says. 
+He points to William S Burroughs, who popularised what's referred to as the cut-up method of writing in the 1950s and 1960s: taking a piece of text, cutting it into pieces and rearranging it to form a new composition.
+"It combines the permutational power of the machine with yet unchallenged human story-weaving and pattern-recognition skills," Klingemann says. "At the same time, it forces our brains to think outside the beaten paths that we tend to fall back to."
+There's no shortage of algorithms vying to be taken seriously as writers, and many other tools have been designed to work with humans on their output. Last year, the Massachusetts Institute of Technology (MIT) Media Lab developed Shelley AI, named after Mary Shelley, author of Frankenstein.
+The collaborative program was trained on horror tales written by Reddit users. It then tweeted snippets of new stories in the run-up to Halloween and took turns with human Twitter users at writing the next few sentences.
+More than 450 co-authored stories were produced at the end of the project.
+AI-assisted journalism, in which algorithms dig up interesting data and write key, fact-based sentences about the results, is becoming more common, too. Such machine-learning tools are increasingly being used in European newsrooms, though the focus is currently largely on developing programs that can help journalists rather than replace them.
+The Princess and the Fox is the second viral AI story from Botnik. Last winter, it published a machine-generated chapter of Harry Potter fan fiction called Harry Potter and the Portrait of What Looked Like a Large Pile of Ash. 
+Luba Elliott, a curator specialising in artificial intelligence, says that using a machine can help give writers a different perspective on a story - but that humans are still deeply involved in the creation of these AI-generated stories. 
+"You can't just say, 'This is a 200-year-old lost tale from the Brothers Grimm and we just found it,'" she says.
+"Whoever creates an AI-generated story chooses the dataset, the model and also curates the final output.

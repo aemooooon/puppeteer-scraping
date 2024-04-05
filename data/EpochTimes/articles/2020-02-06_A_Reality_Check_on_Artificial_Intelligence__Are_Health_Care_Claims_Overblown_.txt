@@ -1,0 +1,17 @@
+Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics.
+“It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic.
+That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said.
+Yet the majority of AI devices don’t require FDA approval.
+“None of the companies that I have invested in are covered by the FDA regulations,” Kocher said.
+But Oren Etzioni, chief executive officer at the Allen Institute for AI in Seattle, said AI developers have a financial incentive to make sure their medical products are safe.
+Instead, the FDA is using the process to greenlight AI devices.
+AI products cleared by the FDA today are largely “locked,” so that their calculations and results will not change after they enter the market, said Bakul Patel, director for digital health at the FDA’s Center for Devices and Radiological Health. The FDA has not yet authorized “unlocked” AI devices, whose results could vary from month to month in ways that developers cannot predict.
+To deal with the flood of AI products, the FDA is testing a radically different approach to digital device regulation, focusing on evaluating companies, not products.
+Scott Gottlieb said in 2017 while he was FDA commissioner that government regulators need to make sure its approach to innovative products “is efficient and that it fosters, not impedes, innovation.”
+“The honor system is not a regulatory regime,” said Dr. Jesse Ehrenfeld, who chairs the physician group’s board of trustees.
+The test, sold as IDx-DR, screens patients for diabetic retinopathy, a leading cause of blindness, and refers high-risk patients to eye specialists, who make a definitive diagnosis.
+IDx-DR is the first “autonomous” AI product—one that can make a screening decision without a doctor. The company is now installing it in primary care clinics and grocery stores, where it can be operated by employees with a high school diploma. Abramoff’s company has taken the unusual step of buying liability insurance to cover any patient injuries.
+Yet some AI-based innovations intended to improve care have had the opposite effect.
+False positives can harm patients by prompting doctors to order unnecessary tests or withhold recommended treatments, Jha said. For example, a doctor worried about a patient’s kidneys might stop prescribing ibuprofen, a generally safe pain reliever that poses a small risk to kidney function, in favor of an opioid, which carries a serious risk of addiction.
+As these studies show, software with impressive results in a computer lab can flounder when tested in real-time, Stanford’s Cho said. That’s because diseases are more complex—and the health care system far more dysfunctional—than many computer scientists anticipate.
+In view of the risks involved, doctors need to step in to protect their patients’ interests, said Dr. Vikas Saini, a cardiologist, and president of the nonprofit Lown Institute, which advocates for wider access to health care.

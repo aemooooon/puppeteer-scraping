@@ -1,0 +1,12 @@
+A Northumbria University scientist has won an award for his work on modelling space weather. 
+Dr Andy Smith received the award from the Royal Astronomical Society earlier this month.
+Dr Smith's models are used by the Met Office to inform its space weather forecasts. 
+Modelling space weather is becoming increasingly important to the modern world, as phenomena such as solar eruptions can have huge impacts on the Earth's powerlines.
+Solar eruptions result in plasma being fired towards Earth at supersonic speeds which can disrupt power systems, said Dr Smith.
+“Things like pipelines and power networks are particularly vulnerable,” he said.
+Dr Smith won the Winton Award which is given each year by the Royal Astronomical Society to a postdoctoral astronomy researcher at a UK institution whose career has shown the most promise. 
+In 2011, severe space weather was added to the UK’s list of the most serious threats. 
+Dr Smith’s models use artificial intelligence and statistical models to try and better understand space weather and predict when severe events are likely to occur. 
+But one of the biggest challenges facing scientists devising these models is that major space weather events are rare. 
+This makes it difficult to collect the data required to predict future events, said Dr Smith. 
+One of the largest recent events which affected Earth was in 1989, when a solar flare caused a nine-hour blackout for millions of people in the Canadian province of Quebec.

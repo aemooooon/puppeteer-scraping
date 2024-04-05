@@ -1,0 +1,25 @@
+Researchers at the University of Edinburgh have said they are getting closer to creating a "wearable kidney", which could make life easier for dialysis patients.
+The current procedure requires patients to travel to hospital several times a week to be hooked up to a machine.
+Researchers hope to produce a device the size of a backpack so patients can have more continuous treatment.
+They said this would move kidney patients closer to normal function.
+Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. 
+Stuart Rose, from West Lothian, has been on haemodialysis for almost a year, meaning he needs to go to hospital three times a week for sessions lasting four hours.
+The 46-year-old has lupus - an autoimmune disease which caused his kidneys to decline over time. 
+Four years ago, the father-of-two suffered acute kidney failure.
+He told BBC's Good Morning Scotland that the constant trips to hospital to be hooked up to a dialysis machine had limited what he can do in life. 
+"I'm lucky that I can still work from the hospital on my laptop but I can't go on holiday because it's too much hassle," he said. 
+"It's held us back doing things that we should be doing as a family."
+Mr Rose described his current treatment plan as "gruelling".
+"I don't like needles but I get two large needles in my upper arm three times a week and then I lie there for four hours waiting on this machine just to do what it's supposed to do," he said. 
+"A wearable kidney would be a massive step that would be far more convenient. I would be able to stay at my work, go on holiday, I'd be able to do a load of things I stopped doing or I can't do now."
+Current haemodialysis machines require many litres of ultrapure water to remove toxins from the blood, mimicking kidney function. 
+"What we want to do is disconnect the machine from the continuous water supply by using a recycling filter," said Prof Grazia De Angelis, from the University of Edinburgh's School of Engineering.
+Prof De Angelis and her team have been funded by charity Kidney Research UK to help build an alternative "smart" filtration system to create a mini version of the kind of dialysis machine Mr Rose uses.
+"The treatment which is currently carried out mostly in the hospitals or even at home is very disruptive for the lives of patients," Prof De Angelis said. 
+"What we want to do is reduce the size of these machines and ideally downsize them to the dimensions of a backpack so that the patient can easily travel and have a more continuous treatment which mimics the real healthy kidney."
+"A healthy kidney is working all the time, while haemodialysis patients only receive treatment three times a week," she added. 
+The engineers in Professor De Angelis' team believe that finding the right combination of filter materials for the purification process could be the final piece of the jigsaw for their "wearable kidney". 
+While there are thousands of potential combinations, the project will utilise computer-based technologies including machine learning (a type of artificial intelligence) to analyse which materials might be most suitable to put in the smart filter before testing them in the laboratory. 
+And although Prof De Angelis said it will accelerate their work, she said it could still take another five to eight years before it is finished and ready for widespread use. 
+In the meantime Mr Rose is hoping he will manage to get a kidney transplant. 
+"I've been on the list for four years now and I put my life on hold at the start," he said. 

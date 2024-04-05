@@ -1,0 +1,134 @@
+The Neuralink implant that aims to allow a person to control a computer with thoughts has good potential to achieve its initial goal of helping paralyzed people communicate. It may, at least to some extent, help restore vision for the blind. It may also, to a significant degree, restore limb control for those with spine injuries, according to several neuroscientists.
+But when it comes to Neuralink’s broader goals of letting healthy people interface with computers directly via the mind, the technical capability is achievable but would lead to expansive ethical, safety, security, privacy, and even philosophical issues, experts told The Epoch Times.
+Neuralink—founded in 2016 by the world’s richest man, prolific entrepreneur Elon Musk—recently applied to the U.S. Food and Drug Administration (FDA) for human trials of its brain implants. The company staged a three-hour presentation of its progress, including demonstrations of a monkey controlling a computer with its mind, a robot that can handle some of the most delicate parts of the required brain implant insertion surgery, and a pig whose legs can be controlled remotely by a computer.
+The presentation also included a monkey with a brain implant that made it see flashes of light, a step toward the company’s proposition to restore vision for the blind.
+The Neuralink technology “makes a lot of sense” for helping people with disabilities, according to Nicholas Hatsopoulos, a neurology professor at the University of Chicago and one of the pioneers of brain-computer interface development.
+“It is impressive, actually,” Hatsopoulos said after seeing the Neuralink presentation.
+Mark Churchland, associate professor of neuroscience at Columbia University and an expert on brain signal decoding, commended Neuralink for bringing the brain-computer interface technology a long way from experiment to product.
+“They seem to have a solid wireless interface, which is not an easy thing to build. And going from needing racks of equipment and computers to needing an iPhone is impressive,” Churchland said.
+“In terms of the actual experiments, it’s not doing anything that hasn’t been done before, but if you’re doing it better and more easily, that counts for a lot.”
+When it comes to the company’s plans to one day mass produce the implants for use by anyone and everyone, both Hatsopoulos and Churchland were much more reserved.
+“We’re going to have to have some serious ethical conversations,” Hatsopoulos said, noting that “it’s one thing to help restore function in people who have a disability,” but “another thing to augment people.”
+“Augmentation is going to be a big ethical concern.”
+Churchland was more blunt.
+“I think that is likely a really bad idea,” he said.
+The person would be asked to think, for instance, about moving their hand in a certain direction. Corresponding brain activity signals from the implant would be collected over a period of time, translated to computer data and commands via artificial intelligence, and voila—the implant would then allow the person to control a computer with their mind.
+The Neuralink presentation proved the concept by showing a video of a monkey with the implant. The primate moved a mouse cursor to highlighted positions on a computer screen, getting bits of banana smoothie through a tube as a reward.
+The underlying technology is real and a similar experiment has been repeated many times by researchers using various methods, according to Shinsuke Shimojo, a professor of experimental psychology at the California Institute of Technology.
+In fact, a similar effect can be achieved even without sticking wires inside the brain, as some brain activity can be detected on the surface of the head, he said, noting that he’s currently working on one such technology.
+“It can be recordable reasonably well from the electrodes outside of the skull,” Shimojo said. “Those are done already, and it’s going to be even better.”
+The more invasive path Neuralink has taken is more ambitious and delicate.
+Regulatory authorities don’t allow invasive experimental techniques unless there’s an urgent medical need, Shimojo noted.
+“It’s not a science problem. It’s an ethical problem,” he said.
+Such experiments have so far been approved on a small scale for research purposes.
+In the early 2000s, implants developed by Cyberkinetics, a company co-founded by Hatsopoulos, were tested on several physically disabled patients. The project fizzled out because its investors lost interest, he said.
+The science has only recently reached a point where multiple companies have decided to try to move it from research to a marketable product, Hochberg said.
+He’s currently helping several such companies, including Neuralink, which is now in talks with the FDA to run clinical trials that could lead to official approval of its implant as a form of treatment.
+“Clinical trials of this type would generally take a few years,” Hochberg said.
+Each new iteration of the implants would then require further trials, although he hopes software improvements of the system could be incorporated “with perhaps more speed.”
+The technology has been aided by advances in machine learning, which allows matching brain signal patterns with specific actions, such as moving a mouse cursor in a particular direction. Machine learning allows the correlation of brain patterns with physical outcomes without the need to understand the function of each specific neuron.
+“That’s the difference between the scientific approach and the engineering approach,” Shimojo said.
+Scientists try to find out how things work, such as by exploring “how each neuron is wired” or “what’s the hierarchy of information processing in different parts of the brain,” he noted. As a result, they try to drill down to causal relationships.
+Engineers, on the other hand, try to solve a problem. If an artificial intelligence finds a pattern that matches the desired result 95 percent of the time, that may be good enough, according to Shimojo.
+This seems to be possible in principle, but there may be difficulties in practice.
+“There are some constraints that can be removed eventually by just technical advance. And then there are some intrinsic limitations related to how the visual cortex itself is organized,” Shimojo said.
+Some neurons in the visual cortex indeed correspond to a location in the visual field. That means correct stimulation of one location in the brain produces a flash of light at a particular location in one’s vision and stimulation of another location produces a flash of light at a different place. Experiments of this kind have been done in apes, and Neuralink demonstrated one.
+“[But] so far, the resolution is very, very low—ridiculously low,” Shimojo said.
+The flashes of light such stimulation produces can only be positioned on a grid of perhaps 12 by 12 pixels, he said.
+The picture quality can be improved by stimulating more neurons, i.e. inserting more electrodes into the brain. The Neuralink implant currently uses more than 1,000 electrodes with a promise of 16,000 electrodes on the same chip. For the visual aid, the presentation proposed two implants with 16,000 electrodes each. If each electrode could be used to stimulate multiple “pixels,” perhaps a picture quality on par with a 1980s computer can be achieved.
+But even if the number of electrodes is further boosted in the future, the resulting image quality would still be limited, according to Shimojo.
+The problem is that if one creates a topographic map of the visual field, assigning each neuron to its position in the field, the result is nowhere near precise enough to make up a clear image.
+“The topographic map is kind of crude and diffuse. It’s not pinpoint,” he said.
+People see with clarity thanks to complex, multi-layer image processing by the brain in which the signal can travel back and forth between the layers and where neurons help adjacent neurons with the tasks.
+It isn’t clear how the implant could achieve a comparable result, according to Shimojo.
+“It’s not easily solved by the technical side,” he said.
+Musk went as far as to suggest that vision can be restored for people who are congenitally blind because even such people possess a visual cortex.
+“Even if they’ve never seen before, we’re confident that they could see,” Musk said.
+Hatsopoulos wasn’t so convinced.
+“I’m not clear that that’s possible,” he said.
+The issue is that the visual cortex “develops over the first several years of life” and the visual input from the eyes “helps organize how the visual cortex will function,” Hatsopoulos said.
+At about the age of 2, the brain loses the initial ability to develop so rapidly.
+That early development is “crucial,” he said, giving the example of children born with cataracts. The condition can be remedied by surgically replacing eye lenses, but it needs to be done early on. If the operation is performed too late, the patient won’t be able to see, even though all the physical parts are present and functioning.
+In principle, this is fully achievable, according to the experts.
+“In fact, we’re doing that right now,” Hatsopoulos said.
+His university is working with a different implant technology that allows a patient to control a mechanical arm via the mind.
+One challenge is to record from many neurons at the same time “to give you the rich kind of movement that you would want to get” in order to produce “movement that’s somewhat normal,” he said.
+Reading from maybe a thousand neurons should suffice to restore “functional movement,” such as allowing a person to feed or dress themselves, Hatsopoulos said.
+“Maybe not as quickly as they would if they had an intact system, but they can do it,” he said.
+Based on its technical specifications, the Neuralink implant should enable a wide range of movement. Its presentation included a video of a pig with brain and spinal implants bending its leg and stretching its thighs in response to commands sent to the implants.
+Facilitating complex movement, such as playing a piano, would probably require thousands of electrodes, Hatsopoulos said, noting that they’re “taking baby steps right now.”
+Another challenge is fine-tuning the stimulation so it targets muscle threads that don’t tire quickly.
+“You’ve got to do more than just activate muscles,” Churchland said.
+“You’ve got to activate them in a relatively natural way to avoid fatigue. And that’s definitely doable, but it’s certainly not trivial.”
+It’s helpful in this endeavor that patients usually actively cooperate to make the solution work. Even though the number of electrodes may create a bottleneck, with effort, patients could rewire their brains to take maximum advantage of the interface.
+“With practice, they can get better at it,” Hatsopoulos said.
+However, the ability to move isn’t enough. To truly restore function to a limb requires fixing the sense of touch as well.
+That means recording sensory impulses from the limb and sending them to another implant in the brain’s sensory cortex.
+In principle, that has already been done as well. Stimulating some brain cells, for example, can create an impression that one is touching something, Hatsopoulos said, referring to experiments done at his university. The issue, again, is reading from and stimulating enough neurons to create a sufficiently robust touch experience.
+The technology still has a long way to go in this regard, according to Hochberg.
+“It’s early, but exciting days,” he said.
+For truly natural movement, however, one would need to go further yet.
+A healthy person not only senses limb movement from what he touches externally but also gets a sense of movement and limb position from inside the body.
+The phenomenon is called proprioception. Scientists know that certain brain areas receive those kinds of sensory inputs, but it isn’t quite known how it works.
+“I could have a Neuralink device implanted right now and you wouldn’t even know. I mean, hypothetically, I may be one of these demos. In fact, one of these demos I will,” he said to laughs and cheers from the audience.
+Musk argued that “we are all already cyborgs in a way that your phone and your computer are extensions of yourself.”
+“I’m sure you found if you leave your phone behind you end up tapping your pockets, and it’s like having missing limb syndrome,” he said.
+However, Neuralink for healthy people may be far in the future, if it ever comes.
+“The FDA is not going to approve this for use in healthy individuals. At least in this version of the implant,” Hatsopoulos said. “You would have to show an incredible level of safety.”
+Shimojo expressed a similar sentiment.
+“If the safety is proven, then there’s a possibility, in the long, long future, that maybe intact, healthy people have electrodes inside of the brain. But I don’t think that’s going to happen soon,” he said.
+The technology would likely have to get to a point of giving disabled people greater capabilities than healthy people have.
+Musk believes the implant would indeed bestow superior capabilities.
+“We’re confident that someone who has basically no other interface to the outside world would be able to control their phone better than someone who has working hands,” he said.
+“If you’re in the proximity of the person, you will probably be able to steal some data. So that’s not secure,” he said.
+As a first step, the communication between the implant and a computer would need to be encrypted, but that would drain the battery and processing power on the implant.
+Even then, “people will find ways to hack” the implants, Miliefsky said.
+There are already devices that can “unwind” SSL and TLS encryption protocols commonly used to secure emails, he said. And new technologies can go even further.
+“Quantum computing can probably break today’s encryption pretty easily,” Miliefsky said.
+There’s “quantum-proof” encryption on the horizon, but the processing power it requires is far beyond anything a small implant could handle now or even in the upcoming decades, he estimated.
+“Nothing is bulletproof. Nothing is foolproof. When they tell you it’s unhackable, it’s usually hacked in five minutes, whatever it is,” Miliefsky said.
+Even if the implant-computer communication is somehow secured, the brain activity data could still be exfiltrated from the computer, such as by infecting the computer with malware.
+“Seventy percent of new malware gets past all the virus scanners,” Miliefsky said.
+And even if the data is somehow secured on the computer, it would still need to be accessed by technicians servicing the implant.
+Anybody with insider access to the Neuralink system would immediately become a prime target for every intelligence agency and every malicious actor in the world, according to Miliefsky.
+“They’ll be unsuspecting victims. Absolutely,” he said.
+And that doesn’t even include the issue of covert operatives of all sorts lining up for jobs at Neuralink.
+“Insider threat defense is a big issue,” Miliefsky said.
+People seem to be willing to accept some level of privacy intrusion. Smartphones, for example, can easily be used to listen in on a person and track one’s movement.
+“We’re walking around with spyware every day,” Miliefsky said.
+However, a brain implant can produce personal data on another level of intimacy.
+From the motor cortex, an implant could record a wide range of body movements, according to Hochberg.
+“It continues to, I think, both amaze and pleasantly surprise a lot of people in the field just how rich the information is that can be extracted from small areas of the motor cortex,” he said.
+From the visual cortex, everything a person sees could theoretically be recorded, albeit likely in low resolution.
+The implant would also be under the skin, meaning that it can’t be removed by the user, and it can’t be turned off, as it needs to maintain the capability of being turned on and off remotely.
+Worse yet, the implant can send signals into the brain as well. Issuing commands to the motor cortex could make one move involuntarily.
+Theoretically, it’s possible to make a remote-controlled human, Hatsopoulos said.
+Sending visual signals could make one see things that aren’t there, distract a person, or perhaps obstruct vision with flashes of light, the Neuralink experiments indicate.
+However, Churchland dismissed such concerns as too far removed from the technology’s current reality.
+“It’s not physically impossible, but it’s extremely improbable,” he said.
+Yet the know-how for decoding signals from these parts of the brain is so far limited, according to Shimojo.
+Machine learning can recognize patterns with a high degree of probability, but some level of ambiguity may be “intrinsic,” he said.
+“The brain is complicated and one neuron is not participating in one task. The same neuron can be participating in different networks for entirely different purposes. It’s really highly context-dependent and environment-dependent.”
+Whether it’s possible to fully decode such thought processes remains an open question.
+“Even among neuroscientists, there are different opinions,” Shimojo said, noting that such difficulties may need “some clever creativity to deal with.”
+“So is this eventually overcome? It may be, but it’s very long-run. It’s not as easy as those demonstrations may indicate.”
+Hypothetically, the ability to truly read and write in deeper areas of the brain would raise profound ethical and philosophical questions.
+For example, accessing memory processing centers would open another floodgate of privacy and security issues, according to Miliefsky, from password theft to national, corporate, and personal secret exfiltration.
+“There is not a single computer on the internet that I would say is safe and secure from a loss of privacy or having enough security that you could say, ‘Jimmy, who’s got the implant, all of his private thoughts are still secure.’ And it’s not going to happen,” he said.
+Linking brain parts responsible for decision-making with an AI would put in question the integrity of free will, according to Shimojo.
+“If you and AI together make a decision about an action, is that your free will or is it hybrid free will?” he asked.
+“Is it OK for people? Is it OK for society? What‘s going to happen to elections, for instance?”
+As Musk explained during multiple talks, interfacing with an AI is actually the primary goal of why he pursued the implant technology to begin with.
+His original motivation for starting Neuralink was to address the rapid development of artificial intelligence, he said.
+During the presentation and in previous talks, he opined that as AI develops, it’s likely to far surpass human intelligence. At that point, even if it turns out to be benevolent, it may treat humans as a lower life form.
+The solution would be to prevent AI power from getting centralized in a few hands, according to Musk.
+“If instead AI power is broadly distributed and to a degree that we can link AI power to each individual’s will,” meaning that everyone would have control over their own AI system, “then if somebody did try to do something really terrible then the collective will of others could overcome that bad actor,” he said.
+For that reason, he co-founded OpenAI in 2015, a nonprofit developing AI that should be made available for free. It recently unveiled a language processor AI called ChatGPT, which made waves by its ability to compose complex text, including essays, opinions, and even poetry and jokes.
+The trouble is that the human ability to input commands into a computer is too slow to even go “along for the ride” with a powerful AI, according to Musk.
+“If you’re interacting with a phone, it’s limited by the speed at which you can move your thumbs or the speed [at] which you can talk into your phone,” he said during the Neuralink presentation.
+“This is an extremely low data rate, maybe it’s like 10, optimistically 100 bits per second. But a computer can communicate at gigabits, terabits per second, so this is the fundamental limitation that I think we need to address to mitigate the long-term risk of artificial intelligence and also just go along for the ride.”
+Yet there’s no evidence that the implants would meaningfully close the speed gap between a human and a computer. People are still limited by the pace at which they form thoughts and make decisions.
+Muscle response time is a bit of a drag, but generally, the speed of the body seems a good match for the speed of the brain.
+“One can certainly imagine that there are certain circumstances where you could be faster with an implant, but ... overall the body is optimized to be a very, very good output device,” Churchland said.
+Taking Musk’s reasoning to its conclusion, wide adoption of brain-computer implants wouldn’t solve potential dangers of AI, but rather open a way to totalitarian outcomes of unprecedented caliber, according to Michael Rectenwald, a retired liberal arts professor at New York University who has explored the consequences of government-Big Tech collusion in several books.
+“The state already has used the pretext of a pandemic to abrogate rights and control the behavior of millions. What’s to keep them from direct, remote control of human subjects?” he wrote via email.

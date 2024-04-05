@@ -1,0 +1,6 @@
+Automaker Volkswagen has announced Artificial Intelligence (AI) will soon be integrated into several of its vehicle models later this year.
+ChatGPT is a chatbot, a computer program that simulates and processes human conversation, both written and spoken.
+Activities such as raising the internal temperature, controlling navigation, and entertainment in the car can all be done via voice command using AI.
+At this stage, ChatGPT functionality for Volkswagen cars is expected to launch in European markets in the second quarter of 2024. Approval for the United States market is pending, and a timeline for when American drivers will be able to use AI capabilities in their Volkswagen vehicles isn’t known at this stage.
+Volkswagen claims it is the first volume manufacturer to make AI tech a standard feature in its compact segment cars. However, many of its competitors are experimenting with AI as well.
+Europe has also taken a few steps on its path to AI regulation with the European Union’s Artificial Intelligence Act (EU AI Act), which aims to set clear rules for using and developing AI.

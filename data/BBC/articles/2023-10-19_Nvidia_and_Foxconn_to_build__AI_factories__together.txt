@@ -1,0 +1,12 @@
+The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called "AI factories".
+The firms say it is a new kind of data centre that uses Nvidia chips to power a "wide range" of applications.
+They include training autonomous vehicles, robotics platforms and large language models.
+It comes as the US announced plans to cut off more exports of advanced chips to China, in a blow to Nvidia.
+The latest export restrictions announced by Washington this week will block sales of two high-end artificial intelligence chips Nvidia created for the Chinese market - A800 and H800, according to the company. 
+The Taiwan-born Nvidia chief executive Jensen Huang and Foxconn chairman Young Liu shared a stage at Foxconn's annual tech showcase in Taipei on Wednesday.
+"A new type of manufacturing has emerged - the production of intelligence and the data centres that produce it are AI factories," Mr Huang said, according to Reuters, adding that Foxconn had the expertise and scale to build these factories globally.
+Mr Liu also said Foxconn is trying to "convert itself from a manufacturing service company to a platform solution company," citing smart cities and smart manufacturing as other applications for AI factories.
+Thanks to the use of the company's advanced chips in AI applications, Nvidia's stock market value has jumped to over $1 trillion as its shares more than tripled in value this year.
+That made it the fifth publicly traded US company to join the so-called "Trillion dollar club", along with Apple, Microsoft, Alphabet and Amazon.
+Meanwhile, Foxconn, which makes over half of the world's Apple products, has been trying to diversify its business and replicate its success in assembling personal computers and smartphones.
+In an exclusive interview in June, Mr Liu told the BBC that electric vehicles (EVs) are what will drive its growth in the coming decades.

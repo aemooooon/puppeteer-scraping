@@ -1,0 +1,14 @@
+Amazon announced on Monday that it will invest up to $4 billion in artificial intelligence (AI) startup Anthropic and take a minority stake in the company.
+The investment underscores Amazon’s push to become a major player in generative artificial intelligence.
+Under the agreement, Amazon will place an initial investment of $1.25 billion in Anthropic, with an option to increase the investment by another $2.75 billion, the CEOs of Amazon’s cloud division and Anthropic said in a joint interview.
+As part of the deal, Amazon’s employees and cloud customers will gain early access to technology from Anthropic. Amazon also agreed to incorporate Anthropic’s technology into products across its business, including the Amazon Bedrock service for building AI applications.
+The San Francisco-based startup has committed to make Amazon its primary cloud services provider and will also use the online retail giant’s custom chips to build, train, and deploy its generative AI systems, known as large language models.
+Foundation models, also known as large language models, are trained on a vast quantity of data, like blog posts, digital books, scientific articles, and pop songs to generate text, images, and video that resemble human work.
+“We have tremendous respect for Anthropic’s team and foundation models, and believe we can help improve many customer experiences, short and long-term, through our deeper collaboration,” said Amazon CEO Andy Jassy in a statement.
+For Amazon, Monday’s deal may spell an uptick in demand, including for chips powering AI. Anthropic agreed to work on developing technology for Amazon’s in-house Trainium and Inferentia chips, for instance.
+Adam Selipsky, Amazon Web Services’s CEO, said the pact “will help make Anthropic’s models better, will help make our chip technology and our AI infrastructure better.”
+Dario Amodei, Anthropic’s CEO, said his company “has obtained the money in a way that allows it to prioritize safety” and “allows us to continue to scale up our models.”
+Anthropic was founded in 2021 by former staffers from OpenAI, the maker of the ChatGPT AI chatbot that made a global splash with its ability to come up with answers mimicking human responses.
+Anthropic has released its own ChatGPT rival, dubbed Claude. The latest version, which is available in the United States and the United Kingdom, is capable of “sophisticated dialogue and creative content generation to complex reasoning and detailed instruction,” the company said. Anthropic has aimed to distinguish its work by training AI to adhere to moral values.
+With Monday’s deal, Anthropic is giving a boost to Amazon Bedrock, a service that has attracted thousands of users to start building AI applications.
+Amazon is scrambling to catch up with rivals like Microsoft, which invested $1 billion in OpenAI in 2019, followed by another multibillion-dollar investment at the start of the year.

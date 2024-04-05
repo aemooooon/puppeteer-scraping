@@ -1,0 +1,23 @@
+The Policing Minister has urged forces to follow Bedfordshire in using artificial intelligence (AI) to carry out admin tasks. 
+AI is used to redact personal data from case files before they go to the Crown Prosecution Service (CPS).
+Detectives found it performed the task in minutes, whereas traditional methods could take them days. 
+Chris Philp MP said AI could transform policing in "a radical and revolutionary way".
+When detectives investigate a crime, they produce a case file for the CPS including witness statements, phone records and other evidence. 
+To comply with data protection laws, personal data such as phone numbers, addresses and vehicle registrations must be removed before the file is shared. 
+Only data relevant to the investigation can remain.
+Det Con James Carrington-Read said: "Until now, we've had to redact those documents manually. 
+"Some of them, like download data from seized mobile phones, contain hundreds of pages which could take a day or two for us to go through.  
+"This new system did it in around 15 minutes which means we can get on with other jobs."
+Officers always review the results to make sure they are accurate, but it still takes up to 90% less time. 
+The head of the force's criminal investigation department, Det Ch Insp Jo Smith said: "It's important to retain a human element but we saw it as a necessary part of innovation to try to introduce something that would save officers time. 
+"In policing, innovation can be very challenging because of bureaucracy and red tape but it's made a really big difference to officers here."
+The DocDefender system searches for categories of information chosen by each officer.  
+No data is stored for longer than 12 hours.
+A recent report into policing productivity said technology would play a central role for police forces in future. 
+The National Police Chief's Council has established its own Science and Innovation Committee to focus on these changes.
+The Policing Minister Chris Philp has also urged forces to embrace its potential to help police "stay ahead" of the criminals, prosecute them and become "more operationally efficient".
+But privacy campaigners have raised concerns about government plans to expand facial recognition surveillance.
+In November, every police chief in England signed a covenant for using AI in policing. 
+It means everyone using or developing the technology for policing must ensure it meets a set of principles to ensure it's lawful, transparent and robust. 
+Riven, which designed the DocDefender system with AWS, said: "We have several safeguards in place to ensure the technology is used responsibly. 
+"We are proud that it gives officers significant time back to police their communities."

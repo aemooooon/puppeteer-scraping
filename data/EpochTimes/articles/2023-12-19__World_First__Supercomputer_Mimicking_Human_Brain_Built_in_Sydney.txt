@@ -1,0 +1,20 @@
+A “world first” supercomputer that mimics the human brain is being built by researchers at Western Sydney University.
+The powerful machine is capable of “simulating networks of the scale of the human brain,” according to researchers.
+Known as DeepSouth, the machine uses a neuromorphic system that imitates biological processes.
+Hardware in the supercomputer imitates big networks of spiking neurons at 228 trillion synaptic operations per second, rivalling the pace of the brain.
+The researchers explained that by emulating the brain, they would be able to improve artificial intelligence processes compared with current models.
+“Simulating spiking neural networks on standard computers using graphics processing units (GPUs) and multicore central processing units is just too slow and power intensive. Our system will change that. This platform will progress our understanding of the brain and develop brain-scale computing applications in diverse fields including sensing, biomedical, robotics, space, and large-scale AI applications.”
+DeepSouth will be smaller than other supercomputers and will be able to process large amounts of data quickly, using a lot less power, the researchers said.
+“Super-fast, large scale parallel processing using far less power: Our brains are able to process the equivalent of an exaflop—a billion-billion (one followed by 18 zeros) mathematical operations per second—with just 20 watts of power,” a media release read.
+“The system is also scalable, allowing for the addition of more hardware to create a larger system or scaling down for smaller portable or more cost-effective applications.”
+Researchers are aiming to have the supercomputer up and running by April 2024.
+The scientists developed a mathematical model that matches how brains work when reading vision and contained all the necessary mechanisms to perform Bayesian inference.
+The study, published in Nature Communications, was a collaboration with researchers from the University of Queensland and University of Cambridge.
+Senior investigator Reuben Riddeaux said that despite the conceptual appeal and explanatory power of the Bayesian approach, how the brain calculates probabilities is largely mysterious.
+Global AI giant Nvidia Corporation and Amazon Web Services (AWS) recently announced a partnership on new supercomputing infrastructure for generative AI.
+AWS will offer the first cloud AI supercomputer with the NVIDIA Grace Hopper superchip and AWS ultra cluster scalability.
+The two companies are building on a longstanding partnership that has powered the generative AI era by providing the computer performance needed to advance the technologies.
+NVIDIA CEO Jensen Huang said generative AI is “transforming cloud workloads” and putting accelerated computing at the foundation of “diverse” content generation.
+“Driven by a common mission to deliver cost-effective state-of-the-art generative AI to every customer, NVIDIA and AWS are collaborating across the entire computing stack, spanning AI infrastructure, acceleration libraries, foundation models, to generative AI services,” Mr. Huang said.
+The supercomputer, known as Project Ceiba, will be integrated into AWS services including Amazon Virtual Private Cloud and Amazon Elastic Block Store high-performance block storage.
+Meanwhile, AWS CEO Adam Selipsky noted that the two companies have been working together for more than 13 years, starting with the world’s first GPU cloud.

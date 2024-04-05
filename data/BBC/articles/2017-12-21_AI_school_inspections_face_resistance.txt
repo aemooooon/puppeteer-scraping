@@ -1,0 +1,17 @@
+Plans to use algorithms to identify failing schools have been criticised by the National Association of Head Teachers.
+A data science unit, part-owned by the UK government, has been training algorithms to rate schools, using machine learning - a form of AI.
+It plans to work with England education watchdog Ofsted to help prioritise inspections.
+The NAHT said effective inspection of schools should not be based on data.
+"We need to move away from a data-led approach to school inspection," the union said in a statement.
+"It is important that the whole process is transparent and that schools can understand and learn from any assessment. 
+"Leaders and teachers need absolute confidence that the inspection system will treat teachers and leaders fairly."
+Social purpose company Behavioural Insights Team, part-owned by innovation charity Nesta, has laid out how the artificial intellgence system would work in a report.
+Lead author Michael Sanders told the BBC: "If it was put in the field, it would be used to prioritise which schools should be inspected, and we are hoping to work with Ofsted over the next 12 months to improve the algorithm and tailor it to suit that purpose."
+The data used to train the algorithm includes past Ofsted inspections, other data from schools and census information, all of which is publicly available.
+It also analysis responses about individual schools provided by parents via Ofsted's Parent View.
+The data produced by the algorithm will not be shared with schools and Mr Sanders said it would not be helpful to do so.
+"If we chased down the findings of the algorithms and offered five things that would make your school better, that would be disingenuous," he said.
+"Ofsted inspectors who do holistic inspections are in a much better place to provide advice."
+Currently the algorithms are designed purely as a tool to help Ofsted, but Mr Sanders acknowledged that there could be future applications.
+"Predictive grades for GCSEs are based on teachers' judgements, but there is research that suggests they aren't all that accurate," he said.
+"Using data to give a better picture might be a better way of helping young people in their education."

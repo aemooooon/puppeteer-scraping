@@ -1,0 +1,33 @@
+Streets have been eerily quiet in recent months as coronavirus lockdowns imposed by governments around the world hit the pause button on normal life.
+And while many people have missed the shops and cafes, many have also appreciated the temporary respite from noise, pollution and congestion.
+As cities start to wake up from the so-called anthropause, questions are being being asked about how we can improve them more permanently.
+And the assumptions we had about making our cities smart may also need a rethink.
+Robots and drones have certainly come into their own during the global lockdown. 
+The Boston Dynamics Spot robot has been used to help enforce social distancing in Singapore, while drone regulation has been fast-tracked in North Carolina to allow Zipline to deliver medical supplies to hospitals and telepresence robots have helped connect people in quarantine.
+Daniela Rus is head of the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology and her lab designed a disinfectant robot, which is being used to clean Boston's food bank. 
+She told the BBC that robots have made a "tremendous contribution" during the pandemic. "They have helped keep people out of harm's way and that is very powerful."
+In future, she sees them taking on a wider role in smart cities "helping with both physical and cognitive work".
+Cities already collect vast amounts of data via sensors embedded in infrastructure and even lamp posts, observing a range of metrics - from air quality and transport usage to the movement of people.
+And, for probably the first time, ordinary people became interested in this information - how many cars are entering city centres or how many people are gathering in parks was suddenly directly pertinent to their health and well-being.
+Prof Phil James measures what he calls the "heartbeat of Newcastle" from his urban observatory based at the city's university. He has seen incredible changes in the last few months.
+"They were dramatic, off-the-cliff-type changes. Pedestrian footfall fell by 95%, traffic fell to about 40% of normal levels with much reduced peaks."
+One of the most powerful things about this data was "the city council could see as national changes were announced how those changes were playing out in real-time in the city."
+"When garden centres opened we saw an increase in traffic as people went to buy potted plants."
+He hopes this data will be carried forward to make more permanent, post-pandemic changes, for "pressing problems" such as air pollution.
+"When there was 50% of traffic, then we saw a 25% drop in nitrogen dioxide (NO2) levels. Unfortunately it has not stayed with us because traffic is now back to 80% of the normal, so we are hitting those barriers again.
+"But as cities attempt to reduce carbon levels, the data helps understand the magnitude of these issues. Data should and can empower policy-makers and decision-makers."
+Post-pandemic cities need to also consider whether they want to make more permanent changes to transport, via electric vehicles and bikes, thinks Dr Robin North, who founded Immense, a firm that offers simulations of future cities.
+"There is a huge opportunity to redesign the transport system brought on by the pandemic and the response to it. If we want to take advantage of that we have to be able to plan and think ahead," he told the BBC.
+Some cities are already thinking about how they might change when the pandemic is over. Paris is experimenting with the idea of a 15-minute city - decentralised, mini-hubs where everything you need is within a 15-minute walk or bike ride. 
+The "ville du quart d'heure" is a key pillar of Mayor Anne Hidalgo's re-election campaign, turning Paris into a collection of ecologically transformed neighbourhoods.
+And in the wake of the success of home working during lockdown, firms are starting to question the need for big, expensive, centrally located offices.
+"The skyscraper's moment may be over. As a result of the pandemic, urban planners are going to have to rethink the idea of space," said Prof Richard Sennett, an urban planning expert who helped redesign New York City in the 1980s and who is currently chairman of the Council on Urban Initiatives at the United Nations.
+"What we have built now are fixed, immobile structures that only serve one purpose."
+What is needed, he explained, is more flexible buildings, ones that can adapt to the short-term need for greater social distancing but also, in future, to changing economics which might mean offices need to become retail outlets or even homes.
+For him the biggest lesson of the pandemic is that cities need to be sociable places. He says that, not just because he is missing having a beer in a city bar, but also because he has seen how technology has worked better when it is used to help people communicate.
+While track and trace apps have had mixed reviews and success, localised neighbourhood apps that keep people informed about rubbish collection times or enable them to help a sick neighbour have soared in popularity - what Prof Sennet calls a new era of "neighbours responsible to strangers".
+Sensors may be good at collecting city data but actually the smartphones people carry around with them are far more powerful, he thinks.
+"Using an app to create communication between people is incredibly useful. There has been a lot more use of social apps.
+"Sensors can't tell you why a crowd has gathered. We can replace the cop on the corner with a camera but what are we looking for?"
+In San Diego, there are suggestions that smart street lights were used to spy on Black Lives Matter protesters, raising civil liberties questions.
+And actually data is pretty dumb, said Prof James. "I can tell you how many pedestrians are wandering through Newcastle city centre but I can't tell you why they decided to do that today.

@@ -1,0 +1,20 @@
+Virginia has become one of the first places to outlaw the sharing of computer-generated pornography known as deepfakes.
+The US state has done so by amending an existing law which criminalised so-called revenge porn - the malicious sharing of explicit photos or videos without the victim's consent.
+It now makes clear that the category includes "falsely-created" material.
+The move coincides with a report critical of the UK's own laws.
+The study, published by Durham University and Kent University, highlighted that artificial intelligence software had made it much easier to create deepfakes and at the same time the imagery was becoming more difficult to identity as having been manipulated.
+"We must overhaul our out-of-date and piecemeal laws, including criminalising the paralysing and life-threatening impact of threats, and recognising the significant harms of fake porn," said one of the authors, Prof Clare McGlynn.
+The report said the lack of specific laws covering the issue in England, Wales and Northern Ireland meant the police were often only able to give an informal warning. However, it noted that the law in Scotland was better at covering cases involving altered imagery.
+Last month, the Ministry of Justice asked the Law Commission to review the issue in England and Wales. However, the independent body is not due to report back until the summer of 2021.
+"While I welcome the Government's recognition of the need for a comprehensive review of the law, we know that deepfake pornography is harming people right now and any delay means justice delayed," commented Prof McGlynn.
+Fake pornography had initially been dominated by "photoshopped" stills which had been created by hand.
+But last year, some developers applied machine learning techniques to the task, to make it relatively easy to create videos.
+To make a deepfake, the software involved needs to be fed photos of the subject taken from different angles. An algorithm then uses this information to replace the face of another person in a video with a computer-generated version of the target's, mimicking the original's expressions.
+After the phenomenon came to light, social media sites including Twitter and Reddit banned instances that featured pornography. However, some other less mainstream platforms still allow the material.
+Initial uses appeared to have been limited to creating deepfakes of movie stars and other celebrities, but it was not long before perpetrators began discussing using photos scraped from social media of other people.
+More recently another technique, dubbed DeepNudes emerged.
+This uses an algorithm which had been trained to take photos of clothed women, and output versions that picture them naked. 
+The app involved was pulled from sale last week, but cracked versions of the software are still circulating via online forums.
+Virginia's General Assembly passed a bill in March to update its earlier 2014 law to cover such technology, but it only came into effect this week.
+Those found guilty of the misdemeanour face up to a year in jail and a $2,500 (£1,980) fine.
+New York State Assembly has also filed a more far-reaching bill that would ban the creation of deepfaked pornography without the consent of the subject, even if they were dead.

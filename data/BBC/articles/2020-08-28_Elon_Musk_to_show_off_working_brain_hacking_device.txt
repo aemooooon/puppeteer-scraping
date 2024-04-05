@@ -1,0 +1,17 @@
+Elon Musk is due to demonstrate a working brain-to-machine interface as part of his ambitious plans to give people superhuman powers.
+His brain-hacking company, Neuralink, applied to start human trials last year.
+But Friday's demonstration will involve a robot and "neurons firing in real time", a series of tweets reveals.
+The interface could allow people with neurological conditions to control phones or computers with their mind.
+But the long-term ambition is to usher in an age of what Mr Musk calls "superhuman cognition".
+People need to merge with artificial intelligence, he says, in part to avoid a scenario where AI becomes so powerful it destroys the human race.
+Founded in 2017, Neuralink has worked hard to recruit scientists, something Mr Musk was still advertising for on Twitter last month.
+The device the company is developing consists of a tiny probe containing more than 3,000 electrodes attached to flexible threads thinner than a human hair, which can monitor the activity of 1,000 brain neurons.
+In its last update, more than a year ago, the company said it had carried out tests on a monkey that had been able to control a computer with its brain.
+It has also built a "neurosurgical robot" that it says can insert 192 electrodes into the brain every minute.
+University of Pittsburgh assistant professor of physical medicine and rehabilitation Jennifer Collinger described what Mr Musk was trying to do as "truly disruptive technology in a difficult space of medical technology".
+"Neuralink has significant resources and critically a team of scientists, engineers and clinicians working towards a common goal, which gives them a great chance of success," she said.
+But she added: "Even with these resources, medical-device development takes time and safety needs to be a top priority, so I suspect the process may take longer than they have stated as their goals."
+Ari Benjamin, at the University of Pennsylvania's Kording Lab, told BBC News the real stumbling block for the technology could be the sheer complexity of the human brain.
+"Once they have the recordings, Neuralink will need to decode them and will someday hit the barrier that is our lack of basic understanding of how the brain works, no matter how many neurons they record from. 
+"Decoding goals and movement plans is hard when you don't understand the neural code in which those things are communicated."
+Mr Musk's companies SpaceX and Tesla have captured the public imagination with his attempts to drive progress in spaceflight and electric vehicles respectively.

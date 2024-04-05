@@ -1,0 +1,20 @@
+Members of Congress left a high-profile, closed-door forum on artificial intelligence (AI) on Sept. 13 with little hope of crafting meaningful legislation to protect Americans in the next year.
+Senate Majority Leader Chuck Schumer (D-N.Y.) convened the closed hearing with a veritable who’s who of big tech’s rich and famous, including Microsoft founder Bill Gates, Meta CEO Mark Zuckerberg, X chairman Elon Musk, OpenAI CEO Sam Altman, and Alphabet CEO Sundar Pichai.
+The AI Insight Forum was designed to inform Congress as to how it can best move forward in setting safeguards for the development of AI, according to Mr. Schumer.
+However, many of those present claimed that the meeting presented little to no real progress on the development of legislation.
+Sen. John Kennedy (R-La.) noted that the forum heard from 30 speakers, each with only three minutes to talk. As to meaningful policy proposals, there wasn’t much to speak of, he said.
+“In terms of regulatory suggestions, I didn’t hear much,” he told The Epoch Times.
+“Do we have some sort of overarching regulatory framework that we’re close to agreeing on that addresses the dangers and the potential of artificial intelligence, in my judgment? No. We just don’t right now.”
+Mr. Kennedy said Congress has gone seven years without passing any meaningful bills to protect Americans’ privacy on social media or to move forward on antitrust legislation despite apparent bipartisan consensus.
+Asked if he believed that Congress could craft meaningful legislation to govern AI in the near future, his answer was a grim and simple, “No.”
+Leaving the forum, however, Sen. Josh Hawley (R-Mo.) said he doubted Mr. Schumer’s sincerity in seeking solutions to protect the U.S. public from AI.
+“It’s a little bit like with antitrust the last two years,” Mr. Hawley said. “He talks about it constantly and does nothing about it. You’ll see. My sense is [that] a big part of what this is a lot of song and dance that covers the fact that actually nothing is advancing.”
+He was referring to a series of vows made by Mr. Schumer over the course of a number of years to bring antitrust legislation to Congress in order to limit the scope of mammoth tech corporations. After postponing such legislation time and again, however, Mr. Schumer in January refused to bring the written legislation to the Senate floor, claiming that it wouldn’t receive enough votes to pass.
+Mr. Hawley also said the CEOs who were present claimed to be in favor of very vague regulations but would balk when presented with firm demands from the state.
+“I’m really worried that this is the same song, second verse,” he said.
+Lawmakers are grappling with how to mitigate the dangers of the emerging technology, which has experienced a boom in investment in recent years.
+Despite that concern, OpenAI’s Mr. Altman insisted that “the benefits of [AI] vastly outweigh the risks.”
+Woodrow Hartzog, a professor of law at Boston University, said “half measures” such as audits and controls that are implemented after AI systems have already been deployed are putting the safety of U.S. citizens at risk.
+“To bring AI within the rule of law, lawmakers must go beyond half measures to ensure that AI systems and the actors that deploy them are worthy of our trust,” Mr. Hartzog said during a Sept. 12 Senate Judiciary subcommittee hearing on the issue of AI regulation.
+To that end, he said, tech corporations are diluting consumer protection laws by fortifying their own preferred practices within a web of oversight rules and bureaucracy.
+Whatever the future of congressional AI regulation, Mr. Blumenthal told The Epoch Times that Congress shared in bipartisan support to address the issue.

@@ -1,0 +1,14 @@
+The federal government is under pressure over its slow response to bans on Tiktok in the United States, Canada, and the European Union.
+The shadow minister for Cybersecurity and Countering Foreign Interference, Senator James Paterson, says the Labor government has been “inconsistent and haphazard” in its approach to national security.
+According to an audit by the senator, 25 federal government departments in Australia have banned Tiktok from all workplace devices. However, another 12 have only partially banned the app, while 11 have no restrictions on it at all.
+“I’ve been calling on the Albanese government for eight months to do something about this after TikTok admitted to me in a letter in July last year that Australian user data is accessible in mainland China. Ever since then, I think there’s been a compelling case to act. Unfortunately, we haven’t seen any action from the government yet, but I hope that changes soon,” he said.
+Paterson also called on Home Affairs Minister Clare O'Neil to act as soon as possible.
+“We should not fall behind our friends and allies,” Paterson said.
+“We could have led the world like we did with Huawei in 2018, and our judgement on that issue has been backed by many other countries following us. But at the very least, we shouldn’t fall any further behind when it comes to government devices.”
+“We'll take the advice of our national security agencies,” he said, conceding no advice had been received so far.
+According to a memo to all federal agencies, IT vendors must ensure that within 90 days, no internet traffic goes though the Chinese-backed company’s app. Further, all new vendors have 120 days to ensure TikTok is removed from their devices.
+Tiktok has been controversial due to concerns about its ties with parent company ByteDance, based in Beijing.
+ByteDance, established in 2012, specialises in the development of artificial intelligence.
+Paterson noted that independent analysts like Australian cyber security firm Internet 2.0 have proven that TikTok collects vast information on its users, including their physical location.
+“TikTok on your phone checks your device’s location. It asks you for your contacts. It maps all the other applications installed on your phone. It checks the Wi-Fi networks you’ve logged into.
+“And if you use the in-app browser on TikTok to look at other websites, it has the power to record every single keystroke that you enter. That could include passwords to websites that could include your credit card information,” the senator said.

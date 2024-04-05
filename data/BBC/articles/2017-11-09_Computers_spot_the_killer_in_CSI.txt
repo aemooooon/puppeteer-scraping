@@ -1,0 +1,13 @@
+Computers have been trained to spot the fictional killer in episodes of a TV crime drama.
+Artificial intelligence (AI) machines watched episodes of CSI: Crime Scene Investigation and learned to identify the perpetrator.
+The study by Edinburgh University was aimed at training AI to solve problems that are challenging for humans.
+Researchers say such devices could tackle real-world tasks that need complex reasoning.
+The AI correctly identified the perpetrator during the final part of an episode 60% of the time. 
+The study found people who watched the same show were able to identify the killer 85% of the time.
+Dr Lea Frermann, one of the authors of the study, said: "Pinpointing the perpetrator in a TV show is a very difficult task for computers, but our model performed encouragingly well. 
+"We hope our findings will aid the development of machines that can take on board - and make sense of - large streams of information in real time."
+Scientists mapped footage, scripts and background sounds from five seasons of the show into a format the computers could read.
+The data was fed into a computer model that learned to process the plot as each episode unfolded, continually revising the criminal's identity.
+Dr Frermann added: "Although humans are significantly more accurate in identifying perpetrator mentions they are also more cautious in their suspicions. 
+"Our model suspects participants in the plot more eagerly, and starts predicting perpetrator mentions earlier on in the episode."
+The study was published in Transactions of the Association for Computational Linguistics. .

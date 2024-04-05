@@ -1,0 +1,21 @@
+LONDON—Four artificial intelligence experts have expressed concern after their work was cited in an open letter—co-signed by Elon Musk—demanding an urgent pause in research.
+The letter, dated March 22 and with more than 1,800 signatures by Friday, called for a six-month circuit-breaker in the development of systems “more powerful” than Microsoft-backed OpenAI’s new GPT-4, which can hold human-like conversation, compose songs, and summarize lengthy documents.
+Since GPT-4’s predecessor ChatGPT was released last year, rival companies have rushed to launch similar products.
+The open letter says AI systems with “human-competitive intelligence” pose profound risks to humanity, citing 12 pieces of research from experts including university academics as well as current and former employees of OpenAI, Google, and its subsidiary DeepMind.
+Civil society groups in the United States and EU have since pressed lawmakers to rein in OpenAI’s research. OpenAI did not immediately respond to requests for comment.
+Critics have accused the Future of Life Institute (FLI), the organization behind the letter which is primarily funded by the Musk Foundation, of prioritizing imagined apocalyptic scenarios over more immediate concerns about AI, such as alleged racist or sexist biases.
+Among the research cited was “On the Dangers of Stochastic Parrots,” a paper co-authored by Margaret Mitchell, who previously oversaw ethical AI research at Google.
+Mitchell, now chief ethical scientist at AI firm Hugging Face, criticized the letter, telling Reuters it was unclear what counted as “more powerful than GPT4.”
+“By treating a lot of questionable ideas as a given, the letter asserts a set of priorities and a narrative on AI that benefits the supporters of FLI,” she said. “Ignoring active harms right now is a privilege that some of us don’t have.”
+Mitchell and her co-authors—Timnit Gebru, Emily M. Bender, and Angelina McMillan-Major—subsequently published a response to the letter, accusing its authors of “fearmongering and AI hype.”
+“It is dangerous to distract ourselves with a fantasized AI-enabled utopia or apocalypse which promises either a ‘flourishing’ or ‘potentially catastrophic’ future,” they wrote.
+“Accountability properly lies not with the artefacts but with their builders.”
+FLI president Max Tegmark told Reuters the campaign was not an attempt to hinder OpenAI’s corporate advantage.
+She last year co-authored a research paper arguing the widespread use of AI already posed serious risks.
+Her research argued the present-day use of AI systems could influence decision-making in relation to climate change, nuclear war, and other existential threats.
+She said: “AI does not need to reach human-level intelligence to exacerbate those risks.
+“There are non-existential risks that are really, really important, but don’t receive the same kind of Hollywood-level attention.”
+Asked to comment on the criticism, FLI’s Tegmark said both short-term and long-term risks of AI should be taken seriously.
+“If we cite someone, it just means we claim they’re endorsing that sentence. It doesn’t mean they’re endorsing the letter, or we endorse everything they think,” he told Reuters.
+Dan Hendrycks, director of the California-based Center for AI Safety, who was also cited in the letter, stood by its contents, telling Reuters it was sensible to consider black swan events—those which appear unlikely, but would have devastating consequences.
+The open letter also warned that generative AI tools could be used to flood the internet with “propaganda and untruth.”

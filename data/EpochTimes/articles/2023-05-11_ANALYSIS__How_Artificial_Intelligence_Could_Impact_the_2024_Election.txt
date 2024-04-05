@@ -1,0 +1,52 @@
+New generations of artificial intelligence (AI), such as the AI powering the ChatGPT chatbot, will find a plethora of uses in political campaigns.
+“ChatGPT is going to save a lot of time for people, especially with repetitive tasks. But at least the current generation, I don’t think it’s a magic bullet,” summarized Colin Delany, a digital campaign consultant who runs Epolitics.com.
+ChatGPT has made waves as the first broadly accessible AI that gives users a feeling of flowing, natural conversation. It’s been praised for its robust capability to produce prose and computer code. Numerous other AI tools have recently hit the market, offering voice, image, and video generation.
+The breakneck pace of the industry’s progress has sparked concerns about how the technology could affect the democratic process, especially elections.
+“We’ve all seen the deep fake videos. We’ve all seen the deep fake images,” noted Democrat campaign strategist Henri Makembe.
+The key will be for campaigns to develop “a rapid response” to quickly debunk the fakes. However, having the debunk achieve the same level of virality as the fake may be challenging.
+A similar issue is spam. Social media could be inundated with bots that appear to have real profile images and post comments that seem natural.
+“There are going to be issues,” Makembe acknowledged. Still, he wasn’t extremely worried.
+“Just like there’s going to be AI-created text, there are AI bots to detect what AI-created text looks like,” he said.
+Teachers and professors have already been forced to use such tools to detect AI-generated essays their students try to pass as their own.
+“I think what we'll find is that as the industry grows and AI becomes more embedded in what we do, there’s going to be tools and counter tools for lack of a better word,” he said.
+Like with any technology, “there’s going to be some good actors, and there’s going to be some bad actors,” he said.
+Dangers posed by the technology need to be openly discussed, he suggested.
+“There should probably be some concerted effort to educate the folks in the industry about it and make sure that they’re doing the right thing,” he said.
+“There should be [...] some ethical guidelines around it—what we should not do with it. And there should be some transparency around it.”
+That may require some legal or regulatory measures.
+The experts, however, were skeptical about such a capability.
+“I don’t know that it has much to do with AI as much as it has to do with the data that you have on a specific voter,” Makembe said.
+AI-powered analysis of the breadth of personal data has been used for years to show the right ad to the right person—so-called microtargeting. But the effect has been far from absolute.
+“That’s exactly the kind of stuff that they used to say about [using personal] data [for] microtargeting with political ads. And it was hype, then. And it’s hype now,” said Delany, who ran digital campaigns for multiple Democratic candidates in 2020.
+“Most people tune most ads out. No matter how good the AI is at its targeting, people have developed countermeasures. They don’t watch.”
+Microtargeting is worth its money, but it works mostly on the margins, he argued.
+But there are major roadblocks to that.
+One major problem is that it would take immense manpower to humanly manage thousands or even millions of such individualized campaigns. Campaign operatives are unlikely to risk truly leaving the work up to the AI.
+“Based on my understanding of what the technology is right now, I don’t think something like that is realistic,” Makembe said.
+The obvious issue is that if a campaign is run by an AI “then it’s no longer your campaign,” he said.
+In his view, current AI bots aren’t capable of figuring out the context of a political issue.
+“The AI does not understand the different players in the community. They don’t understand that the pothole down the street is actually more important, and it’s going to be a more effective campaign issue than talking about reproductive justice if you’re running for a school board,” he said.
+The AI could repel people, Delany noted.
+“The problem is that ChatGPT makes things up. You have to check everything it turns out,” he said, alluding to instances when the chatbot made obviously false claims. ChatGPT developer, OpenAI, has been working on fixing those issues, and some users have reported significant improvements already.
+Even small mistakes, however, can be detrimental, according to Delany, who pointed to clumsy attempts at personalization already in use.
+“I get emails from groups that have my name completely wrong. And that kind of personalization doesn’t help,” he said.
+Both experts were sure to add the caveat that they’re only talking about the technology as is.
+“This is a current generation, right?” Delany said. “Five years from now. All bets are off. Who knows what’s going to happen?”
+Makembe made the timeframe even shorter.
+It could be used to figure out ways to make content more attractive to internet search engines—search engine optimization (SEO).
+“Organic search has become more and more difficult. So I think having an AI tool help you with SEO would be great,” Makembe said.
+It could also help the “blank page issue,” he said.
+“When you’re producing tons of content, sometimes you run out of ideas, so using an AI platform to kind of help brainstorm new ideas or anything like that, I think, would be a good use of the technology.”
+Delany noted that the Democratic National Committee has already encouraged the party to experiment with the technology.
+“They have a bunch of people who write fundraising emails, but the AI might come up with something they hadn’t thought of,” he said.
+“It lets them create more content to test. And sometimes, the versions that the AI puts out do really well. Sometimes it'll be better than some of the messages that people created.”
+The AI could also help campaign operatives to break out of their own biases, Makembe opined.
+“What ChatGPT is very good at is just acknowledging what you’ve said and repeating it to you the way you said it and first saying, ‘Did I get that right,’” he said. “And by doing that, it helps you actually think about, ‘Did I ask the right question? Did I try and really get to the bottom of this, or am I just kind of baking my biases in the way I perceive or ask the question?’”
+He used the abortion issue as an example.
+“You say, ‘[...] I am a pro-choice voter, I believe in reproductive justice.’ All of my framing is about how there should be more access about it,” he said. “But is that actually what the community is saying? Is that actually what the community wants? Are there other ways to ask that question to get that message through?”
+AI could also help with some management tasks. It could, for example, break up a master file of voter addresses into lists and routes for door-to-door teams.
+A lot of such “boring and repetitive” tasks could likely be automated, Delany said.
+“If the AI can do it for you, then you can go do the higher-level work.”
+In his view, that seems to be the general sentiment in the industry.
+“The most of what I’m hearing is this kind of practical, ‘It’s going to save me an hour here and two hours there,’” he said.
+Increasing productivity could have the side effects of depressing demand for labor. But Makembe wasn’t particularly concerned about unemployment in the industry.

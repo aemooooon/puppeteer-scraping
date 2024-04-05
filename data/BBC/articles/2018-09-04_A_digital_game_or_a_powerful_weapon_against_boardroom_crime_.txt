@@ -1,0 +1,31 @@
+Artificial intelligence is being hailed as a powerful new tool for investigators in the most complex crimes. The Serious Fraud Office has given BBC News exclusive access to see the system it has been using.  
+In the boardroom at the Serious Fraud Office, an investigator is pointing to a giant computer screen that shows a pattern of green and blue dots.
+As the investigator moves his mouse, the dots bounce around as if on elastic.
+It looks like some kind of digital children's game. In fact, it's serious stuff.
+This is a visual representation of the links between two people involved in a complex fraud inquiry.  It shows the emails they sent and received and the people copied in.  
+It also depicts messages to which no-one was copied in.
+The details in the example aren't from a "live" investigation but from the Enron corporate fraud case. It's being used to train SFO staff how to use the system, OpenText Axcelerate, which has the latest machine-learning technology built in.
+"Just click a couple of buttons and it takes me directly to what I'm interested to see, to pursue a line of inquiry or to close that line of inquiry, or something I'd like to put to a suspect," says Edgar Pacevicius, one of the SFO's investigators.
+The advantage of this intelligent computer is that it can highlight connections between individuals far more quickly than the human eye. 
+It can also group together documents with a similar content and identify particular phrases and forms of words that may have a significant meaning.
+"We normally see a lot of euphemisms - there's a lot of potential deception about the way people do corrupt activity," Mr Pacevicius says. 
+"What we're trying to achieve is to find an intelligent technological solution that will allow us to not only identify those phrases but everyone involved." 
+Axcelerate was introduced in the SFO in March and is currently being used on three active investigations. Eventually, it'll be deployed on all the work undertaken by the agency, which handles the most serious and complex cases of fraud, bribery and corruption in England, Wales and Northern Ireland.
+In a speech on Monday, Lisa Osofsky, the recently appointed director of the agency, said the technology was "essential" and should help the SFO reach charging decisions sooner and shorten how long it took to bring cases to trial. 
+Alongside it is another relatively new AI system, RAVN, which does the work of a barrister - only 2,000 times faster.  
+RAVN weeds out legally privileged material, which the SFO isn't allowed to look at during an inquiry, from the vast mass of admissible files.
+It was first used on the agency's bribery and corruption investigation into Rolls-Royce, which last year resulted in the British engineering giant having to pay £671m to the British and US authorities to settle.
+During the four-year investigation, the SFO had 30 million documents to examine.
+"You can find the hot documents faster," says Ben Denison, SFO chief technology officer.  
+"A barrister can review about 300 documents a day from the point of view of legal professional privilege.
+"At its fastest rate the computer was going through 600,000 a day, so it is a massive difference." 
+AI technology is also being used by other law enforcement agencies - to trawl through CCTV footage.
+The technology company SeeQuestor has developed a high-speed system of matching faces from multiple cameras to pick out suspects, victims and witnesses and trace their movements. 
+It was used in Australia to help solve the murder in Queensland of 12-year-old Tiahleigh Palmer.   
+Police had 21,000 hours of CCTV material to look through. With SeeQuestor, two detectives were able to do it in four days.
+In the UK, the company says, its technology has helped in six cases, including three murders, one rape and the disappearance of airman Corrie McKeague after a night out in Bury St Edmunds in September 2016. More than 2,000 hours of video were examined in the hunt for the missing 23-year-old before police concluded he had probably been taken away in a bin lorry. 
+It's understood SeeQuestor has also made approaches to assist with the investigation into the poisoning in Salisbury, Wilts, of the former Russian military officer Sergei Skripal and his daughter, Yulia.
+"SeeQuestor recognises that hard-pressed teams need to approach novel technologies with a degree of caution. But we have engaged with the CT [counter-terrorism] professionals and are presenting our case," says Tristram Riley-Smith, founder and chairman of the company. 
+In fact, "caution" appears to be the watchword when it comes to AI.  
+Very few law enforcement agencies have embraced the use of smart computers, despite the apparent benefits, amid concern about civil liberties, error rates and the potential for miscarriages of justice. 
+So is Camilla de Silva, head of bribery and corruption at the SFO, worried about machines making mistakes?

@@ -1,0 +1,17 @@
+As shoplifting continues to surge across the nation, artificial intelligence (AI) innovations are providing retailers with hope that America’s theft binge will soon be a relic of the past.
+Read Hayes, a criminologist and director of the Loss Prevention Research Council, told The Epoch Times that the next steps in anti-theft AI technologies have already arrived, and in some cases, are being employed.
+“AI models have advanced to the point where they are now able to pick up on specific concealment behaviors,” said Mr. Hayes. “Are people reaching up and selecting items or engaged in rapid downward movements? All are being worked on and in some cases already being implemented.”
+“I imagine that in a short time, many of these technologies will begin to spread even further,” added Mr. Hayes.
+The race for improved theft deterrence has become urgent for retailers. Shoplifting has skyrocketed in recent years, costing businesses in the United States billions of dollars.
+The trend is clear. In 2018, retailers endured an estimated $50.6 billion in shrinkage, which rose to $61.7 billion in 2019. The 2022 numbers are expected to exceed $100 billion.
+Consequently, many retailers have gone out of business, contributing to a loss of jobs, while paying customers endure rising prices as stores have to compensate for their losses.
+Among the companies at the cutting edge is Veesion, a Paris-based firm that claims to have developed an AI-based technology that uses a store’s existing surveillance infrastructure. The system deploys analytics based on suspicious movements to catch shoplifters in the act.
+Self-service checkouts have become another vulnerability for merchants, according to Fredrik Carlegren, vice president and head of marketing & communications at Toshiba Global Commerce Solutions.
+“AI-powered technology can support loss prevention strategies and slow the instances of retail theft tied to self-service through enhanced produce recognition, checkout behavior monitoring, and biometrics,” Carlegren told The Epoch Times.
+New technology would prevent incorrect SKU codes from being entered, one of the most common causes of shrinkage, Mr. Carlegren added.
+Meanwhile, several big chain stores have voiced concerns over employee safety in creating situations that expose employees and customers to potentially violent or aggressive perpetrators.
+However, all sides agree that the current rate of theft is unsustainable and that if the nation is to return to a vibrant economy, the lawlessness has to end.
+Mr. Hayes says that while the AI being implemented today can’t prevent someone from stealing, it can be a valuable tool in alerting retailers to potential theft—or at the very least, alert them to take action that might serve as a deterrent.
+“What AI is pretty good at is picking up a signal out of the noise,” said Mr. Hayes. “If a vehicle is entering the parking lot that has been used in a previous crime, a computer in the parking lot may alert an asset manager who can then take the proper precautions.”
+However, AI technology, no matter how advanced, is only as good as the consequences that follow, according to Mr. Hayes.
+“While helpful, this technology is unfortunately never going to be a silver bullet, at least anytime soon,” said Mr. Hayes.  “You can have the best AI available, but if no one is working behind the camera to enforce it, none of it will matter.”

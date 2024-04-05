@@ -1,0 +1,5 @@
+A House of Commons committee is calling for a moratorium on the use of facial recognition technology by federal police and Canadian businesses unless there is court authorization or input from the privacy watchdog.
+In a report tabled today, the committee on access to information, privacy and ethics also urges the government to develop a regulatory framework concerning uses, prohibitions, oversight and privacy of the emerging tool.
+Facial recognition technology can allow an image of a person’s face to be matched against a database of photos with the aim of identifying the individual.
+The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives, as well as a comprehensive strategy around informed consent by Canadians for the use of their private information.
+They also want the government to amend the private-sector privacy law to prohibit capturing images of Canadians from the internet or public spaces for the purpose of populating facial recognition technology databases or artificial intelligence algorithms.

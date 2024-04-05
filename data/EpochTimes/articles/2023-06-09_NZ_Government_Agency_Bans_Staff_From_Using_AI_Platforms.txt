@@ -1,0 +1,9 @@
+In what appears to be a world first, a government agency in New Zealand has banned employees from using AI technology over data and privacy concerns.
+AI-powered chatbots trawl through information online, which they will then process to “generate” a response based on whatever prompts it is given by a user. AI programs can now generate answers to questions, poetry, coding, and even musical composition.
+Minister for Industry and Science Ed Husic said that despite AI now being a prevalent part of people’s lives, there was a demand for some sort of regulation from the community.
+“The Albanese government wants to basically set up the next reforms that can give people confidence that we’re curbing the risks, maximising the benefits, and giving people that, as I said, that assurance that the technology is working for us and not the other way around,” Husic told ABC radio on June 1.
+In New Zealand, the government’s chief digital officer at the Department of Internal Affairs was also working on guidance for agencies.
+While in Canada, the country’s privacy watchdog has launched its own investigation into ChatGPT.
+“We need to keep up with—and stay ahead of—fast-moving technological advances, and that is one of my key focus areas as commissioner.”
+“When searching in Gmail, machine learning models will use the search term, most recent emails, and other relevant factors to show you the results that best match your search query. These results will now appear at the top of the list in a dedicated section, followed by all results sorted by recency.”
+“I’m assuming that’s flat-out wrong; otherwise, Google is crossing some serious legal boundaries,” Crawford said at the time.

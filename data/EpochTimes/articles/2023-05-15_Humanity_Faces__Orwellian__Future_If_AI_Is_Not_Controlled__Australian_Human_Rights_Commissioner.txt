@@ -1,0 +1,16 @@
+It will be more and more difficult to tell fact from fiction as artificial intelligence (AI) becomes commonplace in the future, warns Australia’s Human Rights Commissioner Lorraine Finlay.
+Finlay said that the rise of AI platforms like ChatGPT and Google’s Bard would be welcomed by those with “Orwellian tendencies.”
+“If the Ministry of Truth existed today, a more accurate slogan would be ‘Who controls the AI controls the past, the present, and the future,’” she continued.
+“It will now be easier than ever to use generative AI cheaply and efficiently to run disinformation campaigns both domestically and abroad. There are numerous recent examples that highlight the growing threat posed by deep fakes and disinformation created and spread using generative AI tools.”
+AI Chatbots work by using available content online and “training” themselves in how to sequence and compose original sentences, articles, and even poetry in response to prompts from users (humans)—other AI platforms can also “create” music and art.
+“The AIs will get to that ability to be as good a tutor as any human ever could,” Gates told the ASU+GSV Summit in San Diego on April 18.
+“We have enough sample sets of those things being done well that the training can be done,” he added. “So, I’d say that is a very worthwhile milestone, is to engage in a dialogue where you’re helping to understand what they’re missing. And we’re not that far.”
+Yet there are concerns over the propensity of Chatbots to portray incorrect information as fact.
+“Even knowing whether we are interacting with a human or a machine may become challenging,” Finlay added. “This can have real consequences for fundamental human rights. Most immediately, it threatens our freedoms of expression and thought.”
+“With many proponents of generative AI alluding to it being the next generation of search engines, there are real concerns around responses being politically biased, peddling false information, or having censorship and disinformation built into them.”
+“We need to develop, deploy and use generative AI technology in responsible and ethical ways. Fundamental rights and freedoms must be protected at all stages of a product’s lifespan, from concept and design through to sale and use,” she said but warned many governments and companies were not considering this at all.
+Finlay’s concerns echo that of tech entrepreneur and co-founder of Open AI, Elon Musk, who revealed he had a falling out with Google founder Larry Page over their views regarding AI and its relationship with human beings.
+“At least my perception was that Larry was not taking AI safety seriously enough,” he alleged. “He really seemed to want digital superintelligence, basically digital god, as soon as possible.”
+“Then he called me a speciesist.”
+Musk also said he was concerned that the AI field is now concentrated in the hands of three tech giants, Google, Meta (formerly Facebook), and Microsoft.
+The Tesla founder said that while he was “late to the game,” he would try to create a “maximum truth-seeking AI trained to care about humanity and be ideologically neutral and seek to understand the universe’s nature.”

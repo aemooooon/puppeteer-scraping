@@ -1,0 +1,15 @@
+Nvidia’s stock surged 24 percent on Thursday after the chipmaker forecast a huge jump in revenue, boosting its market value close to $1 trillion.
+Nvidia CEO Jensen Huang said the company was seeing “surging demand” for its data center products amid the rise of accelerated computing and generative AI, according to its May 24 press release.
+The surge more than doubled the stock’s value for this year and increased the company’s market capitalization by about $184 billion to nearly $939 billion.
+That makes Nvidia twice as big as the second-largest chip firm, Taiwan’s TSMC. The upbeat earnings also sparked a rally in the chip sector and for AI-focused firms.
+On Wednesday, the maker of graphics chips for gaming and artificial intelligence reported a quarterly profit of more than $2 billion and revenue of $7 billion, both exceeding Wall Street expectations.
+Its projections for sales of $11 billion this quarter is a 64 percent jump from last year during the same period, and above the $7.2 billion industry analysts were forecasting. The company said it would have more supply of AI chips in the second half to meet a surge in demand.
+Nvidia said that performance was driven by demand for its GPU chips from cloud vendors as well as large consumer internet companies, which use Nvidia chips to train and deploy generative AI applications.
+“It looks like the new gold rush is upon us, and NVIDIA is selling all the picks and shovels,” Susquehanna Financial Group’s Christopher Rolland and Matt Myers wrote Thursday.
+Nvidia’s strong performance in data centers shows that AI chips are becoming increasingly important for cloud providers and other companies that run large numbers of servers.
+“In the 15+ years we have been doing this job, we have never seen a guide like the one Nvidia just put up with the second-quarter outlook that was by all accounts cosmological, and which annihilated expectations,” Stacy Rasgon of Bernstein said.
+The results bode well for Big Tech companies, which have shifted focus to AI in hopes the technology would help attract demand at a time their profit engines of digital advertising and cloud computing are under pressure from a weak economy.
+Some analysts said Nvidia’s results show that the generative AI boom could be the next big driver of growth.
+“We’re really just seeing the tip of the iceberg. This really could be another inflection point in technological history, such as the internal combustion engine—or the internet,” said Derren Nathan, head of equity analysis at Hargreaves Lansdown.
+Nvidia CEO Jensen Huang said $1 trillion worth of current equipment in data centers would have to be replaced with AI chips, as generative AI is applied to every product and service.
+AI chips are designed to perform artificial intelligence tasks faster and more efficiently. While general-purpose chips like CPUs can also be used for simpler AI tasks, they’re “becoming less and less useful as AI advances,” a 2020 report from Georgetown University’s Center for Security and Emerging Technology notes.

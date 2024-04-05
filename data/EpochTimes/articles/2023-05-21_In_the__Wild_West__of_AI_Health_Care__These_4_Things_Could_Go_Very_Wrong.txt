@@ -1,0 +1,20 @@
+Artificial intelligence (AI) is making headlines, and the reviews are mixed.
+These models include Stable Diffusion, Whisper, DALL-E 2, and the ubiquitous ChatGPT. The area with the most investment? Health care.
+Lung cancer is the deadliest cancer in the world “because it’s relatively common and relatively hard to treat, especially once it has reached an advanced stage,” stated Dr. Florian Fintelmann, a radiologist physician-scientist at MGH, associate professor of radiology at Harvard Medical School, and part of the research team. Fintelmann noted that the five-year survival rate is 70 percent for early detection but drops to 10 percent for advanced detection.
+Three-quarters of these are in medical imaging, and another 56 are cardiology-related applications.
+If the guidance is approved, developers can update AI devices without submitting a new application to the FDA.
+The researchers began with 25,331 training images from two datasets—one from Vienna and the other from Barcelona—including eight skin diseases. Then, they added images—from Turkey, New Zealand, Sweden, and Argentina—that had not been used in the training data and included additional skin diseases.
+AI misclassified nearly half (47.1 percent) of the images from outside the training datasets. According to the researchers, this would “lead to a substantial number of unnecessary biopsies if current state-of-the-art AI technologies were clinically deployed.”
+“Experienced radiologists, those with more than 15 years of experience on average, saw their accuracy fall from 82 percent to 45.5 percent when the purported AI suggested the incorrect category,” the study authors wrote.
+Because machine learning can teach itself, some of what’s happening inside the black box remains mysterious, even to AI’s creators.
+In AI, accuracy is everything. The prevailing idea is that to achieve this accuracy, AI must be complicated and uninterpretable. However, scientists are beginning to challenge that notion.
+Furthermore, the authors wrote, “When scientists understand what they are doing when they build models, they can produce AI systems that are better able to serve the humans who rely upon them.”
+Because of its opacity, the black box also contributes to distrust.
+The white paper authors refer to “explainable AI” as an important aspect of AI adoption, calling for developers to move from “black box” models to “glass box” models.
+And those data come from you and me.
+If you use a health app online or wear a “smart” device, your fitness tracker may be keeping track of every step you take and transmitting that information to a company that bundles and sells it.
+If you check the local weather on a smartphone, chances are you have turned on your phone’s location tracking. Did you know that the app tracks everywhere you go and how much time you spend there and can infer from those data what religion you practice, whether or not you vote, and even your age?
+What about medical data? Most Americans are familiar with the Health Insurance Portability and Accountability Act (HIPAA), which protects our privacy related to health information.
+However, there are gaps in HIPAA. “Numerous apps and websites outside the scope of HIPAA’s narrow ‘covered entities’ are entirely free to legally collect, aggregate, and sell, license, and share Americans’ health information on the open market,” Justin Sherman, senior fellow and research lead at Duke University Sanford School of Public Policy’s data brokerage project, stated in his written testimony to the U.S. House Committee on Energy and Commerce.
+“What drives this technology, whether you’re a surgeon or an obstetrician, is data,” said Dr. Matthew Lungren, co-director of Stanford’s Center for Artificial Intelligence in Medicine and Imaging and an assistant professor of radiology at Stanford, in an article on Stanford’s Institute for Human-Centered AI website.
+“We want to double down on the idea that medical data is a public good and that it should be open to the talents of researchers anywhere in the world.”

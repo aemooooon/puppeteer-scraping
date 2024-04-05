@@ -1,0 +1,23 @@
+Google has confirmed that it is allowing the Pentagon to use some of its image recognition technologies as part of a military project.
+The disclosure follows a report by Gizmodo, which said the artificial intelligence tech was being used to analyse drone footage.
+The news site said that many of the search giant's workers only learned of the collaboration last week via internal emails.
+It added that some were "outraged".
+A spokeswoman for Google said that the tie-up involved the provision of software tools to let the US Department of Defense (DoD) make use of its TensorFlow machine learning code.
+"The technology flags images for human review, and is for non-offensive uses only," she added.
+"Military use of machine learning naturally raises valid concerns. 
+"We're actively discussing this important topic internally and with others as we continue to develop policies and safeguards around the development and use of our machine learning technologies."
+Although Google's former chairman Eric Schmidt became an advisor to the Pentagon in 2016, the firm has otherwise been cautious about being linked to the US military.
+It previously pulled one of its robots from a Pentagon-organised competition, despite it being the favourite to win, in part because of such concerns.
+Gizmodo identified the drone initiative involved as being Project Maven - a scheme announced last July to use computer algorithms to identify objects of concern from "massive amounts of moving or still imagery".
+The idea is to focus human efforts on sections of footage flagged for further analysis and avoid them having them having to wade through all the other hours of recorded material.
+The DoD said that its immediate focus would be 38 classes of objects related to the fight against the Islamic State group in Iraq and Syria.
+"There is no 'black box' that delivers the AI system the government needs, at least not now," said Colonel Drew Cukor at the time.
+"The only way to do that is with commercial partners alongside us."
+Google declined to discuss its involvement further.
+But the BBC understands that the algorithms it has shared were not designed for face detection, but were instead developed to identify generic objects including cars, birds and trees. It is believed that they are not being used to fly or otherwise operate the drones themselves.
+Google is not the only US firm to be involved.
+Chip-maker Nvidia has previously blogged about Project Maven and is also understood to be working with the DoD on the effort.
+One expert said the relatively cheap cost of operating drones such as the MQ-1 Predator and MQ-9 Reaper had led to a glut of video material.
+"The vast quantities of data produced by the US Air Force and CIA - as well as allies like the UK who operate these [drones] in conflict zones like Iraq and Afghanistan - have long outstripped the processing and exploitation capacity of the traditional human-centric intelligence processing organisations within these countries," commented Justin Bronk, a research fellow at the Royal United Services Institute think tank.
+"As a leading developer of AI technology, Google is an obvious choice for the DoD to partner with, albeit one whose employees and shareholders might be less than 100% enthusiastic about the prospect of working with the military."
+Mr Bronk added that the UK's Royal Air Force had an even more acute shortage of imagery intelligence analysts, and would probably wish to share access to Google's AI tech if that became possible.

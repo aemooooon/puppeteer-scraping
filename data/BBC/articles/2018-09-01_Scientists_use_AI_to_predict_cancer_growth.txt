@@ -1,0 +1,20 @@
+Scientists have used artificial intelligence to predict how cancers will progress and evolve.
+This could help doctors design the most effective treatment for each patient.
+A team led by the Institute of Cancer Research London (ICR) and the University of Edinburgh developed a new technique known as Revolver (Repeated Evolution of Cancer).
+This picks out patterns in DNA mutation within cancers and uses the information to forecast future genetic changes.
+The researchers said the ever-changing nature of tumours was one of the biggest challenges in treating cancer - with cancers often evolving to a drug-resistant form.
+However, if doctors can predict how a tumour will evolve, they could intervene earlier to stop cancer in its tracks before it has had a chance to evolve or develop resistance, increasing the patient's chances of survival.
+The team also found a link between certain sequences of repeated tumour mutations and survival outcome.
+This suggests that repeating patterns of DNA mutations could be used as an indicator of prognosis, helping to shape future treatment.
+For example, researchers found that breast tumours which had a sequence of errors in the genetic material that codes for the tumour-suppressing protein p53, followed by mutations in chromosome 8, survived less time than those with other similar trajectories of genetic changes.
+The research team developed a new machine learning technique which transfers knowledge about tumours across similar patients.
+This method identifies patterns in the order that genetic mutations occur in tumours that are repeated both within and between patients' tumours, applying one tumour's pattern of mutations to predict another's.
+Researchers used 768 tumour samples from 178 patients reported in previous studies for lung, breast, kidney and bowel cancer, and analysed the data within each cancer type respectively to accurately detect and compare changes in each tumour.
+By identifying repeating patterns and combining this with current knowledge of cancer biology and evolution, scientists could predict the future trajectory of tumour development.
+If tumours with certain patterns are found to develop resistance to a particular treatment, this novel methodology could be used to predict if patients will develop resistance in the future.
+The research is published in the journal Nature Methods.
+Dr Andrea Sottoriva, who led the study and is team leader in evolutionary genomics and modelling at the ICR, said: "We've developed a powerful artificial intelligence tool which can make predictions about the future steps in the evolution of tumours based on certain patterns of mutation that have so far remained hidden within complex data sets.
+"With this tool we hope to remove one of cancer's trump cards - the fact that it evolves unpredictably, without us knowing what is going to happen next.
+"By giving us a peek into the future, we could potentially use this AI tool to intervene at an earlier stage, predicting cancer's next move."
+ICR chief executive Professor Paul Workman said: "Cancer evolution is the biggest challenge we face in creating treatments that will work more effectively for patients.
+"If we are able to predict how a tumour will evolve, the treatment could be altered before adaptation and drug resistance ever occur, putting us one step ahead of the cancer.

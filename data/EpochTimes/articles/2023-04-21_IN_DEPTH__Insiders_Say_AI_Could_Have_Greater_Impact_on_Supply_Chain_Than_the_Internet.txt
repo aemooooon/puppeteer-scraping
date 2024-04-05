@@ -1,0 +1,32 @@
+As the debate continues over artificial intelligence’s role in the digital world, the supply chain management industry is wasting no time jumping on board.
+For those in the business, AI integration can’t happen soon enough. Some U.S.–based supply chain management experts say AI will have an even more “profound” impact on the industry than the internet.
+In the same report, almost 50 percent of businesses believe AI could disrupt the global supply chain.
+For many, the mere mention of supply chain issues is stressful.
+Congested ports and delayed shipments of everything from food to gas resulting from the COVID-19 pandemic and then Russia’s war in Ukraine, created commodity inflation and shortages for millions.
+Major global events are largely to blame for recent supply chain breaks, but industry insiders say underlying rot in the infrastructure was already creating problems.
+“Disruption, from our perspective, is a good thing. The supply chain needs to get better. Old outdated business models aren’t the way to go about it,” Amit Hasak, CEO and founder of Transship told The Epoch Times.
+For Hasak, modernizing supply chains is a necessity.
+His Chicago-based supply chain management company has already seen the extent of how much upgrading needs to happen to create more efficient companies and resilient networks.
+And he says AI has a major role to play in this.
+When bringing big tech into the supply chain, Hasak believes it will be a bandwagon effect. “AI is the ‘it girl’ right now. This is not going to take decades to happen. It will happen fairly quickly.”
+However, some serious changes must be addressed first. He noted many supply chain management platforms need to become more automated rather than remaining manual operations. This applies to every corner of the industry, from logistics to shipping and inventory.
+Ayala is a high-tech pioneer and CEO of the AI consultancy company, Gradient Insight. He says AI-powered systems can help companies anticipate demand and adjust inventory levels, effectively minimizing the risk of stockouts and overstocking.
+“As with any innovation, the key to successful implementation of AI technology lies in understanding its capabilities and limitations,” Ayala said.
+Transship’s CTO, Abhishek Iyer, agrees with this sentiment, saying, “It can help us make better decisions.”
+Iyer said AI helps in the decision-making process before making final choices regarding service and shipping. It can predict situations like market and traffic conditions while handling logistics in real time.
+“It’s about you being informed and getting AI into your daily lives.”
+He added significant data collection is a critical part of the AI integration strategy for all parts of the supply chain, including at Transship.
+Despite its potential and the supply chain management industry’s eagerness, Ayala says users should be prepared to handle AI’s potential challenges.
+In recent weeks, the discussion has circled back to the possibility of AI threatening human autonomy in the not-too-distant future.
+But in supply chain management, the immediate risks involve protecting data.
+Two of the biggest data breaches of all time occurred in 2019, both involving AI. This included exposing 885 million First American financial records on public servers.
+“One potential risk is the possibility of cyber-attacks on AI-powered systems, which could disrupt the supply chain and result in significant financial losses,” Ayala said.
+“To address these concerns, companies should prioritize investing in robust security measures and training their employees on best practices for data management.”
+Rising to the challenge, some companies have recognized AI’s security risks and are meeting them head-on.
+But data protection aside, Iyer says humans must remain involved with the decision-making process as AI use continues to grow and evolve.
+“So long as the choices are left to humans, everything will be OK,” Iyer said, adding, ”If AI is helping you make better decisions, it’s being implemented and used right.”
+For many, the benefits far outweigh the security concerns, which advocates say are part of the growing pains of any new technological leap.
+“By leveraging the power of AI, companies can achieve greater efficiency [and] optimize their operations,” Ayala said.
+D'Souza noted AI creates transparency in the “deep tiers” of the supply chain. This allows companies to respond more quickly to disruptive challenges like wars, natural disasters, and pandemics.
+But while many consider the cost-benefit ratio of using AI, the train has already left the station.
+Plans for AI to expand within supply chain management are optimistic, but Hasak says there’s still a lot of modernization to be done first.

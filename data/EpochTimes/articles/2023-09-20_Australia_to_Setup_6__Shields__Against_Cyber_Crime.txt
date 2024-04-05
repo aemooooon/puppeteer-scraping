@@ -1,0 +1,12 @@
+A year after the Optus data breach, efforts are underway to establish cybersecurity standards, with the federal government highlighting the role of companies and developers in protecting Australians online.
+Ms. O'Neil said the first shield was to have Australians understand cyber threats so they’re better able to protect themselves and have support in place to help affected businesses bounce back after an attack by 2030.
+The second shield was safer digital technology, with the minister pointing to similar laws overseas for apps and programs to have built-in protections rather than leaving it to the consumer.
+Other layers include world-class threat sharing and blocking, protecting access to critical infrastructure, ensuring Australia maintains sovereignty over cyber capabilities and better coordination of global action.
+The plan is set to be implemented in two-year blocks, with strong foundations built up until 2025, before incrementally working towards standing up the six shields by the end of the decade.
+The government’s response follows several high-profile data breaches. In Sep. 2022, Optus reported a data theft affecting over 9 million customers, marking Australia’s largest cyberattack at the time.
+Just three weeks later, Medibank suffered a data breach, impacting fewer Australians but exposing sensitive health information on the dark web.
+In a recent statement, Ms. O'Neill said that foreign interference has now surpassed terrorism as a more significant domestic threat, with cybercrime a key tool used by nations committing these nefarious activities.
+Concerns have arisen over authoritarian foreign governments attacking Australian citizens through cybercrime, with cybersecurity experts highlighting four prominent actors: China, Russia, North Korea, and Iran.
+Regarding Iran, it has been reported that operatives have invested in sophisticated cyber hacking tools and formed groups of cyber operatives dedicated to advancing their strategic objectives and strengthening the regime’s control.
+It is also understood that Iran is meddling in Australian democracy by using cyber methods to harass, exert influence over, and intimidate migrants or individuals seen as dissidents.
+Around 27 percent of respondents experienced online abuse and harassment, 22 percent were victims of malware attacks, 20 percent encountered identity crime and misuse, and eight percent fell victim to fraud and scams.

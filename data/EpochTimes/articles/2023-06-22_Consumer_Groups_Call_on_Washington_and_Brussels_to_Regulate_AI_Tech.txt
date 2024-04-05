@@ -1,0 +1,22 @@
+A coalition of consumer advocacy groups in the European Union and the United States called on their governments to develop regulations for generative artificial intelligence (AI) technology.
+These groups are concerned about AI tech that power tools like ChatGPT are developing so quickly that consumers’ rights may be grievously harmed if state regulators fail to get involved.
+The Transatlantic Consumer Dialogue (TACD), a coalition of consumer groups in the EU and North America, sent letters on June 21, to government leaders, out of concern that the rapid development and adoption of generative AI is rapidly outpacing legislative and regulatory action and could leave “leave consumers unprotected in the meantime.”
+They also called for a broad-based AI strategy that takes into account recent developments in tech, is centered on basic consumer rights, and provides strict guidelines for the use of generative AI in the public sector.
+The coalition also demands “suitable future-proof regulations in instances where existing laws fall short.”
+Privacy is one of the biggest concerns with generative AI since user data is often stored for model training.
+Italy banned ChatGPT after announcing that OpenAI was not legally authorized to gather user data.
+In addition to compromised user confidentiality, there is a risk of stored information falling into the wrong hands in the case of a security breach.
+AI technology can also create human-level works at a mass scale, including fake and misleading articles, essays, papers and videos.
+This is leading to fears over the wider dissemination of misinformation to levels never before seen.
+There are also similar worries over “deepfakes,” which use generative AI to create fake videos, photos, and voice recordings, that use the image and likeness of a particular individual.
+“Although these systems are presented as helpful, saving time, costs, and labor, we are worried about serious downsides and harms they may bring about.”
+The group wrote that generative AI systems are “incentivized to suck up as much data as possible to train the AI models, leading to the inclusion of personal data that may be irremovable once the sets have been established and the tools trained.”
+TACD warned that content that is biased, discriminatory, or false could be used to train an AI system, making it more ingrained and disseminated widely.
+They also raised concerns over large companies gaining monopolistic control of the AI space and noted that using tools like ChatGPT “requires enormous amounts of water and electricity, leading to heightened carbon emissions.”
+TACD called on the White House to both enforce existing laws that are applicable to the generative AI space and implement new regulations that force companies and firms developing AI tools, to “adhere to transparent and reviewable obligations.”
+This week, both the White House and Congress said they were ready to start writing legislation to regulate artificial intelligence after officials warned about the dangers of AI technology.
+“We need to manage the risks,” Biden said at a June 20 event to address AI concerns in San Francisco and promised there will be stronger actions to come.
+Meanwhile, Senate Majority Leader Chuck Schumer (D-N.Y.) unveiled new details of the his AI-related legislation, which is heavily focused on the national security implications of the technology.
+The report raised similar concerns to those raised by the TACD, as well as warnings over the potential use of AI to manipulate or mislead consumers, misuse their data to violate privacy, automate human tasks, and exploit labor.
+The EU is in the process of considering legislation to enact new AI regulations.
+Details of the AI regulations are now being discussed between the European Commission and the Council of the EU to eventually develop final legislation.

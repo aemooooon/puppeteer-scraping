@@ -1,0 +1,16 @@
+State-affiliated hackers from China, Iran, North Korea, and Russia tried to use OpenAI’s tools to improve their offensive cyber operations, according to research published by the ChatGPT developer and Microsoft on Feb. 14.
+OpenAI and Microsoft disabled generative artificial intelligence (AI) accounts associated with five state-affiliated groups: Charcoal Typhoon and Salmon Typhoon from China, Forest Blizzard from Russia, Emerald Sleet from North Korea, and Crimson Sandstorm from Iran.
+“Our analysis of the current use of LLM technology by threat actors revealed behaviors consistent with attackers using AI as another productivity tool on the offensive landscape,” Microsoft wrote.
+“Importantly, our research with OpenAI has not identified significant attacks employing the LLMs we monitor closely.”
+Microsoft emphasized that its research aims to “expose early-stage, incremental moves” that it observes “well-known threat actors attempting.”
+OpenAI stated that while it won’t be able to stop every misuse of its systems by malicious actors, the company will continue to “make it harder” for such actors to “remain undetected across the digital systems.”
+“The vast majority of people use our systems to help improve their daily lives, from virtual tutors for students to apps that can transcribe the world for people who are seeing impaired,” OpenAI stated.
+“As is the case with many other ecosystems, there are a handful of malicious actors that require sustained attention so that everyone else can continue to enjoy the benefits.”
+Charcoal Typhoon interacted with LLMs “in ways that suggest a limited exploration of how LLMs can augment their technical operations,” according to Microsoft.
+“Charcoal Typhoon used our services to research various companies and cybersecurity tools, debug code and generate scripts, and create content likely for use in phishing campaigns,” OpenAI stated.
+The other Chinese hacking group, Salmon Typhoon, has a history of targeting U.S. defense contractors, government agencies, and entities within the cryptographic technology sector, according to Microsoft. The Redmond-based company stated that the threat actor is known for deploying malware to maintain access to compromised systems.
+Microsoft revealed that Salmon Typhoon was evaluating the effectiveness of LLMs as a source of information “on potentially sensitive topics, high profile individuals, regional geopolitics, U.S. influence, and internal affairs.”
+“This tentative engagement with LLMs could reflect both a broadening of their intelligence-gathering toolkit and an experimental phase in assessing the capabilities of emerging technologies,” Microsoft wrote.
+OpenAI wrote that Salmon Typhoon used its services to “translate technical papers, retrieve publicly available information on multiple intelligence agencies and regional threat actors, assist with coding, and research common ways processes could be hidden on a system.”
+One of the things that the Iranian group Crimson Sandstorm did was use LLMs to generate different phishing emails, with one of them “pretending to come from an international development agency,” according to Microsoft.
+The North Korean hackers known as Emerald Sleet also used LLMs for different activities, including generating content “likely to be used in spear-phishing campaigns” targeting individuals, according to Microsoft.

@@ -1,0 +1,24 @@
+The use of facial recognition for surveillance, or algorithms that manipulate human behaviour, will be banned under proposed EU regulations on artificial intelligence.
+The wide-ranging proposals, which were leaked ahead of their official publication, also promised tough new rules for what they deem high-risk AI.
+That includes algorithms used by the police and in recruitment.
+Experts said the rules were vague and contained loopholes.
+The use of AI in the military is exempt, as are systems used by authorities in order to safeguard public security.
+The suggested list of banned AI systems includes:
+European policy analyst Daniel Leufer tweeted that the definitions were very open to interpretation.
+"How do we determine what is to somebody's detriment? And who assesses this?" he wrote.
+For AI deemed to be high risk, member states would have to apply far more oversight, including the need to appoint assessment bodies to test, certify and inspect these systems.
+And any companies that develop prohibited services, or fail to supply correct information about them, could face fines of up to 4% of their global revenue, similar to fines for GDPR breaches.
+High-risk examples of AI include:
+Mr Leufer added that the proposals should "be expanded to include all public sector AI systems, regardless of their assigned risk level".
+"This is because people typically do not have a choice about whether or not to interact with an AI system in the public sector."
+As well as requiring that new AI systems have human oversight, the EC is also proposing that high risk AI systems have a so-called kill switch, which could either be a stop button or some other procedure to instantly turn the system off if needed.
+"AI vendors will be extremely focussed on these  proposals, as it will require a fundamental shift in how AI is designed," said Herbert Swaniker, a lawyer at Clifford Chance.
+Meanwhile Michael Veale, a lecturer in digital rights and regulation at University College London, highlighted a clause that will force organisations to disclose when they are using deepfakes, a particularly controversial use of AI to create fake humans or to manipulate images and videos of real people.
+He also told the BBC that the legislation was primarily "aimed at vendors and consultants selling - often nonsense- AI technology to schools, hospitals, police and employers".
+But he added that tech firms who used AI "to manipulate users" may also have to change their practices.
+With this legislation, the EC has had to walk a difficult tightrope between ensuring AI is used for what it calls "a tool... with the ultimate aim of increasing human wellbeing", and also ensuring it doesn't stop EU countries competing with the US and China over technological innovations.
+And it acknowledged that AI already informed many aspects of our lives.
+The European Centre for Not-for-Profit Law, which had contributed to the European Commission's White Paper on AI, told the BBC that there was "lots of vagueness and loopholes" in the proposed legislation.
+"The EU's approach to binary-defining high versus low risk is sloppy at best and dangerous at worst, as it lacks context and nuances needed for the complex AI ecosystem already existing today. 
+"First, the commission should consider risks of AI systems within a rights-based framework - as risks they pose to human rights, rule of law and democracy.
+"Second, the commission should reject an oversimplified low-high risk structure and consider a tier-based approach on the levels of AI risk."

@@ -1,0 +1,37 @@
+When it comes to beauty products the phrase "try before you buy" used to require a visit to a physical store.
+You'd dab a little highlighter from a tester pot or tube on your face, or rub some eye shadow on your eyelids, before checking them out in the mirror.
+But with the pandemic shuttering High Street shops over the past year, a growing number of beauty fans have been flocking to digital testing apps and websites, to see whether a particular blusher or colour of lipstick suits them.
+You typically pick the product you want to try out, look into your selfie camera, and it appears, digitally, on your face on the camera screen.
+Amy Kean, a 38-year-old from Margate in Kent, says that, from her experience as a consumer, the technology, a form of augmented reality (AR), has greatly improved in recent years.
+"It used to be very gimmicky... but now it is actually useful," says the boss of business consultancy Six Things Impossible.
+"Previously it was often a leap of faith when buying makeup online. For instance, it could be really difficult to find the right shade of foundation, but with one brand recently, I was able to test, virtually, what it looked like on half my face compared to without on the other side."
+Ms Kean, who has also been playing around with hair dye filters on Instagram, says she will continue trying on products via AR, and then buying them, from a number of brands.
+She adds that due to continuing Covid-19 restrictions, it will be a while before physical beauty departments tempt her back. "Now when you go into store you have to wash your hands first, and you can't test products, so the in-store experience isn't the same as it was anyway."
+Confronted with scores and scores of different coloured lipsticks and other forms of make-up, it can be difficult to choose which shade to plump for - and that's even when stores are open, and testing of products is allowed. 
+French giant, Chanel, is attempting to make the process of buying a lipstick easier through its recently launched Lipscanner app. It lets users scan a photograph of a celebrity in a magazine, and then the app selects the closest Chanel lipstick to the shade of that being worn by the star.
+The app can also do the same with real life items of clothing or accessories, such as copying the shade of a leather handbag.
+It works via artificial intelligence (AI) software, and users can then try on the lipstick virtually before purchasing the product to be posted out to them if they wish.
+Cedric Begon, director of the Connected Experience Innovation Lab at Chanel, says the company trained the app's algorithm to analyse tens of thousands of images.  The Lipscanner app also takes into account a person's skin tone and lip shape to recommend what it thinks would be their ideal lipstick.
+While it may currently only be in science fiction where the perfume industry can let you smell its products via your phone or computer, it is also starting to embrace interactive digital platforms.
+Ninu Perfume is a soon to be released spray canister that enables the user to design her or his own perfumes or aftershaves via a connected app. 
+The small aluminium tube holds three different cartridges of perfume that the user can mix - via the app - into what the company says is more than one million different scent combinations.
+The battery-powered device is rechargeable, and the app is powered by AI, with a Siri-style virtual assistant called Pierre who suggests perfume mixes based your personality, and alerts you when your recyclable cartridges are running low.
+"All perfumes are not suitable for all events or seasons," says Marko Matijevic, Ninu Perfume co-founder. "Through AI Nino knows what your preferences are, what season it is, what the weather is like outside, and and mixes it to make the best possible combination for that occasion."
+Mr Matijevic adds that the device is always learning too. For example, he says that after a date, the app will ask how was your fragrance, and encourage the user to fill in a survey on whether the scent was too strong or too sweet, for instance. 
+"So the app over time will learn... to give the perfect blend."
+While some beauty brands have developed their AR and AI systems in house, others have turned to dedicated providers of the technology, such as US firm Perfect Corp. Its systems are used by brands including Bobbi Brown, Estee Lauder, Madison Reed, and Ardell.
+New Tech Economy is a series exploring how technological innovation is set to shape the new emerging economic landscape.
+"We've definitely seen an increase in people requesting our services [due to the pandemic]," says Perfect Corp's vice president Adam Gam. 
+"And some of the tech are better than real life, for example being able to try on 30 shades of lipsticks in 30 seconds. One hundred percent these technologies are here to stay."
+But will such high-tech, virtual testing remain popular when the world eventually returns to normal, and we can all go to back to beauty shops and departments?
+"This technology is never going to replace the in-store experience - the smells, sounds, the 360-degree pleasure and general excitement of beauty shopping," says Jane Cunningham, a beauty industry expert, who runs the website British Beauty Blogger.
+"However, some of these AR devices are now amazing. They were an absolute joke when they first started, but now they are really very good, if not foolproof.
+"Some products work well with virtual testing - lipstick and eye shadow.  And most brands are very conscious of having virtual colours available to suit people of all ethnic backgrounds.
+But foundations and blushers are far more difficult for the apps, whatever the colour of your skin. With the latter you can look like Pikachu! So I think people will do both - go to beauty stores, and use virtual tools."
+Trishna Daswaney, founder of make-up brand Kohl Kreatives, says that for people with dark skin the AR apps can be "challenging, because they are very dependent on the lighting you're in".
+She adds: "Skin tones come in warm and cool undertones, and often for people of darker skin tones this can vary based on different parts of our faces.
+"While, with colour, such as lipsticks, they do not pick up the pigment in your lips, and therefore are unable to truly demonstrate the colour saturation as if it were on your skin."
+Ms Daswaney also cautions that the AR filters can "blur and smooth the skin creating further unrealistic expectations and beauty standards".
+Samantha Dover, global beauty analyst at Mintel, agrees with Ms Cunningham that consumers will likely both continue to use the virtual tools, and return to physical shops, in the future.
+"The investment [in AR systems] is helping consumers narrow down their choices online, but technology is yet to replace the experience of testing new products in a physical retail environment," she says.
+"We have examples of customers going in-store with their phone, having scanned an item in their wardrobe, and wanting to find an appropriate lipstick to go with it, but wanting to understand the texture and finish [of the lipstick]. So it's a drive-to-store engine."

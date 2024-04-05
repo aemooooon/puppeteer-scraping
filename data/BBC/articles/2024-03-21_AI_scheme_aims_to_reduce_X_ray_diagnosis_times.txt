@@ -1,0 +1,14 @@
+A North Yorkshire hospital is using Artificial Intelligence (AI) to help speed up fracture diagnosis times.
+Harrogate District Hospital is the first in the Yorkshire region to introduce the software, medics said, allowing for quicker treatment.
+Radiologist Dr Daniel Fascia said X-ray scans are now interpreted in about 30 seconds, rather than hours or days.
+It is part of a wider plan to roll out the technology across six different Yorkshire NHS trusts.
+The software was introduced to the hospital last July as part of a programme called the Yorkshire Imaging Collaborative.
+Dr Fascia, a consultant musculoskeletal radiologist, said: "Every time we shoot an X-ray of a part of the skeletal system it analyses the images and provides a interpretation to the people working on the frontline right away.
+"Previously they have had to wait twenty-four to forty-eight hours in this hospital for professional interpretation by the radiologists and reporting radiographers."
+He said the advancement was used alongside traditional methods and helped less experienced members of staff provide rapid treatment plans.
+Andrew Lister, a patient who attended the hospital after falling and injuring his shoulder, said: "I have just had an X-ray on it. 
+"Before, if there was anything minor it could be days and you could be worse off."
+He added: "I'm quite happy because now you know the injury will get seen quicker."
+The technology is set to be introduced by other NHS trusts in Leeds, Calderdale and Huddersfield, Airedale, Mid Yorkshire and Bradford. 
+Dr Fascia added: "I think the AI will get more accurate and we will probably place a higher dependence on it, but we are always going to need human interpretation.
+"It does not have any knowledge of the history of the illness or the injury the patient has come in with, so it needs that human level of interpretation to actual make it useful."

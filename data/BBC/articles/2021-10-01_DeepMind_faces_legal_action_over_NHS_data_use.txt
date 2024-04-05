@@ -1,0 +1,19 @@
+A legal case has been launched on behalf of more than a million people whose confidential medical records were obtained by Google.
+In 2015, Google's AI firm DeepMind was given the personal records of 1.6 million patients at the Royal Free London NHS Foundation Trust.
+The law firm handling the case said it was launched to address public concerns about the use of private health data by tech firms.
+DeepMind has not commented.
+But the BBC understands that no claim has formally been served at this time.
+The Royal Free Hospital Trust has also been asked for comment.
+In 2015, when it became public that vast amounts of data had been tapped into by DeepMind, there was outrage - although the firm insisted that the patient records were being used to help create a life-saving app.
+The Streams app was an alert, diagnosis and detection system that could spot when patients were at risk of developing acute kidney injury. It is in the process of being decommissioned, following DeepMind being subsumed into Google Health.
+There were several inquiries into the legality of the data use, and in 2017 the Information Commission said the hospital had not done enough to protect the privacy of patients when it shared data with Google.
+In a statement in response to that ruling, DeepMind apologised and said that it had concentrated on building tools for clinicians, rather than thinking about how the project should have been shaped by the needs of patients.
+The current legal case is being led by law firm Mishcon de Reya and the lead plaintiff Andrew Prismall said he had been "greatly concerned" about how his data had been used.
+"The last thing you would expect is your private medical records to be in the hands of one of the world's biggest technology companies," he said.
+Mishcon de Reya partner Ben Lasserson said: "This important claim should help to answer fundamental questions about the handling of sensitive personal data and special category data.
+"It comes at a time of heightened public interest and understandable concern over who has access to people's personal data and medical records and how this access is managed."
+There has been a spate of so-called class action suits launched in the UK, in which one plaintiff represents millions. 
+These cases are known as opt-out representative actions because they include everyone that the case applies to, unless they specifically request not to be part of it.
+Others include one brought by the former Children's Commissioner for England Anne Longfield against TikTok, on behalf of millions of UK children, over how the app collected and used their data.
+Another lawsuit was launched by ex-Which? director Richard Lloyd on behalf of four million iPhone users, alleging they were illegally tracked by Google.
+All these cases are awaiting a Supreme Court judgement giving the Lloyd v Google case the go-ahead, which is expected imminently.

@@ -1,0 +1,14 @@
+Fear and worry are the dominant emotions of Australians towards artificial intelligence (AI) despite the technology’s increasing popularity and capability, a study by the University of Queensland has revealed.
+It reveals that three out of five respondents (61 percent) are either ambivalent or unwilling to trust AI.
+Globally, about three in four (73 percent) acknowledge that AI carries significant risks, with cyber security topping all concerns. This is followed by harmful use of AI, job loss, especially in India and South Africa, loss of privacy, system failure (particularly in Japan), deskilling, and undermining human rights.
+Younger generations (42 percent) and university-educated (42 percent) are more accepting compared to older generations (25 percent) and those who don’t have a degree (27 percent).
+Australia is among the nations listed as the most worried about AI, along with Canada, the UK and Japan.
+Less than half of Australians (40 percent) have faith in the use of AI at work, with only a quarter believing AI will create more jobs than it will eliminate.
+Most Australians want AI to be regulated, but slightly above one-third say there are enough safeguards, laws and regulations in place.
+On the contrary, people in India, China, South Africa and Brazil are most optimistic about the use of AI.
+Lead author Professor Nicole Gillespie, KPMG Chair of Organisational Trust at the UQ Business School, said Australians are most concerned with the involvement of AI in human resources-related tasks such as monitoring, evaluating and recruiting employees.
+“Australians are more open to AI being used to automate tasks and help employees complete their work,” Gillespie said.
+“In fact, they actually prefer AI involvement in managerial decision-making over sole human decision-making - the caveat is they want humans to retain control.”
+Co-author James Mabbott said a key challenge is that a third of people have low confidence in government, technology and commercial organisations to develop, use and govern AI in society’s best interest.
+“Organisations can build trust in their use of AI by putting in place mechanisms that demonstrate responsible use such as regularly monitoring accuracy and reliability, implementing AI codes of conduct, independent AI ethics reviews and certifications and adhering to emerging international standards,” Mabbott said.
+“It doesn’t take long, if you start thinking, to realise the disruptive and catastrophic risks from untamed AGI are real, plausible, and easy to imagine,” he said in a speech in Parliament on Feb. 6.

@@ -1,0 +1,15 @@
+Senators and representatives held separate hearings March 8 on the perils and promise of artificial intelligence (AI), signaling lawmakers’ growing regulatory appetite in the wake of actions on the technology from the Biden administration.
+Earlier that same day, the Senate Homeland Security & Government Affairs Committee held its own hearing. One of the Senate’s witnesses, Brown University Professor Suresh Venkatasubramanian, contributed to the Biden administration’s new “AI Bill of Rights,” released to little fanfare in Oct. 2022.
+Before the Biden administration acted on AI, the Trump administration, in 2019, launched the American Artificial Intelligence Initiative.
+Rep. Nancy Mace (R-S.C.), who chairs the House’s cybersecurity subcommittee, illustrated the power of new AI innovations in a very direct way.
+She delivered an opening statement that she revealed was written by OpenAI’s ChatGPT platform. ChatGPT is an example of the burgeoning generative AI technologies that can convincingly mimic human writing, visual art, and other forms of expression.
+“We need to establish guidelines for AI development and use. We need to establish a clear legal framework to hold companies accountable for the consequences of their AI systems,” said Mace-as-ChatGPT.
+Her AI-written statement also warned that AI could “be used to automate jobs, invade privacy, and perpetuate inequality.”
+The subcommittee’s ranking member, Rep. Gerry Connolly (R-Va.), noted that the federal government laid much of the groundwork for the Information Age half a century ago, suggesting there may be a precedent for more intensive federal involvement today.
+The predecessor to the Internet, the U.S. Advanced Research Projects Agency Network (ARPANET), was the work of the U.S. Department of Defense, thanks in large part to pioneering computer scientist J.C.R. Licklider.
+Speaking before the Senate, Jason Matheny of the Rand Corporation spoke of the key national security challenges presented by AI.
+A 2022 amendment requires employers to gather data on the race and ethnicity of such interviewees so as to identify any racial bias in subsequent hiring.
+Similar concerns were voiced by the Democrats’ witness at the House cybersecurity hearing, University of Michigan intermittent lecturer and AI ethicist Merve Hickok.
+Hickok’s prescriptions? Among other things, additional hearings and a possible “Algorithmic Safety Bureau.”
+In the latter case, writes Carlson, ChatGPT made a false claim about Officer Brian Sicknick, saying he had been killed by protesters. It corrected that claim when prompted.
+“ChatGPT appeared to ‘know’ that its first response was purposefully misleading—but only after it had been caught in the lie. This was a pattern that would be repeated in subsequent conversations with ChatGPT,” Carlson wrote.

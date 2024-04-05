@@ -1,0 +1,23 @@
+More than 500 employees of the company that created the artificial intelligence (AI) chatbot ChatGPT have threatened to quit unless all of its board members resign, the latest shakeup at OpenAI after co-founder and CEO Sam Altman was fired.
+A list of 505 names undersigns a letter to the leadership of OpenAI, whose board of directors fired Mr. Altman on Nov. 17, citing the board’s loss of confidence in his ability to lead.
+Shortly after Mr. Altman’s ouster, OpenAI president and co-founder Greg Brockman announced his resignation, with the two getting immediately snapped up by Microsoft to form a new AI research team.
+Meanwhile, the majority of the company’s 700 or so employees have threatened to follow Messrs. Altman and Brockman to work at the Microsoft subsidiary, which they said in the letter they have all been invited to join.
+“We, the undersigned, may choose to resign from OpenAI and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman,” they wrote, adding that Microsoft has assured them that there are positions for all of them should they choose to join.
+“We will take this step imminently, unless all current board members resign, and the board appoints two new lead independent directors, such as Bret Taylor and Will Hurd, and reinstates Sam Altman and Greg Brockman,” the staffers wrote.
+The 500 or so OpenAI employees objected to the process by which the board fired Mr. Alman and removed Mr. Brockman from the board, alleging that the move “jeopardized all of this work and undermined our mission and company.”
+“Your conduct has made it clear you did not have the competence to oversee OpenAI,” they alleged.
+As recently as a day before his ouster, he showed no sign of concern at two public events, joining his colleagues in a panel discussion on the sidelines of the Asia-Pacific Economic Cooperation conference in San Francisco.
+“Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” OpenAI said in a statement.
+“The board no longer has confidence in his ability to continue leading OpenAI.”
+Mr. Altman, who has founded several companies, including startup accelerator Y Combinator and the social networking company Loopt, co-founded OpenAI as a nonprofit lab in 2015.
+“I loved my time at OpenAI,” Mr. Altman said in a post on X shortly after his dismissal. “It was transformative for me personally and, hopefully, the world a little bit. Most of all, I loved working with such talented people. Will have more to say about what’s next later.”
+Following Mr. Altman’s departure, Mr. Brockman, who was removed from OpenAI’s board, announced he was resigning.
+Mr. Shear described the offer to join OpenAI as a “once-in-a-lifetime opportunity.”
+“When the board shared the situation and asked me to take the role, I did not make the decision lightly. Ultimately I felt that I had a duty to help if I could,” he added.
+The new interim CEO revealed his plan for the next 30 days, which includes reforming the management and leadership team at OpenAI.
+The plan also includes hiring an independent investigator to look into the entire process and speaking with OpenAI’s employees, investors, and customers.
+“Depending on the results everything we learn from these, I will drive changes in the organization—up to and including pushing strongly for significant governance changes if necessary. I will be rolling these out as they become clear over the 30 day period,” he said.
+Mr. Shear also stated that OpenAI’s decision to remove Mr. Altman was not owing to “any specific disagreement on safety.”
+“Before I took the job, I checked on the reasoning behind the change. The board did *not* remove Sam over any specific disagreement on safety, their reasoning was completely different from that,” he stated.
+Meanwhile, Mr. Brockman teased that, as part of the new AI research team at Microsoft, “we are going to build something new & it will be incredible.”
+He added that the initial leadership team at the new research unit would consist of himself, Mr. Altman, Jakub Pachocki (former director of research at OpenAI), Szymon Sidor (former long-time researcher at OpenAI), and Aleksander Madry (former OpenAI head of a team evaluating potential risks from AI).

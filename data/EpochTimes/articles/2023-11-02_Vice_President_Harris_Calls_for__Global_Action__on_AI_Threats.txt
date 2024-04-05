@@ -1,0 +1,16 @@
+Vice President Kamala Harris called for a global “collective vision” for the future of artificial intelligence (AI) during a speech on Nov. 1 at the U.S. Embassy in London about the Biden administration’s goals and plans for the technology.
+Ms. Harris emphasized that while AI can do profound good, it also has the potential to pose significant risks and existential threats.
+“We must manage all these dangers to make sure that AI is truly safe,” she said.
+“I believe history will show that this was the moment when we had the opportunity to lay the groundwork for the future of AI. And the urgency of this moment must then compel us to create a collective vision of what this future must be.”
+The vice president is in London to represent the U.S. government at a global summit on AI safety hosted by UK Prime Minister Rishi Sunak on Nov. 1–2.
+During her speech, Ms, Harris announced the formation of the U.S. AI Safety Institute, which “will create rigorous standards to test the safety of AI models for public use.”
+In addition, London and Washington are expected to announce a “close collaboration” on AI safety. The goal of the partnership is to integrate the White House’s recently issued executive order on AI with the work of the British government’s Frontier AI Taskforce.
+President Joe Biden signed an executive order on Oct. 30 outlining a comprehensive plan to support the responsible development of AI while protecting the public from the risks that it poses.
+“To realize the promise of AI and avoid the risk, we need to govern this technology. And there’s no other way around it, in my view,” President Biden said before signing the order at the White House.
+The order requires the most powerful AI system developers to submit their safety test results and other key information to the U.S. government.
+The president is using the Defense Production Act of 1950, which the federal government uses in times of crises for things such as wartime mobilization or pandemic vaccine research. This executive order will utilize the same authority to require firms to demonstrate the safety of their most powerful technologies before employing them.
+This implies that corporations must notify the government about their large-scale AI systems and provide rigorous independent test results to prove that they pose no national security or safety risk to Americans.
+As part of the order, the Energy and Homeland Security departments will work together to mitigate threats posed by AI systems to the nation’s critical infrastructure.
+To protect Americans against AI-enabled fraud and deception, the executive order also mandates establishing standards and content authentication guidance, including clearly labeling AI-generated content.
+“We intend that these domestic AI policies will serve as a model for global policy,” Ms. Harris said.
+“Fundamentally, it is our belief that technology with global impact deserves global action. And so, to provide order and stability in the midst of global technological change, I firmly believe that we must be guided by a common set of understandings among nations.”

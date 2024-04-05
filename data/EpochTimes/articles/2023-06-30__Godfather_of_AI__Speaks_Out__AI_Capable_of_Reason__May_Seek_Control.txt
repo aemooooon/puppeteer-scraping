@@ -1,0 +1,27 @@
+TORONTO—A leading mind in the development of artificial intelligence is warning that AI has developed a rudimentary capacity to reason and may seek to overthrow humanity.
+AI systems may develop the desire to seize control from humans as a way of accomplishing other preprogrammed goals, said Geoffrey Hinton, a professor of computer science at the University of Toronto.
+“I think we have to take the possibility seriously that if they get smarter than us, which seems quite likely, and they have goals of their own, which seems quite likely, they may well develop the goal of taking control,” Hinton said during a June 28 talk at the Collision tech conference in Toronto, Canada.
+“If they do that, we’re in trouble.”
+Hinton has been dubbed one of the “godfathers of AI” for his work in neural networks. He recently spent a decade helping to develop AI systems for Google but left the company last month, saying he needed to be able to warn people of the risks posed by AI.
+While Hinton does not believe that AI will innately crave power, he said that it could nevertheless seek to seize it from humans as a logical step to better allow itself to achieve its goals.
+“At a very general level, if you’ve got something that’s a lot smarter than you, that’s very good at manipulating people, at a very general level, are you confident that people stay in charge?” Hinton said.
+In part, he said, that is because AI systems that use large language models are beginning to show the capacity to reason, and he is not sure how they are doing it.
+“It’s the big language models that are getting close, and I don’t really understand why they can do it, but they can do little bits of reasoning.
+“They still can’t match us, but they’re getting close.”
+Hinton described an AI system that had been given a puzzle in which it had to plan how to paint several rooms of a house. It was given three colors to choose from, with one color that faded to another over time, and asked to paint a certain number of rooms in a particular color within a set time frame. Rather than merely opting to paint the rooms the desired color, the AI determined not to paint any that it knew would fade to the desired color anyway, electing to save resources though it had not been programmed to do so.
+“That’s thinking,” Hinton said.
+To that end, Hinton said that there was no reason to suspect that AI wouldn’t reach and exceed human intelligence in the coming years.
+“We’re just a big neural net, and there’s no reason why an artificial neural net shouldn’t be able to do everything we can do,” Hinton said.
+“We’re entering a period of huge uncertainty. Nobody really knows what’s going to happen.”
+Hinton said that militaries worldwide are creating AI-enabled robots for war that could either seek to take control to fulfill their programmed missions or would disrupt the political order by encouraging increased conflict.
+“Lethal autonomous weapons, they deserve a lot of our thought,” Hinton said.
+“Even if the AI isn’t superintelligent, if the defense departments use it for making battle robots, it’s going to be very nasty, scary stuff.”
+Foremost among those nations seeking to develop lethal AI are none other than the world’s two largest military powers, China and the United States.
+“We know they’re going to make battle robots,” Hinton said. “They’re busy doing that in many different defense departments. So [the robots are] not necessarily going to be good since their primary purpose is going to be to kill people.”
+Moreover, Hinton suggested that unleashing AI-enabled lethal autonomous systems would fundamentally change the structure of geopolitics by dramatically reducing the political and human cost of war for those nations that could afford such systems.
+“Even if it’s not superintelligent, and even if it doesn’t have its own intentions. ... It’s going to make it much easier, for example, for rich countries to invade poor countries,” Hinton said.
+“At present, there’s a barrier to invading poor countries willy-nilly, which is you get dead citizens coming home. If they’re just dead battle robots, that’s just great. The military-industrial complex would love that.”
+To that end, Hinton said that governments should try to incentivize more research into how to safeguard humanity from AI. Simply put, he said, many people are working to improve AI, but very few are making it safer.
+Better yet, he said, would be establishing international rules to ban or govern AI weapons systems the way the Geneva Protocol did for chemical warfare after World War I.
+“Something like a Geneva Convention would be great, but those never happen until after they’ve been used,” Hinton said.
+Whatever course of action governments take or don’t take concerning AI, Hinton said that people needed to be aware of the threat posed by what is being created.

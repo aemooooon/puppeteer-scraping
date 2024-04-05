@@ -1,0 +1,11 @@
+Canada’s industry minister says he thinks the country is “ahead of the curve” with its approach to artificial intelligence, beating even the European Union.
+The government has said it would ban “reckless and malicious” AI use, establish oversight by a commissioner and the industry minister and impose financial penalties.
+The bill has passed a first and second reading in the House of Commons but still has to go through committee, a third reading and the Senate before becoming law. It is due to come into effect no earlier than 2025.
+The EU legislation will address subliminal, manipulative and deceptive AI techniques and how the technology could exploit vulnerabilities along with biometric systems and using AI to infer emotions in law enforcement and office settings.
+AI has become a buzzword in the tech industry, since San Francisco-based OpenAI released ChatGPT, a hit generative AI chatbot capable of humanlike conversations and tasks, last year. Rival products like Google’s Bard have since joined the AI race.
+Critics have predicted it will lead to an existential risk.
+More than 1,000 technology experts, including engineers from Amazon, Google, Meta and Microsoft as well as Apple co-founder Steve Wozniak, called for a six-month pause on training of AI systems more powerful than GPT-4, the large language model behind ChatGPT, in March.
+However, proponents of the technology herald it as a means of efficiency and expediency that could free humans of rudimentary tasks. They worry governments could overregulate the technology, reducing its benefits greatly.
+Asked about Canada’s approach to AI and other digital legislation, Abdullah Snobar indicated there is room for improvement.
+“Are we doing OK? Maybe, but we’re definitely not moving as fast as we could be,” said the executive director of the DMZ, a Toronto tech hub that supports startups.
+While he said Canada is still in a great position because of the talent and economic opportunity it has driven in the sector, he still sees the Europeans as leading the way.

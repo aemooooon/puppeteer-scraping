@@ -1,0 +1,33 @@
+This weekend Steve Worswick will be pushing the boundaries of what it is to be human, attempting to fool a panel of judges into thinking they are chatting to another person while really they will be talking to a chatbot.
+But Steve isn't an engineer at Apple or Amazon, he is a designer from Leeds and the AI he is hoping will pass the test - Mitsuku - is one you have probably never heard of.
+The competition he is taking part in, the Loebner Prize, is one of the only real-world Turing Tests but is also relatively obscure in the highly-hyped world of artificial intelligence - and not without controversy.
+This year could be the last time Steve competes - the sponsor Hugh Loebner, a millionaire inventor who made his fortune from brass fittings, died in 2016 so there is no longer funding for the prize.
+The competition sees four judges conducting a series of conversations with both humans and bots which they then score out of 100.
+Each bot is asked the same 20 questions, of varying degrees of complexity. At the same time, the same message is typed to a human, with the judge tasked with deciding which is which.
+Typically, winning bots only get a score of about 30 out of 100, with none ever reaching the heady heights of 70, which would - under Turing Test rules - be "human enough".
+The test was developed by mathematician Alan Turing in 1950 as a way of demonstrating a machine's ability to exhibit intelligent behaviour indistinguishable from a human. 
+His paper proposed this could be tested via a series of conversations, one with a machine and one with a human. Each judge would have five minutes to talk to each machine and if more than 30% of the judges thought they were human, the machine passed the test.
+Under Loebner Prize rules, the conversations are 25 minutes long and the machine only wins if it fools at least half the judges.
+That has never happened. Instead the prize money goes to the machine that convinces the most judges.
+"It usually becomes apparent after the first few questions which is the bot," said Mr Worswick, who has 'won' four times.
+Since the Loebner Prize launched in 1991, it has had a range of partners - from the Cambridge Center for Behavioural Studies to the Science Museum and The Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB) but it has failed to attract bigger players or those studying in the field.
+Noel Sharkey, computer scientist at Sheffield University and two-times judge at the event, is baffled as to why it has always been so low-key.
+"I am a little surprised, given the number of chatbots we are all experiencing in online customer services, that this is not a much bigger affair," he said.
+"It might be that the big tech companies don't like the idea of independent objective evaluation or maybe they are a bit worried about competing with one another."
+There could be truth in this. In 2013 someone unofficially entered Siri, Apple's virtual assistant, into the contest and it finished in 14th place.
+For two years, the competition  was hosted in Mr Loebner's apartment but from 2014 to 2018 it took place at Bletchley Park where Alan Turing spent his wartime years as a codebreaker.
+Two side rooms were set aside for the competition but with no publicity given to it, the only people who stumbled upon it would be visitors to the code-breaking museum.
+"It was usually little old ladies on a day out who would much rather reminisce about the war than talk about conversational AI," said Mr Worswick.
+The lack of success of the competition among the AI community could just be a case of bad timing, thinks Prof Sharkey.
+"It started out really well in 1991 when there was still great interest in the Turing Test with all the great and good of AI on the programme panel," he said.
+"All the media turned up," he added, but things quickly turned sour "when the AI systems of the day were shown to be hopeless at the task".
+"After that it was sidelined and only small companies and hobbyists have taken it up."
+And Hugh Loebner himself may have put some people off, he thinks.
+"Loebner's eccentric personality did not help much. He was a very provocative man, quite blunt and said some very dumb things that annoyed a lot of people. Personally I was highly amused by him. He told me that the reason why he started the competition was that he just wanted to be famous," said Prof Sharkey.
+Mr Loebner also dedicated his time to fighting for the rights of sex workers and would often turn up to the competition with "young women on his arms," he added.
+Both the venue and the nature of the contest have changed this year, moving from Bletchley Park to Swansea University.
+There will no longer be a panel of judges. Instead, the chatbots will be judged by the public and there will be no human competitors.
+"No-one's quite sure how it will pan out," said Mr Worswick.
+The Loebner prize may now be on the verge of fading into obscurity.
+"I do not think that the Loebner prize has had a big impact on AI language processors because it has not had much take-up from the academic community and none from the big tech companies," said Prof Sharkey.
+He does, however, believe that the field, now fully revived and brimming with hype, could benefit from its own more high-profile test - one that Amazon, Google and Apple were prepared to take part in.

@@ -1,0 +1,11 @@
+Artificial intelligence agents could revolutionize the way customers shop and search online, potentially rendering retail giants such as Amazon useless, according to Microsoft co-founder Bill Gates.
+Gates made the comments at the AI Forward 2023 event in San Francisco on May 22.
+The billionaire said he believes the current race to win in the artificial intelligence world is the development of a personal AI agent that can perform a range of tasks for individuals based on their specific needs and habits.
+That, he said, could impact search engines, productivity, and online shopping sites.
+Gates added that such technology could even “read the stuff you don’t have time to read.”
+While such an AI assistant is yet to be developed, Gates said he would be disappointed if Microsoft were not in the running to create such a personal digital agent, adding that he believes there is a 50–50 chance that the top player to emerge in the technology will be a startup or a tech giant.
+According to WEF’s “The Future of Jobs Report 2023,” published earlier in May, 69 million new jobs will likely be created through increased due of AI while 83 million could be eliminated, resulting in a decrease of 14 million jobs, or 2 percent of current employment.
+WEF found that clerical or secretarial roles, including bank tellers, cashiers and ticket clerks, data entry clerks, postal service clerks, and administrative and executive secretaries will likely see the fastest decline in roles over the next five years relative to their size today.
+Meanwhile, certain tech jobs, including those focused on AI and machine learning, would likely see a rise in employment.
+Altman also told Congress during this month’s hearing that AI poses an array of security threats, including the possibility to spread misinformation, and called for organizations, including OpenAI, to be independently audited.
+“My worst fears are that we—the field, the technology, the industry—cause significant harm to the world. I think that can happen in a lot of different ways,” Altman said.

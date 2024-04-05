@@ -1,0 +1,39 @@
+In the tech world, 2023 will perhaps be remembered as the year that generative AI went mainstream. 
+From computer code, to artwork, to essays, generative AI systems can quickly create a range of content which, while not perfect, has become an essential tool in some industries and professions.
+Backed by Microsoft, ChatGPT led the way with its launch in late 2022, and rivals have been piling in ever since.
+This month brought one of the most significant moves, when Alphabet, the owner of Google, revealed Gemini - an AI which will be integrated into Google products, including its chatbot and search engine. 
+Alphabet claims Gemini outperforms the current version of ChatGPT.
+But the creator of ChatGPT, OpenAI, says it is not standing still. It is promising a more powerful version of its software next year.
+In November, at a conference for software developers, OpenAI chief executive Sam Altman said: "What we launched today is going to look very quaint, relative to what we're busy creating for you now."
+Meanwhile, investors are pouring money into the industry, hoping to back the next big player.
+According to PitchBook, across the globe, venture capital firms poured $21.4bn (£17.5bn) into generative AI start-up firms and that was just to the end of September.
+For comparison, in the whole of 2022, just $5.1bn was invested.
+But some are warning that we should not get too carried away. Ben Wood, chief analyst at CCS Insight, says generative AI will have a "cold shower" in 2024. 
+"The hype has ignored, we think, a few obstacles that are just going to slow it down a bit in the short term," he says.
+He points out that it's very expensive to develop and run a generative AI system. It requires a lot of computing power and expensive computer chips that are in short supply.
+To mitigate those costs he predicts that some AI will move to a hybrid systems, where some of the processing is done locally - on your laptop or phone.
+Mr Wood also says that regulation and legal battles might cool off the current mania for generative AI.
+"Firms could find they end up in a situation where they invest loads of money in an AI powered service, and then have to roll some of it back to be compliant with the regulation."
+In the first quarter of next year the one millionth all-electric car will set-off on UK roads, according to Schmidt Automotive Research. That will make the UK the second market, after Germany to reach that landmark.
+Despite that, 2024 is expected to be another tough year for the makers of electric vehicle (EVs).
+Late in 2023, Ford, GM and Tesla all paused plans to expand their production of electric vehicles. In October, Mercedes-Benz described the market for electric vehicles as "brutal", blaming a price war and supply chain issues.
+Analysts don't expect the situation to get much easier.
+Matthias Schmidt, an auto market analyst, forecasts a stagnant year for EV sales across Europe in 2024. In traditionally strong markets like Germany and Norway he sees almost no growth at all. 
+However, the UK could be one bright spot due to the introduction of the zero emission vehicle (ZEV) mandate. From January, just over a fifth of vehicles sold must be electric, with the target expected to hit 80% by 2030.
+All this could be great news for anyone with the money to buy an EV.
+"It will be a total buyer's market especially when it comes to electric cars as manufacturers rush to meet ZEV mandate targets," says Mr Schmidt.
+"The cuts will be hidden though, through financing deals and higher trim levels at no extra costs - as manufacturers will be hesitant in being too overt about price cuts," he adds.
+Humanoid robots could start to look more useful next year. At Tesla engineers are working on Optimus - a humanoid robot that they hope will soon be doing basic factory jobs.
+A video released earlier this month showed the latest version of Optimus - lighter than the previous machine, with new hands and powered by new motors. 
+In July, Mr Musk said that Optimus would be capable of working in a Tesla factory in 2024.
+"In terms of when it will be able to do some useful things, we'll first be trying this out in our own factories - proving out its utility. But I think we'll be able to have it do something useful in our factories sometime next year. I'm pretty confident of that."
+Tesla has plenty of competition in the field for humanoid robots. Other firms already have robots learning tasks in work settings.
+Amazon is trialling a humanoid robot in its warehouses. Called Digit, the robot can move, grasp and handle items in a similar way to a human.
+It has been developed by Agility Robotics, which hopes to deliver Digit robots to other customers next year.
+Meanwhile, in Canada Sanctuary AI has been training its robot, called Phoenix, to do specific tasks like packing bags. In 2024 the plan is to broaden the range of tasks that Phoenix can perform.
+In the world of pharmaceuticals, one treatment has been selling so fast that its maker is struggling to meet demand.
+The weight-loss drug semaglutide, marketed under the brand name Wegovy has been a huge success, making its owner Novo Nordisk, briefly, Europe's most valuable company. 
+To meet demand the Danish firm is investing billions of euros in expanding production facilities.
+At the moment Wegovy is administered as a weekly injection, but a tablet version is almost ready. Novo Nordisk is not saying when it expects that to hit the market.
+The Danish firm can expect more competition to emerge next year. 
+Eli Lilly's drug Mounjaro recently received approval as a weight-loss treatment in the US and the UK, and approval in the European Union seems to be likely soon. 

@@ -1,0 +1,14 @@
+An artificial intelligence network has designed new levels for the original Doom video game.
+The technique could be used to create future video games, more quickly and less expensively, researchers said.
+The AI was "trained" to make new levels by showing it human-designed ones for the popular first-person shooter.
+There are large numbers of Doom levels - both official and player-created - freely available online, providing a rich vein of data.
+Doom was released in 1993 and is considered to be a major milestone in video games history.
+Researchers at the Politecnico di Milano in Italy used a deep-learning technique known as a generative adversarial network (Gan).
+Two neural networks - one known as the generator and one as the discriminator - were pitted against each other, with the first attempting to trick the second.
+The researchers used data from 1,000 levels created by the wider gaming community, which had been chosen from a larger selection of 9,000, in order to teach the AI.
+They generated a set of images from each level to show the AI the walkable area, walls, floor height, objects and room segmentation. They also fed it information that described the level, including size, length of the perimeter and number of rooms.
+It took 36,000 iterations for the networks to generate something playable.
+"Our results show that Gans can capture intrinsic structure of Doom levels and appear to be a promising approach to level generation in first person shooter games," said lead researcher Edoardo Giacomello.
+But, he added, there would still be room for human input.
+"The human designers can focus on high-level features," he added.
+Researchers from the University of California have developed a similar approach to build new levels for the Super Mario game.

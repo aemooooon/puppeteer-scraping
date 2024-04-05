@@ -1,0 +1,28 @@
+“Humans deserve to know the truth,” said Edward Tian, a senior student at Princeton University, who launched GPTZero, an artificial intelligence (AI) text detection tool, over his holiday break.
+“No one wants to be deceived, whether something they’re reading online is misrepresented as human-written or machine-written,”  Tian told The Epoch Times on Jan. 22.
+“So everyone really deserves a tool like GPTZero,” he said.
+Tian, who is studying both computer science and journalism, created GPTZero through the Princeton Natural Language Processing (NLP) lab.
+“I released this app the day after New Year, expecting, at best, a few dozen people trying it out, and it completely blew up and went viral. And over 300,000 people have tried using it online now, which is incredible,” Tian said.
+“On January 3, it crashed because too many people were using it. And the hosting platform reached out to me and very generously bumped up our memory and hosting,” he said.
+On Tian’s website, it says: “GPTZero turns the very technologies used to build ChatGPT around—to detect AI. It uses variables like perplexity to fingerprint AI involvement.”
+Tian has been aware of some GPT technologies for a while, including the different iterations of GPT 2, 3, and 3.5.
+He and his friends began using the ChatGPT AI chatbot late last year.
+“We were definitely struck by how accessible it is,” said Tian, who initially used ChatGPT with friends to write poems.
+“We were surprised at how good the program is, sometimes it writes better than myself. So it is pretty fun,“ he said. ”It was like all around us on campus.”
+The inspiration for GPTZero is the idea that “everybody deserves to know the truth on whether something is a machine or human generated,” he said.
+“I think ChatGPT is an incredible and brilliant innovation. But at the same time, it’s like opening Pandora’s box, and once it’s open, there’s a lot of potential for misuse. And that’s kind of like a scary world,” he said.
+“[GPTZero] is not to stop this technology from being adopted. Instead, it’s that this technology needs to be adopted responsibly. And to do that, we need to be able to see where and when it is being used,” he said.
+“I would say the beta [version] that’s released and publicly available online—we don’t want people making academic decisions from that. That’s tested on journalist articles, and it has an accuracy rate of 98.”
+Tian said that he and some of his college friends are now building a tool that teachers can use professionally.
+Some U.S. schools, such as public schools in New York City and Seattle, have blocked ChatGPT service access on their networks and devices amid fears that students will use it to cheat on assignments and the negative impacts it could have on student learning.
+A new research paper at the University of Pennsylvania’s Wharton School stated that ChatGPT had passed a graduate-level business examination.
+But Tian doesn’t think these blanket bans on ChatGPT in schools are the right approach.
+“I’m not for these blanket bans of ChatGPT in schools because students will just find ways to get around it,” said Tian.
+Tian said both of his parents are computer scientists, and he is pretty into the technology field. And his grandfather was a university professor, and his grandmother was an electrical engineer who graduated from Tsinghua University. They were very instrumental in his education to be exposed to new technologies as well.
+Tian said he has not decided on his future career goal.
+“But I definitely want to work at the intersection of technology and journalism, whether it’s natural language processing or data journalism,” he said.
+His major is in computer science, and his minor is in journalism at Princeton.
+Tian believes AI cannot replace human writing, so he also chose to study journalism.
+“I think it’s important to preserve aspects of human writing as well, and human originality and writing will remain an important skill for years to come,” said Tian.
+“Because these large language models aren’t writing anything unique. They’re not coming up with anything original. They’re taking huge portions of the internet and then repatterning them. So I think writing will remain a really important skill.”
+His team wants to start working on other languages for GPTZero, “because we’ve been contacted by teachers from across the world, from Switzerland, France, India, Australia, and China,” he said.

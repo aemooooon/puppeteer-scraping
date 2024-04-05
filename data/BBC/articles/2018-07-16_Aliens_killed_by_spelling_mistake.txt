@@ -1,0 +1,16 @@
+An infamously dreadful 2013 Aliens video game is now believed to have fallen victim to the most chilling of threats in the universe: a typo.
+Aliens: Colonial Marines was released on PC, PlayStation 3 and Xbox 360 to terrible reviews.
+Many of them mentioned how badly the artificial intelligence (AI) behaved.
+But it has now emerged that a single stray "a" in the game's code may have been to blame.
+Videos on YouTube show the game's AI characters - the aliens and human teammates the player doesn't control - ignoring threats, shooting wildly at nothing or standing in the line of fire.
+"The problem lies with the aliens themselves; they're not smart enough to hunt in packs or take you by surprise, they just wilfully hurl themselves in front of your short, controlled bursts," wrote IGN in its 2013 review of the game.
+"The aliens mainly hurl themselves forward - they shuffle over terrain and often get stuck on scenery," said Polygon at the time.
+The price of downloading the game on PC through Steam has recently been hugely reduced, which is why an error in a five-year-old game is now being discussed.
+And in fact, this mistake was first spotted in 2017 and discussed on PC gaming forums.
+The mistake relates to the alien's "tether" in the code. A tether is the area in the game where the alien is programmed to move in - and how it can exit this "tether" and move to another.
+However, a crucial piece of code spelled it "teather", which meant an important part of gameplay simply didn't happen.
+Instead, aliens wandered aimlessly around in the game or stood in groups hissing at the player as they pointed weapons at the supposed threat.
+Now, gamers have been updating the code on PC versions of the game and are reporting that the iconic aliens now respond in a more appropriate manner.
+Sadly, tweaking this line of code hasn't help improve the many other issues the game suffers from. 
+So you're probably still better off sticking with Overwatch or Fortnite.
+Follow Newsbeat on Instagram, Facebook and Twitter. 

@@ -1,0 +1,11 @@
+A new federal report says cyberthreat activity targeting elections is increasing worldwide, and is now more likely to be seen in Canada’s next federal ballot.
+The report by the Canadian Centre for Cyber Security found that in 2022, slightly over one-quarter of all national elections globally had at least one reported cyberincident.
+The centre says state-sponsored cyberthreat actors with links to Russia and China carried out most of the attributed activity aimed at foreign elections since 2021.
+Russia and China’s cyberthreat activity includes attempts to conduct denial-of-service attacks against election authority websites, accessing voters’ personal information, and scanning for vulnerabilities in online election systems.
+However, the centre cautioned that online perpetrators are getting better at covering their tracks, and most cyberthreat activity targeting elections remains unattributed.
+The report also highlights the emerging phenomenon of generative artificial intelligence, which can produce various types of content, including text, images, audio, and video, sometimes called “deepfakes.”
+“This synthetic content can be used in influence campaigns to covertly manipulate information online, and as a result, influence voter opinions and behaviours,” the report says.
+“Despite the potential creative benefits of generative AI, its ability to pollute the information ecosystem with disinformation threatens democratic processes worldwide.”
+In most cases, it is unclear who is behind AI-generated disinformation, the report adds.
+“However, we assess it very likely that foreign adversaries or hacktivists will use generative AI to influence voters ahead of Canada’s next federal election.”
+Cyberthreat actors are already using the technology to pursue strategic political objectives abroad, the report notes. For example, pro-Russia players have used generative AI to create a deepfake of Ukrainian President Zelenskyy surrendering following Russia’s invasion of Ukraine.

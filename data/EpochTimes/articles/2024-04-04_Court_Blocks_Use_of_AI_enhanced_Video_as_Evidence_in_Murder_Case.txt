@@ -1,0 +1,10 @@
+A Washington judge has blocked the use of video enhanced by artificial intelligence (AI) as evidence in the trial of a man who was accused of a 2021 shooting that left three people dead.
+In a Friday ruling, King County Superior Court Judge LeRoy McCullough said that AI technology used “opaque methods to represent what the AI model ‘thinks’ should be shown,” NBC News reported.
+“This Court finds that admission of this Al-enhanced evidence would lead to a confusion of the issues and a muddling of eyewitness testimony, and could lead to a time-consuming trial within a trial about the non-peer-reviewable-process used by the AI model,” the judge said.
+The ruling relates to the trial of Joshua Puloka, a 46-year-old man who was accused of killing three people and injuring two others in a shooting outside a Seattle-area bar on Sept. 26, 2021, according to the report.
+During the trial, his lawyers attempted to introduce cellphone video enhanced with machine learning software. But prosecutors argued that there was no legal precedent for using the technology in court.
+Mr. Puloka has claimed self-defense in the 2021 shooting at the La Familia Sports Pub and Lounge in Des Moines. His lawyers argued that Mr. Puloka attempted to de-escalate the situation when he was assaulted and returned fire, resulting in the shooting of bystanders.
+The incident was caught on cellphone video. Mr. Puloka’s lawyers have asked someone with a background in creative video production and editing to enhance the video for submission as evidence.
+The video was said to be enhanced using Topaz Labs software, an AI technology that is known for its use to “supercharge” video, according to the report.
+Legislatures in Texas, North Dakota, West Virginia, and Puerto Rico have created advisory bodies to study and monitor the AI systems their state agencies are using. Louisiana formed a new security committee to study AI’s impact on state operations, procurement, and policy.
+The proposed rule changes follow “surging complaints” around impersonation fraud and “public outcry” about the harms caused to consumers and to impersonated individuals, according to the FTC.

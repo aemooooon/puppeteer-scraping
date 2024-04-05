@@ -1,0 +1,12 @@
+Companies should not use immature biometric technologies to analyse emotion, the Information Commissioner's Office has warned.
+The ICO is worried organisations are making critical decisions about people without appreciating there is no scientific evidence the tech works.
+And it could cause "systemic bias, inaccuracy and even discrimination".
+Deputy commissioner Stephen Bonner told BBC News the worst tech was little better than a fortune-telling fish.
+The movements of the translucent red plastic fish, often found inside Christmas crackers, when placed in the palm of the hand, supposedly predict the future.
+Mr Bonner also compared the fantastic claims made for some biometric technologies to the magic sorting hat from the Harry Potter books.
+Biometric information is based on physical and behavioural characteristics, such as facial movements or heartbeats.
+The ICO was not against properly used biometrics, Mr Bonner told the BBC News Tech Tent Podcast, stressing some technologies - such as face and fingerprint scans to access smartphones - could protect people's data very effectively.
+But scientists told the ICO there was no robust link between people's inner emotions and intent and the expression on their face or sweat on their skin.
+As an example, Mr Bonner suggested recruitment technology that analysed a three-minute video and claimed to be able to tell "if this person will be a brilliant fit in your team".
+Post-doctoral researchers at Cambridge University recently raised similar concerns about some of the claims made for artificial-intelligence image-analysis systems used to assess a job candidate's personality.
+Mr Bonner said the ICO was warning companies: "If you go and buy this technology without any evidence that it's actually working and then there's harm for individuals, we're going to step in."

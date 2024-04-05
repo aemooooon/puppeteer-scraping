@@ -1,0 +1,11 @@
+Five hundred thousand people will use digital tools to manage their long-term health conditions in their own homes, under the British government’s transformative programme.
+It is spending £2 billion to support electronic patient records to be in all NHS trusts and to get 500,000 people to use digital tools to manage long-term health conditions such as diabetes in their own homes and care homes.
+He added that the NHS App will be at “the heart of these plans” so patients can use it to book hospital appointments, check test results, and register with a GP. Over 280,000 people already used remote monitoring at home and in care homes for long-term conditions in the last year, the government said.
+The government’s ambition is for at least 75 percent of adults to be using the app by March 2024 and also have access to video consultations by then.
+According to the plan, at-home monitoring, virtual wards, and outpatient video consultations “already brought more services into people’s homes over the course of the pandemic” and “through expansion and improvement of the NHS App and NHS.UK over the coming years, services will increasingly be in people’s pockets too.”
+The plan noted the use of the NHS AI lab to determine the areas where artificial intelligence “has the most potential to be deployed and scaled.”
+It said that this will be used for screening in crucial areas such as breast and lung cancer.
+“We are also using robotic process automation (RPA) to emulate human actions and interact with digital systems. As we automate basic manual and repetitive tasks to save time for staff, we will ensure that the way and reason automated decisions are made are understood by humans,” said the plan.
+The merger of medical data and artificial intelligence has raised ethical concerns.
+In 2015, DeepMind teamed up with the Royal Free Hospital to provide instant warnings via mobile app of acute kidney injury.
+Dr. Timothy Ferris, the national director of transformation at NHS England and NHS Improvement, said that “by harnessing the power of digital and data we can improve both how people access services and the way we provide care.

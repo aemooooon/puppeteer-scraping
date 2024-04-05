@@ -1,0 +1,43 @@
+A lack of accurate maps is a big problem in parts of Africa: for disaster relief agencies, local authorities and people looking for safe places to build homes. Could cheap survey drones and local volunteers help plug the gaps?
+Khadija Abdulla Ali is an unlikely drone pilot in the Tanzanian archipelago of Zanzibar.
+Conservatively dressed and from a traditional Muslim background, she is a member of the Zanzibar Mapping Initiative, which since its inception in 2016 has become a poster-child for how African nations can approach the urgent geospatial challenges they face.
+She never dreamed that her career would look anything like this.
+"I worked so hard. I was working 24 hours a day taking pictures, processing the data. My family wondered what I was doing it for, but it's so worth it."
+Behind these drone flights is Zanzibar's charismatic Minister for Lands, Muhammad Juma Muhammad.  
+An architect by training, he's grappling with urban growth and the needs of the tourists that prop up the local economy. Sprawling settlements are in no-one's interest on this idyllic and space-conscious island.
+"In Africa, we don't create space for human beings," he says. "To walk in the street in Zanzibar you have to negotiate with cars. We need to have pavements, space for children to play, for the old, for disabled people." 
+He believes maps can engineer social change.
+"We want to get to the stage where we can plot our hospitals on the map, where we can issue building safety certificates, where we can tell people where the local schools are. 
+"We might even be able to start taxing people on their property because we have a better sense of who owns what now." 
+Edward Anderson, who looks after urban planning and disaster reduction for the World Bank, says such survey drones are a nimble, low-cost solution.
+"Traditionally, you would use satellite imagery but it's not that effective in the tropics because of cloud cover and it's not very high resolution," he explains.
+"Or you'd use manned aircraft. But that's not something you can do every six months because it is too expensive. Just mobilising the plane can be hundreds of thousands of dollars."
+The Zanzibar Mapping Initiative is the largest drone mapping exercise in the world, but the project was inspired by one across the water in Dar Es Salaam, in mainland Tanzania, which is partly funded by the UK's Department for International Development.
+Here, the need for better maps is acute because the city is one of the fastest growing in the world, absorbing a thousand people a day.
+The last census in 2012 estimated the population to be 4.36 million - now it is nearly six million and rising.
+Authorities can't keep pace. And as many of the areas where newcomers settle don't appear on a detailed map, officially, they don't exist.  Nothing is known about them. 
+Consequently, they lack basic amenities, such as sewers and rubbish collection. 
+Osiligi Losai, a community leader in Kigogo, a suburb of Dar Es Salaam, surveys his domain with a sense of helplessness.
+"Houses are going up like mushrooms," he says.  
+Sitting between two rivers just off a dual carriageway, a population of 70,000 people has settled from all over Tanzania in this 2.5 sq km (1 sq mile) area, building their own housing in whatever space they can find. 
+This includes river banks, making the homes increasingly vulnerable to flooding. 
+"The water comes up to here," Mr Losai says, gesturing over his head. "People die in these floods."
+As a result, deadly diseases like cholera are a constant threat.
+"Mapping is the basic tool for any development," says Mr Losai. "Even if you go to war, you need a map of your enemy. If you don't have a map it's difficult for you to plan, to organise, co-ordinate, so things are completely random." 
+So locals are using drones to map the locality.
+"Now we're engaging the community to make maps so the people feel a sense of ownership in them," says Mr Losai, "and they're more willing to listen to us when we tell them not to build somewhere."
+But both drone mapping projects have found that an aerial photo can only show so much. 
+You also need boots on the ground, labelling what the drones see and flagging up issues, such as blocked drains.
+"You collect the data and then you've got to do something with it," explains John Kedar, director of international engagement for Ordnance Survey, the UK's national mapping agency.
+"Creating a map takes a lot of skills. There is a massive challenge in many parts of Africa developing skills to create digital mapping that is then used by governments and businesses."
+Even the biggest global technology companies, such as TomTom, say they need local help to complete their maps. 
+"I strongly believe in the power of crowdsourcing platforms where you work with voluntary or freelance contributors who collect information," says Arnout Desmet, head of TomTom's mapping division.
+Google is using artificial intelligence in Lagos to map roads, addresses and businesses from their Street View imagery, and adding buildings to the map from satellite pictures.  
+More Technology of Business
+But its Street View project only applies in seven African countries. And like TomTom, it relies on local people to fill in the gaps through its Local Guides programme. 
+Apple's maps are made from satellite images, which is fine for navigation but not for more detailed use. And several African countries are missing from its Standard Maps list - Ethiopia, Cote d'Ivoire, Djibouti and Zambia, for example. 
+For many mapping companies it seems there just isn't a commercial incentive to cover Africa, which is why governments, local communities and open source data are so important.
+The UN has created an Africa mapping initiative aimed at integrating population, housing and other social data with geographical information.
+It hopes that better "geosocial" maps could save lives.
+In Dar Es Salaam, for example, hospitals are starting to use the maps created by the World Bank's drones to mark where cholera patients are coming from, so they can spot where outbreaks are happening.
+"Mapping is simply a tool - a means to an end," concludes the World Bank's Edward Anderson.

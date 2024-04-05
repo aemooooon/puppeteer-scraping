@@ -1,0 +1,43 @@
+It's difficult not to be a bit overwhelmed by the Airbus campus in Toulouse.
+It is a huge site and the workplace for 28,000 staff, plus hundreds of visitors eager to see the planes being built.
+The enormous Beluga cargo plane is parked at a loading dock, ready to transport vehicles and satellites around the world. 
+Close to where we conduct our interviews is the hangar where the supersonic passenger jet Concorde was developed.
+This site is also home to much Airbus research and development, including the recently finished Project Dragonfly - an experiment to extend the ability of the autopilot.
+Over the past 50 years automation in aviation has transformed the role of the pilot. These days pilots have a lot more assistance from tech in the cockpit. 
+Project Dragonfly, conducted on an Airbus A350-1000, extended the plane's autonomy even further.
+The project focused on three areas: improved automatic landing, taxi assistance and automated emergency diversion.
+Perhaps the last of those is the most dramatic. 
+Malcolm Ridley, Chief Test Pilot of Airbus's commercial aircraft, reassured us that the risk of being involved in an air accident is "vanishingly small".
+However, aircraft and crew need to be ready for any scenario, so Project Dragonfly tested an automatic emergency descent system.
+The idea is this technology will take over if the pilots need to focus on heavy decision-making or if they were to become incapacitated. 
+Under its own control, the plane can descend and land, while recognising other aircraft, weather and terrain.
+The system also allows the plane to speak to air traffic control over the radio with a synthetic voice created through the use of artificial intelligence. 
+It is a lot for the plane's systems to take on. 
+One of the challenges was teaching the system to understand all of the information and create a solution, says Miguel Mendes Dias, Automated Emergency Operations Designer. 
+"The aircraft needs to, on its own, recover all the information. So it needs to listen for the airport messages from air traffic control. 
+"Then it needs to choose the most suitable airport for diversion," he said. 
+Project Dragonfly performed two successful emergency descents.
+During the test flights, French air traffic controllers fully understood the situation and the aircraft landed safely. 
+"It was really an amazing feat," says Mr Mendes.
+Thankfully, almost all landings are much less dramatic, and Project Dragonfly looked at the more usual kind as well. 
+Most big airports have technology which guides the aircraft on to the runway, called precision approach. 
+But not every airport in the world has that tech, so Airbus has been looking at a different way to land. 
+Project Dragonfly explored using different sensors to help an aircraft make an automated landing.
+It included using a combination of normal cameras, infrared and radar technology.
+The team also gathered data from around the world, so all sorts of weather conditions could be modelled.
+As well as giving the plane more information, the extra sensors give the pilot extra clarity, when monitoring the landing.
+For example, infrared cameras are useful in cloudy conditions, as the closer you get to objects the more heat an infrared sensor can pick up.
+The tech "will make the pilot comfortable in the fact that he's really aligned and on the good path to go to the runway," says Nuria Torres Mataboch, a computer vision engineer on the Dragonfly project.
+Project Dragonfly also looked at taxiing. Although this might seem like a basic task, it can be the most challenging part of the job, especially at the world's busiest airports.
+In this case, the pilot was in control of the aircraft.
+The technology provided the crew with audio alerts. So when the aircraft came across obstacles it issued an alert. It also advised pilots on speed and showed them the way to the runaway. 
+"We wanted something that would assist and reduce the pilots' workloads during the taxi phase," said Mr Ridley.
+What do pilots make of such developments? Some do not want the technology pushed too far. 
+"I don't know if any pilot is particularly comfortable with the computer being the sole arbiter of whether or not a flight successfully lands," said Tony Lucas, president of the Australian and International Pilots Association.
+More technology of business:
+In addition, he is not convinced that self-flying planes will be able to deal with complex scenarios that come up.
+"Automation can't replace the decision making of two well-trained and rested pilots on the flight deck," he said from his base at Sydney airport. 
+Mr Lucas used the example of the Boeing 737 Max, where an automated system led to two fatal crashes in 2018 and 2019. 
+Airbus is quick to point out that further automation will only be introduced when safe and that the objective is not to remove pilots from the cockpit.
+But could passenger planes be pilot-free one day?
+"Fully automated aircraft would only ever occur if that was clearly and certainly the safe way to go to protect our passengers and crew," says Mr Ridley.

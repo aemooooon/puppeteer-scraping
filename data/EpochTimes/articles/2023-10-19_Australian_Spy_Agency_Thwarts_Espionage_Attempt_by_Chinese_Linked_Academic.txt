@@ -1,0 +1,19 @@
+An attempt by a Chinese academic to infiltrate a prestigious institution has been foiled by the Australian Security Intelligence Organisation (ASIO).
+“The plot involved a visiting professor, a genuine academic who had also been recruited by Chinese intelligence,” Mr. Burgess said. “Their spymaster gave them money and a shopping list of intelligence requirements and sent them to Australia.”
+“The academic even set his PhD students research assignments in line with his intelligence requirements.”
+Mr. Burgess said he took a personal interest in the case upon discovering that one of the research topics was none other than himself.
+“But if they were looking for the next Mark Zuckerberg, they picked the wrong geek,” he said, adding that the Chinese academic was removed from Australia “before the harm could be done.”
+The spy chief said Beijing’s “ruthless business model” seeks commercial advantage by stealing intellectual property first.
+“Then they use talent programs, joint ventures, and acquisitions to harvest the expertise required to exploit the IP,” he said.
+“Sometimes the technology is put to military use, often it’s given to favoured companies to mass produce it, under-cutting and undermining the innovator.”
+James Bennett from EOS Space Systems said that the Chinese satellites would monitor military capabilities and equipment, including operations on the ground.
+The U.S. intelligence chief, FBI Director Christopher Wray, said the fact that the Five Eyes alliance—made up of the United States, Britain, Canada, Australia, and New Zealand—made the “unprecedented” joint call was to confront the “unprecedented threat” Beijing posed to innovation across the world.
+“China has long targeted businesses with a web of techniques all at once: cyber intrusions, human intelligence operations, seemingly innocuous corporate investments and transactions,” Mr. Wray said. “Every strand of that web had become more brazen, and more dangerous.”
+The Five Eyes officials said Beijing was stealing secrets in various sectors, from quantum technology and robotics, to biotechnology and artificial intelligence.
+However, Beijing has denied the allegations, saying that the communist regime was committed to intellectual property protection.
+The joint statement by the alliance was issued after it was discovered that a “cluster of activity” was associated with the CCP’s hacking group, Volt Typhoon—a state-sponsored actor typically focused on espionage and information gathering.
+The security alliance also believes these techniques “could” be applied to other sectors worldwide.
+The Australian Cyber Security Centre (ACSC) said one of the primary tactics used by the cyber actor, in this case, Beijing, is “living off the land”—where the actor blends in with normal Windows systems to evade detection. This tactic exploits legitimate pathways instead of malware.
+“They can avoid endpoint detection and response (EDR) products that would provide an alert on the introduction of third-party applications to the host and limit the amount of activity that is captured in default logging configurations,” the Five Eyes said.
+“Many of the behavioural indicators included can also be legitimate system administration commands that appear in benign activity. Care should be taken not to assume that findings are malicious without further investigation or other indications of compromise.”
+“Something like a blackout across the entire east coast as the energy grid is taken offline; or the national distribution networks that serve the grocery stores that Australians rely on suddenly grinding to a halt; or millions of Australians having their internet and communications cut-off for days at a time; or all of these events happening at the same time,” Mr. Paterson said at the Australian Cyber Conference on Oct. 19.

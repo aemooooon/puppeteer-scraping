@@ -1,0 +1,37 @@
+The amount of child sexual abuse material (CSAM) in cyberspace continues to expand and grow.
+The center added that by 2021 there had been 85 million child abuse images reported to it through the CyberTipline.
+Mr. Vishwamitra said that a “Stanford report just came out, and the Internet Watch Foundation [IWF] found thousands of AI-generated CSAM in a UK-based Dark Web forum.”
+He leads a team that researches and analyzes online hate and other cyber forms of offensive behavior and uses the information and data to develop tools that can be used to better identify offensive online AI images.
+“The idea is to create a benchmark of real-world AI images—that is, very realistic images without any imperfections—to test the capability of existing detectors.
+“We have found that existing detectors work well on vanilla-generated images, but they alarmingly fail on such real-world images.”
+A major concern for parents, schools, child welfare advocates, and law enforcement is how easy it is to use AI to take real, benign photos and videos of children’s faces—and audio of them speaking—and then combine them with nudity and sexual acts to create “deepfake” and lifelike child porn.
+The photos, video, and audio files of children can be taken from many areas online, particularly social media.
+With the click of a mouse, the warped imagery can be posted and made available worldwide.
+Once distributed, there is no way to remove it from cyberspace.
+It is not difficult to use AI to make CSAM, according to an expert.
+Mr. Vishwamitra said: “Anybody with a computer having a GPU [graphic processing unit] can create CSAM with free and easy-to-use tools.  All one has to do is go to a website, follow the installation steps, start the app, and enter text.”
+And while producing CSAM is easy, tracking and apprehending the lawbreakers is not.
+A primary factor that makes it difficult to identify, arrest, and prosecute the producers of CSAM—and those who download, store, and distribute the images—is that the activity can take place anywhere in the world, including in countries that do not have laws prohibiting child pornography, or in countries that have laws but they are not strictly enforced.
+As documented in the report, SIO found more than 3,000 images of suspected child abuse in the giant AI dataset LAION-5B, an open-source online index of more than 5 billion image-text pairs (hence the name LAION-5B) that had been used to train leading AI image-makers such as Stability AI’s Stable Diffusion.
+Following the initial issuance of orders in August 2022—which were sent to Apple, Meta, Skype, WhatsApp, Omegle, and Snap—eSafety sent a second set of orders, on Feb. 22, 2023, to Google, Twitter (now X), Discord, TikTok, and Twitch.
+A unanimous effort of attorney generals in the United States is out front and pushing Congress to take action on investigating, policing, and preventing the use of AI to threaten and harm children.
+On Sept. 5, the AGs from all 50 states, and four U.S. territories, sent a letter to Republican and Democrat leaders of the House and Senate calling on them to “establish an expert commission to study the means and methods of AI that can be used to exploit children specifically” and expand existing restrictions on child sexual abuse materials specifically to cover AI-generated images.
+One of those attorney generals is Marty Jackley of South Dakota.
+Two days before the release of the SIO report, Mr. Jackley announced his legislative priorities for 2024, among them to change South Dakota law so that making AI-generated CSAM is a violation of the state’s child pornography laws.
+Presently, only creating and distributing images of actual children being harmed is a crime in South Dakota.
+“Child-generated porn and the use of ‘deepfakes’ that use real children’s voices and photographs are growing problems in South Dakota and nationwide,” said Attorney General Jackley in a statement his office issued to The Epoch Times.
+Detectives in Columbia County were tipped off that Randy Cook, 27, who had been convicted of lewd and lascivious molestation, had digitally stored cartoon and AI-generated explicit images of children.
+Mr. Cook told investigators that he was part of a group, Make Loli Legal. The term loli describes cartoons that depict children in sexualized situations.
+He told law enforcement that he used the images to manage and try to keep under control his sexual urges.
+But Mr. Cook was not arrested for the cartoon and AI-generated images. Investigators referred images to the state attorney’s office Third Judicial District, which has jurisdiction over Columbia County.
+The Third Judicial District determined that, under existing statutes, since the images did not depict actual children, then they were not illegal.
+However, he was arrested after authorities continued their search and found actual child porn.
+Also, authorities discovered that Mr. Cook had social media accounts that he had not registered, which as a sex offender he is required to do.
+“I’ve been in law enforcement for 18-and-a-half years, and this is the first time I have even heard about AI-generated pornography,” said Steve Kachighan, public information officer for Columbia County Sheriff Mark Hunter’s office, in a phone call with The Epoch Times.
+“Maybe I’ve been living under a rock, and speculate that when the statutes were written, AI-generated porn was not foreseen.”
+When asked if the AI-generated images on Mr. Cook’s computer contained any photo images of children, Mr. Kachighan referred The Epoch Times to the Third Judicial Circuit for clarification.
+The Epoch Times reached out multiple times to the Third Judicial Circuit for comment but has not heard back.
+An NCMEC signature resource in this effort is its CyberTipline which was established in 1998. The tipline is an online mechanism that the public and electronic service providers (ESP) can use to report incidences of exploitation and harm to children.
+NCMEC’s Child Victim Identification Program (CVIP), launched in 2002, cross-references images of child victims that NCMEC analysts discover with images of victims that law enforcement has identified.
+The program has identified more than 19,000 children and is a fundamental component of rescuing children.
+Analysts review and monitor hotlines for CSAM, and if material is discovered they immediately contact the internet service provider (ISP) on which the content is found so that it can be promptly removed.

@@ -1,0 +1,22 @@
+Technology that could speed up and enhance security checks at airports is being demonstrated to industry experts at a showcase event in London.
+Among the innovations is a pad that could detect explosives hidden in shoes while people are queuing at security.
+The show is part of the government's Future Aviation Security Solutions (Fass) scheme, which is investing millions of pounds in promising ideas.
+However, the innovations are mostly still at prototype stage.
+The shoe scanner, developed by a company called Scanna, uses a grid of sensing electrodes to analyse shoes and what they contain.
+When the machine detects something that should not be in a pair of shoes, it alerts staff so they can intervene. 
+As it only takes a few seconds to work, the company hopes it could be integrated with full body scanners so passengers no longer need to remove their shoes at the airport.
+It could even be used on passengers as they wait in the queue at security. The company hopes to trial the technology before the end of 2019.
+Another company, Sequestim, hopes to eliminate the hassle of removing coats and items such as phones and wallets from pockets.
+It is working to combine artificial intelligence with a more sensitive version of the millimetre wave body scanners already used in airports.
+It hopes to let passengers pass through its scanners wearing their coats with full pockets, and still identify concealed threats.
+Cooling its sensor to close to -273C (-459F) increases its effectiveness and allows passengers to be scanned from up to 8m (26ft) away, the company says.
+While the cooling comes at a cost, the airport may find it pays off by being able to process passengers more quickly.
+The company says its artificial intelligence will let passengers leave their belongings in their pockets, as the system will learn "what normal looks like" and will be able to flag suspicious items.
+"It won't eliminate the need for a pat down, but will speed up the process by reducing the number of trays going through the scanners," said Rob Spurrett, managing director of Sequestim. 
+Researchers from Durham University hope their system will eliminate the need for passengers to remove electronics and liquids from their cabin bags during security checks.
+They are developing artificial intelligence that can analyse the images from the airport's X-ray scanners and identify anything that does not look right.
+Such a system would learn what a typical laptop looks like, for example, and would recognise if it had been modified to contain materials it had never seen in one before.
+Meanwhile, researchers at the University of Cambridge have been looking at the best way to train airport security staff.
+They propose that training people to spot forbidden items on X-ray images may be counter-intuitive, because the most severe threats are also the images that occur the least frequently.
+Their research suggests teaching staff which items they can ignore may lead to more successful threat detection.
+One of the ideas brought to the showcase by University College London was a portable security scanner that can probe of what materials an item is made.

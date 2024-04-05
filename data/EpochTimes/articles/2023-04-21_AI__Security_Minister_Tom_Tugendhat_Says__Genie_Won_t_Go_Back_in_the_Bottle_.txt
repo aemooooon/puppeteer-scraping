@@ -1,0 +1,17 @@
+Security Minister Tom Tugendhat has said it is too late to suspend or halt the development of artificial intelligence (AI) because of fears about how it will be used.
+But Tugendhat, speaking at the CyberUK conference in Belfast, said: “Given the stakes, we can all understand the calls to stop AI development altogether. But the genie won’t go back in the bottle any more than we can write laws against maths.”
+AI systems that power customer service chatbots, known as large language models, have ingested millions of digital books, letters, and messages which enable them to mimic human writing styles.
+Tugendhat said criminals and hackers are aware of how to exploit AI, adding: “Cyber attacks work when they find vulnerabilities. AI will cut the cost and complications of cyber attacks by automating the hunt for the chinks in our armour.”
+He said: “Already AI can confuse and copy, spreading lies, and committing fraud. Natural language models can mimic credible news sources, pushing disingenuous narratives at huge scale, and AI image and video generation will get better.”
+Tugendhat—who stood unsuccessfully for the leadership of the Conservative Party last year—said Russia and China are both exploring malevolent uses of AI.
+He said: “Putin has a longstanding strategic interest in AI and has commented that whoever becomes leader in this sphere will rule the world.”
+“China, with its vast datasets and fierce determination, is a strong rival. But AI also threatens authoritarian controls. Other than the United States, the UK is one of only a handful of liberal democratic countries that can credibly lead the world in AI development,” added Tugendhat.
+He warned, “We can stay ahead, but it will demand investment and co-operation, and not just by government.”
+The CyberUK conference was dominated by debates about Chinese and Russian cyber threats.
+Earlier this week, Lindy Cameron, head of the National Cyber Security Centre, said more needs to be done to protect Britain and British companies from the threat posed by cyber groups loyal to Moscow.
+The Chancellor of the Duchy of Lancaster, Oliver Dowden, also said Britain’s critical infrastructure is vulnerable to attack by a “cyber equivalent of the Wagner Group.”
+Cohen replied, “There is a particular risk ... which is that it could kill everyone.”
+He explained by using an allegory of training a dog with the use of treats as a reward.
+Cohen said: “It will learn to pick actions that lead to getting treats, and we can do similar things with AI. But if the dog finds the treat cupboard, it can get the treats itself without doing what we want it to do.”
+He added, “If you imagine going into the woods to train a bear with a bag of treats, by selectively withholding and administering treats depending on whether it’s doing what you want it to do, what they will probably actually do is take the treats by force.”
+Cohen warned of a paradigm shift where AI is capable of “taking over the process.”

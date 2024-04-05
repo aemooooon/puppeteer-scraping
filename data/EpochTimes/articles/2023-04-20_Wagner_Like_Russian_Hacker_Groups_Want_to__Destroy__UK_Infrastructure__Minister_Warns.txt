@@ -1,0 +1,17 @@
+Russia-aligned cyber groups sympathetic to the invasion of Ukraine have been trying to disrupt or destroy the UK’s infrastructure, Chancellor of the Duchy of Lancaster Oliver Dowden said on Wednesday.
+In a keynote speech at the National Cyber Security Centre (NCSC)’s annual cyber security event in Belfast, Dowden said the NCSC is issuing an official alert about these groups, which he said are “the cyber equivalent of the Wagner group”—a Russian paramilitary organisation.
+According to the minister, these groups initially focused their attacks on Ukraine and the surrounding region but recently began to turn their attention to the UK and its allies.
+Unlike past attacks, which were aimed at profiting or spying, he said, these ideologically-motivated groups’ primary goal has been disrupting or destroying the UK’s critical national infrastructure, and they are “more opportunistic” and “less likely to show restraint” than state-controlled actors.
+However, Dowden stressed that the government does not believe the groups “currently have the capability to cause widespread damage to our infrastructure in the UK.”
+Besides the “very visible” Chinese spy balloon detected in U.S. airspace earlier this year, Dowden said, “every day, a combination of criminals, spooks, hacktivists, and cyber soldiers silently and invisibly breach our digital defenses, both in the United Kingdom and in the rest of the world.”
+Giving the opening speech at the same event, NCSC chief executive officer Lindy Cameron urged organisations to “take seriously” Beijing’s ambition to dominate in cyberspace.
+“We need to be clear: China is not only pushing for parity with Western countries, it is aiming for global technological supremacy,” she said. “It wants to achieve a dominant role in global affairs.”
+Cameron said the UK has “a legitimate concern about whether the technology China is producing will allow us to secure ourselves effectively in a way that means we can do cyber security in 10 years’ time.”
+She also expressed optimism that Britain can keep up with China in cyberspace, saying the UK’s liberal economy, democratic values, and collaborative allies are “huge advantages.”
+Warning of potential risks that will emerge with new technologies, Cameron said the UK’s cyber security “must be built into thinking on artificial intelligence, semiconductors, quantum technologies, and future telecoms—all of which are underpinned and enabled by data.”
+Citing Large Language Models (LLMs) such as ChatGPT as an example, the cyber security chief said the LLMs bring “incredible” benefits while raising questions about what this means for security.
+Speaking earlier to Sky News, Cameron said the scale and pace of Beijing’s ambition and technology “is something that all of the people here at the conference need to take seriously and think about how it is that we build security into our future technology to keep our people safe.”
+“We shouldn’t be surprised that, as technology changes and improves, our adversaries are thinking about how they can use that as well. That’s not a shock,” she said.
+Nearly a quarter (24 percent) of charities suffered cyber attacks in the past 12 months, incurring an average damage of £53o.
+But most of the attacks were “relatively unsophisticated” and could be avoided by improving cyber hygiene such as setting up password policies, using network firewalls, restricting admin rights, and updating software.
+Cameron said the NCSC is launching a new cyber advisory scheme to help businesses with basic cyber security.

@@ -1,0 +1,20 @@
+New facial recognition technology has found a painting previously attributed to an unknown artist is highly likely to be a Raphael masterpiece.
+A team from the University of Nottingham and University of Bradford used the technology to examine the painting, known as the de Brécy Tondo.
+They found the faces were identical to those in a Raphael altarpiece.
+They said this means the paintings were highly likely to have been created by the same artist.
+The team compared the de Brécy Tondo, which sits in a collection set up by Cheshire businessman George Lester Winward and was thought by some experts to have been a Victorian copy, with the Sistine Madonna altarpiece.
+The similarity between the Madonnas in the two paintings was found to be 97%, while comparison of the child in both works produced an 86% similarity. 
+A similarity above 75% is considered identical.
+Dr Christopher Brooke, honorary research fellow at the University of Nottingham, is an expert in digital image analysis and co-authored a research paper about the find.
+He said: "Direct facial comparison comes out at a match of 97% - a very high statistical probability that the artworks are by identical creators.
+"Further confirmation comes from analysis of the pigments employed in the Tondo, which have demonstrated that the painting's characteristics are considered to be typical of Renaissance practice and therefore highly unlikely to be a later copy.
+"This is an exciting piece of work that promises much for the future examination of works of art."
+The artificial intelligence facial recognition system was developed by Hassan Ugail, professor of visual computing at the University of Bradford.
+Prof Ugail said: "Looking at the faces with the human eye shows an obvious similarity, but the computer can see far more deeply than we can, in thousands of dimensions, to pixel-level.
+"Based on the high evaluation of this analysis, together with previous research, my fellow co-authors and I have concluded identical models were used for both paintings and they are undoubtedly by the same artist."
+The research builds on previous work by Howell Edwards, from the University of Bradford, who had previously carried out extensive examination of the painting.
+Mr Winward bought the Tondo - which translates as "circular painting" - in 1981 as part of a collection of art spanning from the 16th to the 19th Century. 
+In 1995, two years before he died, he set up the de Brécy Trust Collection, named after his French ancestors, to preserve his collection of paintings and drawings and make them available to art scholars for study. 
+Timothy Benoy, honorary secretary of the de Brécy Trust, said: "The trust is absolutely delighted that this new scientific evidence confirms the Raphael attribution of the Tondo.
+"It illustrates very forcibly the increasing value of scientific evidence in the attribution of a painting."
+An academic paper on the analysis is due to be published shortly.

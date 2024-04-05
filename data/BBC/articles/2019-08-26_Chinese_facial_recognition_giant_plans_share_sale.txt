@@ -1,0 +1,25 @@
+A leading Chinese facial recognition provider has filed papers for a listing on Hong Kong's stock exchange.
+Megvii - the maker of the Face++ system - is one of the country's best known artificial intelligence (AI) companies.
+Earlier this year, a Western study suggested its face-checking tech was more accurate than rival systems from Amazon and IBM.
+But it comes at a time when campaigners are voicing concerns about facial recognition's use for surveillance.
+There have also been reports that the White House has considered adding Megvii to a trade blacklist that would prevent it making use of US-origin software and components.
+Face++ has been used in consumer-focused hardware, including:
+But it says that most of its current revenue comes from "smart city" applications, which include facial recognition and other  "security management" tasks at workplaces, educational institutions and major events.
+It has also been reported that the Beijing-based firm's tech has been used to help make thousands of arrests in China, and has been pitched to police departments in other countries.
+The technology works by first detecting human faces in an image.
+Then it creates a pattern determined by where a person's eyes, lips, chin and up to 1,000 other key features are located.
+It can then check whether the pattern matches that of a device's owner, or cross-reference it against a wider database containing facial maps for an "unlimited" number of people provided by the client in order to identify a subject or flag if they appear similar to someone on a watch list.
+In addition to being able to carry out face searches, the firm says its technology can also be used to detect emotions, provide beauty scores, track eye-gaze and body gestures, and evaluate the health status of a person's skin.
+Most recently the company announced a tie-up with an Austrian firm, Ams, to start offering 3D-depth sensing facial recognition. 
+In addition, it has released Hetu - an operating system for warehouse robots - which it says is already being used by Alibaba's Tmall subsidiary.
+The firm has said that part of the proceeds of the stock sale would be used to fund further research.
+It booked a 3.35bn yuan ($468m; £383m) loss in its last financial year, and a further 5.2bn yuan loss for the first six months of this year.
+But its area of expertise makes it a flag-bearer for the Chinese government's ambition to overtake the US and become the leading AI innovator by 2030.
+It was valued as being worth about $4bn in May.
+Megvii has not publicly disclosed how much it intends to raise, but the Reuters news agency reported that the flotation was aimed at raising between $500m to $1bn (£410m to £820m).
+The firm's Chinese-language prospectus does, however, spell out a long list of possible risk factors including:
+Furthermore it adds that it could be damaged by "rumours" about the abuse of its AI technology. 
+This has been interpreted by some to reference the fact that earlier this year, Human Rights Watch claimed to have evidence that Face++ was being used as part of efforts to repress Uighur Muslims in China. The campaign rights group subsequently retracted the allegation and issued a correction.
+Megvii also faces the fact that facial recognition is becoming an increasingly controversial subject.
+In Hong Kong itself, protesters have demanded the removal of so-called smart lampposts over fears they could be used to carry out facial ID checks. Last weekend, footage was shared on social media of one such structure being cut down with an electric saw.
+The Financial Times has reported that the EU plans new regulations to restrict use of facial recognition and make sure citizens are notified when it has been deployed, despite the fact the topic was already addressed in the recently-introduced General Data Protection Regulation (GDPR).

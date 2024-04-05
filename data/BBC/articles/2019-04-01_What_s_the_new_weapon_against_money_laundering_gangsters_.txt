@@ -1,0 +1,42 @@
+Money laundering accounts for up to 5% of global GDP - or $2tn (£1.5tn) - every year, says the United Nations Office on Drugs and Crime. So banks and law enforcement agencies are turning to artificial intelligence (AI) to help combat the growing problem. But will it work?
+Money laundering, so-called after gangster Al Capone's practice of hiding criminal proceeds in cash-only laundromats in the 1920s, is a huge and growing problem.
+"Dirty" money is "cleaned" by passing it through layers of seemingly legitimate banks and businesses and using it to buy properties, businesses, expensive cars, works of art - anything that can be sold on for new cash.
+And one of the ways criminals do this is called "smurfing".
+Specialist software is used to arrange lots of tiny bank deposits that slip below the radar, explains Mark Gazit, chief executive of ThetaRay, a financial crime AI provider headquartered in Israel.
+"A $0.25 transaction will never be spotted by a human, but transactions of that kind can launder $30m if they are done hundreds of millions of times," he says.
+And stolen money is often laundered to fund further criminal activity. One recent ATM (cash machine) scam cost banks €1bn (£854m) in total across 40 countries, for example.
+"The gang hacked into thousands of ATMs and programmed them to release up to five notes at a certain time - say 3am - at which point a local criminal or 'money mule' would pick it up," says Mr Gazit.
+"The money was then converted into Bitcoin and used to fund human trafficking."
+"Money mules" are often recruited to launder this gang cash through their legitimate bank accounts in return for a fee. 
+"Estimates suggest that not even 1% of criminal funds flowing through the international financial system is confiscated," says Colin Bell, group head of financial crime risk at HSBC.
+And the problem seems to be getting worse, despite tightening regulations. 
+In the UK alone, financial crime Suspicious Activity Reports increased by 10% in 2018, according to the National Crime Agency.
+The US Federal Bureau of Investigation (FBI) told the BBC it was working on "applied technical enhancements" to its armoury of crime-fighting tools to help it keep up with advances in financial tech, but remains understandably tight-lipped on the details.
+However, other organisations are openly talking about their use of AI to fight the money launderers.
+More Technology of Business
+"AI that applies 'machine learning' can sift through vast quantities of transactions quickly and effectively," explains HSBC's Mr Bell. 
+"This could be a vital tool for pinpointing suspicious activity."
+For this reason, AI is good at spotting smurfing attempts and accounts that are set up remotely by bots rather than humans, for example. 
+And it can also spot suspicious behaviour by corrupt insiders - a key element in many money laundering operations.
+"Using AI removes much of the risk of people deliberately overlooking suspicious activity," says Adam Williamson, head of professional standards at the UK's Association of Accounting Technicians (AAT) - a professional body tasked with helping accountants avoid money laundering.
+Many of the world's biggest banks have been embroiled in money laundering scandals in recent years.
+Earlier this year, Swiss banking giant UBS was hit with a €3.7bn (£3.2bn) fine after being found guilty of helping wealthy clients in France hide billions of euros from tax authorities and launder the proceeds. It is appealing against the decision.
+Last year, Dutch bank ING paid out €775 million for failing to stop criminals laundering money through its accounts.
+And Danske Bank's boss was forced to quit over a €200bn money laundering scandal involving its Estonian branch. 
+In Latvia, too, the country's third largest bank ABLV Bank AS, was wound up after US authorities accused it of large-scale money laundering that had enabled its clients to violate nuclear weapons sanctions against North Korea.
+AI can crunch mountains of data in real time - emails, phone calls, expense reports - and spot patterns of behaviour humans might not notice across a global banking group. 
+Once the system has learned legitimate behaviour patterns it can then more easily spot dodgy activity and learn from that.
+Regulators around the world are encouraging the new technology, perhaps in acknowledgement that they are losing the battle.  
+US Financial Crimes Enforcement Network (FinCEN) director Kenneth A. Blanco says: "Financial institutions have been improving their ability to identify customers and monitor transactions by experimenting with artificial intelligence and machine learning.
+"FinCEN encourages these and other financial services-related innovations."
+AI tech firms, such as ThetaRay, LexisNexis Risk Solutions and Refinitiv, are offering businesses tools to tackle money laundering, but there are concerns that this presents its own problems.
+"If organisations are buying AI off the shelf, how can they convince regulators they are in control of it?" asks the AAT's Adam Williamson. 
+And as good as AI might be at spotting anomalies when sifting through huge swathes of data, it is only as effective as the data it is fed.
+So there is a growing recognition of the need for banks, financial institutions, governments, and law enforcement agencies to share more information.
+"Europol is designed to operate in partnership with law enforcement agencies, governmental departments and other stakeholders," says the agency's deputy executive director Wil van Gemert.
+"We embrace the idea of collective intelligence."
+Mark Hayward, a member of the UK's new Economic Crime Strategic Board, set up in January, says: "Data sharing is one of our main priorities". 
+And legislation has to keep up with the latest trends in financial services that criminals can exploit.
+The terrorists behind the 2016 Nice truck attack, for example, paid for the vehicles by pre-paid card to take advantage of the anonymity these cards afford the user.
+This is why the European Union's fifth Anti-Money Laundering Directive introduced last year includes  digital currencies and prepaid cards for the first time.
+Given that the criminals appear to be winning, any tools that can help tackle the problem must surely be welcome.

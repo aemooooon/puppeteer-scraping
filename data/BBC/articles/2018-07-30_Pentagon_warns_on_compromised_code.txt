@@ -1,0 +1,12 @@
+The US military is being warned off installing software believed to have been compromised by Russian or Chinese state-backed hackers.
+The Pentagon has drawn up a "do not buy" list of suppliers, reports the Defense One news site.
+Legitimate-looking software developers could be fronts for enemy hacker groups, it was told.
+The news follows official warnings about software supply-chain attacks that target widely used programs.
+The Pentagon started to draw up the list in early 2018 and it is regularly circulated to procurement chiefs and other teams who source software for the armed forces. No details of which software packages or developers are on the list have been released.
+In addition, contractors who work with the US military to provide technology-related services are being "educated" about companies that look suspicious.
+Speaking to Defense One, Ellen Lord, US defence undersecretary for acquisition, would not be drawn on whether any weapons or projects run by the US military had been infiltrated by compromised software.
+Rather than concentrating on individual programs or weapon systems, she said, the Pentagon was concerned with the broader issue of finding and using trustworthy code.
+Attempts to subvert code could take several different forms, suggested a report by the US National Counterintelligence and Security Center. It could involve:
+Russia had consistently denied any involvement in cyber-espionage, said Vitaliy Shevchenko, from BBC Monitoring. Russia has said sanctions visited on companies such as its homegrown cyber-security company Kaspersky Lab were simply examples of American unfair competitive practices.
+Mr Shevchenko said Russia's information strategy regarded imported software as a threat in the same way the Pentagon did. However, he added, it was not clear how much success it had in swapping suspect code for native alternatives. 
+The "do not buy" list comes after several warnings over software and equipment already widely used in the US and UK.

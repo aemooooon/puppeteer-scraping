@@ -1,0 +1,20 @@
+About 2,200 people watched a gunman's video of his attack outside a synagogue in Germany before it was removed from video-streaming site Twitch.
+Twitch, which is owned by retail giant Amazon, said five people had watched the video as it was broadcast live.
+The footage remained online for 30 minutes after the live stream, during which time more than 2,200 people watched it.
+Twitch said the video was not promoted in its "recommended" feed.
+"Our investigation suggests that people were co-ordinating and sharing the video via other online messaging services," the company said in a statement.
+The attack happened in the city of Halle in eastern Germany at about 12:00 local time (10:00 GMT) on Wednesday.
+The video showed a man making anti-Semitic comments to camera before driving to a synagogue and shooting at its door.
+After failing to get in, the gunman shot dead two people nearby.
+The suspect is a 27-year-old German who acted alone, according to local media.
+In a statement, Twitch said it had a "zero-tolerance policy against hateful conduct".
+"Any act of violence is taken extremely seriously. We worked with urgency to remove this content and will permanently suspend any accounts found to be posting or reposting content of this abhorrent act," it said.
+The company said the account that live-streamed the attack had been created two months before the incident. It had only attempted to live-stream once before.
+Twitch said it had shared a "hash" of the video with a group of tech companies including Microsoft and Facebook.
+A video hash is essentially a "fingerprint" of a video that helps platforms detect if the same footage has been uploaded on their service.
+In March, an attack on a New Zealand mosque in which 51 people were killed was live-streamed on Facebook.
+The social network was criticised for failing to prevent copies of videos of the Christchurch mosque shootings from being shared on its platform.
+Facebook has since discussed plans to train algorithms to recognise videos of shootings so they can be detected and removed more quickly.
+It plans to use footage from police body cameras, captured during training exercises, to teach its systems to detect videos of real-life shootings.
+"We are far from solving this issue," said Christopher Tegho, a machine learning engineer at the video analytics firm Calipsa.
+"Understanding a whole scene is a more difficult and complicated task. 

@@ -1,0 +1,10 @@
+New Artificial Intelligence (AI) technology is hoping to deter deer from railway lines. 
+The system has been successfully tested along a mile of track between Peterborough and Grantham, train operator LNER said.
+The automated deer deterrent system (Adds) uses sound and vision sensors to identify when a deer approaches the tracks.
+If a deer is detected, a variety of audible and visual alarms will start.
+The alarms aim to deter the animal away from the tracks and an AI camera monitors its movement until it has been diverted to a safe distance.
+Traditional methods of deterring deer from railway tracks include train-mounted whistles - which are unreliable - and high fencing, which can be costly.
+The Adds system has deterred an average of 50 deer per week since the start of testing in May, LNER said.
+Around eight incidents of deer being hit by trains in the trial area would have been expected in that period, but only one has been reported.
+LNER chief digital and innovation officer Danny Gonzalez said: "Our first deployment of this innovative system to deter deer has quickly proven that the solution can save time, stress and, most importantly, deer."
+The train operator worked in partnership with Network Rail to develop the scheme and route engineer Jo Priestly said Adds will better protect deer and reduce disruption and delays for passengers.

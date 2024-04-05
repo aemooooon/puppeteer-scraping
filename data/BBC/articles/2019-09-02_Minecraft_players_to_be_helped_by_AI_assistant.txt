@@ -1,0 +1,11 @@
+Tired of digging all those blocks in Minecraft? Help could be at hand from an artificial intelligence assistant that can dig and build on command.
+Facebook researchers are developing the assistant that players control by typing commands in ordinary language.
+The team chose Minecraft because the physics of the game are simple and there are limits on the number of ways its blocks can be manipulated.
+An early version of the assistant has already been made available.
+The software behind the assistant controls an avatar in the Minecraft game world with which players can communicate.
+Video demonstrations show the AI assistant being told to build a circle out of wooden blocks and answering questions about what it is doing, asked by the controlling player.
+In a research paper laying out their aims, the team said they did not want to create yet another AI program that demonstrated "superhuman" performance in one sphere such as chess, Go or video games such as Starcraft.
+"Instead of superhuman performance on a single difficult task, we are interested in competency across a large number of simpler tasks, specified (perhaps poorly) by humans," they wrote.
+The challenge for the research was ensuring the AI can understand typed commands that use ambiguous language, and can then complete a task it has been given, said a blog about the project on the MIT Technology Review site.
+The relatively small number of blocks and objects making up the Minecraft world, as well as a limit on how they can be combined, provides "hand holds" for developing the smart assistant, said the research team.
+The AI has been programmed to learn from the mistakes it makes interpreting commands, so it can quickly get better at those tasks. This feedback loop will also help it grasp the meaning behind the imprecise language players are likely to use when issuing commands, said the team.

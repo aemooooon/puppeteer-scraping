@@ -1,0 +1,13 @@
+Australia’s media regulator will gain new powers to impose a compulsory code of conduct to target misinformation and disinformation on digital platforms.
+The Australian Communications and Media Authority (ACMA) will be given new information-gathering and record-keeping powers to respond to misinformation and disinformation in a federal effort to create transparency around major digital platforms.
+The new information-gathering powers will be similar to pre-existing industry codes that are already in place for the telecommunication and broadcasting sectors, but the ACMA will have the added ability to register an enforceable industry code to replace the voluntary self-regulating code that digital platforms have joined.
+“The new framework will focus on systemic issues which pose a risk of harm on digital platforms, rather than individual pieces of content posted online,” Rowland said in the statement.
+“Digital platforms will continue to be responsible for the content they host and promote to users.
+“In balancing freedom of expression with the need to address online harm, the code and standard-making powers will not apply to professional news and authorised electoral content, nor will the ACMA have a role in determining what is considered truthful.”
+The Albanese government will undertake public and industry consultation on draft legislation and release a draft Bill in the first half of 2023, followed by legislation in Parliament later this year.
+DIGI currently has eight major technology companies, including Adobe, Apple, Google, Meta, Microsoft, Redbubble, TikTok and Twitter, which are also the founding signatories. These companies have adopted the mandatory commitments and nominated additional opt-in commitments through public disclosures on the DIGI website.
+DIGI has welcomed the new oversight powers over misinformation and disinformation given to ACMA.
+“We welcome that this announcement aims to reinforce DIGI’s efforts and that it formalises our long-term working relationship with the ACMA in relation to combatting misinformation online.”
+Under the code of practice launched by Digital Industry Group Inc. (DIGI) on Feb. 22, 2021, the participating companies release an annual transparency report showing their commitment and efforts under the code that can help understand online misinformation and disinformation over time in Australia.
+Rowland said that the regulator needs to be empowered to ensure platforms such as Twitter and Facebook follow the code.
+Current AI tools have the ability to both flag certain posts and comments for review and automatically find new similar posts and comments that were previously identified as misinformation.

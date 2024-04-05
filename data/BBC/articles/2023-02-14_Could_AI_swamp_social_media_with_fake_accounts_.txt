@@ -1,0 +1,31 @@
+Whether it's getting cookery advice or help with a speech, ChatGPT has been the first opportunity for many people to play with an artificial intelligence (AI) system.
+ChatGPT is based an an advanced language processing technology, developed by OpenAI.
+The artificial intelligence (AI) was trained using text databases from the internet, including books, magazines and Wikipedia entries. In all 300 billion words were fed into the system.
+The end result is a Chatbot that can seem eerily human, but with an encyclopedic knowledge.
+Tell ChatGPT what you have in your kitchen cabinet and it will give you a recipe. Need a snappy intro to a big presentation? No problem.
+But is it too good? Its convincing approximation of human responses could be a powerful tool for those up to no good.
+Academics, cybersecurity researchers and AI experts warn that ChatGPT could be used by bad actors to sow dissent and spread propaganda on social media.
+Until now, spreading misinformation required considerable human labour. But an AI like ChatGPT would make it much easier for so-called troll armies to scale up their operations, according to a report from Georgetown University, Stanford Internet Observatory and OpenAI, published in January.
+Sophisticated language processing systems like ChatGPT could impact so-called influence operations on social media.
+Such campaigns seek to deflect criticism and cast a ruling government party or politician in a positive manner, and they can also advocate for or against policies. Using fake accounts they also spread misinformation on social media.
+One such campaign was launched in the run-up to the 2016 US election.
+Thousands of Twitter, Facebook, Instagram and YouTube accounts created by the St Petersburg-based Internet Research Agency focused on harming Hillary Clinton's campaign and supporting Donald Trump, concluded the Senate Intelligence Committee in 2019.
+But future elections may have to deal with an even great deluge of misinformation.
+"The potential of language models to rival human-written content at low cost suggests that these models, like any powerful technology, may provide distinct advantages to propagandists who choose to use them," the AI report released in January says.
+"These advantages could expand access to a greater number of actors, enable new tactics of influence, and make a campaign's messaging far more tailored and potentially effective," the report warns.
+It's not only the quantity of misinformation that could go up, it's also the quality.
+AI systems could improve the persuasive quality of content and make those messages difficult for ordinary Internet users to recognise as part of co-ordinated disinformation campaigns, says Josh Goldstein, a co-author of the paper and a research fellow at Georgetown's Center for Security and Emerging Technology, where he works on the CyberAI Project.
+"Generative language models could produce a high volume of content that is original each time... and allow each propagandist to not rely on copying and pasting the same text across social media accounts or news sites," he says.
+More technology of business:
+Mr Goldstein goes on to say that if a platform is flooded with untrue information or propaganda, it will make it more difficult for the public to discern what is true. Often, that can be the aim of those bad actors taking part in influence operations.
+His report also notes how access to these systems may not remain the domain of a few organisations.
+"Right now, a small number of firms or governments possess top-tier language models, which are limited in the tasks they can perform reliably and in the languages they output.
+"If more actors invest in state-of-the-art generative models, then this could increase the odds that propagandists gain access to them," his report says.
+Nefarious groups could view AI-written content similar to spam, says Gary Marcus, an AI specialist and founder of Geometric Intelligence, an AI company acquired by Uber in 2016. 
+"People who spread spam around rely on the most gullible people to click on their links, using that spray and pray approach of reaching as many people as possible. But with AI, that squirt gun can become the biggest Super Soaker of all time."
+In addition, even if platforms such as Twitter and Facebook take down three-quarters of what those perpetrators spread on their networks, "there is still at least 10 times as much content as before that can still aim to mislead people online", Mr Marcus says.
+The surge of fake social media accounts became a thorn in the sides of Twitter and Facebook, and the quick maturation of language model systems today will only crowd those platforms with even more phony profiles.
+"Something like ChatGPT can scale that spread of fake accounts on a level we haven't seen before," says Vincent Conitzer, a professor of computer science at Carnegie Mellon University, "and it can become harder to distinguish each of those accounts from human beings."
+Both the January 2023 paper co-authored by Mr Goldstein and a similar report from security firm WithSecure Intelligence, warn of how generative language models can quickly and efficiently create fake news articles that could be spread across social media, further adding to the deluge of false narratives that could impact voters before a decisive election.
+But if misinformation and fake news emerge as an even bigger threat because of AI systems like Chat-GPT, should social media platforms be as proactive as possible? Some experts think they'll be lax to enforce any of those kinds of posts.
+"Facebook and other platforms should be flagging phony content, but Facebook has been failing that test spectacularly," says Luís A Nunes Amaral, co-director of the Northwestern Institute on Complex Systems. 

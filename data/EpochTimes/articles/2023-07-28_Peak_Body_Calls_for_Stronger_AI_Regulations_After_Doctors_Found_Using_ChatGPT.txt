@@ -1,0 +1,16 @@
+The Australian Medical Association (AMA) is calling for stronger regulations and transparency around the use of artificial intelligence (AI) in the healthcare industry after doctors in Perth were ordered to cease using ChatGPT to write patient medical notes.
+“AI is a rapidly evolving field with varying degrees of understanding among clinicians, other health care professionals, administrators, consumers and the wider community.”
+“Crucially, at this stage, there is no assurance of patient confidentiality when using AI bot technology, such as ChatGPT, nor do we fully understand the security risks,” according to an email obtained by the ABC that was sent to staff by SMHS’s chief executive, Paul Forden.
+“For this reason, the use of AI technology, including ChatGPT, for work-related activity that includes any patient or potentially sensitive health service information must cease immediately.”
+The Epoch Times has confirmed the authenticity of the email with the SMHS.
+In a statement, Paul Forden, Chief Executive of the South Metropolitan Health Service, said the email sent to all staff in May was to remind staff of the importance of data integrity and patient confidentiality as a precautionary measure.
+“This was in response to one doctor being found to have used artificial intelligence (AI) bot technology to generate a patient discharge summary. There are no grounds to believe there has been any breach in anyone’s individual identifiable patient confidential information. The information put into the AI program did not include patient identifiable information,” Mr. Forden said.
+“While we recognise and value the use of AI technology in health, this must be done in a coordinated, considered, and approved manner, to ensure the safety and security of staff, patients, and our services.
+“The South Metropolitan Health Service prides itself on being a health service that champions new technologies and innovation, but it is essential this is done in a safe and considered way.”
+“Therefore, the AMA argues that to avoid similar challenges with AI applications in healthcare, adequate regulation and regulatory protections must be inclusive and representative. We contend that the application of AI in healthcare must be relevant to the target population,” the AMA said in its submission to the Department of Industry, Science and Resources Discussion Paper.
+Other industries that have concerns over AI biases include the employment and financial sectors.
+“Future regulation should ensure that clinical decisions that are influenced by AI are made with specified human intervention points during the decision-making process,” the AMA said.
+“The final decision must always be made by a human, and this decision must be a meaningful decision, not merely a tick box exercise.
+“The regulation should make clear that the ultimate decision on patient care should always be made by a human, usually a medical practitioner.”
+The AMA said that such regulations would establish responsibility and accountability for any errors in medical diagnosis and treatment.
+“In the absence of regulation, compensation for patients who have been misdiagnosed or mistreated by application of AI technologies will be impossible to achieve,” according to the AMA.

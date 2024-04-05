@@ -1,0 +1,31 @@
+An AI system designed to speed up the diagnosis of mental health conditions in children is to be developed in Cambridge.
+The technology will use routinely-collected data about children to find patterns that identify those most at risk. 
+Dr Anna Moore, who leads the project, said it could "revolutionise" care and highlight the need for more resources. 
+"Diagnosing it earlier, means it can be more easily treated," she said.
+Child psychiatrists believe there is "a crisis" in the mental health care of children, and the NHS estimates 20% of people under 24 probably need some form of mental health support.
+Dr Moore has just been awarded a £2.5m UK Research and Innovation (UKRI) Future Leaders Fellowship to pursue the programme.
+She said she had witnessed it first hand as a consultant psychiatrist, but - as an expert in clinical informatics at the University of Cambridge - she said she believed there could be a digital solution.
+"Our mental health is affected by genetics, our early experiences in life and our current environment," said Dr Moore.
+"We're going to use cutting-edge AI technology to look at information that is gathered about us by health, education and social services throughout childhood. 
+"By bringing it all together we hope to spot trends which can alert a clinician to the fact that a child may be developing an early mental health condition."
+Bullying, family poverty, physical health problems and being a young carer can all affect a child's mental health.
+Ali ,16, helps to care for his mother and brother who have a muscle-wasting condition, but he also has physical health problems of his own, which make going to school difficult. 
+"One year my attendance was just 20%," said Ali. 
+"I felt isolated, anxious and very low. It was like my Covid-19 lockdown had been extended by another couple of years.
+"Being a carer is also a challenge. You worry about whether you're doing too much or not enough to help."
+Ali and his brother have both experienced mental health problems and struggled to get timely support.   
+The system being developed by Dr Moore aims to help young people like Ali - without them having to ask for it.
+"Young carers often don't recognise that they need help themselves, so they can fall through the cracks in the system," said Dr Moore.
+"One hope is that these algorithms will identify the children whose problems may not ordinarily be flagged up so they can be offered support."
+Ali welcomed the research, saying: "It's amazing. Data is viewed anyway and this will be confidential so I don't have any issues with it. 
+"It's a clever idea and I think it will save lives."
+Dr Moore will develop this system, with help from Microsoft, to be used in the NHS and the forthcoming Cambridge Children's Hospital.
+The Kavli Centre for Ethics and the Centre for Human-Inspired AI are also both involved, to ensure the project progresses in a way that will benefit patients.
+All data gathered to program the algorithms will be anonymised, with codes replacing names and personal information. 
+Dr Moore said: "We've been working with families for years explaining what data we'd need, how we'd make it secure, unbiased and why we think it's necessary.
+"Their main concern was that none of our data should be given to police forces or commercial organisations like insurance companies, which it won't.
+"They've been overwhelmingly supportive."
+Jeremy Bernhaut, head of policy and influencing at Rethink Mental Illness, said: "Early intervention for young people struggling with their mental health can be lifesaving. 
+"However, in many cases, young people currently end up on heartbreakingly long waiting lists for support and the urgent priority is to resolve the lack of funding and workforce."
+Dr Moore hopes this project will highlight the need for more resources and that the technology can progress mental health care in the same way it has worked for physical conditions like diabetes and cancer.
+If you need mental health support, help is available via BBC Action Line.

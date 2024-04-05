@@ -1,0 +1,25 @@
+Our pick of the week’s science and tech stories, including mysteries of consciousness, monosodium glutamate, and lack of success in artificial intelligence.
+Johnny and Oppie
+ Anne Finkbeiner | Last Word On Nothing | 21 August 2013
+ How Robert Oppenheimer did the breakthrough work on black holes, and John Archibald Wheeler got the credit. “In 1939, Oppenheimer explained how a giant star runs on thermonuclear fusion until it’s out of fuel, then implodes and cuts itself off from the rest of the universe. He published this on September 1; the same day, Wheeler published with Niels Bohr the explanation of atomic fission. Also that day, Hitler invaded Poland.”
+How the light gets out
+ Michael Graziano | Aeon | 21 August 2013
+ On the problem of consciousness. You won't find the answer here, but you will encounter a worthwhile quantity of ideas and anecdotes on which to reflect. Including the case of the man who believed he had a squirrel in his head. “When told that a cranial rodent was illogical and incompatible with physics, he agreed, but then went on to note that logic and physics cannot account for everything in the universe.”
+How a computer program helped reveal JK Rowling
+ Patrick Juola | Scientific American | 20 August 2013
+ Developer of a computer program that analyses writing style explains how he used it to help identify the Harry Potter author as the author of A Cuckoo’s Calling, an anonymously published thriller. “It is important to decide carefully what kinds of similarities to look at. Not all choices are created equal; some choices (such as word length) are easier to notice, control, and change than others (such as the use of prepositions).”
+The Notorious MSG’s unlikely formula for success
+ John Mahoney | Buzzfeed | 16 August 2013
+ In praise of monosodium glutamate. It makes food taste great. So why is it demonised? Partly because of the “Chinese restaurant syndrome” scare 40 years ago; partly because MSG is heavily used in cheap industrial foods. But the “syndrome” is probably bogus; and the umami taste of MSG is the height of food fashion. Top chefs are using it again – even if “everyone’s so afraid of being outed that nobody wants to talk about it.”
+Our obsession with Rover
+ Robert Sapolsky | Wall Street Journal | 16 August 2013
+ Trolley problems with dogs. “Everyone would save a sibling, grandparent or close friend rather than a strange dog. But when people considered their own dog versus people less connected with them – a distant cousin or a hometown stranger – votes in favour of saving the dog came rolling in. And an astonishing 40% of respondents, including 46% of women, voted to save their dog over a foreign tourist.”
+Killing machines: How to think about drones 
+ Mark Bowden | The Atlantic | 14 August 2013
+ A much-discussed topic, but make room for this piece, which is thoroughly reported, well thought through, and filled with striking detail. “No American president will ever pay a political price for choosing national security over world opinion, but the right way to proceed is to make targeting decisions and strike outcomes fully public. In the long run, adherence to the law matters more than eliminating another bad actor.”
+Three nails in the coffin of peak oil
+ Euan Mearns | Oil Drum | 13 August 2013
+ World oil supply was widely predicted to be peaking in the past decade. It has gone on increasing. What happened? Oil prices rose sharply, encouraging more exploration, more discoveries, new technologies, exploitation of marginal reserves. Probably there’s enough oil to last us for decades yet without pushing the price above $150 per barrel.
+On our best behaviour
+ Hector Levesque | University Of Toronto | 9th August 2013
+ Accessible academic paper discussing relative lack of progress in artificial intelligence. Argues that the Turing test is the wrong benchmark: “The Turing Test has a serious problem: it relies too much on deception. A computer program passes the test if it can fool an interrogator into thinking she is dealing with a person not a computer. The ability to fool people is interesting, no doubt, but not really what is at issue here.”

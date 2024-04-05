@@ -1,0 +1,14 @@
+A hospital has introduced a new artificial intelligence system to help doctors treat stroke patients.
+The RapidAI software was recently used for the first time at Hereford County Hospital.
+It analyses patients' brain images to help decide whether they need an operation or drugs to remove a blood clot.
+Wye Valley NHS Trust, which runs the hospital, is the first in the West Midlands to roll out the software.
+Jenny Vernel, senior radiographer at the trust, said: “AI will never replace the clinical expertise that our doctors and consultants have. 
+"But harnessing this latest technology is allowing us to make very quick decisions based on the experiences of thousands of other stroke patients.” 
+She said the software automatically identifies the presence of large vessel occlusions – a blockage in one of the brain’s main arteries.
+It is also able to highlight any possible intracranial haemorrhages (areas of bleeding). 
+The software gives a rating used to determine critical changes in the level of blood flow on CT brain scans.
+The results and images are made available to the trust as well as to the stroke team and neuroradiologists in Birmingham. 
+They are then assessed by staff before a decision is made on how a stroke patient should be treated. 
+Radiographer Thomas Blackman told BBC Hereford and Worcester that it usually takes half an hour for the information to be communicated.
+He said the new AI-powered system now means it is "pinged" to the relevant teams' phones via an app in a matter of minutes.
+"It's improved the patient pathway a lot," he added.

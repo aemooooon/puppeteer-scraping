@@ -1,0 +1,14 @@
+A pioneering project to create the most robust estimate of Britain's hedgehog population has been launched.
+Durham University has joined the National Hedgehog Monitoring Programme (NHMP) which will monitor hedgehog activity in 40 locations.
+It will be the first time in the world artificial intelligence (AI) has been used to estimate their population.
+Philip Stephens, professor of ecology, said the university was looking forward "to playing an important role" in the project.
+Prof Stephens said: "This project is a great example of how people from all over the country can work together to improve the state of our biodiversity."
+Last year, Durham University received a gold award from the British Hedgehog Preservation Society (BHPS) for having a hedgehog friendly campus. BHPS is based in Ludlow, Shropshire.
+BHPS and the People's Trust for Endangered Species (PTES) is leading the monitoring project. It is working in partnership with Durham University, Nottingham Trent University, ZSL's London HogWatch and MammalWeb.
+The algorithms used by the AI software have been developed by Liverpool John Moores University's machine learning specialists, Conservation AI.
+NHMP said it will place cameras at an increasing number of places across Britain over the next three years, with the aim of monitoring 40 locations.
+AI will then be used to sort the images, which will be passed on to volunteers who will identify the species of hedgehog photographed.
+The data will be used to create population estimates which will be compared year-on-year.
+Dr Henrietta Pringle, from PTES, said: "We know hedgehogs are struggling, especially in the countryside, but before we can put practical conservation measures in place we need to understand where they are and why they’re declining.
+"This is the first study where populations are measured year after year, in the same location, which will produce vital data and allow us to identify those at risk, which in time will hopefully help us to reverse the decline."
+NHMP is now looking for volunteers to become hedgehog spotters.

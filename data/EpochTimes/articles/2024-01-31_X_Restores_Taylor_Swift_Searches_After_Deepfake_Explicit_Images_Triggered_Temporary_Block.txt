@@ -1,0 +1,7 @@
+LONDON—Elon Musk’s social media platform X has restored searches for Taylor Swift after temporarily blocking users from seeing some results as pornographic deepfake images of the singer circulated online.
+Searches for the singer’s name on the site Tuesday turned up a list of tweets as normal.
+A day earlier, the same search resulted in an error message and a prompt for users to retry their search, which added, “Don’t fret—it’s not your fault.” Users, however, had been able to get around the block by putting quote marks around her name.
+Sexually explicit and abusive fake images of Swift began circulating widely last week on X, formerly known as Twitter, making her the most famous victim of a scourge that tech platforms and anti-abuse groups have struggled to fix.
+“Search has been re-enabled and we will continue to be vigilant for any attempt to spread this content and will remove it if we find it,” Joe Benarroch, head of business operations at X, said in a statement.
+Earlier, he said the company had taken “temporary action“ to stop the searches and that it was “done with an abundance of caution” as it prioritized safety
+At least one search term—Taylor Swift AI—was still apparently blocked. Unlike more conventional doctored images that have troubled celebrities in the past, the Swift images appear to have been created using an artificial intelligence image-generator that can instantly create new images from a written prompt.

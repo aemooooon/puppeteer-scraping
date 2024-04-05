@@ -1,0 +1,21 @@
+The BBC Micro Bit mini-computer - used by millions of schoolchildren across the world - will receive its first major update since 2016.
+The new model includes a speaker and microphone, as well as artificial intelligence and machine-learning capabilities.
+Formerly a BBC-led project, it is now led by a foundation that aims to make coding accessible for children.
+The device will be released next month with prices starting at £11.50.
+"The purpose of the Micro Bit is to help children unlock their creative potential and learn how to shape the world around them," Gareth Stockdale, chief executive of the Micro Bit Educational Foundation, said.
+"Learning coding and computational thinking can enhance their life chances in the 21st Century."
+Since its launch, the Micro Bit has been designed for education, with an estimated 25 million children learning computer skills on the device in over 60 countries.
+The previous model launched in the UK in 2016, with the BBC giving away a free Micro Bit to every year seven student.
+It is now used in most secondary schools, as well as primary schools, universities and libraries.
+"The Micro Bit has a low floor and high ceiling - you can make it as advanced as you wish but it can also be very basic," said Keith Quille, a lecturer at the Technological University Dublin who runs free Micro Bit sessions for children and teachers.
+"We teach it at primary schools and at university degree level - because you don't need lots of other tools to make it work, it's very easy to use."
+The foundation has also donated 5,000 devices to families in the UK, to help with home schooling during the coronavirus pandemic.
+The Micro Bit is a palm-sized circuit board with an array of 25 lights that can be programmed to show letters, numbers and other shapes, and a Bluetooth chip for wireless connectivity.
+Rather than enter code directly into the computer, owners instead write their scripts in a choice of four programming languages via web-based tools on a PC, or via an app on a tablet or smartphone.
+Once written, the compiled scripts must be transferred to the Micro Bit, which then functions as a standalone device that can be used to flash messages and record movements, among other tasks.
+It can also be attached to other electronics to form the "brain" of a robot, a musical instrument or other kit.
+The new model will include a better microprocessor, with more memory; an in-built microphone and speaker; and a touch sensor.
+The built-in speaker will allow users to compose music and create interactive motion-sensitive instruments.
+The microphone will enable the device to respond to sound - for example, it could create a disco light that moves in time to music.
+As the hardware is now powerful enough to run machine-learning systems, the foundation has plans to expand into this area in future. 
+"The simplicity of Micro Bit means no accessories are needed to go with it, and now it has a speaker and microphone, it can do so much more," Lorraine Underwood, author of Save the World with Code, said.

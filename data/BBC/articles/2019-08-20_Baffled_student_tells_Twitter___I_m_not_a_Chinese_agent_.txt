@@ -1,0 +1,32 @@
+Twitter announced on Monday it had removed 936 accounts it said belonged to a state-backed Chinese effort to sow discord and undermine protests in Hong Kong.
+The accounts taken down represented "the most active portions of this campaign”, the company said. 
+That was news to Luka Ivezic, a 24-year-old student at Kings College London, whose account - @TechPoliticist - had been suspended, and appeared on the list of those said to be run by, and out of, China. 
+Mr Ivezic, who was born in Croatia and says he has never been to China, recently completed his thesis. The subject? “Disinformation, and how artificial intelligence can empower the tools that China and Russia have to misinform us.”  
+“It is a bit ironic that something like this would happen to me,” he said after I contacted him about the list. 
+According to documents released by Twitter on Monday, four of Mr Ivezic’s tweets were flagged, all of which discussed Artificial Intelligence, bitcoin and other related tech subjects. Tweets, which he says, he posted himself.  
+When contacted by the BBC, Twitter said it stood by its decision: "After further investigation with our team, we've confirmed [the account was] compromised and tied to the disinformation network noted in yesterday's disclosure.” 
+“It doesn’t make any logical sense,” said Marin Ivezic, Luka’s father, a partner with consultancy firm PriceWaterhouseCoopers, working on cybersecurity. 
+Luka’s account, he noted, was suspended in May - before the protest movement in Hong Kong escalated. 
+After this article was published, Twitter got in touch to say it would remove Luka's account from the list in order to protect his privacy, but the company maintained that the account had been correctly identified as being part of the Chinese effort.
+In its blog post about the China-related suspensions, Twitter said it had conducted "intensive investigations” into the 936 accounts on its list, adding that "we have reliable evidence to support that this is a coordinated state-backed operation”. 
+Luka doesn’t exactly fit that description - indeed, he used his account to post things you’d think China would prefer not to be out there, such as the concern over the security implications of Western countries using tech giant Huawei.  
+He is also the co-author, with his father, of Future of Leadership - a blog looking at technology and its impacts. The blog’s main Twitter account - @LeadershipAI - was also suspended, but does not appear on Twitter’s China list. 
+Marin told the BBC he was worried about the impact of his son’s account being listed by Twitter. 
+"He is currently being interviewed for positions in cyber and privacy and so on,” Marin said.
+"Any of his target employers would have extensive background checks and this would come out. Even with a solid explanation, some might decide that the risk of there being some truth in Twitter’s reporting is not worth the trouble." 
+So what happened?  
+The most likely explanation points to Marin’s decision to try and boost the number of people following his and his son's accounts last December.   
+"I had a social media freelancer supporting the start of the accounts,” Marin said, "and I suspect he bought some Twitter followers/bots, which I thought explained the suspension - until today.” 
+As you might imagine, it’s against Twitter’s terms of use to buy followers - with good reason. Not only does it misrepresent a person’s influence, but the shadowy agencies that offer such a service often gain access that can put your account at risk. The “followers” you gain are typically made up of vast networks of bot and spam accounts. 
+More to the point, these networks are sometimes sold on for other uses. It’s feasible that the network used to inflate Luka’s followers later came to be controlled by China to spread propaganda - but Twitter would not confirm this scenario to be the case here. 
+Nor would it comment on why Luka’s account was considered one of the 936 that “originated” in China and among those which "represent the most active portions of this campaign”. 
+According to the list tweets picked up by Twitter's moderators, the account was never used to tweet - or, it appears, retweet - anything remotely connected to the unrest in Hong Kong. 
+‘A lot of chaff in this wheat'
+Marin and Luka said they regretted their attempt to boost follower counts, and understood the suspension on that grounds. But, they argue, that alone was not just cause to list Luka’s account as being used by China to spread dangerous disinformation. 
+The inclusion of Luka’s account also caught the eye of Elise Thomas from Australia’s International Cyber Policy Centre, a think tank which studies misinformation efforts around the world.  
+"From going through the datasets Twitter has released,” she told me in an email, "it doesn’t seem like [Twitter] were particularly precise.  
+"There’s a lot of chaff in this wheat, so to speak, and some of it seems to have little or no connection to the protests.” 
+Her assumption is that, in something of a panic to put together an influence network China attempted to buy access to a large network of Twitter accounts in order to spread information as protests in Hong Kong escalated. 
+Luka’s account, unfortunately for him, may have been among them - even if it was never actually used for that purpose. 
+_____
+Follow Dave Lee on Twitter @DaveLeeBBC

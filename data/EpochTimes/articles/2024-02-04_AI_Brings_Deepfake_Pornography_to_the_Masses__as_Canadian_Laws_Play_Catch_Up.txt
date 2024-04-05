@@ -1,0 +1,49 @@
+This is the new era of artificial pornography for the masses.
+The technology required to create convincing fake pornography has existed for years, but experts warn that it’s faster and more accessible than ever, creating an urgent challenge for Canadian policymakers.
+Mr. Pasquier said society has “lost the certainty” of what is real and what is altered.
+“The technology got a little better in the lab, but mostly the quality of the technology that anyone and everyone has access to has got better,” he said.
+“If you increase the accessibility of the technology, that means good and bad actors are going to be much more numerous.”
+Across Canada, legislators have been trying to keep up. Eight provinces have enacted intimate image laws, but only half of them refer to altered images.
+B.C. recently became the latest, joining Prince Edward Island, Saskatchewan and New Brunswick.
+The B.C. law, which came into effect on Jan. 29, allows people to go to a civil resolution tribunal to get intimate images taken down, regardless of whether they are real or fake, and go after perpetrators and internet companies for damages.
+Individuals will be fined up to $500 per day and websites up to $5,000 a day if they don’t comply with orders to stop distributing images that are posted without consent.
+Premier David Eby said the recent sharing of fake images of pop star Taylor Swift proved no one was immune to such “attacks.”
+Attorney General Niki Sharma said in an interview that she is concerned people don’t come forward when they are the victim of non-consensual sharing of intimate images, real or not.
+“Our legal systems need to step up when it comes to the impacts of technology on society and individuals, and this is one part of that,” she said of the new legislation.
+But cases have occasionally been made public elsewhere.
+At least 17 photos taken from students’ social media were explicitly altered using artificial intelligence. School officials said they had contacted police and had made supports available for students directly or indirectly affected.
+“We are grateful for the courage of the students who brought this to our attention,” said Christian Michalik, superintendent of the Louis Riel School Division, in a letter to parents that was also posted on Facebook by a school division trustee.
+Manitoba has intimate image laws, but they don’t refer to altered images.
+Brandon Laur is the CEO of White Hatter, a Victoria-based internet safety company.
+The firm recently conducted an experiment and found it took only minutes using free websites to virtually undress an image of a fully clothed woman, something Mr. Laur called “shocking.”
+“It’s pretty surprising,” Mr. Laur said in an interview. “We’ve been dealing with cases (of fake sexual images) since the early 2010s, but back then it was all Photoshop.
+“Today, it’s much simpler to do that without any skills.”
+White Hatter’s experiment used Google to find seven easily accessible and user-friendly websites and applications capable of creating so-called “deep nudes.”
+In the original photo, a young woman dressed in a long-sleeved blue shirt, white pants and sneakers walks towards the viewer. In the next scenes, she’s nude, partially nude or wearing lingerie; White Hatter censored the resultant images with black bars.
+Angela Marie MacDougall, executive director of Battered Women’s Support Services, said her organization was consulted about the B.C. legislation.
+She said Swift’s case underscored the urgent need for comprehensive legislation to combat deepfakes on social media, and applauded the province for making it a priority.
+But the legislation targets non-consensual distribution of explicit images, and the next “crucial step” is to create legislation targeting creators of non-consensual images, she said.
+“It’s very necessary,” she said. “There’s a gap there. There’s other possibilities that would require having access to resources, and the women that we work with wouldn’t be able to hire a lawyer and pursue a legal civil process around the creation of images … because, of course, it costs money to do that.”
+But other legal avenues may exist for victims.
+Suzie Dunn, an assistant law professor at Dalhousie University in Halifax, said there were several laws that could apply to deepfakes and altered images, including those related to defamation and privacy.
+She said some forms of fakery could deserve exceptions, such as satire.
+Pablo Tseng, an intellectual property lawyer in Vancouver, said deepfakes are “accelerating” an issue that has been around for decades: misrepresentation.
+“There’s always been a body of law that has been targeted towards misrepresentation that’s been in existence for a long time, and that is still very much applicable today to deepfakes, (including) the torts of defamation, misrepresentation or false light, and the tort of misappropriation of personality.”
+But, he said that specific laws, like the B.C. legislation, are steps in the right direction of further combating the issue, in tandem with existing laws.
+But Mr. Tseng said he wasn’t aware of any judgment in which the technology is referenced in the context of misrepresentation.
+“It’s clear that just because no judgment has been rendered doesn’t mean that it isn’t happening all around us. Taylor Swift is but the latest example of a string of other examples where celebrities’ faces and personalities and portraits have simply been misused,” he said.
+Ms. Dunn said she believed content moderation by websites was likely the best way forward.
+She called on search engines like Google to de-index websites primarily focused on creating sexual deepfakes.
+“At a certain point, I think some people just give up, even people like Scarlett Johansson or Taylor Swift, because there’s so much content being produced and so few opportunities for legal recourse because you would have to sue every individual person who reshares it,” Ms. Dunn said.
+She said that while most video deepfakes involve celebrities, there are cases of “everyday women” being targeted.
+“All you need to have is one still image of a person, and you can feed it into these nude image generators and it just creates a still image that looks like they’re naked, and most of that technology only works on women.”
+Australian activist Noelle Martin is aware of the peril all too well.
+The 29-year-old said in an interview that she did a reverse image search of a photo of herself on Google about 10 years ago.
+Her curiosity turned to mortification when she found fake sexually graphic photos of herself.
+“It is the most shocking and painful and dehumanizing experiences that I’ve ever been through,” she said in an interview.
+“To see yourself depicted in all these different positions and different circumstances, in the most graphic and degrading way, is sickening.”
+She went to the police, but because there were no laws against it at the time, she said they told her to contact the websites to try to get them removed. Some obliged, but others didn’t respond and the faked images—and eventually video —continued to multiply.
+Ms. Martin said she still doesn’t know who targeted her or why.
+She began speaking out publicly, advocating for a national Australian law that would fine companies thousands of dollars if they didn’t comply with takedown orders. The law passed in 2018.
+Ms. Martin, who now works as a legal researcher at the University of Western Australia, said a global approach to combating the issue is necessary given the “borderless” nature of the internet, but it had to start locally.
+“Not only do we not have laws in some jurisdictions, in many of the ones that do, they’re not enforced. When you put it into the context of this becoming such an easy and quick thing for people to do, it’s scary because I know exactly what it’s going to be like,” she said.

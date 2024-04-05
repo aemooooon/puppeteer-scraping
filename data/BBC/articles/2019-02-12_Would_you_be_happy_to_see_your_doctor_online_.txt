@@ -1,0 +1,37 @@
+Would you be happy to see your doctor online? Growing numbers of patients seem to be attracted by the convenience. And doctors are also finding it useful as health services come under pressure from growing and ageing populations. 
+Lydia Campbell-Hill, a 35-year-old doctor from Cornwall, England, says switching to online consultations has transformed her life.
+"As a 'part-time' GP [general practitioner] working three days a week, I was doing 39 hours or more," she says. 
+"I was solo parenting, paying vast amounts on childcare, and not seeing my child much."
+After leaving her clinic-based job and working mainly online from her lounge or kitchen, she says: "My stress levels dropped and I can fit my hours around school, even working a couple of hours in the evening after my son has gone to bed."
+Doug Sweeny, from US primary care provider One Medical, says giving doctors the flexibility to work remotely greatly improves their quality of life.
+"The virtual team, they may have kids at home, they may be in places like Hawaii," he says.
+"It works brilliantly, it actually helps if you need a flexible schedule or are in an area [where] we don't have bricks and mortar."
+Quality of life is one thing, but telemedicine is also about hard-headed economics.
+"A significant portion of the patients doctors see daily are quick follow-ups of well-managed, long-term conditions, lab results, or script renewals," says Oyuka Byambasuren, a Mongolian GP researching technology and healthcare delivery, "and these can be addressed through teleconsultations."
+It is a point echoed by Luke Buhl-Nielsen, from Swedish telemedicine app KRY (which uses the name LIVI outside Scandinavia).
+"In Sweden, up to 45% of the volume that comes into general practice can be dealt with digitally," he says.
+And virtual visits are roughly two-thirds cheaper to provide than in-person visits, research suggests. 
+Doctor shortages is a growing problem around the world.
+The US could have up to 50,000 fewer than it needs by 2030, research firm IHS Markit believes. In Asia, the doctor shortage is fuelling the rapid rise of telehealth apps such as Halodoc, Doctor Anywhere, and Ping An Good Doctor.
+Private equity firms and venture capitalists are piling in to the sector, investing billions, as healthcare providers respond to the app-savvy, more consumer-focused generations.  
+Nearly two-fifths of Americans aged 22-38 now seek routine medical services virtually these days, says a digital health survey from consultancy firm Accenture.
+And this generation demands more convenient appointment times and a better service than that enjoyed by their elders.
+"People are wanting to receive healthcare with the simplicity and convenience they receive in other services in their life," says Brian Kalis, Accenture's head of digital health services.
+The number of virtual visits to the doctor in the US will reach 105 million by 2022, up from 23 million in 2017, says IHS Markit.
+Celina Schocken has gone to the doctor virtually for a year.
+"You go to the app and request a consult, and then it assigns you to a nurse or doctor, they open your electronic chart, and it feels like a FaceTime session," she says.
+Ms Schocken, a 46-year-old consultant in Washington DC who works on women's health in developing countries, says she enjoys not having to waste time in waiting rooms running the risk of catching flu from other patients.
+The service costs $200 (£154; €176) a year to join and online consultations are free. But in-person visits and other services are extra. 
+"It is really clean and efficient, and I love it," she says.
+Telemedicine has particularly taken off in Nordic countries, and is popular with women in Turkey, where birth control is coming under attack, according to analytics firm App Annie.
+Employers are also cottoning on to the benefits of telemedicine as a workplace perk. In the US, retail chain Walmart is offering employees doctor's appointments for $4 if they use a telemedicine service.
+"Employers are very sensibly appreciating that booking a meeting room for a 15-minute Skype consult is more productive than missing maybe an entire day to attend a GP appointment," says Dr Campbell-Hill.
+But there are challenges integrating telemedicine into healthcare systems, like Britain's or Canada's, that are paid for primarily from taxation.
+In the UK, for example, National Health Service GP surgeries receive a fixed amount of money for each patient on their books.
+The patients with easily treatable conditions effectively subsidise those with more complex conditions who require more care and attention. 
+So the concern is that telemedicine services could simply "cherry pick" the younger, healthier patients, leaving bricks-and-mortar surgeries with less money to treat those patients who are more expensive to treat, warns Dr Campbell-Hill.
+More Technology of Business
+And while chatbot-based health apps, such as Babylon, are also proving useful for initial triage or assessment of simple patient conditions, there are some concerns about how accurate the artificial intelligence (AI) underlying such chatbots really is.
+Dr Annette Neary, a former NHS consultant now based in Galway, Ireland, says: "Chatbot algorithms frequently ask overly broad questions and often come up with bizarre diagnosis options." 
+For example, she recently input symptoms of a man having a heart attack, and the AI came up with "panic attack" as a diagnosis.  
+"Another one for sepsis came up with gonorrhoea," she says.

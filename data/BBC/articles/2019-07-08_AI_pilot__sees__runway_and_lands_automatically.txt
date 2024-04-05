@@ -1,0 +1,12 @@
+An automatic pilot has landed a plane using image-recognition artificial intelligence to locate the runway.
+At large airports, systems on the ground beam up the position of the runway to guide automatic systems.
+But in late May a new AI tool landed a small plane carrying passengers, by "sight" alone at Austria's Diamond Aircraft airfield.
+One expert said it could potentially improve flight safety.
+The new system, developed by researchers at the technical universities of Braunschweig and Munich, processes visual data of the runway and then adjusts the plane's flight controls, without human assistance.
+Because it can detect both infrared light as well as the normal visible spectrum, it can handle weather conditions such as fog that might make it difficult for the human pilot to make out the landing strip.
+Another advantage of the technology is it does not rely on the radio signals provided by the existing Instrument Landing System (ILS). Smaller airports often cannot justify the cost of this equipment and it can suffer from interference.
+The innovation might soon become part of a "portfolio" of systems that helped to improve flight safety, said Dr David Leslie, at the Alan Turing Institute.
+Battista Biggio, at the University of Cagliari, said there was a possibility that someone could attempt to sabotage the AI.
+This might be done by placing markings on the ground to try and trick the AI pilot into thinking a runway was present when one was not, for example.
+Dr Leslie said he felt the risk was minimal.
+"Automation doesn't necessarily mean that the pilot would be any less in control of the flight, it could mean that they're more well supported by the technologies to land the plane," he said.

@@ -1,0 +1,24 @@
+People can be forgiven for feeling depressed these days. The future touted by global leaders is dire.
+The solution, according to the U.N., is to “recognize and treat the global mental health crisis that undermines human development and recognize the polarization that is more deeply dividing us, making collective responses harder.”
+Speaking at the recent WEF summit in Davos, Switzerland, a company called Wysa demonstrated its phone app that uses AI to provide psychological counseling.
+“This is a person coming into the app and starting to talk about things that are not necessarily about depression, just about their feelings,” said Jo Aggarwal, Wysa’s founder and CEO, displaying an example of an AI text therapy session. “AI is helping this person reframe what they’re thinking, it’s helping them open up.
+“People open up to AI three times faster than they do to a human therapist.”
+Aggarwal said the Wysa app currently has about 5 million users in more than 30 countries.
+She said that “232 people have written us to say that they’re only alive today because they found this app.”
+According to Wysa, many companies, including Accenture and SwissRe, are choosing to use its app. And schools are as well.
+“Teenagers have been our first cohort,” Aggarwal said. “About 30 percent of our users are young people under the age of 25. We do have a cutoff: above 13.”
+Numerous trials were used to test and refine the program.
+“We built this for three years iteratively,” adjusting the program when users had concerns about it, she said. Some concerns were about the “power differential” created by the app, particularly from younger users, who said, “I don’t want to reframe a negative thought because that’s the only control I have in this situation.”
+The U.N. stated that, for children, “dissonance is unpleasant—the aversive arousal state is because inconsistent cognitions impede effective and unconflicted actions.” In other words, cognitive dissonance allows for the questioning of U.N.-approved concepts and may result in children having second thoughts about taking action in support of the SDGs.
+“The dual potential of dissonance to undermine development goals by enabling compromise and inactions necessitates appropriate dissonance management for the attainment of development goals,“ the report reads. ”We posit two specific avenues, emotional resilience and prosocial behavior, for managing dissonance and attainment of the SDGs.”
+What the U.N. considers psychological problems aren’t just giving children headaches; the WEF says they’re also harming the productivity of “human capital.”
+According to Wysa, global mental health is deteriorating at an alarming rate: 1 in 8 people suffer from a mental health disorder today; there has been a 25 percent increase in “major depressive disorders”; 42 percent of employees polled by the company said their mental health had declined recently; and one-third of employees polled were “suffering from feelings of sadness and depression.”
+The downside is that patients may worry that “data from their encounters will be used for marketing, including targeted ads, spying or other nefarious purposes.”
+“There might even be concerns that the data might be hacked and even exploited for ransom,” the report reads.
+“Not hearing such statements during a course of treatment would be a warning sign that the therapy was not working,” the WEF wrote. “AI transcripts can also open opportunities to investigate the language used by successful therapists who get their clients to say such statements, to train other therapists in this area.”
+Questions from WEF attendees at Wysa’s presentation included whether AI therapy apps could be programmed to include suggesting certain “values such as service and community” and whether it uses “AI emotion recognition algorithms to see the condition of the voice” and assess how distressed a patient might be.
+“When we analyze their voice, people began to feel less safe," Aggarwal responded.
+“If we use their data to say, looks like you didn’t sleep very well last night based on their phone, they will start feeling less safe; they would say, ‘Oh, somebody’s tracking me.’ So we took all that cool AI out and gave them what they needed to be able to feel this was private, this was safe.”
+Voice recognition programs may be added in the future, however, when that can be done in what the app owners consider is a “clinically safe way.”
+Wysa has worked to create an app that’s “truly equitable, so that a person in Sub-Saharan Africa could access it as much as someone working at Goldman Sachs,” according to Aggarwal. For some languages, such as French and German, there’s a “for-profit track” to use the app; for others, such as Hindi, there’s a “non-profit track.”
+She explained that she herself had suffered from depression, and that was her inspiration to create an app that could help others.

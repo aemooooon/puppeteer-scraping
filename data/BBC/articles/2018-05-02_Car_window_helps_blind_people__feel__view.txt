@@ -1,0 +1,8 @@
+Ford is developing a new smart car window to let blind passengers experience the passing landscape.
+A prototype, called Feel the View, uses high-contrast photos to reproduce scenery using LED lights.
+Passengers can touch the display to feel different shades of grey vibrate at different intensities.
+The Royal National Institute of Blind People said the charity "wholeheartedly supports" the company's effort. 
+"[It] could contribute to breaking down barriers and making travel more enjoyable and inclusive for people living with sight loss," Robin Spinks, innovation manager at RNIB, told the BBC.
+Ford's team in Italy and GTB Roma designed the prototype with Aedo, a local start-up that creates devices for people with visual impairments. 
+In addition to the window displays, the smart car also features a voice assistant that uses artificial intelligence to describe the scenery outside the window. 
+A video for the technology shows a blind woman tracing the outline of a mountain while an automated voice identifies the image as a "snowy mountain". 

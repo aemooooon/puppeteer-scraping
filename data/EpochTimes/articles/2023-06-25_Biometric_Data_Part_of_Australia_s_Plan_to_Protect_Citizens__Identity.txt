@@ -1,0 +1,16 @@
+The Australian government is pushing for the use of biometric data to fight off identity thieves amid recent waves of cyber crimes that rocked the country.
+Among the principles, the federal government proposed using biometrics (fingerprints, facial recognition, and more) with individuals’ consent to prevent criminals from stealing personal credentials.
+“Passwords can be forgotten, stolen or compromised.”
+One of the principles involved states and the Commonwealth working together to ensure that different digital ID systems and credentials can be linked appropriately so that Australians can access services in any jurisdiction.
+In addition, the federal government planned to establish stronger and more consistent standards for issuing physical and digital credentials, as well as allow individuals to update their information conveniently across agencies nationwide.
+The strategy also pointed out the need for businesses and government agencies to collect and retain less personal information where appropriate to reduce the risks caused by data breaches.
+Other principles included streamlining the process to recover compromised identity credentials for Australians falling victim to hacks and making clear who is responsible for the cost of remediating credentials in the case of a cyber attack.
+While pushing for the adoption of digital identity, the federal government also promised to provide non-digital options for Australians who did not want to embrace new technologies, including older people and those from culturally and linguistically diverse communities.
+“It is essential we deliver a future-ready identity system.
+“This starts with a nationally consistent and coordinated approach to identity and strong partnerships between Commonwealth and state and territory governments.”
+The federal government has directed the Department of Home Affairs to work with states and territories to carry out the strategy.
+The FTC pointed out that some technologies can use biometric information to determine characteristics of individuals, such as age, race, gender, and personality traits, which would grant criminals access to those sensitive information.
+They also warned that stalkers and predators were using the technology to target women and girls across the country.
+Russian cybercriminal BlackCat, also known as AlphV, hacked into the database of law firm HWL Ebsworth in April and later posted 1.45 terabytes of sensitive information on the dark web on June 8.
+Due to the significant number of government agencies involved, the federal government had to acknowledge the seriousness of the incident.
+“I would place it in the realm of the most significant cyber incidents that we’ve experienced as a country over the last year, along with Latitude, Optus, and Medibank.”

@@ -1,0 +1,34 @@
+Some of the world's biggest venues, including Manchester Arena, are using weapons scanners "incapable" of detecting some large knives.
+Evolv, a US-based company that sells artificial-intelligence (AI) scanners, claims they can detect all weapons.
+But documents shared with BBC News by research firm IPVM suggest they may fail to detect certain types of knives, as well as some bombs and components.
+Evolv told BBC News it had told venues of all "capabilities and limitations".
+Marion Oswald, of the government's Centre for Data Ethics and Innovation, told BBC News: "There needs to be more public information and more independent evaluation of these systems before they are rolled out in the UK.
+"At the end of the day, they are potentially replacing methods of metal detection and physical searches that have been tried and tested."
+AI and machine learning enable the scanners to create unique "signatures" of weapons that differentiate them from items such as computers or keys, Evolv says, reducing manual checks and preventing long queues.
+"Metallic composition, shape, fragmentation - we have tens of thousands of these signatures, for all the weapons that are out there," chief executive Peter George said last year, "all the guns, all the bombs and all the large tactical knives."
+For several years, independent security experts have expressed doubts about some of Evolv's claims.
+The company has previously refused to let IPVM test its technology, Evolv Express.
+But last year, it gave permission to the National Center for Spectator Sports Safety and Security (NCS4). 
+NCS4's public report, published earlier this year, gave Evolv a score of 2.84 out of three - many types of guns were detected 100% of the time. 
+But it also produced a private report, obtained via a Freedom of Information request by IPVM and shared with BBC News along with emails between Evolv and NCS4.
+And it gave Evolv's ability to detect large knives a score of just 1.3 out of 3.
+In 24 walkthroughs, Evolv Express failed to detect large knives 42% of the time.
+"The system was incapable of detecting every knife on the sensitivity level observed during the exercise," the report says.
+"Recommend full transparency to potential customers, based on data collected." 
+IPVM's Conor Healy said: "For certain categories of knives, the system didn't detect them at all when they were brought through. And that completely conflicts with what Evolv has told the public." 
+NCS4's report does not say, and BBC News is not reporting, what types of large knives the technology failed to detect
+And for security reasons, BBC News is reporting no further details about the documents' suggestion it may also fail to detect certain types of bombs and their components.
+ASM Global, which owns Manchester Arena, has said its use of Evolv Express is the "first such deployment at an arena in Europe" and it plans to roll the technology out to other venues.
+In 2017, a man detonated a bomb at an Ariana Grande concert in the arena, killing 22 people and injuring hundreds more, many of them children. 
+Asked whether the private report's conclusions had been passed on, an ASM Global official told BBC News it did not wish to comment on security matters. 
+Emails obtained by IPVM show Evolv employees had been allowed to make "tracked changes" to the report - deleting certain sections.
+In one version, dated 19 January, the conclusion "knives were not consistently detected" was deleted. 
+An Evolv employee using "track changes" also deleted a reference to the system being "incapable of detecting every knife" and one to the 1.3 score.
+Asked why Evolv had been able to edit what was labelled an independent report, NCS4 told BBC News it "did not allow Evolv to directly edit the report". 
+"The 'track changes' feature was used as a means to collect feedback," an official said. 
+And NCS4 "stands by its process, which has proven effective in informing and educating solution providers and practitioners". 
+Evolv did not dispute the private report's conclusions. 
+"We work closely to communicate sensitive security information, including the capabilities and limitations of our system, so that security professionals can make the most informed decisions for their specific venue," an official told BBC News. 
+"We feel providing a blueprint of how to get around the security-screening process and technology to the public will make the venues our customers secure less safe."
+The NCS4's report is important because very little is known, publicly, about how well Evolv technology works. 
+Evolv told BBC News it had also been tested by the Centre for the Protection of National Infrastructure - a body attached to the Home Office. 

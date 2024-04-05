@@ -1,0 +1,17 @@
+The use of artificial intelligence in the labour market could lead to 8 million job losses and no GDP gain, a think tank has warned.
+Generative AI is set to be a “game changer” for millions of workers in the UK, analysis by the Institute for Public Policy Research (IPPR) has found.
+Whether the changes will be positive or destructive for the labour market largely depends on its effective management and implementation, the think tank said.
+“History show[s] that technological transition can be a boon if well managed, or can end in disruption if left to unfold without controls. Indeed, some occupations could be hard hit by generative AI, starting with back office jobs,” said Carsten Jung, senior economist at IPPR.
+Customer service, secretarial workers, and administrative positions are at the highest disruption risk during the first wave of AI adoption, IPPR said.
+According to IPPR, the first wave stage is already underway, while the second stage involves further and deeper integration of AI technologies. Analysts found that 11 percent of tasks, such as database and inventory management, are already exposed to the first wave.
+The existing adoption of AI in the workplace could lead to the loss of 1.5 million jobs, leaving the economy dry, while the second wave could result in full displacement and the loss of 7.9 million jobs.
+The IPPR analysis also presented the best-case scenarios, in which jobs are not lost but augmented, while the economy reaps the benefits of up to £306 billion per year.
+The think tank has called on the government and businesses to steer the direction of AI implementation in the labour market. A job-centric industrial strategy is necessary to avoid the worst case scenarios and to ensure that workers across all sectors and levels benefit proportionately.
+“But technology isn’t destiny and a jobs apocalypse is not inevitable – government, employers and unions have the opportunity to make crucial design decisions now that ensure we manage this new technology well. If they don’t act soon, it may be too late,” said Mr. Jung.
+His comments follow the long-anticipated government response to last year’s white paper consultation on AI regulation.
+The approach adopted by the government is a principles-based, non-statutory, and cross-sector framework. In contrast to the EU, whose approach to tech regulation is more protective, the UK is more sector-based and self-regulatory when it comes to AI.
+The Department for Science, Innovation and Technology has, however, acknowledged that challenges posed by AI technologies will ultimately require legislative action.
+Another measure would ensure people retain responsibility in such sectors as health care.
+Given certain risks associated with AI use by teachers, it requires effective human supervision, AQA added.
+Following a review of the impact of AI foundation models (FM) on UK consumers and market competition, the Competition and Market Authority (CMA) published a set of guiding principles last year.
+The regulator has called for accountability by FM developers and businesses using the technology, as well as transparency for consumers.

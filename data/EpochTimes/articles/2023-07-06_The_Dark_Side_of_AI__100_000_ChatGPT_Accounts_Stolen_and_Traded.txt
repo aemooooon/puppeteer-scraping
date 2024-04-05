@@ -1,0 +1,16 @@
+Criminals are targeting users of the artificial intelligence (AI) chatbot ChatGPT, stealing their accounts and trading them on illegal online criminal marketplaces—with the threat having already affected more than 100,000 individuals worldwide.
+“These compromised credentials within the logs of info-stealing malware traded on illicit dark web marketplaces over the past year,” the release reads.
+“The Asia-Pacific region has experienced the highest concentration of ChatGPT credentials being offered for sale.”
+When unassuming users interact with AI, the hidden malware captures and transfers data to third parties. Hackers can use the information collected to generate personas and manipulate data for various fraudulent activities.
+Sensitive information, including personal and financial details, must never be disclosed—no matter how friendly the user gets with the AI.
+Moreover, this issue isn’t necessarily a drawback of the AI provider—the infection could already be in the device or within other applications.
+Out of the more than 100,000 victims between June 2022 and May 2023, India accounted for 12,632 ChatGPT accounts, followed by Pakistan with 9,217, Brazil with 6,531, Vietnam with 4,771, and Egypt with 4,588. The United States ranked sixth with 2,995 compromised ChatGPT credentials.
+“Many enterprises are integrating ChatGPT into their operational flow. Employees enter classified correspondences or use the bot to optimize proprietary code,” said Dmitry Shestakov, head of threat intelligence at Group-IB.
+“Given that ChatGPT’s standard configuration retains all conversations, this could inadvertently offer a trove of sensitive intelligence to threat actors if they obtain account credentials.”
+The cybersecurity firm’s analysis of criminal underground marketplaces revealed that a majority of ChatGPT accounts were accessed using the malware Raccoon info stealer, which alone was responsible for more than 78,000 of the compromised credentials.
+Users can enable 2FA on their ChatGPT accounts in the “data controls” section of the settings.
+But even though 2FA is an excellent security measure, it isn’t foolproof. As such, if users converse with ChatGPT about sensitive topics such as intimate personal details, financial information, or anything related to work, they should consider clearing all saved conversations.
+To do so, users should go to the “clear conversations” section in their accounts and click “confirm clear conversations.”
+For instance, since ChatGPT aids in generating code, the application lowers the bar for coding malicious programs, thus allowing even less skilled individuals to perpetrate sophisticated cyber attacks.
+“Multiple scripts can be generated easily, with slight variations using different wordings. Complicated attack processes can also be automated as well,” it stated in the post.
+“We are seeing Russian hackers already discussing and checking how to get past the geofencing to use ChatGPT for their malicious purposes,” the post reads.

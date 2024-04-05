@@ -1,0 +1,13 @@
+Farmers are beginning to use artificial intelligence (AI) to keep an eye on the level of wildlife on their land.
+A system called Chirrup was founded by Cheltenham developer Conrad Young. 
+It identifies individual bird species from recordings of the dawn chorus.
+It logs the recordings to build a picture of the bird population, which helps indicate levels of biodiversity. As more sounds are recorded, it builds an increasingly detailed database.
+"It's pretty much like having a real human sitting here 24/7 and listening when we tell it to listen," said Mr Young.
+Farm manager Peter Cheek has started using the system at his Godminster farm which converted to an organic farm in 1999.
+Mr Cheek said it was an affordable way of measuring farm diversity on a regular basis, and hoped knowing more about the birds on the farm would give him more information about the security of his crops.
+"They tell you what insects are about and obviously we are organic, so we don't use any insecticides, or sprays or anything like that. 
+"So if we have got those insects and the birds are eating them, they are also eating other bugs that are trying to damage the crops.". 
+Over time, the system becomes more capable of assessing what it picks up.
+Mr Young said: "Strangely, the computer isn't really listening to sound, it's looking at a spectrogram - so a picture of the sound."
+Mike Jones, who helps run pioneering farm engineering projects from a centre in Shepton Mallet, believes AI Is revolutionising productivity in farming. 
+ "It is about learning how to use this technology to the advantage of the environment, the farm business itself and just to make everything more efficient," he said. 

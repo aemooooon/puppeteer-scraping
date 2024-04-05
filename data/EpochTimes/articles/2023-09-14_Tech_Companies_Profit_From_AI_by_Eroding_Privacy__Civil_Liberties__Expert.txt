@@ -1,0 +1,17 @@
+Government inaction and weak regulations for artificial intelligence (AI) development are harming the American public while profiting major tech corporations, according to the Congressional testimony of one expert.
+Woodrow Hartzog, a professor of law at Boston University, said that “half measures” like audits and controls that are implemented after AI systems have already been deployed are putting the safety of American citizens at risk.
+“To bring AI within the rule of law, lawmakers must go beyond half measures to ensure that AI systems and the actors that deploy them are worthy of our trust,” Mr. Hartzog said during a Sept. 12 Senate Judiciary subcommittee hearing on the issue of AI regulation.
+To that end, Mr. Hartzog said that tech corporations are diluting consumer protection laws by fortifying their own preferred practices within a web of oversight rules and bureaucracy.
+“These tools are necessary to begin the task of data governance, but industry has routinely leveraged procedural checks such as these to dilute data and consumer protection law into a managerial box-checking exercise that largely serves to entrench harmful surveillance-based business models,” Mr. Hartzog said.
+Mr. Hartzog said that the government’s response to the emergence of AI, however, has been less than impressive.
+While pushes for transparency, regulatory rules, and guardrails on AI development are necessary, he said, such tools alone “are not sufficient” to prevent AI developers from exploiting Americans, eroding privacy norms, and, ultimately, undermining the nation’s republican form of government.
+“At best, AI transparency can only be a first step, and not an end in itself,” Mr. Hartzog said.
+“If we do not impose rules to limit abuses of power, we risk eroding our civil liberties, our civil rights, and our democracy itself.”
+If Congress truly desires to protect the American people from AI, Mr. Hartzog said, it should accept that AI systems are not neutral to political bias, focus on “substantive interventions” that limit abuses of power, and resist the narrative that AI systems are inevitable.
+“When implemented as standalone protections rather than as components of broader governance strategies, AI half-measures provide merely a veneer of accountability while failing to prevent or remedy the more serious harms that flow from deployment of untrustworthy AI systems,” Mr. Hartzog said.
+Sam Altman, CEO of OpenAI, which developed ChatGPT, testified at that hearing that it was likely AI would greatly destabilize society, laying waste to many jobs that currently exist and being used by malign actors to influence the outcomes of elections.
+“We have tried to be very clear about the magnitude of risks here,” Mr. Altman said.
+“Given that we’re going to face an election next year … I do think some regulation would be quite wise on this topic. ... It’s one of my areas of greatest concern.”
+Despite that concern, Mr. Altman insisted that “the benefits of our tools vastly outweigh the risks.”
+Speaking at Tuesday’s hearing, Mr. Blumenthal made clear that government regulation on AI was coming. The only questions are when and to what extent.
+“The point is, there must be effective enforcement,” Mr. Blumenthal said.

@@ -1,0 +1,14 @@
+Researchers are hoping a new Artificial Intelligence (AI) tool could help identify patients at increased risk of side effects from radiation treatment for breast cancer.
+Experts at the University of Leicester are among those who are helping to develop the new tool.
+They hope it will assist doctors and patients with radiation treatment options.
+They added survival rates for breast cancer had risen dramatically.
+However they said some patients were at risk of radiation treatment side effects, including skin ulcers and heart damage.
+The researchers are hoping AI can predict where and what side effects a patient will get.
+Dr Christopher Talbot from the university's Department of Genetics and Genome Biology, who is the science coordinator for the project, said: "The impact this could have on cancer patients is significant.
+"[It would] enable them to make informed choices which will improve their quality of life after cancer treatment. 
+"Although radiotherapy is very good at treating tumours, we know that a minority of patients can suffer significant side effects from radiation treatment.
+"AI could assist in the decision-making process and ultimately improve an individual's quality of life by predicting where and what the side effects will be, based on their genetic makeup.
+"Data from existing cancer patients will be used to design and implement an AI tool that serves exactly this purpose."
+The researchers are part of a team from across Europe who are developing the tool.
+It will be trialled across 26 hospitals, including Leicester, over the next three years.
+Dr Tim Rattay, associate professor in breast surgery at the University of Leicester, said: "It's our hope this will be a world-leading product."

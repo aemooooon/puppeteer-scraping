@@ -1,0 +1,17 @@
+Chinese tech giant Tencent and London medical firm Medopad have teamed up to use artificial intelligence in the diagnosis of Parkinson's Disease.
+A camera captures the way patients move their hands to determine the severity of their symptoms.
+The research team has trained the system with existing videos of patients who have been assessed by doctors, working with King's College Hospital in London.
+"We use the AI to measure the deterioration of Parkinson's disease patients without the patient wearing any sensors or devices," explains Dr Wei Fan, head of the Tencent Medical AI lab.
+The aim is to speed up a motor function assessment process, which usually takes more than half an hour. 
+Using smartphone technology developed by Medopad, the hope is that patients could be assessed within three minutes - and might not even have to attend a hospital.
+Medopad is a London-based firm that has been developing apps and wearable devices to monitor patients with various medical conditions. 
+It has been growing fast - but is a minnow compared with Tencent, which is spearheading China's huge investment in AI. 
+Medopad's chief executive Dan Vahdat says that there was no British company that could match what Tencent offered as a partner.
+"Our ambition is to impact a billion patients around the world - and to be able to get to that kind of scale we need to work with partners that have international reach," he told me.
+Wei Fan also emphasises the scale of his company's ambitions in health AI, stressing that it is focused on helping to treat diseases that affect very large numbers of patients. 
+At a time when the US and China are squaring up over leadership in the artificial intelligence race, some may wonder just how wise it is for a British firm to collaborate with a Chinese giant, especially in an area as sensitive as healthcare.
+Wei Fan insists that this will be an open and transparent project that will work for everyone.
+"We are looking forward to clinical trials in both China and US and other countries. We will strictly follow local regulations and when we have the results they will benefit not just one country but globally," he told me.
+This is not the only game in town when it comes to using new tech to treat Parkinson's patients. 
+Two researchers at Switzerland's Institute for Robotics are working on a smartphone app that will ask patients to carry out various exercises and then analyse the results using machine learning.
+As many as 10 million people worldwide are thought to be living with Parkinson's - and that number is likely to grow as it is a condition more common among the elderly. 

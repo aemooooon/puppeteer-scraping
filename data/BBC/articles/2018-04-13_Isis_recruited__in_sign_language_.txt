@@ -1,0 +1,18 @@
+The online methods used by Jihadist groups to recruit members and the way Google is countering them, have been revealed at the TED (Technology, Entertainment and Design) conference.
+The research director of Alphabet-owned Jigsaw gave a talk outlining the tools the firm is developing to ease extremist content and harassment.
+Google faces scrutiny over how it deals with both.
+It recently announced more human moderators to remove such content.
+Yasmin Green revealed that an eight week trial which targeted those searching for Jihadist material on Google with adverts and videos offering alternative views had reached 300,000 potential recruits.
+Jigsaw's Redirect Method provided links to anti-extremist content including messages of peace from clerics, videos from Isis defectors and smartphone footage from those living in Isis-controlled areas.
+Such links popped up when anyone typed a search enquiry about Jihadism into Google.
+Ms Green described the sophisticated ways in which groups such as Isis recruit people online, including offering propaganda videos in many different languages.
+"They had a video in sign language. They took the time to make sure their message reached the hard-of-hearing," she said.
+Iranian-born Green said she had spent time in Iraq meeting young people who had joined Isis and defected to better understand what motivated them.
+"I talked to a 23-year-old who had trained as a suicide bomber before he defected and I asked him if he had known everything that he now knows whether he would still have joined and he said 'yes'".
+"He was so brainwashed that he wasn't taking in contradictory information."
+She also talked about the need to develop "empathetic technology" to counter online abuse, which she said worked in a similar way to Jihadist propaganda.
+"Online harassment also wants to work out what resonates with another human being but not to recruit them, rather to cause them pain."
+"It is a perverse art of working out what makes people angry or afraid and then pushing those pressure points."
+Perspective, a tool Jigsaw developed in partnership with Wikipedia and the New York Times is an artificial intelligence system which is learning to better understand "the emotional impact of language" in order to root out abuse.
+The tool has been criticised since it was launched with many pointing out that its ability to detect hate speech is limited.
+According to Quartz, the online hate-speech detector rated "garbage truck" 78% toxic, while "race war now" was only found to be 24% toxic.

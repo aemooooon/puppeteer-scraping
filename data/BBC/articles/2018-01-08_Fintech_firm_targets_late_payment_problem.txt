@@ -1,0 +1,13 @@
+A start-up which uses artificial intelligence technology to address the problem of late payments for small firms is to set up a base in Scotland.
+Previse plans to create 37 data science jobs in Glasgow, following an £800,000 grant from Scottish Enterprise.
+Its AI technology is designed to enable large firms to pay suppliers on the day they receive an invoice. 
+It plans to start rolling out its first instant-payments programme with several blue-chip multinational buyers.
+The London-based firm's technology calculates a buyer's likelihood of paying an invoice. It then decides which invoices will be paid, so small suppliers can be paid instantly.
+Scottish Enterprise and Scottish Development International worked closely with the company to support its move into Glasgow.
+According to recent research by the Federation of Small Businesses (FSB), 28% of payments to smaller firms in Scotland are late, with firms waiting on average seven weeks before receiving money owed. 
+Previse co-founder David Brown said: "Failing to pay on time for the goods and services is not only morally wrong, it makes no commercial sense. 
+"It drives up the cost of business for SME (small and medium enterprise) suppliers which, in the end, will feed through into purchasing costs for buyers. 
+"After all, there is no such thing as free money."
+Sharon Hamilton, from Scottish Enterprise, said: "It's been estimated that the fintech sector could create up to 15,000 new jobs in Scotland over the next decade - and attracting new companies such as Previse to locate here will play a key role in achieving this potential.
+"Previse's technology has the potential to make a significant impact on small businesses operating across the UK and is exactly the kind of innovation that will help grow the sector."
+The FSB said it welcomed any effort to address the problem of late payment but added that a change to the "UK payment culture" was needed.

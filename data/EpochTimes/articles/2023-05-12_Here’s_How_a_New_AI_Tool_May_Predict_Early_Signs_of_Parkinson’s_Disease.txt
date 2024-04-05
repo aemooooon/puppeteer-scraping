@@ -1,0 +1,6 @@
+While this AI [artificial intelligence] tool showed promise for accurate early diagnosis, it also revealed chemicals that were strongly linked to a correct prediction.
+Drawing on blood data from the EPIC study, the AI tool was then used to conduct 100 “experiments” and we assessed the accuracy of 100 different models for predicting Parkinson’s.
+Our bodies can contain thousands of metabolites and their concentrations can differ significantly between healthy people and those affected by disease.
+Our research identified a chemical, likely a triterpenoid, as a key metabolite that could prevent Parkinson’s disease. It was found the abundance of triterpenoid was lower in the blood of those who developed Parkinson’s compared to those who did not.
+More research using different methods and looking at larger populations is needed to further validate these results.
+The burden of living with the disease can be intolerable.

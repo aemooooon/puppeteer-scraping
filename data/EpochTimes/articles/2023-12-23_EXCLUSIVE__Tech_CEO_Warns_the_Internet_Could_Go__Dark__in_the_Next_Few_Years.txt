@@ -1,0 +1,6 @@
+Scraping refers to the practice of collecting data across the internet to “train” AI programs to create their version of a work whether that is written text, images, or music.
+Given that the majority of jobs purported to be at risk of replacement by AI involve technology, it may be blue-collar workers and industries that are protected, given the difficulty of replicating physical labour with machine learning.
+“Three years ago, all the software programmers were saying, ‘Better learn how to code.’ If journalists lose their job—‘better learn how to code,’” Mr. Barrie said.
+“The ironic thing is that it’s some of the software developers that might have to learn how to drive a truck,” he added.
+Mr. Barrie did say, however, that while in the short-term jobs may be displaced, AI would spur new forms of employment that people could adapt to.
+“If history is any guide, technology has always created more jobs than it displaced. I mean, cameras didn’t put painters out of a job,” Mr. Barrie said.

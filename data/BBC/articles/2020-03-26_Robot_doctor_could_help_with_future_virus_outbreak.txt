@@ -1,0 +1,26 @@
+Artificial intelligence and robotics experts in Edinburgh are working to create what they hope will be the first healthcare robots to hold a conversation with more than one person at a time.
+It is a project designed to help older people, but it could one day be used to help handle virus outbreaks like the coronavirus pandemic.
+"It's not something we had actually considered while designing the project," says Heriot-Watt's professor of computer science Oliver Lemon.
+"But as it turns out it's quite relevant to what's going on today.
+"You can imagine in the future that when you walk into a hospital waiting room, instead of encountering a human you encounter a robot who's able to help you.
+"That kind of hands-free, touch-free speech interface is really going to be in more demand."
+The new project, funded by the EU's Horizon 2020, is called Socially Pertinent Robots in Gerontological Healthcare (SPRING).
+Robots are already working in some hospitals but are mostly confined to menial tasks such as shifting supplies or patient records.
+You can also have a chat with a digital helper like Alexa or Siri, but such conversations are typically simple, short and one-on-one.
+SPRING will develop new robots which can deal with multiple people in social situations.
+Prof Lemon says they will be able to detect that there are several people in a room and ask itself: "Is this person anxious, has this person been waiting for a long time?
+"Are these people actually talking to each other and I don't need to bother them? Who can I help?"
+It will be able to manage the conversation by recognising that the people have different roles - parent, carer, doctor, nurse.
+The drive to create what are called socially assistive robots (SARs) is the first project to be announced by the National Robotarium.
+It is a partnership between Heriot-Watt and Edinburgh that aims to create a world-leading centre for robotics and AI.
+Its new building is due to open on the Heriot-Watt campus in 2021.
+SPRING involves eight research institutions in Europe and Asia.
+It will develop new research into conversational AI, computer vision, machine learning and human-robot interaction, alongside human behaviour analysis and sensorimotor robot control.
+The work builds on the success of Heriot-Watt's Amazon Alexa Prize winning conversational AI system called Alana.
+A new spinout company called Alana AI is about to be launched to focus on the next generation of conversational user interfaces.
+Prof Lemon says research shows conversational robots can be good for your health, decreasing stress and loneliness and improving mood and sociability.
+"Social robot technology is of interest for elder care because robot companionship has the long-term potential to better connect people with each other," he says.
+"Social robots could improve both psychological well-being and the relationship between patients and hospital professionals."
+The National Robotarium's other key research areas include power systems, manufacturing, assisted living, agriculture technology and hazardous environments.
+There is but one drawback, SPRING is a four-year project.
+We can but hope the current pandemic has subsided long before then.

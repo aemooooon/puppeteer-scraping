@@ -1,0 +1,23 @@
+For many, artificial intelligence (AI) conjures excitement; others fear it. AI has been around since the 1950s’ “AI boom.” It later slowed down in the 1980s, but by the 1990s, machine-learning algorithms and computing power were developed.
+China is expected to have a 26 percent increase in its gross domestic product (GDP), and North America is projected to have its GDP boosted by 14.5 percent. This accounts for 70 percent, or $10.7 trillion, of the global projection.
+Of this $15.7 trillion, increased productivity is projected to encompass $6.6 trillion, and $9.1 trillion will likely come from consumption-side effects.
+Digital twins were introduced 20 years ago. A digital twin is a virtual model for testing processes, services, and products. It allows engineers to study real-world scenarios in a safe, cost-effective, and virtual world.
+Artificial intelligence can predict maintenance for items like engine and battery performance. It also can be predictive in insurance programs that monitor driver behavior in calculating risks and costs. It is also used to design vehicles that avoid accidents.
+AI can enhance diagnostic speed and accuracy to support clinical decisions. It rapidly processes vast amounts of data. This allows healthcare providers to diagnose and treat diseases quickly.
+Radiologists use natural language processing (NLP) to improve the interpretation of scans. AI can identify patterns and anomalies that humans may overlook. This leads to earlier diagnosis. AI provides images 30 percent faster with higher quality than traditional methods.
+AI improves clinical workflows. AI aids administrative tasks from scheduling appointments to drafting insurance appeals. Instead of pushing paper, the staff is freed up to service patients.
+Real-time remote patient monitoring like FitBits and smartwatches continuously monitor patients’ healing and transmit data to providers. This can eliminate unnecessary visits to the hospital and alert to impending problems.
+Your spam filter is an example of AI. Spam filters allow you to only see the filtered content in your email. Google’s Gmail filtrates approximately 99.9 percent of spam.
+Facial recognition on your phone, laptop, or PC uses AI.
+Your financial institution uses AI to monitor your accounts for fraud.
+Ride-sharing, like Uber, connects riders with drivers through AI. Uber’s Michelangelo can anticipate supply and demand. It also identifies wrecks and estimates arrival times.
+Jobs and the emphasis on training may change.
+AI requires many humans to train and refine its algorithms. This will create new jobs that don’t currently exist. It takes people to develop technology.
+AI needs to be monitored, trained and taken care of overall. It will also need to be constrained. This takes humans.
+AI is shifting some jobs away from certain blue-collar and service occupations. There will still be work, but a different kind of work.
+Some losers include customer service representatives. This role will become automated. Computer programmers may find their jobs eliminated. Because paralegals are within the range of AI’s capabilities, they may be gone.
+But financial traders and travel advisers may also be replaced. Financial traders are already seeing this trend with robo-advisors.
+But what about manufacturing, and how will its employees survive?
+AI powers many machines in factories. It performs actions at a greater speed and consistency than humans. Many factory workers may need to change jobs. Warehouse workers may also see losses.
+It’s been in use for years, but the current surge has brought AI to the forefront of people’s thoughts. Health care, data security, transportation, and other industries may all benefit from AI.
+The employment landscape is bound to change with AI. Both white-collar and blue-collar occupations will need to make adjustments. There will be a shift in what jobs are available.

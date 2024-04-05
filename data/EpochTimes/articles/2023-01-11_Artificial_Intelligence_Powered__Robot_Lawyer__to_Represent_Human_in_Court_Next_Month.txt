@@ -1,0 +1,11 @@
+A robot powered by artificial intelligence is set to become the world’s first “robot lawyer” and will take on speeding ticket cases in court next month, its creators have said.
+Joshua Browder, the CEO of Startup DoNotPay, which bills itself as “the home of the world’s first robot lawyer” confirmed the news on Twitter on Monday.
+“We have upcoming cases in municipal (traffic) court next month. But the haters will say ’traffic court is too simple for GPT.' So we are making this serious offer, contingent on us coming to a formal agreement and all rules being followed,” Browder wrote.
+The CEO did not provide further details regarding the defendants in the case or the location of the court.
+The company, founded in 2015, is backed by multiple Silicon Valley investors, including venture capital firms Andreessen Horowitz and Crew Capital and private equity company, Greylock Partners.
+Speaking to CBS News, Browder, a Stanford University computer scientist, explained that the AI lawyer runs on a smartphone and listens to court arguments before formulating real-time responses for the defendant to repeat via headphones.
+According to Browder, the company, which has raised nearly $30 million from the various tech-focused venture capital firms, has already used the AI technology to create letters and chatbots to help people over 2 million people secure refunds for everything from parking ticket disputes to failed in-flight Wifi.
+“We would never do anything against the rules,” he told Gizmodo.
+The Epoch Times has contacted the Supreme Court for comment.
+Browder told CBS that the company will cover any fines if the robot lawyer loses the case.
+However, the so-called AI lawyer also poses a number of issues, including the fact that it cannot be sued and is illegal in most courtrooms.

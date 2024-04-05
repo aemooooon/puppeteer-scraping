@@ -1,0 +1,25 @@
+There is a belief that each fingerprint on one person's hand is completely unique but that is now being challenged by research from Columbia University.
+A team at the US university trained an AI tool to examine 60,000 fingerprints to see if it could work out which ones belonged to the same individual.
+The researchers claim the technology could identify, with 75-90% accuracy, whether prints from different fingers came from one person.
+But they are not sure how it works. 
+"We don't know for sure how the AI does it," admitted Prof Hod Lipson, a roboticist at Columbia University who supervised the study.
+The researchers think the AI tool was analysing the fingerprints in a different way to traditional methods - focusing on the orientation of the ridges in the centre of a finger rather than the way in which the individual ridges end and fork which is known as minutiae.
+"It is clear that it isn't using traditional markers that forensics have been using for decades," said Prof Lipson. "It seems like it is using something like the curvature and the angle of the swirls in the centre."
+Prof Lipson said both he and Gabe Guo,  an undergraduate student, were both surprised by the outcome.
+"We were very sceptical... we had to check and double check," he said.
+That may not be news to others in the field. 
+Graham Williams, professor of forensic science at Hull University, said the idea of unique fingerprints had never been set in stone.
+"We don't actually know that fingerprints are unique," he said. "All we can say is that as far as we are aware, no two people have yet to demonstrate the same fingerprints."
+The results of Columbia University's study could have the potential to impact both biometrics - using one particular finger to unlock a device or provide identification - and forensic science.
+If, for example, an unidentified thumb print is found at crime scene A, and an unidentified index finger print at crime scene B, the two could not currently be forensically connected to the same person - but the AI tool could be able to identify this.
+The Columbia University team, none of whom have forensic backgrounds, admitted that more research was needed.
+AI tools are typically trained on vast amounts of data and many more fingerprints would be required to develop this technology further. 
+Additionally, all the fingerprints used to develop the model were complete prints and of good quality, whereas often in the real world partial or poor prints are more likely to be found.
+"Our tool is not good enough for deciding evidence in court cases but it is good for generating leads in forensics investigations," claimed Mr Guo.
+But Dr Sarah Fieldhouse, associate professor of forensic science at Staffordshire University, said she did not think the study would have "significant impact" on criminal casework at this stage. 
+She said there were questions around whether the markers the AI tool was focusing on remained the same depending on how the skin twisted as it came into contact with the print surface, and also whether they remained the same over the course of a lifetime, like traditional markers do.
+But this could be tricky to answer as the researchers are uncertain about exactly what the AI is doing, as is the case with many AI-driven tools.
+The Columbia University study has been peer-reviewed and will be published in the journal Science Advances on Friday.
+But a pair of twins in Cheshire might be ahead of everyone. Their grandmother Carol told the BBC her two grandchildren can open each other's iPhones using their own fingers.
+"They showed me on Christmas day," she said. "We were told they were identical when they were born but I can tell the difference between them as they've got older."
+She claimed that her grandchildren can also bypass the handsets' facial recognition feature.

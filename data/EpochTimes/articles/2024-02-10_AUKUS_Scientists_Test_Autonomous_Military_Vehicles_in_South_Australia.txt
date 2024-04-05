@@ -1,0 +1,8 @@
+The trials are designed to test autonomous vehicle behavior and sensor arrays in a contested environment, that is, when they are under attack.
+A network of robotic ground vehicles simulated the conduct of long-range precision fires in a combat scenario in southern Australia but did not carry live munitions, according to U.S. Indo-Pacific Command (INDOPACOM), which oversees U.S. military operations in the region.
+Some of the vehicles were configured to represent autonomous multi-domain launchers, a type of unmanned high mobility artillery rocket system, commonly referred to as HIMARS.
+Defence Australia said the trials had successfully demonstrated the “integration of advanced autonomy and artificial intelligence” in a now-deleted post on social media platform X, formerly Twitter.
+The trials, Trusted Operation of Robotic Vehicles in a Contested Environment (TORVICE), were conducted to identify vulnerabilities faced by autonomous systems in electronic warfare environments and resolve related issues.
+Scientists also subjected the vehicles to electronic warfare, electro-optical, position, navigation, and timing attacks.
+The trials took place at Cultana Training Area in South Australia and are the latest artificial intelligence (AI) exercise by AUKUS, a trilateral partnership between the three nations designed to enhance military interoperability, readiness, and technology sharing.
+To that end, the trial follows another AUKUS AI exercise in April of last year, held in Salisbury, in the UK. That trial similarly sought to assess and mitigate vulnerabilities posed to autonomous systems in contested and complex environments but focused more on cyber threats.

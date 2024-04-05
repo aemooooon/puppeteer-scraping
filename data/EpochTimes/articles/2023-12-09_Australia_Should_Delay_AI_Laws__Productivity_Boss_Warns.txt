@@ -1,0 +1,17 @@
+Australia should not rush to put restrictions around the use of artificial intelligence (AI) or it risks dealing the nation “out of the game,” the Productivity Commissioner warns.
+Commissioner Stephen King issued the warning at the Committee for Economic Development of Australia (CEDA) AI Leadership Summit on Dec. 8, which heard Australian banks, telcos, law firms and healthcare providers were increasingly using artificial intelligence to boost productivity and improve outcomes.
+But experts also shared public concerns about the use of generative AI at the event, saying most Australians wanted the technology to be regulated, and that the use of AI needed to transparent, considered and unlikely to mislead users.
+Mr. King, who delivered the keynote address at the national summit, said the use of generative AI in Australian businesses would have a widespread and long-lasting effect on productivity that he likened to the introduction of computers in the workplace.
+But he said concerns about AI should not be addressed in Australia with strict laws for its use.
+“The productivity opportunity of AI over the next two or more decades is huge,” Mr. King said.
+“Wrong-headed approaches to regulation, and I think we’re seeing some of those around the world, that don’t focus on (its) use could actually make us worse off.”
+Mr. King said lawmakers should instead investigate the individual uses of AI and whether any problems it created could be handled under existing laws.
+Laws that unfairly restricted artificial intelligence, he said, would be hard to undo and could prevent Australian businesses unlocking the same innovation as firms overseas.
+“The biggest risk is by starting at the wrong end, by saying things like large language models, ChatGPT, GPT-4 need to be regulated, that we’ve got to stop this, that it’s too dangerous, that the risks are such that we need to put a hold on it all ... the problem is you just deal yourself out of the game,” Mr. King said.
+“That sounds like a way of stopping the benefits rather than seizing them.”
+But University of Queensland management professor Nicole Gillespie said research showed three in five Australians felt they did not understand AI technology and wanted rules around its use.
+“Seventy-three percent of Australians believe the impact of AI on society is unpredictable and uncertain,” Prof. Gillespie said.
+“It’s understandable given that level of uncertainty that they want some safeguards so they say they expect AI to be regulated and they want independent regulation.”
+The CEDA event heard AI was being used by large firms including the Commonwealth Bank, Telstra and SAP, and was likely to be introduced into BreastScreen programs within five years.
+University of Technology Sydney (UTS) Human Technology Institute co-director Nicholas Davis said before deploying AI, business leaders needed to ask what problems it could solve, what would happen if it misled users, and what they would do if it was used inappropriately.
+“As soon as it starts to feel creepy, you know that you’re possibly passing a legal boundary but definitely passing the trustworthiness and transparency boundary,” Mr. Davis said.

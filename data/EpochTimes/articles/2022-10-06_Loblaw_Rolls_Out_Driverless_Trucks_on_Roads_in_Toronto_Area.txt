@@ -1,0 +1,7 @@
+Canada’s largest grocer is rolling out fully autonomous delivery vehicles—without a human “safety driver”—on roads in Toronto and surrounding suburbs.
+Loblaw Companies Ltd. and its partner in the initiative, artificial intelligence tech company Gatik, announced on Oct. 5 that this is the first time in Canada that there will be delivery vehicles without a safety driver on board.
+Since January 2020, Loblaw and Gatik have been doing autonomous deliveries with a human safety driver on board.
+In 2021, Gatik became the first AI trucking company in the world to operate without a safety driver in Arkansas, doing deliveries for Walmart.
+The vehicles use cameras, radar, lidar, and GPS to navigate the roads.
+“They are constantly assessing their surroundings and translating the information into speed, distance needed to brake or turn, re-routing if there’s an unforeseen traffic challenge, and so much more,” Loblaw said in a November 2020 press release about its use of autonomous vehicles commercially in Canada.
+Loblaw said that after a third-party review over three months, it started using Gatik’s AI to transport goods from its distribution facility to five retail locations in the Greater Toronto Area.

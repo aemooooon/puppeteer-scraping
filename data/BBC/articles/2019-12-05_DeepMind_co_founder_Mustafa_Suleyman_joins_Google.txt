@@ -1,0 +1,18 @@
+Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google.
+He had previously said he was taking time off from DeepMind.
+Mr Suleyman helped develop Streams, a controversial health app which gathered data from millions of NHS patients without direct consent.
+Streams was integrated into Google Health earlier this year.
+In a blog post, DeepMind co-founder Demis Hassabis said Mr Suleyman had played a key role at the firm.
+"As a serial entrepreneur, Mustafa played a key role over the past decade, helping to get DeepMind off the ground, and launched a series of innovative collaborations with Google to reduce energy consumption in data centres, improve Android battery performance, optimise Google Play, and find ways to improve the lives of patients, nurses and doctors alike," he said.
+"Mustafa leaves DeepMind having helped set us up for long-term success, and I'm looking forward to what he'll achieve in the years ahead as he joins Google in a new role." 
+It is not clear what role that will be but in a tweet, Mr Suleyman said he would be working "on opportunities and impacts of applied AI technologies".
+DeepMind garnered positive headlines for creating an AI program that could beat world-class Go players but its health division has proved more controversial. 
+A partnership with the Royal Free Hospital in London to develop an app known as Streams, which does not use AI, hit the headlines when it emerged it had used the data of 1.6 million patients without seeking consent.
+Later the Information Commission ruled that the hospital had not done enough to protect patient privacy, although it has since said it is satisfied with subsequent action taken.
+Initially developed for doctors to spot acute kidney injury, there were concerns Streams could be developed beyond its initial use to become a platform for doctors and nurses to assess patients.
+At the time of the controversy, Mr Suleyman promised that the firm operated autonomously from Google and that patient data would never be linked or associated with Google accounts, products or services.
+It was announced in November 2018 that the health division would transfer to Google.
+Five NHS Trusts which had signed data-sharing agreements with DeepMind agreed to transfer those to Google Health UK.
+One, Musgrove Park Hospital, told the BBC that it had piloted the Streams app in 2018 but "to date had not progressed" with it.
+And Yeovil's NHS Trust, which decided not to sign, said the Streams app was "not necessary for our organisation at the current time".
+Recently leaked documents from US-UK trade talks have suggested that relaxing the transfer of data between the two nations could be a key negotiation point post-Brexit, leading to speculation that patient information could be up for grabs for big tech firms, such as Google.

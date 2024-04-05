@@ -1,0 +1,27 @@
+Could your next lawyer be a robot? It sounds far fetched, but artificial intelligence (AI) software systems - computer programs that can update and "think" by themselves - are increasingly being used by the legal community.
+Joshua Browder describes his app DoNotPay as "the world's first robot lawyer".
+It helps users draft legal letters. You tell its chatbot what your problem is, such as appealing against a parking fine, and it will suggest what it thinks is the best legal language to use.
+"People can type in their side of an argument using their own words, and software with a machine learning model matches that with a legally correct way of saying it," he says.
+The 24-year-old and his company are based in Silicon Valley in California, but the firm's origins go back to London in 2015, when Mr Browder was 18.
+"As a late teenager in Hendon, north London, I was a horrible driver," he says. "I got a lot of expensive parking tickets - which, since I was still in secondary school, I couldn't afford."
+Through lots of research and freedom of information requests Mr Browder says he found the best ways to contest the tickets. "If you know the right things to say, you can save a lot of time and money."
+Rather than copy and paste the same document each time, he says it seemed "the perfect job for software". So he created the first version of DoNotPay in a few weeks in 2015, "really just to impress my family".
+Since then the app has spread across the UK and US, and it can now help the user write letters dealing with a range of issues; insurance claims, applying for tourist visas, complaint letters to a business or local authority, getting your money back for a holiday you can no longer go on or cancelling gym membership. Mr Browder says the last two uses soared during the pandemic.
+DoNotPay now claims to have 150,000 paying subscribers. And while it has its critics, with some saying its legal advice is not accurate enough, last year it won an award from the American Bar Association for increasing legal access.
+Mr Browder claims an 80% overall success rate, down to 65% for parking tickets, because "'some people are guilty".
+You might think human lawyers would fear AI encroaching on their turf. But some are pleased, as the software can be used to quickly trawl through and sort vast quantities of case documents.
+One such lawyer is Sally Hobson, a barrister at London-based law firm The 36 Group, who works on criminal cases. She recently used AI in a complex murder trial. The case involved needing to quickly analyse more than 10,000 documents.
+The software did the task four weeks faster than it would have taken humans, saving £50,000 in the process.
+Lawyers using AI for assistance is "becoming the norm and no longer a thing that's nice to have", says Eleanor Weaver, chief executive of Luminance, which makes the software Ms Hobson uses.
+More than 300 other law firms in 55 countries also use it, working in 80 languages.
+"Historically you had a lot of [document checking] technologies that were no better than keyword searches, like hitting Control-F on your laptop," says Ms Weaver. By contrast, she says that today's sophisticated software can connect associated words and phrases.
+AI is, however, not just helping lawyers sort through documentary evidence. It can also now help them prepare and structure their case, and search for any relevant legal precedents.
+Laurence Lieberman, who heads London law firm Taylor Wessing's digitising disputes programme, uses such software, which has been developed by an Israeli firm called Litigate.
+"You upload your case summary and your pleadings, and it will go in and work out who the key players are," he says. "And then the AI will link them together, and pull together a chronology of the key events and explanation of what happens on what dates."
+Meanwhile, Bruce Braude, chief technology officer of Deloitte Legal, the legal arm of accountancy giant Deloitte, says that its TAX-I software system can analyse historical court data for similar tax appeal cases.
+The firm claims it can correctly predict how appeals will be determined 70% of the time. "It provides a more quantifiable way of what is your likelihood of success, which you can use to determine if you should proceed," adds Mr Braude.
+Yet while AI can help write legal letters, or assist human lawyers, will we ever see a time of robot solicitors and barristers, or even robot judges?
+"I think, really in reality, we're nowhere near that," says Ms Weaver. 
+But others, like Prof Richard Susskind, who chairs the Lord Chief Justice of England's advisory group on AI, aren't so sure.
+Prof Susskind says in the 1980s he was genuinely horrified by the idea of a computer judge, but that he isn't now.
+He points out that even before coronavirus, "Brazil had a court backlog of more than 100 million court cases, and that there is no chance of human judges and lawyers disposing of a caseload of that size".

@@ -1,0 +1,18 @@
+Durham police has been criticised by privacy campaigners over the "crude" data used in software to help process offenders.
+The tool helped predict which people were likely to commit more crimes. 
+To generate its assessments on reoffending, it drew on data gathered by credit referencing firm Experian.
+Durham said the tool helped identify those most at risk of reoffending so they could be offered more help to "improve their life chances".
+Experian said the information was drawn largely from surveys and public data and that it sought to avoid stereotyping in its descriptions.
+Durham's use of the data came to light as part of an investigation by digital rights and privacy group Big Brother Watch (BBW) into police AI research. 
+It said Durham had been working on software called the Harm Assessment Risk Tool (Hart) that tried to work out whether suspects were at low, moderate or high-risk of reoffending. 
+Hart was trained using information about 104,000 histories of people previously arrested and processed in Durham over a five-year period. This was expanded with additional information about offenders based on what they did up to two years after being processed. 
+In a blog BBW said this police data was augmented using an Experian dataset, called Mosaic, that was produced after profiling all 50 million adults in the UK.
+Among the broader categories Mosaic classifies people into are groups called "disconnected youth", "Asian heritage" and "dependent greys". The categories were annotated with lifestyle details such as "heavy TV viewers", "overcrowded flats" and "families with needs".
+In a statement, Silkie Carlo, director of Big Brother Watch said it was "chilling" for Experian to gather information on millions of people and sell it on to organisations. 
+"But for police to feed these crude and offensive profiles through artificial intelligence to make decisions on freedom and justice in the UK is truly dystopian," she said.
+In response, Sheena Urwin, head of criminal justice at Durham Constabulary, said it worked with Experian to improve its understanding of local communities.
+"Our aim is to reduce harm to the communities we serve and improve life chances for the people we come into contact with," she said.
+The experimental research project involving Hart tried to find out if it was possible to predict someone's chance of reoffending, said Ms Urwin. Some of those at a high risk would get support to limit that risk, she added.
+Hart was only one element that Durham considered when assessing offenders and the final decision remained with the force's custody sergeants rather than the software, said Ms Urwin. 
+Experian said many organisations, including charities and NGOs, used the same data as Durham to get a better understanding of a person's likely lifestyle based on where they lived.
+"In creating the descriptions and labels we are always sensitive to the way we describe and name clusters, thinking about how these labels might appear to a consumer," it said.

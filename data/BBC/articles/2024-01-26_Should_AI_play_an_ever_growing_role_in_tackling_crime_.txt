@@ -1,0 +1,35 @@
+Artificial intelligence (AI) is increasingly being used by police forces around the world, but do the benefits always outweigh the risks?
+Sarah is a victim of domestic abuse, and she is on the phone to a 999 emergency call handler.
+She is scared and upset because her ex-husband is trying to break into her house.
+While Sarah is talking to a human, the call is also being transcribed by an AI software system, one that links directly into UK police databases.
+When she tells the handler the name of her husband and his date of birth, the AI quickly retrieves his details. It flashes up that the man has a gun licence, which means that police officers need to get to the home as soon as possible.
+Although domestic abuse emergency calls are sadly all too common, the above example was thankfully not a live, real-world situation. Instead it a mock-up test, part of a three-month trial of AI emergency call software last year by Humberside Police.
+The AI was provided by UK start-up Untrite AI, and is designed to make dealing with the thousands of calls received each day more efficient.
+The system was trained on two years worth of historic data - all related to domestic abuse calls - provided by Humberside.
+"We set out to build an assistant for operators to make their jobs slightly easier, because it is a high stress and time-sensitive environment," says Kamila Hankiewicz, chief executive and co-founder of Untrite.
+"The AI model analyses a lot of the information, the transcript and the audio of the call, and produces a triaging score, which could be low, medium or high. A high score means that there has to be a police officer at the scene within five or 10 minutes."
+Untrite says the trial suggests that the software could save operators nearly a third of their time, both during and after each call. Other tech companies also now offering AI-powered emergency calls software systems include US businesses Corti and Carbyne.
+The next stage for Untrite will be to use its AI in a live environment, and the firm is in talks with a number of police forces and other emergency services on making that happen.
+AI has the potential to transform the way the police investigate and solve crimes. It can identify patterns and links in evidence, and sift through vast amounts of data far more quickly than any human. 
+But we have already seen missteps in the use of the technology by law enforcement. For example, there were numerous reports in the US last year about AI-powered facial recognition software failing to accurately identify black faces.
+Some US cities, such as San Francisco and Seattle, have already banned the use of the technology.  Yet it is increasingly being used by police forces on both sides of the Atlantic.
+Albert Cahn, executive director of US anti-surveillance pressure group Surveillance Technology Oversight Project (Stop), is not happy with the development.
+"We've seen a massive investment in, and use of, facial recognition despite evidence that it discriminates against black, Latino and Asian individuals, particularly black women," he says.
+Such technology can be used in three main ways. Firstly, live facial recognition, which compares a live camera feed of faces against a predetermined watchlist.
+Secondly, retrospective facial recognition, which compares still images of faces against an image database. And thirdly, operator-initiated facial recognition, in which an officer takes a photograph of a suspect, and submits it for a search against an image database.
+Last October, the UK's Policing Minister Chris Philp said that UK police forces should double the number of searches they make using retrospective facial recognition technology over the next year.
+Meanwhile, the UK's National Physical Laboratory (NPL) last year undertook independent testing of the three types of facial recognition technology, all of which have been used by the Metropolitan and South Wales police forces.
+The NPL, which is the official UK body for setting measurement standards, concluded that accuracy levels had improved considerably in the latest versions of the software.
+Yet it also noted that in some cases it was more likely to give false positive identification for black faces compared to white or Asian ones, something the NPL described as "statistically significant".
+It is, of course, good news that independent tests are taking place, and West Midlands Police has gone a step further, setting up its own ethics committee to evaluate new tech tools.
+This body is made up of data scientists, and chaired by Prof Marion Oswald, a professor of law at the University of Northumbria.
+She told the BBC that the committee is currently assessing the use of a specific new facial recognition tool that would allow a police officer to take photographs of a suspect and compare it against a watchlist.
+"We will be recommending that there needs to be much more analysis of its validity," she says. 
+Another key policing area that AI may transform is prevention. Or more specifically, its potential ability to predict where crimes may happen and who might commit them.
+While this might conjure up images of the 2002 sci-fi thriller Minority Report, the idea is no longer just a Hollywood dream. 
+A team at the University of Chicago has developed an algorithm that claims to be able to predict future crimes a week in advance with 90% accuracy.
+But, with the old adage that AI systems are only as good as the data they are fed, there are big concerns from some.
+Stop's Mr Cahn says that "original sin" of predictive policing is "biased historical data".
+He adds: "In the US we see a lot of crime prediction tools that crudely deploy algorithms to try to predict where crimes will happen in future, often to disastrous effect."
+Disastrous, he adds, because "the US has notoriously terrible crime data".
+Prof Oswald agrees that using AI to predict crime is fraught with concern.  "There is that feedback loop concern that you're not really predicting crime, you're just predicting the likelihood of arrest," she says.

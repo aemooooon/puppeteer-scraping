@@ -1,0 +1,9 @@
+A five-year productivity inquiry into Australia’s digital technologies and data has found that the country could fall behind in the race against technological change.
+The report said while Australia was doing well in terms of internet connections and data volumes, it was falling behind other countries on other advanced indicators.
+“Australia’s internet speeds are relatively low, and business use of data-driven technologies, such as AI (artificial intelligence) and analytics, trails uptake in other countries,” the commission found.
+Among agriculture businesses, unsuitable internet speed and geographic location were the most commonly cited factors limiting further technology adoption.
+In light of the issue, the report said more digital infrastructure, especially in regional and remote Australia, was needed to improve access to low-cost and reliable internet for local businesses and workers.
+At present, over 60 percent of Australian businesses in knowledge services and information media and telecommunications have adopted cloud technology, which is expected to bring forth the next wave of change.
+At the same time, it was revealed that industries with higher uptake of cloud technology were also faster in embracing artificial intelligence.
+Separately, manufacturing and supply chain logistics businesses had higher adoption of radio frequency identification and electronic data interchange tools.
+However, the report noted that many enterprises might not invest enough in cyber security as they underestimated the likelihood or costs of online threats.

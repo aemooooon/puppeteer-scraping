@@ -1,0 +1,11 @@
+Micron Technology beat estimates for third-quarter results on Wednesday, powered by demand for its memory chips from the rapidly-growing artificial intelligence sector and an easing supply glut in its traditional PC and smartphone markets.
+Shares of the company rose more than 2 percent in trading after the bell. They have gained 34 percent this year on bets that the use of the company’s memory chips in generative AI services-related servers will skyrocket following the popularity of ChatGPT, OpenAI’s chatbot.
+“The recent acceleration in the adoption of generative AI is driving higher-than-expected industry demand for memory and storage for AI servers, while traditional server demand for mainstream data center applications continues to be lackluster,” CEO Sanjay Mehrotra said.
+Customers continue to reduce excess inventory, leading to improved pricing trends and increased confidence that the industry has passed the bottom for growth and revenue, he added.
+After a surge in demand during the pandemic, consumer spending on smartphones and personal computers hit a trough, driving down prices and causing a buildup of inventories.
+“We believe the current memory industry inventory correction is now behind us,” said Summit Insights Group managing director Kinngai Chan.
+Industry checks indicate some green shoots in the form of demand stabilization, Chan added, even as demand for PCs, smartphones, and servers is expected to remain mixed in the second half of the year.
+Micron’s third-quarter revenue of $3.75 billion beat estimates of $3.65 billion, while fourth-quarter revenue forecast of about $3.9 billion plus or minus $200 million, was largely in line with expectations, according to Refinitiv data.
+The company’s adjusted net loss of $1.43 per share was narrower than estimates for a $1.58 per share loss.
+Last month, China’s cyberspace regulator failed Micron’s products in a security review and barred purchases by operators of key infrastructure.
+Micron, the biggest U.S. memory chipmaker, reiterated on Wednesday that several of its customers have been contacted by Chinese regime representatives about the future use of the company’s products.

@@ -1,0 +1,109 @@
+All aboard the (self-driving) bus - next stop, CES: Las Vegas' annual gigantic tech fest.
+About 4,000 companies - many of them start-ups - are arriving in town this weekend. Over the coming days, they will reveal new products, secure orders and hopefully provide a taste of the future at the trade fair.
+The event has its roots in consumer gadgets, but now sprawls into fields including artificial intelligence, automobiles, medicine, marketing and even agriculture.
+Most of the big technology brands in attendance will have something new to brag about. But increasingly, they hold flagship products back for stand-alone events. 
+In recent years much of the excitement has instead been delivered by smaller, lesser-known companies for whom CES presents a "break-out" opportunity.
+Below is a sample of what to expect, including several exclusive hands-on videos with some of the new tech: 
+If one firm could be said to have "won" last year's expo, it was Amazon. 
+From fridges to cars, watches to robots, device-makers fell over themselves to support or build in its Alexa smart helper, leaving Google's Assistant trailing in its wake. 
+New cooking controls have just been added to the AI's capabilities, so watch out for a flurry of Alexa-connected microwaves this time round.
+Google is, however, still in the fight. 
+Earlier this week, LG revealed its latest top-end TVs will feature the Assistant.
+And this year, the search giant has booked a CES booth to show off its AI, as well as splurging on a new paint job for the Las Vegas monorail to promote it.
+While the battle to secure the most tie-ups will likely be intense, one trend to look out for is products that provide the best of both worlds. 
+GE has pre-announced a ceiling light that supports both companies' virtual assistants, and HTC already sells a smartphone that answers to both AIs' wake words.
+"We believe customer choice is important, and that multiple AIs can be complementary of each other," an Amazon spokesman told the BBC.
+Elsewhere, expect "AI-enhanced" to be the buzz phrase of the moment, even if it's not always clear what that means.
+"AI has become an overused term - often it just refers to there being a voice component or related cloud service," commented Simon Bryant from the consultancy Futuresource.
+He added that the key question to ask was whether the promise of artificial intelligence meant a device or service would become better over time.
+So, to take one example, when HiRide Suspensions promises to show off a smart bicycle suspension system that uses AI, does it mean its electronics will learn to deliver a smoother ride over time, or merely that they have developed algorithms that would always deal with the same bump in the road in the same way?
+The Italian start-up's pre-CES materials are unclear on the matter. 
+The so-called wellness market could prove to be CES' most vibrant sector this year.
+One recent forecast suggested the world's annual healthcare spend will be nearly $9tn by the end of the decade. Both the big brands and start-ups believe there's an opportunity to disrupt a sector currently dominated by specialists.
+Doubtless, not all the claims being made at CES will stand up to scrutiny, but it's heartening to see new tech trying to do something truly useful.
+For example, Israel's ICI Vision is in town to promote a pair of prototype glasses designed to tackle blind spots caused by retinal diseases.
+It is trying to combine small cameras, eye-tracking software and projection tech to direct views onto the healthy parts of the back of a patient's eye.
+Samsung is taking a different approach to visual impairments with Relumino - glasses that use a smartphone to process the wearer's view. 
+An app adds contrast, draws outlines and makes other colour changes to the view to make it clearer before floating the altered image into the eyewear's display.
+Several firms are seeking to treat undesired behaviour via vibration-based "haptic" feedback. 
+They include Keen - a smart bracelet that buzzes if it detects the wearer pulling their hair or picking their skin - and Snore Circle - an eye-mask that vibrates at different levels of intensity to nudge the owner into a different position if they make noises at night.
+New parents also appear to be a favoured target for the latest health tech.
+Stand-out launches include Me.Mum, a smartphone camera attachment whose maker claims it can detect mould-like particles in a woman's saliva that signal when she is at her most fertile.
+China's Tuoxiao will be demoing a smart stethoscope designed for use with infants that sends heart and lung readings to the cloud for analysis to determine if pneumonia might be present.
+Meanwhile, two European start-ups are seeking to help women strengthen their pelvic floor muscles to combat bladder leaks caused by childbirth.
+Fizimed's solution involves exercising with a force-sensing silicone device that provides feedback via an app. 
+Lifesense Group's offering centres on smart underwear that tracks the reduction of urine loss over time in order to motivate its owner to keep exercising.
+The surprise success of smart speakers has meant that the smart home and wider "internet-of-things" category is finally taking off.
+A flood of water use-tracking, temperature-adjusting, humidity-measuring, pollution-detecting gizmos will be on show, as well as dozens of smart locks - even though consumers remain suspicious about letting apps control access to their homes.
+There are, however, some participants seeking to break out from the crowd by taking a different approach.
+Crownstone is promoting a system in which a home's lights and plug sockets automatically react to a resident's presence based on them having a Bluetooth-broadcasting wearable or smartphone on them, rather than waiting to be given a command.
+Miliboo will be showing off a smart sofa that not only wirelessly charges your handset or tablet but also keeps track of how long you've been sat in front of the TV while monitoring your posture.
+Smarter homes will also be pitched as being safer homes.
+Several companies will show off fall-detectors to warn if elderly residents have taken a tumble, and a safe that sends a smartphone alert if it detects it has been tampered with will also debut.
+But perhaps most the extreme system we've spotted so far comes from Cherry Labs.
+The Silicon Valley-based firm uses cameras and audio sensors to keep track of which family members and pets are in which room at what time.
+It then collates a twice-daily log of their activities for the person in charge.
+On the flip side, if the idea of being put under surveillance makes you feel queasy, Cone of Silence promises to prevent your smart speakers being able to eavesdrop on you - accidentally or otherwise.
+It works by generating a white noise signal specifically designed to overload the speakers' microphone arrays.
+LG has already shown off an outsized 8K TV - with 16 times as many pixels as a 1080p "full HD" screen - ahead of CES.
+But with a distinct lack of content for the super hi-vision format available, expect the focus to remain on 4K for the time being.
+Manufacturers may instead try to convince enthusiasts to upgrade by boosting the maximum brightness levels of their screens, which has the benefit of delivering superior high dynamic range (HDR) images. As a result, glints of sunlight off water can be more startling, and shadows can reveal more detail.
+Several brands will likely add support for Samsung's HDR10+ standard, which is designed to prevent details in the brightest parts of the image being blown out on on some screens - a problem the rival Dolby Vision format already tackles.
+And some of the higher-end sets may also introduce support for the new HDMI 2.1 specification, which can handle higher data rates and potentially allow screens to be sent 4K video at up to 120 frames per second. 
+But the big question is whether Samsung will unveil a "micro-LED" TV.
+The technology uses tiny components that emit their own light rather than relying on a backlight. 
+This allows micro-LEDs to deliver the kind of deep blacks currently restricted to the OLED displays that LG specialises in.
+But micro-LEDs should also be capable of brighter output than OLED, making it a superior choice for HDR content.
+Those with a good memory may recall that Sony showed off a Crystal LED TV in 2012 based on the same technology.
+That never went into mass production because it proved too expensive to make. We'll soon find out whether Samsung has found a way to keep costs down.
+The rise of electric-powered cars and self-driving technologies have seen automobiles take on a greater role at CES.
+This year, Ford's new chief executive, Jim Hackett, is delivering one of the event's high-profile keynote presentations, where company bosses often like to make a splash with headline-grabbing reveals.
+Hyundai has promised to debut a hydrogen fuel cell-powered sports utility vehicle (SUV).
+And Nissan says it will demonstrate a bonkers-sounding brain-to-vehicle interface. It involves using a brainwave-reading headset to anticipate when steering wheel turns or accelerator pedal presses are about to be made. 
+The idea is that cars can use this information to "enhance" their response as well as source more data for autonomous driving research.
+In general, however, the big automakers tend to hold their most significant news back until the Detroit Auto Show, which begins the day after CES ends this year.
+That gives smaller rivals a chance to grab attention.
+This year, Chinese electric car start-up Byton will be premiering a model with a gigantic dashboard touchscreen, which it plans to put into production in 2019.
+From the US, Fisker will formally reveal a $129,000 (£95,125) luxury electric sports car with a 400 mile (643km) range and fast-charging capabilities.
+France's Navya will reveal details about a plan to deploy "robo-taxis across the world.
+Switzerland's concept vehicle designer Rinspeed will show off Snap - a modular design in which a passenger pod detaches from its skateboard-like underside.
+Faraday Future returns, despite its cash struggles, to host an invite-only update about its self-proclaimed Tesla-killer, the FF91.
+And Electra Meccanica may have the oddest electric car on show - a three-wheeler that looks like a Reliant Robin in reverse.
+It would be wrong, however, to think the only transport options on show will be cars.
+Yamaha intends to demo a self-driving motorcycle prototype racing at speeds above 120mph.
+And Surefly has been given permission to fly a sci-fi inspired passenger octacopter. 
+The plan is for the drone to eventually autonomously carry two passengers to their destination.
+But a pilot will be involved for the CES test.
+There will be plenty of smaller drones too at CES.
+Market-leader DJI is attending, but has not unveiled major new product lines at the show in past years.
+It will, however, be aware that several rivals have pre-announced what look like copycats of its popular fold-up Mavic Pro model, and many of its customers are hoping it will fire back with a second-generation version.
+What's fascinating about several of the other new drones is how distinctive they are.
+"The reason that we're seeing drone-makers specialising in different areas is that the technology has become extremely commoditised, so to succeed you need a specific use case of your own," commented tech consultant Ben Wood from CCS Insight.
+One example is Nuaviation's Hyperlift 200E, which is designed to carry objects weighing up to 200lb (91kg) at high speeds, and is being pitched as a delivery tool for the construction industry.
+Another is the Sirius CX-180, which features two powerful LED lamps, and is designed for use in night-time search-and-rescue missions.
+There's also a model with a video screen designed to be used by desk-bound security guards, and a drone that's been engineered to fly around warehouses scanning the shelves to check the inventory.
+But perhaps the award for most novel use of a quadcopter should go to SwellPro's Splash Drone 3.
+It is designed to help fishing expeditions catch tuna, sharks and other large sea life by dropping bait from above.
+Recent revelations about decades-old flaws with processor chips threaten to cast a shadow over new computer launches at CES.
+Even so, Qualcomm will likely be trumpeting the battery-life benefits of powering Windows 10 PCs with its smartphone chips, which became possible after Microsoft added support for ARM's architecture.
+Meanwhile, Intel will be promoting the virtue of new processor modules that integrate AMD's graphics hardware, which it hopes will prove attractive to gamers.
+When it comes to handsets, there are rumours that Samsung might unveil a Galaxy X model with a foldable display.
+But if that fails to make an appearance, there will still be a new phone from China's Vivo that carries out fingerprint scans by getting its users to tap the display.
+This makes it possible to offer an "all-screen" device without forcing fingerprint readings to be done on the rear.
+And for those who prefer their tech to be more retro, London's Planet Computers will be showing off Gemini.
+The clamshell handheld resembles the long-retired Psion computer but gives it an Android twist, as you can see below.
+The Oculus Rift and HTC Vive virtual reality headsets have now been on sale for nearly two years, and sales haven't been stellar.
+Sony's PlayStation VR has fared a bit better, but what many are hoping will turbo-charge demand is the emergence of standalone headsets that don't need to be linked to a PC or powered by a phone.
+The move could make them much easier to deploy in schools and marketing campaigns, for example, and help them break out of a gaming niche.
+At CES, Austrian start-up Exchimp will gatecrash the market with its solution.
+Lenovo is also rumoured to be ready to show off its Mirage Solo model. And HTC could announce that it's ready an international launch for its all-in-one Vive Focus, which is already on sale in China.
+Much of the other VR hardware news out of the show is likely to be about prototype controls for the technology, with various attempts to put sensors and robotic gloves on people's hands or to recognise their gestures via cameras and sound wave sensors.
+Ultimately, many believe augmented reality - in which graphics are mixed together with real-world views - has more potential.
+But while there are several firms showing off AR apps and components designed for use in reality-mixing smart glasses, it seems unlikely a market-ready high-quality headset will emerge for at least another year or two.
+However, for those just wanting a taste of the tech there are a few solutions on show, including the cardboard-based fold-up Aryzon into which you slot a phone.
+There should be more robots than ever before at this year's event. LG and Honda are among the bigger firms showing off new models, which include a luggage-carrying hotel droid and a face-pulling "compassionate" companion.
+How practical any of them are is another matter.
+Nonetheless, we're promised innovations including a bot that plays Scrabble, two that fold clothes and a third designed to be cuddled at night to help send its user to sleep.
+Other tech of questionable merit includes:
+But while it's easy to sneer at the many seemingly obvious misfires, CES also presents an opportunity to be entertained and impressed by all the imagination and effort involved.
+So, to end on a positive note here are some other innovations that caught our eye as having potential if they can fulfil their promise:

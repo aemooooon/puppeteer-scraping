@@ -1,0 +1,11 @@
+Tesla cars in the US can now read speed limit signs and detect green lights, following a new software update.
+The vehicles' Autopilot system generates a speed limit warning on the dashboard display and sends a notification if the car is sitting still at a green traffic light.
+The features were released in the latest update of Tesla's "full self-driving" version of Autopilot.
+Tesla vehicles can already slow down at red lights and stop signs. 
+In July 2019, Tesla's website advertised the "full potential for autonomous driving" including automatic driving on motorways - although it has always maintained that its Autopilot is not designed to be a substitute for a human driver.
+Previous Tesla models have had speed-limit sign recognition, which was enabled by the firm's former business partner Mobileye.
+Between 2013 and 2016, the Israeli maker of camera sensors and software supplied Tesla with technology for the Autopilot feature used in its Model S and Model X vehicles. But in July 2016, the companies ended the relationship, citing the first reported Autopilot fatality as a factor. 
+Owners of cars built under the partnership had complained road signs were sometimes inaccurately interpreted. Vehicles would not register a speed limit sign at all or drive at excessive speeds, reported Tesla blog, Teslerati.
+Tesla's latest software update applies to Autopilot cars made after 2016, which are not fitted with Mobileye cameras.
+Elsewhere, Cruise - the self-driving car start-up, majority-owned by General Motors - has said it is using artificial intelligence to train cars to understand bike users and pedestrians' body language.
+This could be used to identify somebody holding their hand up to signal stop, or a cyclist extending their left arm to indicate they are turning left, for example.

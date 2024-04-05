@@ -1,0 +1,10 @@
+JERUSALEM—Nvidia Corp. said it was building Israel’s most powerful artificial intelligence (AI) supercomputer to meet soaring customer demand for AI applications.
+Nvidia, the world’s most valuable listed chip company, said on May 29 the cloud-based system would cost hundreds of millions of dollars and be partly operational by the end of 2023.
+Gilad Shainer, a senior vice president at Nvidia, said Nvidia worked with 800 startups in Israel and tens of thousands of software engineers.
+The system, called Israel-1, is expected to deliver the performance of up to eight exaflops of AI computing to make it one of the world’s fastest AI supercomputers. One exaflop has the ability to perform 1 quintillion—or 1,000,000,000,000,000,000—calculations per second.
+Shainer said AI was the “most important technology in our lifetime” and that to develop AI and generative AI applications large graphics processing units (GPUs) were needed.
+“Generative AI is going everywhere nowadays. You need to be able to run training on large datasets,” he told Reuters, noting companies in Israel will have access to a supercomputer they don’t have today.
+“This system is a large scale system that actually will enable them to do training much quicker, to build frameworks and build solutions that can tackle more complex problems.”
+OpenAI’s ChatGPT, for example, was created with thousands of Nvidia GPUs.
+The system was developed by the former Mellanox team. Nvidia bought Israeli chip designer Mellanox Technologies in 2019 for nearly $7 billion, outbidding Intel Corp.
+Shainer said Nvidia’s first priority for the supercomputer was its Israeli partners. “We may use this system to work with partners outside of Israel down the road,” he said.

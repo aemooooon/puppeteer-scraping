@@ -1,0 +1,26 @@
+It takes minutes for most new Minecraft players to work out how to dig up the diamonds that are key to the game, but training artificial intelligence to do it has proved harder than expected.
+Over the summer, Minecraft publisher Microsoft and other organisations challenged coders to create AI agents that could find the coveted gems.  
+Most can crack it in their first session.
+But out of more than 660 entries submitted, not one was up to the task.
+The results of the MineRL - which is pronounced mineral - competition are due to be announced formally on Saturday at the NeurIPS AI conference in Vancouver, Canada.
+The aim had been to see whether the problem could be solved without requiring a huge amount of computing power.
+Despite the lack of a winner, one of the organisers said she was still "hugely impressed" by some of the participants.
+"The task we posed is very hard," said Katja Hofmann, a principal researcher at Microsoft Research. "Finding a diamond in Minecraft takes many steps  - from cutting trees, to making tools, to exploring caves and actually finding a diamond. 
+"While no submitted agent has fully solved the task, they have made a lot of progress and learned to make many of the tools needed along the way."
+Minecraft has become wildly popular since it was released in 2011. 
+More than 180 million copies of the open-world game have been sold, and the title has more than 112 million monthly active players.
+Diamond is one of the most important resources in Minecraft as it can be used to create strong armour and powerful weapons. 
+However, in order to obtain the precious stone, a player must first complete a number of other steps. 
+"If you're familiar with the game, it shouldn't take more than 20 minutes to get your first diamonds," Minecraft player Jules Portelly told the BBC. 
+Entrants were only allowed to use a single graphics processing unit (GPU) and four days of training time. For context, AI systems usually need months or years of game time to master titles like StarCraft II. 
+A relatively small Minecraft dataset, with 60 million frames of recorded human player data, was also made available to entrants to train their systems.
+"At the start of every episode they spawned in a procedurally-generated Minecraft world," explained Dr Hofmann.
+"So they really needed to learn the concept of finding resources, making tools and finding a diamond."
+The organisers wanted the coders to create programs that learned by example, through a technique known as "imitation learning". 
+This involves trying to get AI agents to adopt the best approach by getting them to mimic what humans or other software do to solve a task.
+It contrasts with relying solely on "reinforcement learning", in which an agent is effectively trained to find the best solution via a process of trial and error, without drawing on past knowledge.
+Researchers have found that using reinforcement learning alone can sometimes deliver superior results. 
+For instance, DeepMind's AlphaGo Zero program trumped one of the research hub's earlier efforts, which used both reinforcement learning and the study of labelled data from human play to learn the board game Go.
+But this "pure" approach typically requires much more computing power, making it too expensive for researchers other than large organisations or governments. 
+William Guss, the main competition organiser and a PhD student at Carnegie Mellon University, told the BBC that the point of the competition had been to show that "throwing massive compute at problems isn't necessarily the right way for us to push the state of the art as a field".
+He added: "It works directly against democratising access to these reinforcement learning systems, and leaves the ability to train agents in complex environments to corporations with swathes of compute."

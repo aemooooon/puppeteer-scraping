@@ -1,0 +1,10 @@
+Two hospitals are using artificial intelligence (AI) to help speed up diagnosing prostate cancer.
+Somerset NHS Foundation Trust said it is the first in the UK to introduce its AI tool, called Pi, to work alongside its team of radiologists.
+The Trust has joined forces with Cambridge-based company, Lucida Medical to begin using the technology.
+It is now being used at Musgrove Park Hospital in Taunton, and at Yeovil District Hospital.
+Dr Paul Burn, a consultant radiologist at Somerset NHS Foundation Trust said the way it worked was “really simple".
+He added: "Within a few minutes of the patient having their MRI scan, the Pi tool displays a number that gives a probability of cancer. It also shows the exact location of any tumours in the prostate.
+“Patients with prostate cancer have a complicated diagnostic pathway, our aim is that by using this AI software, we will be able to speed up the process and enable us to prioritise those with cancer. 
+"It’ll also free up our radiologists to report on additional patients every day, and may in future allow us to book the patient in for a biopsy more quickly.”
+Dr Anthony Cunliffe, national lead medical advisor at Macmillan Cancer Support, said he hoped more hospitals would use the technology.
+“Pi has the potential to transform how we diagnose and monitor patients with prostate cancer, so we’re thrilled to see this software being put to use in Musgrove Park and Yeovil," he added.

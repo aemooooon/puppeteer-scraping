@@ -1,0 +1,19 @@
+Parents tearing their hair out over children spending hours gaming should instead be encouraging their creative use of tech, a recently-knighted AI millionaire has told the BBC.
+Sir Demis Hassabis said they should be encouraged to create and programme.
+The co-founder and boss of Google's DeepMind himself grew up playing chess and gaming. Google bought his firm for a reported £400m in 2014.
+Sir Demis told BBC Radio 4's Today that gaming helped him to become successful.
+"It's important to feed the creative part, not just playing them [games]," he said. "You never know where your passions lead, so I would actually just encourage parents to get their children really passionate about things, and then develop their skills through that."
+He said children will have to be ready to be very adaptable in what will be a "very fast-changing world", and "just embrace that adaptability".
+Sir Demis, a child chess prodigy, designed and programmed a multi-million selling game called Theme Park in his teens before going to Cambridge University.
+After graduating he founded a video games firm, completed a PhD in neuroscience, and then co-founded DeepMind in London in 2010, which he subsequently sold to Google.
+On Thursday he posted on X saying he was "delighted" to receive his knighthood for services to AI.
+He told the BBC that the knighthood was recognition of what he and his team had done to "seed the whole AI field and the AI industry", and recognition of their contribution to British life.
+He said he did not regret selling DeepMind to Google 10 years ago as he regarded it as the right company with the needed computer power to take on the firm.
+"There was no capability in the UK at the time to raise the hundreds of millions of dollars that one would require to take on things globally", he said.
+AI has raised concerns about its use in imitating people in "deepfake" videos, including using the faces and voices of real life people in AI-generated sex videos. 
+Christopher Doss, a researcher at think tank Rand Corporation, said spotting deepfake videos has turned into "an arms race between those who are trying to detect it, and those who are trying to evade detection".
+There are also worries that the way AI is trained using publicly available data could lead to "algorithm bias". This is a particular concern where it is deployed to automate decision-making, such as picking the relevant CVs for job seekers.
+As the AI industry rapidly develops, Prime Minister Rishi Sunak held the first AI safety summit in 2023, where he said he recognised there was "anxiety" about the impact new tools could have on the workplace, but said it would enhance productivity over time.
+At that summit, Sir Demis signed a statement that said "mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war".
+Speaking to BBC business editor Simon Jack, Sir Demis said he did not see himself as someone like Robert Oppenheimer, the designer of the nuclear bomb.
+He said his generation of scientists had heeded "warnings" about the power of science and "the risks" involved if such power is not "handled correctly". He added that AI has an "unbelievable positive impact" that is "broader than nuclear".

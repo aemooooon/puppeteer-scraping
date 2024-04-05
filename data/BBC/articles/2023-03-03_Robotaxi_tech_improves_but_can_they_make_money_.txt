@@ -1,0 +1,44 @@
+It is past midnight on a quiet residential street in San Francisco and I have just left a taxi with a nagging feeling I didn't close the door properly.
+Normally I wouldn't worry, but this isn't a normal ride. It is a Cruise robotaxi with no human driver to close the door.
+I go back to check and sure enough, it was a weak push. A human voice pipes up on a speaker checking everything is OK. I apologise about the door, but I also press her. What if I hadn't come back? We would take care of it, she reassures me.
+Driverless robotaxi services open to the public now operate on the dense streets of San Francisco, albeit in limited form.
+Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent company Alphabet. Cruise began taking fares last June and charges a little less than Uber or Lyft. 
+I crisscross San Francisco in both companies' cars, steering wheels turning on their own in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar systems.
+The rides are mostly smooth and the cars seem respectful of cyclists and pedestrians. The driving can at times seem both more and less cautious than my own. Some routes are unfathomably circuitous.
+People stop to gawk, photograph and strike up conversations - a reminder of the technology's novelty.
+My rides are without incident, but the cars have raised concerns among city officials, including for unexpected and hazardous stopping.
+In January the city asked state regulators to hold off on approving expansions to the companies' services until they addressed the problems.
+The companies want to cover more of the city - currently their services only cover parts and neither serves downtown - and add more vehicles.
+In addition, Cruise wants to run its service in the daytime - it is currently limited to between 22:00 and 05:30.
+Waymo is allowed to operate around the clock and is awaiting permission to charge for its driverless rides.
+At the moment, to take a Waymo or Cruise taxi members of the public have to join a waiting list. The companies also continue to run testing programs, where rides are free to those selected to participate.
+Other cities where the companies operate similar limited driverless ride-hail services include Phoenix (both Waymo and Cruise) and Austin (Cruise). Both are working to add additional locations. 
+Other firms are on the scene as well. Motional, backed by Hyundai and which has partnerships with Uber and Lyft, plans to offer a limited driverless service in Las Vegas this year. 
+Yet, as this new way of travelling creeps forward, there are questions about whether autonomous taxis can scale up to be profitable.
+The companies might be spending big to eliminate the cost of low-paid drivers but, as my experience with the half-closed door shows, operations are far from human-free.
+A Cruise spokesperson later confirmed that while, if shut loosely the door would latch automatically, if it was left wide open someone would indeed need to come and close it.
+"The economics are, to put it mildly, fanciful," says Ashley Nunes, a researcher at Harvard Law School who has looked specifically at the business case of autonomous taxis.
+Getting the business model right is going to be "crucial" and promises to be "even harder than the technology", says William Riggs, an associate professor at the University of San Francisco School of Management who leads its Autonomous Vehicles and the City Initiative. 
+More technology of business:
+Over the past year or more, there has been a recalibration when it comes to autonomous driving, on which in excess of $100bn (£83bn) is estimated to have been spent. 
+Back in the 2010s some thought we would be doing most of our trips in autonomous vehicles by now.
+Argo AI, the self-driving tech start-up backed by carmakers Ford and Volkswagen, announced it was shutting late last year.
+Many traditional car companies are now saying private self-driving cars, unconstrained by where they can travel, are a long way off and have switched their attention to advanced driver assistance systems instead.
+More limited use cases, like self-driving shuttle services, that would operate along short fixed routes are also getting more attention, including from the UK government.
+But Cruise and Waymo appear to be staying the course, ploughing resources in and incrementally making progress. Cruise is pursuing both ride-hail and last-mile driverless delivery, which it has been trialling in Phoenix. Additionally, Waymo is developing long-haul autonomous trucking.
+Touted benefits of autonomous taxis range from being safer - though that is still being proved - to more reliable, to more relaxing as customers don't have to worry about being sociable with a driver. 
+Yet, for such benefits to be realised, the service needs to become financially sustainable. And analysis by Mr Nunes, published in 2020 but which he believes still holds true, shows autonomous ride-hailing doesn't make economic sense, even with generous assumptions.  
+Firstly, behind the scenes there is still a human requirement. Automation changes the type of labour that is required, but it doesn't eliminate the need for labour.
+Transport consultant Nick Reed says that robotaxi services will need customer support agents, fleet operators to monitor where the cars are, engineers to troubleshoot specific problems the vehicles encounter, and people to physically rescue the cars if needed as well as clean and charge them. 
+Secondly, there is plenty of time when taxis are empty. While a driver isn't paid for that time, those working behind the scenes in the autonomous taxi model still need to be.
+Yet the companies remain confident they can scale up and become profitable.
+Cruise is betting on a new purpose-built vehicle called the Origin, says Megan Prichard, Cruise's vice president of ride-hail. 
+That vehicle, an autonomous people mover with no steering wheel or space for a driver but room for six passengers, is due to go into production shortly and Cruise expects it will be in use in the US for ride-hailing later this year, with Dubai following next. 
+Waymo has a similar vehicle called the Zeekr.
+Because Cruise's Origin will be mass-produced, at GM's dedicated electric vehicle assembly plant in Michigan, not only will the production costs be "far lower", says Ms Prichard, but the design will open the opportunity for ride pooling - trips of multiple customers with similar routes in a single vehicle.
+That will maximise the utilisation of each vehicle and provide the ability to deliver rides cheaply at scale.
+Expect tens of thousands on the road in the next handful of years, says Ms Prichard.
+She notes Cruise is also working to drive down its human-to-autonomous vehicle ratios. The doors on the Origin will be able to be closed remotely.
+Others remain sceptical - people haven't wanted to share before, notes Mr Nunes.
+And, ride sharing in a world where there isn't someone on board to sort out any issues between the human customers?
+"There's some issues to resolve there," says Mr Reed.

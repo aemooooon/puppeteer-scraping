@@ -1,0 +1,17 @@
+TikTok's owner has said it will "strictly adhere to" new rules imposed by China over what technologies the country's companies can sell overseas.
+The export controls could potentially be used to block the sale of TikTok's US operations.
+The expanded list of restricted items covers some of the methods the app uses to target who sees which videos.
+The app's ability to quickly identify and cater to users' interests has played a large part in its success.
+Bytedance began talks to sell TikTok's American, Canadian, Australian and New Zealand division after President Donald Trump threatened to ban the app in the States, where it has about 100 million members.
+The President has cited national security concerns, despite the company's denial that it would give the Chinese authorities access to foreign users' data.
+The US government has given the company until mid-September to secure a sale as an alternative.
+Microsoft and WalMart have teamed up to make a joint bid, while the database specialist Oracle is considering an offer of its own.
+However, Bytedance has faced criticism within its home country for having been seen to have caved to foreign pressure to sell off a prized asset.
+And Xinhua, the state-owned news organisation, has quoted a government adviser as saying that Bytedance should "seriously and carefully consider" suspending sell-off talks in order to comply with the revised export rules.
+Beijing added 23 items to its catalogue of technologies subject to export restrictions on 28 August, the first time it had amended the list since 2008.
+It now includes two "civilian use" technologies that could directly impact TikTok:
+In theory, Bytedance would have to seek permission to sell the use of any related tech to a foreign entity, and it could take up to a month to get preliminary approval.
+Were the company to be forbidden from including TikTok's recommendation engine as part of a sale, it would in effect cripple the app. 
+That would mean a buyer would to have to develop a recommendation system of their own, making a smooth handover of control difficult to achieve.
+Bytedance pledged to comply with the change to the law via a Chinese-language post on its news service Toutiao on Sunday night.
+The firm's lawyer Erich Andersen later added: "We are studying the new regulations that were released Friday. As with any cross-border transaction, we will follow the applicable laws, which in this case include those of the US and China."

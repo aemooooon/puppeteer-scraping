@@ -1,0 +1,31 @@
+As the 2024 U.S. presidential election approaches, concerns about the influence of artificial intelligence (AI) and deepfake technology on the electoral process are reaching new heights.
+Deepfakes are highly convincing and deceptive digital media—typically videos, audio recordings, or images—increasingly generated using artificial intelligence, and often for misleading or fraudulent purposes.
+Experts in the field of AI and deepfake detection provided The Epoch Times with valuable insights into the challenges posed by AI-generated misinformation and disinformation and the steps being taken to combat them.
+“2024 is going to be the deepfake election in ways that previous elections weren’t,” he said. “It is only becoming prevalent in 2024, and that’s because of access to this technology. Basic versions of this technology existed in 2020, but the quality wasn’t good enough to fool people. People could still tell it was fake.”
+Mr. Gupta said the quality improved in 2022 and continues to advance monthly. Content is becoming good enough that the average person could see or hear it on TikTok or YouTube and would be convinced that it’s real.
+“They’re not looking for a fake,” he said. “They’re not trying to determine that it’s fake. It sounds real to them, so they just assume it’s real. But the last thing that was needed for this to really become a massive problem was access. So the first hurdle was quality, and that was just accomplished last year. The second hurdle was access.”
+Now, Mr. Gupta said, tools are available online to the masses, and usually for free.
+“Most of the time, you don’t even need a credit card, and you can create deep fakes of anyone in just five seconds,” he said. “That is what’s new. That’s what has just happened in the past few months—and that’s why 2024 is going to be the deepfake election.”
+It’s an issue that “keeps me up at night,” Mr. Gupta said.
+To address the growing threat of deepfakes, Mr. Gupta’s partner Emma Brown, co-founder and chief operating officer of DeepMedia, emphasized the importance of accurate and scalable detection methods.
+DeepMedia has developed advanced and intelligent deepfake detection capabilities that they note have been validated by the U.S. government and companies worldwide.
+Ms. Brown said that DeepMedia boasts the most accurate face and voice deepfake detection capabilities globally, ensuring reliable identification of AI-generated content.
+Scalability is another factor that’s important to the company, she said, adding that DeepMedia has the ability to process a vast number of videos daily, allowing for the rapid identification of deepfakes within large datasets.
+Thirdly, she said the robustness of DeepMedia’s platform offers advanced features such as precise content categorization, enabling users to extract specific information from AI-generated content.
+“We’re actively involved in securing our elections ahead of AI threats,” Ms. Brown said.
+Users can tag @DeepMedia and add the hashtag #DeepID to any media content, and DeepMedia’s Twitter bot will promptly run the content through its deepfake detection system and provide results in the thread, Mr. Gupta said.
+“We hope that this will empower the average user and citizen journalists with the tools they need to protect themselves against AI misinformation,” he said.
+The move represents a significant step toward democratizing the fight against AI-driven disinformation and misinformation.
+The 2024 U.S. presidential election will serve as a critical test of the ability to combat the influence of deepfakes on public perception and electoral outcomes. Mr. Gupta stressed that the challenge extends beyond technical solutions, and he urges people to remain vigilant and informed.
+“The fusion of AI and elections demands our collective attention and action to safeguard the integrity of our democratic processes,” Mr. Gupta said.
+When asked if AI or deepfakes have already been noticed in the 2024 election cycle, Ms. Brown said it was only in a few cases that didn’t gain much traction.
+“It was completely fake, and our detectors were able to detect it with a high degree of accuracy,” Ms. Brown said. “But instances like that could be detrimental to DeSantis’s campaign.
+“We are driven by the positive purpose and the do-good aspect of applied AI,” he said.
+This commitment suggests that AI technologies, when employed thoughtfully, can contribute to the betterment of the electoral process.
+AI could be a force for good in elections, Mr. Kaskade said. AI-driven tools can enhance communication, provide valuable insights into voter preferences, and streamline campaign efforts. It’s essential to strike a balance between leveraging AI for positive purposes and guarding against its misuse, he said.
+He emphasized the need for an ethical use of AI-generated content in political discourse and for vigilance in ensuring the authenticity of information in electoral contexts, which highlights the importance of trusting sources in the age of AI-generated content.
+“I think it’s just fundamental,” Mr. Kaskade said. “You have to research your source.”
+He acknowledged that while technology hasn’t yet fully caught up to differentiate between real and fake content, one can still exercise caution by assessing the credibility of the sources that are providing information.
+This poses a significant threat to eroding trust in political candidates and institutions.
+It requires a collective effort from governments, tech companies, and society as a whole to raise awareness, promote digital literacy, and enact regulations to combat the malicious use of AI, the experts said.
+Mr. Kaskade urged candidates who are running for office to propose policies and regulations on AI that would ensure that its use is beneficial to society, rather than harmful and divisive.

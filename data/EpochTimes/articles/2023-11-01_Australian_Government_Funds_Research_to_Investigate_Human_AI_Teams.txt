@@ -1,0 +1,12 @@
+Researchers at the University of the Sunshine Coast in Australia will investigate how to build the best human-artificial intelligence (AI) teams.
+A team led by Professor Paul Salmon will look into how humans and artificial intelligence can work together in multiple industries including transport, defence, and health.
+Humans-AI teaming (HAT) can also be referred to as human-agent teaming or human autonomy teaming.
+“An autonomous vehicle collision is a good example of where you have very advanced AI, but often it’s not telling its human teammate what it can see and what action needs to be taken, which shows us that team situational awareness and communication are still lacking,” he said.
+The University noted AI is being adopted globally in the workplace at a very fast rate in healthcare, aviation, defence, transport and disaster response, citing robot-assisted surgery and driverless cars as examples.
+Professor Salmon said there are “human potential benefits” but AI is complex is often not designed to work in teams or with consideration for how humans are going to interact with it.
+“A lot of research exists on the psychology of human teams, but now we need a basic understanding of what teamwork looks like when you have humans and AI working together,” he said.
+[video width=“640” height=“360” mp4=“https://img.theepochtimes.com/assets/uploads/2023/10/01/id5520746-Driverless-car-San-Fran.mp4”][/video]
+“This research will apply a novel integration of systems analysis and computational modelling methods to develop, test, and validate a new model of teamwork in HATs,” the ARC said.
+“The model will clarify the processes and behaviours that support optimal HAT functioning, delineate HAT performance measures, and help to identify strategies to optimise HAT performance. ”
+The ARC explained the outcomes of the research could form a basis for future research into HATS, delivering potential results in industries including defence, transport, healthcare, manufacturing, and disaster response.
+The latest round of Discovery Project funding was one of multiple projects announced by the ARC on Oct. 30. The University of the Sunshine Coast was awarded $603,955 (US$383,000) from the government.

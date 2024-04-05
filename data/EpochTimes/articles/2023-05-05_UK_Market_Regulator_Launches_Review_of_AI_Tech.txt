@@ -1,0 +1,11 @@
+The Competition and Market Authority (CMA) will investigate what the development of artificial intelligence (AI) means for UK consumers and market competition.
+Westminster seeks to understand and ensure that innovations in AI serve the UK economy, consumers, and businesses without breaching appropriate transparency and security.
+The initial review will examine how the competitive markets for foundation models and their use could evolve.
+Foundation models are learning models trained on vast volumes of data to handle a variety of tasks, from translating texts to analysing medical images to creating original music scores and film scripts.
+CMA is to suggest how to support healthy competition and protect consumers across the UK, as AI foundation models, such as the one underpinning the popular ChatGPT chatbot, keep developing.
+She added that while it would be beneficial for UK businesses to utilise AI tech there still was a concern for the consumers’ safety when it comes to issues like dealing with false or misleading information.
+The letter was signed by Spacex and Twitter CEO Elon Musk, co-founder of Apple Steve Wozniak, and thousands of other signatories.
+Meanwhile, the discussion of AI risks and development is also rife within the walls of Westminster. On May 3, British MPs addressed the dangers of AI and the need for regulation during the House of Commons questions session with the Science secretary Chloe Smith.
+Smith said that the government recognises the risks posed by many technologies when in the wrong hands.
+“The UK is a global leader in AI, with the strategic advantage that places us at the forefront of these developments. Now, through UK leadership, including at the OECD and the G-7, the Council of Europe, and more, we are promoting our vision for a global ecosystem that balances innovation and the use of AI underpinned by our shared values, of course, of freedom, fairness, and democracy. Our approach will be proportionate, pro-innovative, and adaptable,” she added.
+Britain’s AI strategy continues to be shaped by existing regulatory bodies, including the Office for AI and fellow members of the Digital Regulation Cooperation Forum (DRCF).

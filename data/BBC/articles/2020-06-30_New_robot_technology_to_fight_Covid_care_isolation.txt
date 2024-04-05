@@ -1,0 +1,21 @@
+New solutions to the Covid-19 crisis in the care sector are being sought by a laboratory that is opening at Heriot-Watt University in Edinburgh. 
+Its creators are confident it is the world's first laboratory studying assisted living that researchers can use remotely. 
+We all need help now and then, but people with physical and mental challenges need it much more, especially if they want to live independently. 
+Real life human helpers have been the norm until now but the coronavirus pandemic has changed things rapidly and radically. 
+That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. 
+It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible. 
+The Laboratory for Ambient Assisted Living (OpenAAL) will be available to researchers all over the UK. In the longer term it is hoped it will be open worldwide. 
+It is being led by Dr Mauro Dragone, an assistant professor at Heriot-Watt University. 
+He says researchers will be able to use Augmented Reality to "teleport themselves into the laboratory" and hopes it will "help people co-design new technologies". 
+It is part of the National Robotarium, a UK centre of excellence which is a partnership between Heriot-Watt and Edinburgh universities. 
+The applications could include supporting the more than 100,000 people in the UK Dr Dragone says are living alone with dementia, or any of the people whose care has been disrupted by the social isolation forced on the pandemic: people with multi-morbidity conditions, disabilities, or in the acute stages of mental ill health.
+And it won't be a top-down process. The "co-design" idea means involving the people on the receiving end of the care process. 
+That's why the lab wants more collaborators from the care sector to join in. 
+The Coalition of Care and Support Providers in Scotland is to play a key role in connecting the project to its more than 80 members in Scotland's third sector.
+The approach will go a lot further than creating clever, caring robots. 
+It will involve experts in microsystems, wireless sensing, antennas, microwave and embedded systems, signal processing, data science, machine learning, the Internet of Things, artificial intelligence, and human-computer interaction.
+It will mean being able to unobtrusively monitor a vulnerable person's vital signs, detect patterns and trends in their behaviour and health, identify problems, help communication and social connections, and provide social and physical assistance. 
+Dr Dragone says this is likely to include helping people receive virtual visits from friends and family. 
+Robotic pets may be another way to help overcome isolation. 
+The project is being funded by the UK's Engineering and Physical Sciences Research Council, under its Impact Acceleration Accounts scheme.
+It has already gained support from NHS Lothian, The Digital Health and Care Institute, Blackwood Home and Care Group, Consequential Robotics, Alcuris Ltd, Cyberselves and The Data Lab.

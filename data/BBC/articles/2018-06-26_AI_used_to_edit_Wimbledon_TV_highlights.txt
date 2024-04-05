@@ -1,0 +1,16 @@
+The emotional reactions of top tennis players at Wimbledon will determine which highlights fans get to watch, and how quickly they are available.
+Wimbledon and its digital partner IBM have fine-tuned their artificial intelligence (AI) systems this year to help automatically edit the top action.
+With an average of three matches per court, per day, video from matches can add up to hundreds of hours of footage.
+AI-analysis uses crowd noise, player actions and match data to edit video.
+Those video clips are then provided to the organiser of Wimbledon, the All England Lawn Tennis Club, for uploading on its official website, apps, and social media channels.  
+"Recognising player emotion is based on analysis of the broadcast video, and on looking for gesticulation - so for example fist pumping, arms aloft, hand shaking at the end of a match, and strong demonstrations of emotion such as shouting," says Sam Seddon, Wimbledon client and programme executive at IBM.
+But it is not just about player emotion, otherwise there would only be highlights featuring the most animated players.
+"It is a combination of factors - we also look at the level of fan interest in a particular match, match data, and audience applause from during a game."
+IBM aims to package up highlights from the six main show courts within five to 10 minutes, when an editorial decision can then be made on whether the package can be published.
+It could otherwise take hours to pull together all the available footage into packages. 
+"This is one of the better commercial uses of a technology that is increasingly being taken up by the established media and also new, social media, players," said Tabitha Goldstaub, co-founder of CognitionX, a platform which provides companies with information on AI. 
+"Reading the emotions of the crowd the AI will do the laborious work of the editing, freeing the professional up to do the creative part."
+IBM Watson's computer is the machine driving the process, using cognitive technology that can processes and understand large amounts of data.
+"Watson is an artificial intelligence platform that understands, reasons and learns in a very similar way to a human," says Mr Seddon.
+"As a learning system Watson has been taught to better recognise player emotion - increasing the quality of the output, while also increasing speed in turnaround time." 
+The system also expands the number of potential matches that can be turned into highlights.  

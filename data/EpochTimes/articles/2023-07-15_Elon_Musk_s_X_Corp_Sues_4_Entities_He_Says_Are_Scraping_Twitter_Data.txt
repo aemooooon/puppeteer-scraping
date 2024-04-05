@@ -1,0 +1,19 @@
+Elon Musk’s X Corp., the California-based company that owns and operates Twitter, has filed a lawsuit against four entities in Texas. The lawsuit accuses the defendants of data scraping from the social media site and causing issues for the platform’s users.
+The lawsuit describes data scraping as “a form of unauthorized data collection that uses automation and other processes to harvest data from a website or mobile application.”
+X Corp claims that the defendants unlawfully collected data on Texas residents and impaired the experience of Twitter users.
+“The volume of these requests far exceeded what any single individual could send to a server in a given period and clearly indicated that these automated requests were aimed at scraping data from Twitter,” according to the complaint. “These requests have severely taxed X Corp.’s servers and impaired the user experience for millions of X Corp.’s customers.”
+The lawsuit also alleges that the companies scraping the data are able to repackage and profit from the information they collected unbeknownst to the Twitter user.
+“Twitter users have no control over how data-scraping companies repackage and sell their personal information,” the document states.
+They are identified by the aliases: John Doe 1, John Doe 2, John Doe 3, and John Doe 4; and described as “persons or entities” associated with specified IP addresses.
+“To avoid detection, data scrapers deploy software and other technology to mask their identities and penetrate networks that would otherwise be private,” the document reads.
+“To address extreme levels of data scraping [and] system manipulation, we’ve applied the following temporary limits:
+- Verified accounts are limited to reading 6,000 posts/day.
+- Unverified accounts to 600 posts/day.
+- New unverified accounts to 300/day.”
+But the move sparked a backlash from some accounts run by informational agencies, monitoring services, and journalists who say they rely on the platform to review thousands of tweets a day.
+The higher threshold allowed on verified accounts is part of an $8-per-month subscription service that was rolled out earlier this year. The fee was implemented in an effort to boost revenue, which has declined sharply since Mr. Musk took the helm.
+Although that’s a relatively small number of Twitter’s more than 200 million worldwide users, the trouble was widespread enough to cause the hashtag #TwitterDown to trend in some parts of the world.
+Later the same day, Mr. Musk wrote that Twitter would soon update the limits to 8,000, 800, and 400, respectively.
+And then, hours later, he updated the limits for a third time to 10,000, 1,000, and 500.
+The company said it did not provide advance warning about the temporary change in an effort to identify the “bad actors.”
+The site also requires users to log on to their accounts to view tweets and profiles, a change in its longtime practice that allowed anyone —whether they had an account or not — to scroll through the feed and search profiles.

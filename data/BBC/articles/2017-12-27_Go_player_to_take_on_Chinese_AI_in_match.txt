@@ -1,0 +1,13 @@
+The world's top Go player will take on an artificial intelligence opponent again this spring, but this time it will not be Google's DeepMind that provides the machine rival.
+Ke Jie had previously vowed never to play against AI again after repeatedly losing to DeepMind's AlphaGo.
+But according to Chinese media reports, he will take on a range AI opponents, including one from China's Tencent.
+The man-versus-machine series will take place in China in April 2018.
+Other firms providing AI programs include Japan's DeepZenGo and Taiwan's CGI. The matches will form part of the the World AI Go Tournament.
+Nineteen-year-old Jie took on AlphaGo in the spring of 2017, losing all three matches. Afterwards, DeepMind announced that its algorithm would officially retire from competitive Go playing.
+A South Korean Go champion, Lee Sedol, had already played DeepMind in March 2016. He lost 4-1, in a series of matches described by experts as a landmark achievement for AI.
+The Chinese board game is considered to be a much more complex challenge for computers than chess.
+Chinese AI technology is developing at great speed - Baidu has more than 60 different AI platforms and has spent about $1bn (£746m) buying Western AI firms, while Alibaba and Tecent are also investing heavily in the technology.
+Eric Schmidt, chairman of Google's parent firm Alphabet, has said he thinks China could overtake the US in terms of AI within five years.
+Go is thought to date back to ancient China, several thousand years ago.
+Using black and white stones on a grid, players gain the upper hand by surrounding their opponents' pieces with their own.
+The rules are simpler than those of chess, but a player typically has a choice of 200 moves at most points in the game, compared with about 20 in chess.

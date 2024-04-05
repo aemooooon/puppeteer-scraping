@@ -1,0 +1,18 @@
+The government is attempting to develop new Artificial Intelligence (AI) systems in-house rather than outsource them to IT firms, a minister has said.
+Alex Burghart claimed "high end" AI specialists were willing to take a pay cut to work for the government.
+They are being recruited to work on systems to cut waste and improve productivity, he added.
+It comes after a string of high-profile IT procurement disasters such as the Post Office Horizon system.
+Asked how the government could avoid repeating mistakes of the past when it came to AI, the Cabinet Office minister said: "The approach that we have chosen to take with this work is very much in-house.
+"We have gone through a period where in-house has often been balanced or completely outstripped by outsourcing."
+But he said he wanted a team that understood "nascent" AI technology and could "help us build things" that could be used across government.
+Speaking at Centre for Policy Studies event in London, the Conservative MP said the government was in the process of recruiting 30 AI experts.
+"The enthusiasm for people to move out of the private sector - and presumably take quite a considerable pay cut  - in order to work for the government on the next generation of AI is really tangible," he told the event.
+Among the ideas the Cabinet Office is working on is an "AI red box". The red box is the system by which ministers receive important papers.
+"What it does is it can read documents that go into your red box, it can summarise them, it can highlight connections between papers, connections between previous papers," said Mr Burghart.
+"And over time, as we fine-tune this model, it will become, I believe, the institutional memory of the department."
+Staff in the Cabinet Office "don't always stay that long", he said, meaning the loss of people who remember "things that happened three, four or five years ago".
+"But with an effective AI red box, that won't be a problem," he added. "We will be able to retain the experiences of previous policies and previous successes."
+The digital ministerial briefcase is being used by several ministers while it is being fine-tuned, and once ready will be offered to all colleagues, he said.
+The minister said he was hoping to get more cash from Chancellor Jeremy Hunt, in his Spring Budget, to develop AI systems to reduce fraud and error and improve productivity across government departments.
+Asked about the impact of AI on civil service jobs, he said: "We may not need to employ thousands of people to do fraud detection in the future.
+"I hope we don't. I hope that that's something that we can make infinitely easier and cheaper for the British public.

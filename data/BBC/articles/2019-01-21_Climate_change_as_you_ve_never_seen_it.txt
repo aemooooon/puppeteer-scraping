@@ -1,0 +1,25 @@
+An artificial intelligence that scoured the internet for photos created these eerie and striking composite images of a warming world.
+If you had to pick one picture to sum up the problems being caused by climate change, what would you choose?
+Arid farmland? A polar bear stranded on an ice flow? The aftermath of a hurricane? None of these quite do justice to the scale of the problem.
+And this points to one of the main challenges with galvanising people to take concrete action on climate change – there is no easy way of summing up the complex web of issues that global warming presents.
+But what if something more adept at tackling complex problems could distil it for us? The images that follow show what climate change looks like through the prism of artificial intelligence.
+(All pics: Maja Petric)
+Artist Maja Petric wanted to create an all-encompassing view of how the world is being impacted by climate change.
+Working with artificial intelligence researcher Mihai Jalobeanu, she developed a deep learning algorithm that scours the internet for images of climate change related phenomena from around the world.
+The algorithm, which they have called AIEye, then analyses them to find common themes before combining them into several large archetypal images that focus on different topics.
+The results are intriguing pictures that contain multiple images within images.
+I have been mesmerised by the generated images,” says Petric. “Each of them has a capacity to tell a story about the sum of effects instead of just isolated cases.”
+Taking this image that depicts the aftermath of Hurricane Maria in Puerto Rico, the algorithm used thousands of images to create an average picture that serves as the background. It then resizes and cuts a random selection of the images to fit together into the colour scheme of that average image.
+Broken trees and waves can be immediately seen in the image, but when looking closer more details are revealed.
+“I read the news and I saw the images before they were processed into one AIEye image,” says Petric. “Seeing them on their own gave me a sense of what happened, but after they were processed, I got to see and understand how those individual stories are blended together into an interconnected destiny.
+“Such an all-encompassing mental image that blends numerous points of views into one is incomprehensible for most of us.”
+Zooming into different parts of each picture reveals ever increasing details as scenes of people’s suffering are revealed amidst the wreckage left by the storm.
+“I have been especially fascinated by the impressionistic beauty of the images as a whole and surreal narratives one can discover when inspecting the images in detail,” says Petric. “These are results of seamlessly blending isolated images, making it seem as if a car is being sucked by a whirlpool on which a boy is surfing and a man is climbing out of by use of ladders.
+“These fantastic combinations of the actual images construct a new narrative that can poetically convey the totality of the situation.”
+The algorithm inevitably picks up on some of the common themes that are used to illustrate climate change, such as polar bears.
+In some cases the AIEye algorithm also collated images that conveyed a more sceptical view of climate change.
+Scientists predict that wildfires similar to those to hit California recently will become more common as the climate warms.
+Petric believes that artificial intelligence could play an important role in helping us learn more about how climate change will affect the world around us.
+“AI has a capacity to retrieve and analyse data that would not be possible otherwise, and in so enhance our scientific understanding about the topic,” she says. “If done right, an artist can utilise the same data to demonstrate convincing arguments but also convey a story that can be felt deep inside one’s bones.”
+Climate scientists are already harnessing artificial intelligence to help them understand the complex changes that are happening around us as global temperatures increase.   
+Deep learning algorithms are giving insights into how hurricanes affect forests, allowing them to predict tropical storms and other forms of extreme weather, and prepare for flooding in a warming world where sea levels are expected to rise.

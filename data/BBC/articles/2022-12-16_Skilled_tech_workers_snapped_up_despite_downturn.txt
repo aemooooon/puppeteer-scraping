@@ -1,0 +1,29 @@
+Jaydeep Vacchani, a software developer in Toronto, began to hunt for a new job just as the surge of layoffs in the technology sector spread across the world.
+Mr Vacchani found that his expertise in automation and cloud technology was in demand, and in October he had five interviews on the go.
+Using cloud technology involves shifting data storage and processing to a third party like Amazon's AWS or Microsoft Azure. Meanwhile automation, in this case, means building software that streamlines labour-intensive work, like processing paperwork.
+By November Mr Vacchani had found a "perfect fit" at sherpa°, a remote-only tech firm offering customers a way to secure travel visa documentation online.
+"I like to work with a company that is focused on the user experience, especially when it comes to a product I can relate to, since I also had a challenging time trying to get the right visa paperwork when I moved to Canada from India," says Mr Vacchani, who is now a developer at the company's automation team.
+He says this wave of heavy layoffs didn't faze him because of the demand for his skills: coding in the Javascript language, and managing the infrastructure for products and data housed in the cloud.
+When Alex Gogan, VP of Engineering at sherpa°, seeks qualified candidates for software developer roles, he looks for a "sweet spot of those who enjoy creative and collaborative work, and are really good at it, too."
+While the start-up first wanted to grow by hiring generalists in the tech sector, Mr Gogan says today they are seeking specialists who can focus on scaling the company and help others who may need mentoring.
+It is a good time to be hiring workers with those kinds of skills. 
+More than 1,000 tech companies laid off 154,843 employees in 2022 alone, according to Layoffs.fyi which has been tracking layoffs in the tech sector since 2020. 
+Meta, which owns Facebook and Instagram, laid off more than 11,000 employees, and in November Amazon began letting go more than 10,000 staffers.
+Earlier this week, Microsoft announced 10,000 job cuts and Google followed with news of 12,000 job losses.
+Some experts see these moves as a self-correction from the bloated workforces created during the pandemic, when tech companies such as Amazon and Shopify prospered during months when other businesses suffered. 
+"The money spigot is not flowing at the same rate as it used to be," says Margaret O'Mara, author of The Code: Silicon Valley and the Remaking of America.
+"There's been a real softening of external capital resources, like VC (venture capital) funds, that had been propping up companies in Silicon Valley and beyond," she says.
+The rise in tech worker layoffs is also indicative of two other trends in this market, according to Lu Zhang, managing director of VC firm Fusion Fund in California. "Companies now feel an urgency to reserve cash, and founders see those high salaries they once offered as not being very cost-efficient."
+As for the tech skills in high demand now, in Silicon Valley she sees demand for engineers experienced in artificial intelligence (AI) tech and data science.
+Those areas are sought-after because companies are focusing on collecting and processing data, to better organise their business and learn more about their customers.
+An OECD report echoes Ms Zhang: Job postings for digital roles in the US increased by 24% between 2018 and 2021, led by a 116% increase in adverts for data engineers.
+Ms O'Mara sees another set of skillshiring tech companies find desirable: compassion and empathy. "While there has been such a relentless focus on engineering skills, companies want to ensure that there are voices in the room that understand the sociology of the products they produce and the impact they have on various geographies and political systems," she says. 
+She adds, "With the money engine slowing done, I'd like to see more large, influential companies enter that stage of maturity."
+More technology of business:
+Craig Freedberg, from UK-based specialist recruitment firm, Robert Half, says businesses will still have a need for tech resources and software development projects.
+However, he thinks companies will be reluctant to expand their workforces and will instead turn to temporary tech workers.
+"We've seen similar scenarios in other economic downturns and are already beginning to experience this shift in balance," he says.
+What may also shift in the coming months is a ripple effect from the boom in remote work caused by the pandemic.
+According to a recent report from Deloitte, most Gen Z (75%) and millennials (76%) would prefer to split home work with office work, or work full-time at home.
+Could this erode Silicon Valley's attraction for ambitious software engineers and developers? After all, other cities like Lisbon and Toronto are offering attractive tax breaks in the hope of attracting tech entrepreneurs. 
+Author Margaret O'Mara does not see a big exodus. "Companies come here for the talent, to recruit the best people, and that's still happening in Silicon Valley," she notes.

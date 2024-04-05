@@ -1,0 +1,22 @@
+The federal Department of Education on May 23 released an “Insights and Recommendations” report on artificial intelligence (AI) in education, part of a suite of Biden administration announcements that stress a need for “equity” in AI.
+“The department holds that biases in AI algorithms must be addressed when they introduce or sustain unjust discriminatory practices in education,” the report reads.
+The report’s authors highlight what they characterize as some positive opportunities opened up by AI, such as strategies to make up for pandemic learning loss and “greater adaptivity and personalization in digital tools for learning” for students with disabilities, multilingual students, and others.
+Yet when detailing an example of potential “algorithmic discrimination”—defined somewhat vaguely as “systematic unfairness in the learning opportunities or resources recommended to some populations of students”—the authors sound more skeptical of some forms of personalization.
+If AI adapts by speeding the curricular pace for some students and by slowing the pace for other students based on incomplete data, poor theories, or biased assumptions about learning, achievement gaps could widen, according to the report.
+Equity and related fears about disparate outcomes between groups aren’t the only concerns mentioned in the report, which covers student surveillance and teacher job security, among other areas.
+“The department firmly rejects the idea that AI could replace teachers,” the report reads.
+It characterizes algorithmic discrimination as an AI risk “of the highest importance.”
+The authors state that their analysis grew in part out of four 2022 listening sessions involving more than 700 attendees.
+“Issues related to racial equity and unfair bias were at the heart of every listening session we held,” the report reads.
+Citing the feedback they’ve received from “educational constituents,” the authors conclude that “AI systems and tools must align to our collective vision for high-quality learning, including equity.”
+The authors also describe the potential for bias as a motivator for another imperative: “Educational systems must govern their use of AI systems.”
+In an early disclaimer, they note that the contents of the report “do not have the force and effect of law and are not meant to bind the public.”
+At the time, an official told reporters that the president thinks Congress should act on algorithmic discrimination in the private sector.
+Vice President Kamala Harris went on to meet with leaders at Microsoft, OpenAI, Alphabet, and Anthropic on responsible AI use in their products.
+On May 23, Microsoft announced a new AI content moderating service, “Azure Content Safety.”
+Equity is central to the plan, as detailed in its executive summary.
+One listed strategy for AI is to “develop approaches to understand and mitigate the ethical, legal, and social risks posed by AI to ensure that AI systems reflect our nation’s values and promote equity.”
+In addition, the administration introduced a Request for Information (RFI) for the national AI strategy.
+Questions in the RFI also show the Biden team’s interest in equity in AI.
+One question reads, “What additional considerations or measures are needed to assure that AI mitigates algorithmic discrimination, advances equal opportunity, and promotes positive outcomes for all?”
+Another asks, “How might existing laws and policies be updated to account for inequitable impacts from AI systems?”

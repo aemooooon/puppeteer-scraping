@@ -1,0 +1,10 @@
+Chinese search engine giant Baidu is to spend 10bn yuan (£1.1bn; $1.5bn) on new driverless car projects over the next three years.
+The move is an attempt to catch up with US rivals by enlisting outside help. 
+The launch of Baidu's "Apollo Fund" coincides with the release of Apollo 1.5, the latest version of its open-source autonomous vehicle software.
+Baidu hopes to have its cars ready for Chinese roads by 2020.
+However, it could face challenges from local regulators, who have previously stopped the company from testing on highways.
+In July, police in Beijing said they were investigating whether the company had broken city traffic rules by testing a driverless car on public roads as part of a demonstration for a press event.
+Earlier this year, Baidu opened up its technology to third parties. The company says it now has 70 partners across several fields in the car industry, up from 50 in July. 
+There is already stiff competition in the autonomous vehicle market, particularly in Silicon Valley, where 40 companies have registered with the California Department of Motor Vehicles for testing licences.  
+The list includes major car manufacturers, as well as tech companies such as Uber, Alphabet's Waymo and Apple.
+Baidu's collaborative approach seems to differ from some of its California tech rivals, who have fiercely guarded their technology and in some cases have sued each other over stolen trade secrets. 

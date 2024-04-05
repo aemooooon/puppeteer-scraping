@@ -1,0 +1,21 @@
+One of China's biggest technology companies has declared it has begun mass production of a self-driving bus.
+Baidu made the announcement after building its 100th Apolong vehicle at its factory in the country's south-eastern Fujian province.
+It said the vehicles would initially be put to commercial use within Chinese cities but added it was also targeting foreign markets.
+The company is one of several competing to sell "level-4 autonomy" buses.
+The classification - set by the transport engineering body SAE International - refers to highly automated driving systems that can cope with most driving conditions, even if a human fails to respond appropriately to a request to intervene.
+It is one step below the maximum level-5 tier, which extends to all driving scenarios, including dirt roads and unusual weather conditions.
+Baidu's chief executive, Robin Li, detailed its plans at the company's annual artificial intelligence developer conference in Beijing. 
+He said: "2018 marks the first year of commercialisation for autonomous driving.
+"In the past, China exported cheap commodities to the world. In the future, China will export AI technology to the world."
+The Apolong bus can seat up to 14 people, and has been developed with a local vehicle manufacturer.
+It has no driver's seat, steering wheel or pedals.
+It runs on electric power and can travel up to 100km (62 miles) after a two-hour charge, at up to 70km/h.
+Baidu envisages it being used for "last-mile" drop-offs within enclosed areas, such as airports and tourist sites.
+The company said partners would soon put it to use in Beijing, Shenzhen, Wuhan and other Chinese cities.
+It added that a deal with Japan's Softbank Group could also bring the vehicle to Tokyo's roads.
+In a separate Japanese-language press release, Softbank said it intended to start using 10 Apolongs for "demonstration tests" within Japan by early 2019.
+Softbank's self-drive subsidiary, SB Drive, had previously bought several self-drive shuttle buses from a rival operation - the French start-up Navya.
+It demonstrated their use in level-3 mode - where a human is expected to take control if required - at Tokyo's Haneda Airport in February.
+Navya's self-drive buses have also been put to use by others at Paris's Charles de Gaulle airport, London's Queen Elizabeth Olympic Park, and the streets of Las Vegas.
+Other companies, including France's Easymile, Australia's Intellibus and South Korea's KT, have developed autonomous buses of their own.
+One academic suggested that in the near-term, such vehicles had a greater chance of public acceptance than self-drive cars.

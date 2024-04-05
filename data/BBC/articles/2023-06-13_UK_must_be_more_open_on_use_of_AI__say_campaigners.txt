@@ -1,0 +1,27 @@
+The government risks undermining faith in AI unless it becomes more open about its own use of the technology, campaigners have warned.
+Prime Minister Rishi Sunak has sought to position the UK as a leader in designing new AI rules at a global level.
+But privacy campaigners say its own use of AI-driven systems is too opaque and risks discrimination.
+The government said it was committed to creating "strong guardrails" for AI.
+The rapid development of artificial intelligence (AI) has led to a flurry of doom-laden headlines about the risks it could pose to humanity.
+Mr Sunak has said he wants the UK to become the "geographical home" of new safety rules, and will host a global summit on regulation in the autumn.
+However, several campaign groups say the UK government is not doing enough to manage the risks posed by its own increasing use of AI in fields such as welfare, immigration and housing.
+In a document sent to MPs on cross-party groups on AI and data analytics, seen by the BBC, they say the public should be given more information about where and how such systems are used.
+It has been signed by civil liberties organisations including Liberty, Big Brother Watch, Open Rights Group and Statewatch, as well as a number of migrant rights groups and digital rights lawyers.
+Shameem Ahmad, chief executive of the Public Law Project (PLP), a legal charity co-ordinating the statement, said the government was "behind the curve" in managing risks from its AI use.
+She added that whilst AI chatbot ChatGPT had "caught everyone's attention", public authorities had been using AI-powered technology for years, sometimes in a "secretive" manner.
+The government's current strategy for AI, set out in a policy statement in March, focused mainly on how best to regulate its emerging use in industry. 
+It did not set out any new legal limits on its use in either the private or public sectors, arguing that to do so now could stifle innovation. Instead, existing regulators will come up with new industry guidance.
+It marks a contrast with the European Union, which is set to ban public authorities using AI to classify citizens' behaviour, and bring in strict limits on AI-powered facial recognition for law enforcement in public spaces.
+The use of AI tools for border management would also be subject to new controls, such as being recorded in an EU-wide register.
+In their statement, the campaign groups said the UK's own blueprint had missed a "vital opportunity" to beef up safeguards on how government bodies use AI.
+In particular, the groups zeroed in on government algorithms often used to help officials make decisions by analysing large amounts of data.
+It is thought that some of these tools use machine learning - a widely-used form of AI that can train systems to improve their performance over time. Critics argue this can lead to discrimination if it is based on biased data.
+One such system, used by Department of Work and Pensions officials to help identify benefit claimants suspected of fraud, is currently the subject of a legal challenge over concerns it could discriminate against disabled people.
+The PLP, which has identified over 40 automated systems used by public bodies, has also launched its own legal action against a Home Office algorithm used to flag suspected sham marriages, which it says could discriminate on the basis of nationality.
+Public bodies using such systems have to comply with additional equality rules. But campaigners say it is difficult to know if these are being followed, because authorities fail to give enough information about how they work.
+The document sent to MPs called for public bodies to be legally obliged to inform people when AI is used to make decisions, and for the government's algorithm transparency register, currently voluntary, to be mandatory. 
+It also demanded an "adequately resourced" specialist regulator to handle complaints from people adversely affected by decisions.
+It also expressed concern about the government's Data Protection Bill, currently going through Parliament, which would widen when legally significant decisions can be made without human oversight.
+The government argues current EU-derived rules, dating from 2018, are outdated and could stymie the development of beneficial AI tools.
+But Mariano delli Santi, legal and policy officer at the Open Rights Group, said the bill was "removing or watering down" existing safeguards, depriving regulators of the tools they need "when AI goes wrong".
+The technology department, responsible for AI regulation, said the UK's approach would promote "fairness, explainability and accountability" in new systems.

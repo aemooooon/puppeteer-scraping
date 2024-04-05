@@ -1,0 +1,14 @@
+The US Department of Defense is to "reconsider" its decision to award a multi-billion dollar cloud contract to Microsoft over Amazon.
+It comes in response to a court case brought by Amazon Web Services (AWS), claiming the decision was politically motivated.
+President Trump had previously expressed concern about Amazon's bid.
+In a court filing, the Pentagon said the U-turn was "in response to.... technical challenges presented by AWS".
+Microsoft said it "remained confident" its bid was "technologically superior".
+In a statement, it said: "We believe the Department of Defense made the correct decision when they awarded the contract. 
+"However, we support their decision to reconsider a small number of factors as it is likely the fastest way to resolve all issues and quickly provide the needed modern technology to people across our armed forces."
+Amazon said it was pleased that the DoD had acknowledged the "substantial and legitimate issues" with the award decision.
+The Pentagon has requested 120 days to reassess the award - its filing was based on pricing and not whether President Trump had interfered in the process.
+In July last year, President Trump began questioning whether the process was fair, telling reporters he was getting "tremendous complaints about the contract with the Pentagon and Amazon".
+He has previously criticised Amazon founder Jeff Bezos - who owns the Washington Post.
+Only Microsoft and Amazon bid for the Joint Enterprise Defence Infrastructure (Jedi) contract and the latter had been seen as the favourite to win.
+The new system is designed to replace the DoD's ageing computer networks with a single cloud system, which will host classified secrets and provide artificial intelligence-based analysis to the military.
+In October, following a delay, the contract was awarded to Microsoft.

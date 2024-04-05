@@ -1,0 +1,20 @@
+Violent extremists who lack the means to carry out an attack in Canada could compensate by perpetrating hoaxes with the help of artificial intelligence, says a newly released analysis.
+The May report by the federal Integrated Terrorism Assessment Centre, obtained through the Access to Information Act, warns that such visual trickery, known as a deepfake, poses “a persistent threat to public safety.”
+The assessment centre’s report was prompted by an image of dark smoke rising near the U.S. Pentagon that appeared May 22 on social media, causing stocks to drop temporarily. Officials confirmed there was no emergency.
+Synthetic images, video and audio are becoming easier to generate through applications driven by artificial intelligence, allowing people to spread false information and sow confusion.
+The centre, which employs members of the security and intelligence community, predicted threat actors would “almost certainly” create deepfake images depicting Canadian interests in the coming year, given the available tools and prevalence of misinformation and disinformation.
+Rapid Response Mechanism Canada, a federal unit that tracks foreign information manipulation and interference, recently highlighted such an episode, saying it likely originated with the Chinese government.
+The foreign operation, which began in August, employed a network of new or hijacked social media accounts to post comments and videos that called into question the political and ethical standards of various MPs, using a popular Chinese-speaking figure in Canada, RRM Canada said.
+The terrorism assessment centre analysis says extremists could use deepfakes to advocate for violence, promote specific narratives, cause panic, tarnish reputations, and erode trust in government and societal institutions.
+“Hoaxes provide violent extremists with an effective technique to disrupt daily life or to intimidate targeted groups or individuals, including by potentially diverting security resources from their regular duties,” the report says.
+“Continued deepfake hoaxes could result in a competitive environment among threat actors, where the goal is to cause increasing real-world impacts, such as economic harm.”
+Violent extremists with “limited capabilities” are more likely to use hoaxes than actors who are capable of conducting “more direct actions,” the report concludes.
+“Deepfake media will make it more difficult for authorities to respond to, prioritize and investigate violent extremist threats.”
+In May, the Canadian Security Intelligence Service invited experts and security practitioners to a workshop to explore the threats posed by such disinformation technologies.
+A resulting report, based on papers presented at the event, said terrorist organizations “surely recognize” the potential of employing deepfakes in the spread of propaganda and co-ordination of attacks.
+“The looming spectre of deepfakes presents an unprecedented threat to national security. The rapid evolution and proliferation of this technology demands nothing short of a resolute and comprehensive response,” the report said.
+Democracies must invest in cutting-edge deepfake detection technologies that can unmask digital imposters, as well as criminalize the creation and dissemination of deepfakes, it added.
+However, the battle against deepfakes cannot be won through technology and legislation alone, the report cautioned.
+“Citizens must be armed with the power of critical thinking and media literacy, thereby empowering them to discern truth from fabrication. By fostering a society that is professionally skeptical, informed and resilient, governments can build a shield against the corrosive effects of deepfakes.”
+Still, that task might still prove challenging.
+Just this month, the Canadian Centre for Cyber Security noted in a report on threats to democratic institutions that “the capacity to generate deepfakes exceeds our ability to detect them.”

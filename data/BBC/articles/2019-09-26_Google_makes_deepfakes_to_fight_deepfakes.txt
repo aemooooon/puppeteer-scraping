@@ -1,0 +1,15 @@
+Google has released a database of 3,000 deepfakes - videos that use artificial intelligence to alter faces or to make people say things they never did.
+The videos are of actors and use a variety of publicly available tools to alter their faces.
+The search giant hopes it will help researchers build the tools needed to take down "harmful" fake videos.
+There are fears such videos could be used to promote false conspiracy theories and propaganda.
+Deepfake technology takes video and audio clips of real people, often politicians or celebrities, and uses artificial-intelligence techniques to alter them in some way, for instance putting words in their mouth or transposing their head on to body of an actor in pornography.
+Since their first appearance in 2017, many open-source methods of generating deepfake clips have emerged.
+In a blogpost, describing its work, Google said: "Since the field is moving quickly, we'll add to this dataset as deepfake technology evolves over time and we'll continue to work with partners in this space. 
+"We firmly believe in supporting a thriving research community around mitigating potential harms from misuses of synthetic media.
+"While many are likely intended to be humorous, others could be harmful to individuals and society."
+The database will be incorporated into work to combat deepfakes, at the Technical University of Munich and the University of Naples Federico II .
+The universities have created a similar database using four common face-manipulation techniques on nearly 1,000 YouTube videos.
+It is hoped both these databases will be used to train automated detection tools to spot fakery.
+Earlier this month, Facebook announced it had set up a $10m (£8.1m) fund to find better ways to detect deepfakes.
+Its own chief executive, Mark Zuckerberg, has been a victim of such trickery, when a manipulated video appeared to show him credit a secretive organisation for the success of the social network.
+Deepfake technology hit the headlines in 2017, when University of Washington researchers released a paper describing how they had created a fake video of President Barack Obama.

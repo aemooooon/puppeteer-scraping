@@ -1,0 +1,12 @@
+The Consumer Financial Protection Bureau (CFPB) have warned about banks’ growing use of generative artificial intelligence (AI) chatbots to handle routine customer service requests.
+The CFPB is worried that banks or loan-servicing companies may cut back on human customer service employees and push increasing routine tasks to AI.
+“Working with customers to resolve a problem or answer a question is an essential function for financial institutions–and is the basis of relationship banking,” the agency said.
+CFPB also noted the top 10 U.S. commercial banks all use chatbots to engage with customers.
+“To reduce costs, many financial institutions are integrating artificial intelligence technologies to steer people toward chatbots,” said CFPB Director Rohit Chopra.
+Financial institutions can risk violating laws and alienating customers when deploying chatbots, the CFPB said.
+“Like the processes they replace, chatbots must comply with all applicable federal consumer financial laws, and entities may be liable for violating those laws when they fail to do so,” the CFPB said.
+“Chatbots can also raise certain privacy and security risks. When chatbots are poorly designed, or when customers are unable to get support, there can be widespread harm and customer trust can be significantly undermined.”
+The agency also found that older customers or customers whose primary language is not English may end up in a customer service “loop” and be unable to reach a human agent.
+When it is reasonably obvious that the chatbot cannot meet the needs of the consumer, the CFPB recommends that financial institutions should refrain from adopting chatbots as their main method of customer service delivery.
+Banks are getting ready to roll out even more advanced AI-like services. JPMorgan Chase is reportedly developing plans to use ChatGPT and artificial intelligence to help customers pick appropriate investments. Bank of America bankers can use Erica to build customer profiles and potentially recommend products to those customers.
+The CFPB says it is monitoring the AI chatbot market and is encouraging customers to submit complaints with banking chatbots to its website or by calling (855) 411-CFPB (2372).

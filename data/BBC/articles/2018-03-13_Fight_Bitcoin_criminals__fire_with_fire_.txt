@@ -1,0 +1,19 @@
+Christine Lagarde has called for a crackdown on crypto-currencies, saying the technology can be used to "fight fire with fire".
+The head of the International Monetary Fund says governments around the world could harness the technology to stop illegal activity.
+The anonymity of currencies such as Bitcoin means they are used by criminals and terrorists, she said.
+But the technology could be turned against such nefarious activities.
+Regulators around the world have called for greater crypto-currency oversight.
+Although the technology underlying digital assets has been praised as a way to speed up financial transactions and reduce costs, the anonymity behind crypto-currency trading is a big worry, Ms Lagarde said in a blog post..
+What makes the technology so appealing is also what makes it "dangerous," she said, as it can be used as a "major new vehicle for money laundering and the financing of terrorism".
+But she said the technologies behind crypto-currencies can be harnessed to mitigate this "peril".
+"The same innovations that power crypto-assets can also help us regulate them," she said "To put it another way, we can fight fire with fire. Regulatory technology and supervisory technology can help shut criminals out of the crypto world."
+Distributed ledger technology (DLT) - the technology underlying crypto-currencies - is defined by the UK government as "an asset database that can be shared across a network of multiple sites, geographies or institutions".
+Ms Lagarde said that DLT technology "can be used to speed up information-sharing between market participants and regulators".
+She added: "The technology that enables instant global transactions could be used to create registries of standard, verified, customer information along with digital signatures."
+In addition, other technologies such as biometrics, artificial intelligence, and cryptography "can enhance digital security and identify suspicious transactions in close to real time," she said.
+Regulators need to use the same rules "to protect consumers in both digital and non-digital transactions", she added.
+Industry body Crypto UK said regulatory certainty was "essential to attracting the best of this sector to call the UK home."
+But a spokesperson said that regulators should not "simply retrofit non-digital rules to this unique and evolving sector".
+"Working with industry to develop a tailored framework is crucial to capturing the true value of this technology, whilst weeding out illegal activity," the spokesperson added.
+Crypto-currencies have come under increasing regulatory scrutiny around the world. At the beginning of March, Bank of England governor Mark Carney called for increased regulation after crypto-currency "mania".
+China has gone further by banning initial coin offerings and shutting down digital currency exchanges.

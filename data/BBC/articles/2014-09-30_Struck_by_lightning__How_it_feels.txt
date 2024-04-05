@@ -1,0 +1,29 @@
+Our picks of the week from around the web, including future food, the strangest brains you can imagine, and the victims of lightning strikes.
+Artificial Intelligence
+ When a robot writes you a letter
+ Clive Thompson | Medium | 23 September 2014
+ An alternative Turing test: handwriting. Can you tell whether that manuscript letter in the mail came from human hand or robot? Probably not. The robots reveal themselves, to the professional eye, only by their perfection. The pressure of the pen is too uniform; every “i” is dotted precisely; margins don’t wander. But the robots are learning to feign human weakness. Soon their handwriting will be as bad as ours.
+Genetics
+ A closed loop
+ Jamie Davis | Aeon | 26 September 2014
+ Your genes are “open to negotiation”. They don’t issue a one-time set of instructions that produces a predetermined result. The development of an organism is determined by a “feedback loop”, which incorporates and adapts to new information from the environment. For example, identical twins "have the same DNA, and therefore the same genetic fingerprint, yet their actual fingerprints (such as they might leave behind on a murder weapon) are different”.
+Physics
+ Dreaming the dream
+ Marianne Freiberger | +Plus | 24 September 2014
+  “Imagine you’re an isolated brain floating lonely through the vast expanse of the Universe with all your thoughts, memories and perceptions just figments of your imagination. That’s a depressing thought, but not a new one. There’d even be a name for you: you’d be a Boltzmann brain.” If you recognise yourself in that description – and which of us does not? – you may find this short discussion useful, if not especially reassuring.
+History
+ What if counterfactuals never existed?
+ Cass Sunstein | Atlantic | 20 September 2014
+ Hypotheticals can help us to understand history. They correct hindsight bias – the judgment that whatever happened was bound to happen. They challenge deterministic theories by emphasising chance and individual action. But historians should use them in moderation. The special value of history as a discipline lies in its capacity to discern what did happen, not what could have or should have happened.
+Aviation
+ The human factor
+ William Langewiesche | Vanity Fair | 19 September 2014 
+ Air France Flight 447 crashed into the Atlantic five years ago because a transient technical glitch sent the two junior pilots into a panic. They were trained to fly automated planes. They couldn’t cope when the automation faltered. “The mental makeup of airline pilots has changed. A different crowd is flying now, and though excellent pilots still work the job, on average the knowledge base has become very thin.”
+Food
+ The future of food is data
+ Cade Metz | Wired | 19 September 2014
+ Hampton Creek is working to “catalogue the behaviour of practically every plant protein on earth”, with the aim of producing familiar foods more efficiently from natural ingredients. “Mixing and matching proteins found in the world’s plants, the tiny startup already has created a reasonable facsimile of the chicken egg that’s cheaper, safer, and possibly healthier than the real thing.” Next step: entirely new foods.
+Weather
+ The body electric
+ Ferris Jabr | Outside | 22 September 2014
+ People struck by lightning almost always survive. The charge, though massive, is brief; it dissipates across the skin. “But nothing is normal anymore. Chronic pain, memory trouble, personality changes, and mood swings can all follow an encounter with lightning. Survivors, grappling with a fundamental shift in identity, feel increasingly alienated by the incomprehensible nature of their condition.”

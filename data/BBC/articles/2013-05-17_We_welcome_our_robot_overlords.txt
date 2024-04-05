@@ -1,0 +1,28 @@
+Our pick of the week’s science and tech stories, including artificial intelligence displacing human work, climate chaos and cicadas’ love for prime numbers.
+The cicada’s love affair with prime numbers
+ Patrick De Justo | New Yorker | 14 May 2013
+ On the mathematics of evolution. A species flourishes best when it has a life-cycle out of sync with that of its main predator. Optimally, a prime number of years. “A cicada that emerges every seventeen years and has a predator with a five-year life cycle will only face a peak predator population once every eighty-five (5 x 17) years, giving it an enormous advantage over less well-adapted cicadas.”
+Why the world faces climate chaos
+ Martin Wolf | Financial Times | 14 May 2013
+ We worry – now and then – about climate change, but we don’t act, because rich countries don’t want to jeopardise their wealth, nor poor countries their hopes of growth. “There is no point in making moral demands. People will not do something on this scale because they care about others, even including their own more remote descendants. They mostly care rather too much about themselves for that.” (Metered paywall)
+Dropping in on Gottfried Leibniz
+ Stephen Wolfram | 14 May 2013
+ Illustrated essay, prompted by a visit to the Leibniz archive in Germany. “Newton was quintessentially practical: he invented tools, then showed how these could be used to compute practical results about the physical world. Leibniz had a more philosophical view. He saw calculus not just as a specific tool in itself, but as an example that should inspire efforts at other kinds of formalization, other kinds of universal tools.”
+Social networks as evolutionary game theory
+ Izabella Kaminska | FT Alphaville | 14 May 2013
+ Yes, Facebook and other social networks suck data from their users and monetise it. But if you apply evolutionary thinking to social media, you may see a bigger picture, in which Facebook and its users are collaborating unknowingly for the general good, by “performing the altruistic duty of pooling the data on behalf the system and drawing important – potentially survival-related – meaning from it.”
+Welcome robot overlords
+ Kevin Drum | Mother Jones | 13 May 2013
+ On the rise of artificial intelligence, and the displacement of human work. “The exponential curve of Moore’s Law suggests it’s going to take us until 2025 to build a computer with the processing power of the human brain. For the first 70 years it seemed as if nothing was happening, even though we were doubling our progress every 18 months. In the final 15 years, seemingly out of nowhere, we’ll finish the job.”
+The arithmetic of interstellar travel 
+ John Quiggin | Crooked Timber | 12 May 2013
+ Settling a colony on a distant star would cost more than the GDP of Earth for the life of the Universe. “On behalf of my fellow Australians, I’m going to make a counter-offer. For a mere $10 trillion, we can find you an area of land larger than a typical European country, almost certainly more habitable than the new planets, and much closer. We’ll do all the work of supplying water and air.”
+The paradox of the proof
+ Caroline Chen | Project Wordsworth | 10 May 2013
+A mathematician called Shinichi Mochizuki may have solved a basic problem that has baffled his peers for decades. It’s called the ABC Conjecture, and it’s too complicated to explain here; indeed, it may be too complicated to explain anywhere. Mochizuki has terrific credentials. He is certainly not a fraud. But he has posted his papers, nobody understands them, they’re written in a private language, and he won’t explain his findings. Why?
+Eurovision 2013: First predictions
+ Martin O’Leary | Cold Hard Facts | 12 May 2013
+ Modelling the Eurovision Song Contest, which takes place this weekend. “I’ve taken voting results from the finals going back to 1998 and the semi-finals going back to 2004. I’ve used a Markov Chain Monte Carlo sampler to calculate the song qualities and friendship scores. Once I’ve got the parameters, it’s relatively straightforward to run a simulation of this year’s contest.” Which comes down to a tussle for first place between Azerbaijan and Russia.
+Dr Who? Dr Jew
+ Liel Leibovitz | Tablet | 9 May 2013
+ Is Dr Who the greatest Jewish character in the history of television? Consider the evidence: He is “wildly intelligent, intergalactically cosmopolitan, with a biting sense of humour. He is constantly wandering, never at home.” He is “surrounded by a host of belligerent warlike species who view him, alternatively and sometimes simultaneously, as both pesky and effete and oddly omnipotent.”

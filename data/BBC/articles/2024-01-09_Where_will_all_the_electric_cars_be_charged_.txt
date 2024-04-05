@@ -1,0 +1,40 @@
+If electric cars are ever to become mainstream, then we are going to need a lot more places to charge them. 
+The key is to find space for chargers where people would actually use them. Kerbside is the obvious spot, but there chargers are competing for space with pedestrians, wheelchair users, and others.
+One solution is to simply repurpose existing infrastructure, without adding extra clutter to the built environment. 
+For instance, lamppost electric vehicle (EV) charging is expanding. A big advantage of repurposing existing lampposts is that cities don't have to dig in order to lay new cables, says Artis Markots, the chief executive of the Latvian start-up SimpleCharge, which is focusing on Central and Eastern Europe.
+There are no complex permitting requirements, and a lamppost can be complemented with an EV charger within an hour. 
+The cost is also considerably lower than a fixed charger, Mr Markots reports, at roughly €1,500 ($1,600; £1,300) per charger. 
+The Dutch company CityCharge also offers lamppost charging, but with a different model that requires new cables to be installed. CityCharge replaces conventional lighting poles with aluminium poles.
+These have sleek black boxes for the payment terminal and charger.
+Excluding installation, costs are in the €3-4,000 range per pole.
+Heimen Visser, CityCharge's chief executive, acknowledges that this is a bit more expensive than other on-street chargers. But he believes that this is essentially a 2-for-1 product, in which the pole's lighting and charging can be serviced together.
+Lamppost charging makes it possible to blanket towns and cities with lots of non-rapid chargers. The models of both CityCharge and SimpleCharge can go up to 22kW - faster than slow overnight chargers, but not as zippy as rapid chargers. 
+They can also operate 24/7.
+However, Mr Markots says that in places with older infrastructure, they're more likely to be for night-time charging, while the streetlights are switched on.
+The Shell-owned company ubitricity has been adding EV charging capacity not only to lampposts, but also to bollards that it designs. Its bollards and lampposts offer charging at a typical rate of 5kW.
+Some EV charging companies have been labouring over the design so that chargers are either unobtrusive or even visually appealing.
+This includes chargers that are embedded into the ground - for example, pop-up chargers that can sink back into the pavement when they're not being used. 
+Trojan Energy is a Scottish company whose chargers sit flush with the pavement, resembling miniature manhole covers from the outside. Most passers-by probably wouldn't even notice them.
+The company has consulted with disability organisations to ensure that the chargers aren't hazardous to those with mobility or sight impairments, for instance. 
+Trojan Energy has been working with North London councils to site hubs of six to 15 charge points, mainly along residential streets without driveways, where drivers are dependent on street parking. "Rows and rows of terraced houses are perfectly suited to our solution," says Sarah Clements, Trojan Energy's head of business development. 
+Customers need a dedicated attachment, called a lance, and which weighs 2.7 kg, to use a Trojan Energy charging point. Billing is done automatically through the lance. So the potential inconvenience of carrying around an extra device might be offset by the convenience of plug-and-play charging.
+Opening up the street, doing the civil and electrical work, and then restoring the pavement requires some time, of course. Installation takes about two weeks for each hub.
+More technology of business
+Meanwhile, BT Group plans to convert old green street cabinets into charging points.
+The metal cabinets are traditionally used to store broadband and phone cabling, but many are coming towards the end of their lifespans.
+A pilot programme is due to get underway soon in Scotland and BT thinks eventually up to 60,000 cabinets could be converted.
+A different space-saving solution focuses on flexibility, rather than fixed points on existing pavements. Mobile chargers are being trialled in places like airport car parks, where it would make little sense to leave a car plugged into a charger for multiple weeks while the driver is travelling.
+The UK company Nyobolt recently created Bolt-ee, a compact, ultra-rapid charger that can provide up to 300kW of DC power to charge a car within minutes. Sai Shivareddy, Nyobolt's CEO and co-founder, likens this mobile device to a suitcase in size, though it's heavier. 
+One version of Bolt-ee is mounted on wheels and semi-autonomous, so that it can rove around to reach a vehicle that needs a quick hit of power. 
+Full autonomy would be challenging to achieve. At the moment Bolt-ee still needs a human operator to plug the cable into the car. "To get an arm that goes into the charge point location is a big challenge," Mr Shivareddy says.
+Carmaker Hyundai has developed an automatic charging robot whose robotic arm guides the charging cable into the port, using an AI algorithm that works with a 3D camera. However, for now the base of the robot is fixed in place, while the arm moves around.
+Overall, the flexibility of a mobile charger would allow space to be saved, and drivers wouldn't have to fight for parking spots near a fixed charger.
+Mr Shivareddy says the mobile technology is also useful for rescue operations, so that a car wouldn't need to be towed just because it's run out of power.
+And depending on how they're rolled out, mobile chargers could address some of the inequities in where existing chargers are placed - largely along highways and in wealthy parts of cities.
+Nyobolt says that Bolt-ee's battery life exceeds 10,000 cycles. According to Mr Shivareddy, Bolt-ee works out cheaper than other chargers per kW.
+Fully mobile charging could be useful for people with disabilities, says Liana Cipcigan, a professor of transport electrification and smart grids at Cardiff University's School of Engineering.
+Prof Cipcigan says that mobile charging robots aren't necessarily commercially viable yet.
+Another concern with mobile chargers is safety. "Moving these batteries could be a hazard," Prof Cipcigan notes.
+In terms of fire risks, Mr Shivareddy says that Nyobolt has carefully designed Bolt-ee to be ultra-efficient, and thus to generate very little waste heat.
+None of these solutions alone will be sufficient to meet growing demand. There aren't enough lampposts and bollards. Mobile robotic charging may remain niche. And pavement-embedded chargers won't be suitable in places where the pavements are often sparse or dilapidated, like Los Angeles.
+But together these kinds of innovative, space-saving solutions will help push forward the EV transformation.

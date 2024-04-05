@@ -1,0 +1,15 @@
+Australian researchers have set their sights on cleaning up the outer space junkyard orbiting Earth to avoid a chain reaction of self-sustaining debris collisions, using lasers and artificial intelligence technology.
+Yet because the world is reliant on satellite technology for navigation, weather forecasts, and communication, governments and agencies are not able to stop sending satellites into orbit.
+Many scientists are working on the identification and collection of space debris in Earth’s orbit, some are using nautical techniques such as nets and harpoons to fish out the bigger fragments of junk. However, much of the junk is difficult for astronomers to perceive because Earth has what scientists call a shimmering atmosphere that can hide particularly small pieces of debris.
+“The ’shimmer' of the atmosphere is caused by the turbulence or fluctuations in the air above us,” Post Doctoral Research Fellow Sara Webb from the Swinburne University of Technology said in an email to The Epoch Times.
+“You can think of adaptive optics as trying to mimic the movements of the air above us to the mirror reflecting the light,” said Webb.
+“We are trying to correct some of the refraction to sharpen and focus the light passing through the atmosphere.”
+“By improving something we call ’the seeing' we can resolve smaller objects like space debris. These otherwise would be too faint and their light too scattered for us to identify,” she said.
+The refined perception of these objects allows Australian astronomers to guide satellites, astronauts, and spaceships of both government and private agencies, away from the debris.
+Another approach to removing smaller pieces of junk is firing a high-powered laser into the atmosphere. The pressure from the laser forces the space junk to lower its orbit toward Earth, where it then safely burns up as it enters the upper atmosphere.
+“This is something called a ‘laser broom’, and it can ablate space debris. This means to help it lose/shred material, and by doing so, the force of the material moving away from the object imparts a small thrust,” Webb said.
+“It helps the debris slow down enough to fall lower towards the earth and burn up on entry.”
+Australia plays an integral part in the collection of space junk as they have space technologies that few countries in the Southern Hemisphere possess to monitor the immense sky.
+A new range of smarter satellites that are guided by AI scientists argue could avoid space junk without human intervention whilst remaining complete and functional. However, the risk with AI is that the guided satellites cannot communicate with each other and, because of this, could trigger the cascading collisions that people are seeking to avoid.
+If one satellite moves into the path of a second satellite to avoid debris, the second satellite may move into the path of a third, and so on.
+A partnership project called “Responsible AI in Space” has been launched to establish an industry standard for AI satellites in outer world applications. The establishment of an industry standard is intended to ensure that AI satellites, across separate agencies, don’t fulfil the above prophecy.

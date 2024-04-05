@@ -1,0 +1,10 @@
+The cryptocurrency project Worldcoin, founded by OpenAI CEO Sam Altman, began its rollout on July 24, which features an innovative iris-scanning “Orb” designed to authenticate a person’s uniqueness.
+Worldcoin co-founders Alex Blania and Mr. Altman said the project could drastically increase economic opportunity, scale a reliable solution for distinguishing humans from artificial intelligence (AI), enable a global democratic process, and potentially pave the way for AI-funded universal basic income (UBI).
+“Worldcoin consists of a privacy-preserving digital identity (World ID) and, where laws allow, a digital currency (WLD) received simply for being human,” they added.
+“We hope that, where the rules are less clear, such as in the United States, steps will be taken so more people can benefit from both.”
+The project’s core offering is its World ID, which the company describes as a “digital passport” to prove that its holder is a real human, not an AI bot.
+Customers can download the World App, the company’s first protocol-compatible wallet, and visit an “Orb,” a biometric verification device, to obtain a World ID.
+The Orb, a silver ball approximately the size of a bowling ball, will verify if the customer is a real human and authenticate the person’s uniqueness while ensuring complete privacy.
+Mr. Blania stated that in the age of AI chatbots like ChatGPT, capable of generating human-like language, the need for proof of personhood is no longer a topic of serious debate, but rather “whether or not the proof of personhood solutions we have can be privacy-first, decentralized and maximally inclusive.”
+The project has 2 million users from its beta period, and with Monday’s launch, Worldcoin is scaling up “orbing” operations to 35 cities in 20 countries. As an enticement, those who sign up in certain countries will receive Worldcoin’s cryptocurrency token WLD.
+“Yeah, but you save the hashes produced by the scans. Hashes that match future scans,” he added. “Don’t catalogue eyeballs.”

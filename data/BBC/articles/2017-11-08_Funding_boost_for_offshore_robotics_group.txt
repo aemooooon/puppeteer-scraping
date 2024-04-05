@@ -1,0 +1,11 @@
+A consortium of five universities is to spend up to £36m in developing robotic and artificial intelligence (AI) technologies for use in harsh offshore environments.
+The group, which will be led by the Edinburgh Centre for Robotics, aims to create robot-assisted asset inspection and maintenance technologies.
+The Engineering and Physical Sciences Research Council is putting up £14.3m.
+A further £18m will come from industry partners.
+The university consortium, which includes Heriot-Watt, Edinburgh, Imperial College London, Oxford and Liverpool, will contribute £3.6m.
+The five institutions will work collaboratively as the Orca Hub to develop robotics and AI technologies that can make autonomous and semi-autonomous decisions and interventions across a range of domains. 
+According to those behind the project, it will be the largest academic centre in the world for research into offshore asset robotics technology.
+Orca Hub director Prof David Lane, from Heriot-Watt University, said: "The international offshore energy industry faces many challenges, including near-permanent low oil prices, expensive decommissioning commitments of old infrastructure, particularly in the North Sea, and small margins on the traded commodity price per KWh of offshore renewable energy. 
+"Coupled to this, the offshore workforce is ageing as the new generation of qualified graduates seek less hazardous onshore opportunities.
+"The goal is to develop shore-operated autonomous and semi-autonomous solutions for inspection, maintenance and decommissioning of offshore energy infrastructure using marine, terrestrial and airborne robotic systems."
+Orca Hub deputy director Prof Sethu Vijayakumar, from the University of Edinburgh, added: "The UK's offshore energy sector is currently worth £40bn and supports 440,000 jobs as well as having a supply chain of an additional £6bn in goods and services exports. 

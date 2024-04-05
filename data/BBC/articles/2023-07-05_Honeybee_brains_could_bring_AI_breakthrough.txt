@@ -1,0 +1,10 @@
+South Yorkshire scientists are seeking to harness the power of bee brains in an effort to improve artificial intelligence (AI) systems and devices.
+Honeybees are believed to excel when it comes to quick decision-making, with brains only the size of a sesame seed, University of Sheffield scientists say.
+The experts examined how bees decide which flowers to explore for nectar.
+Study leader Dr HaDi MaBouDi said the aim was to develop skilled machines "that can think like bees".
+In the study, researchers trained 20 bees to recognise five different coloured flowers. Blue flowers contained sugar syrup, green flowers contained bitter tonic water and the remaining colours sometimes had glucose.
+The bees were then let into a custom-built garden where flowers contained only distilled water to see how they performed.
+The experiment found they made a bee-line for flowers they thought would have food - landing there in an average of 0.6 seconds - and were just as quick to avoid flowers they thought would not have food.
+Dr MaBouDi, of Sheffield's Department of Computer Science, who worked alongside counterparts at Macquarie University in Sydney, said: "What we've done in this study is reveal the underlying mechanisms which drive these remarkable decision-making capabilities.
+"We can now use these to design better, more robust and risk-averse robots and autonomous machines that can think like bees - some of the most efficient navigators in the natural world." 
+Scientists say the research will allow developers to adapt the findings to refine their AI-powered products.

@@ -1,0 +1,29 @@
+Huawei says it has given its latest smartphones advanced object-recognition capabilities to help them take better photos than the competition.
+The Chinese company says the artificial intelligence-based technology can even distinguish between cats and dogs in a split-second, allowing it to automatically tweak how their fur and eyes appear.
+It says this is possible because of a new type of chip in the Mate 10 phones.
+But experts question the tech's appeal.
+Huawei is currently the world's third best-selling smartphone maker, according to research company IDC, with a market share of 11.3% in the April-to-June quarter.
+That put it slightly behind Apple, which had a 12% share. 
+The Shenzhen-based company has previously said it aims to overtake its US rival before the end of 2019, and then eventually leapfrog the market leader, Samsung.
+Huawei says it trained the Mate 10's camera-controlling algorithms with more than 100 million pictures to teach them to recognise different scenarios and items.
+To ensure the decisions are taken quickly enough, the company said, it had developed its own processor - the Kirin 970 - which has a neural processing unit (NPU) in addition to the standard central processing unit (CPU) and graphics processing unit (GPU) used to power most computers.
+The architecture of the NPU is a specialised part of the chip designed to handle matrix multiplications at speed - a type of calculation used by artificial intelligence neural networks, which attempt to mimic the way the brain works.
+Huawei says the inclusion of an NPU in its chip allows it to recognise about 2,000 images per minute. 
+That is about double the rate that the new A11 processor in the iPhone 8 would be able to handle, Huawei says.
+The company is not alone in designing a part of its processor to handle AI-enhanced tasks.
+Apple has introduced what it calls a "bionic neural engine" in the A11, which will be used for facial recognition tasks by the forthcoming iPhone X.
+And Google has developed what it terms a "tensor processing unit", which it uses in its data centres to support its Search, Street View, Photos and Translate services.
+One expert suggested Huawei's move was significant but difficult to market to consumers.
+"All of this could have been done on a GPU," said Ian Cutress, from the Anandtech engineering news site.
+"But having the NPU makes the processes faster while potentially using less power.
+"The thing is that it's very difficult to explain all this to potential customers as it gets very technical very quickly.
+"For now, the use cases are limited and probably not going to be the sole reason to buy the device."
+Many smartphone cameras make automatic tweaks to the images they take, but Huawei suggests its technology takes this to the next level.
+In the example of cats and dogs, it says:
+"Without doing lots of tests, it's difficult to tell how much value this really adds to the camera capabilities," said Ben Wood, from the technology consultancy CCS Insight.
+"The problem with any of these techniques is that whether they are of benefit or not is in the eye of the beholder - it's very subjective."
+Huawei also says the NPU is used to optimise tasks carried out by Microsoft's pre-loaded Translator software, which converts words and images of text between dozens of languages.
+According to the Chinese company, the software runs about three times faster than it would do otherwise.
+The company is now inviting third-party developers to build other apps to take advantage of the NPU.
+But Mr Wood said that he had concerns that Huawei was putting too much emphasis on the technology.
+"I don't believe most consumers understand what AI is," said Mr Wood.

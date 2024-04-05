@@ -1,0 +1,6 @@
+REDMOND, Wash.—Microsoft on Tuesday reported a 9 percent increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence.
+The company reported quarterly profit of $18.3 billion, or $2.45 per share, beating Wall Street expectations for earnings of $2.24 a share.
+The software maker posted revenue of $52.9 billion in the period, its third fiscal quarter, up 7 percent from the same period a year ago. Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter.
+The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and close partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing.
+Microsoft is also integrating similar AI tools into the cloud computing and software products it sells to big businesses and organizations, though it’s not immediately apparent to what extent the AI features are playing a role in overall sales.
+Microsoft’s personal computing business, centered on its Windows software, was widely expected to continue a deterioration that began last year due to economic uncertainties and crimped demand. Quarterly sales from that segment dropped 9 percent to $13.3 billion, the company said Tuesday.

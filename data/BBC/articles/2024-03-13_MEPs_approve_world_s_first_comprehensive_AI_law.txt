@@ -1,0 +1,26 @@
+The European Parliament has approved the world's first comprehensive framework for constraining the risks of artificial intelligence (AI).
+The sector has seen explosive growth - driving huge profits but also stoking fears about bias, privacy and even the future of humanity.
+The AI Act works by classifying products according to risk and adjusting scrutiny accordingly.
+The law's creators said it would make the tech more "human-centric."
+"The AI act is not the end of the journey but the starting point for new governance built around technology," MEP Dragos Tudorache added.
+It also places the EU at the forefront of global attempts to address the dangers associated with AI.
+China already has introduced a patchwork of AI laws. In October 2023, US President Joe Biden announced an executive order requiring AI developers to share data with the government.
+But the EU has now gone further.
+"The adoption of the AI Act marks the beginning of a new AI era and its importance cannot be overstated," said Enza Iannopollo, principal analyst at Forrester.
+"The EU AI Act is the world's first and only set of binding requirements to mitigate AI risks," she added.
+She said it would make the EU the "de facto" global standard for trustworthy AI, leaving every other region, including the UK, to "play catch-up."
+In November 2023, the UK hosted an AI safety summit but is not planning legislation along the lines of the AI Act.
+The main idea of the law is to regulate AI based on its capacity to cause harm to society. The higher the risk, the stricter the rules.
+AI applications that pose a "clear risk to fundamental rights" will be banned, for example some of those that involve the processing of biometric data.
+AI systems considered "high-risk", such as those used in critical infrastructure, education, healthcare, law enforcement, border management or elections, will have to comply with strict requirements.
+Low-risk services, such as spam filters, will face the lightest regulation - the EU expects most services to fall into this category.
+The Act also creates provisions to tackle risks posed by the systems underpinning generative AI tools and chatbots such as OpenAI's ChatGPT.
+These would require producers of some so-called general-purpose AI systems, that can be harnessed for a range of tasks, to be transparent about the material used to train their models and to comply with EU copyright law. 
+Mr Turodache told reporters ahead of the vote that copyright provisions had been one of the "heaviest lobbied" parts of the bill.
+OpenAI, Stability AI and graphics chip giant Nvidia are among a handful of AI firms facing lawsuits over their use of data to train generative models.
+Some artists, writers and musicians have argued the process of "scraping" huge volumes of data, including potentially their own works, from virtually all corners of the internet violates copyright laws.
+The Act still has to pass several more steps before it formally becomes law.
+Lawyer-linguists, whose job is to check and translate laws, will scour its text and the European Council - composed of representatives of EU member states - will also need to endorse it, though that is expected to be a formality.
+In the meantime, businesses will be working out how to comply with the legislation. 
+Kirsten Rulf - a former advisor to the German government, and now a partner at Boston Consulting Group - says more than 300 firms have been in touch with her company so far.
+"They want to know how to scale the tech, and get value from AI," she told the BBC.

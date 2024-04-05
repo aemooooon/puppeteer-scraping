@@ -1,0 +1,7 @@
+Could you distinguish a computer-generated Donald Trump from the real thing - or a professional impersonator?
+For a BBC conference on artificial intelligence, ASI Data Science created an algorithm that could take any text and read it in the voice of the US president.
+As an experiment, six sentences were written in Mr Trump's distinctive style and read aloud by an impersonator and by the algorithm.
+Visitors to the event were challenged to see whether they could tell which was the actor and which was the algorithm.
+I fared badly, getting the right answer only five out of 12 times, though my excuse is that there was a lot of background noise where the demo took place.
+But what would happen when someone malicious uses technology like this, to produce fake audio of a politician saying something indiscreet supposedly recorded at a noisy event?
+Ilya Feige, who designed the Trump algorithm used in the demonstration, hopes that technology will be created that can differentiate between fakes and the real thing.

@@ -1,0 +1,40 @@
+Thousands of students in England are angry about the controversial use of an algorithm to determine this year's GCSE and A-level results.
+They were unable to sit exams because of lockdown, so the algorithm used data about schools' results in previous years to determine grades.
+It meant about 40% of this year's A-level results came out lower than predicted, which has a huge impact on what students are able to do next. GCSE results are due out on Thursday.
+There are many examples of algorithms making big decisions about our lives, without us necessarily knowing how or when they do it.
+Here's a look at some of them.
+In many ways, social-media platforms are simply giant algorithms. 
+At their heart, they work out what you're interested in and then give you more of it - using as many data points as they can get their hands on.
+Every "like", watch, click is stored. Most apps also glean more data from your web-browsing habits or geographical data. The idea is to predict the content you want and keep you scrolling - and it works. 
+And those same algorithms that know you enjoy a cute-cat video are also deployed to sell you stuff.
+All the data social-media companies collect about you can also tailor ads to you in an incredibly accurate way. 
+But these algorithms can go seriously wrong. They have been proved to push people towards hateful and extremist content. Extreme content simply does better than nuance on social media. And algorithms know that. 
+Facebook's own civil-rights audit called for the company to do everything in its power to prevent its algorithm from "driving people toward self-reinforcing echo chambers of extremism". 
+And last month we reported on how algorithms on online retail sites - designed to work out what you want to buy - were pushing racist and hateful products.
+Whether it's house, car, health or any other form of insurance, your insurer has to somehow assess the chances of something actually going wrong.
+In many ways, the insurance industry pioneered using data about the past to determine future outcomes - that's the basis of the whole sector, according to Timandra Harkness, author of Big Data: Does Size Matter.
+Getting a computer to do it was always going to be the logical next step.
+"Algorithms can affect your life very much and yet you as an individual don't necessarily get a lot of input," she says.
+"We all know if you move to a different postcode, your insurance goes up or down.
+"That's not because of you, it's because other people have been more or less likely to have been victims of crime, or had accidents or whatever."
+Innovations such as the "black box" that can be installed in a car to monitor how an individual drives have helped to lower the cost of car insurance for careful drivers who find themselves in a high-risk group.
+Might we see more personally tailored insurance quotes as algorithms learn more about our own circumstances?
+"Ultimately the point of insurance is to share the risk - so everybody puts [money] in and the people who need it take it out," Timandra says.
+"We live in an unfair world, so any model you make is going to be unfair in one way or another."
+Artificial Intelligence is making great leaps in being able to diagnose various conditions and even suggest treatment paths. 
+A study published in January 2020 suggested an algorithm performed better than human doctors when it came to identifying breast cancer from mammograms.
+And other successes include:
+However, all this requires a vast amount of patient data to train the programmes - and that is, frankly, a rather large can of worms.
+In 2017, the UK Information Commission ruled the Royal Free NHS Foundation Trust had not done enough to safeguard patient data when it had shared 1.6 million patient records with Google's AI division, DeepMind.
+"There's a fine line between finding exciting new ways to improve care and moving ahead of patients' expectations," said DeepMind's co-founder Mustafa Suleyman at the time.
+Big data and machine learning have the potential to revolutionise policing. 
+In theory, algorithms have the power to deliver on the sci-fi promise of  "predictive policing" - using data, such as where crime has happened in the past, when and by whom, to predict where to allocate police resources. 
+But that method can create algorithmic bias - and even algorithmic racism. 
+"It's the same situation as you have with the exam grades," says Areeq Chowdhury, from technology think tank WebRoots Democracy. 
+"Why are you judging one individual based on what other people have historically done? The same communities are always over-represented". 
+Earlier this year, the defence and security think tank RUSI published a report into algorithmic policing. 
+It raised concerns about the lack of national guidelines or impact assessments. It also called for more research into how these algorithms might exacerbate racism. 
+Facial recognition too - used by police forces in the UK including the Met - has also been criticised. 
+For example, there have been concerns about whether the data going into facial-recognition technology can make the algorithm racist. 
+The charge is facial-recognition cameras are more accurate at identifying white faces - because they have more data on white faces. 
+"The question is, are you testing it on a diverse enough demographic of people?" Areeq says.  

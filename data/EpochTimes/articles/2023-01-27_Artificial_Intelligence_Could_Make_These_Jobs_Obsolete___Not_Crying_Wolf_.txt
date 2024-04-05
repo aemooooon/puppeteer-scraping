@@ -1,0 +1,10 @@
+With reports saying artificial intelligence system ChatGPT has passed exams and can produce reports, experts have warned that some jobs could become obsolete in the future.
+Earlier this week, a research paper said ChatGPT was able to pass a graduate-level exam at the University of Pennsylvania’s Wharton School. Some professors have expressed alarm about students using the service to cheat on exams or their homework.
+But if the system becomes capable, ChatGPT and other artificial intelligence could replace a number of white-collar jobs, some researchers have warned.
+“Copy editing is certainly something it does an extremely good job at. Summarizing, making an article concise and things of that nature, it certainly does a really good job,” Chinmay Hegde, a computer science and electrical engineering associate professor at New York University, told the Post.
+“You can ask it to provide an essay, to produce a story with citations, but more often than not, the citations are just made up,” Hegde continued. “That’s a known failure of ChatGPT and honestly we do not know how to fix that.”
+Hegde added to the paper that some simple website designers and engineers are at risk of losing their jobs.
+“I worry for such people. Now I can just ask ChatGPT to generate a website for me—any type of person whose routine job would be doing this for me is no longer needed,” he said.
+Earlier in January, Princeton student Edward Tian told NPR that he created an app to see if something was written via AI, called GPTZero.
+ChatGPT’s average C+ performance fell below the humans’ B+ average, the authors said. If applied across the curriculum, that would still be enough to earn the chatbot a law degree—though it would be placed on academic probation at Minnesota, ranked as the 21st best law school in the country by U.S. News & World Report.
+A tech marketing agency, Codeword, said it decided to use so-called AI “interns” to assist its design and editorial teams to carry out “menial yet necessary tasks.”

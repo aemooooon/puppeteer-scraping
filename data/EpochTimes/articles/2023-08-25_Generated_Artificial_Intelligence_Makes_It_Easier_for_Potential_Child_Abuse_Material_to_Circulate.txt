@@ -1,0 +1,6 @@
+Improved technology is making it easier for predators to manipulate and proliferate material online, Australia’s eSafety Commissioner has told a parliamentary committee investigating the dangers associated with generative artificial intelligence (AI) technology.
+“We’re looking at the risk of generative AI acts that could potentially lead to class one content being created, such as child sexual abuse material or pro-terror material,” Executive  Morag Bond said in a hearing on Aug. 23.
+The report highlights how Chatbots and multimodal models have the potential to generate highly personalised, emotive, and invasive content that may appear authoritative, and whether it is intentional or by accident, can be harmful.
+The report gave an example of how a 13-year-old was advised by Snapchat’s AI chatbot on how she could lie to her parents to meet a 31-year-old man.
+In terms of mitigating harms and risks, determining who is responsible becomes an important consideration, the report stated.
+It calls for the online industry to take a lead role by adopting a safety-by-design approach, built on three principles; service provider responsibility, user empowerment and autonomy and transparency and accountability.

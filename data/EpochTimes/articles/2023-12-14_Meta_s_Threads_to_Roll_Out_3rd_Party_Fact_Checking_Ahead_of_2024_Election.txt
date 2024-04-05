@@ -1,0 +1,13 @@
+Meta will begin rolling out a fact-checking program for its Threads app, a rival to the X platform, ahead of the U.S. presidential election in 2024 as part of efforts to crack down on “false content.”
+Threads will use third-party fact-checkers to flag and review user-generated content on the social media platform beginning early next year, the company said.
+Meta already uses third-party fact-checkers to moderate content shared on Facebook and Instagram.
+“Early next year, our third-party fact-checking partners will be able to review and rate false content on Threads,” Meta said in the update.
+“Currently, when a fact-checker rates a piece of content as false on Facebook or Instagram, we extend that fact-check rating to near-identical content on Threads, but fact-checkers cannot rate Threads content on its own,” the post added.
+Meta also said that it recently began allowing Facebook and Instagram users to select how much sensitive or fact-checked content they wanted to see in their feeds on the social networks if they are based in the United States.
+The firm plans to implement the same settings for U.S.-based Threads users.
+“We recently gave Instagram and Facebook users more controls, allowing them to decide how much sensitive or, if they’re in the US, how much-fact-checked content they see on each app,” the Menlo Park, California-based company said in the blog post.
+“Consistent with that approach, we’re also bringing these controls to Threads to give people in the US the ability to choose whether they want to increase, lower, or maintain the default level of demotions on fact-checked content in their Feed. If they choose to see less sensitive content on Instagram, that setting will also be applied on Threads. ”
+Those controls will impact the ranking of various posts on the platform if they are “found to contain false or partly false information, altered content, or missing context.”
+At the time, Meta said the block was temporary and aimed at preventing “potentially sensitive content” from appearing on the platform, however, the move led to criticism from public health experts who accused the platform of censorship.
+In October, Mr. Mosseri said that while Threads isn’t “anti-news,” Meta also has no plans to “amplify news on the platform.”
+Additionally, beginning next year, Meta will require advertisers to disclose when they use artificial intelligence or other digital techniques to “create or alter a political or social issue ad in certain cases.”

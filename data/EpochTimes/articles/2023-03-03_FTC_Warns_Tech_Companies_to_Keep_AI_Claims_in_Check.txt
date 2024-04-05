@@ -1,0 +1,7 @@
+The Federal Trade Commission (FTC) issued a warning to tech companies on Feb. 27, telling them to “keep your AI claims in check,” as the agency intends to crack down on overstated artificial intelligence (AI) claims.
+“We’ve already warned businesses to avoid using automated tools that have biased or discriminatory impacts. But the fact is that some products with AI claims might not even work as advertised in the first place,” Atleson cautioned.
+The U.S. consumer protection agency urge companies to not exaggerate claims about what their AI can do.
+“Your performance claims would be deceptive if they lack scientific support or if they apply only to certain types of users or under certain conditions,” the agency said.
+The commission also warn companies to be aware of the risk they take by making AI products available to consumers.
+“If something goes wrong—maybe it fails or yields biased results—you can’t just blame a third-party developer of the technology,” the FTC said. “And you can’t say you’re not responsible because that technology is a ‘black box’ you can’t understand or didn’t know how to test.”
+Other guidelines include exhibiting proof that an AI product can do something better than a non-AI product, as well as actually using artificial intelligence in AI products. Claiming AI can do something beyond its current capacity would be deceptive.

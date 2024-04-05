@@ -1,0 +1,16 @@
+The New Zealand Transport Agency (NZTA) is about to take over the country’s 45 mobile cameras, as well as 150 fixed speed cameras, from police by July 2025. It plans to add another 50 fixed cameras soon.
+The agency already has a contract with United States company Verro Mobility, which will take over the fixed cameras from later this year. These include automated number plate recognition software.
+The provider which wins the mobile contract will not issue speeding tickets or get paid bonuses based on the number of fines. Instead, all fees will go to the government consolidated fund.
+NZTA will process the images, issue the fines, and decide where and when the cameras will be placed.
+Captured images will be sent to data centres in Sydney run by Amazon Web Services and Microsoft, and be held for 30 days while NZTA assesses them.
+The tender is for spot-speed tickets only, using the private company’s unmarked vehicles and non-uniformed staff.
+However, bidders must show they can meet future requirements, “which could include point-to-point mobile operations.” They must also show they have the potential to detect people not wearing seatbelts and drivers using mobile phones.
+A recent privacy impact assessment told NZTA to safeguard the personal data caught by the cameras and to strike an appropriate balance between using artificial intelligence and human oversight.
+The tender calls for a “high degree of evidential accuracy and assurance” along with effective digital security measures.
+Very little weighting is given to non-enforcement factors; just five percent is allocated to broader benefits, such as job creation in New Zealand.
+NZTA is aiming to mimic the effectiveness of the police “anytime, anywhere” positioning of roadside breath testing, which has been effective in deterring drunk driving. It estimates the system upgrade will triple the number of camera-issued tickets by 2030 to three million a year, and increase prosecutions to around 3,300.
+It wants to cut average speeds by between 20 and 30 percent, and increase driver compliance with speed limits by 60 percent.
+The privacy assessment showed the agency wanted to quadruple the number of fixed cameras to 800 within a decade. But NZTA has since said any expansion beyond 200 was up to the government.
+Last year, NZTA installed the first “smart” cameras on a highway in Northland, and along stretches of six roads in the Auckland region. They are capable of measuring speed between two points.
+“Typically over the length of an average speed corridor, drivers will ensure that they’re travelling at that speed limit—so we get a reduction in speed typically over that full length,” NZTA head of regulatory strategic programs Tara Macmillan explained.
+She said the new point-to-point cameras weren’t about “catching drivers out.” Unlike the new mobile cameras, they were clearly signposted, “to enable people to get a reminder to check their speed and slow down if necessary.”

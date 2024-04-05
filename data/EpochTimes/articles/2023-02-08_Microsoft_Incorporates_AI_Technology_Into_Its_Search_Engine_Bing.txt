@@ -1,0 +1,12 @@
+Microsoft is incorporating artificial intelligence (AI) chatbot technology into its search engine Bing and its browser Edge.
+The company made the announcement at a press event on Tuesday at its Redmond headquarters in Washington.
+Yusuf Mehdi, a Microsoft executive who leads its search division, said a public preview of the new Bing launched Tuesday for users who sign up for it, but the technology will scale to millions of users in coming weeks.
+Users will be able to input queries into Bing like how they would to ChatGPT, and receive coherent responses that aim to fulfill the query.
+Everyone can try a limited number of queries, Mehdi said.
+The new Bing also includes annotations that link to sources the responses are drawn from. But there is a caution that appears at the bottom of Bing’s new homepage, which says that because Bing is powered by AI, “surprises and mistakes are possible.” Users are advised to “Make sure to check the facts.”
+The latest shift by Microsoft will make its search engine and browser more conversational and more capable of providing answers to specific questions instead of merely providing links to other websites ranked by relevance.
+The changes could have wide-ranging implications for advertisements on these platforms.
+Microsoft Corp. CEO Satya Nadella said Tuesday that new AI advances are “going to reshape every software category we know,” including search, much like earlier innovations in personal computers and cloud computing.
+He said it is important to develop AI “with human preferences and societal norms and you’re not going to do that in a lab,” adding, “You have to do that out in the world.”
+Microsoft has been partnering with ChatGPT-maker OpenAI since 2019, with multiyear, multibillion-dollar investments in the company. The investments so far have led to the development of a powerful supercomputer specifically built to train the AI models that power ChatGPT and other AI tools, such as the image-generator DALL-E.
+ChatGPT’s masterful ability to generate English responses in various styles comes from having been fed a large number of online writings, from books to Wikipedia entries, to news websites, blogs, and instruction manuals.

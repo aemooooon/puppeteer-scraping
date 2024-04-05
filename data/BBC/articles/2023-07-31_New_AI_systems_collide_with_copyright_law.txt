@@ -1,0 +1,40 @@
+Kelly McKernan says she "felt sick" when she discovered her artwork had been used to train an artificial intelligence system.
+Curiosity spurred her to type her name into a website called Have I Been Trained, which searches LAION, a data set which feeds artificial intelligence (AI) image generators including Stable Diffusion.
+She found over 50 pieces of artwork had been uploaded on to LAION.
+"Suddenly all of these paintings that I had a personal relationship, and journey with, had a new meaning, it changed my relationship with those artworks," says the watercolour and acrylic illustrator from Tennessee.
+"I felt violated. If someone can type my name [into an AI tool] to make a book cover and not hire me, that affects my career and so many other people."
+The new wave of generative AI systems are trained on vast amounts of data -  text, images, video, and audio files, all scraped from the internet. Content can be created within seconds of a simple text prompt.
+However, artists like Ms McKernan are fighting back.
+Together with cartoonist Sarah Anderson and illustrator Karla Ortiz, Ms McKernan has filed a lawsuit against Stability AI, the company behind Stable Diffusion, Midjourney, and DeviantArt, an online art community with its own generator called DreamUp.
+It adds to a growing stack of lawsuits against AI firms, which are testing issues of copyright.
+Earlier this year Getty Images filed a case against Stability AI, alleging that the company unlawfully copied and processed 12 million of the company's images without permission.
+Eva Toorenent, an artist creating mostly creature design, monster and fantasy illustrations, says she became concerned about AI after attending a gallery where she was surprised to see a piece of art with similarities to her own - which she describes as a "corrupted version". 
+"I remember thinking, if this can happen on a small scale, it can happen on a giant scale," says the artist from Zandvoort in the Netherlands. Aggrieved by the lack of protection for artists, she grouped together with five other artists to set up the European Guild of Artificial Intelligence Regulation.
+"The aim is to create legislation and regulation to protect copyright holders and artists from predatory AI companies," she says.
+Ms McKernan agrees that there needs to be more regulation and protection for artists. "As it is, copyright can only be applied to my complete image. I hope it [the lawsuit] encourages protection for artists so AI can't be used to replace us. If we win, I hope a lot of artists are paid. It's free labour and some people are profiteering from exploiting."
+In December, Stability AI said that artists could opt out of the next version of Stable Diffusion, a statement that did not go down well with artists who felt that the default should be "opt-in".
+In response, Ms Toorenent says: "Firstly, I would never put my work into it. But if artists do want to, it should be opt in. If I'm the owner, I should decide what happens to my art."
+Stability AI said is not able to comment on ongoing legal proceedings, but in December 2022 chief executive Emad Mostaque tweeted that future models would be "fully licensed".
+Performing arts and entertainment union Equity says AI has become an increasing threat to artists. "There is a legitimate fear," says Liam Budd, industrial official for audio and new media at Equity.
+He says the current rights framework for artists does not reflect the business opportunities of generative AI.
+Mr Budd says an artist might receive a one-off payment of £300 ($390) to have their image or voice reproduced using AI, but that original work might be used thousands or millions of times, with no financial benefit to the artist. 
+"We need more clarity in law and are campaigning for the Copyright Act to be updated," he says.
+Last year Equity launched a toolkit to help performers understand the issues and protect themselves.
+More technology of business:
+Countries are scrambling to react to these new powerful forms of AI.
+The EU appears to be taking the lead, with the EU AI Act proposing that AI tools will have to disclose any copyrighted material used to train their systems.
+In the UK, a global summit on AI safety will take place this autumn. 
+"AI throws up lots of intellectual property queries and because machines are trained on a lot of data and information that's protected by intellectual property, I'm not sure users or AI [companies] understand that," says Arty Rajendra, an IP lawyer and partner at law firm Osborne Clarke.
+"Courts haven't been asked to determine it yet but there's several cases in the UK and US including Getty now which will determine if it is infringement and who is liable. There's data protections and moral questions that have to be answered as well. What we might see is some kind of settlements, and maybe some licence fees."
+She says there has been a number of litigation cases from photographers using small claims tracks.
+So what can other artists do in the meantime?
+Ms Rajendra explains that the giant photography firm Getty watermarked its images. So, when used in AI generative images, the watermark still shows up and it enables them to track usage of their images. She says artists could do the same.
+Artists could also approach the AI entity and ask for a license fee and if they don't' agree they could pursue legal action through a small claims tracker which is cheaper than a fancy law firm, she says.
+While regulators play catch up, some tools are emerging to help protect artists. 
+In March, Ben Zhao, professor of computer science at the University of Chicago and his team launched a free software tool called Glaze to help protect artists against generative AI models. 
+Glaze exploits a fundamental difference between how humans and AI models view images, says Prof Zhao.
+"For each image, we are able to compute a small set of pixel level changes that dramatically change how an AI art model "sees" the art while minimising visual changes to how humans see the art," he says.
+"When artists glaze their art, and that art is then used to train a model to mimic then the model sees an incorrect representation of the art style, and its mimicry would be useless and not match the artist."
+He says Glaze is suitable for a wide range of art including black and white cartoons, classical oil paintings, flat art styles, and professional photography.
+He says Glaze has had 938,600 downloads and the team have received thousands of emails, tweets, messages from artists across the globe. "The reaction has been overwhelming," he says.
+Ms Toorenent is feeling optimistic that artists may just win this fight. "I was pretty scared at the start due to the amount of online harassment but because we united and have good support network to all this mess.

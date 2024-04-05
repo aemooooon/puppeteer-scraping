@@ -1,0 +1,15 @@
+Media giant News Corporation should be compensated by artificial intelligence engines for using its content, says company CEO Robert Thomson.
+In an investor call on May 12, Thomson said AI would have a profound effect on the media business.
+“Generative AI may pose a challenge to our intellectual property and to the future of journalism,” he said in comments obtained by the News Corp-owned The Australian newspaper.
+“As those who have experimented with ChatGPT will be aware, the answers are only as insightful and factual as the source material and are more retrospective than contemporary.”
+Thomson said News Corp’s content would be aggregated, synthesised, and monetised by other parties.
+“We expect our fair share of that monetisation,” Thomson said. “Generative AI cannot be degenerative AI.”
+The difficulty with a payment model is that developers use the wider indexed internet as a source of “training” for AI engines—meaning AI bots use content to learn how to sequence words and sentences.
+However, AI engines generally use the open web and steer clear of content behind paywalls, which is now increasingly common in many larger news publication websites.
+The rise of ChatGPT has prompted questions about the wider role of technology in the future.
+The WEF claimed clerical and administrative roles were likely to suffer with over 26 million fewer jobs by 2027 as automation takes over, while jobs in the fields of AI, machine learning, business analysts, and software engineering would see an increase.
+“The AIs will get to that ability to be as good a tutor as any human ever could,” Gates told the ASU+GSV Summit in San Diego on April 18.
+“We have enough sample sets of those things being done well that the training can be done,” he added. “So, I’d say that is a very worthwhile milestone, is to engage in a dialogue where you’re helping to understand what they’re missing. And we’re not that far.”
+Fellow tech entrepreneur Elon Musk, Tesla CEO, has been more concerned about the direction AI is heading.
+“AI is more dangerous than, say, mismanaged aircraft design or production maintenance or bad car production in the sense that it has the potential—however small one may regard that probability, but it is non-trivial—it has the potential of civilizational destruction,” Musk told Fox News’ Tucker Carlson in a recent interview.
+He raised a current example of what could be dangerous about AI.

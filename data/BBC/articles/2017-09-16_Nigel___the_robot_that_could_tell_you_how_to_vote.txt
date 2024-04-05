@@ -1,0 +1,43 @@
+The creators of a new artificial intelligence programme hope it could one day save democracy. Are we ready for robots to take over politics?  
+"Siri, who should I vote for?" 
+"That's a very personal decision."
+Apple's "personal assistant", Siri, doesn't do politics. It has stock, non-committal answers for anything that sounds remotely controversial. Not unlike some politicians in fact.
+But the next generation of digital helpers, powered by advances in artificial intelligence (AI), might not be so reticent.
+One piece of software being developed by a company in Portland, Oregon, aims to be able to offer advice on every aspect of its users' lives - including which way to vote.
+"We want you to trust Nigel, we want Nigel to know who you are and serve you in everyday life," says Nigel's creator Mounir Shita.
+"It (Nigel) tries to figure out your goals and what reality looks like to you and is constantly assimilating paths to the future to reach your goals.
+"It's constantly trying to push you in the right direction."
+Shita's company, Kimera Systems, claims to have cracked the secret of "artificial general intelligence" - independent thinking - something that has eluded AI researchers for the past 60 years.
+Instead of learning how to perform specific tasks, like most current AI, Nigel will roam free and unsupervised around its users' electronic devices, programming itself as it goes. 
+"Hopefully eventually it will gain enough knowledge to be able to assist you in political discussions and elections," says Shita.
+Nigel has been met with a certain amount of scepticism in the tech world.
+Its achievements have been limited so far - it has learned to switch smartphones to silent mode in cinemas without being asked, from observing its users' behaviour.
+But Shita believes his algorithm will have the edge on the other AI-enhanced digital assistants being developed by bigger Silicon Valley players - and he has already taken legal advice on the potential pitfalls of a career in politics for Nigel.
+"Our goal, with Nigel, is by this time next year to have Nigel read and write at a grade school level. We are still way off participating in politics, but we are going there," he says. 
+AI is already part of the political world - with ever more sophisticated algorithms being used to target voters at election time.
+Teams of researchers are also competing to produce an algorithm that will halt the spread of "fake news".
+Mounir Shita argues that this will be good for democracy, making it infinitely harder for slippery politicians to pull the wool over voters' eyes.
+"It's going to be a lot harder to brainwash an AI that has access to a lot of information and can tell a potential voter what the politician said is a lie or is unlikely to be true."
+What makes him think anyone would listen to a robot?
+Voters are increasingly turning their back on identikit "machine politicians" in favour of all-too-human mavericks, like the most famous Nigel in British politics - Farage - and his friend Donald Trump.
+How could AI Nigel  - which was named after Mounir Shita's late business partner Nigel Deighton rather than the former UKIP leader - compete with that?
+Because, says Shita, you will have learned to trust Nigel - and it will be more in tune with your emotions than a political leader you have only seen on television.
+Nigel - robot Nigel, that is - could even have helped voters in the UK make a more informed decision about Brexit, he claims, although it would not necessarily have changed the outcome of the referendum.
+"The whole purpose of Nigel is to figure out who you are, what your views are and adopt them. 
+"He might push you to change your views, if things don't add up in the Nigel algorithm.
+"Let me go to the extreme here, if you are a racist, Nigel will become a racist. If you are a left-leaning liberal, Nigel will become a left-leaning liberal.
+"There is no one Nigel. Everyone has their own Nigel and each one of those Nigel's purpose is to adapt to your views. There is no political conspiracy behind this."
+Ian Goldin, professor of globalisation and development at the University of Oxford, also believes AI could have a role to play in debunking political spin and lies.
+But he fears politicians have yet to wake up to what it will mean for the future of society or, indeed, their own jobs.
+In his book, Age of Discovery: Navigating the Risks and Rewards of Our New Renaissance, Goldin and co-author Chris Kutarna seek a middle ground between apocalyptic visions of humans controlled by robots and the techno-utopian dreams of Silicon Valley's elite.
+He tells BBC News: "I think the threats posed by technology are rising as rapidly as the benefits and one hopes that somewhere, in some secret place, people are worrying about it. 
+"But the politicians certainly aren't talking about it." 
+Instead of thinking about machine-learning as some distant piece of science fiction, they should "join the dots" to see how it is already changing the political and social landscape, he argues.
+He points to a research paper by the Oxford Martin Programme on Technology and Employment, which suggested that Donald Trump owes his US election victory to voters who have had their jobs taken away from them by automation.
+"In the machine-learning world innovation happens more rapidly, so the pace of change accelerates," says Goldin.
+"That means two things - people get left behind more quickly, so inequality grows more rapidly, and the second thing it means is that you have to renew everything quicker - fibre optics, infrastructure, energy systems, housing stock, mobility and flexibility."
+He adds: "They (politicians) are going to have to form a view on whether they throw sand in the wheels. What are they going to do with the workers who are laid off?"
+AI evangelists like Mounir Shita have a simple answer to this. And it does not involve throwing sand in the wheels of technology - they see meddling politicians as the enemy and Elon Musk, creator of the Tesla electric car, who has warned about the catastrophic consequences for humanity of unregulated AI, as misguided, at best. 
+Shita is relaxed about a world where machines do all the work: "I am not envisioning people sitting on their couch eating potato chips, gaining weight, because they have nothing to do. I envision people free from labour and can pursue whatever interests or hobbies they have."
+Ian Goldin takes a less rosy view of an AI-enhanced future.
+Rather than indulging in hobbies or world travel, those made idle by machines are more likely to be drinking themselves to death or attempting suicide, if recent research into the so-called "diseases of despair"  among poorly educated members of the white working class in America is anything to go by, he says.

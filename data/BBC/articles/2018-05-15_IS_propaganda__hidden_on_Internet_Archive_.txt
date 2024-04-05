@@ -1,0 +1,24 @@
+ Supporters of the Islamic State group are using the Internet Archive to frustrate efforts to delete their online propaganda, a study suggests.
+The report analysed hundreds of thousands of links posted to two hidden forums used by the extremist group.
+Archive.org links were found to be the most common type on both of the forums for the past two years.
+The US-based service allows users to save and visit pages that might otherwise have been lost from the net.
+A spokesman for the Internet Archive said it was taking steps to address the issue.
+The research was carried out by the cyber-security firm Flashpoint.
+It said the two forums were located on the "deep web" - referring to sites that do not show up in search engine results, but can still be accessed by a normal web browser.
+It declined to provide their names for independent verification.
+The researchers said a sample of more than 730,000 web links posted between the start of 2015 and the end of 2017 were gathered from one of the forums and 290,000 from the other.
+Archive.org accounted for 14.3% of the harvested links on the larger forum in 2017, and 11.4% of those on the smaller one, according to the report.
+YouTube links were the second most common and Google links came third - based on a grouping together of posts to its Drive, Photos and Google+ platforms. 
+Flashpoint believes IS supporters began deliberately posting links to pages stored by the Internet Archive's website-recording service in March 2016, based both on the data it gathered and some of the forum comments it had read.
+This appears to have been driven in part by Twitter and other services becoming faster at removing offending accounts and extremist content.
+"The use of [the Internet Archive] has allowed the group to achieve persistence whenever content posted to a site such as justpaste.it is removed for violating terms of service," wrote Ken Wolf, senior analyst at Flashpoint.
+"In addition, the data suggests that rather than waiting for these pages to be archived by the service's web crawler, members are actively archiving pages after creating them. 
+"This is evidenced by links to archived sites appearing in the same post as the link to the original content."
+The Internet Archive is run as a not-for-profit "digital library" supported by users' donations.
+As such, it lacks the R&D budget to pursue the kind of artificial-intelligence-based search-and-destroy efforts.
+A spokesman for the Internet Archive told the BBC that it held regular meetings about extremist content with government officials in the US and EU, and had made changes as a consequence.
+"Much of this content is taken down promptly upon our being made aware of it, for example content with executions or personal threats," explained Chris Butler.
+"Other extremist material may be sequestered and/or placed behind barriers to deter the use of our site for promotional, propagandistic purposes while keeping it preserved, which various journalists, academics, law enforcement officials, and other researchers have all let us know is important and useful in their work. 
+"We find that this intervention tends to reduce the number of views of these materials dramatically."
+However, Mr Wolf commented that the Internet Archive might soon find itself under pressure to be more proactive.
+"In late 2017 and early 2018, we saw European governments in particular discussing levying fines or taxes against hosting providers for not removing extremist content from their platforms within a given period of time," he said.

@@ -1,0 +1,14 @@
+One billion public-facing Instagram photos were used to train an algorithm created by Facebook to learn to recognise images by itself.
+Traditionally, algorithms have been trained on datasets which have already been categorised by humans - labelled cats, dogs or flowers, for example.
+But the Instagram photos were presented to the algorithm without the labelling.
+Afterwards it was able to correctly identify images with 84.5% accuracy, Facebook reported.
+Facebook has called its system Seer, an abbreviation of self-supervised. 
+AI expert Calum Chase said the system "could be an important step towards the holy grail of computers with common sense" if it proved effective in the long term.
+There are other firms also working on similar processes.
+Facebook said that while this sort of technique has already seen success in algorithms dealing with processing language, images present a different challenge. 
+That's because individual words are easier to identify than the different parts of a picture - which part of an image is a tree, or an animal, for example, when one image may contain both, and they may be close together.
+"With images, the algorithm must decide which pixel belongs to which concept. Furthermore, the same concept will vary greatly between images, such as with a cat in different poses or viewed from different angles," the firm wrote in a blog.
+Facebook added that being able to train algorithms on huge datasets which had not been categorised by humans first, could also help in the battle against programs displaying bias.
+This is because bias can creep in - for example women being more likely to be labelled by their physical attributes such as their hair or their smile, while men get tagged with words like "official" and "business" - when categorised by humans.
+Prof Sandra Wachter from the Oxford Internet Institute said that while overall the research was "very promising", it was still important to understand how the algorithm was reaching its decisions if it was not being led by human input.
+"You might be able to get rid of human bias but there is no such thing as unbiased neutral data so you always have to deal with that," she said. 

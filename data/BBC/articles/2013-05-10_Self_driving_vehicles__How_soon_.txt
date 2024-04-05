@@ -1,0 +1,28 @@
+Our pick of the week’s science and tech stories, including the liability of autonomous vehicles, 3D-printed-gun control and the mathematics behind city living.
+Controlled by guns
+ Tim Maly | Medium | 7 May 2013
+ Texas hackers produce a well-functioning home-made gun from a 3D printer. A technical triumph; a moral and political conundrum. You might expect the National Rifle Association to applaud; but the NRA relies for funding on the small-arms industry, which will be horrified. The Maker movement should be thrilled too – but how many of its members are gun enthusiasts? From Congress, expect a flurry of laws that don’t work.
+The language of cavemen
+ David Brown | Washington Post | 6 May 2013
+ Linguists speculate that seven modern language families – Indo-European, Altaic, Chukchi-Kamchatkan, Dravidian, Inuit-Yupik, Kartvelian, Uralic – all descend from a “proto-Eurasiatic” language spoken 15,000 years ago. Of which some two dozen “ultra-conserved” words have survived, more or less intact: “You, hear me! Give this fire to that old man. Pull the black worm off the bark and give it to the mother. And no spitting in the ashes!”      
+DNA at 60
+ Donna Dickenson | Project Syndicate | 6 May 2013
+ Watson and Crick’s discovery of DNA was expected to “revolutionise biological research”. Sixty years later it is still hailed as “one of the most important scientific discoveries of all time”. But the practical impact has been strangely muted. Most diseases don’t have simple genetic causes; genetic medicines tend to be prohibitively expensive; and if drug companies succeed in patenting genes, further research will be jeopardised.
+Self-driving vehicles – How soon and who will bear the liability costs?
+ Kenneth Anderson | Volokh Conspiracy | 5 May 2013
+ Cruise control, speed sensors, assisted parking – the autonomous car is arriving incrementally. “It is introduced in the marketing not as self-driving, which would be both untrue at this stage and also a huge flag for litigation, but instead as giving the driver greater safety and convenience.” The final step will be the integration of these systems with control software enabling the car to decide between conflicting imperatives.
+Why I froze my eggs (and you should, too) 
+ Sarah Elizabeth Richards | Wall Street Journal | 3 May 2013
+ “I decided to freeze on the afternoon of my 36th birthday, when I did a fresh round of baby math on the back of a business card at Starbucks. Even if the man I was dating at the time agreed to start a family in the near future, I was cutting it close to have one baby, let alone a second. As soon as I woke up in the recovery room, I no longer felt as though I were watching my window to have a baby close by the month.”
+A most profound maths problem 
+ Alexander Nazaryan | New Yorker | 2 May 2013
+ On the struggle to solve “P versus NP”, one of the great puzzles of mathematics, and a big practical problem in computer science. Roughly speaking, it asks whether every problem whose solution can be quickly verified by a computer can also be quickly solved by a computer. A proof either way would speed research in cryptography, algorithm research, artificial intelligence. A $1m prize awaits the solver.
+The cosmopolitan ape
+ Steve Paulson | Nautilus | 1 May 2013
+ Interview with primatologist Frans de Waal. There is no fundamental difference between humans and other animals. “The social sciences and the humanities are still very influenced by religion. They have this whole mindset that humans are absolutely special. But the average biologist believes that everything is continuous. We know that plants have DNA and humans have DNA, so we see that all of us are totally connected.”
+Life in the city is one giant maths problem 
+ Jerry Adler | Smithsonian | 27 April 2013
+ The emerging study of quantitative urbanism contends that many aspects of modern cities can be modelled using mathematical formulas. For example: If the population of a city doubles, each inhabitant becomes on average 15% more productive. “Give me the size of a city in the US and I can tell you how many police it has, how many patents, how many AIDS cases, just as you can calculate the life span of a mammal from its body mass.”
+Why are we still waiting for natural language processing?
+ Geoffrey Pullum | Lingua Franca | 9 May 2013
+ “Try typing this, or any question with roughly the same meaning, into the Google search box: 'Which UK papers are not part of the Murdoch empire?' Your results (and you could get identical ones by typing the same words in the reverse order) will contain an estimated two million or more pages about Rupert Murdoch and the newspapers owned by his News Corporation. Exactly what you did not ask for.”

@@ -1,0 +1,10 @@
+An artificial-intelligence art project has been criticised for using racist and sexist tags to classify its users.
+When they share a selfie with ImageNet Roulette, the web app matches it to the ones it most closely resembles from an enormous library of profile photos.
+It then reveals the most popular tag, assigned to the matching pictures by human workers using data set WordNet.
+These include racial slurs, "first offender", "rape suspect", "spree killer", "newsreader", and "Batman".
+Those responsible for assigning the tags to the library pictures were recruited via a service offered by Amazon, called Mechanical Turk, which pays workers around the world pennies to perform small, monotonous tasks. 
+"AI classifications of people are rarely made visible to the people being classified," ImageNet Roulette's creators, artist Trevor Paglen and Kate Crawford, co-founder of New York University's AI Institute, said.
+"ImageNet Roulette provides a glimpse into that process - and to show the ways things can go wrong."
+Ms Crawford added they hoped the project "gives us at least a moment to start to look back at these systems, and understand, in a more forensic way, how they see and categorise us".
+Users have been uploading pictures of their pets.
+Others have been categorised into professions.

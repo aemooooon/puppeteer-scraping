@@ -1,0 +1,14 @@
+An Australian team has won a competition to write a hit Eurovision song using artificial intelligence.
+An editor for Dutch broadcaster VPRO had the idea, after the Netherlands won last year's Eurovision Song Contest.
+And it grew into an international effort after this year's contest was cancelled because of the coronavirus pandemic.
+The winning song, Beautiful the World, was inspired by nature's recovery from the bushfires earlier this year.
+A total of 13 teams took part, from the Netherlands, Australia, Sweden, Belgium, the UK, France, Germany and Switzerland. 
+The Australian team, called Uncanny Valley in a nod to how humans and robots may one day merge, was made up of maths, computer-science and social-anthropology students, as well as music producers.
+The melody and lyrics were written by an AI system, trained with audio samples of koalas, kookaburras and tasmanian devils. 
+The public voted overwhelmingly for the song.
+A panel of AI experts, Vincent Koops, Anna Huang and Ed Newton-Rex, also rated it highly but gave the full "douze points" to the German team, Dadabots x Portrait XO.
+The panel were "amazed by the wide range of innovative approaches to using AI to create music".
+"Composing a song with AI is hard because you have all the creative challenges that come with song-writing, but you also have to juggle getting the machine learning right," they said.
+"The teams not only pushed the boundaries of their personal creativity, but also gave the audience a look into the exciting future of human-AI musical collaboration."
+Senior editor at VPRO Karen van Dijk, who came up with the idea for the contest, said all the teams had made the most out of the creative possibilities of artificial intelligence.
+"In my opinion, some songs would not be out of place in the official Eurovision Song Contest."

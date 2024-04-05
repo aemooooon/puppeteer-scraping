@@ -1,0 +1,35 @@
+Neuralink founder Elon Musk’s announcement of a successful brain chip implant is met with skepticism by an organization that questions the ethics of animal testing involved in the experiments.
+The first human to receive a brain chip implant “is recovering well,” according to Mr. Musk, also known for his Tesla, SpaceX, and X companies.
+“Initial results show promising neuron spike detection,” Mr. Musk posted on X, formerly Twitter, on Jan. 29.
+However, the Physicians Committee for Responsible Medicine (PCRM), an organization of over 17,000 physicians who oppose the use of animals in medical research and advocate for plant-based diets, argues that Mr. Musk’s statement “has not been independently verified.”
+“In addition, Neuralink has a well-documented history of conducting unnecessary, sloppy experiments in monkeys, pigs, sheep, and other animals that raise serious concerns about the safety of its device.”
+In December 2022, the PCRM requested that the Food and Drug Administration (FDA) investigate Neuralink over alleged violations of Good Laboratory Practice (GLP) regulations.
+“Public records and recent whistleblower reports suggest Neuralink, which has been conducting nonclinical animal studies since 2016 to develop an implantable brain-machine interface (also referred to as brain-computer interfaces or ‘BCI'), has failed to maintain standard operating procedures while altering documents, which may have compromised the quality and integrity of data it has submitted or plans to submit to the FD in violation of GLP regulations,” the PCRM said.
+In its letter to the FDA, the PCRM detailed graphic, invasive experiments on rhesus monkeys that violated protocol and led to unnecessary suffering.
+The PCRM called for Neuralink’s disqualification from FDA approval.
+Despite this, in May 2023, the FDA approved Neuralink’s clinical study of brain-computer interface (BCI) technology.
+However, the PCRM contends that the public “should continue to be skeptical of the safety and functionality of any device produced by Neuralink,” and the organization contends that the USDA “has a well-documented history of failing to hold violators accountable.”
+“In addition, Musk’s true intentions for Neuralink are disturbingly clear,” PCRM said. “He has repeatedly said the goal of the company is ‘to achieve a symbiosis with artificial intelligence,’ which is not necessarily in line with developing treatments for patients.”
+“Noninvasive devices are already demonstrating the ability to improve quality of life for older adults and elderly patients, translate brain activity into intelligible speech, and assist paralyzed patients,” the PCRM said.
+Ryan Merkley, director of research advocacy for PCRM, said Neuralink “has a troubling history of sloppy science and illegal activity.”
+“And we know that Musk could help a great number of patients if he would instead develop a noninvasive brain-computer interface,” he said.
+In response to the allegations that the company was conducting harmful experiments on monkeys and other animals, Mr. Musk wrote in a September 2023 post on X: “No monkey has died as a result of a Neuralink implant. First our early implants, to minimize risk to healthy monkeys, we chose terminal monkeys (close to death already).”
+PCRM requested that the U.S. Securities and Exchange Commission investigate that statement, alleging it was false.
+“Public records obtained by the Physicians Committee reveal that at least 12 young, previously healthy monkeys were euthanized by Neuralink as a direct result of problems with the company’s implant,” the PCRM wrote.
+“The animals’ deaths and the reasons for their deaths relate directly to the safety and marketability of the brain-computer interface Neuralink is developing, and thus it is critical that the company provide investors with factually accurate information.”
+The Epoch Times contacted Neuralink for a comment in response to PCRM’s allegations.
+The ethics of using animals like rhesus monkeys in experiments was brought into question over the last several years by organizations such as the White Coat Waste Project (WCW).
+“Initial users will be those who have lost the use of their limbs,” he said. “Imagine if Stephen Hawking could communicate faster than a speed typist or auctioneer. That is the goal.”
+According to Neuralink, BCIs are “decoding systems that decode intended movement signals from brain activity to control external devices such as computers.”
+The purpose of the study is to determine how safe and effective it is to have a surgical robot implant a BCI into a brain.
+By enabling BCI software, people with paralysis could “control external devices.”
+“During the study, the R1 Robot will be used to surgically place the N1 Implant in a region of the brain that controls movement intention,” Neuralink said. “Participants will be asked to use the N1 Implant and N1 User App to control a computer and provide feedback about the system.”
+Once implanted, it remains “cosmetically invisible,” Neuralink said.
+“It records and transmits brain activity with the goal of enabling you to control a computer,” it said.
+Neuralink is not the only company racing to create a communicative bond between the nervous system and computers.
+According to clinicaltrials.gov, there are over 40 BCI research experiments taking place.
+The Precise Robotically Implanted Brain-Computer Interface (PRIME) Study is being undertaken, according to Neuralink, to “dramatically transform the lives of people with paralysis.”
+Even after surviving some diseases like cancer, “odds are you will have some brain-related disorder ... like Alzheimer’s or dementia.”
+“And if you don’t, friends and family will for sure,” he said. “I think unless we have some sort of brain-machine interface that can solve brain ailments of all kinds, whether it’s from an accident, or congenital, or any kind of brain-related disorder—or a spinal disorder if you know someone who’s broken their neck or spine—we can solve that with a chip.”
+It won’t happen overnight, Mr. Musk said.
+“This will be a slow process where we’ll gradually increase the issues that we solve until ultimately we can do a full brain-machine interface, meaning ultimately—this is going to sound pretty weird but—achieve a sort of symbiosis with artificial intelligence,” he said.

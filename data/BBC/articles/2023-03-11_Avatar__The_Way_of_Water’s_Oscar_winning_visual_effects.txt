@@ -1,0 +1,26 @@
+Fans and critics of James Cameron's epic blockbuster Avatar have waited 13 years for a sequel.
+Touted as ground-breaking in 2009, Avatar's visual effects plunged viewers into an otherworldly oceanic landscape.
+The sequel's release was pushed back six times in order to develop the technologies needed to build on the previous film's special effects successes.
+The Way of Water won the Academy Award for visual effects, at the 2023 Oscars, as well as a Bafta and Critics Choice Award in the same category.
+Visual effects artists Joe Letteri - who already has four Academy Awards under his belt - and Eric Saindon, who helped create Gollum in The Lord of the Rings trilogy, told the BBC about their return to Avatar.
+"I just loved the story, the characters, everything about it," said Joe, looking back to when he was first given the script. 
+He and Eric considered the emotional depth of the characters and the audience's connection to them to be the most important aspect of the sequel.
+The duo are part of the Weta FX visual effects team which worked on about 98% of the film's shots.
+Alongside its performance capture technology, the Weta FX team developed a neural network-based facial system to help create the characters in photorealistic quality on screen.
+The system used a series of black dots on actors' faces to help map interactions between different facial features and muscles.
+This let animators reflect the subtleties of actors' expressions in their computer-generated (CG) counterparts.
+For the film's many underwater shots, a camera rigged to actors' bodies during performance capture was used to record their faces, while secondary cameras recorded their bodies.
+The Weta FX crew also used depth composition to visualise CG and live-action objects or characters together on set. 
+This involved feeding scans of sets, actors and costumes into an algorithm which could recognise and reflect their pixels' location and depth in real time.
+"That's something we had always hoped for ever since film one, and we were finally able to get it to work on this film," Joe said.
+And while visual effects design in blockbuster films often revolves around big budgets and cutting-edge tech, he said getting the smaller, more intimate moments right is key: "Those are where the audience gets to understand and know the character."
+Eric agreed: "You forget they are CG characters and you just feel for them."
+The family movie draws the audience into the planet of Pandora and sees the Sully family rebuild their life with a water-dwelling tribe called the Metkayina. 
+A cornerstone of the film is its watery landscape, crafted by the Weta FX team.
+Joe and Eric embarked on their own exploration of the world's seas to bring the aquatic world to life - studying water from all around the globe to decide which type would work best.
+But they knew tropical water full of creatures, coral and vivid colour, was always going to be the preferred option for the oceanic setting. 
+Weta FX worked with professors at Victoria University in Wellington, New Zealand, to create new types of coral for the film.
+The team wrote software that would allow the embellished coral to grow and move realistically, to make the watery world even more believable.
+It applied a similarly intricate approach to the film's many underwater characters and creatures.  
+"We did motion studies of whales, dolphins, otters and different types of animals under the water to see how they interact," Eric said, adding that their observations were then used to enhance the fluidity of characters' movements.
+"Every day is a school day," Joe added.

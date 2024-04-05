@@ -1,0 +1,16 @@
+An ambitious project to develop a wearable device to detect early signs of Alzheimer's disease has been launched.
+The Early Detection of Neurodegenerative diseases (Edon) is being spearheaded by charity Alzheimer's Research UK.
+It will initially analyse data from continuing studies into the disease, using artificial intelligence.
+And this data will be used to design a prototype device within three years.
+Wearables collect a variety of data including gait, heart rate and sleep patterns and the hope is by analysing this data, researchers can begin to map signs of the disease years before symptoms develop.
+The global initiative has already won funding from tech founder turned philanthropist Bill Gates.
+But it also forms part of the UK government's wider ambition to use artificial intelligence and data to help better understand and prevent chronic diseases.
+Initially, EDoN will work with the UK's national institute for data science and artificial intelligence, The Alan Turing Institute, to trawl through data from continuing studies into Alzheimer's disease.
+Prof Chris Holmes, health programme director at the institute, said: "Artificial intelligence has the potential to transform the learning opportunities from large-scale data studies such as Edon by integrating information from multiple sources.
+"We will use AI to deliver new insights into the early signals of disease by combining digital data measurements with traditional sources such as brain imaging and memory tests."
+There are currently 850,000 people living with dementia in the UK, according to Alzheimer's Research UK.
+And globally, the number is expected to increase from 50 million in 2018 to 152 million in 2050.
+Carol Routledge, director of research at Alzheimer's Research UK, said: "Developing digital fingerprints that can be detected using phone apps or wearable technologies like smart watches would provide a low-cost approach to identifying those most at risk of disease.
+"Identifying the very earliest changes in these diseases would transform research efforts today, giving us the best chance of stopping these diseases before the symptoms of dementia start to get in the way of life."
+Volunteers to wear the device and share their data will come from another ambitious UK health project, the Accelerating Detection of Disease Programme. 
+Launched last year as part of the government's mission to transform the diagnosis of disease using data and AI, it aims to recruit five million volunteers.

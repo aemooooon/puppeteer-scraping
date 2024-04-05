@@ -1,0 +1,9 @@
+A coffee-delivering drone that can detect when people are tired and bring them a drink has been patented by technology company IBM.
+The patent describes a drone that can identify the "cognitive state" of office workers and lower cups of coffee on an "unspooling string".
+Technology companies frequently patent products even if they have no intention to sell them in the near future.
+IBM has not revealed whether it plans to produce the coffee drone.
+The patent, filed in the United States, where the process can cost thousands of dollars, describes several variations of a drink delivery drone. In one example, coffee is dispensed from the drone directly into a worker's mug.
+Another option describes hot drinks delivered in a sealed bag, to prevent any scalding drips.
+IBM suggests the drone could be equipped with technology to detect blood pressure, pupil dilation and facial expressions and judge whether people are drowsy.
+Alternatively, people in an office could be able to summon a cup of coffee with a hand gesture.
+IBM was once a leading manufacturer of computer mainframes and desktop PCs.

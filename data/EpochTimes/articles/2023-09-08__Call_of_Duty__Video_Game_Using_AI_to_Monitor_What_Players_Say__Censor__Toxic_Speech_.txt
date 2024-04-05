@@ -1,0 +1,15 @@
+Call of Duty, a shooter video game published by Activision, has started using artificial intelligence to monitor what players say during online matches in order to flag and crack down on “toxic speech” more effectively as online gaming looks poised to become the newest frontier of censorship.
+Activision said recently on its blog that Call of Duty is doubling down on its fight against “hate speech” and other types of “toxic and disruptive behavior” among players in online chatrooms by enlisting the help of AI to identify and police player conduct.
+“Call of Duty’s new voice chat moderation system utilizes ToxMod, the AI-Powered voice chat moderation technology from Modulate, to identify in real-time and enforce against toxic speech—including hate speech, discriminatory language, harassment and more,” the company said in the post.
+The speech policing algorithms, which online players can only disable by turning off voice chat, will monitor and record what they say in order to identify speech that the company deems unfit for its virtual game spaces.
+Strict penalties await for violators of Activision’s online speech rules, which bar derogatory comments based on race, sexual orientation, or “gender identity or expression.”
+“We do not tolerate bullying or harassment, including derogatory comments based on race, gender identity or expression, sexual orientation, age, culture, faith, mental or physical abilities, or country of origin,” the rules stipulate.
+“Communication with others, whether using text or voice chat, must be free of offensive or harmful language. Hate speech and discriminatory language is offensive and unacceptable, as is harassment and threatening another player,” the Code of Conduct further states.
+A beta version of the speech policing algorithm has already begun in North America in Call of Duty: Modern Warfare II and Call of Duty: Warzone.
+A full version of the AI-powered speech enforcer will be rolled out worldwide along with the upcoming release of Call of Duty: Modern Warfare III on Nov. 10, the company said.
+The upgraded system allowed moderation teams to respond to reported violations of its Code of Conduct by, for example, restricting player features or muting them globally from all in-game voice chat features.
+Since the introduction of its enhanced speech policing features last year, Activision says it has (as of Aug. 30) restricted voice and/or text chat to over 1 million accounts.
+Data from the company indicates that around 20 percent of players did not re-offend after getting hit with a first warning.
+Activision’s move to use AI to turbo-boost its crackdown on “toxic speech” comes amid a growing appetite in corporate America to suppress expression deemed too offensive and out of sync with the norms of the day.
+“Fifty-five percent is a majority and is a milestone that shouldn’t be ignored,” James Gorrie, author of “The China Crisis,” wrote in a recent op-ed in The Epoch Times.
+“If more than half of adults can’t think for themselves and prefer censorship to free speech, it seems apparent that the reeducation of America over the past several decades is nearly complete,” he added.

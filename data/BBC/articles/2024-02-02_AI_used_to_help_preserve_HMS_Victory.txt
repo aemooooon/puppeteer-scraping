@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is being used to help preserve part of Vice-Admiral Lord Nelson's flagship HMS Victory.
+Based in Portsmouth's Historic Dockyard, the warship is undergoing a 10-year conservation scheme.
+University of Southampton students have applied AI technology to thousands of images taken of the 259-year-old ship.
+It will prevent vital historical information from being lost forever, a university archaeologist said.
+HMS Victory is best-known for its role in the Battle of Trafalgar in 1805 and is the world's oldest naval ship still in commission.
+The renovation work, at the National Museum of the Royal Navy, has seen craftspeople replacing the decayed planking of the hull and the damaged frames of the ship.
+Part of this process involves documenting the vessel, with high-resolution images taken to produce accurate 3D digital models.
+The process has been automated by an AI algorithm, which Dr Rodrigo Pacheco-Ruiz from the University of Southampton said had made the images "high resolution, complex and detailed".
+"Archaeologists are obsessed with detail and if records are not accurately stored, vital historical information could be lost forever," the archaeologist said.
+"The project is really at the forefront of how AI is being used in archaeology... it's certainly a long way from the traditional perception of how an archaeologist spends their time."
+Previously a curator would add a short description of an object to a physical catalogue card but now they must record more detailed information so items can be catalogued digitally.
+The data could also allow the public to view the ship online, rather than visiting in person.
+Amy Adams, the museum's collections information and access manager, said: "The opportunity to share knowledge worldwide and engage more and more people in our nation's maritime history is huge."
+HMS Victory's restoration is due to be completed in just under 10 years, at a cost of £40-£45m.
+This story has been amended. A previous version also mentioned HMS Victory (1737) which is a different ship.

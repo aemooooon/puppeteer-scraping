@@ -1,0 +1,25 @@
+Polly Arrowsmith is a savvy bargain shopper, and knows exactly when her three local supermarkets make their daily price markdowns.
+She estimates that hunting out the yellow discount stickers saves her hundreds of pounds a year.
+"There is no doubt I get a dopamine hit when I get a yellow label food item," says London-based Ms Arrowsmith. "It is a small hit, but I do acknowledge the moment of joy."
+That daily ritual of pocketing a yellow sticker saving could soon be coming to an end. That's because supermarkets are adopting dynamic pricing, controlled by artificial intelligence (AI) software.
+It involves digital price tags that are displayed either on the shelf below the food items, or on high-tech stickers attached the product itself. 
+These prices are automatically, and wirelessly, updated by the AI when a particular item approaches its sell by date.
+The AI also examines how much stock the store is holding of that item and demand for it at the same time in previous years.
+So there is no need for members of staff to walk around the fresh food aisles with a sticker gun towards the end of the day.
+Such AI-driven dynamic pricing is already a reality in mainland Europe, as grocery retailers such as DIA in Spain, Iper in Italy, Metro in Germany, and Hoogvliet in the Netherlands are rolling out the technology.
+They are all using a system provided by Israeli firm Wasteless. "Our model gauges the risk of a certain item expiring on the shelf rather than being sold, and makes the decision as to whether a markdown is required or not," says David Kat, the firm's senior vice president of business development.
+"The data we help generate can also help retailers better understand how to manage stock replenishment and avoid over-ordering. So we're actually turning the current food waste problem into an opportunity."
+Wasteless says it is now in "advanced negotiations with three household name British retailers", with the aim of rolling out its system in the UK in the first half of next year. It claims that it can cut supermarkets' food waste by more than a third.
+Meanwhile, Asda recently trialled digital price tags from SES-Imagotag. This French tech firm says it is now supplying its technology to around 350 large retailers across Europe, Asia and the US.
+Elsewhere, UK firm Displaydata's system is being used by German supermarket chain Kaufland. And Swedish player Pricer recently launched in its home market with grocer ICA.
+Such dynamic pricing could be worth an additional 10% to a retailer's fresh food revenues, according to one study. This is because it will help it to sell items that would otherwise have to be binned.
+Currently UK supermarkets and other food retailers are responsible for around 300,000 tonnes of food waste per year, one report found.
+Matt Wills is the co-founder of a firm called Acumen, which advises brands on how much they should sell their products for. He warns that there are potential disadvantages to dynamic pricing.
+"With a lack of clarity on what the reference price is, consumers might not realise they are getting a deal at all," he says. "This could also lead to unpredictability of prices, causing added complications for people on a budget squeeze, if items are seen to be continually changing in price."
+Mr Wills also fears that some prices could actually go up. "There's also a risk of price discrimination, with products that are more popular in certain stores ending up having prices pushed up because of higher demand in that area," he says.
+"So, rather than helping consumers, AI-driven pricing could have adverse effects, for example seeing pensioners pay more for certain products because they live in a predominantly retired town with a similar consumer demographic."
+The key, Mr Wills believes, will be for retailers to have strict guidelines and governance to ensure they can offer the benefits that dynamic pricing can bring, whilst ensuring AI and algorithms don't create unintended negative consequences for shoppers.
+Read additional stories on artificial intelligence
+But Sabrina Benjamin, a London-based retail expert and founder of business technology consultancy Authentic Branches, is confident the benefits of AI-driven digital pricing in supermarkets will outweigh any negatives.
+"Digital price tags are definitely more sophisticated than the yellow sticker approach," she says. "The flexibility it creates and the ease to change prices, means the retailer can provide greater benefits and discounts to the consumer... and influence traffic to their store."
+Whether shoppers will welcome the change - and the disappearance of yellow sticker discounts - is another question, but Ms Benjamin believes they'll be won over by the price reductions they receive.

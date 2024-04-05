@@ -1,0 +1,31 @@
+New laws are needed to regulate the “explosion” of employer surveillance and AI systems caused by the COVID-19 pandemic, experts have warned.
+Speaking to Westminster’s Human Rights Joint Committee, Jeremias Adams-Prassl said “dark use” of the technology in the UK will grow unless legislation is implemented.
+The Oxford academic—who specialises in law and AI ethics—said AI could be used by employers to not only hire and fire staff, but “predict” when workers will exercise certain rights, or even life choices.
+Citing examples from the United States, Mr. Adams-Prassl said some employers had used predictive analytics to determine how likely an employee is to join a trade union.
+He also laid out concerns that companies could also use the technology to discriminate during interview stages, such as determining when a woman is most likely to have children.
+Mr. Adams-Prassl, who has worked on a draft legislation proposal, said outright bans are needed on some AI use by employers.
+He said: “Some things we might just need a clear ban, for example, predicting who might become pregnant, so you can sack them beforehand or predicting who might be a trade unionist, so you don’t hire them.
+“That is the use of analytics that should just be forbidden full stop without any further proportionality inquiry.”
+He described how those who were dismissed had been selected by an AI system used by the company.
+“The company’s defence was to say, but the local manager who ran this enormous warehouse, neither understood nor controlled the system that actually sacked the workers, there was an automated passivity system,” he said.
+“On the facts of that case, there was actually a pretty clever defence to run because he could show there was no animus as regards to trade unions.
+“But when you take a step back and think about this idea that both from a dignity perspective, if you’ve been working somewhere and you get sacked by an automated system, you then try to inquire what happened you get an automatedly created reply to that.”
+Mr. Adams-Prassl was giving evidence on Wednesday alongside other experts as the committee continues its inquiry into human rights at work.
+A worker’s right to personal privacy within the workplace is protected under Article 8 of the European Convention on Human Rights.
+However, it is also recognised that employers can legitimately establish mechanisms for checking that employees are performing their professional duties adequately.
+Workplace surveillance can include monitoring emails and browser history, CCTV, and devices to monitor the location or movement of employees.
+Mr. Adams-Prassl said the use of the systems has grown significantly since the COVID-19 pandemic.
+He said: “I think we shouldn’t underestimate the role of the COVID-19 pandemic in the massive explosion of surveillance techniques.
+“I mean, imagine if in February 2020, employers all over the country would have told people that we are to install video cameras in our bedrooms and kitchens, you would have had the biggest unionisation drive in history on your hands.
+“And yet, suddenly, two months later, the game changed completely.”
+The academic said that it was now “really, really important” not to take the pandemic times as “the baseline for going forward.”
+“I think we really need to think very hard about this idea that suddenly surveillance has become so omnipresent for potentially very good reasons but going forward, we must make sure that doesn’t become a baseline.”
+He highlighted “large-scale societal shifts,” risk of “misuse,” and “national security risks.”
+Mr. Sunak said the “existential risk” of AI must be taken seriously because “there’s just a lack of understanding at this point about what the potential of these models might be.”
+On the benefits of AI, the prime minister spoke of the possibility of tackling “incurable diseases like cancer and dementia or new ways to grow crops.”
+He also pointed to a recent paper estimating that it could boost GDP by 10 percent over the coming decade and drive up productivity.
+Mr. Sunak was asked whether his conference in the autumn would be open to all nations, similar to the International Atomic Energy Agency (IAEA), which includes China and Russia.
+He said it would be “bringing people together who are thinking about these things in a similar way to exchange ideas, share information, as AI doesn’t respect national borders.”
+The prime minister added: “We will all benefit from hearing and talking to each other in conversation with businesses themselves.
+“We’re a long way from anyone establishing an IAEA equivalent for AI, those things are long into the distance.
+“But in the first instance just talking through this with like-minded countries is a sensible thing.”

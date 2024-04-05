@@ -1,0 +1,12 @@
+The UK will host the first major global summit on AI safety this autumn, Prime Minister Rishi Sunak has announced, vowing to take a “coordinated approach” on emerging tech with U.S. President Joe Biden.
+The announcement came ahead of the meeting between the two leaders in Washington on Wednesday.
+The UK will be at the forefront of harnessing the benefits of AI safely and securely, said the prime minister.
+“Time and time again throughout history we have invented paradigm-shifting new technologies and we have harnessed them for the good of humanity. That is what we must do again. No one country can do this alone. This is going to take a global effort. But with our vast expertise and commitment to an open, democratic international system, the UK will stand together with our allies to lead the way,” Sunak said.
+The summit will be attended by key countries, leading tech companies and researchers, said the government. The attendees will consider risks posed by AI and discuss how they can be mitigated through a shared approach globally.
+Whitehall said that development of an international regulatory framework for AI is one of the key discussion points, to be stressed by Sunak in Washington.
+It comes after one of the prime minister’s tech advisers warned of the risks posed by AI to humanity, unless properly controlled and regulated. Chair of Foundation Model Taskforce Matt Clifford said that the focus should be on controlling AI models that can pose “very dangerous threats to humans.”
+Senior AI experts, including those at Google DeepMind and Anthropic, also issued a warning earlier this month, cautioning about “the risk of extinction from AI.”
+Google DeepMind and Anthropic bosses welcomed the government’s decision to hold an international AI summit.
+“The Global Summit on AI Safety will play a critical role in bringing together government, industry, academia and civil society, and we’re looking forward to working closely with the UK Government to help make these efforts a success,” CEO and co-founder of Google DeepMind Demis Hassabis said in a statement.
+Anthropic CEO Dario Amodei said there was much work to be done in order to make AI safe and commended Sunak on “bringing the world together to find answers.”
+The government deems the UK, which ranks third in AI research and development behind the United States and China, to be “well-placed” to lead discussions on the future of the technology.

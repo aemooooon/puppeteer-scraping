@@ -1,0 +1,15 @@
+The Commerce Department has proposed awarding up to $8.5 billion in grants and $11 billion in loans to tech giant Intel to expand its semiconductor production and output.
+The proposed funding, which stems from the CHIPS and Science Act of 2022, marks the government’s largest investment ever in U.S. semiconductor manufacturing, according to senior administration officials.
+In a statement, the Commerce Department said the agreement, which it referred to an a nonbinding preliminary memorandum of terms, will ensure that leading-edge logic chips, which are essential to the world’s most advanced technologies such as artificial intelligence (AI) and building critical military capabilities, will be developed and made in the United States.
+Specifically, the money will be used to build two new factories and modernize an existing fabrication plant in Arizona, “significantly increasing leading-edge logic capacity, including high volume domestic production of Intel 18A,” the Commerce Department said.
+It will also be used to fund Intel’s new regional chipmaking ecosystem in Ohio and to modernize two fabrication plants into advanced packaging facilities in New Mexico to “close an important gap in the domestic semiconductor supply chain,” the department said.
+In addition, the money will be invested in a research and development facility in Oregon.
+“This announcement is the culmination of years of work by President Biden and bipartisan efforts in Congress to ensure that the leading-edge chips we need to secure our economic and national security are made in the U.S.”
+The announcement comes as the U.S. share of leading-edge chip production is now at zero, having declined to 12 percent in 2020 from 37 percent in 1990, according to the Semiconductor Industry Association.
+Still, Ms. Raimondo said the share may rise to 20 percent by 2030 thanks, in part, to the government’s subsidy program, as Washington aims to reduce reliance on China and Taiwan, both of which have spent billions in semiconductor research and development investments.
+“Today is a defining moment for the U.S. and Intel as we work to power the next great chapter of American semiconductor manufacturing innovation,” Intel CEO Pat Gelsinger said.
+“AI is supercharging the digital revolution, and everything digital needs semiconductors. CHIPS Act support will help to ensure that Intel and the U.S. stay at the forefront of the AI era as we build a resilient and sustainable semiconductor supply chain to power our nation’s future.”
+Those grants will help Microchip Technology expand the production of microcontroller units and semiconductors that are extremely important to the aerospace, automobile, defense, and other industries.
+Prior to that announcement, the government awarded $35 million to BAE Systems Electronic Systems, a business unit of BAE Systems, Inc., in December 2023.
+That multimillion-dollar funding will support the modernization of BAE Systems’ Microelectronics Center, a mature-node production facility in Nashua, New Hampshire, officials said.
+Similar awards for South Korea’s Samsung and Taiwan’s TSMC are widely expected to be announced in the coming weeks.

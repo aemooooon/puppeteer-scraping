@@ -1,0 +1,79 @@
+Will AI kill art? Not likely, says the artist Alexander Reben, who has been working with AI for years. In fact, we may be entering an exciting new period that changes how we think about creativity itself.
+In 2020, I was in a creative funk. The Covid-19 pandemic was transforming relationships, gatherings, and ways of working. Like many, I struggled to feel inspired when we were all physically isolated from one another. However, amid all the chaos and uncertainty I found an unexpected collaborator: an AI.
+ 
+At the time, I had access to a machine learning algorithm called GPT-3, which is capable of writing passages of original text. For instance, if you type in something like "The following is a description of a fish:", you might get back:
+ 
+A fish is a small, silver-coloured creature with a long, slender body. Its fins are delicate and transparent, and its tail is forked. Its eyes are large and black, and its mouth is small.
+ 
+It's not pulled from the internet – the AI writes itself. However, GPT-3 can do far more than a few sentences: with the right prompts, it can produce essays, fiction, and even articles like this one. Its writing often passes for human. I played with all manner of output: dad jokes, poems, sci-fi stories and more.
+After a couple of weeks of experimentation, I realised the AI had the potential to describe imaginary artworks. To my delight, I discovered I could prompt it to write the kind of text you see on a wall label next to a painting in an art gallery. This would prove to be the start of a fascinating collaborative journey with GPT-3 and a suite of other AI art tools, leading to work that has ranged from a physical sculpture of toilet plungers to full-size oil paintings on the wall of a Mayfair art gallery. 
+ 
+In recent months, AI-generated art has provoked much debate about whether it will be bad news for artists. There's little doubt that there will be disruptive changes ahead, and there are still important questions about bias, ethics, ownership and representation that need to be answered. However, this would not be the first time that new technologies have caused upheaval in the art world – it's been happening for centuries. And in my own experience, working with AI to make sculptures, paintings and more has transformed how I think about the creative process and the possibilities of human-machine collaboration. I believe we're now seeing the emergence of a whole new artform.
+ 
+You may also like: 
+ 
+To be clear, when I refer to AI, it's not an anthropomorphic or sentient system, but a machine learning algorithm – and there needs to be a human in the process. I quickly learnt this in my early experiments with GPT-3, when I asked it to create imaginary artworks. While it was fairly easy to get the system to create descriptions that all sounded good, getting it to create output that I considered interesting was another thing altogether. I spent about a month on "prompt engineering", a term which means writing effective input text for AI systems. 
+ 
+Once I found a sequence of initial words that would "tickle" the AI in the right way, I developed a workflow with GPT-3 and other algorithms that could produce a description of an artwork and the imagined human name of its creator, along with their birthdate and other details (which are sometimes gleaned by asking GPT-3 questions). I then sifted through hundreds to thousands of outputs to find ones that I like. Those were then fed back into the system to create more text. I then corrected for punctuation, spacing and other technical tweaks to the text (nothing that changes its meaning). 
+ 
+I knew I had hit upon the right recipe when I got the following output (which made me laugh a little too hard alone in my studio in lockdown):
+ 
+The sculpture contains a plunger, a toilet plunger, a plunger, a plunger, a plunger, and a plunger, each of which has been modified. The first plunger is simply a normal plunger, but the rest represent a series of plungers with more and more of the handle removed until just the rubber cup is left. The title of the artwork is "A Short History of Plungers and Other Things That Go Plunge in the Night" by the artists known as "The Plungers" (whose identity remains unknown).
+"The Plungers", were a collective of anonymous artists, founded in 1972. They were dedicated to the "conceptualization and promotion of a new art form called Plungism." Plungism was a creative interpretation of the idea of Plungerism, which was defined by The Plungers as "a state of mind wherein the mind of an artist is in a state of flux and able to be influenced by all things, even plungers." The Plungers' works were displayed in New York galleries and included such titles as "Plunger's Progress," "The Plungers,"  "The Plungers Strike Back," and "Big Plunger 4: The Final Plunger," all of which featured plungers, and "Plungers on Parade," which showed images of plungers in public spaces. The Plungers disappeared and left no trace of their identity.
+This led me to wonder: what if I took these generative descriptions and made them in real life? As the AI can't make physical objects, it would be up to my human faculties to do so. Moving the work from the digital to the physical realm, I concluded, would add weight and presence to them, which is sometimes lacking on a screen. A kind of symbiosis formed, with the AI producing output that it then "needed" my imagination, fabrication ability, aesthetic judgment, and intuition to visualise and complete.
+ 
+Here's the physical manifestation of the plunger artwork, which I created as part of a series the AI has titled "AI Am I?":
+One could easily see this absurd sculpture comfortably parked next to Duchamp's urinal in a high-concept museum. Of course, "The Plungers" collective never existed, but this narrative creates a compelling story in this work of fictional realism. As with many contemporary artworks, the text is as important as the artwork itself, so I consider the final work diptychs, the artwork, and the wall label together.
+ 
+Other examples included the following sculptures, which the AI described in the captions above each image:
+ 
+ 
+The AI's description:
+This sculpture consists of a flip clock which is scrambled like a bad dream. It sits upon an empty can of stew that the artist ate because it was time for dinner, and she was hungry... (Read the full text).
+ 
+ 
+The AI's description:
+This sculpture is like a child's building toy made giant…The title of the work "Permanent Temporary" is derived from a remark by the artist's father, who, after observing the sculpture, said, "Well, it's permanent in the sense that it won't blow away, but it's temporary because you can put it together and take it apart." (Read the full text).
+The AI's description:
+This sculpture consists of toothpicks stuck in a canvas. The toothpicks are dipped in beeswax, giving them a golden color. The artwork is a commentary on the plight of bees… (Read the full text).
+The AI's description:
+This sculptural work is made from shingles, grab bars, a porch light, and police issue handcuffs…The work is an exploration of the idea of home. It examines the boundaries and limitations of the domestic sphere, and the ways in which it can be a form of constriction…(Read the full text).
+One of the unexpected offshoots of working with GPT-3 was that it encouraged me to experiment with artistic mediums and techniques that I may have never tried on my own. It also prompted me to work with other artists to produce art in mediums in which I had no expertise or skillset.
+For example, graffiti has an aesthetic vocabulary and terminology that I am not an expert in. However, when I gave an AI description of a graffiti work to my friend who has been a graffiti artist for decades, he was able to render the artwork in a way that neither the AI nor I could. This added yet another human into the human-machine loop.
+The AI's description:
+The Sofa King's signature, a large "Cool S" followed by a K and a backwards "7" with a tail, is the most easily identifiable among his work… (Read the full text).
+Of course, the opposite might be true and you need the boundless imagination of a child, so I also enlisted the help of a five-year-old to render this artwork:
+ 
+The AI's description:
+This artwork was created by a 5 year old child. The image depicts a house, or maybe a boat, or maybe a house on a boat… (Read the full text).
+My experiments with AI didn't end there. In the last year, there's been an explosion in "generative" AI art. For some of these tools, such as Dall-E 2, Midjourney, and Stable Diffusion, you can simply write a prompt – a description of an image –  and the AI will draw it for you. For others, like Artbreeder Collage and Make-A-Scene, you make a rudimentary sketch or initial collage alongside the prompt, and it fleshes out the detail. Each platform varies in both its aesthetic output and its features.
+ 
+Below is an example of text-based artwork I made for Gen.art (which echoes our five year old nicely). I created it with the prompt "Cotton Candy Dream Boat":
+And this one is a floating hot dog I made with Make-A-Scene:
+After playing around with these tools for a while, I realised it was another opportunity to bring humans into the process. In this case, painting reproducers, curators and collectors.
+ 
+I tried many different prompts until I found interesting outputs, and then chose some of them (out of many that didn't make the cut) to send to reproduction artisans to be made into real oil paintings. You can watch them being painted here, and here's one from my recent show, "I'm Not a Painter" at the Gazelli Art House in London:
+ 
+The AI's description:
+This painting is a depiction of a couple having an argument while attempting to assemble IKEA furniture in their home…The artist states "The painting is meant to be a metaphor for the way our lives are often controlled by consumer culture." (Read the full text).
+Here you can see how one of the oil paintings was presented in the gallery, next to a label about the work and the fictional artist, Estario Benngarten, who supposedly created it:
+The AI's description:
+This painting is of a little girl with a TV for a head, it is titled "You Are What You Watch" she has a pink dress and stands against a blurry white background. This painting is a commentary on the growing obsession with television and the way it has taken over our lives... (Read the full text).
+In addition to the paintings, I wallpapered the gallery with images for other potential paintings in sets of five. So, if a collector comes in and chooses one of those five outputs to turn into a final oil painting, they themselves become part of the artwork creation process through their curation of the work.
+For the past several months, I've also been producing AI sculptures, moving from 2D to 3D. As of this moment, these AI-imagined sculptures are being 3D-printed in plastic, cut from paper, molded in fiberglass, sculpted in ceramic, or cast in bronze, bringing the digital to a near-immortal and ancient material and process.
+Of course, with the proliferation of these technologies, there have been detractors of this new art form. For example, Charles Baudelaire writes: "This industry, by invading the territories of art, has become art's most mortal enemy."
+ 
+Actually, that was written in 1859, and Baudelaire was talking about a newfangled invention, the camera. Time would prove him wrong: photography became art, and other forms of media continued just fine.
+ 
+AI art is still in the "ooo-shiny" phase where its inherent newness is interesting enough to hold attention, just as I would imagine the 1896 film "Arrival of a Train at La Ciotat" was at the dawn of filmmaking. It will be those using these tools in a conceptually rigorous way that push it from being a novelty into fine art.
+ 
+I see my own work as a playful investigation into a human-machine symbiosis and a glimpse into the possible futures of artmaking. My hope is that these artworks act as a conduit to encourage people to think about what our symbiotic future with intelligent machines might look like. I've been interested in human-machine symbiosis for over a decade, and I see the machine learning tools of the last few years as a huge leap forward in what it means to collaborate with AI.
+ 
+As technology becomes more of an extension and amplification of our minds – just as a wrench is an extension of our hands and amplifies our physical ability – AI becomes more of a collaborator rather than a calculator. Unlike creative tools of the past, such as Photoshop, photographs or pigments, we are now working with tools that seem to have generative imagination, but perhaps no "taste". The human in the loop adds an important curatorial role in determining the "good" versus "bad".
+ 
+I believe we are on the cusp of a new artistic movement, and I view these tools as the beginning of the next great period of creative expression. As the surface-level novelty wears off, works of fine art will emerge. Just as we have entire museums dedicated to photography, I'd be on the lookout for the same for AI.
+ 
+*Alexander Reben is an artist and MIT-trained roboticist whose work probes the inherently human nature of the artificial. He investigates our relationships with algorithms, automation and amplification using experimentation and prototyping, absurdity and humor, and mischief and play to engage the public with complex ideas in technology in an approachable way. His work is currently exhibited at the Bitforms gallery in San Francisco, and will appear at Marina Bay Sands in Singapore in January.
+ 
+--
+Join one million Future fans by liking us on Facebook, or follow us on Twitter or Instagram.

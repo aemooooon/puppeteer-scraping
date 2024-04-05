@@ -1,0 +1,20 @@
+Proponents of precision agriculture hope to dodge the often scary and complex debates about the potential merits and menaces of artificial intelligence (AI) by making that evolving science a meat-and-potatoes issue.
+Members of Congress appear to be among those supporters with the House in April overwhelmingly adopting its second precision agriculture measure in five years.
+In short, precision agriculture uses global positioning system (GPS) satellites to measure soil moisture levels, pinpoint ambient nutrients, identify anomalies, and provide response options using AI to challenges that affect crop and livestock production.
+“Satellite broadband, for instance,” he continued, offers “livestock sensors, soil monitors, and autonomous farming equipment in rural America, far beyond where terrestrial wireless and wireline can reach or make economic sense to deploy.”
+The bill, HR 1339—co-sponsored by Reps. Bob Latta (R-Ohio) and Robin Kelly (D-Ill.)—was adopted by the House in a 409–11 vote on April 26. It awaits its first hearing before the Senate Commerce, Science, and Transportation Committee.
+While the bill doesn’t have a Senate companion, there is a proposed measure circulating about the chamber, co-sponsored by Sens. Raphael Warnock (D-Ga.) and John Thune (R-S.D.), that would establish regulatory standards for precision agriculture.
+The bill would require the Federal Communications Commission (FCC) to review its satellite rules and regulations to determine how they can best accommodate the use of AI and machine learning by farmers and ranchers.
+The FCC would have 15 months to present a plan to Congress with “ways to improve satellite technology and enable greater access for farmers.”
+Latta, who chairs the Communications and Technology Subcommittee, also was among the sponsors of the first precision agriculture bill in 2018.
+That seminal measure was incorporated into the Farm Bill.
+If approved by the Senate, the Precision Agriculture Satellite Connectivity Act will also be folded into the 2023 five-year update of the Farm Bill.
+“With the House advancing my bipartisan bill, farmers in Ohio and across America are one step closer to incorporating new technology that not only benefits their operation, but also bolsters the food supply chain that so many Americans rely upon to feed their families,” Latta said in a statement after the measure passed the House.
+He said Earth imaging satellites connected to computers, phones, and drones can provide farmers and ranchers with high-resolution imagery that allows them “to determine when to plant, water, or fertilize crops and can be used to provide crop yield estimates and monitor global food security.
+Satellite advances in weather forecasting help farmers prepare for drought, floods, and other adverse weather conditions.”
+They can get this data from satellites’ “near-daily coverage” to better conduct crop yield analyses and improve land use practices, she said.
+The most sophisticated precision farming frameworks allow farmers to address issues, sometimes automatically, as they arise through AI and machine learning.
+Examples include how sensors monitoring soil conditions can determine whether water levels are low in an area and turn on sprinkler systems.
+Precision agriculture is being promoted by the satellite industry as just one of that technology’s benefits, but it’s also spurring investment.
+According to the AgFunder 2023 Global Agrifoodtech Global Investment Report, satellite and other sensing technologies ideal for precision agriculture received $1.7 billion in private funding in 2022.
+Precision agriculture could be a boon to remote farms and ranches, Peter Davidson, Intelsat’s vice president of global government affairs and policy, told lawmakers.

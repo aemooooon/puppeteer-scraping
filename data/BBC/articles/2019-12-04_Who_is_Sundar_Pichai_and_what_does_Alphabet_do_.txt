@@ -1,0 +1,40 @@
+Sundar Pichai, the chief executive of Google, has been put in charge of its parent company Alphabet, after co-founders Larry Page and Sergey Brin announced they were stepping down.
+The 47-year-old said the pair had set up a "strong foundation" on which he would "continue to build".
+Pichai's life story is remarkable, and his rise to the top of Google is an endorsement of India's standing in the global technology industry - and equally, a reassuring reminder of the so-called "American Dream".
+Pichai was born and schooled in Chennai, India. He captained his school's cricket team, leading it to win regional competitions.
+He studied Metallurgical Engineering at the Indian Institute of Technology in Kharagpur (IIT Kharagpur). According to one of his tutors, quoted in the Times of India, Pichai was the "brightest of his batch".
+He has evidently used his talent to great effect at Google, which he joined in 2004. Products under his watch include Google's web browser, Chrome, as well as the Android mobile operating system.
+Android is by far the world's most popular mobile operating system (OS) - a fact made perhaps more startling by the fact that Pichai's family did not possess a telephone until he was 12 years old.
+According to a profile in Bloomberg magazine, Pichai's upbringing was humble. His family lived in a two-room apartment. Pichai didn't have a room - he slept on the living room floor, as did his younger brother.
+The family did not own a television, or a car.
+But Pichai's father planted the seeds of technology into his boy's mind, partly thanks to his job at British conglomerate General Electric Company (not to be confused with the American General Electric).
+"I used to come home and talk to him a lot about my work day and the challenges I faced," Regunatha Pichai told Bloomberg, adding that Sundar had a remarkable talent for remembering telephone numbers.
+After graduating from IIT Kharagpur, Pichai was offered a scholarship at the ultimate breeding ground of tech geniuses - Stanford. The plane ticket to America cost more than his father's annual salary.
+At Google, Pichai is described as soft-spoken, and well liked. He is also very popular among developers - he runs Google's annual developer event, I/O.
+Until now, his remit was best summed up as Google's core products - the bits that make the real money. They include things like search, advertising and maps.
+Alphabet Inc was created in 2015, after Google reorganised its businesses to make its activities "cleaner and more accountable".
+Google itself became a subsidiary of Alphabet, with the division looking after products such as Search, Maps, YouTube, Chrome and the Android mobile phone platform.
+Some other businesses which were previously owned by Google were moved to become subsidiaries of Alphabet.
+Waymo started in 2009 as a Google project to build a self-driving car. It is now run as a separate company under Alphabet.
+It launched its first commercial service in December 2018, offering autonomous robo-taxi rides to people in Phoenix, Arizona.
+The company says it has more than 1,000 riders using the service, and its autonomous cars have driven more than 10 million miles on public roads.
+Google launched its health-focused research and development company in 2013, with Larry Page announcing in a blog post that its work would be based around the research areas of "health and well-being, in particular the challenge of ageing and associated diseases".
+"We are scientists from the fields of medicine, drug development, molecular biology, and genetics," says the firm on its website.
+"We're tackling ageing, one of life's greatest mysteries."
+Sidewalk Labs is focused on smart cities, and explores how data-gathering sensors can be used to manage crowds and traffic.
+In October, it was given the green light to create a "smart city" in a disused area of Toronto, Canada. But the development will be much smaller than it had wanted.
+Sidewalk Labs had wanted to develop a 190-acre (0.7-sq-km) site but was given permission for just 12 acres.
+And any data the company collects from its sensors must be treated as a public asset.
+Acquired by Google in 2014, DeepMind is a UK-based company researching artificial intelligence and machine learning.
+Its AlphaGo software has beaten world champions at the ancient game of Go.
+It led one Go master to retire from the game, because he felt the AI could not be beaten.
+And in October, it said its AlphaStar program had reached the top league of one of the most popular esport video games, Starcraft 2.
+It hopes AlphaStar and other projects will help it develop other AI tools that should ultimately benefit humanity.
+Wing is Alphabet's drone delivery service. 
+It launched its first commercial service in April, delivering takeaway food, coffee and medicines by drone to about 100 homes in Canberra, Australia.
+It has been testing its drones in Australia since 2014, but many residents have complained about the noise.
+Wing said the feedback obtained during its trials had been "valuable" and it hoped to "continue the dialogue".        
+Created by Google's research lab X in 2011, Loon became a subsidiary of Alphabet in 2018.
+It aims to bring internet access to areas with poor connectivity, by floating solar-powered hotspots over regions where building phone masts would be too expensive.
+The company has previously let mobile operators in Peru and Puerto Rico use its balloons free of charge, when phone masts have been damaged by natural disasters.
+Each of the giant helium balloons is the size of a tennis court, but they have a lifespan of just five months, as the plastic degrades.

@@ -1,0 +1,26 @@
+Researchers at Glasgow University have built a robot which uses artificial intelligence (AI) to discover new molecules.
+The machine is learning to create chemical reactions that could lead to new medicines and materials.
+It works initially with a human chemist to find promising new types of molecules.
+Then artificial intelligence takes over and the robot sets off to invent on its own.
+"It's a bit like a robotic bartender that mixes cocktails," says Glasgow's Regius Professor of Chemistry Lee Cronin.
+"In our lab, the robot mixes together the chemicals in just the right way - shaken, not stirred - and explores what happens." 
+Another analogy Prof Cronin offers is that the robot is like Christopher Columbus. At first, all Columbus could see was the sea. But when he saw land, he sailed towards it. The robot chemist sets course towards promising molecules. 
+But how do you train an artificially-intelligent robot? 
+That's the good part, he says.
+"As with all things, the human being is the expert.  
+"What we wanted to do was capture the expertise of the human being.  
+"So every time the robot and the human worked together, and the human made a discovery and tagged it as a discovery, the robot was shadowing the human.  
+"When the robot had been trained for about 10% of all the tasks, it then was able to predict, without the human being, which experiments it should do next."  
+Writing in the journal Nature, Prof Cronin's team say the robot has already synthesised more than 1,000 new chemicals and reactions, including one with a distinctive 3D structure that is among the top 1% most "peculiar" molecules yet known.  
+The team says the robot's predictions have so far proved 80% accurate. It'll learn to do better.  
+Prof Cronin adds: "Let's say we want a blue fluorescent dye. What we can do is train the robot, a bit like the way you'd train a sniffer dog to sniff out a particular scent.  
+"And then the robot would go and search within the palette of chemicals it has available to go and make that blue fluorescent dye."
+Or new medicines, new plastics, new types of materials for use in applications like sensors. The robot can learn, but only humans can imagine the possible uses.  
+"Chemists like to make molecules that are different because they give us the chance to find new drugs," Prof Cronin says.  
+"Most existing molecules are very similar and have been 'searched to death', if you know what I mean."
+The research is funded by Glasgow University's complex chemistry initiative, the European Research Council and the Engineering and Physical Sciences Research Council. 
+Prof Cronin is also the founding scientific director of the DeepMatter Group which is listed on London's Alternative Investment Market. It is working on what he calls the digitisation of chemical space.  
+"There are more molecules possible to be made than there are atoms in the Universe," he says.  
+"There are so many molecules we need to search for and make, there's no way we could even scratch the surface without some help."
+It offers the prospect of research that is cheaper, safer and less wasteful, but Prof Cronin says there is little danger this "robochemist" will make its human trainers redundant.
+He says: "Chemists, most of the time in the laboratory, are doing manual labour."  

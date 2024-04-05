@@ -1,0 +1,19 @@
+While the headlines often emphasize the danger of rapid innovations in artificial intelligence (AI), one economist told Congress on Dec. 6 that the risks from AI to government are outweighed by the risks of not implementing it fast enough.
+“Managing the AI transition will require the government to not only adopt AI aggressively but may even force Congress to rethink the configuration of our administrative and regulatory agencies from the ground up,” said Samuel Hammond, a senior economist with the Foundation for American Innovation, formerly the Lincoln Network.
+“Incremental reform is unlikely to suffice,” he continued, warning that business as usual could “risk government becoming the primary bottleneck to technological progress.”
+Mr. Hammond was speaking at a House Oversight hearing focused on the White House’s AI policy.
+Two days later, the Office of Management and Budget, the White House’s linchpin for translating its policies into actions by federal agencies, issued a draft guidance on the order that was open to public comment until Dec. 5.
+While he praised elements of President Biden’s EO, Mr. Hammond said he was concerned that it “does not go far enough” in facilitating government applications of AI, arguing that the order is constrained by “an excess focus on hypothetical harms and an even deeper failure of imagination.”
+He drew attention to Google’s DeepMind, which was recently leveraged to identify 2.2 million new crystal structures.
+Mr. Hammond questioned whether regulators are prepared for a coming flood of discoveries made possible by AI.
+“Is the FDA [Food and Drug Administration] prepared to handle an order of magnitude increase in drug discovery?” he asked.
+The economist suggested that at least some tasks performed by the government could be automated, though he shied away from suggesting bureaucrats’ jobs should be eliminated.
+“Much of the work performed in government bureaucracies is especially low-hanging fruit for AI,” he said in written testimony, arguing that such tools could “augment employee productivity and free up human resources for higher value uses, reducing waste and enhancing capacity simultaneously.”
+Rep. Nancy Mace (R-S.C.), who chairs the cybersecurity subcommittee that held the hearing, noted that the EO invoked the Defense Production Act, a law first passed during the Truman administration to mobilize industries during the Korean War.
+She said the greatest AI-related threat for the United States was the possibility of allowing China to surpass it.
+“All other risks seem tame by comparison,” she said.
+Ms. Mace asked Mr. Hammond if national security could be jeopardized by the government’s sluggishness on AI.
+“I think it’s both a national security issue and a sort of good government issue,” he said.
+The economist pointed out one among many troubling precedents in the government’s responsiveness to new technology: the Internal Revenue Service’s (IRS) Individual Master File, the system it uses to handle Individual Income Tax forms, was coded during the Kennedy administration in a now-ancient programming language.
+More conventionally conservative foundations, including the Searle Freedom Trust, have also donated to that organization.
+Rep. Gerry Connolly (D-Va.), the minority leader of the cybersecurity subcommittee, noted that AI has made its way to Capitol Hill.

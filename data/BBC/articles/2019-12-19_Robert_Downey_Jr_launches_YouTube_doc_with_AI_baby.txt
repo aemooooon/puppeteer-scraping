@@ -1,0 +1,27 @@
+YouTube has premiered a Robert Downey Jr-fronted series that seeks to demystify artificial intelligence.
+The documentary - produced by the actor in partnership with his wife Susan - is one of the platform's highest profile and biggest-budgeted factual commissions to date.
+The Avengers star is expected to give the Age of AI mass appeal.
+One AI expert said there was "lots of eye candy for viewers with short attention spans".
+Calum Chace, author of four books on the subject, added that artificial intelligence is a "large, complex, and important" subject.
+And he noted that YouTube - whose parent company Google is a huge investor and user of related technologies - had engaged with some of its controversies.
+"The message of the [first] episode is clear: machine learning can make us more human, not less, but we will have to think carefully about where we want to draw the line," he remarked.
+YouTube originally put most of its original content behind a paywall, but changed its strategy earlier this year. 
+As a result, viewers can watch the series for free but will have to wait for each episode to be released in turn unless they pay a "premium" subscription fee, in which case the first four shows are unlocked .
+The first episode of the Age of AI centres on a digitally-created, AI-powered baby.
+The Baby X project, led by special-effects artist Mark Sagar, aims to teach a digital infant via a virtual brain powered by neural networks.
+The second episode focuses on AI and healthcare, a controversial area Google is heavily invested in.
+It shows how a speech assistance tool - WaveNet developed by the tech giant's DeepMind division - is helping a former National Football League (NFL) athlete speak again with computer-generated voice that sounds like he used to.
+Tim Shaw has trouble speaking as a result of motor neuron disease. He provided voice samples from prior to his diagnosis that DeepMind attempts to recreate. His family hear his new synthesised voice for the first time in the episode.
+Prof Noel Sharkey is known to UK audiences for his work on the BBC's Robot Wars and Techno Games TV series, and is also a leading critic of big tech's involvement in the field.
+He praised the new series' "high quality production" values, but voiced concern about the way it covered a digital avatar created for the musician Will.i.am in the first episode.
+"While it was very impressive, it failed to adequately address the downsides of the potential deceit of projecting a false image of particular people," he commented.
+"Given that Google [funded] this production, it is vitally important to ensure public understanding of such tech rather than paint it in such glowing colours."
+Choosing Robert Downey Jr to host this series was an inspired choice - who wouldn't want to hear Iron Man talking about the future? But he doesn't feature much - acting more  as a voice-over with just a cameo performance at the start, explaining some of the more complex terms associated with AI.
+The first episode really attempts to answer one of the central questions about the tech - whether AI can ever achieve human-level intelligence and whether it should.
+And it does so by humanising it, first via a cute-looking baby, modelled on Mr Sagar's own daughter, and then via work at Georgia Tech to provide intelligence, AI-powered robotic arms for amputees. The message is very much that technology has the power to enhance humans not overtake them.
+Baby-themed AI is a great way to start this series - not only because the tech itself is in its infancy but because it illustrates how much work is involved in teaching an AI program, from understanding how to identify objects to developing human-like emotional responses.
+Baby X quickly becomes more creepy as the layers of virtual muscles and a virtual brain powered by neural networks are unveiled on the screen. But as she accurately identifies a toy spider but goes on to misidentify a rubber duck, you realise that she really doesn't have the intelligence of a real toddler. 
+And this seems to be another central message of the doc - AI is good, it has huge potential but it also has a long way to go.
+It is in Google's interest - with its huge AI investments in self-driving cars, healthcare and voice and image recognition - to remove the fear factor from the technology it is betting a lot of its future on.
+But the fact that the second episode features tech the firm itself has develops suggests it may be using the doc as something of a marketing tool.
+So far the series is engaging and neither over-simplifies nor over-complicates. It is also clearly determined not to over-hype AI, something much needed in a sea of "we are all doomed" headlines. 

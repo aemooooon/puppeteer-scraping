@@ -1,0 +1,18 @@
+Europol, the European Union’s law enforcement agency, warned on Monday of the severe implications of artificial intelligence (AI) content generator ChatGPT being used for cybercrime and other malicious activities.
+Europol said the Microsoft-backed AI software could be used for cybercrime, including detailed impersonation attacks or phishing and spreading disinformation.
+The software can be asked to produce text on many possible topics and makes it by tapping into a vast array of knowledge on which it was “trained” during its development. The result can be an authentic-looking article using detailed knowledge previously held only by experts in the field.
+AI software can also write essays, poems, or computer code when tasked to do so, and it has been called the most significant advancement in tech since the arrival of the iPhone over 15 years ago.
+The warning comes when multiple legal and ethical concerns have been raised over the use of AI software.
+“As the capabilities of LLMs (large language models) such as ChatGPT are actively being improved, the potential exploitation of these types of AI systems by criminals provide a grim outlook,” Europol said as it presented its first tech report starting with the chatbot.
+It singled out the harmful use of ChatGPT in three areas of crime.
+“ChatGPT’s ability to draft highly realistic text makes it a useful tool for phishing purposes,” Europol said.
+With its ability to reproduce language patterns that impersonate the style of speech of specific individuals or groups, the EU agency said the chatbot could be used by criminals to target victims.
+It can also be used as an ideal tool for producing disinformation.
+“It allows users to generate and spread messages reflecting a specific narrative with relatively little effort.”
+Criminals with little technical knowledge could turn to ChatGPT to produce malicious code as well, Europol said.
+Meanwhile, Google launched its ChatGPT rival, “Bard,” for testing in the United Kingdom and the United States.
+Google announced the development of Bard last month, just two weeks after Microsoft announced a new multibillion-dollar investment into OpenAI, the maker of ChatGPT and other artificial intelligence tools.
+Microsoft has been investing billions into OpenAI since 2019.
+Twitter owner Elon Musk has branded artificial intelligence as one of the “biggest risks” facing human civilization.
+“I think we need to regulate AI safety, quite frankly. Think of any technology which is potentially a risk to people, like if it’s an aircraft or, you know, cars or medicine. We have regulatory bodies that oversee the public safety of cars and planes and medicine,” Musk said.
+“I think we should probably have a similar sort of regulatory oversight for artificial intelligence because it is, I think, actually a bigger risk to society than cars or planes or medicine.”

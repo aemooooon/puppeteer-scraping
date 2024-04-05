@@ -1,0 +1,8 @@
+Microsoft is investing billions in OpenAI, the creator of the artificial intelligence system ChatGPT, the tech giant has confirmed.
+Microsoft previously made investments in OpenAI in 2019 and 2021, the company said.
+According to the tech giant —which stopped short of revealing the exact amount it was investing in the AI research and deployment company—the funding will go toward the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.”
+The company will also deploy OpenAI’s models across its consumer and enterprise products and “introduce new categories of digital experiences” built on OpenAI’s technology.
+Microsoft is the exclusive provider of cloud computing services to OpenAI through its Azure platform.
+OpenAI acknowledges that ChatGPT is not always correct.
+“We adapted to calculators and changed what we tested for in math class, I imagine. This is a more extreme version of that, no doubt, but also the benefits of it are more extreme, as well,” Altman said.
+The CEO also pledged to develop techniques to help prevent plagiarism, but warned that such techniques cannot completely ensure that it won’t happen.

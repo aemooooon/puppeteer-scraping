@@ -1,0 +1,14 @@
+A newly established task force will set out to identify the riskiest uses of artificial intelligence, such as social scoring and biometric identification.
+Industry and Science Minister Ed Husic on Feb. 14 announced the appointments for the Artificial Intelligence Expert Group, saying that mandatory restrictions and voluntary rules should be used to make sure that AI is used appropriately and without harmful consequences in Australia.
+“We want to get the balance right and also allow low-risk AI to flourish unimpeded,” he said.
+He noted that in the EU, there has been examples of AI being used that had “unacceptable” risk, such as social scoring of people based on socio-economic status.
+“There’s been biometric identification and categorisation of people that’s also been identified in a risk category, along with a cognitive behavioural manipulation like voice-activated toys that encourage dangerous behaviour in children,” he said.
+The taskforce includes CSIRO chief scientist Bronwyn Fox, senior counsel Angus Lang, Aurelie Jacquet who chairs Australia’s national AI standards committee, Indigenous intellectual property expert Terrie Janke, and UNSW Professor Toby Walsh.
+They will develop restrictions for the deployment of AI and identify high-risk uses of AI technology in Australia. It will also create a framework for labelling when AI has been used, including watermarking images, and investigate ways to increase the transparency of AI models and the data sources they use.
+However, the group will be temporary, with appointees remaining in the roles until the end of June while the government considers long-term plans.
+The University of Adelaide’s Australian Institute of Machine Learning Director Professor Simon Lucey, who is a member of the group, said Australia needed to find its own path instead of following other countries’ examples.
+He noted that Europe had taken a “very legislative approach” to AI.
+“What’s really important is that we want to make sure that our population is protected as much as possible, so the right laws have to be in place, but we also have to invest in our AI capability so that economic benefits come through,” he said.
+At major technology conference, Microsoft Australia managing director Steven Worrall said organisations could unlock large benefits by using AI, and that failing to identify opportunities could put the country’s global standing at risk.
+“Here in Australia, productivity is a national agenda item, perhaps the most important one for us to confront and deal with in the years to come,” he said.
+“While technology is not the only lever, we know it will be one of the primary levers that we have as a community and as an economy.”

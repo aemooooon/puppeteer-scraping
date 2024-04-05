@@ -1,0 +1,15 @@
+Elon Musk said on Monday that the first human patient in his Neuralink startup’s clinical trial is recovering well after having a chip implanted in their brain on Sunday.
+“Initial results show promising neuron spike detection,” Mr. Musk added in a post on X (formerly Twitter), referring to the activity of neurons that send signals throughout the brain and body.
+The San Francisco-based neurotechnology company conducted its first human clinical study using its Precise Robotically Implanted Brain-Computer Interface (PRIME).
+The study uses a robot to surgically implant a wireless brain-computer interface (BCI) in the brain region controlling movement intention.
+Neuralink said it aims to create the world’s first neural implant that will allow users to control a computer or mobile device anywhere they go using their thoughts.
+Mr. Musk has expressed his desire for his company to assist individuals suffering from severe spinal cord injuries and amyotrophic lateral sclerosis. He believes that brain implants could potentially treat other conditions, such as obesity, autism, depression, and schizophrenia.
+He is also optimistic about the technology’s potential to enable telepathy and web browsing.
+After receiving clearance from the U.S. Food and Drug Administration (FDA) for its first human trials, the company began recruiting quadriplegic patients for the clinical trial last September.
+The device is essentially invisible after implantation and wirelessly transmits brain signals to an app that decodes movement intentions, the company explained.
+The PRIME clinical trial, which aims to test the implant, is expected to take around six years to complete. Its main objective is to evaluate the safety and initial effectiveness of the implant, enabling participants to control a computer cursor or keyboard using only their thoughts.
+Neuralink has been conducting human studies with brain implants under an investigational device exemption (IDE) since receiving FDA approval last May. Before this, the company had tested brain implants on animals in 2019.
+Earlier this month, the company was fined for violating U.S. Department of Transportation (DOT) rules related to the transportation of hazardous materials.
+DOT investigators found that the company failed to register as a transporter of hazardous materials. Improper packaging of hazardous waste, including Xylene, was also discovered during inspections of its facilities in Texas and California in February 2023.
+In February 2021, the department stated that Neuralink might have transported potentially dangerous pathogens while removing implants from the monkeys’ brains, without appropriate containment measures. This could have resulted in the chips carrying infectious diseases, in violation of federal law.
+Reuters has reported that Neuralink is under investigation by the Department of Agriculture’s Office of Inspector General for potential violations of the Animal Welfare Act.

@@ -1,0 +1,15 @@
+A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice.
+Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain, who died in 2018.
+Director Morgan Neville called it a modern storytelling technique.
+But some critics questioned whether it was ethical.
+Mr Neville said that the synthetic voice was created by feeding more than 10 hours of Mr Bourdain's voice into a machine-learning system.
+"There were a few sentences that [Bourdain] wrote that he never spoke aloud," he told Variety.
+So the computerised voice was used to bring his writing to life.
+He said the technique was used in the film with the support of Mr Bourdain's estate and literary agent.
+Mr Bourdain, who took his own life in 2018, was one of America's best-known celebrity chefs, presenting food and travel programmes and writing a number of best-selling books.
+In 2016, he shared a $6 (£4.30) meal with Barack Obama in a small Hanoi restaurant when the then-US president visited Vietnam.
+Writing about the artificial voice in the film, the New Yorker's Helen Rosner noted that the "seamlessness of the effect is eerie".
+Reviewer Sean Burns criticised the unannounced use of what he called a "deepfake" voice. 
+David Leslie, ethics lead at the Alan Turing Institute, said the issue showed the importance of informing audiences that AI was being used, to prevent people possibly feeling deceived or manipulated.
+But he said that although it was a complex issue, the use of AI technology in documentaries should not be ruled out.
+"In a world where the living could consent to using AI to reproduce their voices posthumously, and where people were made aware that such a technology was being used, up front and in advance, one could envision that this kind of application might serve useful documentary purposes," he said.

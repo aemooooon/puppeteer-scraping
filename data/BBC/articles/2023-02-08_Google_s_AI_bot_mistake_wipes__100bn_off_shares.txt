@@ -1,0 +1,13 @@
+Google is searching for ways to reassure people that it is still out in front in the race for the best artificial intelligence technology.
+And so far, the internet giant seems to be coming up with the wrong answer.
+An advert designed to show off its new AI bot, showed it answering a query incorrectly.
+Shares in parent company Alphabet sank more than 7% on Wednesday, knocking $100bn (£82bn) off the firm's market value. 
+In the promotion for the bot, known as Bard, which was released on Twitter on Monday, the bot was asked about what to tell a nine-year-old about discoveries from the James Webb Space Telescope.
+It offered the response that the telescope was the first to take pictures of a planet outside the earth's solar system, when in fact that milestone was claimed by the European Very Large Telescope in 2004 - a mistake quickly noted by astronomers on Twitter.
+"Why didn't you factcheck this example before sharing it?" Chris Harrison, a fellow at Newcastle University, replied to the tweet. 
+Investors were also underwhelmed by a presentation the company gave about its plans to deploy artificial intelligence in its products.
+Google has been under pressure since late last year, when Microsoft-backed OpenAI unveiled new ChatGPT software. It quickly became a viral hit for its facility in passing business school exams, composing song lyrics and answering other questions. 
+Microsoft this week said a new version of its Bing search engine, which has lagged Google for years, would use the ChatGPT technology in an even more advanced form. 
+Though investors have embraced the push for artificial intelligence, sceptics have warned rushing out the technology raises risks of errors or otherwise skewed results, as well as issues of plagiarism.
+A Google spokesperson said the error highlighted "the importance of a rigorous testing process, something that we're kicking off this week with our Trusted Tester programme".
+"We'll combine external feedback with our own internal testing to make sure Bard's responses meet a high bar for quality, safety and roundedness in real-world information," they said.

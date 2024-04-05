@@ -1,0 +1,17 @@
+Russia likes to boast of its robots - but at the same time it seems to have a somewhat troubled relationship with them.
+It has endured a series of very public robotic mishaps, but all is not lost.
+Amid much fanfare and praise for the Roscosmos space agency, Russian robot Fedor was launched into space on board a Soyuz 14 spacecraft in August.
+Fedor made history as the first such robot ever to be sent into space by Russia, and within moments he was reporting on his progress and all was apparently going to plan.But then, mission control in Houston broke the news that Fedor's attempt to dock with the International Space Station (ISS) had to be aborted because of a technical problem.
+To be fair to Fedor, he was not to blame. Despite state media touting him as a major breakthrough, and other incorrect reports suggesting that he was piloting the spacecraft, he did little but talk.
+Fedor's designer, Yevgeny Dudorov, says the robot was not actually designed to work in space."The robot was originally created for working on Earth, and because it is not integrated into the spacecraft or the International Space Station at all, we introduced a number of restrictions. 
+"As far as artificial intelligence is concerned, only speech interaction is left. Cosmonauts can ask him questions and the robot will answer them. Questions like 'How are you?' 'How are you feeling?' 'What are you doing here?' 'Who are your creators?'" Mr Dudorov said.
+Before his spaceflight, Fedor had been busy impressing observers with his activities. State TV showed him driving a car, firing guns and doing push-ups - but sceptics were critical. Russian opposition leader Alexei Navalny was scathing in a post on Twitter. 
+"This Fedor the robot is what the Putin regime is all about. The PR idiots at Roscosmos came up with the idea, and engineers had to send a hundred kilos of useless steel junk into orbit," Navalny wrote. 
+Critics do have grounds for scepticism when another breakthrough is reported: Russian media have form when it comes to exaggerated claims.
+Last year, a robot called Boris made an appearance on national television. He announced that he was good at mathematics, but added that he would like to learn how to compose music. He also danced.
+The only problem was that Boris turned out to be a man in costume. 
+Before Boris, Russian TV also reported excitedly about another robot, a huge steel thing called Igoryok, but nobody's seen it move - or even do anything.
+Away from the dramatic headlines, though, it is a different story. Susanne Bieller, general secretary of the International Federation of Robotics, says Russia has a lot to be positive about, but it has to work on selling its technology.
+"If you look at the robot market, Russia is not yet a big player as a consumer of robots. It's only 27th on the global scale. They are a great player, but they are yet to make progress when it comes to commercialising their research," said Dr Bieller.
+It is a problem recognised by Alisa Koniukhovskaya, a Russian on the board of the International Federation of Robotics. She says robotics experts need to start showing Russians a less glamorous, but perhaps more practical, side of robots.
+"Sometimes people think about robots as of something they show in the movies, but we need to show people the real opportunities of using robots in life and in business projects. The crucial point now is to create demand inside Russia and also to create good conditions to go abroad and export robots," she said.

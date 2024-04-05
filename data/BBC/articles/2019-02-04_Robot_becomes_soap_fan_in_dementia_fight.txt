@@ -1,0 +1,10 @@
+A university is developing a robot to spot the signs of dementia with the help of TV soap opera Emmerdale.
+Researchers at Edge Hill University in Lancashire say Robbie the Robot has learnt to recognise symptoms of the condition by watching episodes of the ITV drama.
+The team believes robots could help diagnose dementia within 10 years.
+As part of the project, Robbie watched 13 episodes featuring a storyline involving character Ashley Thomas.
+The soap was chosen because its portrayal of the condition was praised by the Alzheimer's Society for its realism.
+Computer science lecturer Ardhendu Behera said the robot was able to use intelligent algorithms to determine behaviour and emotion from facial expressions and body language.
+The team's vision is to develop robots like Robbie to spot symptoms such as depression or aggressive behaviour, before offering calming "distraction" techniques, such as playing music.
+The machines could also monitor whether people had taken correct medication.
+Dr Behera said: "Currently the only way to monitor and manage dementia is by direct observation which is labour intensive, time consuming and can be costly from a care perspective."
+Researchers broke down scenes from Emmerdale into 65,082 images to help the robot recognise characters' mannerisms.

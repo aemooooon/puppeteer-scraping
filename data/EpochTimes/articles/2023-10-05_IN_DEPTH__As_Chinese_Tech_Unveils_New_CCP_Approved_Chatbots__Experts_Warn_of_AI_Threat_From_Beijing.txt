@@ -1,0 +1,23 @@
+As Chinese tech companies unveil their answers to ChatGPT, experts warn that China’s artificial intelligence landscape poses a host of threats.
+On Aug. 31, tech giant Baidu introduced Ernie, the Chinese counterpart to ChatGPT, while Alibaba announced its AI model, Tongyi Qianwen, on Sept. 13.
+Although Ernie was initially unveiled in March, the chatbot has now been approved and is available for download.
+“In addition to ERNIE Bot, Baidu is set to launch a suite of new AI-native apps that allow users to fully experience the four core abilities of generative AI: understanding, generation, reasoning, and memory,” Baidu said in a statement announcing Ernie’s release.
+As strategic competition heats up within the United States, Beijing has increased its support of Chinese companies working with AI. Alibaba’s cloud intelligence division said in a message on its WeChat account that several organizations, including OPPO, Taobao, DingTalk, and Zhejiang University, have reached cooperation agreements with Alibaba to train their own large language models (LLMs) on Tongyi Qianwen.
+China’s use of cutting-edge AI tools could potentially enhance national security risks for its adversaries, experts say.
+LLMs involve a deep learning algorithm that can perform a variety of language processing tasks, such as recognizing, translating, predicting, or generating text or other content.
+The Chinese are 15 years ahead of the rest of the world in using complicated AI LLMs, estimates Ashwin Kumaraswamy, a deep tech investor based in the UK. Mr. Kumaraswamy sits on the board of a number of tech companies.
+“Digitally, they are really strong and integrated,” the venture capitalist told The Epoch Times.
+“If one wants to evaluate how China is approaching the LLM boom, one must analyze the regulations put forward by the cyberspace administration, ” Mark Bryan Manantan, Director of Cybersecurity and Critical Technologies at the Honolulu-based Pacific Forum, told The Epoch Times in an email.
+“Although the buzz is very much about AI, the main concern for China is still information security that is rooted in core socialist values and in alignment with existing laws and policies on data security and personal information protection,” he said.
+Ms. Tahvili noted that the Chinese iteration of ChatGPT, like other AI models, is a “black box system.” That means “the inner workings or decision-making processes of the model are not easily interpretable or understandable by humans.”
+The black-box nature of generative AI typically makes it unpredictable, which may give the appearance of autonomous thought processes. Therefore, other nations may be naive about the ideological impetus behind China’s AI, she cautioned.
+However, media reports have said that it is mandatory for tech companies in China to report to the regime at every step and this makes Beijing’s strategic thrust involving its LLMs unmistakable, according to experts.
+The general public in China has pretty much given up on resisting the Chinese Communist Party’s (CCP’s) political ideology—it has been brainwashed for a long time, Mr. Kumaraswamy said.
+“Given they have data and info on general mood [and] general chit chat, those models can be used by ChatGPT-style solutions to auto-fill. But [the] Chinese don’t need AI to propagate the ideology, as they do so from schools with tighter control on shaping the minds of their younger generation,” he said.
+The PLA aims to capitalize on AI’s military applications, he said, noting the large number of articles on AI that have been published in recent months in Chinese military journals.
+Baughman cited an article by PLA Major General (Ret.) Hu Xiaofeng, currently a professor at China’s National Defense University, in which Hu said, “The cutting-edge technology of artificial intelligence represented by ChatGPT will inevitably be applied in the military field.”
+Mr. Baughman’s paper mentions seven main areas of application: “human-machine interaction, decision making, network warfare, cognitive domain, logistics, space domain, and training.”
+“LLM can create more convincing text. Other security threats include malware generation hacking and sophisticated phishing.”
+Generally, cognitive warfare involves influencing the perceptions, beliefs, and decision-making of adversaries.
+Then there’s the issue of censorship: “In addition, while not mentioned by the PLA media, there’s also the issue of the Chinese communist party (CCP) itself. A program that has the potential to speak negatively about the Party will not be allowed and this could inhibit the overall efficacy of generative AI.”
+Overall, Mr. Baughman said, “China understands the need to be a first mover (or close follower) in Generative AI on the battlefield.”

@@ -1,0 +1,41 @@
+Lockdown has seen opera singers belt out arias from their balconies and families recreate entire musicals in their living rooms.
+Pop stars like Chris Martin and Gary Barlow have set up intimate jamming sessions while Radiohead is streaming one of its concerts for free every week until lockdown ends.
+The music has not stopped but it is a little bit harder to make it.
+The rest of the population may be turning to video conferencing apps, such as Zoom, Skype and Google Hangouts, but these do not quite work for music.
+"They overly compress music and the resulting sound is quite horrible," says Paul Reynolds, whose firm MassiveMusic makes soundtracks for adverts.
+But music software combined with decent internet means the home studio can be as good as a professional one, he says.
+"Long gone are the days when you needed a £500,000 investment to set up a recording studio.
+"So much can be done with a very basic and relatively cheap set-up.
+"The speed of data transfer has been the biggest problem in live collaboration and performance. As the bandwidth improves, higher quality audio can be transferred at a much faster rate, meaning less issues with latency."
+While the brands he works for are more used to flying to exotic locations to make their ads, now they have to rely on the music to tell the story.
+"Music and sound can take you to a beach in the South Americas, to the Alps, to a party in New Delhi or a small tranquil home in Yorkshire," said Mr Reynolds.
+He acknowledges there needs to be an element of "make do and mend" about the way the musicians work.
+"If one musician doesn't own a bass guitar, he or she can call a colleague who does. They can send each other tracks and samples, lay down parts, someone else can create a beat and another person can sing."
+Rotterdam's Philharmonic Orchestra has responded to lockdown with a series of virtual concerts.
+The first of these - a performance of Beethoven's 9th Symphony - looks and sounds artlessly simple but in fact took "many, many hours of video editing", the BBC was told.
+The musicians recorded their part of the piece with their own phones or webcams and then the recordings were merged using advanced video software.
+Arjen Leendertz, who plays double bass, said the piece "stands for connection, fraternisation and togetherness". 
+"For me, this is really what we need to focus on together now," he said.
+Such intimate concerts could bring in new fans, thinks Mr Reynolds.
+"Imagine being at home learning grade one cello, and suddenly you can watch a cellist perform in front of you, like being in the orchestra in a way you have never been able to before."
+And there are plenty of other tools, such as NinJam, which allow musicians to continue playing together and synchronising the results.
+For hardcore Eurovision fans the cancellation of the contest, which sees countries attempting to avoid scoring "nul points", will be a bitter blow.
+Dutch public broadcaster VPRO had already come up with the idea of using artificial intelligence to help create the next hit for the Netherlands and now the competition has been thrown open to others.
+Some 13 teams from Europe and Australia are competing, each given the task of creating a three-minute pop song with the help of AI.
+The Australian team - called Uncanny Valley -  has already come up with its song: Beautiful the World.
+It used a machine learning process called DDSP (differentiable digital signal processing) to blend audio samples of  animals including koalas, kookaburras and Tasmanian devils.
+The result, which can be heard on YouTube, is a heavily synthesized track which harks back to drug-fuelled music creations of the 1960s. And the pretty random lyrics sound like ones only an AI program could have produced.
+Created in association with Google's lab in Sydney, the song is a collaboration between music producers, data scientists and academics and is inspired by the bushfires that swept through the country.
+"It is deeply interesting to watch an algorithm discover patterns that underlie music," the team wrote.
+Meanwhile, the French team Algomus is confident the casual listener "won't notice that the song was created with AI".
+The five-member team, made up of music students from universities in Lille and Amiens, wanted to maintain co-operation between humans and AI.
+"Creativity requires a careful balance between all the elements in order to evoke an emotion," the team wrote.
+For the lyrics, it chose the most common word pairs in past Eurovision songs, such as "my heart" and "the sun" and used these as the basis for the AI to create the lyrics. The team described the results as a "good balance between grammatically correct sentences and room for poetic interpretation".
+It opted for the lyrics to be sung by a real person blended with AI.
+Public voting is open until 10 May and the winner will be announced two days later.
+For both established artists and those tinkering with music, lockdown could create a new genre of music based on a more "pared down, homemade sound", thinks Mr Reynolds.
+Although not everyone has been finding the current circumstances fertile ground for creativity, with Noel Gallagher recently telling the RadioX podcast that he was bored of writing songs while stuck at home.
+And for less successful musicians, lockdown is not just boring but also having a devastating impact of their finances.
+At a virtual meeting with Culture Secretary Oliver Dowden, MPs on the DCMS committee urged him to look again at the money available to musicians from streaming - the only income for many on lockdown.
+It would, said one MP, take more than 7,000 songs streamed to earn a musician just one hour's worth of pay on the minimum wage.
+Charity singles created in lockdown are topping the charts, with both NHS fundraiser Captain Tom Moore and BBC Radio 1's Live Lounge single for Children in Need and Comic Relief, riding high.

@@ -1,0 +1,14 @@
+The Office of the Privacy Commissioner (OPC) said on Dec. 29 it was unaware of a Public Health Agency of Canada (PHAC) program to collect vast swaths of online data from Canadians to understand vaccine hesitancy and then target the individuals with tailored messaging to try to change their minds.
+“I am not aware of any interactions between our Office and PHAC on this specific initiative,” said OPC spokesperson Tobi Cohen in a statement.
+“We remind all institutions that the Privacy Act protects personal information even when it is publicly available, and that institutions are not allowed to collect personal information that is not directly related to an operating program or activity.”
+Pulsar is a British company that PHAC says has a Canada-based research function.
+Using this data, PHAC intends to build a messaging campaign that will specifically target certain groups it calls “communities of interest,” such as “indigenous peoples and millennial males.”
+Afterwards, Pulsar will again collect data to measure the impact of the campaign.
+The statement of work (SOW) requires the consultant to conduct an analysis of vaccine-related conversations and their participants on Twitter and “social media channels, including Reddit, Blogs, Forums, and News, spanning up to three years of historical data.”
+The SOW says that to help PHAC “better understand the vaccine landscape in Canada, the consultant must map the volume of vaccine hesitancy conversation and specific conversation pillars over a three-year period, identifying what and who is influencing and driving key peaks in conversation, and what messaging and actions generated a positive response.”
+PHAC is asking the consultant to use various advanced tools to comb through the data, such as artificial intelligence to detect topics, sentiments, and emotions expressed within the text of a message, and keyword-based rules and natural language algorithms to structure the data into specific categories.
+The consultant is also required to use network-mapping tools to assess audience sub-communities and demographics.
+“Sub-communities are segmented based on interconnections (follower relationships) and then profiled based on their common affinities, demographics, and behaviors,” the SOW states.
+PHAC’s endeavour to obtain data on vaccine-hesitant people’s online behaviours suggests that the consultant would need to access larger datasets of online activity amassed by aggregation firms in order to match that activity with the targeted social media profiles of individuals of interest.
+The Epoch Times contacted PHAC regarding the program but did not receive a response.
+Meanwhile the OPC has confirmed that its investigation into PHAC’s cellphone mobility tracking program is still underway after several complaints were previously filed.

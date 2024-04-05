@@ -1,0 +1,21 @@
+Analysing recordings of gunshots could help save endangered species around the world by identifying poacher hotspots.
+New technology has been developed by international conservation charity the Zoological Society of London (ZSL) and Google Cloud.
+Acoustic sensors placed in nature reserves or safaris can record events up to 1km (0.6 miles) away.
+It uses artificial intelligence to analyse audio for gunshots, alerting anti-poacher patrols.
+Conservationists currently rely on camera traps to track poachers. The traps are activated by movement, and limited to close range within line of sight.
+But acoustic sensors are cheaper, record continuously and can detect events further with a 360-degree radius. 
+Google Cloud and ZSL trialled this technology in Dja Faunal Reserve in Cameroon. 
+They placed 69 audio recording devices into the park for a month, generating the equivalent of 267 days of continuous sound. 
+This was then searched by Google's AI for any gunshots, which were linked back to a location within the park. 
+Anthony Dancer, conservation technology lead at ZSL, said pinpointing poacher hotspots could prevent further hunts.
+"Park staff can use [the information] to develop responses to those threats," he added. "Planning where to deploy patrols in the areas and at the time of day where you most expect illegal activity."
+The next step is fundraising and then expansion into conservation areas, he said, adding that the devices cost about £50 ($66) each.
+The project is currently focusing on gunshots, but Mr Dancer hopes that in the future they could also identify humans talking, which could indicate poachers or human interference - or the sounds of endangered species, to monitor how many of them there are, and their wellbeing. 
+"Animal poaching remains a global problem and with such catastrophic declines in some species, it's an issue that cannot be ignored," said Omer Mahmood, head of customer engineering at Google.
+He explained that by using machine learning in the technology, the computer reduced months of work into hours, as there was no need for a human to listen back manually through all of the recordings.
+"We're committed to supporting ZSL and other conversation organisations with the best tools to tackle the current crisis," he added.
+Gunshot detection technology is already used by police forces in the US.
+In 2010, West Midlands police force trialled it in Birmingham but removed the pilot two years later due to "technical difficulties."
+At the time, the technology from ShotSpotter was said to have an 85% efficacy rate.
+"One of the most challenging things with identifying gunshots is that the sound bounces off surfaces," Professor Mark Plumbley, from the University of Surrey's Centre for Vision, Speech and Signal Processing, explained.
+"In cities this is usually buildings, cars or people. So the technology can be inaccurate.

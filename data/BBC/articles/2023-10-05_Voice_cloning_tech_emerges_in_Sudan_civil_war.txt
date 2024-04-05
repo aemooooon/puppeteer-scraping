@@ -1,0 +1,28 @@
+A campaign using artificial intelligence to impersonate Omar al-Bashir, the former leader of Sudan, has received hundreds of thousands of views on TikTok, adding online confusion to a country torn apart by civil war.
+An anonymous account has been posting what it says are "leaked recordings" of the ex-president since late August. The channel has posted dozens of clips - but the voice is fake. 
+Bashir, who has been accused of organising war crimes and was toppled by the military in 2019, hasn't been seen in public for a year and is believed to be seriously ill. He denies the war crimes accusations.
+The mystery surrounding his whereabouts adds a layer of uncertainty to a country in crisis after fighting broke out in April between the military, currently in charge, and the rival Rapid Support Forces militia group.
+Campaigns like this are significant as they show how new tools can distribute fake content quickly and cheaply through social media, experts say.
+"It is the democratisation of access to sophisticated audio and video manipulation technology that has me most worried," says Hany Farid, who researches digital forensics at the University of California, Berkeley, in the US.
+"Sophisticated actors have been able to distort reality for decades, but now the average person with little to no technical expertise can quickly and easily create fake content."
+The recordings are posted on a channel called The Voice of Sudan. The posts appear to be a mixture of old clips from press conferences during coups attempts, news reports and several "leaked recordings" attributed to Bashir. The posts often pretend to be taken from a meeting or phone conversation, and sound grainy as you might expect from a bad telephone line.
+To check their authenticity, we first consulted a team of Sudan experts at BBC Monitoring. Ibrahim Haithar told us they weren't likely to be recent:
+"The voice sounds like Bashir but he has been very ill for the past few years and doubt he would be able to speak so clearly."
+This doesn't mean it's not him.
+We also checked other possible explanations, but this is not an old clip resurfacing and is unlikely to be the work of an impressionist.
+The most conclusive piece of evidence came from a user on X, formerly Twitter.
+They recognised the very first of the Bashir recordings posted in August 2023. It apparently features the leader criticising the commander of the Sudanese army, General Abdel Fattah Burhan.
+The Bashir recording matched a Facebook Live broadcast aired two days earlier by a popular Sudanese political commentator, known as Al Insirafi. He is believed to live in the United States but has never shown his face on camera. 
+The pair don't sound particularly alike but the scripts are the same, and when you play both clips together they play perfectly in sync.
+Comparing the audio waves shows similar patterns in speech and silence, notes Mr Farid. 
+The evidence suggests that voice conversion software has been used to mimic Bashir speaking. The software is a powerful tool that allows you to upload a piece of audio, which can be changed into the different voice. 
+After further digging, a pattern emerged. We found at least four more of the Bashir recordings that were taken from the same blogger's live broadcasts. There is no evidence he's involved. 
+The TikTok account is exclusively political and requires deep knowledge of what's going on in Sudan, but who benefits from this campaign is up for debate. One consistent narrative is criticism of the head of the army, Gen Burhan.
+The motivation might be to trick audiences into believing that Bashir has emerged to play a role in the war. Or the channel could be trying to legitimise a particular political viewpoint by using the former leader's voice. What that angle might be is unclear.
+The Voice of Sudan denies misleading the public and says they are not affiliated with any groups. We contacted the account, and received a text reply saying: "I want to communicate my voice and explain the reality that my country is going through in my style."
+An effort on this scale to impersonate Bashir can be seen as "significant for the region" and has the potential to fool audiences, says Henry Ajder, whose series on BBC Radio 4 examined the evolution of synthetic media. 
+AI experts have long been concerned that fake video and audio will lead to a wave of disinformation with the potential to spark unrest and disrupt elections.
+"What's alarming is that these recordings could also create an environment where many disbelieve even real recordings," says Mohamed Suliman, a researcher at Northeastern University's Civic AI Lab. 
+As we've seen with this example, people should question whether the recording feels plausible before sharing.  
+Checking whether it was released by a trusted source is vital, but verifying audio is difficult, particularly when content circulates on messaging apps. It's even more challenging during a time of social unrest, such as that currently being experienced in Sudan.  
+The technology to create algorithms trained to spot synthetic audio is still at the very early stages of development, whereas the technology to mimic voices is already quite advanced.

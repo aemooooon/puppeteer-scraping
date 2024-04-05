@@ -1,0 +1,9 @@
+Google plans to let individual developers, creators, and enterprises try its conversational services, “initially powered by LaMDA with a range of models to follow,” starting next month, he added.
+Pichai also said Google plans to integrate AI features such as LaMDA into its dominant search engine to help generate responses for more complex queries—“questions where there’s no one right answer.”
+Currently, Google works by indexing content from the billions of webpages that it crawls, and then ranking it by order of relevance to users’ queries.
+“Soon, you’ll see AI-powered features in Search that distill complex information and multiple perspectives into easy-to-digest formats, so you can quickly understand the big picture and learn more from the web: whether that’s seeking out additional perspectives, like blogs from people who play both piano and guitar, or going deeper on a related topic, like steps to get started as a beginner,” he said, although he didn’t provide a specific timeline for the rollout.
+ChatGPT has reached tens of millions of users since its release as a free prototype to the public on Nov. 30, 2022. At times, the AI service turned away users because of explosive growth.
+It’s yet unclear how Bard is different from ChatGPT. Pichai said the new service draws on information from the internet, while ChatGPT’s knowledge is up to date as of 2021.
+According to a demo of Bard, the service, just like ChatGPT, tells users to provide it with a prompt. Users are told they can use Bard to “Plan a friend’s baby shower,” “Compare two Oscar nominated movies,” and “Get lunch ideas based on what’s in your fridge.”
+The demo also shows Bard generating three bulleted answers to a query asking about new discoveries by a space telescope.
+“Bard can be an outlet for creativity, and a launchpad for curiosity,” Pichai wrote. He didn’t say whether Bard could write prose like William Shakespeare, who may have inspired the service’s name.

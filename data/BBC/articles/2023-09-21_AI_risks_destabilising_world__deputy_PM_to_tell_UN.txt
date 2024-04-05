@@ -1,0 +1,22 @@
+Artificial intelligence could destabilise the world order unless governments act, the deputy prime minister is to warn.
+Oliver Dowden will tell the UN the pace of development risks outstripping governments' ability to make it safe. 
+The UK will host a global summit to discuss AI regulation, in November.
+There are fears without rules AI could eventually destroy jobs, supercharge misinformation or entrench discrimination.
+"The starting gun has been fired on a globally competitive race in which individual companies as well as countries will strive to push the boundaries as far and fast as possible," Mr Dowden will tell the United Nations general assembly in New York. 
+"At the moment, global regulation is falling behind current advances."
+In the past, governments have created regulations in response to technological developments - but now, rules must be made in parallel with the development of AI.
+AI companies should not "mark their own homework, just as governments and citizens must have confidence that risks are properly mitigated". 
+And only action by nation states can reassure the public the most significant national-security concerns have been allayed.
+Mr Dowden will also warn, however, against becoming "trapped in debates about whether it is a tool for good or a tool for ill - it will be a tool for both".
+Many experts have been surprised by the rapid increase in the capabilities of some AI systems. "We've seen horizons compress," Prof Andrew Rogoyski, of the University of Surrey, told BBC News.
+But Faculty.ai boss Marc Warner said it was important to distinguish between narrow AI designed to fulfil a specific task such as looking for signs of cancer in radiology scans and general artificial intelligence.
+"These are powerful algorithms that have emergent properties that, at the moment, we can't... always predict when they're about to develop," he said.
+"And while I personally am not super-worried about the current generation of technologies, I think it's only sensible that government should start looking ahead to more and more powerful versions and what might be done about it.
+"I've been following the field of AI safety now for 10 or 15 years - and two to three years ago nobody cared about this conversation. 
+"And so for me, even starting an international conversation, a serious international conversation about AI safety, is a success in itself." 
+Other leading AI companies agree there is a need for regulation. Following a recent closed-door meeting of technology bosses, in Washington, Elon Musk said there was an "overwhelming consensus" for it.
+But Yasmin Afina, of the Chatham House international-affairs think tank, said reaching a quick international agreement would be difficult.
+Compared with nuclear weapons, about which "it took so many years for people to agree on something", she said, "AI is so complex, so different as a technology, I don't think that it will be easy to negotiate something that people will agree on."
+Smaller countries, marginalised communities and people belonging to ethnic minorities also needed to have meaningful input. "As long as they're not at the table and [don't] actually have a voice, they will just be left out," Ms Afina said.
+Prime Minister Rishi Sunak wants the UK to take the lead. But last month, the Commons Science, Innovation and Technology Committee warned without the rapid introduction of a law, the European Union's AI Act could become a global standard, displacing UK efforts.
+Mr Warner, previously a member of the now defunct AI council which advised government,  said the UK could potentially take a lead in technology to make AI safe, if was prepared to invest.

@@ -1,0 +1,14 @@
+Facebook has used artificial intelligence (AI) to map 300,000 miles of previously unmapped roads in Thailand and made the results available to the public.
+The project had been completed in 18 months, less than half the time it would have taken 100 mapping experts to do it manually, Facebook said.
+The maps could be used for disaster response and urban planning.
+Many parts of the world remain unmapped.
+The tool used for the project, Map With AI, is now being made available to all and includes access to AI-generated maps of Afghanistan, Bangladesh, Indonesia, Mexico, Nigeria, Tanzania and Uganda.
+Facebook plans to add more countries over time.
+The AI system uses satellite images with a resolution of two sq ft per pixel to distinguish roads from walkways or rivers.
+As part of the Thailand road-mapping project, human experts reviewed and corrected the road networks identified by the AI system.
+Facebook's desire to map the world is linked with its ambitions to expand rural internet access and add more users to its social network.
+The project is a collaboration with OpenStreetMap (OSM), built by a community of mappers who maintain data about roads, railways stations and other services around the world.
+Talking about the new AI tool, Martijn van Exel, a long time contributor to OSM, said: "This is definitely going to be a key part of the future of OSM. 
+"We can never map the world, and keep it mapped, without assistance from machines.
+"The trick is to find the sweet spot. 
+"OSM is a people project and the map is a reflection of mappers' interests, skills, biases, et cetera. 

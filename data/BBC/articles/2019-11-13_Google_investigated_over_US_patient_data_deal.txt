@@ -1,0 +1,14 @@
+Google is to be investigated over how it is accessing US patient data via a major health firm, the Wall Street Journal reports.
+An office of the US Department of Health and Human Services will examine the details of a deal dubbed "Project Nightingale".
+Google said patient data was "secure".
+Separately, in the UK, the Financial Times (FT) reports that popular health websites are sharing sensitive data with firms including Google.
+The Project Nightingale deal with Ascension - a firm that runs 2,600 hospitals in the US - attracted criticism from some when the Wall Street Journal revealed that Google could access patient data without them being notified.
+Among those who expressed concern was Republican Senator Lisa Murkowski.
+"Privacy protections, particularly when it comes to personal info like your health, is a high priority of mine," she said via Twitter.
+However, in a blog, Google argued that the deal "adheres to industry-wide regulations" and that access to patient data by its employees was controlled.
+The tech giant said patient data would not be combined with customer data from other parts of its business.
+It added that it was "happy to co-operate" with the federal inquiry.
+In its own blog, Ascension said it looked forward to developing artificial intelligence tools for medical purposes with Google's help.
+News of Project Nightingale coincided with an FT investigation that revealed how popular health websites in the UK frequently shared personal data with companies including Google, Amazon and Facebook.
+Websites such as WebMD and Bupa used cookies - code added to web browsers - that allowed other companies to track users' activity on the web.
+The kind of data shared from health websites to others included medical symptoms, diagnoses, and menstrual and fertility information, as well as the names of drugs.

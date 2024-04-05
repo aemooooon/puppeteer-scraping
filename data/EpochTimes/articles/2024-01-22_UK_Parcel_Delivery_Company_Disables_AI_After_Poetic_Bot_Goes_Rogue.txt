@@ -1,0 +1,7 @@
+LONDON—A parcel delivery firm in Britain has disabled the artificial intelligence (AI) function in its online chat systems after a frustrated user coaxed the system into composing a poem about how bad the company’s customer service was.
+“There was once a chatbot named DPD, Who [sic] was useless at providing help,” the AI chatbot wrote after Ashley Beauchamp gave up trying to get it to share a phone number for customer services and asked it to write a poem about bad chatbot service instead.
+“DPD was a waste of time, And [sic] a customer’s worst nightmare,” the bot continued before concluding: “One day, DPD was finally shut down and everyone rejoiced. Finally they could get the help they needed, From [sic] a real person who knew what they were doing.”
+Dynamic Parcel Distribution (DPD) is a French parcel delivery firm with an extensive ground network in Europe and offering air express service to the rest of the world.
+He said he initially asked the bot to tell him a joke after failing to get information about the status of a parcel and when it did he asked it to write a poem about automated customer service failings. He also encouraged the bot to swear.
+Beauchamp told ITV television he had still not received the parcel. “I think they might hold it hostage now. I wouldn’t blame them,” he said. “That’s totally on me.”
+DPD UK said it had used an AI element within its chat system successfully for a number of years alongside its human customer service but an error had occurred after a system update.

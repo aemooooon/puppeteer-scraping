@@ -1,0 +1,14 @@
+Conservationists are using artificial intelligence to identify and monitor bird populations by recording their songs.
+Somerset Wildlife Trust is restoring peatland at the former dairy farm Honeygar near Westhay.
+The charity hopes to make the area a better habitat for wetland species.
+Conservationists are using microphones to listen out for bird songs to monitor the population.
+There are four of these microphones dotted around the 81 hectare site, listening out for birdsong, which is then analysed by artificial intelligence.
+The trust then uses the information to monitor bird populations and how they are changing.
+The project has been running continuously for the past 15 months.
+In that time, the most common birdsong recorded on the site came from wrens, jackdaws and goldfinches.
+Joe Hampson, at the trust, said they have 1.3m species recordings from the site.
+"It's a staggering number," he said. "It shows we're in a new age of data collection."
+Geoff Carss, CEO at Wilder Sensing, who developed the technology for the project, said: "We take a species like the robin and take hundreds of recordings, feed them into the machine learning model and over time you have a big library of these things.
+"It will sample sounds and go: 'I'm 83% certain that was a robin.' It takes about 30 seconds."
+Mr Hampson added: "We will be expecting more wetland species to be utilising the site, but we're willing to be surprised by what happens. 
+"It's going to be really exciting."

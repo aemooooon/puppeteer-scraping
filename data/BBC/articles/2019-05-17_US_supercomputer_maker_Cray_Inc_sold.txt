@@ -1,0 +1,8 @@
+Hewlett Packard Enterprise (HPE) has bought Cray Inc, maker of some of the fastest supercomputers in the world.
+Cray Inc's machines are capable of processing trillions of calculations per second and have been used by the UK's Met Office and GCHQ.
+Shares in Cray jumped by 18% after announcing the $1.3bn (£1bn) deal.
+HPE chief executive Antonio Neri said: "Answers to some of society's most pressing challenges are buried in massive amounts of data."
+He added: "Only by processing and analyzing this data will we be able to unlock the answers to critical challenges across medicine, climate change, space and more."
+The company predicts that the market for data services and storage from areas such as artificial intelligence is expected to grow from $28bn last year to $35bn by 2021.
+Seymour Cray, who helped originate the company in the 1950s, is widely recognised as designing the first commercially successful supercomputer. 
+Cray computers feature a number of times in the world's top 500 supercomputers, and are used by the likes of the Met Office to improve its weather forecasting and climate modelling.

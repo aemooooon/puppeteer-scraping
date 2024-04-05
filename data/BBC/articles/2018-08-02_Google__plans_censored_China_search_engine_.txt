@@ -1,0 +1,36 @@
+Google is developing a version of its search engine that will conform to China's censorship laws, reports say.
+The company shut down the engine in 2010, complaining that free speech was being limited.
+But online news site The Intercept says Google has been working on a project code-named Dragonfly that will block terms like human rights and religion, a move sure to anger activists.
+One state-owned newspaper in China, Securities Daily, dismissed the report.
+When questioned about the claim, a spokeswoman for Google provided a brief statement.
+"We provide a number of mobile apps in China, such as Google Translate and Files Go, help Chinese developers, and have made significant investments in Chinese companies like JD.com," it said.
+"But we don't comment on speculation about future plans."
+Citing internal Google documents and inside sources, it said that Dragonfly was begun back in the spring of 2017 and accelerated in December after Google's CEO Sundar Pichai met a Chinese government official.
+It said an Android app with versions called Maotai and Longfei had been developed and could be launched within nine months if Chinese government approval was won.
+Both Reuters and Agence France-Presse said separate sources had confirmed the report to the news agencies.
+The search app would "blacklist sensitive queries", The Intercept says, identifying and filtering websites currently blocked by China's so-called Great Firewall. 
+According to documents it had seen, a search via the app would result in a list with banned websites removed and a disclaimer saying that "some results may have been removed due to statutory requirements".
+It said the BBC News website and Wikipedia would be among those blocked.
+Google has not officially commented on The Intercept report.
+Spokesman Taj Meadows told AFP: "We don't comment on speculation about future plans."
+One worker who spoke to Reuters said he had transferred himself out of his unit to avoid being involved in the project.
+Another source who spoke to AFP said: "There's a lot of angst internally. Some people are very mad we're doing it."
+But some believe such a move should not be a surprise.
+Chief executive Sundar Pichai was quite clear about his ambitions when he told a conference in 2016: "Google is for everyone - we want to be in China serving Chinese users."
+Amnesty International said Google should not proceed with the programme.
+Patrick Poon, a China researcher for Amnesty, said in a statement: "It will be a dark day for internet freedom if Google has acquiesced to China's extreme censorship rules to gain market access.
+"In putting profits before human rights, Google would be setting a chilling precedent and handing the Chinese government a victory."
+Not a great deal. However, the state-owned Securities Daily cited "relevant departments" as saying reports of the return of Google to the Chinese market were not true.
+Reuters quoted a Chinese official as saying that Google had been in contact with Chinese authorities on the matter, but there was no approval for the programme as yet.
+Quite simply, China is the biggest internet market in the world.
+Despite its main search engine and YouTube video platform being blocked, Google still has more than 700 employees and three offices in China, and has been developing alternative projects.
+Its Google Translate app for smartphones was approved in China last year.
+It also invested in Chinese live-stream game platform Chushou in January and has launched an artificial intelligence game on the social media app WeChat.
+There's strict censorship of popular Western sites, including Facebook, Twitter and Instagram.
+Certain topics like the Tiananmen Square protests in 1989 are completely blocked. References to political opposition, dissidents and anti-communist activity are also banned as are those of free speech and sex.
+China has in the past two years imposed increasingly strict rules on foreign companies, including new censorship restrictions.
+"Don't be evil" may no longer be Google's motto, but most of its employees still see themselves as working for a business that puts long-term principles ahead of short-term profit.
+One of those principles is freedom of expression, so if it does go ahead with a censored search engine for China it can expect plenty of pushback, not only from civil liberties groups but from its own staff. 
+After all they managed to end a deal with the US military over software for targeting drone strikes. 
+This time the prize - access to the vast and growing Chinese market - is much bigger. 
+But Google is already being warned that complying with Chinese censorship is a complex business requiring an army of moderators. 

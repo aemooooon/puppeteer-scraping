@@ -1,0 +1,14 @@
+One in three Australians experience image-based sexual abuse, but many don’t know where to go for help.
+However, researchers from the Royal Melbourne Institute of Technology have developed a world-first artificial intelligence chatbot, Umibot, which they hope will encourage victims to report incidents of image-based abuse and find support.
+At present, image-based abuse has spiralled in Australia, according to a 2019 survey by RMIT.
+It ranges from sharing or threatening to share sexual images without consent, pressuring others to create sexual content, and being sent unsolicited sexual images or videos.
+“It’s a huge violation of trust that’s designed to shame, punish or humiliate,” lead researcher Nicola Henry said.
+“It’s often a way for perpetrators to exert power and control over others.”
+Prof. Henry said victims are reluctant to seek help because they are often blamed by friends or family and feel ashamed.
+The team worked with Melbourne-based digital agency Tundra to develop Umibot as an inclusive tool to encourage victims to reach out for help.
+“A lot of victim-survivors are not ready to talk to a person about their experiences,” co-researcher Alice Witt said.
+“Teaching Umibot how to be empathetic and helpful is a way for them to seek support without any pressure.”
+Chatbots helping people who experience online harm already exist, but they are not focused on image-based abuse and lack functionality.
+Users can type questions for Umibot or select answers from a set of options, and the chatbot can respond in a way that supports the victim.
+Umibot can identify whether users are over or under 18, if they need help for themselves or for someone else, or if they are concerned about something they have done.
+Dr Witt said while Umibot should not be a replacement for human support, she hopes bystanders and even perpetrators can also use the tool to prevent online abuse.

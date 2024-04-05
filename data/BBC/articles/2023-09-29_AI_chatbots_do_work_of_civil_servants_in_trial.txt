@@ -1,0 +1,25 @@
+Documents disclosed to the BBC have shed light on the use of AI-powered chatbot technology within government.
+The chatbots have been used to analyse lengthy reports - a job that would normally be done by humans.
+The Department for Education, which ran the trial, hopes it could boost productivity across Whitehall.
+The PCS civil service union says it does not object to the use of AI - but clear guidelines are needed "so the benefits are shared by workers".
+The latest generation of chatbots, powered by artificial intelligence (AI), can quickly analyse reams of information, including images, to answer questions and summarise long articles. 
+They are expected to upend working practices across the economy in the coming years, and the government says they will have "significant implications" for the way officials work in future.
+The education department ran the eight-week study over the summer under a contract with London-based company Faculty.ai, to test how so-called large language models (LLMs) could be used by officials.
+The firm's researchers used its access to a premium version of ChatGPT, the popular chatbot developed by OpenAI, to analyse draft local skills training plans that had been sent to the department to review.
+These plans, drawn up by bodies representing local employers, are meant to influence the training offered by local further education colleges.
+Results from the pilot are yet to be published, but documents and emails requested by the BBC under Freedom of Information laws offer an insight into the project's aims.
+According to an internal document setting out the reasons for the study, a chatbot would be used to summarise and compare the "main insights and themes" from the training plans.
+The results, which were to be compared with summaries produced by civil servants, would test how Civil Service "productivity" might be improved. 
+It added that language models could analyse long, unstructured documents "where previously the only other option for be for individuals to read through all the reports".
+But the project's aims went further, with hopes the chatbot could help provide "useful insights" that could help the department's skills unit "identify future skills needs across the country".
+The pilot offers a glimpse into government-wide efforts in recent years to boost the use of new technologies within the civil service, but also raises questions over how they could be used to shape policy.
+Government guidance published in June suggests officials can use tools such as ChatGPT as part of their research, or to summarise academic or news reports, if they verify the results.
+But they are currently banned from inputting any sensitive information, or information that could reveal the "intent of government". The guidance is set to be reviewed later this year.
+Renate Samson, a researcher at the Ada Lovelace Institute, a think tank, said there was enthusiasm within both central and local government for using language models to analyse documents and draft reports.
+She added that as the technology evolves, the government would need to consider the potential for "unintended consequences" in areas like bias, privacy and security.
+Rupert McNeil, who until last year was head of HR for the Civil Service, said work to measure the potential impact of AI-based automation started in 2018 as part of proposed reforms in the wake of Brexit.
+He suggested that writing draft ministerial correspondence, as well as the "first, boring stage" of drafting new legislation, were areas where chatbot technology could play an increasing role.
+He added that although automation was likely to eliminate the need for some more junior jobs, it could "take away a lot of tedium" from some work, and reduce "post code lotteries" for businesses dealing with regulatory bodies.
+But he added civil servants would be required to take decisions, whilst people with "technical discernment" would also be required to identify when AI tools get things wrong.
+The PCS union, which represents civil servants below the senior ranks, is working with other unions to draw up proposals on using AI within the civil service, to be shared with the government in the coming months.
+The suggestions are expected to cover areas including the redeployment of staff as the technology evolves, the impact on job descriptions, and proposed rules on how AI is used for government work.

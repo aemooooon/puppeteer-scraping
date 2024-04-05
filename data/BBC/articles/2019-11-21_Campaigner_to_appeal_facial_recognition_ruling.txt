@@ -1,0 +1,28 @@
+A man who launched a legal challenge after police cameras digitally analysed his face in the street is to take his case to the Court of Appeal. 
+Ed Bridges appealed against a ruling that South Wales Police did not breach his human rights by using automated facial recognition (AFR) technology.
+The police force has been trialling the technology at public events since 2017.
+Deputy Chief Constable Richard Lewis said it used biometric data analysis "lawfully and proportionately".
+Mr Bridges brought a legal challenge after he saw a police van marked with AFR cameras as he took a lunch break in Cardiff city centre and then again at a peaceful protest at an arms fair in the city.
+He argued the AFR system analysed his biometric data - digital mapping of a person's facial features - without his knowledge or consent. 
+The High Court ruled in September an important safeguard in the way the police force used the system was that the potential match suggested by the software was reviewed by the officer operating the equipment before the person was approached by colleagues.
+The case was the first legal challenge of police use of this form of artificial intelligence.
+Granting him leave to appeal, Lord Justice Singh said Mr Bridges' case had a "real prospect of success" on all of his grounds as it "raises such issues of public importance and issues which potentially affect large numbers of people".
+Mr Bridges said: "South Wales Police have continued to use facial recognition against many thousands of people, subjecting everyone to unjustified and oppressive surveillance.
+"I'm pleased the serious concerns of so many of us will be heard by the Court of Appeal."
+South Wales Police has Home Office support for four vans equipped with AFR cameras.
+The vans have been deployed on 71 days at 39 events, with 60 people arrested at locations ranging from pop concerts to protests as well as big sporting events.
+The Welsh force was the first in the UK to make an arrest using the real-time technology in 2017, ahead of the Champions League final in Cardiff.
+But it emerged that of the 2,470 potential matches made using AFR, 92% (2,297) were wrong.
+Mr Lewis said false alerts - wrongly matching a passer-by to someone on the police watchlist - had reduced to single figures and sometimes none at all on deployments.
+Figures on the force's website show the AFR vans have been used more than 50 times since January 2018. At 25 of those events, where figures were listed, more than 300,000 people had their face scanned.
+The most recent use was when Swansea City and Cardiff City played at the Liberty Stadium in October. The next deployment will be the Wales v Barbarians rugby match at Cardiff's Principality Stadium on 30 November.
+Mr Lewis said his officers have learned to maximise the "super recogniser" AFR algorithm through better understanding crowd dynamics, where best to line up the camera and how many faces to analyse per frame.
+He said: "Since the Champions League we have come a long way. The algorithm that we used then is different, it's improved and we're just about to look at another one.
+"More importantly, our understanding of how the system is deployed - how we place the van, the camera sensitivity, the processing power of the computer - have all improved.
+"That deployment was our first in mass crowds and that was a huge learning curve for us."
+The 25 events listed produced 137 alerts, 70 of them false alerts, an inaccuracy rate of 51%.
+Mr Lewis said the accuracy of the AFR in spotting people on the watchlist who walked past the vans had also improved and was now "in the 80 percents".
+"So eight out of 10 times, a person on a watchlist is 'hit'," he added.
+Mr Bridges was represented in court by the civil liberties group Liberty.
+Hannah Couchman, Advocacy and Policy Officer at Liberty, said: "We are looking for a declaration that this is an unlawful technology to be used on our streets.
+"Every single person walking past the camera has their right to privacy in some way eroded by this technology." 

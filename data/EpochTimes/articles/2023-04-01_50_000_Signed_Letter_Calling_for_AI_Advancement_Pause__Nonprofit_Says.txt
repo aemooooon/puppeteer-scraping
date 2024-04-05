@@ -1,0 +1,16 @@
+A recent open letter calling for a pause on artificial intelligence advancement has been signed by more than 50,000 people, including more than 1,800 CEOs and 1,500 professors, according to the nonprofit that issued it.
+“The reaction has been intense,” the Future of Life Institute (FLI), a nonprofit seeking to mitigate large-scale technology risks, wrote on its website.
+“We feel that it has given voice to a huge undercurrent of concern about the risks of high-powered AI systems not just at the public level, but top researchers in AI and other topics, business leaders, and policymakers.”
+The letter states that “AI systems with human-competitive intelligence can pose profound risks to society and humanity” and should be developed with sufficient care and forethought.
+“Unfortunately, this level of planning and management is not happening, even though recent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one—not even their creators—can understand, predict, or reliably control,” it reads, asking AI developers to pause the “training” of AI systems more advanced than OpenAI’s recently released GPT-4.
+“If such a pause cannot be enacted quickly, governments should step in and institute a moratorium.”
+Research doesn’t need to stop but rather steer away “from the dangerous race to ever-larger unpredictable black-box models with emergent capabilities,” according to the letter.
+“AI research and development should be refocused on making today’s powerful, state-of-the-art systems more accurate, safe, interpretable, transparent, robust, aligned, trustworthy, and loyal,” it reads.
+The letter’s webpage shows roughly 2,200 signatures as of the afternoon of March 31. Many signatories didn’t identify as experts in the AI field. FLI stated that it has slowed adding new names to the list so it can vet them.
+Missing from the list are executives of all the top AI developers, including Alphabet’s DeepMind, ChatGPT developer OpenAI, and other big players, such as Meta, Amazon, and Microsoft. Also absent are virtually all heads of universities’ top AI research departments.
+It isn’t clear whether any of these individuals are among those thousands of signatures not yet added to the list. FLI didn’t respond to emailed questions.
+“Some individuals were incorrectly and maliciously added to the list before we were prepared to publish widely,” the page reads. “We have now improved our process and all signatories that appear on top of the list are genuine.”
+The sheet likens the call for an AI advancement pause to the 1975 Asilomar Conference on Recombinant DNA.
+“The conference allowed leading scientists and government experts to prohibit certain experiments and design rules that would allow actors to safely research this technology, leading to huge progress in biotechnology,” the page reads.
+During previous talks, he opined that as AI develops, it’s likely to far surpass human intelligence. At that point, even if it turns out to be benevolent, it may treat humans as a lower life form.
+Musk co-founded OpenAI in 2015 but is no longer associated with it.

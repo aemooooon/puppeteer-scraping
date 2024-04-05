@@ -1,0 +1,12 @@
+The federal government on Wednesday unfurled a voluntary code of conduct for generative AI, as anxiety persists over its proliferation and pace of development.
+The self-imposed guardrails will “build safety and trust as the technology spreads,” Innovation Minister François-Philippe Champagne told a crowd of techies at the All In artificial intelligence conference in Montreal, where Canadian technology companies including OpenText and Cohere pledged to sign on.
+The document lays out measures organizations can take when working in advanced generative AI—the algorithmic engine behind chatbots such as OpenAI’s ChatGPT, which can spit out anything from term papers to psychotherapy.
+The government said the measures range from screening datasets for potential biases to assessing for “potential adverse impacts.” They also align with six key principles that include equity, transparency and human oversight.
+“We have seen technology advancing at what I would say is lightning speed,” Champagne said.
+“The mission we should give ourselves is to move from fear to opportunities.”
+Amid both excitement and angst over the seemingly boundless scale of AI advancement, the federal government in June tabled a bill that adopts a more general approach to AI guardrails and leaves details to a later date. Ottawa has said it will come into force no sooner than 2025.
+Artificial intelligence pioneer Yoshua Bengio, who has stated the legislation puts Canada on the right path even as progress remains too slow, said public anxiety still hangs over the sector and that more investment toward safety and standards is essential.
+“Fear might be a starting point, but we need to act,” the Université de Montréal professor said on Wednesday.
+“For each dollar that we invest in making AI more capable, we should also invest one dollar in making it safer and protect the public. And right now that’s not at all what’s going on. We’re at a ratio of 50 to one,” he said, citing fellow AI guru and Turing Award winner Geoffrey Hinton.
+In May, Bengio called on the federal government to begin rolling out rules immediately against certain threats, such as “counterfeiting humans” using AI-driven bots.
+“We are on a trajectory to build technology that’s more powerful than anything that’s happened in history before,” he said.

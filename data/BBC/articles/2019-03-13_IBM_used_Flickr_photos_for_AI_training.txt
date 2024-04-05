@@ -1,0 +1,17 @@
+IBM has been accused of using Flickr photos for a facial-recognition project, without the full consent of people in the images.
+The company extracted nearly one million photos from a dataset of Flickr images originally compiled by Yahoo.
+Many people pictured were probably unaware of how their data had been used, according to an NBC News report.
+IBM said in a statement that it had taken great care to comply with privacy principles.
+But one digital rights group said IBM's actions represented a "huge threat" to people's privacy.
+"None of the people I photographed had any idea their images were being used in this way," a photographer told NBC News.
+Photos selected by IBM were listed under a Creative Commons licence, which generally means the images can be widely used with only a small number of restrictions.
+In a paper published online about the work, IBM researchers describe in detail the steps taken to analyse people's faces, including taking measurements of the distance between individuals' facial features.
+"Many of these measures can be reliably estimated from photos of frontal faces, using 47 landmark points of the head and face," the researchers wrote.
+It was these measurements, rather than the photos themselves, that IBM has compiled into its own dataset.
+Such data can be used to help artificial neural networks better distinguish between faces, so that individuals can be recognised in different images.
+By using large datasets such as this, technology companies hope to make their facial-recognition systems more accurate.
+"We take the privacy of individuals very seriously and have taken great care to comply with privacy principles," said IBM in a statement. 
+"Individuals can opt out of this dataset."
+However, opting out would only be an option if an individual were aware that their data had been used in the first place.
+Digital rights group Privacy International said IBM had been wrong to use the photos without direct consent from those pictured.
+"Flickr's community guidelines explicitly say, 'Don't be creepy.' Unfortunately, IBM has gone far beyond this. 

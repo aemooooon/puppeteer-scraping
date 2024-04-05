@@ -1,0 +1,31 @@
+Life as depicted in George Orwell’s 1984 “could come to pass in 2024” if lawmakers don’t protect the public against artificial intelligence, Microsoft’s president has warned.
+Speaking to BBC's Panorama, Brad Smith said it will be "difficult to catch up” with the rapidly advancing technology.
+The programme explores China’s increasing use of AI to monitor its citizens.
+Critics fear the state's dominance in the area could threaten democracy.
+“If we don’t enact the laws that will protect the public in the future, we are going to find the technology racing ahead, and it’s going to be very difficult to catch up,” Mr Smith said. 
+“I’m constantly reminded of George Orwell’s lessons in his book 1984. You know the fundamental story…was about a government who could see everything that everyone did and hear everything that everyone said all the time.
+“Well, that didn’t come to pass in 1984, but if we’re not careful that could come to pass in 2024.” 
+In certain parts of the world, reality is increasingly catching up with that view of science fiction, he added. 
+China’s ambition is to become the world leader in AI by 2030, and many consider its capabilities to be far beyond the EU.
+Eric Schmidt, former Google chief executive who is now chair of the US National Security Commission on Artificial Intelligence, has warned that beating China in AI is imperative. 
+“We’re in a geo-political strategic conflict with China,” he said. “The way to win is to marshal our resources together to have national and global strategies for the democracies to win in AI. 
+“If we don’t, we’ll be looking at a future where other values will be imposed on us.”
+Dr Lan Xue, who advises the Chinese Government, said facial recognition could prove "tremendously helpful" in identifying people in mass gatherings if there is a "major accident".
+"China indeed has made tremendous progress in technology development," Dr Xue added. "[The US] feels that this is a threat… and they wanted to start this Cold War on technology."
+Although China has "huge differences" in its values and politics, the country's "vision of the world is not convergence but co-existence," said Dr Keyu Jin, associate professor at the London School of Economics.
+"China does not seek to export its values," she added.
+Dr Schmidt became an adviser to the Pentagon in 2016, while retaining a position as executive chairman of Alphabet, Google’s parent company.
+In the following years, Google started a contract with the Pentagon, allowing it to use some of its image recognition technologies as part of a military project.
+Project Maven used machine learning to distinguish people and objects in drone videos.
+“Maven at the time was…a way of replacing human eyes by automatic vision for the drone footage that was being used in the various Arab conflicts,” Dr Schmidt said. “I viewed the use of that technology as a net positive for national security and a good partnership for Google.”
+But the project received criticism from Google employees who resigned, and petitioned against the project.
+“Google should not be involved in the business of war,” said software engineer Laura Nolan who resigned in 2018, when she discovered the nature of the project Google was working on. “I kinda felt like I had blood on my hands.”
+She argued the technology could be used in future targeting decisions.
+But Google said its AI would only be used for non-offensive purposes, before completely withdrawing from Project Maven in June 2018.
+Dr Schmidt said he felt technology which could help the military make the right decisions was a "good thing."
+But the Department of Defence continues to seek partnerships in Silicon Valley, in a bid to win the global AI arms race.
+Seth Moulton, chair of the US Future of Defence Task Force is urging tech companies to support the Department of Defence. 
+“Because we're in a race, because we are in this competition, that’s really what it comes down to,” he said. “Are you going to help us win this race or are you going to essentially be against us?
+“China does not have the same system of government as we do.
+"Could the AI arms race lead to conflict with China? Absolutely.”
+Dr Xue agreed there was potential for conflict: "But it is not inevitable - the US and China should really collaborate to prevent that from happening."

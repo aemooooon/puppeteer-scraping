@@ -1,0 +1,8 @@
+A bipartisan group of lawmakers is pursuing legislation to prevent the Pentagon from using artificial intelligence (AI) to launch nuclear weapons.
+The Block Nuclear Launch by Autonomous Artificial Intelligence Act aims to safeguard the nuclear command and control process from future policy changes that might allow AI to make nuclear launch and targeting decisions.
+Reps. Ken Buck (R-Colo.), Don Beyer (D-Va.), and Ted Lieu (D-Calif.) and Sen. Edward Markey (D-Mass.) introduced the legislation to both chambers of Congress on April 26.
+The bill would codify the Pentagon’s existing policy on AI and nuclear weapons by mandating that no federal funds could be used for the launch of any nuclear weapon by an automated system without meaningful human control.
+“AI technology is developing at an extremely rapid pace,” Lieu said. “While we all try to grapple with the pace at which AI is accelerating, the future of AI and its role in society remains unclear.
+This means that the nation will launch nuclear weapons at a perceived nuclear aggressor upon detecting incoming missiles rather than waiting to verify that the nation has actually been struck by such an attack.
+Thus, should either nation allow AI to make decisions about nuclear launches, a false positive on nuclear tracking systems could quickly escalate into a full-blown nuclear war.
+“As we live in an increasingly digital age, we need to ensure that humans hold the power alone to command, control, and launch nuclear weapons—not robots,” Markey said.

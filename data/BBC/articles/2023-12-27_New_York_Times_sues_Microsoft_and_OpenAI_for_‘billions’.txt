@@ -1,0 +1,17 @@
+US news organisation the New York Times is suing ChatGPT-owner OpenAI over claims its copyright was infringed to train the system.
+The lawsuit, which also names Microsoft as a defendant, says the firms should be held responsible for "billions of dollars" in damages.
+ChatGPT and other large language models (LLMs) "learn" by analysing a massive amount of data often sourced online.
+The BBC has approached OpenAI and Microsoft for comment.
+The lawsuit claims "millions" of articles published by the New York Times were used without its permission to make ChatGPT smarter, and claims the tool is now competing with the newspaper as a trustworthy information source.
+It alleges that when asked about current events, ChatGPT will sometimes generate "verbatim excerpts" from New York Times articles, which cannot be accessed without paying for a subscription.
+According to the lawsuit, this means readers can get New York Times content without paying for it - meaning it is losing out on subscription revenue as well as advertising clicks from people visiting the website.
+It also gave the example of the Bing search engine - which has some features powered by ChatGPT - producing results taken from a New York Times-owned website, without linking to the article or including referral links it uses to generate income.
+Microsoft has invested more than $10 billion (£7.8 billion) in OpenAI.
+The lawsuit, filed on Wednesday in a Manhattan federal court, reveals the New York Times unsuccessfully approached Microsoft and OpenAI in April to seek "an amicable resolution" over its copyright.
+It comes a month after a period of chaos at OpenAI where co-founder and CEO Sam Altman was sacked - and then rehired - over the course of a few days.
+His sacking shocked industry insiders and led to staff threatening mass resignations unless he was reinstated.
+But as well as the internal issues, the firm is now facing multiple lawsuits filed in 2023. 
+In September a similar copyright infringement case was brought by a group of US authors including Game of Thrones novelist George RR Martin and John Grisham.
+That followed legal action brought by comedian Sarah Silverman in July, as well as an open letter signed by authors Margaret Atwood and Philip Pullman that same month calling for AI companies to compensate them for using their work.
+And OpenAI is also facing a lawsuit alongside Microsoft - and programming site GitHub - from a group of computing experts who argue their code was used without their permission to train an AI called Copilot.
+As well as these actions, there have been many cases brought against developers of so-called generative AI - that is, artificial intelligence that can create media based on text prompts - with artists suing text-to-image generators Stability AI and Midjourney in January, claiming they only function by being trained on copyrighted artwork.

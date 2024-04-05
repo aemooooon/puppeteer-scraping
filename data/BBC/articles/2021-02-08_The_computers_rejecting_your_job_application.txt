@@ -1,0 +1,34 @@
+Frankly, it was a little stressful to know that my application was being judged by a computer and not by a human being.
+A professional journalist, I had recently applied for a new job, and for the first part of the recruitment process the publisher made me play a number of simple online games from the comfort of my own home.
+These included having to quickly count the number of dots in two boxes, inflating a balloon before it burst to win money, and matching emotions to facial expressions. Then an artificial intelligence (AI) software system assessed my personality, and either passed or failed me. No human had a look-in.
+I wondered: is it fair for a computer alone to accept or reject your job application?
+Welcome to the fast-growing world of AI recruitment. 
+While recruiters have been using AI for around the past decade, the technology has been greatly refined in recent years. And demand for it has risen strongly since the pandemic, thanks to its convenience and fast results at a time when staff may be off due to Covid-19.
+The AI recruitment software that put me through the above test was provided by a New York-based firm called Pymetrics.
+The questions, and your answers to them, are designed to evaluate several aspects of a jobseeker's personality and intelligence, such as your risk tolerance and how quickly you respond to situations.
+Or as Pymetrics puts it, "to fairly and accurately measure cognitive and emotional attributes in only 25 minutes".
+Its AI software is now used in the initial recruitment processes of a number of multinational companies, such as McDonald's, bank JP Morgan, accountancy firm PWC, and food group Kraft Heinz. An interview with a human recruiter then follows if you pass.
+"It's about helping firms process a much wider pool [of applicants], and getting signals that someone will be successful in a job," says Pymetrics founder Frida Polli.
+"Everyone wants the right job, and to hire the right person. It doesn't benefit anyone for the match to be off. Trying to use these AI systems in smart ways is to everyone's advantage." 
+Another provider of AI recruitment software is Utah-based HireVue. Its AI system records videos of job applicants answering interview questions via their laptop's webcam and microphone.
+The audio of this is then converted into text, and an AI algorithm analyses it for key words, such as the use of "I" instead of "we" in response to questions about teamwork. The recruiting company can then choose to let HireVue's system reject candidates without having a human double-check, or have the candidate moved on for a video interview with an actual recruiter.
+HireVue says that by September 2019 it had conducted a total of 12 million interviews, of which 20% were via the AI software. The remaining 80% were with a human interviewer on the other end of a video screen. The overall figure has now risen to 19 million, with the same percentage split.
+HireVue first started offering the AI interviews in 2016. Its users include travel services firm Sabre.
+Meanwhile, a report from 2019 said that such is the growth in the use of AI that it will replace 16% of recruitment sector jobs before 2029.
+Kevin Parker, the chief executive of HireVue, says the AI is more impartial than a human interviewer. "There's a desire to have a fair process, and AI can help evaluate all those candidates in a very consistent way," he says.
+Pymetrics also says that its system ensures more fairness, and that "every algorithm is rigorously tested for bias". Ms Polli adds that it is better than firms simply relying upon a candidate's resume or CV.
+"A resume can only give information about someone's hard skills, but research and common sense tells us that it's also soft skills that contribute to job success," she says.
+So, AI recruitment is nothing to worry about? Online retail giant Amazon doesn't think so.
+In 2018 it was widely reported to have scrapped its own system, because it showed bias against female applicants. The Reuters news agency said that Amazon's AI system had "taught itself that male candidates were preferable" because they more often had greater tech industry experience on their resume. Amazon declined to comment at the time.
+James Meachin of UK business psychology consultancy Pearn Kandola is a specialist on the recruitment sector. He says that AI systems still have a number of challenges.
+"The first step in selecting candidates is to correctly parse what they have said or written," he says. "On this basic level, leading voice assistants from Google, Amazon and Apple still routinely fail to understand what people are saying. For example, Scottish accents pose a challenge, as do unusual words or phrases.
+"If an AI system can accurately transcribe what has been said, the second - greater - challenge is to detect the meaning embedded in those words - the semantics, nuance and context. Here, AI systems can fail to understand. In contrast, a human listening to the conversation will intuitively understand what is meant."
+New Tech Economy is a series exploring how technological innovation is set to shape the new emerging economic landscape.
+Prof Sandra Wachter, a senior research fellow in AI at Oxford University, says: "I would be very worried if people said that using AI in recruitment only has benefits.
+"All machine learning works in the same basic way - you go through a bunch of data, and find patterns and similarities.
+"So in recruitment, looking at the successful candidates of the past is the data you have. Who were the chief executives in the past, who were the Oxford professors in the past? The recruitment algorithms are going to pick out more men.
+"The risk is that if you don't put in strong tests, women and people of colour are overlooked."
+To help firms and other organisations avoid bias in their AI systems, not just for recruitment, but for all their business operations, Prof Wachter  wrote a paper on the issue last year. Subsequently, her proposals have been adopted by Amazon.
+There are, however, more benign ways in which AI is being used by the recruitment sector. 
+Take Seattle-based Textio. Its software uses AI to help firms write job adverts that appeal to a broad range of people, by making the language both more inclusive, and easy to understand. It is used by everyone from the World Bank to Dropbox, Spotify and Tesco.
+Then there is Los Angeles-based Korn Ferry, whose AI recruitment software trawls the internet for potential job candidates. So firms don't have to wait for the best possible people to apply for positions, they can instead more easily proactively chase the individuals they want.

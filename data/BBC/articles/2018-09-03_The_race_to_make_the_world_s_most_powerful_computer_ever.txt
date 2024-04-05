@@ -1,0 +1,35 @@
+Quantum computers have long been touted as incredibly powerful machines that will be able to solve hugely complex computational problems much faster than any computer we have available today. But no-one can agree on the best way to make them. Who will win the race?
+Superfast quantum computers could speed up the discovery of new medicines, crack the most complex cryptographic security systems, design new materials, model climate change, and supercharge artificial intelligence, computer scientists say.
+But there's currently no consensus on the best way to make them or how to make them available to the mass market.
+Physicists, engineers and computer scientists around the world are trying to develop four very different types of quantum computers, based around light particles, trapped ions, superconducting qubits, or nitrogen-vacancy centres in diamonds.
+Companies like IBM, Google, Rigetti, Intel and Microsoft are currently leading the quantum charge.
+Each method has its pros and cons, but the overarching challenge is the fragile nature of quantum itself.
+Instead of using ones and noughts called bits, representing on or off, in long sequences as in classical computing a quantum bit - or qubit - uses the near magical properties of sub-atomic particles.
+Electrons or photons, for example, can be in two states at the same time - a phenomenon called superposition. As a result, a qubit-based computer can do far more calculations much faster than a conventional computer.
+"If you had a two-qubit computer and you add two qubits, it becomes a four-qubit computer. But you're not doubling the computer power, you're increasing it exponentially," explains Martin Giles, San Francisco bureau chief of the MIT Technology Review.
+Computer scientists sometimes describe this quantum computing effect as like being able to go down each path of a very complex maze at the same time.
+Qubits can also influence each other even when they're not physically connected, a process called "entanglement". In computing terms, this gives them the ability to make logical leaps conventional computers never could. 
+But qubits are highly unstable and prone to interference or "noise" from other sources of energy, leading to errors in calculations. So the race is one to find a way to stabilise them for mass-production. 
+Computing giant IBM firmly believes that "transmon superconducting qubits" hold the most promise for quantum computing, and they have three prototype quantum processors that the public can access in the cloud.
+"So far, over 94,000 people have accessed IBM quantum computers in the cloud. They've run over five million experiments and written 110 papers," says Dr Robert Sutor, vice president for quantum computing strategy and ecosystem at IBM Research.
+"People are learning and experimenting... we hope in three to five years to be able to point at one specific example, and say that quantum significantly improves on anything classical computers can do."
+But IBM's method required the quantum computer to be stored within a large fridge, where the qubits are stored at temperatures close to absolute zero to ensure that they remain in their useful states. 
+This means it would be extremely hard to miniaturise, and thus very expensive.
+"It seems likely that superconducting qubits will be among the first technologies to enable useful quantum computation," says Joseph Fitzsimons, a principal investigator at the National University of Singapore's Centre of Quantum Technologies.
+"However, my impression is that they are analogous to vacuum tubes in early computers, rather than transistors which came along later.
+"We may yet see another technology emerge which becomes the ultimate winner."
+Microsoft and academics at the Niels Bohr Institute in Copenhagen are working on what they believe will be much more stable qubits based on so-called Majorana particles.
+While other teams are working on trapping qubits in silicon - the material traditional computer chips have been made from.
+And computer scientists at Oxford University are looking at ways to link smaller qubit computers rather than creating bigger computers with lots of qubits.
+There are many ways to skin Schrodinger's Cat it seems. 
+While we wait for quantum computers, what's the future for conventional, or classical, computing?
+In July, Ewin Tang, an 18-year-old graduate in computer science and mathematics from the University of Texas at Austin, made waves in the international computing world by developing a classical computer algorithm that can solve a problem almost as fast as a quantum computer. 
+The problem involved developing a recommendation engine that suggests products to users based on data about their preferences.
+And the EU recently announced it is working on the next generation of computers - exascale - which would enable a billion billion calculations per second. 
+"Exascale means 10 to the power of 18 operations per second," explains says Prof Scott Aaronson, a theoretical computer scientist at UT Austin who mentored Mr Tang. 
+"10 to the power of 18 is big, but quantum systems, which will be capable of 10 to the power of 1,000 operations per second, is much, much bigger."
+And the problem for classical computing is that we are reaching the limits of how many transistors we can fit onto a chip - Apple's A11 squeezes in an astonishing 4.3 billion, for example. 
+Moore's Law - that every two years, microprocessors will get twice as fast, use half as much energy, and take up half as much space - is finally breaking down.
+Even if a stable, mass-produced quantum computer always remains elusive, the research is already yielding interesting results.
+"If we hadn't invested in quantum computing, the quantum algorithm that inspired Mr Tang wouldn't have existed," says Prof Robert Young, a Royal Society research fellow and director of the University of Lancaster's Quantum Technology Centre.
+Already, he says that quantum research has yielded a new way to cool devices to low temperatures; light-based chip enhancements that have improved the fibre optic broadband experience; and the invention of lab-on-a-chip technologies to speed up the diagnosis of illnesses.

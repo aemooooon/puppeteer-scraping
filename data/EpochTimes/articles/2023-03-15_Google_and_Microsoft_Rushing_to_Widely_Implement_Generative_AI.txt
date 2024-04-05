@@ -1,0 +1,8 @@
+The explosive interest in OpenAI’s ChatGPT has tech giants scrambling to capitalize on generative AI in the wider market.
+On March 14, Google announced that it will begin packing virtually all of its Workspace products with generative AI—an artificial intelligence chatbot that is capable of generating creative output from simple user prompts.
+The new features will become accessible to US users by the end of the month.
+“From there, we’ll iterate and refine the experiences before making them available more broadly to consumers, small businesses, enterprises, and educational institutions in more countries and languages,” Google announced. “We’re just getting started.”
+At the beginning of February, the software giant rolled out an AI-enhanced version of its Teams groupware, integrating ChatGPT-based tools for summarizing meeting notes, organizing tasks, and translating text.
+Both Microsoft and Google explained that their AI technology will initially be made available to a few select customers, with whom they will collaborate closely to identify bugs and improve features.
+However, the sudden acceleration of widespread AI implementation has critics worried.
+Platformer obtained audio of Microsoft VP John Montgomery telling his team: “The pressure from [CTO] Kevin [Scott] and [CEO] Satya [Nadella] is very, very high to take these most recent OpenAI models and the ones that come after them and move them into customers’ hands at a very high speed.”

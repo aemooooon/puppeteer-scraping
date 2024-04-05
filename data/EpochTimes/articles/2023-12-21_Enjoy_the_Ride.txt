@@ -1,0 +1,24 @@
+The driverless car is here!
+Finally.
+Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for “Way Forward in Mobility.”
+Regulators in San Francisco and Phoenix legalized Waymo cars because the robo-cars drive better than people do. They’ve already driven millions of miles on public roads without any fatalities. Not one. No injuries either.
+Waymo achieves that with sensors attached to the top and sides of the cars. The sensors constantly shoot out lasers that bounce back, telling the car precisely where other objects are.
+The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips.
+The more the robo-cars drive, the more they learn, and the smarter and safer they get.
+The big automotive safety problem is people, not robo-cars. It’s people who kill nearly 43,000 Americans every year. Drunk drivers kill 13,000 people. 6,000 of us die because we fall asleep while driving.
+Waymo cars have accidents, too, but almost all happen because of human error: a human driver hits the Waymo.
+Another robo-car, Cruise, owned by GM, is almost as safe, but Cruise cars have gotten into bigger accidents.
+California regulators then said they pose an “unreasonable risk to public safety,” and suspended their permit to drive. But California limited the ban to Cruise cars’ autonomous mode, meaning Cruise can still operate so long as they have a human in the front seat, as backup.
+I’m surprised that the regulators have been so reasonable. Often, after accidents, bureaucrats simply ban new ideas. California regulators have exercised unusual restraint. 500 Waymo cars still operate freely in large sections of San Francisco and Phoenix.
+Still, there will be problems.
+First responders in San Francisco told my executive producer, Maxim Lott, “(WAYMO cars) freeze in front of us. It’s a 15-to-30-minute fix waiting for a technician. That’s time we don’t have when a building is on fire.”
+Driverless car companies say they’re making adjustments to let first responders move the cars in an emergency.
+“We’ve heard that, too,” the fire chief told Lott. “It hasn’t happened.”
+The media hype other risks.
+Quoting a magazine headline, Lott asks Alex Roy, former executive at Argo AI, “What if a hacker gets into Waymo and hacks 1,000 robo-taxis, ordering them off the road?”
+“These what-ifs don’t make much sense,” replies Roy. “For every technology that’s ever arrived, there was a ‘what if.’ The ‘what ifs’ played out. ... Solutions arrived and everybody moved on.”
+Meanwhile, some anti-car activists in San Francisco are vandalizing robo-cars.
+But most people who try them like them.
+“It’s one of the few things you can do today that makes you feel like people must have felt 100 years ago,” says Roy. “First time they saw a light bulb, first time they saw a plane.”
+Fully driverless cars are here, and they’re a very good thing.
+More places should allow them.

@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "bbc": "node BBC.js",
+    "epoch": "node TheEpochTimes.js"
   },
   "keywords": [],
   "author": "",

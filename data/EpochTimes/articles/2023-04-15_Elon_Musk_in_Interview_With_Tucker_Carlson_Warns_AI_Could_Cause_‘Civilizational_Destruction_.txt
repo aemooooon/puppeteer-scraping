@@ -1,0 +1,7 @@
+Tech billionaire Elon Musk is sounding the alarm about the risks of artificial intelligence (AI)—specifically, its potential for “civilizational destruction.”
+“AI is more dangerous than, say, mismanaged aircraft design or production maintenance or bad car production in the sense that it has the potential—however small one may regard that probability, but it is non-trivial—it has the potential of civilizational destruction.”
+A growing sense of unease about AI and its implications has begun to give many, like Musk, pause.
+Holding that AI can pose “profound risks to society and humanity,” the AI experts asserted: “Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable. This confidence must be well justified and increase with the magnitude of a system’s potential effects.”
+“We agree,” they wrote. “That point is now.”
+Although he said that safety should be a concern, he clarified that the lab isn’t currently training GPT-5.
+“We are not and won’t for some time,” Altman said. “So, in that sense, it was sort of silly.”

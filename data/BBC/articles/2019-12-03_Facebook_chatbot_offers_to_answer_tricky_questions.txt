@@ -1,0 +1,13 @@
+Facebook has created a chatbot to help its own employees answer tricky questions from friends and family over the holiday season.
+The Liam bot answers queries about how the social network handles hate speech and disinformation and can even offer advice about helping locked-out users.
+Facebook said it was responding to requests from its staff.
+In the past, employees have been offered guidance on what to say to relatives via email. 
+Facebook told BBC News: "Our employees regularly ask for information to use with friends and family on topics that have been in the news - especially around the holidays.
+"We put this into a chatbot, which we began testing this spring."
+A chatbot is a piece software that uses artificial intelligence to carry out a conversation.
+If Liam is asked about how Facebook handles hate speech, it will offer the following points:
+The bot also offers links to company blog posts or news releases.
+Facebook has faced a series of controversies during the past few years, including questions about the role it plays in elections, with the spread of fake news and disinformation. 
+It is also struggling to recover its reputation in the wake of the Cambridge Analytica scandal, which saw the data of millions of users harvested without consent.
+The response on Twitter was mixed, with some describing the chatbot as "dystopian" and "sad".
+The New York Times, which was the first to break the story, tweeted: "Friends and family can ask difficult questions over the holiday season about where you work - especially if you work at Facebook."

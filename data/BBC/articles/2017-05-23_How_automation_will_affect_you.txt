@@ -1,0 +1,74 @@
+More companies are turning to smart machines to save money on slow, expensive human employees. Here’s everything you need know about automation – and what it means for your job.
+With soft, nimble fingers, an arm stretches out to delicately pluck an apple from a shelf and place it gently into a basket.
+It performs the task again with a bag of limes and again with a pepper, never tiring, never complaining.
+This is a prototype robotic arm being tested by Ocado, the British online supermarket. The irregular shape and delicate flesh of these common groceries have meant they tend to be packed by human workers at Ocado’s warehouses. But the company is pursuing robotic technology that could assist these human warehouse workers but still handle produce safely, making the process faster and cheaper for the company.
+Ocado is far from the only company pursuing automated workers. It is happening in hospitals, law firms, the stock market. The list goes on.
+The question is… how does this affect the human workforce? How might it affect you?
+BBC Future Now asked a panel of experts for their views, as part of our special series on the ‘Grand Challenges’ facing humanity. We hear a lot about doom-and-gloom surrounding robots stealing our jobs, but what will actually happen? Who’s at risk, and what could your workplace actually look like in five years?
+The answers might surprise you.
+The middle class is at risk 
+Reports suggest that 47% of people employed in the US are at risk of being replaced by machines and 35% of jobs in the UK may similarly be threatened – with even higher threats in developing countries, with two thirds of jobs at risk of being automated.
+But machines stealing jobs is not new. “Automation has happened before,” says Bhagwan Chowdhry, professor of finance at the University of California, Los Angeles. Chowdhry points to the shifts that took place in factories during the industrial revolution when automatic looms and other machines took over from human weavers.
+So what’s different this time? “It it is not going to affect just blue collar workers,” says Chowdry. “But also a lot of white collar workers.”
+Often, we think of low-wage, low-skill jobs being the most at risk, like warehouse workers or cashiers, but automation may also affect middle-income jobs, such as clerks, chefs, office workers, security guards, junior lawyers, inspectors.
+Those in the firing line are understandably worried. “The concern is more about the transition pains,” says Carl Benedikt Frey, co-director of the Oxford Martin Programme on Technology and Employment. “Most jobs that we will see being automated require different skill sets from those being created. The key challenge will be to make sure that those who experience displacement will find something meaningful to do.”
+So, should companies seeking to automate jobs have a moral responsibility to help the staff they are replacing to learn new skills?
+Future-proofing your job
+The answer may go beyond just the companies – it may need to start in school.
+The way we currently structure education may no longer be fit for purpose in a world where technology is changing so rapidly.
+“The concern is that we are not updating our education, training and political institutions to keep up,” warns Erik Brynjolfsson, director of the Massachusetts Institute of Technology (MIT) Initiative on the Digital Economy. “We could end up leaving a lot of people behind.”
+Brynjolfsson and Paul Clarke, chief technology officer at Ocado, both agree that school and college education need to better prepare pupils for a world where robotic and artificial intelligence will be widespread.
+In the workplace, employees will also continually require new sets of skills rather than using the same ones over their entire career that could just go obsolete anyway.
+“The distinction between work and learning might need to become more amorphous,” says Chowdhry. “We currently have a dichotomy where those who work need not learn, and those who learn do not work. We need to think about getting away from the traditional five day working week to one where I spend 60% of my time doing my job and 40% learning on a regular basis.”
+For the majority of us, this could be a crucial switch in our thinking.
+Research by management consultants McKinsey and Company suggests that fewer than 5% of occupations can be entirely automated by existing technology. The reason – our jobs are simply too varied and changeable for robots to take on all the tasks.
+Instead, they predict around 60% of occupations could see a third of the activities they currently do being farmed out to machines. This will mean that most of us will probably be able to cling onto our jobs, but the way we do them is going to change significantly.
+Robots will complement you, not replace you
+Learning how to work alongside robots could be essential, too.
+“We can have cases where machines pick up some of the repetitive work to free up humans to do other more rewarding aspects of their job,” explains James Manyika, senior partner at McKinsey who has led much of their research into the impacts of automation. “This could put a massive downward pressure on wages because the machine is now doing all the hard work. It could also mean more people could do that job aided by the technology, so there is more competition.”
+There are wider issues at stake here too. With lower incomes and potential unemployment looming for middle-income workers, governments themselves could face some fundamental problems, like lost taxes and dissatisfied voting classes.
+Luckily, there are some things humans can do that machines just can’t right now.
+One good example of this comes from some work by researchers in Singapore, who are attempting to teach two autonomous robotic arms to assemble a flat-packed Ikea chair. Despite using some of the most advanced equipment around, the machines struggle with the most basic tasks.
+Even identifying different objects from a chaotic mixture of parts is a major challenge for robots. In a recent test, it took the two robots more than a minute and half to successful insert a piece of dowelling into one of the chair legs.
+And that's just one piece of furniture. “The real challenges occur when you want that robot to assemble several items of furniture,” Hawes explains. “A robot might be able to put together an Ikea chest of drawers, but it will struggle to then do a wardrobe from the same line, as the pieces will be different, even if some of the assembly steps are the same. Humans don’t have that problem.”
+The human advantage
+From better flexibility to better personalities, there are some things we may always do better than robots.
+“As we automate a lot of the repetitive work, we are going to see increased demand for creative skills,” says Brynjolfsson. “We are also going to see an increased demand for those with social skills, interpersonal skills, who are nurturing, caring, teaching, persuasive, have negotiating skills, and are good at selling.”
+Frey thinks there are a few areas where humans have the advantage.
+“The first is social interactions,” says Frey. “If we think about the variety of complex social interactions we do in our daily jobs – when we negotiate, or try to persuade people, assist others or take care of customers. We manage teams and so on. It is almost inconceivable that computers will intrude upon human workers who do that.”
+Another is creativity. Computers are good at grinding down problems and performing repetitive tasks without getting bored. Humans, however, find this kind of monotonous work tedious.
+The MIT Initiative on the Digital Economy has even set up a $1 million challenge aimed at encouraging businesses to make the most of these typically “human traits” alongside technology.
+“The amount we currently pay people like nannies and carers for the elderly is atrocious,” says McKinsey’s Manyika. “Similarly, there is plenty of artistic and creative work that has never made any money. The challenge is how we pay for and value creative output, or other tasks we are not willing to let machines do.”
+Alex Harvey, head of research at Ocado Technology, which develops the software and tech for the company's retail arm, points out that the world has been designed and built for humans, and building robots to operate in these naturally complicated environments is a major technical challenge.
+One of the projects Ocado is working on with universities around Europe is a robotic assistant for maintenance work called SecondHands, which illustrates how humans and robots might collaborate.
+“It has the ability to lift things to a greater height than a human, for example,” explains Harvey. “It is quite a simple robot in terms of its behavioural repertoire, but it can form a nice team where the human technician is the leader and they can use the muscular power of the robot.”
+But the closer humans and machines work together, the murkier the ethical waters start to get.
+The ethics problem
+Around 1.7 million robots are already in use around the world, but they are largely used in industrial settings where few humans are allowed to set foot. As that number grows, and the roles they perform expand, the likelier humans are to work hand in hand with robots, side by side – increasing the risk of harm.
+“There needs to be more transparency so we can understand how these things do the things they do and behave the way they do,” urges Mady Delvaux, vice chair of the committee on legal affairs at the European Parliament.
+She recently led an effort in the parliament to push for rules on robotics and artificial intelligence.
+A report compiled for the European Parliament stressed there was urgent need for new legislation on liability should accidents happen. Similar issues of liability arise should a robot take actions that break the law. An AI algorithm, for example, could choose to make a series of financial transactions that achieve its goals, but lie outside the tangled web of regulations that govern the sector.
+Delvaux and her colleagues also called for a Code of Ethics to help guide our relationship with robots.
+“There have to be some things that are respected, like the autonomy of people and their privacy,” says Delvaux.
+This perhaps also highlights another issue troubling many dealing with artificial intelligence – the problem of bias. Machine learning systems are only as good as the data they are given to learn on, and recent studies have suggested artificial intelligence can develop sexist and racist tendencies.
+Delvaux also points to the people who are writing the algorithms in the first place. The majority of people working in the technology industry are white males, with men making up between 70% and 90% of the employees at some of the biggest and most influential companies.
+Silicon Valley has been rocked over the past couple of years with scandals about sex discrimination. It has raised fears that robots and machines could display similar discriminatory behaviour.
+“It is a very thin slice of the population currently designing our technologies,” warns Judy Wajcman, a professor of sociology at the London School of Economics. “Technology needs to reflect society, so there needs to be a shift in the design and innovation process.”
+Meanwhile, Bill Gates recently suggested yet another ethical red flag: that robots themselves may have to be taxed to make up for lost levies on income from employees. Others have suggested as robots take on more tasks, there could be a growing case for universal basic income, where everyone receives state benefits.
+Much of this, of course, assumes that robots are actually capable of doing the jobs we set them. Despite their apparent intelligence, most robots are still pretty dumb contraptions when compared to our own capabilities.
+Machines have a ways to go
+Like the Ikea example, AI leaves a lot of room for improvement.
+Perhaps one of the greatest issues facing the machine learning and artificial intelligence community currently is understanding how their algorithms work. “Things like artificial intelligence and machine learning are still largely black boxes,” argues Manyika. “We can’t open them up to find out how they got the answer they produce.”
+This presents a number of issues. Machine learning systems and modern AI are usually trained using large sets of images or data that are fed in to allow them to recognise patterns and trends. They can then use this to spot similar patterns when they are given new data.
+This might be fine if we want to find CT scans that show signs of disease, for example, but if we use a similar system to identify a suspect from a fragment of CCTV footage, knowing how it did this may be crucial when presenting the evidence to a jury.
+Even in the field of autonomous vehicles, this ability to generalise remains a considerable challenge.
+Takeo Kanade, a professor of robotics at Carnegie Mellon University, is one of the pioneers of self-driving vehicles and an expert in computer vision. He says giving robots a “genuine understanding” of the world around them is still a technical challenge that needs to be overcome.
+“It is not just about identifying where objects are,” he explains, following a lecture at the inaugural Kyoto Prize at Oxford event, where he outlined the problems facing researchers. “The technology has to be able to understand what the world is doing around them.  For example, is that person actually going to cross the road in front of them, or not?”
+Hawes himself encountered a similar problem with one of his own projects that put an autonomous “trainee office manager” into several offices in the UK and Austria.
+The team programmed the robot, called Betty, to trundle around the offices monitoring for clutter building up, checking whether fire doors were closed, measuring noise and counting workers at their desks outside normal hours.
+“Things would appear in the environment like chairs moving, people shifting their desks or pot plants,” he says. “Dealing with that without reprogramming the whole robot is challenging.”
+But even though the robot wasn’t perfect, the humans still found a way of working alongside it.
+Surprisingly, those working alongside Betty actually responded to their mechanical worker in a positive way, even coming to its aid if the robot ever got stuck in a corner. “People would say hello to it in the morning and said it made the office more interesting to work in,” says Hawes.
+If we can hand the tedious, repetitive bits of our jobs to machines then it could free us up to some of the things we actually enjoy. “Work has the potential to become more interesting as a result,” says Frey.
+It is a tantalising thought, that just perhaps, the rise of the machines could make our jobs a lot more human.
+Join 800,000+ Future fans by liking us on Facebook, or follow us on Twitter.

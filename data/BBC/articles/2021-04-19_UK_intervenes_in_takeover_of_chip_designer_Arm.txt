@@ -1,0 +1,21 @@
+The UK government is to examine the sale of computer chip designer Arm Holdings to a US company on national security grounds.
+Japan's SoftBank intended to sell the UK tech company to Nvidia for about $40bn (£29.5bn).
+But Digital Secretary Oliver Dowden said he wanted the UK's competition watchdog to assess its implications. 
+"Following careful consideration of the proposed takeover, I have today issued an intervention notice," he said.
+"As a next step and to help me gather the relevant information, the UK's independent competition authority will now prepare a report on the implications of the transaction, which will help inform any further decisions."
+Arm's technology is at the heart of most smartphones and smart devices worldwide.
+But there were concerns when the Cambridge-based designer - which licenses its tech to the likes of Apple, Samsung and Huawei - accepted the offer from Nvidia, a US graphics chip specialist. 
+In January, the Competition and Markets Authority (CMA) announced it was looking into the deal amid worries it could lead Arm to withdraw, raise prices or reduce the quality of its services to Nvidia's rivals.
+Mr Dowden has now ordered it to begin a "phase one" investigation, which will decide whether a full "phase two" investigation is needed that could lead to the deal being blocked.
+A spokesperson for Nvidia said: "We do not believe that this transaction poses any material national security issues.
+"We will continue to work closely with the British authorities, as we have done since the announcement of this deal."
+Last year, more than 2,000 business leaders signed an open letter calling on the prime minister to stop the merger, saying UK jobs and influence could be lost.
+Nvidia has promised to keep Arm based in the UK, to hire more staff, and to retain its brand.
+It said that the deal would create "the premier computing company for the age of artificial intelligence".
+Nvidia could face barriers from other regulators around the world.
+China, in particular, has already made clear that it is not happy about a deal which gives so much power to an American giant at a time when the US has sought to deny Chinese firms access to chip technology.
+The CMA will have until 30 July to submit its findings to the digital secretary. 
+When Arm was sold to Japan's  SoftBank just after the 2016 EU referendum, the government celebrated the deal as a vote of confidence in the UK. Some had misgivings about what they saw as the jewel in the crown of 21st Century British technology falling into foreign hands, but guarantees that research and development would be strengthened in Cambridge seemed to allay ministers' concerns. 
+Then when SoftBank sold Arm on to the American chip giant Nvidia last year, there were even louder complaints from the likes of Hermann Hauser who had been instrumental in the founding of the company more than 30 years ago. But it seemed there was even less likelihood of an intervention - what business of the Competition and Markets Authority was a deal between a Japanese and an American company? 
+But much has changed since 2016. Arm being bought by Nvidia is, it appears, a national security concern now in a way that the Softbank deal was not. Why? Well the vital importance of the semiconductor industry has become clear in recent months, with chips at the centre of a US-China trade war and chip shortages halting production at car plants. 
+There has also been a major shift in the UK's attitude towards industrial policy. After three decades of a laissez-faire approach from both Conservative and Labour governments there's a new willingness to intervene - witness the move to spend taxpayers' money on a controlling stake in the failing satellite business OneWeb. 

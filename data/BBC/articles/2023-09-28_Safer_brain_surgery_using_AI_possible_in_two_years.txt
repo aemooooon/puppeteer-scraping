@@ -1,0 +1,18 @@
+Brain surgery using artificial intelligence could be possible within two years, making it safer and more effective, a leading neurosurgeon says.
+Trainee surgeons are working with the new AI technology, to learn more precise keyhole brain surgery.  
+Developed at University College London, it highlights small tumours and critical structures such as blood vessels at the centre of the brain.
+The government says it could be "a real game-changer" for healthcare in the UK. 
+Brain surgery is precise and painstaking - straying a millimetre the wrong way could kill a patient instantly. 
+Avoiding damaging the pituitary gland, the size of a grape, at the centre of the brain, is critical. It controls all the body's hormones - and any problems with it can cause blindness. 
+"If you go too small with your approach, then you risk not removing enough of the tumour," National Hospital for Neurology and Neurosurgery consultant neurosurgeon Hani Marcus says.
+"If you go too large, you risk damaging these really critical structures." 
+The AI system has analysed more than 200 videos of this type of pituitary surgery, reaching, in 10 months, a level of experience it would take a surgeon 10 years to gain.
+"Surgeons like myself - even if you're very experienced - can, with the help of AI, do a better job to find that boundary than without it," Mr Marcus says.
+"You could, in a few years, have an AI system that has seen more operations than any human has ever or could ever see." 
+Trainee Dr Nicola Newell also finds it "very helpful". 
+"It helps me orientate myself during mock surgery and helps identify what steps and what stages are coming up next," she says.
+AI government minister Viscount Camrose says: "AI makes everybody massively more productive whatever it is you do.
+"It kind of almost makes you the Marvel superhero version of yourself."
+He said this type of technology could be a game-changer for healthcare, improving outcomes for everyone and offering a "very promising" future.
+University College London (UCL) is one of 22 universities recently given government money to help revolutionise healthcare in the UK.
+Engineers, clinicians and scientists are working together on the project at the Wellcome / Engineering and Physical Sciences Research Council (EPSRC) Centre for Interventional and Surgical Sciences.

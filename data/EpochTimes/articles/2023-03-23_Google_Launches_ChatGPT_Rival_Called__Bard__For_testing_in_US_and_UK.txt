@@ -1,0 +1,16 @@
+Google launched its ChatGPT rival, “Bard” for testing in the United Kingdom and the United States to rival the currently popular ChatGPT.
+The tech company invited people in both countries to test its new AI chatbot in a bid to catch up with its Microsoft-backed competitor.
+Microsoft had already been investing billions into OpenAI since 2019.
+According to a memo seen by AFP, Pichai told his staff on March 21 that after testing the new chatbot with 80,000 Google employees, Bard would be publicly previewed with American and British testers as the “first step” before it is sent out to more countries in other languages.
+“As more people start to use Bard and test its capabilities, they’ll surprise us,” wrote Pichai.
+Pichai has plans to integrate AI features such as its next-generation language and conversation app, called Language Model for Dialogue Applications (LaMDA), into its Google search engine to help generate better responses for more complex queries.
+Currently, Google operates by indexing content from the billions of web pages that it scans and later ranking it in order of relevance to users’ search queries.
+“Things will go wrong. But the user feedback is critical to improving the product and the underlying technology,” explained Pichai.
+Although the technology behind the AI chatbots can be amazing to those in the industry, they still have their faults, the two VPs cautioned.
+Google has taken a more cautious and methodical approach when it comes to its rollout of the advanced AI tech to consumers, in contrast to Microsoft’s quicker release, which gave ChatGPT a controversial reputation with many embarrassing bugs needing to be addressed.
+ChatGPT has gained tens of millions of users since its trial release at the end of last November and was forced to turn away many applicants due to high demand.
+The new update, known as GPT-4, is now available to the public via ChatGPT Plus, OpenAI’s paid subscription service, and on an AI-powered version of Microsoft’s Bing search engine.
+The GPT-4 system update has new capabilities, such as accepting images as inputs and generating captions, classifications, and analyses.
+It is also capable of handling over 25,000 words of text, which allows for use cases such as long-form content creation, extended conversations, and document search and analysis.
+When asked by reporters from AFP how it was different from ChatGPT, Bard responded that, unlike its main rival, it was “able to access and process information from the real world through Google Search and keep my response consistent with search results.”
+The bot told AFP that it was still “under development, while ChatGPT has been released to the public. This means that I am constantly learning and improving, while ChatGPT is likely to remain relatively unchanged.”

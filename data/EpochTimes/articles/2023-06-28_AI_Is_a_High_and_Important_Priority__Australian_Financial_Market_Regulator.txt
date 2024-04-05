@@ -1,0 +1,12 @@
+Australia’s corporate regulator has placed at the top of its agenda the regulation of artificial intelligence development in the financial markets amid the “new and different ” risks attached to the quickly evolving technology, partly driven by the fear of being “left behind”.
+“I want to take this opportunity, as an aside, to emphasise that ASIC has AI as a high and important priority,” he said. “Not just in regards to wholesale markets, but also its role in – and for – the whole economy, including consumers and small business.”
+“Recent developments, especially in the field of Generative AI, represent a steep change and potentially create new and different risks and issues,” he said. “The speed at which things are changing also seems to be accelerating.”
+Longo also urged the market players, including hedge funds, banks and traders, to do their part by not increasing their AI usage at the expense of controls.
+“Just because the technology has changed, nobody should think that means your existing obligations around good governance have changed with it,” he said.
+“While Australia already has some safeguards in place for AI and the responses to AI are at an early stage globally, it is not alone in weighing whether further regulatory and governance mechanisms are required to mitigate emerging risks,” the discussion paper said.
+The research by NSTC shows that generative AI technologies “will likely impact everything from banking and finance to public services, education and creative industries” in the near term, although the full risks and opportunities of AI are still difficult to predict.
+The discussion paper also indicates that Australia will have to keep close to overseas developments on regulation.
+“Our ability to take advantage of AI ... will be impacted by the extent to which Australia’s responses are consistent with responses overseas,” it said.
+The paper lists possible options for regulating AI, including “risk-based” classification systems being drafted in the European Union, which will rate AI tools and impose tiered levels of restrictions based on their potential impacts.
+The paper also leaves open the option of implementing “sector-specific ” laws or standards, along with adjustments to “general” regulations.
+When it comes to the governance of AI in the financial sector, the ASIC chairman also flagged that the regulator is considering both expanding and updating the existing rules.

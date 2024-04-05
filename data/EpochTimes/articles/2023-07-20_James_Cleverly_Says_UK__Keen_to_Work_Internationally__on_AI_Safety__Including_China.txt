@@ -1,0 +1,21 @@
+British Foreign Secretary James Cleverly said the UK is “keen” to work with other countries including China on Artificial Intelligence (AI) as he chaired the first U.N. Security Council meeting on AI on Tuesday.
+As governments around the world are racing to develop guardrails for the emerging technology, the Chinese regime last week published its temporary regulations on generative AI.
+“We either all do it together and we are successful, or we don’t work together and we potentially run the risk of being unsuccessful,” he said.
+Noting that a Chinese AI expert, as well as a British one, would brief the meeting, the foreign secretary said, “So we are keen to work internationally to build a coalition to make sure that we are all protected.”
+Pressed on whether he sees any potential safety and security risks of collaborating with the Chinese regime on AI, Mr. Cleverly said all countries, including China, “has a real incentive to work collaboratively and multilaterally, to make sure that we harness the positives, but also protect ourselves and everyone else from the potential pitfalls.”
+The UK is set to host an AI summit this autumn.
+Stressing that it’s the Foreign Office’s decision on whom to invite, Mr. Berry said it would be “absolutely crazy to sort of try and bifurcate AI safety regulation globally.”
+“Where there’s a global movement to address risks of artificial intelligence, China will have to be involved in one way or another,” he told the publication. “I can’t see why they would choose not to be.”
+But it also bans AI from generating content that incites subversion of state power, subversion of the socialist system, or secession;  jeopardises state security and welfare, harms the national image, or sabotages national unity and social stability.
+Foreign companies providing AI-based services in China also have to obey the rules, the document said.
+He also warned about Beijing’s collection of big data, which is an essential component of AI in its current form.
+“When China was selling COVID vaccines around the world, it often ensured that recipient countries would have to share their vaccination data sets with Beijing. That is exactly the kind of condition in any deal which should ring alarm bells.”
+Commenting on China’s AI regulation, Mr. Moore said he agrees with the importance of “veracity, accuracy, objectivity, and diversity,” adding, “Let’s make those fine words a reality not a slogan.”
+The intelligence chief said the Chinese regime benefits in the area of AI from the “sheer scale” of data available in the country, and it’s also “hoovering up” data abroad.
+But Chenggang Xu, visiting professor at the Imperial College and visiting fellow at the Hoover Institution of Stanford University, has disputed China’s leading status in AI and other technology areas.
+“So when you train the Chinese version of a Chat GPT model, the lack of overseas information would be a significant problem,” he said. The outcome would be “more like a model that the Propaganda Department would desire, rather than a comprehensive problem-solving tool.”
+According to Mr. Xu, China appeals to be advanced in AI because of the police state’s enormous investment in some of the AI-related areas, such as facial and voice recognition, but in other areas, such as AI-assisted analysis of new medicine or materials, it’s trailing behind and could fall further back with the United States’ chips embargo hampering its computing power.
+He also said that the perceived advance China has on AI partly came from the number of research papers and patents, which he argues should be taken with a grain of salt.
+According to Mr. Xu, China’s leadership status in research papers and patents is reflected only in the quantity, but not the quality.
+“Research papers are supposed to be the result of your research, but in China, there’s a very very strong incentive mechanism, linking the number of papers with one’s position and financial reward,” he said.
+“So people would do their best to publish papers,” he said. “It’s like taking tests. The Chinese are known for [excelling in] tests.”

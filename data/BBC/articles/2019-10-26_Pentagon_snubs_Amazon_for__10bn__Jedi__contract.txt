@@ -1,0 +1,30 @@
+The Pentagon has awarded a $10bn (£8bn) cloud-computing contract to Microsoft, following a heavily scrutinised bidding process in which Amazon had been seen as the favourite.
+The 10-year contract for the Joint Enterprise Defence Infrastructure, or Jedi, is aimed at making the US defence department more technologically agile.
+Amazon's bid drew criticism from its rivals and US President Donald Trump.
+The company said it was "surprised" by the decision. 
+A "detailed assessment purely on the comparative offerings" would "clearly lead to a different conclusion", it said.
+Amazon is said to be evaluating its options after the decision. It has 10 days to decide whether or not to launch a challenge.
+In its statement, the Pentagon said all offers "were treated fairly". 
+Microsoft executive Toni Townes-Whitley said the company was "proud" to have had its cloud technologies picked by the Department of Defense to "satisfy the urgent and critical needs of today's warfighters".
+The Department of Defense wants to replace its ageing computer networks with a single cloud system.
+Under the contract, Microsoft will provide artificial intelligence-based analysis and host classified military secrets among other services.
+It is hoped that Jedi will give the military better access to data and the cloud from battlefields. 
+Amazon had been considered the front-runner - until President Trump began questioning whether the process was fair. 
+In July he told reporters that he was getting "tremendous complaints about the contract with the Pentagon and Amazon".
+He said other companies had told him that the contract "wasn't competitively bid" and that his administration would "take a very long look" at the process.
+Mr Trump has repeatedly criticised Amazon and its founder Jeff Bezos - who also owns the Washington Post newspaper - in the past.
+Dan Ives, managing director and equity analyst Wedbush Securities, said he expected Amazon and others to challenge the decision in the courts, but called it a "paradigm changer" for Microsoft. 
+The move was likely to boost Microsoft's share price and bring "significant positive financial implications" for the company in the coming years, he said.
+By Leo Kelion, BBC Technology desk editor
+Amazon will be bitterly disappointed to have lost this contract, having long considered its bid to be the stronger.
+But after President Trump's comments about "receiving tremendous complaints" about Amazon's frontrunner status in July, and then the delay to announcing the award the following month, it had always looked liked Microsoft could pull off an upset.
+The timing is curious, however, coming just days after Defence Secretary Mark Esper unexpectedly removed himself from the review process after months of involvement, on the grounds that one of his sons worked for IBM - one of the other original applicants.
+It means Microsoft is now set to be a huge recipient of Department of Defense funds.
+Not only will it benefit from Jedi, but also a separate multi-billion dollar contract known as Deos. This has run into delays of its own, but is still set to result in the DoD using cloud-based Office 365 for its email, calendar, video-calling and other productivity software needs.  
+One issue for Microsoft is whether its closeness to the military will cause it problems. 
+Some of its own workers have already objected to it developing a version of its Hololens augmented reality headset for the US military, and the idea of it now providing machine learning tools and other systems to help "enhance force lethality" could prove to be a PR nightmare.
+For Amazon, if the loss of such a lucrative contract is linked to Jeff Bezos's ownership of the Washington Post, it could fuel calls for AWS to be spun off from its parent and established as a separate company. There had already been speculation this might happen in order to head off regulators' concerns that Amazon already extends too deeply into Americans' lives.
+The announcement marked the end of a long process that had pitted tech giants Microsoft, Amazon, Oracle and IBM against each other.
+As the world's biggest provider of cloud-computing services, Amazon had been the favourite to win Jedi. But its competitors argued that the process was unfair.
+Oracle challenged the bidding process in federal court earlier this year, saying that it was rigged to favour Amazon, but a federal judge dismissed the allegation.
+It said that it had awarded more than $11bn in 10 separate cloud-computing contracts over the past two years.

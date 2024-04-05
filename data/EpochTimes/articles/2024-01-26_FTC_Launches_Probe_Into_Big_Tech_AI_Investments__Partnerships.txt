@@ -1,0 +1,9 @@
+The U.S. Federal Trade Commission (FTC) is launching an investigation into multiple Big Tech firms and their recent investments and partnerships involving the rapidly growing generative artificial intelligence (AI) industry, officials have announced.
+The regulatory agency’s probe targets Alphabet, Inc., Amazon.com, Inc., Anthropic PBC, Microsoft Corp., and OpenAI, Inc.
+The agency said it plans to examine whether any of those deals harms or undermines fair competition.
+As part of the probe, officials will “scrutinize corporate partnerships and investments with AI providers to build a better internal understanding of these relationships and their impact on the competitive landscape,”
+“Our study will shed light on whether investments and partnerships pursued by dominant companies risk distorting innovation and undermining fair competition,” Ms. Khan added.
+Specifically, the FTC is seeking information regarding the “agreements and the strategic rationale” of the investments and partnerships, the “practical implications” of the investments and partnerships, including decisions around new product releases, governance or oversight rights, and the topic of regular meetings.
+Officials are also analyzing the investments’ competitive impact, including “information related to market share, competition, competitors, markets, potential for sales growth, or expansion into product or geographic markets,” among other things, the agency said.
+In a statement following the FTC’s announcement, Microsoft said it welcomed the probe.
+“Partnerships between independent companies like Microsoft and OpenAI, as well as among many others, are promoting competition and accelerating innovation. We look forward to providing the FTC with the information it needs to complete its study.”

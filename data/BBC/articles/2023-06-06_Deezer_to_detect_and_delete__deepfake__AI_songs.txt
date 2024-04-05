@@ -1,0 +1,27 @@
+Streaming service Deezer says it has developed technology that allows it to identify and potentially delete songs that clone pop stars' voices.
+The French company says it wants to "weed out illegal and fraudulent content" to protect artists.
+"We need to take a stand now," CEO Jeronimo Folgueira told the BBC. "We are at a pivotal moment in music."
+There has been a recent spate of songs that use artificial intelligence to replicate the vocals of real stars.
+In April, Universal Music successfully petitioned streaming services to remove a song called Heart On My Sleeve, which was purportedly sung by two of the company's biggest artists, Drake and The Weeknd.
+The label said "the training of generative AI using our artists' music" was "a violation of copyright law". However, that position has not been tested in court, and remains a legal grey area.
+Musicians themselves are divided over the technology. Alt-pop singer Grimes has made her voice available for anyone to use, but Sting said artists were facing "a battle" to retain authorship over music.
+Deezer has a small share of the UK streaming market, but is more prominent in France and part of South America.
+It says its new tool will tag music that has been created with generative AI, "starting with songs using synthetic voices of existing artists".
+Those tracks will be flagged up to labels, artists and other rights holders, who can then decide what action to take. 
+Ironically, its new detection tool is based on machine learning and artificial intelligence.
+"This is a good use of AI and technology," said Mr Folgueira, who stressed he was not against AI music as long as it was created ethically.
+"For example, personally, I would love to see AI bring Whitney Houston back to life, and come up with amazing new tracks with her voice. 
+"But we as an industry need to make sure that AI is used in the right way, that it complies with the law and intellectual property rights and that artists get compensated fairly."
+He likened the rise of AI-generated tracks to the spread of misinformation on social media platforms like Twitter and Facebook.
+"One of the reasons they allowed fake news to flourish is because they were making a lot of money out of it. When people became polarised it created a lot more engagement, and then we had this terrible impact in society. I think there's a similar risk here as well."
+AI music can be cheap to create and royalty-free, which would increase profits for streaming services. But Folgueira warned that "diluting" the streaming catalogue with machine-generated music was potentially damaging.
+"Pushing for that because of an economic benefit could create a world in which we start destroying music as we know it," he said. "Doing that for the wrong economic reasons would be a mistake."
+He admitted that very few tracks were currently being uploaded with so-called "deepfake" vocals, but predicted there would be an explosion of AI music in the next six to nine months.
+With more than 100,000 songs uploaded to the service per day, it is impossible to have the content checked by humans.
+Folgueira said Deezer also uses its tool to root out "fake artists" - pseudonymous musicians with no discernible online presence, who create hundreds of songs (typically overly-simple mood music) to game the royalty payment system. Spotify has been routinely accused of hosting such artists.
+"We eliminate a huge amount of artists and a huge amount of fake streams every day - and the trend is that this fraudulent behaviour just keeps accelerating," Folgueira told the BBC. 
+He said that is one of the reasons Deezer had started working with Universal to change the way royalty payments are calculated.
+Currently, musicians are paid based on their portion of overall streams, so if Taylor Swift accounts for 10% of the music played on Deezer, and the company's royalty pot is £100m, she receives £10m.
+That means that people who never listen to Taylor Swift will be sending her 10% of their subscription fees, like it or not. 
+Deezer, along with Tidal, is now exploring how to more accurately reflect the songs that individual listeners choose to play, and support smaller-level artists.
+"These are very complicated discussions with multiple players - and when you're talking about sharing the pie in a different way, obviously, it's not an easy task," said Folgueira.

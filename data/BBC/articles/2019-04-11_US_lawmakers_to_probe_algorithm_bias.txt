@@ -1,0 +1,11 @@
+Computer algorithms must show they are free of race, gender and other biases before they are deployed, US politicians have proposed.
+Lawmakers have drafted a bill that would require tech firms to test prototype algorithms for bias.
+Many organisations rely on coded instructions or algorithms for tasks such as showing users relevant ads, analysing behaviour or sorting data.
+Critics said the bill could limit the benefits of machine intelligence.
+The rules would affect companies with annual revenues of $50m (£38m) in revenue or which hold data on more than one million people.
+Democratic Senator Ron Wyden, who helped draft the law, said it was needed because computer algorithms were "increasingly involved" in the lives of Americans.
+"But instead of eliminating bias, too often these algorithms depend on biased assumptions or data that can actually reinforce discrimination against women and people of colour," he said.
+A statement outlining the need for the law, cited as evidence an algorithm that Amazon used to help recruit staff which was found to be biased against women. The algorithm was scrapped. 
+Last month, the US Department of Housing and Urban Development sued Facebook for enabling discrimination by letting advertisers restrict who saw ads for homes on the basis of race, religion or nationality. 
+The proposed law drew criticism from the Information Technology and Innovation Foundation industry group.
+Daniel Castro, a spokesman for the foundation said the law would only "stigmatise" AI and discourage its use. 

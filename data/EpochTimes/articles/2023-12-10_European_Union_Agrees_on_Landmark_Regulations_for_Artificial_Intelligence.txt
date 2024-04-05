@@ -1,0 +1,24 @@
+European Union policymakers sealed a historic deal on Friday, finalizing the AI Act, a world-first sweeping regulation for artificial intelligence (AI).
+The landmark legislation establishes a comprehensive regulatory framework, addressing the risks associated with the rapid evolution of AI technology.
+Proposed in 2021, the framework classifies AI uses by risk levels, implementing stricter regulations on higher-risk applications.
+Roberta Metsola, the president of the European Parliament, characterized the law as “a balanced and human-centered approach” that is poised to “no doubt be setting the global standard for years to come.”
+The law comes amid growing fears about the disruptive capabilities of AI. Having been cleared by the EU, the law will go to the European Parliament for approval and is expected to pass.
+The AI Act bans harmful AI practices deemed a “clear threat to people’s safety, livelihoods, and rights.”
+It introduces a risk-based approach, prohibiting the riskiest AI applications, including those exploiting specific vulnerable groups, biometrics for law enforcement, and deploying manipulative “subliminal techniques.”
+Facial recognition by law enforcement and governments will face stringent restrictions, with potential fines of up to 7 percent of global sales for violating companies.
+Those AI systems presenting only “limited risk” would be subject to very light transparency obligations. This includes chatbots like OpenAI’s ChatGPT, or technology that generates images, audio, or video content are subject to new transparency obligations under the law.
+European Commissioner Thierry Breton hailed the agreement as “historic,” emphasizing its significance as the first set of clear rules for AI use on a continent.
+“The EU becomes the very first continent to set clear rules for the use of AI. The #AIAct is much more than a rulebook—it’s a launchpad for EU startups and researchers to lead the global AI race. The best is yet to come!” he wrote on X, formerly Twitter.
+The rules won’t take effect until 2025 at the earliest, allowing room for technological evolution.
+The rise of generative AI technology like OpenAI’s ChatGPT chatbot in November 2022 has catapulted AI into the mainstream.
+Beyond Big Tech, the impact of AI is felt across various sectors, with educators, artists, musicians, and the media grappling with the challenges and controversies surrounding its widespread adoption.
+“To realize the promise of AI and avoid the risk, we need to govern this technology. And there’s no other way around it, in my view,” President Biden said before signing the order at the White House.
+The executive order, per the White House, introduces new AI standards for safety, privacy protection, equity, and civil rights, aiming to boost innovation, competition, and U.S. leadership in the field.
+In May, tech industry leaders issued a warning in an open letter about the potential existential threat posed by their AI developments, equating the risks to those of pandemics and nuclear weapons.
+“Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” reads a statement by the Center for AI Safety, a nonprofit organization.
+More than 350 executives, researchers, and policymakers, including Sam Altman, CEO of OpenAI; Demis Hassabis, CEO of Google DeepMind; Bill Gates; and Rep. Ted Lieu (D-Calif.), signed the open letter.
+Lower-risk concerns around the use of AI have been expressed by actors, writers, artists, and musicians. AI in Hollywood was a key concern during the actors’ strike which lasted over 100 days.
+Baz Luhrmann, the director of “Elvis,” recently expressed a cautiously positive view of AI’s role in art, but noted that “real creativity” comes from “the human part.”
+“I think we need to play catch up in all fields in proper governance and understanding of AI for sure,” he said.
+“I don’t want in any way to be mischaracterized, it’s just that when it comes to my own creative journey and AI, it can be useful to do certain things, he said.
+“What AI can probably do in writing is give you a standard structure or a form, but real creativity, the human part, the emotional part, that part that is somewhat indefinable that’s not mechanical, I think at best, or at worst, it can save you time just by organizing things,” he added.

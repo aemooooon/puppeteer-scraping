@@ -1,0 +1,21 @@
+Australia’s biggest bank has developed an artificial intelligence (AI) tool to block abusive messages in digital transactions.
+The Commonwealth Bank of Australia (CBA) is using an AI model to discover digital payment transactions that include “harassing, threatening or offensive” messages.
+The automatic filter has already blocked nearly one million transactions since 2020.
+CBA customer advocate Angela MacMillan said the bank developed the technology because they noticed “some customers” were using transaction descriptions to harass or threaten others. She said financial abuse occurs when money is used to gain control over a partner.
+“By using this model we can scan unusual transactional activity and identify patterns and instances deemed to be high risk so that the bank can investigate these and take action,” Ms. MacMillan said.
+“By sharing our source code and model with any bank in the world, it will help financial institutions have better visibility of technology-facilitated abuse. This can help to inform action the bank may choose to take to help protect customers.”
+The AI model was developed by CBA, with the source code built together with global AI company H2O.ai.
+At the time, the CBA said that it was building on its use of AI and other technologies to detect and block abuse in transaction descriptions, working with the police.
+As part of the pilot, CBA’s “Next Chapter” team contacts a customer if they are receiving repeated abuse in transaction descriptions.
+If the customer consents, the CBA then reports the abuse on their behalf to the NSW Police.
+“CBA is working with the NSW Police to develop a new streamlined process that will allow CBA to report abuse with the consent of the victim-survivor,” the bank said.
+“Once the customer has consented to CBA reporting the issue to police, CBA will initiate a report to the NSW Police. Victims of this kind of abuse can also contact CBA and ask CBA to report these instances of abuse on their behalf.”
+The CBA first commenced abusive transaction monitoring in June 2020, blocking nearly hundreds of thousands of transactions every year with an automatic filter. This was backed up by AI and humans manually reviewing the cases.
+The company’s net cash earnings rose six percent in the previous financial year to $10.1 billion. The results were driven by a 2.07 percent jump in net interest margin.
+Margins rose due to the rising interest rate environment, although this was partially offset by more competition.
+The CBA provided shareholders with a final dividend of $2.40 per share, on top of a $2.10 per share dividend in the first half of 2023.
+The bank’s occupancy and equipment expenses fell by 3 percent, which the bank said reflected benefits from “optimising” its digital, branch, and ATM network and exiting commercial office space.
+However, information technology expenses also rose by 3 percent, mostly due to inflation, along with higher software licensing and infrastructure costs.
+Staff expenses also rose by 9 percent amid wage inflation, more full-time equivalent staff, and more people taking annual leave.
+The company said “productivity initiatives” had lowered other expenses by 2 percent, although this was partially offset by higher travel costs as COVID-19 restrictions were lifted.
+In September, the bank announced it would be tripling the fee for business owners depositing cash into their accounts.

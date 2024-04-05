@@ -1,0 +1,12 @@
+A police force has started using artificial intelligence to detect whether drivers are using mobile phones at the wheel or not wearing seat belts.
+Merseyside Police deployed an AI-equipped spy camera van on the region's roads for the first time this week. 
+The van uses two cameras to capture footage of motorists which is then analysed by an AI system to detect whether any offence has been committed.
+Footage flagged by the system is then reviewed by a police officer. 
+Sgt Garreth Berry said the technology would "make our roads safer" and noted that last year 19 people died on Merseyside's roads and 440 were seriously injured. 
+"The new technology isn't about giving tickets, it's about improving road safety and encouraging people to stop using their phones and start wearing seatbelts," he said.
+"Hopefully now everyone knows we're using this technology, it will prevent them from using their phone and encourage them to wear seatbelts."
+The first camera in the AI-equipped van is set at a shallow angle and can identify a mobile phone close to the driver's ear or whether a seat belt is being worn by drivers or passengers.
+The second has a steeper view to see if a mobile phone is being used for texting.
+Offences identified in the AI results will be double-checked by humans before being passed to the police for review, who will then notify drivers of any intended prosecution. 
+Paul Fletcher, from Merseyside Road Safety Partnership, said the "vast majority" of people understand the dangers of using a phone or not wearing a seatbelt.  
+"For those who don't appreciate the risks associated with both, we're hoping this device will be enough to prevent them from continuing to put themselves and other at risk of harm," he added.

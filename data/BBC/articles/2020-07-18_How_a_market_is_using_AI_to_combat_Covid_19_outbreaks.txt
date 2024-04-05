@@ -1,0 +1,27 @@
+When the coronavirus outbreak first hit the Plaza Minorista market, Edison Palacio knew that it would take more than disinfectant and face masks to contain it. So he decided to use artificial intelligence.
+Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín.
+Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits, vegetables, meats, eggs, spices, grains and clothes.
+Markets like Minorista act as a key food supplier for cities like Medellín. They are a crucial link bringing food grown on farms to a metropolitan area of nearly four million people.
+But such crowded markets have become hotbeds for the coronavirus to flourish across the region. Similar outbreaks have occurred in Mexico, Peru, and Brazil.
+"Plaza Minorista is a meeting point," Mr Palacio says. "With the arrival of this pandemic to the city, we immediately became a high-risk zone."
+At the end of June, Colombian authorities traced more than 300 cases to wholesale markets. Minorista has already been at the centre of two outbreaks.
+Some have closed down entirely. Others have shut down large sections of their facilities, done deep disinfections and dropped building capacity to encourage social distancing.
+Minorista teamed up with researchers at the University of Antioquia to install AI technology to control and track the virus at markets. They are among the first in Latin America.
+Mr Palacio explains how they use facial recognition software connected to cameras at the entrances and to security cameras around the building to collect data on the vendors and market-dwellers. Among the data they collect is their age range, gender, and if the person is wearing their mask correctly in order to assess risks and more vulnerable demographics.
+Thermal cameras can take the temperature of 200 people per minute, he says. If someone has a high temperature or wears their mask incorrectly, an alarm will go off and alert market security.
+"We have to learn to coexist with the virus," Mr Palacio says. "We as administrators of a place like this, with massive flows of people, have a responsibility to implement all of these scientific and technological protocols."
+The World Health Organization has declared Latin America the new epicentre of the virus and despite nearly four months of government-mandated lockdown, Colombia has reported more than 165,000 confirmed cases and more than 6,000 deaths.
+Mr Palacio wants local governments to further harness the AI technology to curb the spread of the virus and implement it in other crowded public spaces like the metro system and government buildings.
+The tech has also been used in countries like China, South Korea and Japan. 
+Privacy watchdogs have warned of the potential danger of AI being misused and some consider that risk to be greater in Colombia where the authorities have in the past been involved in illegal wiretapping scandals, spying on political opponents, journalists and human rights activists.
+Nora Restrepo, a U de A researcher involved in the AI project, describes its use as "a complex issue". She argues that AI has become an increasingly useful tool to combat the pandemic, especially when closing the markets was not an option.
+She says that cities like Medellín would collapse without the markets, and those relying on them to get affordable produce would have to go hungry. In this case, the sacrifice is worth it, she says, and researchers can take precautions to ensure the technology is not invasive.
+Ms Restrepo and her team of researchers plan to test surfaces, residual water, food and staff throughout the building to see where the virus lingers and how effective disinfection efforts are.
+They hope to use that data, and what is collected from the AI cameras to build a heat map showing how the virus moves throughout the building.
+"It's not just to detect who may be sick but to look much deeper than that - how we can detect the virus and at what moment we can intervene before it spreads," she says.
+For Felipe Betancur, the owner of a small produce store, such measures would ease the anxiety he has felt since the virus arrived in Colombia earlier this year.
+The 47-year-old ventures to the markets every morning armed with a mask, disinfectant and a face shield to buy goods for his shop.
+"It's impossible to respect two metres distance, or even a metre-and-a-half," Mr Betancur says. "You're very close, face-to-face with everyone. This is my biggest fear."
+Market closures would be disastrous for Mr Betancur's small business, which he says has only been making the "bare minimum" during the pandemic. It would mean he would have to defy the travel restrictions imposed to curb the spread of the virus and incur the additional costs of driving out to rural farms to buy crops directly from farmers.
+Both for the sake of business people like Mr Betancur and to stop the virus from spreading, Ms Restrepo hopes that the AI project at Minorista will be a success.
+If it is, it could be expanded to other Latin American cities to minimise the risks posed by large markets.

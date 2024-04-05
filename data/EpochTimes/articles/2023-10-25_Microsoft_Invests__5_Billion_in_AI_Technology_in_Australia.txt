@@ -1,0 +1,14 @@
+Microsoft will spend $5 billion (US$3.18 billion) to expand its cloud computing and artificial intelligence (AI) infrastructure in Australia over the next two years.
+The software giant said it’s the single largest investment in the company’s 40-year history in Australia.
+Apart from building more facilities, Microsoft will establish an academy to train the AI workforce for Australia and work with government agencies to bolster the country’s cyber security.
+Microsoft’s investment will help Australia consolidate its position as a world-leading economy, Mr. Albanese said.
+“A strong economy requires protection from cyber threats. I welcome Microsoft’s collaboration with the Australian Signals Directorate to enhance cybersecurity for households and business.”
+Microsoft’s president also stressed the importance of new investment to the company’s operation in Australia.
+The company expected the new facilities to lift its computing capacity by 250 percent in the next two years and help it meet the growing demand for cloud computing services in the country, which was estimated to reach $22.4 billion in 2026.
+Besides equipping the data centres with the latest AI technology, Microsoft said it would reduce the facilities’ carbon footprint by using low-carbon materials during construction and implementing renewable energy and advanced water-cooling features and measures to decrease diesel fuel use during operation.
+In addition, the software giant will partner with TAFE NSW to set up its first Data Centre Academy in Australia in early 2024.
+The academy’s curriculum will specialise in training operational roles such as data centre technicians, critical environment specialists, inventory and asset management professionals, and IT operations personnel.
+Microsoft said it plans to train 300,000 Australians in digital skills in response to the industry’s commitment with the government to create more than 1 million tech-related jobs in Australia by 2030.
+The company also said it would collaborate with the Australian Signals Directorate (ASD) to build a cyber shield called MACS (Microsoft-Australian Signals Directorate Cyber Shield) to protect Australian residents, businesses, and government entities from cyber threats.
+“This announcement builds on ASD’s strong partnership with Microsoft and will turbocharge our collective capacity to protect Australians in cyberspace,” ASD Director-General Rachel Noble said.
+The company managed to win a lengthy antitrust fight against European authorities despite the lobbying efforts of competitor Sony.

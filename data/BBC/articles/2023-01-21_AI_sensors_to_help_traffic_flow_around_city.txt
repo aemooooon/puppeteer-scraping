@@ -1,0 +1,12 @@
+A city council is installing more than 200 artificial intelligence (AI) sensors and number plate recognition cameras to measure traffic pollution levels and monitor congestion.
+The technology in Nottingham will gather data 24/7 to enable traffic lights to be more reactive.
+Work will start in February with the aim of completion by November. 
+Nottingham City Council said the work would help the city become carbon neutral by 2028.
+The AI will be able to identify each individual vehicle type, from heavy goods vehicles and coaches to cars and bicycles.
+As the data is received in real-time, this will "increase the capacity" to make "rapid decisions to keep traffic moving freely around Nottingham", the council said. 
+The technology will also enable the council to understand how different transport modes affect pollution levels.
+Meanwhile, a Smart Junction will be trialled where Aspley Lane meets the A6514 Western Boulevard. 
+Sensors will make traffic lights more reactive to congestion levels and help reduce waiting times. If successful, then it is intended that more of these junctions will be installed across the road network.
+The technology - developed by AI firm VivaCity - will improve over time to recognise more transport modes such as mobility scooters and taxis.
+Councillor Audra Wynter, cabinet member for highways at Nottingham City Council, said: "Our city needs the best, latest technology to help us in our fight to become carbon neutral by 2028.
+"To help us to monitor traffic flow and analyse the behaviours of road users in the area, we're looking forward to working with VivaCity to help make accurate decisions on future schemes and to reduce pollution in the heart of our city."

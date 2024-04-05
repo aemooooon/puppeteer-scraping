@@ -1,0 +1,22 @@
+A woman whose brother has been missing for 28 years says new artificial intelligence (AI) software has renewed her hope of finding him.
+Marcus Rigby, from Cumbria, went missing after moving to the West Country in April 1995.
+His family reported the 27-year-old’s disappearance to the police and have worked with missing people charities, but his whereabouts remain a mystery.
+Now it is hoped that new technology, which can process large amounts of data from different sources, may be able to help shed light on his movements.
+QUEST, developed by Nottingham-based company Altia, works by analysing data from different sources and spotting links and patterns.
+Mr Rigby is one of 13,000 people who have been missing in the UK for more than a year.
+His older sister Nicola Earnshaw said he told her he would be in touch after moving to Dorset, but she never saw or heard from him again.
+The last possible sighting of him was six months after he disappeared - at a bed and breakfast in Portland, near Weymouth.
+Ms Earnshaw said his lack of contact was out of character, describing him as a ''lovely person, family-orientated, and a dutiful son”, and that she was tormented by unanswered questions almost three decades on.
+"The thing that niggles," she said. "Is did something go wrong?''
+She is hopeful QUEST will help find answers for herself and other families of missing people.
+Altia has been developing the software for more than a year, working with missing people charity Locate International.
+Friends, family and investigators can add extra data to the online system at any time and it can be shared with police and cold case researchers.
+Using AI, the software makes the process quicker because it is able to transcribe audio into text, summarise large amounts of data and search for personal details like names, locations, telephone numbers, and bank account details, highlighting any similarities and patterns important to the case.
+Huw Bristow, the company's chief technology officer, said speed and ease of use were really important because family members could often predict where a person might be, and that information could be entered into the system.
+The software could be particularly useful in cases where bodies have been found, but not identified.
+According to Locate International, about 1,000 people in the UK have died and remained anonymous, and cold case teams at Staffordshire, Coventry and Nottingham Trent universities have started to use QUEST.
+Former detective and founder of the charity, Dave Grimstead, said the software had already uncovered information in a 40-year-old case.
+Investigators using QUEST were able to identify the body of a young man after decades, by locating useful information from large amounts of data.
+As part of a Channel 5 Programme, QUEST has begun to examine the case of Mr Rigby.
+So far, it has helped confirm a photo as the last-known one taken of him, which made it possible to create age-progression images.
+Ms Earnshaw said: ''My mum never gave up hope - we are waiting for that day when we hear something."

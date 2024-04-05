@@ -1,0 +1,8 @@
+The Office of the Privacy Commissioner of Canada (OPC) says it has launched an investigation into OpenAI, the U.S.-based company that created the popular artificial intelligence-powered chatbot ChatGPT.
+The OPC says it launched the investigation into OpenAI because it received a complaint alleging “the collection, use and disclosure of personal information without consent,” according to the announcement. It said it won’t release further details at this time, as the investigation is ongoing.
+The platform is versatile, having been used to debug computer programs, compose music, write student essays, simulate chat rooms, and play games like Tic-Tac-Toe. OpenAI has also announced it will be adding support for plugins, such as Expedia, OpenTable, Shopify, and Slack.
+OpenAI did not immediately respond to a request for comment.
+When The Epoch Times asked Chat GPT directly about the investigation launched in Canada, the program responded that privacy concerns are a “serious matter” and investigations into privacy violations are “essential to ensure that individuals’ personal information is being handled with the utmost care and respect for their privacy rights.”
+ChatGPT told The Epoch Times that while it could not comment on the details of the complaint or the investigation itself, OpenAI has previously made commitments “to prioritize privacy and data protection in its operations, including its language models like ChatGPT.”
+After fixing the bug, OpenAI said it reached out to affected users about the potential data breach.
+“We apologize again to our users and to the entire ChatGPT community and will work diligently to rebuild trust,” it said.

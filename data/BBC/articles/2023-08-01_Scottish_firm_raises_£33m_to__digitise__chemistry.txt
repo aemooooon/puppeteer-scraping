@@ -1,0 +1,13 @@
+A Scottish firm which aims to revolutionise the field of chemistry through digitisation has raised more than £33m from international investors.
+University of Glasgow spin-out Chemify plans to speed up the development of new drugs and medicines by automating the process of designing new molecules.
+The molecules would be used to underpin advances in medicine, farming, materials science and green energy.
+Its research includes the use of artificial intelligence.
+Chemify, which was founded in 2019, wants to explore "chemical space" in order to access and create the trillions of possible combinations of natural elements using a computer process.
+The funding round, led by US-based Triatomic Capital, attracted new investors including Hong Kong and US-based venture capital firms and the UK government's Innovation Accelerators programme. Scottish investment firm Eos is also among the investors.
+Research funders had previously ploughed more than £23.5m into the foundational research behind Chemify.
+Founder and chief executive Lee Cronin devised a process known as "chemputation" - the chemical equivalent of a computer - which includes a programme and a robot.
+He explained that it allowed the company to carry out simulations in virtual reality "before we actually do the chemistry for real".
+Prof Cronin, who is also the Regus chairman of chemistry at the University of Glasgow, said Chemify's mission was to "deliver better molecules for pharmaceutical and industrial partners in a fraction of the time and cost currently required".
+He added: "There are lots of people in AI drug discovery and lots of people in chemistry, but we've got the first computer that can turn code into molecules, and then we actually make the molecules. 
+"It's like a 3D printer for chemistry, but a lot more complex."
+Prof Cronin added that his ambition was to create a $10bn (£7.8bn) company over time, with its headquarters remaining in Scotland.

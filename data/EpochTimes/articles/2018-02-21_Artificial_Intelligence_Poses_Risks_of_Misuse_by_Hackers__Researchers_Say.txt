@@ -1,0 +1,14 @@
+FRANKFURT—Rapid advances in artificial intelligence are raising risks that malicious users will soon exploit the technology to mount automated hacking attacks, cause driverless car crashes or turn commercial drones into targeted weapons, a new report warns.
+The study, published on Wednesday by 25 technical and public policy researchers from Cambridge, Oxford and Yale universities along with privacy and military experts, sounded the alarm for the potential misuse of AI by rogue states, criminals and lone-wolf attackers.
+The researchers said the malicious use of AI poses imminent threats to digital, physical and political security by allowing for large-scale, finely targeted, highly efficient attacks. The study focuses on plausible developments within five years.
+“We all agree there are a lot of positive applications of AI,” Miles Brundage, a research fellow at Oxford’s Future of Humanity Institute. “There was a gap in the literature around the issue of malicious use.”
+Artificial intelligence, or AI, involves using computers to perform tasks normally requiring human intelligence, such as taking decisions or recognizing text, speech or visual images.
+It is considered a powerful force for unlocking all manner of technical possibilities but has become a focus of strident debate over whether the massive automation it enables could result in widespread unemployment and other social dislocations.
+The 98-page paper cautions that the cost of attacks may be lowered by the use of AI to complete tasks that would otherwise require human labor and expertise. New attacks may arise that would be impractical for humans alone to develop or which exploit the vulnerabilities of AI systems themselves.
+It reviews a growing body of academic research about the security risks posed by AI and calls on governments and policy and technical experts to collaborate and defuse these dangers.
+The researchers detail the power of AI to generate synthetic images, text and audio to impersonate others online, in order to sway public opinion, noting the threat that authoritarian regimes could deploy such technology.
+The report makes a series of recommendations including regulating AI as a dual-use military/commercial technology.
+It also asks questions about whether academics and others should rein in what they publish or disclose about new developments in AI until other experts in the field have a chance to study and react to potential dangers they might pose.
+“We ultimately ended up with a lot more questions than answers,” Brundage said.
+The paper was born of a workshop in early 2017, and some of its predictions essentially came true while it was being written. The authors speculated AI could be used to create highly realistic fake audio and video of public officials for propaganda purposes.
+Late last year, so-called “deepfake” pornographic videos began to surface online, with celebrity faces realistically melded to different bodies.

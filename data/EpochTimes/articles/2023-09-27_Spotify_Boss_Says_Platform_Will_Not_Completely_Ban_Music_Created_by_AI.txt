@@ -1,0 +1,12 @@
+Music streaming platform Spotify has no plans to completely ban content created by artificial intelligence (AI) despite removing a song featuring AI-cloned voices earlier this year, according to its chief executive.
+However, he stressed there are “valid uses” of AI when it comes to making music, such as for auto-tune, which alters pitch in vocal and instrumental music recordings.
+The Spotify boss noted that while the platform will not roll out an outright ban on AI-created content, the technology must not be used to directly impersonate human artists without their consent.
+Spotify already does not allow its content to be used to train a machine learning or AI model, according to the BBC. It does, however, use machine learning to generate recommended audio content and playlists for users and to optimize algorithms, among other things.
+Speaking of the challenges the music industry is facing amid the increased use of AI technology, Mr. Ek said the situation is likely going to be “tricky.”
+“We have a very large team that is working on exactly these types of issues,” he added.
+Mr. Ek’s comments come after Spotify in April removed an AI-cloned song replicating performers Drake and The Weeknd following a complaint from music label Universal Music Group (UMG).
+The track “Heart on My Sleeve” was removed from Spotify, as well as a string of other platforms including Apple Music, YouTube, Amazon, SoundCloud, Tidal, Deezer, and TikTok after becoming a viral hit.
+In a statement at the time, UMG said its success had been due, in part, to the music corporation “embracing new technology and putting it to work for our artists—as we have been doing with our own innovation around AI for some time already.”
+Despite the increased use of AI in various industries, including music, laws surrounding copyright and AI are still unclear.
+Speaking of the AI-cloned “Heart on My Sleeve” song, Mr. Klaris told the publication: “Here, they’re using all the pre-existing songs to create new songs, and so the Supreme Court could decide it’s not copyright infringement because it’s transformative … or they could say something different, like: ‘It is a copyright infringement. You can’t just take people’s songs and copy them to make new songs that sound just like that.’”
+Spotify’s decision not to outright ban content on the platform created by AI comes after the Writers Guild of America (WGA) on Monday said it had reached a “tentative agreement” with major Hollywood studios following a months-long strike.

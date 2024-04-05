@@ -1,0 +1,24 @@
+An identity and cryptocurrency company, recently co-founded by OpenAI’s CEO Sam Altman, is scanning people’s irises to create an “identity and financial network,” according to a senior manager.
+Worldcoin aims to create the biggest, global “financial and identity community that we can,” said Ricardo Macieira, general manager for Europe at “Tools For Humanity,” the San Francisco and Berlin-based company behind the project.
+The company aims to have more users signing up globally by scanning their irises and will allow governments and other organizations to use its technology.
+In sign-up sites worldwide, people have been getting their faces scanned by a shiny spherical “orb,” shrugging off privacy campaigners’ concerns that the biometric data could be misused.
+Worldcoin says 2.2 million have signed up, mostly during a trial period over the last two years. Data watchdogs in Britain, France, and Germany have said they are looking into the project.
+Worldcoin was co-founded by Sam Altman, OpenAI’s CEO, the company behind the controversial large language model ChatGPT.
+As an advantage, Worldcoin can distinguish between AI and a unique human by using the iris scan, similar to a thumbprint.
+Privacy concerns and the possible expansion of government power over a citizen’s private finances are disadvantages.
+Worldcoin raised $115 million from venture capital investors, including Blockchain Capital, a16z crypto, Bain Capital Crypto, and Distributed Global, in a funding round in May.
+Macieira said Worldcoin would continue rolling out operations in Europe, Latin America, Africa, and “all the parts of the world that will accept us.”
+Worldcoin’s website mentions various possible applications, including distinguishing humans from artificial intelligence, enabling “global democratic processes,” and showing a ”potential path” to universal basic income, although these outcomes are not guaranteed.
+Most people interviewed by Reuters at sign-up sites in Britain, India, and Japan last week said they were joining to receive the 25 free Worldcoin tokens the company says verified users can claim.
+“I don’t think we are going to be the ones generating universal basic income. If we can do the infrastructure that allows for governments or other entities to do so, we would be very happy,” Macieira said.
+Companies could pay Worldcoin to use its digital identity system.
+Michael Will, president of the Bavarian regulator, said it would look into whether Worldcoin’s system is “safe and stable.”
+The project “requires very, very ambitious security measures and lots of explanations and transparency to ensure that data protection requirements are not neglected,” Will said.
+Will said people who hand over their data need “absolute clarity” about how and why it is processed.
+Rainer Rehak, a researcher on AI and society at the Weizenbaum Institute in Berlin, said that Worldcoin’s use of technology is “irresponsible” and that it is not clear what problems it would solve.
+“The bottom line is it’s a big project to create a new consumer base for Web3 and crypto products,” he said. Web3 is a term for a hypothetical next phase of the internet, based around blockchain, in which users’ assets and data exist as tradable crypto assets.
+France’s privacy watchdog CNIL said it is aware of the Worldcoin project, it is aiding in the Bavarian investigation, and that the legality of Worldcoin’s biometric data collection “seems questionable.”
+“The legality of this collection seems questionable, as do the conditions for storing biometric data,” CNIL said.
+Kenya’s interior ministry said on Wednesday that it had suspended the local activities of Worldcoin while government agencies assess potential risks to public safety.
+“Relevant security, financial services and data protection agencies have commenced inquiries and investigations to establish the authenticity and legality of the aforesaid activities,” interior minister Kithure Kindiki said in a statement.
+A preliminary review of Worldcoin’s operations has raised concerns, including obtaining consumer consent in return for a monetary award bordered on inducement.

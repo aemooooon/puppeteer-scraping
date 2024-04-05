@@ -1,0 +1,10 @@
+Artificial intelligence (AI) could be used to stop vandalism on historic sites.
+Research published by Prof Robin Bryant found an increase in the defacement of churches, castles and monasteries in an area of Kent.
+Mr Bryant, from Canterbury Christ Church University, believes AI could be used to "link offences together".
+It is hoped the technology could identify offenders by tracking tags and matching graffiti in other areas.
+The new research, funded by Historic England, and published by Mr Bryant, who is director of criminal justice practice at Canterbury Christ Church University, analysed crimes recorded over a four year period across Kent and Medway.
+It found 8% of all recorded crime and anti-social behaviour occurs within, at, or close to, a protected heritage site.
+Mr Bryant said: "Our best estimates suggest that currently approximately one in five listed buildings and one in four places of worship in Kent and Medway experience some form of crime each year.
+"AI offers the possibility to link offences together to the same offenders. In classic policing terms, this is normally a very good start in terms of an investigation."
+Mark Harrison, head of heritage crime at Historic England, said the research presented an exciting opportunity to investigate graffiti within the "historic environment".
+Mr Bryant is working alongside Mr Harrison on a project which could see supervised machine learning.

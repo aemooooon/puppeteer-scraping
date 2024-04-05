@@ -1,0 +1,32 @@
+The biggest threat to jobs might not be physical robots, but intelligent software agents that can understand our questions and speak to us, integrating seamlessly with all the other programs we use at home and at work. And call centres are particularly at risk.
+Last week we learned that British retail giant Marks & Spencer is moving 100 switchboard staff to other roles because chatbots are taking over their duties.
+"All calls to 640 M&S stores and contact centres now handled via Twilio-powered technology," boasted the California-based tech company operating the new system. 
+M&S is now using Twilio's speech recognition software and Google's Dialogflow artificial intelligence (AI) tool to transcribe customers' verbal requests and understand their intent. Then the call is routed to the appropriate department or shop.
+The system could handle about 12 million queries a year, Twilio says.
+With the Bank of England's chief economist warning that the UK requires a skills revolution to avoid AI leaving vast swathes of people "technologically unemployed", it seems fair to question how disruptive these systems may be.
+That call centre workers may be particularly at risk from AI is something that has been discussed for many years. 
+But now the shift actually seems to be happening, says Brian Manusama, an analyst at market research firm Gartner.
+"The number one use case for applying AI is in this call centre and customer service space," he explains.
+"At the end of 2017 about 70% of all use cases in AI were related to customer service and call centres."
+Several million people are employed in call centre roles in the US and UK and hundreds of thousands more rely on such work in countries like India and the Philippines. Unless these people quickly learn new skills, they could soon be out of work.
+"Countries like India may have a huge problem with increasing unemployment," says Mr Manusama.
+But chief executive of IPsoft, Chetan Dube, told me he was bullish about the prospect when discussing his company's widely used digital assistant Amelia - billed as "the most human AI". It can understand natural language  - not just set commands - and can discern meaning from the context of a conversation.
+"Has that not always been the case?" he asks. "Jobs have always been displaced by technology."
+Currently, companies, such as large US insurer Allstate, use Amelia to interact with human call centre workers, not replace them. It provides the information staff need to answer phone-based customer queries, reducing call durations from 4.6 to 4.2 minutes on average. That might not sound much, but those saved seconds add up across millions of calls in an industry where time is money.
+This role of AI as helper rather than replacement is also being promoted by Observe.AI, a start-up that recently raised $8m (£6.2m) to develop its emotion analysis system.
+It listens to incoming customer calls, interprets the emotional content - is the customer irate about something going wrong? - and automatically brings up appropriate response information on the call centre worker's computer screen.
+"Our mission, broadly, is to augment the [human] agent, not necessarily get rid of the agent," explains co-founder Swapnil Jain.
+"As soon as the customer says they want to cancel a credit card, the technology understands that, goes ahead and gets the instructions for the agent on how to cancel a credit."
+His company is already working with call centre firms in the Philippines.
+But it seems clear that AI will take over most human call centre operations in time. Observe.AI's technology may be able to automate some customer queries entirely, Mr Jain admits. 
+"We are still trying to figure out where we want to go," he says.
+IPsoft's Amelia can already handle live phone calls and even make outbound calls. For example, Spanish bank BBVA and Nordic bank SEB both allow customers to speak to Amelia directly.
+But Mr Dube thinks it will be able to do much more. 
+"I want to be able to have [Amelia] process my mortgage," he says. "Can she do a risk analysis for me, can she process my credit card consolidation request?"
+He adds that what makes Amelia different is the system's combined approach of speech recognition and logic-based interpretation of queries. In other words, Amelia has a built-in model of things that a customer or staff member might ask about and how those things relate to one another. That helps her to answer intelligently.
+Were you to ask about a friend who has a good credit card deal, for instance, a bank's deployment of Amelia would in theory understand that you are looking for a specific deal previously offered to another customer, which she could then look up.
+He even envisages it becoming an investment adviser, "a personal banker in your pocket who is going to give you financial wisdom".
+We may be some way from that yet. Gartner's Brian Manusama believes it will be some time before virtual customer service agents are sophisticated enough to take on complex customer queries, let alone provide detailed advice about negotiating risk.
+So what's driving this charge of the chatbots? Cost. Humans are expensive; software is cheaper. The wider roll-out of such technology is just a matter of time, says Mr Manusama.
+"We're tracking more than 700 companies trying to seize the opportunity of delivering AI capabilities," he says. 
+"Every day new firms are coming in to take advantage of all of this."

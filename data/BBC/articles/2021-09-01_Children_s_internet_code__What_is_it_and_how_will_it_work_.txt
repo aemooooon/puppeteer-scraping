@@ -1,0 +1,18 @@
+A ground-breaking code to create "a better internet for children" comes into force in the UK on Thursday.
+Critics say it leaves many digital businesses unsure what to do - but big firms including TikTok and YouTube have already made changes.
+The UK's independent data authority, the Information Commissioner's Office, introduced the Age Appropriate Design Code in September 2020, allowing companies a year to comply.
+Without regulation the way in which social-media and gaming platforms and video- and music-streaming sites use and share children's personal data could cause physical, emotional and financial harm, it said.
+It had concerns around:
+The code is unrelated to but has lots in common with the draft Online Safety Bill.
+Companies targeting children must:
+However, some organisations, including the Coalition for a Digital Economy, have said it is unclear what the data watchdog expects of businesses and called for a better definition of what will be within its scope.
+A flurry of policy changes over the past few months suggest the social-media companies are taking the code seriously:
+Those found to be in breach of the code will be subject to the same potential penalties as those who fall foul of the General Data Protection Regulation, which include a fine of up to 4% of global turnover.
+As with GDPR, there will be support rather than penalties at first - but the ICO has the power to investigate or audit organisations it believes are not complying.
+It would expect companies to offer proof their services were designed in line with the code, ICO regulatory futures and innovation executive director Stephen Bonner blogged.
+"Social-media platforms, video and music streaming sites and the gaming industry", rather than more general retailers, would face the most scrutiny.
+And the code could have "global influence", with US Senate and Congress members calling on major technology companies to voluntarily adopt the same standards. 
+The Data Protection Commission in the Republic of Ireland is also preparing similar regulations.
+Despite age limits of 13, many social-media sites have much younger users. 
+But while age assurance will play a part in determining whether the code is being followed correctly, how they do this is being left up to companies.
+The ICO will set out its position later in the autumn - but it does suggest some age-verification methods:

@@ -1,0 +1,35 @@
+Elon Musk is no stranger to bold claims - from his plans to colonise Mars to his dreams of building transport links underneath our biggest cities. This week the world's richest man said his Neuralink division had successfully implanted its first wireless brain chip into a human.
+Is he right when he says this technology could - in the long term - save the human race itself? 
+Sticking electrodes into brain tissue is really nothing new. 
+In the 1960s and 70s electrical stimulation was used to trigger or suppress aggressive behaviour in cats. By the early 2000s monkeys were being trained to move a cursor around a computer screen using just their thoughts.
+"It's nothing novel, but implantable technology takes a long time to mature, and reach a stage where companies have all the pieces of the puzzle, and can really start to put them together," says Anne Vanhoestenberghe, professor of active implantable medical devices, at King's College London.
+Neuralink is one of a growing number of companies and university departments attempting to refine and ultimately commercialise this technology. The focus, at least to start with, is on paralysis and the treatment of complex neurological conditions.
+The human brain is home to around 86 billion neurons, nerve cells connected to one another by synapses. Every time we want to move, feel or think, a tiny electrical impulse is generated and sent incredibly quickly from one neuron to another.
+Scientists have developed devices which can detect some of those signals - either using a non-invasive cap placed on the head or wires implanted into the brain itself. 
+The technology - known as a brain-computer interface (BCI) - is where many millions of dollars of research funding appears to be heading at the moment. 
+Neuralink's device, about the size of a coin, is inserted in the skull, with microscopic wires which can read neuron activity and beam back a wireless signal to a receiving unit. The company has run trials in pigs and claimed that monkeys can play a basic version of the video game Pong.
+It received approval from the US Food and Drug Administration for human trials in May 2023. 
+We now know that the first patient has received their implant - but details are thin on the ground. Musk has only said the person is "recovering well" and initial results show "promising neuron spike detection". 
+It might all sound very science fiction, but in some ways Neuralink is playing catch-up. 
+One of its main rivals, a start-up called Synchron backed by funding from investment firms controlled by Bill Gates and Jeff Bezos, has already implanted its stent-like device into 10 patients. 
+Back in December 2021, Philip O'Keefe, a 62-year old Australian who lives with a form of motor neurone disease, composed the first tweet using just his thoughts to control a cursor. 
+And researchers at Lausanne University in Switzerland have shown it is possible for a paralysed man to walk again by implanting multiple devices to bypass damage caused by a cycling accident.
+In a research paper published this year, they demonstrated a signal could be beamed down from a device in his brain to a second device implanted at the base of his spine, which could then trigger his limbs to move.
+Some people living with spinal injuries are sceptical about the sudden interest in this new kind of technology. 
+"These breakthroughs get announced time and time again and don't seem to be getting any further along," says Glyn Hayes, who was paralysed in a motorbike accident in 2017, and now runs public affairs for the Spinal Injuries Association.
+"If I could have anything back, it wouldn't be the ability to walk. It would be putting more money into a way of removing nerve pain, for example, or ways to improve bowel, bladder and sexual function."
+But for Elon Musk, "solving" brain and spinal injuries is just the first step for Neuralink.
+The longer-term goal is "human/AI symbiosis", something he describes as "species-level important".
+The real trick will be developing a system which can interpret or translate the signals coming from the brain with a far greater level of accuracy. If and when that happens humans may be able to communicate with computers and other electronic devices in a way that is difficult to comprehend today.
+Imagine being able to order a takeaway with your thoughts, or search the internet, or translate one language to another immediately in your head, just by thinking about it. 
+Musk himself has already talked about a future where his device could allow people to communicate with a phone or computer "faster than a speed typist or auctioneer". 
+In the past, he has even said saving and replaying memories may be possible, although he recognised "this is sounding increasingly like a Black Mirror episode."
+Others are more sceptical: "At the moment, I'm struggling to see an application that a consumer would benefit from, where they would take the risk of invasive surgery," says Prof Vanhoestenberghe.
+"You've got to ask yourself, would you risk brain surgery just to be able to order a pizza on your phone?"
+Instead she thinks the first mass market uses may be in stimulating the brain to tackle problems like treatment-resistant depression, dementia, and even some sleeping disorders, although the benefits are far from certain and research is at an early stage.
+Dr Dean Burnett, honorary research fellow at Cardiff University's psychology school, also says there are enormous practical barriers to Neuralink becoming a mainstream consumer product.
+"Everyone's brain is different. You can't just have one chip that fits everyone and does the exact same thing. It has to be a very meticulous process," he says. 
+"Technology advances, so do you have to get a new chip every five years? Would it be like having an old Nokia in your head, which was fun at the time and now it's not really much use?"
+One thing that almost every expert in the field agrees on is that this kind of cutting-edge technology is decades away, at best, from a High Street brain surgeon near you. 
+Elon Musk, as well, has suggested that the ultimate goal is not to speed up your takeaway order, but to better protect humanity from the risks of Artificial Intelligence (AI), something he has described in the past as an "existential threat".
+By better combining human and computer brains, we're less likely to be "left behind" as a species, he argues: "With a high bandwidth, brain-machine interface, we can actually go along for the ride."

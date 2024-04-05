@@ -1,0 +1,13 @@
+The use of artificial intelligence (AI) has exploded. Every day, news of what AI can do is touted by the networks’ talking heads. It seems every industry is affected by this newest technology. The health care industry isn’t immune to this latest innovation.
+AI can learn. Its computational techniques learn from examples beyond operating from predefined rules. Machine learning uses algorithms that learn from data to improve, describe, and predict outcomes. Once AI is taught, it learns and evolves in the task at hand.
+For example, in health care, a machine could be taught by humans to identify pictures of tumors from an magnetic resonance imaging (MRI) image. AI would learn other ways to identify tumors on its own. It could find tumors that people weren’t explicitly looking for.
+Natural language processing (NLP) is the AI’s ability to understand human language. It then transforms the unstructured text into machine-readable structured data.
+An example of NLP is translating the interaction between a doctor and a patient into a note.
+The use of AI in health care is growing. In 2021, AI in the health care market was worth $11 billion. It’s now forecasted that worldwide, it will be worth $188 billion by 2030.
+Human coders work daily, but AI works 24/7, so billing will be prepared faster.
+AI is accurate and doesn’t miss a code. This means you won’t be billed for a service you didn’t receive. It also means that a claim is less likely to be denied by your insurance carrier because the service was coded wrong.
+Because AI will take on the coding role, fewer manual coders will be needed. Existing workers can be promoted to supervising positions, or they can handle tasks that require a human’s attention. Still, there is some pushback from current billers and coders who feel their jobs are threatened.
+Anything dealing with patient data must be Health Insurance Portability and Accountability Act (HIPPA) compliant. All AI that processes this sensitive information must meet this standard.
+Large volumes of data can be analyzed promptly, allowing fraud analysts to identify and address issues before they are large problems.
+It’s been used since the 1980s, but is expected to improve with the addition of the latest AI. For example, there are less false positives with AI because it analyzes images more accurately.
+The added benefit of EHRs is that they reduce costs and ultimately help patient care. Identifying anomalies correctly without biopsies is another benefit.

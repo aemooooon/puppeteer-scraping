@@ -1,0 +1,8 @@
+The government must urgently develop “robust and granular” rules so it can reap the benefits of AI technologies in an ethically responsible manner, the two bodies said in the statement.
+“AI technologies have great potential to benefit society in terms of improved health, education, public safety, and social and economic prosperity,” they wrote.
+“However, they have also been shown to be unsafe when not effectively governed.”
+A spokesperson for the Minister of Public and Business Service Delivery said the government is developing a trustworthy AI framework “that will ensure the transparent and accountable use of AI” across the public sector.
+That framework says the government commits to always being transparent, disclosing when, why and how AI algorithms are used, following rules to safely and securely apply those algorithms, and protecting Ontarians’ rights.
+The human rights commission and privacy commissioner say they commend the foundation proposed in that 2021 framework, but it is “urgent for the government to establish a binding set of robust and granular rules for public sector use of AI technologies.”
+The two bodies say AI technologies have great potential to benefit society, but they can be unsafe when not properly governed and may unlawfully collect personal information.
+Even with de-identified information, AI technologies can perpetuate biases and lead to negative effects on marginalized people or groups, they write in the statement.

@@ -1,0 +1,15 @@
+An experimental robot with an animated cartoon face has been sent to the International Space Station (ISS) on board a SpaceX Falcon 9 rocket.
+Dubbed Cimon (Crew Interactive Mobile Companion), the device is intended as an "an AI-based assistant for astronauts".
+Cimon weighs 5kg but in zero gravity it will float move around thanks to 14 internal fans.
+It is an attempt to find out whether robots and astronauts can collaborate.
+To this end, Cimon is equipped with microphones and cameras that help it recognise Alexander Gerst, the German astronaut with whom it will work.
+An "offline" button has been designed for Cimon, which allows Gerst to avoid having audio streamed to servers on Earth during moments of privacy.
+The rocket whisking the bot on its way to Earth orbit took off from Nasa's Kennedy Space Center in Florida at 05:42 Eastern time (10:42 BST).
+It was part of a cargo shipment weighing nearly 2.7 tonnes that includes food and water.
+The cargo is contained in a Dragon capsule that will detach from the Falcon 9 and dock with the ISS on Monday.
+"Right now our main mission is to support the astronauts with their daily tasks to save time, because time is the most valuable and most expensive thing on the ISS," IBM engineer Matthias Biniok told Reuters.
+Cimon, which speaks English, was developed by Airbus and IBM for the German national space agency, DLR.
+It will be able to give astronauts instructions to help them carry out scientific experiments and it will be able to respond to verbal questions.
+"The use of artificial intelligence in assisting space flight is an obviously good use of the technology," said AI expert Noel Sharkey at the University of Sheffield.
+But he pointed out that Cimon would have to prove its worth.
+"It is only in the experimental stages at present and if it is not useful, no space agency will want to waste incredible valuable space with it."

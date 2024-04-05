@@ -1,0 +1,17 @@
+Computer chipmaker Nvidia blew past expectations with its quarterly revenue forecast on Aug. 23 as an artificial intelligence (AI) boom fueled demand for its technology.
+Nvidia’s revenue for its fiscal second quarter doubled from the same time last year to $13.5 billion, raking in a profit of $6.2 billion.
+Revenue at the company’s data center business rose 141 percent to $10.32 billion in the quarter ended July 30, beating analyst estimates of $7.69 billion by more than $2 billion, according to Refinitiv data.
+The chipmaker’s sales growth is spurred by the company’s specialized chips that power much of the world’s major AI technology.
+Specifically, the company said the biggest sales driver this quarter was its HGX system, which is an entire computer built around Nvidia’s chip.
+The 30-year-old company is now valued at $1.2 trillion, a threshold that thrust the company into the tech industry’s elite.
+“This is a new computing platform, if you will, a new computing transition that is happening,” Nvidia CEO Jensen Huang said Wednesday during a conference call with analysts.
+The Santa Clara, California, company predicted its revenue for its August-October quarter will total $16 billion, nearly tripling its sales from the same time last year.
+Nvidia also said on Wednesday it would buy back $25 billion worth of its shares, a move most companies make when their leadership thinks the company is undervalued.
+“We have excellent visibility through the year and into next year, and we’re already planning the next generation infrastructure with leading (cloud computing firms) and data center builders,” Huang told investors.
+Analysts have estimated that demand for Nvidia’s AI chips is exceeding supply by at least 50 percent, adding that the imbalance will stay in place for the next several quarters.
+“Companies worldwide are transitioning from general-purpose to accelerated computing and generative AI,” Jensen Huang, Nvidia’s chief executive, said in a statement.
+While some market observers are optimistic about Nvidia’s future growth and stock price, others believe investors are getting carried away.
+“This level of hype is dangerous as it could lead investors to assume that these stocks are a silver bullet to build long-term wealth—and they are not, at least not on their own,” warned Nigel Green, CEO of deVere Group.
+Although known for its graphics processing units (GPUs), Nvidia produces whole AI machines with memory chips from other suppliers and tens of thousands of other parts.
+The company has a near-monopoly on the computing systems used to power services like ChatGPT, OpenAI’s blockbuster generative AI chatbot.
+AI chips are designed to perform artificial intelligence tasks faster and more efficiently. While general-purpose chips like CPUs can also be used for simpler AI tasks, they’re “becoming less and less useful as AI advances,” a 2020 report from Georgetown University’s Center for Security and Emerging Technology notes.

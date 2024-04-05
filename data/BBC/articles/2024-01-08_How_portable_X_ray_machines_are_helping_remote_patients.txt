@@ -1,0 +1,30 @@
+Portable X-ray machines "can literally be the difference between life and death", says radiographer Sam Pilkington.
+For most of us, if we need to be X-rayed the procedure is done in a hospital. But for acutely unwell patients, or for infection control, Miss Pilkington says that portable machines are very helpful.
+This is because "they remove the excess burden of transportation from the patients", says the final-year student at the University of the West of England in Bristol, who is also a member of the Institute of Physics. Instead the X-ray equipment goes to them.
+There are obvious advantages for remote locations, including battlefields, roadsides and disaster zones.
+And thanks to the increased availability - and ability - of such portable systems their usage is growing rapidly. With the coronavirus pandemic fuelling this increase, the global portable X-ray market was worth a reported $7.1bn (£5.6bn) last year. And this is expected to rise to $14bn by 2028.
+In simple terms there are two types of portable X-ray machines - those on wheels, which are generally described as "mobile", and the lightest devices that can be carried by a single person. These are generally described as "ultraportable".
+One remote place that has tested ultraportable X-ray hardware is the Orkney Islands in Scotland. Prior to a trial there from November 2021 to January 2022, 73% of patients who were due for an X-ray did not attend their appointments - due in large part to the costs and time needed to reach distant hospitals.
+During the trial, a handheld device made by Japanese firm Fujifilm was taken to local clinics. Called the Fujifilm Xair, it weighs just 3.5kg, and is only 301mm (12 inches) wide and 144mm tall.
+As a result of its use, the non-attendance rate for X-rays appointments was reduced to zero.
+As one patient commented to the subsequent report: "This is hugely beneficial to people on the small islands. Much less upheaval for frailer patients."
+German company OR Technology is another manufacturer of portable X-ray machines. Tim Thurn, its chief commercial officer, says it is seeing great interest from emerging markets. "There's a huge demand for bringing healthcare to the people," he says.
+In the Philippines, Nigeria and other countries in the developing world, portable X-ray systems are transforming screening for tuberculosis (TB), which kills approximately 1.3 million people a year despite being preventable and curable. 
+It's long been known that a chest X-ray is the best screening tool for TB, explains Suvanand Sahu, the deputy executive director of the Stop TB Partnership. This Swiss-based organisation represents more than 1,500 government and non-government bodies around the world.
+But he says that access to X-rays was historically hampered by a lack of hospitals. This was particularly the case in remote areas, and among remote, nomadic and displaced groups. 
+Dr Sahu says that portable X-ray machines, which often include artificial intelligence software to quickly process the images, have been a powerful solution that allows detection to be successfully done out in the field.
+"About 10 years ago, if we would have said 'we can we do an X-ray in the community, with the computer reading it', I think people would have jumped out of their seats. But it has happened now."
+Dr Sahu adds that the AI has enabled a "quantum leap" in how accurately and quickly these X-rays can be read.
+Yet some are worried about the radiation released by portable X-ray machines. Portable X-ray equipment works in the same way as the big, fixed machines in radiology departments in hospitals - the image is created by a targeted burst of ionizing radiation.
+In hospitals, x-ray rooms are carefully designed to minimise radiation exposure, for instance with lead walls. 
+Mr Thurn says that with portable systems this lack of shielding is compensated for by the greater space where they are used, be it outdoors, or in a field hospital setup. In these cases he says that healthcare workers can stand much further away.
+However, the issue of radiation needs to be clarified, as currently the international guidelines on radiation safety "are designed for the traditional fixed type of X-ray", says Zhi Zhen Qin, a digital health specialist at the Stop TB Partnership. 
+The image quality of portable X-ray machines used to be a concern as well. But Miss Pilkington says that today's machines rival fixed units in this regard: "The images that are taken on those machines are of a comparable diagnostic standard."
+New Tech Economy is a series exploring how technological innovation is set to shape the new emerging economic landscape.
+However, there are barriers to just how small the components of an X-ray system can get. If an X-ray detector is too small to capture a body part in a single exposure, extra images might need to be taken, which would add to time burdens and radiation doses. 
+And units with a limited battery life or data storage, reduce how many patients can be imaged in one session.
+Meanwhile, some systems described as portable aren't exactly lightweight and easily transported, particularly if they need other hardware to make them work like a stand or computer equipment.
+Yet Australian firm Micro-X is now making much lighter ultraportable x-ray machines, due to its new technology that can produce the X-rays without creating heat. This does away with the need for oil and motors for cooling, which add weight.
+The high cost of portable X-ray machines is also an issue. While they are cheaper than the larger fixed machines, they are still very expensive. 
+The Stop TB Partnership says that the price of ultraportable machines ranges between $47,000 and $66,000. There are additional costs for warranties, installation and software.
+Dr Suvanand says that as more manufacturers enter this space, "we hope that the competition will drive down the prices".

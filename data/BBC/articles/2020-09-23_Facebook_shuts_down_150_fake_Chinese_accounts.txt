@@ -1,0 +1,21 @@
+Facebook has shut down a network of more than 150 fake profiles linked to China for "co-ordinated" interference in political discussions.
+While mainly concerned with backing China's interests, some also posted about the US presidential election.
+It is only the second time that Facebook has identified such fake accounts as originating in China.
+The network had about 130,000 followers - although very few of these were in the US.
+The accounts starting appearing in 2016, and most of the information was related to China's influence in the Philippines and South-East Asia.
+They were traced back to individuals based in Fujan province, who were beginning to pay for advertisements in Chinese yuan, Facebook said.
+Much of the content was in support of the Chinese state - such as promoting its interests in the disputed South China Sea.
+But there was also some criticism of China, too.
+A few accounts had posted about US presidential candidate Pete Buttigieg, before he dropped out of the race - as well as others supporting the eventual party nominees Donald Trump and Joe Biden.
+More recently Graphika, the social media analytics firm asked by Facebook to research the accounts, found that some used an AI technique known as Generative Adversarial Networks (GANs) to create believable but completely fake faces to front the profiles.
+Ben Nimmo, a researcher at Graphika, tweeted: "A year ago this was a novelty. Now it feels like every operation we analyse tries this at least once."
+Facebook also removed a network of fake accounts originating in the Philippines which focused on domestic audiences and local news.
+It was smaller, with just 57 Facebook accounts, 31 pages and 20 Instagram accounts. In this case, links were found to the Philippine military and police.
+They posted in Filipino and English about local news and events, and military activities against terrorism, as well as criticism of communism, youth activists and opposition parties.
+By Shayan Sardarizadeh, BBC Anti-disinformation Unit
+Headlines about Facebook's latest batch of takedowns will inevitably focus on Chinese efforts to interfere in the forthcoming US election. However, while that is a significant angle, it is important to keep things in perspective. 
+First, this was a tiny operation that failed to make any wide-scale impact before it was taken down. The number of actual US voters who came across its content is most probably negligible.  
+Second, only a small proportion of the operation's content was about the US election. And even then, the content was not in favour of or against a specific candidate. 
+Some of the content was supportive of President Trump, while some was in favour of Mr Biden. One page which criticised Mr Trump had no followers at all.
+And third, most of the content was directly in line with China's strategic and geopolitical interests, particularly in the South China Sea. 
+It has become customary to associate Russia with foreign interference campaigns. But entities and governments around the world increasingly see information operations as a means to advance their individual or national security interests.

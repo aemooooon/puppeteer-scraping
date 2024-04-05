@@ -1,0 +1,19 @@
+A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: "Where did I put that thing?".
+The Ego4D project aims to improve AI's understanding of the world from an "egocentric" first-person perspective.
+The hope is to improve the utility of devices such as augmented reality (AR) glasses.
+For example, it could enable them to assist with tasks such as remembering where you put the keys.
+In a blog post, Facebook argues that "next-generation AI will need to learn from videos that show the world from the centre of the action". 
+AI that understands the world from this "egocentric perspective" could - the company says - help "immersive devices" like AR glasses and virtual reality (VR) headsets become as useful as smartphones.
+Facebook has had a long-running interest in VR through its ownership of headset manufacturer Oculus.
+And the company is expected to release fully-fledged AR spectacles, telling the BBC recently that they were still in development.
+Ego4D is a collaborative effort to gather a "massive-scale egocentric video dataset" to assist in the development of computer vision and AI systems that help users interact with the world from a first-person perspective.
+The project brings together a consortium of 13 universities and labs across nine countries.
+The dataset, researchers said, includes "3,025 hours of daily life activity video spanning hundreds of scenarios (household, outdoor, workplace, leisure, etc.) captured by 855 unique camera wearers".
+Currently computer vision algorithms are trained using large datasets of images and videos captured in a third-person perspective.
+"Next-generation AI systems will need to learn from an entirely different kind of data — videos that show the world from the centre of the action, rather than the sidelines,"   wrote Kristen Grauman, lead research scientist at Facebook.
+The datasets, which Facebook claims are "20 times greater than any other in terms of hours of footage", will be available to researchers who sign a data use agreement from November.
+The company also developed five "benchmark challenges" for developing more useful AI assistants. These are, Facebook said:
+But Facebook has had a sometimes fraught relationship with researchers. 
+The idea that a company which has been heavily criticised and fined for its record on privacy wishes to develop tech with such an intimate "first-person" view of our lives will also concern some.
+Its new Ray-Ban Stories camera-glasses prompted privacy questions, despite the much more limited technology.
+Technology news site The Verge said it was worrying "that benchmarks in this Ego4D project do not include prominent privacy safeguards".

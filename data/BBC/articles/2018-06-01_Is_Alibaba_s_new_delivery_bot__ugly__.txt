@@ -1,0 +1,13 @@
+Chinese retail giant Alibaba has unveiled a new automated vehicle which it says is easy to mass-produce and could serve a number of functions.
+These could include delivery courier or automated coffee vendor, it said.
+The Cainiao G Plus can travel at up to nine miles per hour, reports The Verge news site.
+It was unveiled at a conference where Alibaba founder Jack Ma announced a 100bn yuan (£11.6bn; $15.5bn) investment in smart logistics.
+This includes devices such as warehouse robots as well as delivery aids.
+AI expert and author Calum Chace described the G Plus as resembling the "ugly big brother" of a delivery bot developed by US firm Starship Technologies.
+"Starship has been working on this project for several years, so the Alibaba project looks to be behind as well as ugly," he said.
+"But that won't matter.  Anything to do with artificial intelligence is a high priority for China, which has set itself the target of overtaking the US as world leader in AI by 2030."
+China benefits from having free access to large amounts of data, essential for training algorithms, he added - potentially a drawback in Europe since the introduction of GDPR legislation, designed to protect privacy. 
+"Don't bet against the Chinese pulling ahead in any AI-related competition, be it self-driving cars, facial recognition, or delivery bots," Mr Chace said.
+The G Plus vehicle is fitted with solid state Lidar - the laser sensors which form an important part of the system autonomous vehicles use to be aware of their surroundings.
+Solid state Lidar is more compact, cheaper and easier to manufacture than the traditional system, which involves spinning multiple lasers in circles to help build up a 360-degree image of what surrounds the vehicle.
+There are various developers creating their own versions but essentially it uses fewer lasers and a tiny swinging mirror.

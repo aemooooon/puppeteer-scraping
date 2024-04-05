@@ -1,0 +1,18 @@
+Twitter, TikTok, and Google have been issued legal notices from Australia’s eSafety commissioner requiring them to explain what they are doing to tackle online child sexual abuse.
+“The creation, dissemination and viewing of online child sexual abuse inflicts incalculable trauma and ruins lives. It is also illegal,” eSafety Commissioner Julie Inman Grant said.
+“It is vital that tech companies take all the steps they reasonably can to remove this material from their platforms and services.”
+Issued under the government’s Online Safety Act 2021, the tech companies have 35 days to respond to the notices or face penalties of almost $700,000 (US$475,000) a day.
+Grant said it was vital that tech companies take all the reasonable steps they can to remove such harmful content.
+“The creation, dissemination, and viewing of online child sexual abuse inflict incalculable trauma and ruins lives. It is also illegal,” she said.
+This comes after a mother recently told an Australian parliamentary inquiry how her nine-year-old daughter had been groomed online.
+“Following her disclosure, she informed me every single day she had been afraid she may be arrested—she was filled with self-blame and shame.”
+“What we discovered from our first round of notices sent last August to companies, including Apple and Microsoft, is that many are not taking relatively simple steps to protect children and are failing to use widely available technology, like PhotoDNA, to detect and remove this material,” Grant said.
+PhotoDNA, originally developed by Microsoft, is used by tech companies around the world to scan for known child sexual abuse images and videos, with a false positive rate of one in 50 billion.
+But Microsoft has admitted that it does not use any technology to detect live-streaming of child sexual abuse in video chats on Skype, Microsoft Teams, or FaceTime—despite Skype being a commonly used platform.
+Grant added that Twitter boss Elon Musk had posted on his platform in November that said child exploitation was “Priority #1,” but she had yet to see details on how Twitter was upholding that statement.
+Samantha Yorke, Google’s senior manager for government affairs and public policy, said child sexual abuse material had “no place” on its platforms.
+“We utilise a range of industry-standard scanning techniques, including hash-matching technology and artificial intelligence, to identify and remove CSAM that has been uploaded to our services,” she told The Epoch Times in a statement.
+“We work closely with the eSafety Commissioner, the U.S.-based National Center for Missing and Exploited Children, and other agencies around the world to combat this kind of abuse.”
+A Discord spokesperson told The Epoch Times they had received the notice from the eSafety office and looked forward to responding.
+“We have zero tolerance for content that threatens child safety online, and firmly believe this type of content does not have a place on our platform or anywhere in society,” the spokesperson said in a statement.
+“This is an area of critical importance for all of us at Discord, and we share the office’s commitment to creating a safe and positive experience online.”

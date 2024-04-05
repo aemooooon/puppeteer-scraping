@@ -1,0 +1,22 @@
+The Biden administration has announced new voluntary commitments from seven major artificial intelligence (AI) companies, another milestone in the White House’s attempt to get ahead of the fast-moving technology.
+“This is pushing the envelope on what companies are doing and raising the standards for safety and security and trust of AI,” a senior White House official told reporters on July 20.
+President Joe Biden met with executives of those seven companies at the White House on July 21.
+More specifically, he spoke with Brad Smith, president of Microsoft; Kent Walker, president of global affairs at Alphabet; Dario Amodei, co-founder and CEO of Anthropic; Mustafa Suleyman, CEO and founder of Inflection AI; Nick Clegg, president of global affairs at Meta and former deputy prime minister of the United Kingdom; Greg Brockman, co-founder and president of OpenAI; and Adam Selipsky, CEO of Amazon Web Services.
+The participants’ voluntary commitments include a pledge to allow independent testing on AI systems before they reach the general public.
+Sen. Chuck Schumer (D-N.Y.) helped coordinate a July 11 classified briefing of senators on AI by the White House.
+Those states include its Five Eyes partners—Canada, Australia, New Zealand, and the UK—as well as Israel, the Netherlands, Germany, France, Italy, Brazil, Chile, Mexico, India, the Philippines, Japan, Singapore, South Korea, Kenya, Nigeria, and the United Arab Emirates.
+China and Russia were among the names conspicuously absent from that list.
+“I don’t think I want to get into the details of our diplomacy,” the White House official said when pressed by a reporter on the United States’ international work on AI.
+The White House also indicated that Mr. Biden will issue another executive order on AI. They did not provide details on when it or any similar executive actions would come down.
+“We’re looking at actions across agencies and departments given how cross-cutting AI is,” the White House official told reporters.
+“I think the president is very clear about what many of his priorities are: putting equity at the center; ensuring protection for consumers and workers; I think, of course, safeguarding our national security,” the official added.
+Equity, which is distinct from equality, has been a consistent theme of the Biden administration’s approach to AI.
+In an executive order on “racial equity” from earlier this year, the commander-in-chief sought to embed equity in all “artificial intelligence and automated systems in the federal government.”
+“The department holds that biases in AI algorithms must be addressed when they introduce or sustain unjust discriminatory practices in education,” the report states, leaving open whether some discriminatory practices in education are, in fact, just.
+“AI systems and tools must align to our collective vision for high-quality learning, including equity,” it states.
+Participants included Joy Buolamwin, founder of the Algorithmic Justice League, and Jim Steyer, founder of Common Sense Media and the brother of a billionaire mega-donor to Democrats and liberal causes, Tom Steyer.
+While the voluntary commitments touted by the Biden administration don’t explicitly mention equity, they do include a few gestures toward AI bias.
+For example, the participants committed to “prioritizing research on the societal risks that AI systems can pose, including on avoiding harmful bias and discrimination, and protecting privacy.”
+“The track record of AI shows the insidiousness and prevalence of these dangers, and the companies commit to rolling out AI that mitigates them,” the White House’s announcement adds.
+A commitment to public reporting on their AI systems notes that such reporting “will cover both security risks and societal risks, such as the effects on fairness and bias.”
+What’s more, the commitment to independent prerelease testing alludes to concerns with the “broader societal effects” of AI.

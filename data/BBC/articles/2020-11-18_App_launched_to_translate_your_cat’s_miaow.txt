@@ -1,0 +1,27 @@
+An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer.
+MeowTalk records the sound and then attempts to identify the meaning.
+The cat's owner also helps to label the translation, creating a database for the AI software to learn from.
+Currently, there are only 13 phrases in the app’s vocabulary including: “Feed me!”, “I’m angry!” and “Leave me alone!”
+Research suggests that, unlike their human servants, cats do not share a language.
+Each cat’s miaow is unique and tailored to its owner, with some more vocal than others. 
+So, instead of a generic database for cat sounds, the app's translation differs with each individual profile.
+By recording and labelling sounds, the artificial intelligence and machine-learning software can better understand each individual cat's voice - the more it's used, the more accurate it can become.
+The eventual aim is to develop a smart-collar, Javier Sanchez, group technical program manager at app developer Akvelon, said in a webinar on its website.
+The technology would then translate your cat’s miaow instantly, and a human voice would speak through the collar.
+“I think this is especially important now because, with all the social distancing that's happening, you have people that are confined at home with ... a significant other - this feline,” Mr Sanchez added.
+“This will enable them to communicate with their cat, or at least understand their cat's intent, and build a very important connection.”
+The app is available free on both Google Play Store and Apple’s App Store.
+As it’s still in its early stages of development, there are mixed reviews, with several users complaining of errors in the app.
+“I'm getting quite irritated,” one review said. “I just downloaded it and haven’t even been able to use it because it just keeps telling me there is a wifi/connection error.”
+“I was getting the translation 'I'm in love!' 90% of the time," another user said. 
+“While it's nice to think that my cats love me so much, I'd caught one of my cats hissing and growling during play - and it said she was in love then too.”
+But others were positive, and the app has an average rating of 4.3 on the Google Play Store.
+“For now, if you don’t take it too seriously, it’s a really fun app,” one review said. “And, who knows, maybe in time, it will really learn my cat’s true meow in all instances. It surely looks promising.”
+“Really cool concept and I've enjoyed it as my cats never stop talking,” another review added.
+However, users have also expressed concern about privacy on the app over how the data from the recordings is stored and used.
+In its privacy policy, the app says it is in a “development phase” and advises anyone “concerned about data retention” to uninstall the app until it is fully compliant with the EU's GDPR privacy law
+"Most cat vocalisations are actually to communicate with humans, as most owners will respond to them," Juliette Jones, cat behaviour specialist at Wood Green, The Animals Charity, said.
+As the app relies on the owner labelling translations, there is room for miscommunication, she added.
+"There may be some inaccuracies which could give owners the wrong impression about what their cats are feeling. 
+"This could be detrimental to the cat, the owner and their relationship - for instance, if a cat is purring it doesn't necessarily mean they are happy and restful. A purr can also be seeking affection or indicating discomfort. In its current form, the app should only be used for entertainment."
+"We will probably never be able to convert a cat's miaow into human words," Anita Kelsey, cat behaviourist and author of 'Let's Talk About Cats', said. "All we can do is have fun thinking about what they might be saying from our own human perspective. 

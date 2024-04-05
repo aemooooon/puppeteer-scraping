@@ -1,0 +1,14 @@
+Beijing is suspected of infiltrating Australia with gambling crime syndicates, using online gambling websites and a large number of AI-generated fake social media accounts to spread and promote false information.
+Australian intelligence said that the Chinese communist regime used a transnational gambling crime syndicate based in Myanmar to push false information about Australian politics, such as “The Voice to Parliament” referendum, through the group’s online forums and chat rooms, The Daily Telegraph reported.
+Although the topic is real, AI-generated chat accounts further amplify the generated false information. Even AI-generated chats from Twitter accounts with random images and conversations were fake, they were accepted, replied to or retweeted by real Twitter users who thought it was legitimate news.
+Many in the Chinese Australian community, in particular, do not doubt that they are having conversations with AI as these conversational messages use recognisable legal hashtags such as #AUKUS and #MeToo to gain attention.
+“In contrast to other authoritarian countries such as Russia, Iran, and North Korea, China is a technology superpower with global capacity and ambitions and is a major exporter of effective, cost-competitive AI-enabled technology into democracies,” reads the report.
+Simeon Gilding, the author of the report and a senior fellow of the institute, said the concern isn’t China’s AI capabilities but rather companies that need to succumb to the authoritarian government’s wide-ranging security laws.
+“They’re subject to direction from PRC security and intelligence agencies,” he wrote.
+An example of a “red team” solution is the method of using “a thief to catch a thief.”
+“We know that TikTok data can be accessed by PRC agencies and reportedly also reveal a user’s location, so it’s obvious that military and government officials shouldn’t use the app. Journalists should also think carefully about this, too. Beyond that, the merits of a general ban on technical security grounds are a bit murky,” the report said.
+“Can our Red Team use the app to jump onto connected mobiles and IT systems to plant spying malware? What system mitigations could stop them getting access to data on connected systems? If the team revealed serious vulnerabilities that can’t be mitigated, a general ban might be appropriate.”
+Regulation could also include prohibiting Chinese AI technology on certain systems, such as national security networks or government devices, or banning it entirely.
+Mr. Gilding said regulation was needed to prevent further security threats.
+“It is a balanced measure in a world in which China is neither at peace nor at war with us,” he said. “We should be vigilant about the balloons in the sky, but we should think harder about the ghosts in the machine.”
+However, he noted that a blanket ban would be costly and disruptive.

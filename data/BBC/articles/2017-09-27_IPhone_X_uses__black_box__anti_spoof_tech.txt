@@ -1,0 +1,18 @@
+Even Apple will not be able to explain how its forthcoming iPhone X can spot some efforts to fool its facial recognition system.
+The firm has released a guide to the Face ID system, which explains that it relies on two types of neural networks - one of which has been specifically trained to resist spoofing attempts. 
+But a consequence of the design is that it behaves like a "black box".
+Its behaviour can be observed but the underlying processes remain opaque.
+So, while Apple says Face ID should be able to distinguish between a real person's face and someone else wearing a mask that matches the geometry of their features, it will sometimes be impossible to determine what clues were picked up on.
+Face ID is far from being the first facial recognition system to be built into a mobile device. 
+But previous technologies have been plagued by complaints they are relatively easy to fool by with photos, video clips or 3D models shown to the sensor. 
+This has made them unsuitable for payment authentication or other security-sensitive circumstances.
+In publishing its Face ID documentation more than a month ahead of the iPhone X going on sale, Apple is hoping to head off such concerns - particularly since the handset lacks the Touch ID fingerprint sensor found on its other iOS phones and tablets.
+Its site details how the process works:
+The final "matching" part of the procedure relies on one neural network that Apple says was trained using more than a billion 2D infrared and dot-based images.
+Simultaneously, it explains "an additional neural network that's trained to spot and resist spoofing" comes into play.
+Apple has designed the computer chip involved to make it difficult for third parties to monitor what is going on, but even if they could they would have little chance of making sense of the calculations.
+"The developers of these kinds of systems have some level of insight into what is happening but can't really create a narrative answer for why, in a specific case, a specific action is selected," explained Rob Wortham, an artificial intelligence researcher at the University of Bath.
+"With neural networks there's nothing in there to hang on to - even if you can inspect what's going on inside the black box, you are none the wiser after doing so. 
+"There's no machinery to enable you to trace what decisions led to the outputs."
+Apple has said it carried out many controlled tests involving three-dimensional masks created by Hollywood special effects professionals, among other tasks, to train its neural network into detecting spoofs. 
+However, it does not claim it is perfect, and intends to continue lab-based trials to further train the neural network and offer updates to users over time.

@@ -1,0 +1,17 @@
+Italy temporarily stopped ChatGPT from operating in the country on Friday over unlawful data collection and problems in its age verification system. It launched a legal inquiry into the case.
+More specifically, regarding the data collection, the Italian authority, also known as Garante, said that ChatGPT presents no information to its user whose data is collected by OpenAI. “More importantly, there appears to be no legal basis underpinning the massive collection and processing of personal data in order to ‘train’ the algorithms on which the platform relies.”
+Regarding age verification, Garante said that ChatGPT might present inappropriate content to children because no reliable system checks the user’s age. ChatGPT says that only people who are at least 13 can use the service.
+OpenAI has 20 days to respond with remedies or risks, a fine of up to €20 million ($21.68 million) or 4 percent of its annual worldwide turnover.
+The press release also mentions that a breach that affected ChatGPT user conversations and payment information was reported on March 20.
+Users must register on the ChatGPT website to use the service.
+OpenAI said it had disabled ChatGPT for users in Italy at the request of the Garante.
+ChatGPT’s website is not active in Italy. A notice on the ChatGPT webpage said the website’s owner may have set restrictions that prevent users from accessing the site.
+“We actively work to reduce personal data in training our AI systems like ChatGPT because we want our AI to learn about the world, not about private individuals,” OpenAI added.
+OpenAI is based in the United States but has a designated representative in the European Economic Area.
+Italy becomes the first Western country to limit the use of an AI chatbot.
+The technology’s rapid development has attracted lawmakers’ attention in several countries. Many experts say new regulations are needed to govern AI because of its potential impact on national security, jobs, and education.
+“We expect all companies active in the EU to respect EU data protection rules. The enforcement of the General Data Protection Regulation is the responsibility of EU data protection authorities,” a European Commission spokesperson said.
+The Commission, which is considering legislation called the EU AI Act, may not be inclined to ban AI, European Commission Executive Vice President Margrethe Vestager said on Twitter.
+On Wednesday, Elon Musk, a group of artificial intelligence experts, and industry executives called for a six-month pause in developing systems more powerful than OpenAI’s newly launched GPT-4 in an open letter citing potential risks to society.
+OpenAI still needs to provide details on how it trains its AI model.
+“The lack of transparency is the real problem,” said Johanna Björklund, AI researcher and associate professor at Umea University in Sweden. “If you do AI research, you should be very transparent about how you do it.”

@@ -1,0 +1,29 @@
+Police must address concerns over the use of facial recognition systems or may face legal action, the UK's privacy watchdog says.
+Information Commissioner Elizabeth Denham said the issue had become a "priority" for her office.
+An investigation by campaign group Big Brother Watch suggested the technology flagged up a "staggering" number of innocent people as suspects.
+But police have defended the technology and say safeguards are in place.
+Big Brother Watch submitted freedom of information requests to every police force in the UK. 
+Two police forces acknowledged they were currently testing facial recognition cameras. 
+The Metropolitan Police used facial recognition at London's Notting Hill carnival in 2016 and 2017 and at a Remembrance Sunday event. 
+Its system incorrectly flagged 102 people as potential suspects and led to no arrests.
+In figures given to Big Brother Watch, South Wales Police said its technology had made 2,685 "matches" between May 2017 and March 2018 - but 2,451 were false alarms. 
+Leicestershire Police tested facial recognition in 2015, but is no longer using it at events.
+Police facial recognition cameras have been trialled at events such as football matches, festivals and parades.
+High-definition cameras detect all the faces in a crowd and compare them with existing police photographs, such as mugshots from previous arrests. 
+Any potential matches are flagged for a police officer to investigate further. 
+South Wales Police has defended its use of facial recognition software and says the system has improved with time.
+"When we first deployed and we were learning how to use it... some of the digital images we used weren't of sufficient quality," said Deputy Chief Constable Richard Lewis. "Because of the poor quality, it was identifying people wrongly. They weren't able to get the detail from the picture."
+It said a "number of safeguards" prevented any action being taken against innocent people.
+"Firstly, the operator in the van is able to see that the person identified in the picture is clearly not the same person, and it's literally disregarded at that point," said Mr Lewis.
+"On a much smaller number of occasions, officers went and spoke to the individual... realised it wasn't them, and offered them the opportunity to come and see the van.
+"At no time was anybody arrested wrongly, nobody's liberty was taken away from them."
+The Metropolitan Police told the BBC it was testing facial recognition to see whether it could "assist police in identifying known offenders in large events, in order to protect the wider public".
+"Regarding 'false' positive matches - we do not consider these as false positive matches because additional checks and balances are in place to confirm identification following system alerts," it said in a statement.
+"All alerts against the watch list are deleted after 30 days. Faces in the video stream that do not generate an alert are deleted immediately."
+But Big Brother Watch said it was concerned that facial recognition cameras would affect "individuals' right to a private life and freedom of expression".
+It also raised concerns that photos of any "false alarms" were sometimes kept by police for weeks.
+"Automated facial recognition technology is currently used by UK police forces without a clear legal basis, oversight or governmental strategy," the group said.
+Big Brother Watch wants police to stop using facial recognition technology. It has also called on the government to make sure that the police do not keep the photos of innocent people.
+Information Commissioner Elizabeth Denham said police had to demonstrate that facial recognition was "effective" that no less intrusive methods were available.
+"Should my concerns not be addressed I will consider what legal action is needed to ensure the right protections are in place for the public," said Ms Denham.
+The Home Office told the BBC it plans to publish its biometrics strategy in June, and it "continues to support police to respond to changing criminal activity and new demands".

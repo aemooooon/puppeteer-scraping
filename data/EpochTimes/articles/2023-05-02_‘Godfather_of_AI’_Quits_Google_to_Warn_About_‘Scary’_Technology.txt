@@ -1,0 +1,17 @@
+A groundbreaking innovator in the field of artificial intelligence (AI) is sounding the alarm over the dangers imposed by the technology for which his work laid the foundation.
+Geoffrey Hinton, the British computer scientist who has been called the “Godfather of AI,” recently left his position as a vice president and engineering fellow at Google so he could join the dozens of other experts in the field speaking out about the threats and risks of AI.
+Hinton, like the letter’s signatories, said he finds the recent advancements in AI to be “scary” and worries about what they might mean for the future—particularly now that Microsoft has incorporated the technology into its Bing search engine.
+With Google now rushing to do the same, Hinton noted that the race between Big Tech companies to develop more powerful AI could easily spin out of control.
+One particular facet of AI technology that concerns the computer scientist is its ability to create false images, photos, and text to the point where the average person will “not be able to know what is true anymore.”
+He also warned that, in the future, AI could potentially replace humans in the workplace and be used to create fully autonomous weapons.
+That work was integral to the development of AI, but in retrospect, Hinton said he regretted his role in the process.
+“I console myself with the normal excuse: If I hadn’t done it, somebody else would have,” he said.
+Hinton notified Google last month that he was leaving the company after more than a decade.
+On May 1, he clarified that the reason for his departure was solely to isolate the company from his statements and had nothing to do with Google’s approach to AI.
+In a recent interview with Fox News, Tesla CEO Elon Musk—who also co-founded OpenAI—said he felt that Larry Page, Google co-founder, was not taking the risks of AI seriously.
+“He really seemed to want digital superintelligence, basically digital God, as soon as possible,” Musk said, referencing conversations he has had with Page on the matter.
+“He’s made many public statements over the years that the whole goal of Google is what’s called AGI, artificial general intelligence, or artificial superintelligence,” he noted. “I agree with him that there’s great potential for good, but there’s also potential for bad.”
+Musk, who signed the Future of Life Institute’s letter, has been outspoken about his concerns with AI in general, holding that it poses a serious risk to human civilization.
+“AI is perhaps more dangerous than, say, mismanaged aircraft design, or production maintenance, or bad car production, in the sense that it is, it has the potential—however small one may regard that probability, but it is nontrivial—it has the potential of civilizational destruction,” he told Fox News.
+Another fear Musk revealed is the worry that AI is being trained in political correctness, which he maintained is just a form of deception and “saying untruthful things.”
+Despite those concerns—or perhaps because of them—the tech billionaire has also expressed interest in developing his own “truth-seeking” AI that would be trained to care about humanity.

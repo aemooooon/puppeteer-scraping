@@ -1,0 +1,39 @@
+As voice cloning technology has become ever more effective, it is of increasing interest to actors... and cybercriminals.
+When Tim Heller first heard his cloned voice he says it was so accurate that "my jaw hit the floor... it was mind-blowing".
+Voice cloning is when a computer program is used to generate a synthetic, adaptable copy of a person's voice.
+From a recording of someone talking, the software is able to then replicate his or her voice speaking any words or sentences that you type into a keyboard.
+Such have been the recent advances in the technology that the computer generated audio is now said to be unnervingly exact. The software can pick up not just your accent - but your timbre, pitch, pace, flow of speaking and your breathing.
+And the cloned voice can be tweaked to portray any required emotion - such as anger, fear, happiness, love or boredom.
+Mr Heller, a 29-year-old voiceover artist and actor from Texas, does everything from portraying cartoon characters, narrating audio books and documentaries, speaking on video games, and the voiceovers on film trailers.
+He says he recently turned to voice cloning to "future proof" his career.
+He says it may enable him to secure more work. For example, if he is ever double-booked, he could offer to send his voice clone to do one of the jobs instead.
+"If I am booked for other work... I can position my 'dub' [what he calls his voice clone] as an option that can save clients time, and generate passive income for myself," says Mr Heller.
+To get his voice cloned Mr Heller went to a Boston-based business called VocaliD - one of a growing number of companies now offering the service.
+VocaliD was founded by its chief executive Rupal Patel, who is also a professor of communication sciences and disorders at Northeastern University.
+Prof Patel set up the business in 2014 as an extension of her clinical work creating artificial voices for patients who are unable to talk without assistance, such as people who have lost their voice following surgery or illness.
+She says that the technology - which is led by artificial intelligence, software that can "learn" and adapt by itself - has advanced greatly over the past few years. This has caught the attention of voiceover artists.
+"We also specialise in making custom voices that are more diverse in accent," says Prof Patel. "We've made some transgender voices, we've made gender neutral voices... technology should speak the way that all of us speak, we all have unique accents and voices."
+Voice cloning can also be used to translate an actor's words into different languages, thereby potentially meaning, for example, that US film production companies will no longer need to hire additional actors to make dubbed versions of their movies for overseas distribution.
+Canadian firm Resemble AI says it can now turn cloned English voices into 15 other languages.
+Its chief executive Zohaib Ahmed says that to generate a quality copy of someone's voice, the software needs a recording of someone speaking for as little as 10 minutes.
+"When the AI learns your voice, it learns many properties... like timbre and pitch, and intensity," he says.
+"But it also learns thousands of other features [of a person's voice] that may not be very obvious to us."
+Yet while the increasing sophistication of voice cloning has obvious commercial potential, it has also led to growing concerns that it could be used in cyber crime - to trick people that someone else is talking.
+Together with computer-generated fake videos, voice cloning is also called "deepfake". And cyber security expert expert Eddy Bobritsky says there is a "huge security risk" that comes with the synthetic voices.
+"When it comes to email or text messages it's been known for years that it's quite easy to impersonate others," says the boss of Israeli firm Minerva Labs.
+"But until now, talking on the phone with someone you trust and know well was one of the most common ways to ensure you are indeed familiar with the person."
+Mr Bobritsky says that is now changing. "For example, if a boss phones an employee asking for sensitive information, and the employee recognises the voice, the immediate response is to do as asked. It's a path for a lot of cybercrimes."
+New Tech Economy is a series exploring how technological innovation is set to shape the new emerging economic landscape.
+In fact, such a case was reported by the Wall Street Journal back in 2019, with a UK manager said to have been tricked into transferring €220,000 ($260,000; £190,000) to fraudsters who used a cloned copy of the voice of his German boss.
+"Steps to deal with this new technology and the threats it brings with it need to be made," adds Mr Bobritsky.
+Firms around the world are in fact already doing this, as specialist artificial intelligence news website Venture Beat has reported.
+Such companies can monitor audio to see if it is fake, looking for tell-tale signs like repetition, digital noise, and the use of certain phrases or words.
+Meanwhile, governments and law enforcement agencies are also looking at the issue. Last year, Europol, the European Union's law enforcement agency, urged member states to make "significant investments" in technologies that can detect deepfakes. And in the US, California has banned their use in political campaigns.
+Back in Texas, Tim Heller says that while he hasn't yet sold his cloned voice, "a few different clients have expressed interest".
+But does he fear that in the longer term he could lose work to other people's synthetic voices?
+"I don't worry that it could put me out of a job," he says. "I truly feel that there will always be a place for the true human voice. The point of having a 'dub' [his clone] is not to replace me or anyone else, but to act as an additional tool in my business."
+Rebecca Damon, executive vice president of US actors' union, the Screen Actors Guild, says the other key issue surrounding voice cloning is that voiceover artists are properly paid for them.
+"Voice cloning could represent an exciting and potentially lucrative new industry for our members to work in," she says. "It is critical to us, as always, however, that voice performers be fairly compensated and are able to consent to how their voices are used.
+"To that end, we are monitoring developments in voice cloning carefully, and working with our members to identify the guard rails that need to be in place for this technology to achieve its potential as a new and welcome area of work."
+Mr Heller adds that the problem regarding setting the pricing for voice clones is that "this is the 'wild west' of voiceover".
+"The most important thing, in my opinion, when it comes to pricing and contract negotiations [for your artificial voice] is that you are not signing away all rights and usage in perpetuity," he says.

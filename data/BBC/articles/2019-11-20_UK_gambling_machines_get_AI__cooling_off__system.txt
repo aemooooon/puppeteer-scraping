@@ -1,0 +1,19 @@
+Every gambling machine in the UK's betting shops is being updated with software designed to detect and prevent problematic behaviour in players.
+The system locks gamblers out of machines for 30 seconds if erratic or excessive play is detected.
+While the brief lockdown is in effect, warnings about safe gambling are displayed on the machines' screens.
+One expert said the enforced break was "probably not long enough to have a positive effect".
+The artificial intelligence (AI) Anonymous Player Awareness System was launched this month by the Betting and Gaming Council (BGC),  an industry group representing 90% of the UK betting and gaming market.
+Among the behaviour patterns it tries to detect are chasing losses, spending too long on a single machine and playing a succession of games rapidly.
+"It was rolled out to all our machines in our 1,600 shops in early November," a spokesman for Betfred told the BBC.
+"These alerts are now operational on machines in all 3,200 Ladbrokes and Coral shops," a Ladbrokes Coral spokesman added.
+William Hill confirmed the software had been installed on its betting machines, too.
+The Telegraph reported that other firms across the industry may also adopt the software.
+Thousands of shops have already installed the technology on betting machines, according to the BGC.
+When an enforced break is triggered on a gaming machine, staff in betting shops behind the counter receive an alert, a BGC spokesman said.
+"The staff behind know and probably would come out to check you're ok and have a discussion with you if there are any issues," he added.
+The BGC had already rolled out the system for players who used personal accounts to log in to and play games. It would take previous problematic gambling behaviour into account when analysing play.
+However, live behavioural analysis has now been extended to anyone using a betting terminal, whether they log in or not.
+Some have questioned how effective the 30 second breaks will be.
+"This is a step in the right direction but obviously needs to be monitored and evaluated," said Mark Griffiths, professor of behavioural addiction at Nottingham Trent University.
+However, he added, "The mandatory break is probably not long enough to have a positive effect."
+In a study of Norwegian gambling machines published in September, Prof Griffiths and colleagues evaluated whether an enforced 90 second break could curtail problematic gambling behaviour.
