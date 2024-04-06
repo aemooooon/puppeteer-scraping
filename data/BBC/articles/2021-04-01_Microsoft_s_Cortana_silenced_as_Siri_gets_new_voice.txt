@@ -1,0 +1,14 @@
+Cortana, Microsoft's virtual assistant designed to compete with Apple's Siri and Google's Assistant, is to be retired on mobile.
+Instead it will focus on offering productivity help in Windows 10, Outlook and Teams.
+The hashtag #RIPCortana was being used on Twitter, as people reminisced - or in some cases pointed out how forgettable the assistant had been.
+Meanwhile, Apple's Siri will no longer default to a female voice in English.
+The use of a female voice for virtual assistants has long been controversial for gender-typing a helpful, virtual companion.
+Cortana was unveiled in 2014 as a virtual assistant for Windows phones. It was named after the advanced artificial intelligence guide in Microsoft's then best-selling Halo game series.
+Three years later, Microsoft abandoned its smartphone operating system, although Cortana remained available for iPhones and Android devices.
+The death of the voice assistant on most platforms was announced last summer and in January, Microsoft ended support for Cortana integration in the Harman Kardon Invoke speaker. It offered speaker owners who used Cortana, a $50 Microsoft gift card.
+Ben Wood, chief analyst at research firm CSS Insight said: "There was a certain inevitability to Microsoft abandoning the consumer-centric variant of Cortana. Amazon's Alexa and Google's Assistant are the mass market voice assistants of choice, leaving little space for rivals. 
+"Even the mighty Apple has struggled to get traction with Siri despite making huge investments to drive the platform forward.
+"Microsoft has made a sensible decision to double down on Cortana as a platform to aid productivity gains, closely tied to its business-centric tools and services. Increasingly Cortana will become deeply integrated into specific Microsoft platforms, rather than being a generic voice assistant designed to be all things to all people."
+Rival Apple has added two new voices to its assistant Siri, as well as eliminating the default female voice in the latest version of iOS.   
+In 2019 a report by UNESCO suggested that using female voices by default for voice assistants "sends a signal that women are obliging, docile and eager-to-please helpers available at the touch of a button or with a blunt voice command".
+Apple said of its decision to put the onus on users to choose the voice of its assistant: "This is a continuation of Apple's commitment to diversity and inclusion, and products and services that are designed to better reflect the diversity of the world we live in."

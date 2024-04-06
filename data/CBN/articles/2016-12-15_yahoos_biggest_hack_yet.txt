@@ -1,0 +1,10 @@
+Yahoo has suffered the biggest hack in history and this time the security breach compromised more than one billion user accounts. 
+Yahoo reportedly is just finding out, but the hack apparently occurred in August of 2013.
+Hackers stole names, email addresses, telephone numbers, birth dates and more.
+      
+Yahoo has yet determined how the data was breached. 
+    
+"We have not been able to identify the intrusion associated with this theft," Bob Lord, Yahoo's chief information security officer, wrote in a statement. 
+"The stolen user account information may have included names, email addresses, telephone numbers, dates of birth, hashed passwords (using MD5) and, in some cases, encrypted or unencrypted security questions and answers," Lord added.
+So far, Yahoo has determined the breach has not been linked to online fraud or any repercussions for Yahoo users. 
+It raises red flags, however, with U.S. intelligence concerns over Russia's hacking of emails during the presidential election and recent attacks on a major health insurer and a medical lab-test company.

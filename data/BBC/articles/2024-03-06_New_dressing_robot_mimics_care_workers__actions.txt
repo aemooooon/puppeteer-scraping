@@ -1,0 +1,9 @@
+A new two-armed robot capable of helping a person get dressed has been created by researchers in York.
+The machine has been designed with the help of AI to mimic human movement and ease discomfort for the user, in a way previous one-armed versions could not.
+It was created by a team at the University of York's Institute for Safe Autonomy.
+Robotics researcher Dr Jihong Zhu said the machine could help free up care givers for other tasks.
+"With the current one-armed machine scheme a patient is required to do too much work in order for a robot to assist them, moving their arm up in the air or bending it in ways that they might not be able to do," Dr Zhu said.
+A two-armed robot had not been attempted previously he said, but with the use of AI the machine was able to observe and learn from human movements.
+"We adopted a method called learning from demonstration, which means that you don't need an expert to programme a robot, a human just needs to demonstrate the motion that is required of the robot and the robot learns that action," he said.
+"Human modelling can really help with efficient and safe human and robot interactions, but it is not only important to ensure it performs the task, but that it can be halted or changed mid-action should an individual desire it.
+"Trust is a significant part of this process, and the next step in this research is testing the robot's safety limitations and whether it will be accepted by those who need it most."

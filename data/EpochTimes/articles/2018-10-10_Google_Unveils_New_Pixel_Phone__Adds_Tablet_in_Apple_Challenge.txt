@@ -1,0 +1,24 @@
+SAN FRANCISCO—Google unveiled the third edition of its Pixel smartphone, a Google Home smart speaker with a display and its first tablet computer on Oct. 9, as it makes a come-from-behind push into hardware.
+The company’s Android software has gone from being an also-ran to the brains of most of the world’s smartphones and Google topped Amazon.com in smart speaker sales in recent quarters.
+Pixel phones, though, have been a tougher sell, launching with glitches and garnering less than 1 percent of the global market by shipments in Google’s first two years of trying, according to research firm Strategy Analytics.
+The Pixel 3, priced at $799, and a larger Pixel 3 XL, priced at $899, mark Google’s latest entries for a phone lineup it hopes will someday be as popular as Apple’s iPhone.
+The Pixel Slate tablet runs Google’s beefier Chrome OS laptop operating system rather than Android. It is priced at $599, aimed at competing with Apple’s iPad Pro.
+Shares of Alphabet barely moved on the announcements. Financial analysts said it is difficult to evaluate Google’s hardware business as it is overshadowed by profits from search ads.
+Google branched into hardware three years ago so that, like Apple, it could have full control of the performance of its applications and the revenue they generate. Other phone makers sometimes crowd out Google’s apps with their own or take a share of ad revenue, hurting Alphabet’s profits.
+Expanding geographic distribution should provide a small boost to the Pixel line-up. The Pixel 3 will launch in 10 countries, up from six for the Pixel 2 a year ago. New additions include France, Ireland, Japan, and Taiwan.
+The Slate is available in the United States, the U.K., and Canada.
+A new artificial intelligence tool sure to generate buzz among consumers also could be helpful. The software, launching on U.S. Pixels only, answers calls, requests information about the nature of the calls and shares it as text with the recipient.
+“We’ve built the first phone that can answer the phone,” Rick Osterloh, Google’s senior vice president for hardware, told media on Tuesday.
+Ryan Reith, who leads device research at tech consulting firm IDC, said Google did not change enough in the Pixel 3 for it to stand apart from more well-known competitors.
+“Some of the stuff they are doing with software and artificial intelligence is certainly leading edge,” he said. “But as a lot of the technology advancements become more naked to the eye, it becomes that much tougher to sell.”
+Google shipped 2.53 million Pixel 2 and 2 XL devices through the nine months ended June 30, Strategy Analytics said. The first Pixel devices hit 2.4 million shipments in the nine months ended June 30, 2017, the firm said.
+Limited adoption has reflected Google’s hesitancy to go as wide and big in distributing and marketing the Pixel as Apple, which launched its last two iPhone line-ups in about 50 countries.
+Going from a small experiment to a polished product that works in various languages and is backed by large sales, support, and technical teams has been part of Google’s challenge.
+Last year’s Pixel 2 arrived with bugs that prompted user complaints about unwanted noises during calls, a crashing camera app, and an unexpected screen tint. In response, Google doubled warranties to two years.
+The Pixel 3 faces continued limited sales in the United States since Google again signed an exclusive distribution deal with wireless carrier Verizon Communications Inc that means the device will get little marketing from other carriers.
+Google said it would augment distribution by opening two temporary stores in popular neighborhoods of Chicago and New York on Oct. 18, and putting up displays at U.S. tech retailer B8ta and Goop.
+Google’s new smart speaker, which has a display to show visual responses to voice commands, mostly matches offerings from Amazon.com and Facebook.
+Unlike its competitors, Google said its Home Hub, priced at $149, does not have a video conferencing camera. Home Hub is launching in the United States, the U.K., and Australia.
+The nod to privacy concerns comes as Google and other big U.S. tech companies try to bounce back from recent data breach scandals.
+Amazon shipped 21.5 million smart speakers, including those with displays, in the year ended June 30, compared with 18.3 million for Google, according to research firm Canalys.
+Google said in a blog post on Tuesday that it recently delivered some Google Home speakers within 10 minutes of ordering using drones from Alphabet’s Wing.

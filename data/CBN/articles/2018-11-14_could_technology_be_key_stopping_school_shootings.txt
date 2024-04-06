@@ -1,0 +1,10 @@
+Just last week there was a report of an active shooter at a North Carolina school. 
+It was later reported as a false alarm, but the reality is school shootings have become way too common in America.
+    
+One app called "Bark" could be the key to saving lives.
+Bark is a child internet safety app created to detect signs of cyber-bullying, suicide ideation, and other threats on children's phones. 
+Bark helps parents monitor and detect their children's activity online. Parents can connect their child's social media, email, and texting accounts to Bark while artificial intelligence monitors any suspicious activity. Parents are immediately alerted when Bark finds anything dangerous.
+Now, Bark can detect early plans to commit a school shooting on students' phones. 
+"What we know based on our data is that children are expressing violent thoughts and threats both on personal accounts and devices, and school-issued devices and accounts," Titania Jordan, Bark's Chief Parent Officer told CBN News. "That is happening perhaps on Snapchat, text message, or Twitter or email."
+Bark's artificial intelligence is able to scan online activity for keywords like "shoot" and "gun." The algorithm can also find threatening images, video, and audio.
+"We even caught a school shooting threat where somebody had written on the bathroom wall, 'Don't come to school tomorrow. Bang. Bang.' And a student had taken a photo of that, put it on Snapchat, and our algorithm caught that threat and alerted the parent," Jordan explained. 

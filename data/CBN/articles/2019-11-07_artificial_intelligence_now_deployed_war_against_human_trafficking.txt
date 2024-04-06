@@ -1,0 +1,12 @@
+A major new effort is underway to use modern technology to fight human trafficking. It's a tool that may help clamp down on a growing problem that crisscrosses the globe.
+Human trafficking is an estimated $150 billion business with as many as 40 million victims worldwide. It's a big, evil business with human trafficking victims described as modern-day slaves.
+"They don't get to make the most basic decisions about their lives," said John Richmond, US ambassador-at-large to monitor and combat human trafficking. 
+"Someone else decides when they wake up, where they work and who touches their bodies. And we find it honestly wherever we're looking for it," Richmond said.
+Officials hope a new global platform called Traffik Analysis Hub will help. Powered by artificial intelligence, the hub is designed to track instances of human trafficking wherever it may happen.  One of the movers behind the platform is IBM's corporate social responsibility division.
+"We're using the AI to tell us information about what's been described in news articles or tweets or in case management reports or victim impact statements," said IBM developer John McGrath.  
+"All of that contains nuggets of information and when we process that into something that is consistent and available to our partners that's where we get the benefit," McGrath said.
+Those partners range from law enforcement to non-profits to the financial community, all dedicated to fighting human trafficking.  This new hub will gather information quickly and spread it far and wide.  It's something experts say has been badly needed.
+"It's a major frustration for me," said Neil Giles, director of intelligence and prevention for stop the traffic.
+"I'm an intelligence professional from law enforcement. My major frustration is there's a lot of research work out there. They're very large documents and they're very well done, but not many people have access to them.  We need to come out with something that everyone who needs a picture of trafficking can get it simply and easily," Giles explained. 
+That's the goal of the Traffik Analysis Hub.
+"So from a financial institution perspective they're interested in where events have occurred and when so they can cross-reference that within their organization and see if transactions are happening that might be consistent and give an indication of suspicious activity," McGrath said.

@@ -1,0 +1,22 @@
+GENEVA—FIFA will introduce new technology to improve offside calls at the World Cup in Qatar this year, using a limb-tracking camera system.
+FIFA said Friday it is ready to launch semi-automated offside technology (SAOT) that uses multiple cameras to track player movements plus a sensor in the ball—and will quickly show 3D images on stadium screens at the tournament to help fans understand the referee’s call.
+It’s the third World Cup in a row that sees FIFA introduce new technology to help referees.
+Goal-line technology was ready for the 2014 tournament in Brazil after a notorious refereeing error in 2010. In 2018, video review to help referees judge game-changing incidents was rolled out in Russia.
+The new offside system promises faster and more accurate decisions than are currently made with the Video Assistant Referee (VAR) system, even though the 2018 World Cup avoided major mistakes on offside calls.
+Controversy has since flared in European leagues, especially where VAR officials draw on-screen lines over players for marginal calls. They have been mocked as “armpit offsides” because of the tiny margins.
+“Although these tools are quite accurate, this accuracy may be improved,” said Pierluigi Collina, who leads FIFA’s refereeing program and worked the 2002 World Cup final in the pre-technology era.
+Each stadium in Qatar will have 12 cameras beneath the roof synchronized to track 29 data points on each player’s body 50 times per second. Data is processed with artificial intelligence to create a 3D offside line that is alerted to the team of VAR officials.
+A sensor in the match ball tracks its acceleration and gives a more precise “kick point”—when the decisive pass is played—to align with the offside line data, FIFA innovation director Johannes Holzmüller said in an online briefing.
+Ensuring soccer’s biggest event is a showcase for technological progress—and avoids obvious errors that live on in World Cup lore—has been a long-time FIFA goal.
+The shot by England’s Frank Lampard that crossed the Germany goal-line in 2010 but was not given as a goal almost immediately ended then-president Sepp Blatter’s opposition to giving referees technological aids.
+Later that same day in South Africa, a clearly incorrect offside call let Carlos Tevez score Argentina’s first goal in a 3–1 win over Mexico in the round of 16.
+In 2014, Bosnia-Herzegovina failed to advance from the group in its first World Cup after Edin Dzeko’s early goal against Nigeria was wrongly judged offside. Nigeria went on to win 1–0.
+FIFA’s push to get the new offside technology ready for the World Cup was slowed by the COVID-19 pandemic.
+Live in-game trials were run at the Arab Cup in Qatar last December and FIFA’s Club World Cup played in February in the United Arab Emirates.
+Within seconds of a possible offside, a specialist member of the VAR team can manually check the data-created line for attackers and defenders and the kick point of the pass, Holzmüller said.
+It falls to the senior VAR official to alert the match referee of the right decision by their audio link. That should take from 20 to 25 seconds compared to an average of 70 seconds currently for a complex offside call.
+“Sometimes the length of checks of reviews is definitely too long,” Collina said, acknowledging delays disrupt the flow of games. “For (VAR officials) time flies, but for the rest—for coaches, for players, for spectators—it’s completely different.”
+The same 3D animations of offside calls that VARs will use should then be available to broadcasters and shown on stadium screens, likely during the next stop in play.
+Collina is enthusiastic about the technology, less so about the often-used description of “robot referees.”
+“I understand that sometimes this is very good for headlines but this is not the case,” said the Italian official, defending the key human element of decision-making in soccer.
+Collina also agreed that improved technology will not end soccer’s love of controversy and debating key incidents.

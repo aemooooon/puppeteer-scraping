@@ -1,0 +1,29 @@
+Any sale of NHS data gathered under a £500m contract would be a decision for the government, the head of a US tech firm has told the BBC.
+Alex Karp said his firm Palantir would not have access to the data given the way its product was set up.
+Palantir is seeking to win a contract to provide AI software to bring NHS data together to improve services.
+Science Secretary Michelle Donelan told the BBC people's private data would not be sold without their consent.
+Speaking to the BBC's Sunday With Laura Kuenssberg programme, Mr Karp argued that patients' data would be safe if Palantir won the contract for the planned federated data platform.
+"We're the only company of our size and scale that doesn't buy your data, doesn't sell your data, doesn't transfer it to any other company," he said.
+"That data belongs to the government of the United Kingdom."
+Mr Karp added: "The way our product is set up. I don't have access to your data. Our product does not allow you to do that."
+Asked whether the data could be sold in the future. Mr Karp replied: "By the UK government, not by me. I don't have the ability to do it."
+Responding to Mr Karp's comments, Ms Donelan told the same programme: "We're not in the business of damaging people's privacy or rights.
+"We're not going to start selling on people's private data, of course, not without their consent," she said.
+"What we're talking about here is enabling us to utilise the data around the NHS to tackle some of the biggest diseases that people are facing so they can live healthier, longer, happier lives."
+Labour's shadow health secretary Wes Streeting said: "Labour is completely clear: we will not sell off NHS patient's data.
+"Rishi Sunak must today issue a clear statement that NHS patient data will not be sold to private companies."  
+Palantir has been criticised by some for the way it has gained a foothold in the UK health service, after charging the NHS just £1 in 2020 to develop its Covid data store.
+But Mr Karp defended the firm's tactics, saying he used this strategy as he believed most software products do not work.
+"It only puts us in an advantageous position because everybody who doesn't like it, by and large, does not believe their product works or they would do the same thing," he said.
+Mr Karp added that the Covid software saved "thousands and thousands and thousands of lives" during the pandemic.
+The comments come ahead of a major UK summit on artificial intelligence next week.
+The government is hosting the event, aimed at tech leaders, academics and political leaders, at Bletchley Park, the Buckinghamshire country house that was once the top-secret headquarters of World War Two codebreakers.
+The agenda will focus on specific future threats posed by the rapidly evolving tech.
+The UK has suggested setting up a global AI watchdog to monitor developments.
+Mr Karp said the summit "is positioning the United Kingdom to be the leader in Europe".
+Rishi Sunak has invited China to the summit, but the move has been criticised at a time of tense relations with the country.
+Mr Karp said: "I believe that we are in an arms race and that the world is fracturing and if it was my decision to invite adversarial countries I would not have."
+The rise in AI has led to concerns by some about the number of jobs it could replace.
+But Mr Karp said AI "can actually be the friend of the average worker", adding: "Embraced correctly, you'll have more jobs."
+Ms Donelan said AI would "undoubtedly change the labour market, every technology does".
+However, she added, it also had the ability to change the way that we work, by reducing some of the administration and bureaucracy.

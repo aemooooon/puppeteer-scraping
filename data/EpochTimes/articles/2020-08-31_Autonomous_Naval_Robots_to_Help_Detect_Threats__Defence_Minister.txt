@@ -1,0 +1,14 @@
+Research in autonomous naval robots will be accelerated to assist Australian defence personnel with mine detection and clearance.
+Researchers will develop, test, and evaluate various teams of Autonomous Underwater Vehicle swarms and Autonomous Surface Vessels.
+The drones could be dispatched from a command platform to survey an at-risk area for potential threats, including sea mines, and once cleared, return to command.
+“As announced in the 2020 Force Structure Plan, developing new systems for underwater mine detection and clearance are vital to protecting Australia’s maritime environment and advancing our interests,” Reynolds said.
+Minister Reynolds said developing key technologies in the fields of artificial intelligence, big data, connectivity, and cyber security would be a big part of the latest initiative. It will assist with bolstering Australia’s maritime capabilities, as well as environmental data collection.
+“This will help to create a safer operating environment for ADF personnel,” she said.
+Michael Shoebridge, defence director at the Australian Strategic Policy Institute, told The Epoch Times that the Strategic Update pointed to an urgent need to increase the ADF’s deterrent capabilities in the region.
+“Autonomous and unmanned underwater systems that can identify and neutralise mines and other threats to ADF platforms are essential for this,” he said.
+“Development of these kinds of systems also will allow the ADF to use very similar technologies for offensive purposes in the undersea domain,” he continued.
+Shoebridge said the current potential threats that defence personnel face includes smart and conventional sea mines, submarines, as well as armed and unarmed underwater autonomous systems.
+Minister for Defence Industry Melissa Price said Australian businesses will play a vital role in the project.
+“Our local business partners will be part of the team designing and developing a communication, simulation, and training solution for the new autonomous technologies,” she said.
+“This will help us accelerate the development and deployment of autonomous systems and solutions in the area of mine countermeasures,” Price continued.
+The project will involve a partnership between the Defence Department, Australia’s Trusted Autonomous Systems Defence Cooperative Research Centre, and weapons contractor Thales Australia.

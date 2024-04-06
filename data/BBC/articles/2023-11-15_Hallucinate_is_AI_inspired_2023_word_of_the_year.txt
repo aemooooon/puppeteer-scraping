@@ -1,0 +1,15 @@
+Hallucinate is the Cambridge Dictionary's word of the year, as it gains an additional definition in one of many AI-related updates in 2023.
+The traditional definition is to "to seem to see, hear, feel, or smell something that does not exist".
+It now includes "when an artificial intelligence (AI) hallucinates, it produces false information".
+AI ethicist Dr Henry Shevlin said it was "a snapshot of how we're thinking about and anthropomorphising AI".
+Dr Shevlin, from the University of Cambridge, said: "Inaccurate or misleading information has long been with us, of course, whether in the form of rumours, propaganda, or fake news.
+"Whereas these are normally thought of as human products, hallucinate is an evocative verb implying an agent experiencing a disconnect from reality. 
+"This linguistic choice reflects a subtle yet profound shift in perception: the AI, not the user, is the one hallucinating."
+The definition was added after a surge in interest in generative AI tools like ChatGPT, Bard and Grok.
+A US law firm used ChatGPT for legal research, which led to fictitious cases being cited in court, Cambridge Dictionary said. 
+Wendalyn Nichols, Cambridge Dictionary's publishing manager, said: "The fact that AIs can hallucinate reminds us that humans still need to bring their critical thinking skills to the use of these tools. 
+"AIs are fantastic at churning through huge amounts of data to extract specific information and consolidate it - but the more original you ask them to be, the likelier they are to go astray."
+Prompt engineering, large language model and GenAI were among about 6,000 new words and definitions also added in 2023.
+Words which experienced spikes in the online dictionary's searches included the word implosion, after the Titan submersible's implosion in June, and GOAT, an abbreviation for "greatest of all time".
+The Qatar World Cup provoked debates about who was the GOAT in football, Lionel Messi, Cristiano Ronaldo or one of the late greats like Pelé or Diego Maradona.
+The dictionary is published by Cambridge University Press & Assessment, part of the University of Cambridge.

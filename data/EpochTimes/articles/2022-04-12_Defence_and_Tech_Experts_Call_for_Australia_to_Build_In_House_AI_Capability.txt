@@ -1,0 +1,19 @@
+Australia must establish its sovereign artificial intelligence (AI) research and innovation capability to avoid being left behind other countries, a report released on Monday has found.
+“Artificial Intelligence: Your Questions Answered,” a collaboration between the University of Adelaide’s Australian Institute for Machine Learning (AIML) and the Australian Strategic Policy Institute (ASPI), is a collection of short papers which looks into the opportunities and risks AI technology brings to Australia, as well as the importance of Australia developing in-house AI capability.
+“Critical sovereign capabilities in cybersecurity, defence, homeland security and responding to ‘truth-disruptions’ to electoral processes and public messaging… are increasingly dependent on AI,” Lucey said.
+“There’s a global arms race in the development of capabilities in all those areas.”
+A spokesperson from the AIML told The Epoch Times via email that “’truth-disruptions’ in this case refers to disinformation campaigns or conspiracy theories such as COVID-19 being caused by 5G, or vaccines changing a person’s DNA etc.”
+Speaking on the importance of Australia building its own AI capability rather than relying on off-the-shelf AI, Chief Defence Scientist Professor Tanya Monro, says in the report that with AI investments growing globally, Australia must remain internationally competitive, particularly in the defence sector.
+“AI will be critical in delivering strategic objectives and maintaining a capable, agile, and potent defence force,” she said.
+“Reflecting that importance and the need for increased self-reliance, AI is included among the new ‘sovereign industry capability priorities’ critical to defence.
+“A sovereign capability in AI ensures Australia’s stake in a key 21st-century industry and underpins the Defence organisation’s future operational and training capabilities.”
+Monro added that Australian universities, research organisations, and industry have some world-leading AI capabilities, and to expand on that base, Australia should focus on AI and broader STEM (science, technology, engineering, and mathematics) initiatives to create the specialist workforce needed by Australian industry.
+“Building human capacity in AI will be critical, as demand is already outstripping supply, and the need for AI specialist skills is expected to grow significantly,” she said.
+“For sovereign activities, including sensitive work supporting the nation’s defence and security sector, the ability to draw upon an Australian AI-skilled workforce will be fundamental.”
+Meanwhile, AI strategist and advisor to organisations and governments, Michael Evans, says in the report that Australia has a variety of strengths in AI that, if well supported and enhanced, could create a competitive advantage to set Australia up as a global leader in AI.
+“At the foundational layer, the nation’s strengths include modern infrastructure, a maturing data ecosystem and a strong academic and research sector,” he said.
+“Our greatest strength in AI lies in the capability and technical layer, in which a world-class workforce of AI researchers is advancing state-of-the-art AI in cyber-physical systems, robotics and computer vision.”
+Also included in the report was a paper on whether or not AI is an existential threat to humanity, written by Professor Anton van den Hengeel, director of the Centre for Augmented Reasoning at the University of Adelaide.
+There is a widely held misconception about AI, he says, an assumption that machines will be able to think and act like humans very soon.
+“We’re in fact a long, long way from that eventuality if indeed we’ll ever get to that point,” he said.
+“AI has created a new form of power that’s unevenly distributed. We’ve given away our data to essentially three companies that don’t solve human problems,” he said.

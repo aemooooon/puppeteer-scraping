@@ -1,0 +1,11 @@
+WASHINGTON – Fake videos and disinformation known as deep fakes is a growing threat. Now, the Defense Advanced Research Projects Agency, or DARPA, is spearheading the detection of those deep fakes. 
+"When you look at an image or a video online, can you tell if it's been manipulated or not?" 
+That's the central question posed by Dr. Matt Turek, the program manager for the Media Forensics program at DARPA.
+Faking pictures is not new, a portrait painter in 1865 stuck Abraham Lincoln's head on a southern Civil War politician's body. A famous 1902 image of former General of the US Army and later President Ulysses S. Grant is actually a composite of three other photographs. Soviet dictator Joseph Stalin's army of photo-retouchers removed an official from an image after the official was executed in the 1930s. 
+But in the span of just a few years, technology has harnessed the power of artificial intelligence to create and manipulate new worlds and new faces.
+From the cityscape of the first AI made streets, to the creation of photorealistic faces that may or may not even exist, researchers at NVIDIA have used AI to play puppet master. In some instances, using videos of dancers to make other researchers put on the moves. 
+The level of deep fakes that can be created by deep learning and artificial intelligence is getting harder and harder to detect. 
+The ability to synthesize dance patterns is one thing, but the folks at DARPA are working to detect these sorts of manipulations to prevent much more sinister scenarios. Turek said that "you can construct multiple instances of media that all support an event that never happened."
+The worry is that state actors could use deep fakes to manufacture completely fictitious events. Artificial intelligence isn't quite there yet, but "with multiple supporting media…the potential for that is probably a year or a couple of years out," said Turek.
+The man behind the curtain in a 2018 deep fake featuring President Obama is actor Jordan Peele – but the warning is real. "We need to be more vigilant with what we trust from the Internet," said Peele, in a BuzzFeed produced message. 
+"We have a bit of a cat and mouse game going on here," said Turek. DARPA's detection team is racing to keep pace as the technology behind a-i-engineered video manipulation accelerates at break-neck speeds.

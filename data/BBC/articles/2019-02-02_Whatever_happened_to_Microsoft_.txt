@@ -1,0 +1,48 @@
+On Monday, it will be five years since Satya Nadella was announced as Microsoft's chief executive.
+Since taking charge he has turned the tech firm's fortunes around, making it the most valuable company in the world for the first time since 2002.
+Go on, admit it. 
+You thought Microsoft was so last century, didn't you? In the late 80s and 90s, the company's Windows operating system ruled the world. 
+But where Bill Gates - chief executive from 1975 to 2000 - caught the wave of personal computing, so Steve Ballmer - 2000 to 2014 - failed to do likewise with mobiles. 
+Although the Surface tablet is a modest success, Microsoft's smartphones have flopped despite the firm paying more than 5.4bn euros ($6.2bn; £4.7bn) for Nokia's handset business. Apple's iPhone, and then Google's Android left Microsoft in the dust.
+The company has undergone the same stages of evolution experienced by many successful tech names.
+"Some of those waves we've missed, but we're nothing if not persistent," Steve Clayton tells me. 
+He's Microsoft's chief storyteller - and before I get too sniffy about his job title, I have to remember that's technically my job too on Click.
+Part of the reason Mr Nadella was picked for the top job was his determination not to miss the next big wave - cloud computing.
+"[Cloud is] the ability for us to have software anywhere on any device," says Mr Clayton.
+Forget the company's ill-founded attempt to have its own brand of smartphones - the more devices on which it can run its now subscription-based Office suite, the more money it makes. 
+And subscriptions make up nearly two-thirds of its revenue these days. 
+Couple that with Azure, its cloud computing platform and data centres, and you can start to understand why Microsoft's share price has tripled since Nadella took over. 
+In November 2018, it became the most valuable company on the planet for the first time since 2002, and has tussled with Amazon for the lead ever since.
+During my day at Microsoft's Redmond HQ near Seattle, I'm reminded that the unwieldy supertanker of stage six doesn't have to vanish beneath that next wave.
+Stage seven can either be a sinking of Titanic proportions or it can be a sinking into the background, becoming part of the infrastructure, and quietly, unostentatiously, allowing your confidence to grow. 
+"We don't want to be the cool company in the tech sector," Mr Nadella has previously said. 
+"We want to be the company that makes other people cool."
+Sure the PR machine is in full swing here. But the numbers suggest Microsoft has a lot to crow about.
+And with that stage-seven confidence, comes an acceptance that you can't win every battle; that you should welcome other's successes. 
+Embracing new ideas that don't have to originate within Microsoft, seems to be one of Mr Nadella's core principles. 
+And so the firm has embraced open source, and partnered with competitors, including its cloud services rival, Amazon. 
+Microsoft Office now runs on the iPad - and Mr Clayton uses an iPhone.
+"Don't be a know-it-all, be a learn-it-all."
+That's another Nadella quote for the bank.
+"In 2014, we cancelled our company meeting where our leaders would tell employees what was important, in favour of having a hackathon that lets our employees tell our leaders what's important," recalls Jeff Ramos.
+He is head of the Microsoft Garage, where employees with a bright idea can come and experiment, build, hack, and see if it has legs.
+"Our idea was very simple," Lenin Sivalingam explodes with enthusiasm.
+"We're going to run computer vision [algorithms] on live streams, understand them pixel by pixel, and we're going to find interesting moments, and show them to people."
+Mr Sivalingam is describing the HypeZone - the project that won his team Microsoft's 2017 hackathon. 
+Having previously used artificial intelligence to analyse video streams from traffic cameras, Mr Sivalingam hit on the idea of analysing video game streams to find the most exciting moments.
+Fortnite, he explains, is somewhat boring to watch for the first 20 minutes. The Battle Royale fight-to-the-death game only gets really exciting when it's down to the last few players. 
+In the style of the NFL RedZone, the HypeZone, running on Microsoft's streaming site Mixer, uses AI techniques to examine every stream coming into the site. 
+A character's health, kill count, and other factors, help determine how exciting the battle is, and the most thrilling one happening at that moment is the one it shows. 
+Once the game is over, it switches to another stream that's approaching its climax.
+It's also great for streamers, says Mr Sivalingam, as it can bring really good players to prominence, simply by the quality of their gameplay, rather than their current celebrity status.
+Of course there's a place called the Batcave. It's a really plain-looking room, in which extraordinary things are happening.
+I and four others are wearing the firm's HoloLens augmented reality headsets - we can see each other and our surroundings, but floating around us are pictures, 3D objects, text and presentation material. 
+To add new objects to the space, we say search terms out loud. The results appear as a stack of images for us to manipulate.
+Oh, and did I mention that two of my collaborators aren't even in the same city as me? 
+One is in New York, and one is in San Francisco. I can see them, and they can see us, as animated avatars, which blink, and lip-sync to the words we speak.
+Microsoft changed the way we worked once with Windows.
+There's a long way to go yet, but maybe, when augmented reality is ready for prime time, this could be the workspace of the future.
+"The CEO sets the tone, the direction, the strategy and the culture," says Mr Clayton. 
+Microsoft's former boss Mr Ballmer once said Linux open-source software was a cancer. 
+Mr Nadella has stood in front of a display saying Microsoft loves Linux, made Microsoft a member of the Linux Foundation and spent $7.5bn buying Github - the code-sharing site where much of the content is designed to run on Linux-based operating systems.
+Under his watch, this has become a company that embraces others' ideas. 

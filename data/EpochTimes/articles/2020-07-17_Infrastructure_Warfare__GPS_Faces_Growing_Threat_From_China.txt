@@ -1,0 +1,53 @@
+Long seen as a potential Achilles heel, satellite navigation and positioning systems are increasingly important pieces in the geostrategic stakes with Russia, and even more so with China.
+For decades, America’s GPS and Russia’s GNSS systems, launched in the Cold War, were the only truly global systems.
+On June 23, that changed when the final satellite of China’s BeiDou system slotted into orbit. The EU also is scheduled to complete its own rival Galileo system this year.
+BeiDou will significantly add to the infrastructure leverage of China’s flagship foreign policy, the Belt and Road Initiative. Like other navigation systems, BeiDou provides the digital compass and map for the People’s Liberation Army’s (PLA) military targeting system.
+Meanwhile, America’s GPS, increasingly vulnerable to jamming and physical attacks, needs an upgrade.
+“The just-completed BeiDou system will be a key enabler of future PLA global projection, as it will also enable precision targeting for a wide variety of conventional and nuclear weapons. Unlike GPS, BeiDou has a secondary text messaging communication capability, aiding the organization of PLA forces close to and far from China.”
+But, in addition to building BeiDou, the PLA has been developing the power to blind, disorient, and even destroy the United States’ GPS system.
+Fisher said, “The PLA understands that the American military satellite system is a crucial force multiplier; attacking communication and navigation satellites will degrade the U.S. nuclear deterrent and significantly decrease the American ability to project force to oppose Chinese aggression, such as an attack against Taiwan.”
+Dean Cheng, a senior research fellow at The Heritage Foundation, says it’s important to note that GPS is, strictly speaking, not a navigation system, but a timing system.
+“We tend to say if you can screw around with GPS, then missiles will go astray, tankers will wind up running into the Statue of Liberty, and airliners will crash into the ground. And that may all be true. But the timing function is important because it affects so much more than just navigation,” Cheng told The Epoch Times.
+“So many pieces of infrastructure—power generation, electric power lines across thousands of miles, pumping stations—actually use the timing signal to make sure that everything operates smoothly.”
+The best example, says Cheng, is fuel pipelines. To avoid pressure waves, the numerous relay pumps in a pipeline need to act asynchronously. They do this by picking up timing signals beamed from GPS satellites, each of which has an onboard atomic clock.
+“If I can interfere with your GPS signal, I not only can have your missiles be redirected, but I could also really impose strategic costs on you in your homeland without my ever launching a single ICBM (intercontinental ballistic missile),” he said.
+PLA military doctrine includes degrading and attacking the U.S. GPS system during both peacetime and wartime situations, said Robert J. Bunker, an adjunct research professor at the U.S. Army War College’s Strategic Studies Institute, in an email to The Epoch Times.
+“This includes substituting the BeiDou system (BDS) for GPS among present user states for economic and political advantage, developing capabilities for wartime targeting and degradation of the system, and scenario development concerning potential first-strike capabilities against all U.S. C4ISR space-based assets, which include GPS,” Bunker said.
+C4ISR refers to command, control, communications, computers, intelligence, surveillance, and reconnaissance: everything from spy satellites to military command satellites.
+In other words, the PLA is wargaming scenarios that involve taking out satellite infrastructure.
+In addition to explosives, according to Bunker, satellites can be physically targeted by energy beams such as a high-powered laser. They can also have their electronic circuits fried by an electromagnetic pulse from a nuclear device, or more likely from a precise microwave-emitting device or a limpet-like mine.
+Attacks may also come from “mobile ‘on-orbit inspection’ satellites with robotic arms and other weaponized elements,” he said.
+China is reported to have tested its DN-2 ground-based medium Earth orbit-capable anti-satellite interceptor in 2012, Fisher says, “so it has likely had the ability to attack GPS satellites kinetically since the middle of the last decade.”
+Another option is to physically target the ground-based systems that provide updates and support, which would lead to a gradual degrading of the system.
+But Cheng emphasized cyberattacks as a key possibility.
+“If I could, for example, introduce something that would cause the entire network to shut down, that would be perfect, right? I don’t kill anything, I don’t damage anything, I just turn off all the satellites. Or I could potentially try to infect the satellites with something that would screw up the timing signal,” he said.
+Another form of electronic attack is jamming.
+“I could jam terrestrially where the signal is received, or I could put something into orbit and try to jam the signal from space,” he said.
+Jamming, however, can be detected and tracked through its tell-tale electromagnetic signal.
+Methods such as jamming and cyberattacks on GPS also suit the PLA’s preferred modus operandi of wrestling in the geopolitical shadows rather than employing open warfare.
+Just as Putin seized Crimea and parts of Ukraine with his so-called little green men without triggering a response from the West, the Chinese Communist Party (CCP) has relied on irregular means of warfare to inch toward its strategic goals, such as using militarized fishing boats to hassle for advantage and building artificial islands in disputed waters.
+GPS would become one of the tools in the PLA’s kit bag to maneuver for advantage in various scenarios above and below the threshold of conflict, Cheng says.
+“If I put a jammer, let’s say, on the Spratlys, what have I done? I’ve made it potentially somewhat harder to put a JDAM or some other weapon onto an airstrip in the Spratlys. Is that war? What if I don’t do anything else? It’s not even a danger to civilian traffic, right?” he said.
+“Space itself is a very, very dangerous environment, with lots of radiation, temperature extremes—systems just fail. That makes it hard to figure out if a satellite died because somebody attacked it, or because somebody did a cyberattack, or a cosmic ray hit it the wrong way, or there was a small meteorite. And of course, you can’t just go out there and check.”
+That ambiguity can be manipulated for strategic advantage, said Cheng.
+But he said that a GPS attack wouldn’t happen in isolation, and would likely happen alongside other military, economic, and diplomatic action.
+For example, he said some satellites could mysteriously go offline as the CCP happens to arrest dissidents in Hong Kong and fires missiles into the middle of the South China Sea.
+Greg Autry, a space expert and co-author of “Death by China,” has been warning about the threat from China’s space programs for two decades. He says that in the past two or three years, the defense community has become clear about the threat.
+“They were so busy with Islamic extremism, and concerns in Asia and Australasia and the Middle East, that they couldn’t see what China was doing,” Autry told the Epoch Times. “But now there’s no doubt that it’s public enemy No. 1.”
+Like Cheng, Autry says that the GPS threat can’t be looked at in isolation.
+“Everything dealing with China has to be looked at as a broad and systemic strategic view. Too often the United States has responded by tactically looking at individual issues like attacking the GPS system and figuring how do we fix that. Then you’re like the Dutch boy putting your finger in the dam.”
+Autry warns against assuming the CCP is a rational actor like democratic nations.
+“The fact that the Chinese are obviously targeting the global positioning system should give the entire world pause. They are preparing to take that out,” he said.
+“The role of the Chinese government is not to ensure the prosperity and happiness of its population, as is the role of the U.S. government. The role of the Chinese government is to ensure the continuation of the Communist Party at all costs and the people and the economy are a tool to achieve that goal.
+“It’s important to understand that that was really literally a gift from the United States to the world that doesn’t get the credit it deserves,” he says. “But it’s old. So there are a lot more things we could do to make the system just more resilient and survivable.”
+Autry said he believes a future upgrade will have stronger encryption, making it harder to spoof. Spoofing means mimicking of a satellite signal to confuse positioning calculations.
+“The ability to penetrate buildings and insert natural obstructions could be improved as well.”
+But ramping up the number of satellites in the system could be a key solution, says Autry.
+Bunker and Fisher agree.
+Bunker refers to the improving technology on modular mini-satellites known as cube sats, which are just four inches in diameter.
+“I’d like to see a more robust and updated GPS system that’s far more distributed and network-based, that relies on large numbers of smaller satellites—ultimately including hundreds of cheaper cube sats as the technology becomes available—for redundancy, hardening, and survivability purposes,” he said.
+Fisher also says going miniature could be key.
+“The U.S. military has already done a great deal of work applying laser gyroscope technology to perform navigation in GPS-denied environments. Shrinking this capability onto very small microchips would offer one potentially inexpensive way to compensate for GPS denial for many platforms,” he said.
+Meanwhile, the CCP will be rolling out access to the BeiDou system as part of its Belt and Road Initiative, says Cheng, locking other nations into China’s orbit.
+That’s because any infrastructure relying on satellite timing of navigation functions will be fitted with a BeiDou-reliant kit.
+“If I am building a pipeline as part of the Belt and Road Initiative in Kazakhstan, those pumping stations are keyed to BeiDou, not to GPS,” said Cheng. “If Kazakhstan then wants to say goodbye to China, China can say, ‘OK, well good luck. I’m going to turn off your GPU, your beta receivers, and good luck on figuring out how to get a different signal, because you didn’t pay me to do that.’”

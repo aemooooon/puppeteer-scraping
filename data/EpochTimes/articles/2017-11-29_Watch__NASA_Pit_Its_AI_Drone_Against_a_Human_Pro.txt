@@ -1,0 +1,10 @@
+NASA has produced a very modern twist on the tale of man versus machine by pitting Artificial Intelligence (AI) against a human—in a drone race.
+Computers have long been able to beat even the world champions at chess, and in recent years, AI machines have triumphed even at the most difficult game ever created in history—the Chinese game called Go.
+But how might AI fare when pitted against humans away from the game board in the real world—in a race involving rapid, instinctive, and constant reactions and adjustments?
+NASA’s Jet Propulsion Lab (JPL) put the issue to the test when it set up a course specifically to race two drones: one piloted by the best human pilot, the other piloted by onboard AI.
+Drone races using the latest fast-flying quadcopter have become increasingly popular in recent years, with tracks often stretched out, and up, over larger areas such as football fields or warehouses.
+The NASA course was smaller than usual—a big challenge to the world-class drone pilot Ken Loo who NASA had recruited to take on the AI-piloted machine for their time trial.
+The human pilot used his creativity to learn and adjust, whereas the AI had optimized its approach from the get-go, but could not improve on it.
+“This is definitely the densest track I’ve ever flown,” Loo said. “One of my faults as a pilot is I get tired easily. When I get mentally fatigued, I start to get lost, even if I’ve flown the course 10 times.”
+For the official laps, Loo averaged 11.1 seconds, compared to the autonomous drones, which averaged 13.9 seconds.
+“Our autonomous drones can fly much faster,” Reid said. “One day you might see them racing professionally!”

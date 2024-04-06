@@ -1,0 +1,18 @@
+Growing cases of child sexual abuse material being distributed online are prompting calls to crack down on perpetrators by removing the veil of anonymity users have when signing up to social media accounts.
+In particular, of the 21,000 reports of online child exploitation received by the Australian Federal Police (AFP) in 2020, only 191 individuals were charged for a total of 1,847 offences.
+Zirnsak argued in favour of requiring online platforms to mandate a personal identification requirement prior to account creation so that, if needed, police could quickly determine the identity of individuals reported to have distributed child abuse material.
+“If you misuse your account, then law enforcement is able to identify you and not waste a lot of time doing that.”
+Currently, the idea of providing big tech with identification is divided into two primary scenarios: one where an individual’s name is made public or one where the name may remain private but remains accessible to police in investigations.
+Zirnsak accused staunch defenders of online anonymity of ignoring the health and wellbeing of the exploited innocent children at the root of the issue.
+“Unfortunately, the current debate in public about this is exceedingly disappointing... If you read their submissions often in this space around online regulation, they will not acknowledge the abuse of children in the online space is a human rights abuse,” he said.
+Groups such as the Digital Rights Watch have previously spoken in favour of retaining online anonymity based on the fundamental principle of free speech.
+The DRW cited concerns of government overreach, with citizens potentially at risk of being silenced if police are given the power to identify those making posts online.
+The DRW also said it was concerned about the potential of handing personal data to big tech, particularly as data breaches were not unheard of, with Facebook seeing its most significant breach in 2018.
+In the same inquiry, Google and Facebook outlined they had prioritised the development of mechanisms that would guard against child abuse material.
+“We’re really quite confident we will still be able to make numerous actionable reports to law enforcement,” said Antigone Davis, Facebook global director of safety.
+“Firstly, we build up teams of experts who work in this space,” Facebook explained in a prior submission. “The number of people working on safety and security has increased to more than 35,000 in recent years.”
+“Secondly, the technology we have invested in to detect and remove child abuse material cutting edge ... The Australian Federal Police have reviewed these algorithms and are now using them as part of their work to protect children within Australia. We use these technologies along with many other examples of artificial intelligence.”
+But the high tech approach to removing the content, as well as the reporting-based mechanism underpinning the idea of a verified I.D. sign-up, applies only to material posted in a public forum.
+However, content sent through numerous end-to-end encrypted chat services currently being rolled out, including Facebook’s existing Whatsapp, would remain hidden behind closed doors.
+This a concern raised by Labor MP Anne Aly, who pointed out police and tech giants would remain unable to track down distributors of child abuse material when the material is filtered through private end-to-end encrypted channels.
+“(These) services … allow people to set up a closed group where they can share these images, like going into a room and closing the door and locking it behind you, then sharing those images with each other,” she said.

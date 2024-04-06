@@ -1,0 +1,29 @@
+WASHINGTON—Artificial Intelligence (AI) will drive massive disruptions in the American job sector and contribute to much more fraught election cycles as new platforms allow for increased manipulation of voters, Congress has heard.
+The explosion of popularly available AI tools like ChatGPT will profoundly affect society as early as next year, experts and senators said during a May 16 hearing of the Senate Subcommittee on Privacy, Technology, and the Law.
+Subcommittee Chair Richard Blumenthal (D-Conn.) referred to the proliferation of AI as a “bomb in a China shop,” warning that the “looming new industrial revolution” could displace millions of American workers and dramatically undermine public safety and trust in key institutions.
+“[These dangers] are no longer fantasies of science fiction. They are real. They are present,” Blumenthal said.
+“Sensible safeguards are not in opposition to innovation.”
+To that end, Blumenthal said the hearing’s purpose was to “demystify and hold accountable these new technologies” and “intended to write the rules of AI” before it was too late.
+After the audio clip concluded, Blumenthal revealed that the speech had not only been written by ChatGPT to mimic his style, but was actually spoken by an AI voice cloning software trained to imitate his speeches.
+The result, he said, was an immediate recognition of just how dangerous the deepfake technologies—which are increasingly accessible to the public—could be to the public discourse and even international events.
+“What if I had asked it [to] endorse Ukraine’s surrender?” Blumenthal said of the speech that ChatGPT wrote.
+Subcommittee Ranking Member Josh Hawley (R-Mo.) agreed that AI presented a profound threat to national security and stability, and that its sudden proliferation in the public sphere was a revolution that would only continue to be dwarfed in coming years just as smartphones have dwarfed the clunky mobile phones of 30 years ago.
+“A year ago, we couldn’t have had this hearing because this technology had not burst onto the public consciousness,” Hawley said.
+“[Now,] We could be looking at one of the most significant technological human inventions in human history.”
+With that in mind, Hawley said that Congress was essentially faced with the task of determining what type of revolution AI would usher in.
+On the one hand, he said, there was the example of the printing press, which served as a harbinger for a more empowered civilization and increased liberty throughout Europe. Conversely, there was the example of the atom bomb, whose creation continues to haunt the nations of the world today.
+“What kind of technology will this be?” Hawley said.
+“The answer has not yet been written.”
+To that end, Hawley noted that AI presented more foundational problems for democratic societies like the United States.
+Sam Altman, CEO of OpenAI, which developed ChatGPT, testified that the likelihood AI would be used to sway the results of the next election was high. Government regulation, he added, was a necessary intervention to limit such destabilizing activities.
+“We have tried to be very clear about the magnitude of risks here,” Altman said.
+“Given that we’re going to face an election next year … I do think some regulation would be quite wise on this topic. ... It’s one of my areas of greatest concern.”
+Despite that concern, Altman was undeterred in plowing forward with AI research and development, saying that he believed “the benefits of our tools vastly outweigh the risks,” and adding that he believed AI “can be a printing press moment.”
+Printing press aside, Altman made no secret that the technology would greatly destabilize society and eventually lay waste to many jobs that currently exist.
+Initially arguing that AI would do “tasks, not jobs,” Altman eventually admitted that the technology would “entirely automate away” some jobs while creating newer, better-paying ones.
+“AI is among the most world-changing technologies ever,” Marcus said.
+“Current systems are not transparent, and they do not protect our privacy,” Marcus added, saying that “humanity has taken the backseat” to Big Tech’s whims.
+On this note, Marcus highlighted the growing phenomenon of “counterfeit people,” that is, experts and witnesses wholly invented by AI. He gave examples in which AI had been used to falsify research papers, another in which AI falsely accused a public person of wrongdoing, another in which AI generated falsified evidence for a court case, and still another wherein an AI program coached its user (who had pretended to be a 13-year-old girl) how to run away with a man in his 30s.
+The end result of unregulated AI development, Marcus said, was a world where juries could never know if video evidence they were seeing was real or if that audio sample they had heard was authentic. In short, it is a world where nothing can be believed.
+With that in mind, Blumenthal said that he hoped AI developers would curb their ambitions before Congress did, or else the crushing weight of government intervention would come crashing down too late after the fact.
+“The AI industry doesn’t have to wait for Congress,” Blumenthal said.

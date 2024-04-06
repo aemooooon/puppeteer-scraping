@@ -1,0 +1,26 @@
+More than 5,000 foreigners were tracked during visits to mainland China between 2017 and 2018, according to the latest data leak from a Chinese institution. Some individuals on the list say they were only in China for a day or were transiting through Shanghai.
+One cybersecurity expert says the latest data leak is unique in its increased sophistication, the fact a local bureau was involved in surveillance, and the use of facial recognition.
+The information was compiled by the Shanghai Public Security Bureau, a local level branch of Beijing’s main surveillance body, the Ministry of Public Security.
+The data leak contains more than 1.1 million surveillance records and includes information on 25,000 “persons of interest” in China, and 5,000 foreigners, including government officials as well as employees of Mitsubishi and U.S. manufacturing giant 3M.
+The information compiled by China’s Public Security Bureau (PSB) included facial and vehicle recognition photos, immigration data, reports from informants, and the passport details and pictures of foreigners, which was collected when they traveled to Shanghai in 2017.
+More than 161 Australian citizens were flagged by the PSB while passing the immigration checkpoint at Shanghai’s Pudong International Airport in 2018.
+A watchlist containing information on employees from 976 companies—Chinese and foreign-owned—was also discovered.
+Individuals on this list were flagged because they had access to dangerous chemicals, drugs, or materials for making explosives. Up to a quarter of these companies were foreign-owned, including 3M, Mitsubishi, and German pharmaceutical titan Bayer.
+Up to 48 employees were tracked with facial recognition cameras as they moved through Shanghai’s Jinshan Port.
+Vehicles were also tracked with an “intelligent vehicle-monitoring” system, which forced owners to install GPS-tracking on their vehicles if they worked with dangerous materials.
+Australians from Ernst and Young, National Australia Bank, Telstra, the Australian Agricultural Co., the Department of Foreign Affairs, and a media group were also caught in the data sweep.
+Janis Manning, the co-owner of publication Mediaweek, told the ABC she was only in Shanghai for a one-day stopover.
+“I’m more intrigued and mystified than anything else,” Manning said.
+“I just think I’ve popped up on some database, possibly because I’ve throughout my career been connected with the media in some senior positions.”
+Matthew Warren, professor of cybersecurity at the Royal Melbourne Institute of Technology, who has seen first-hand how Beijing’s surveillance network operates, noted that local-level bodies were also involved in advancing the Chinese regime’s surveillance.
+“What the database also shows is how closely the CCP’s Close-Circuit Television Network (CCTV) and biometrics systems operate to collectively bring all aspects of surveillance together,” he told The Epoch Times in an email.
+“It demonstrates that the Chinese government has a fully integrated system that could also extend to drones,” he added, noting that he was shown 5G surveillance drones during a previous visit to China.
+The latest PSB leak also contained the identities of 25,000 persons of interest, including ethnic Uyghurs, political dissidents, children, alleged criminals, and those with mental illness.
+A subset of that list contained the details of 10,000 individuals who fit into one of seven categories listed by the Ministry of Public Security, including those who “disturb social order” or “petitioners,” individuals who file official complaints against corrupt government officials.
+The details of thousands of police informants were also contained in the dataset’s phone records, including names, home addresses, and phone numbers.
+One Uyghur, marked as a “suspected terrorist,” and now living in Turkey, believes he was caught up in the data sweep when he visited Shanghai Disneyland for one day in 2017. He was in Hangzhou at the time.
+Around 8,000 Uyghurs have been flagged for “suspected terrorism” and other alleged crimes.
+Michael Shoebridge, the Australian Strategic Policy Institute’s defense director, said this latest leak was broad-ranging and didn’t target the usual high-profile individuals that previous datasets contained.
+“Huge numbers of their own citizens, including 4-year-old children and families visiting Shanghai Disneyland, are happily labeled as terrorists by CCP agencies,” he told The Epoch Times.
+“You can be puzzled and bemused by the types of people and the information on them that Chinese security agencies collect,” he added, saying the mass of information means the CCP has leverage to target individuals to either advocate for Beijing or be discredited.
+However, Shoebridge noted that major leaks of Chinese data had been occurring on a regular basis.

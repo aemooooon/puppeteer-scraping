@@ -1,0 +1,44 @@
+Sir Richard Branson's rocket company Virgin Orbit has joined a growing list of private companies that can launch satellites into orbit.
+Earlier this month, 10 payloads were lofted on the Virgin Orbit rocket, which was launched from under the wing of one of the entrepreneur's old 747 jumbos.
+Sir Richard is hoping to tap into what is a growing market for small, lower-cost satellites.
+Space has traditionally had a high barrier to entry. Today, just seven firms make up 75% of the industry, according to Scott Campbell, director at Deloitte Ventures.
+The space industry is worth $380bn (£285bn), and 60% of that is commercial. But previously, virtually all investment into space was by governments, he says.
+The first real shift came in 2011 when US President Barack Obama opened up space to businesses, and now more disruption is coming. 
+"The new space race and start-up scene is almost entirely based around space applications: what can I do with data from space?" says Mr Campbell. 
+Traditionally, building and launching a satellite to collect data or enable communications costs hundreds of millions of dollars. 
+The satellites weighed up to six tonnes, were the size of a bus, and would be sent up into geostationary orbit - 35,786km (22,236 miles) above the Earth.
+But today, you could send up a so-called nanosat weighing just 25-50kg into low-Earth orbit (160-1,000km above Earth) for between $100,000 and $1m. 
+Launch prices are also falling because technology giants are driving demand, says Mark Boggett, chief executive of British venture capital firm Seraphim Capital.
+"Because tech firms need to launch their own satellites in the thousands [for space internet networks], this further drives down the cost of launch and storage for everyone else," he says. 
+"Whole new industries of businesses can benefit from using this data, essentially democratising space."
+And of course, if more data is being transmitted back to Earth, someone will need to process it.
+As a result, Deloitte's Scott Campbell has seen "an explosion of businesses around space". In 2011, there were 234 space-related firms in the UK, rising to 948 companies in 2018.
+As for satellites, today there are fewer than 9,000 in orbit, according to Seraphim. 
+OneWeb, SpaceX, Planet, Spire and Amazon have put up 10% of these satellites since 2016, but there are 200 smaller firms behind them who are projected to launch 25,000 satellites over the next four years. 
+One smaller firm is nanosat manufacturer NanoAvionics, which announced plans in October to create 400 new jobs in the UK. The firm saw revenues soar 300% in the last year. 
+"In the old days, we launched one satellite that had lots of sensors on it. But today, we've launched hundreds of satellites that have the same one sensor, and that's a much cheaper, repeatable way to do it with more consistent data," says Robin Sampson, head of operations at NanoAvionics UK.
+PWC UK's space lead Dinesh Patel says the nanosat market is worth only £1.8bn today, but annual growth rates of 20% are projected.
+Satellites have traditionally been used for communications, TV services and tracking the weather, but new cheaper options are attracting tech giants with big plans.
+More Technology of Business
+Late last year Microsoft announced it was teaming up with Elon Musk's SpaceX.
+Their partnership, Azure Space, plans to combine Microsoft's cloud computing services with a global network of satellites.
+Tom Keane, corporate vice president at Microsoft Azure, tells the BBC that space makes it possible to "move computing to the edge", which means processing data much closer to users' devices than ever before.
+"The edge could be anywhere - on a device... you're wearing, it could be something you're carrying, it could be in your car," he says.
+"Space allows you to connect all of that infrastructure together, and then you can use artificial intelligence [like] predictive analytics to gain insights over things that were previously not connected together."
+Ground stations, which receive data from satellites, are also potential money makers for IT giants.
+Microsoft Azure's Tom Keane plans to revolutionise ground stations, which are currently "expensive and often monolithic devices" and hook them up to Microsoft's data centres.
+"Today, in many cases, data [from ground stations] may not be used, or it's certainly not used as broadly as it could be. By connecting that ground station, you take the data from space... to solve problems that you can't solve today."
+Another opportunity is to connect the 3.8 billion people in rural areas who still do not have an internet connection.
+SpaceX in particular has been launching batches of small satellites into orbit since 2018 to form a huge constellation, with the aim of providing instant broadband anywhere on Earth.
+Other businesses will hope to make money by collecting data from nanosats, processing it with artificial intelligence, and using it in innovative ways to solve problems.
+Firms are looking to collect Earth observation data like weather, heat signatures and atmospheric gas composition to help farmers, for example, and to monitor things like flood defences, traffic and construction sites.
+But not everyone thinks constellations of satellites orbiting close to Earth is a good idea.
+Alex Gellman, chief executive of Vertical Bridge, the largest privately owned communications infrastructure company in the US, says there are limitations to space broadband due to latency.
+Latency measures the time it takes to get a response after you send out a data request. 
+To send data over a 4G mobile network, the latency through air would be 3.3 microseconds/km, while data sent over fibre broadband, where the signal moves through glass, has a latency of 5 microseconds/km. In comparison, nanosats are much further away. 
+"If the satellite has to communicate with a ground base station to compute, [the data] has to go back to the satellite, and then to your device, so it could be four round trips before it gets to the device," he explains.
+"Satellites do bring internet to places that don't have it, but it's not a service comparable to 4G or 5G ultimately."
+And then there's the space trash problem, warns Paul Kostek, a senior member at IEEE, the world's largest technical professional organisation. 
+"We're talking thousands of small satellite launches and there's a traffic management problem that people have not really encountered before," he says. 
+"What happens if one satellite gets hit by space debris, breaks apart and goes into the orbit of another constellation? You've added more debris in orbit around the Earth."
+He doesn't think geostationary satellites will become obsolete, but legacy space firms are wary.

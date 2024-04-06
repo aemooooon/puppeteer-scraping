@@ -1,0 +1,18 @@
+CAPITOL HILL – Lawmakers in Washington, D.C. are digging into whether A.I. safeguards brokered by the White House go far enough for public safety. The Senate Judiciary Subcommittee on Privacy, Technology and the Law is weighing expert testimony on how to best rein in artificial intelligence.  
+President Joe Biden says companies developing these emerging technologies have the responsibility to ensure their products are safe.
+ 
+So far there's reportedly been buy-in from seven leading A.I. companies voluntarily promising to commit to managing risk. Experts urge they need to also commit to more transparency. 
+Terrorism, climate change, and global poverty are all big problems that experts say artificial intelligence and big data can help companies and countries to solve. They are technologies world leaders are already monitoring. 
+"This is a serious responsibility," Biden said. "We have to get it right. And there's enormous, enormous potential upside as well."
+  
+Biden announced commitments this month by Amazon, Google, Meta, Microsoft, and other companies leading the development of artificial intelligence technology to meet a set of A.I. safeguards brokered by the White House. 
+In a Senate subcommittee hearing Tuesday, lawmakers expressed the need for more research on the potential for harm. 
+"I've come to the conclusion that we need some sort of regulatory agency, but not just a reactive body," Democratic Sen. Richard Blumenthal of Connecticut said. 
+Susan Ariel Aaronson is a research professor of international affairs at George Washington University and co-principal investigator with the National Science Foundation's Institute for Trustworthy A.I. in Law & Society. She says responsible innovation can only be as good as the data companies are sourcing. 
+"Are the data sets diverse and complete enough so you have an accurate representation of people," she said. "For example, to people of color, are they jailed more than other people? Are white people more racist than Hispanic people? I think you get the point. You need to make sure that the data is completely accurate and diverse. And how do you do that?" 
+Under the White House agreement, the companies commit to publicly reporting their A.I. systems' limitations when it comes to societal risks, such as the effects on fairness and bias. President Biden highlighted the measure in a recent press conference. 
+"Companies have an obligation to make sure their technology is safe before releasing it to the public," he said. "That means testing the capabilities of their systems, assessing their potential risk, and making the results of these assessments public." 
+Aaronson said people are both consumers and suppliers of A.I. data, and she insists Congress should be looking at safeguards for privacy – a word mentioned just once in a fact sheet from the Biden administration about company commitments. 
+"One thing that I don't see Congress discussing, but I think it would be really helpful, is we should use corporate governance rules to ask companies to be public about how they use our data, and how they protect our data," Aaronson said. 
+Experts say it would also be helpful for people to know how their data is mined with proprietary datasets. 
+The Biden-Harris administration is currently developing an executive order and will pursue bipartisan legislation to further what they call "responsible innovation." 

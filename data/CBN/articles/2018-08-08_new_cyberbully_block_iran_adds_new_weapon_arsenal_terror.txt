@@ -1,0 +1,18 @@
+On the heels of Iran facing new economic sanctions from the United States, the Islamic Republic is working to add a new weapon to its arsenal: cyberhacking.
+CBN News has learned that a cybersecurity firm is tracking a group attempting to target critical infrastructure here in the United States.
+Sources say this new Iranian hacking group calls themselves Raspite.
+Cybersecurity experts told CBN News they are thankful they found the hackers at a learning stage and not yet able to create widespread chaos.
+"The group we are looking at here, Raspite, I'm probably guessing 18 to 24 months before they are in a position to something actually damaging," Sergio Caltagirone, director of threat intelligence at Dragos Inc., said.
+"That's good because it gives us a lot of time, but it's bad because we may not be going as fast as we should prevent that," he explained.
+Caltagirone adds that catching Raspite early in its maturity is ideal as it allows the US to track its behavior and threat progression to help organizations defend against them.
+Caltagirone notes Raspite has been active for maybe a year or two.
+Researchers first uncovered hacking aimed at government and other targets in the Middle East. Now they're moving to install custom-built malware into US power grids.
+Recently, experts from Symantec published a detailed report on the activity of the Iranian cyber-espionage team.
+According to Symantec, the extent of the group's campaigns could be wider. Researchers uncovered a list, written in Farsi, of 809 targets whose systems were scanned by the attackers.
+The targets not just here in the United States but in the United Arab Emirates, Qatar, Bahrain, Egypt, and Afghanistan.
+Last week, top US intelligence chiefs warned of Russia and other countries targeting US infrastructure and democracy.
+"Our digital lives are on the line," warned Homeland Security Secretary Kirstjen Nielsen. "Our cyber adversaries are working day and night to advance immortal threat to our networks, our systems, and our national critical functions."
+Meanwhile, experts say it's not only getting the privately owned businesses working side by side with the government, but we must reach out to all countries as well.
+They say we need to team up with countries like Israel, South Korea, and Japan – countries that have to be part of that solution that live in very tough neighborhoods.
+Experts say this is in our best interest.
+Ukraine is the practice field for Russian cyber hackers, and what happens there soon comes to the United States.

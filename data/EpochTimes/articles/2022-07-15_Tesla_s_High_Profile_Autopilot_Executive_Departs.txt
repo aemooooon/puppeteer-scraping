@@ -1,0 +1,14 @@
+SAN FRANCISCO—Andrej Karpathy, a high-profile Tesla executive who played a key role in developing the electric car maker’s artificial intelligence and driver assistant technology, said on Wednesday he is leaving the company.
+The departure of Karpathy, who provided no reason for leaving, comes at a critical time as Tesla Chief Executive Elon Musk races to achieve full self-driving capability this year, after missing earlier targets several times.
+Credit Suisse analyst Dan Levy wrote in an investor note that Karpathy’s departure “possibly reflects challenges to Tesla progress in FSD/robotaxi.
+“We continue to view Tesla efforts in AV/robotaxi as ’show me'”
+The departure of Karpathy, whose title was senior director of AI, came after Tesla on Tuesday said it was shutting its office in San Mateo, California, part of the company’s team developing “Autopilot” driver assistant technology, and laying off over 200 people there.
+Karpathy, who worked at the company’s Palo Alto office, led the computer vision team of Tesla Autopilot, overseeing efforts to train AI technology using data collected from Tesla vehicles on the road.
+“It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways,” Karpathy tweeted, adding that he does not have concrete plans for what he will do next.
+Musk responded in a tweet: “Thanks for everything you have done for Tesla! It has been an honor working with you.”
+Tesla’s driver assistant technology made big strides during Karpathy’s tenure, although the technology fell short of promises by Musk, who said in 2019 that Tesla would launch driverless taxis by 2020.
+“I would imagine that there will be an internal promotion to fill Karpathy’s position. It would not be easy to get somebody externally with Karpathy’s experience and knowledge,” said Raj Rajkumar, professor of electrical and computer engineering at Carnegie Mellon University.
+Musk said in a podcast interview in January that Karpathy played an important role, but added: “People will give me too much credit and they’ll give Andrej too much credit.”
+In late March, Karpathy said he was taking a four-month sabbatical to “re-sharpen my technical edge.”
+He is not the only Tesla executive to quit after taking a break. In 2018, then-engineering head Doug Field joined Apple after taking time off to “recharge.” He is now with Ford.
+Still, Karpathy’s departure took several people by surprise. “He is as much a workaholic as Elon,” a former Autopilot team member told Reuters.

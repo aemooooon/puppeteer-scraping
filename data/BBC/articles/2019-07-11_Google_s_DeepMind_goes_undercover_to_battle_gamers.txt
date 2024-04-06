@@ -1,0 +1,30 @@
+Gamers in Europe are being invited to take on a bot developed by some of the world's leading artificial intelligence researchers.
+But there's a twist: players will not be told when they have been pitted against it.
+The tests are being carried out by DeepMind, the London-based AI company that previously created a program that defeated the world's top Go players.
+In this case, the challenge involves the sci-fi video game Starcraft II.
+It is seen as being a more complex task, since players can only get a partial overview of what their opponent is doing, unlike the Chinese board game Go where all the pieces are on show.
+In addition, both Starcraft players move their armies about simultaneously rather than by taking turns.
+DeepMind - which is owned by Google's parent Alphabet - has said its bot AlphaStar is playing anonymously so as to get as close to a normal match situation as possible. The concern is that if people knew for sure that they were playing against a computer, they might play differently.
+But gamers will only face the algorithm-controlled system if they have first opted in to be part of the experiment. 
+There is a risk that if they lose, then their Match Making Rating (MMR) score will suffer, reducing their ranking against other players and affecting their likelihood of being promoted to higher leagues.
+One of the UK's leading players said there was a lot of interest among the Starcraft community as to how AlphaStar would perform.
+"It's a game of hidden information and making decisions with very limited knowledge," explained Raza Sekha, from Kent.
+"People are very curious to see whether DeepMind will innovate and come up with new strategic thoughts.
+"That would be a really great achievement, but I don't think many people are expecting it to happen."
+AlphaStar's predecessors have, however, come up with creative strategies within the games of chess, Go and shogi, which have in turn influenced some of the top human players to change their own tactics.
+This is not the first time AI researchers have sought to advance the field via video games.
+Last year, San Francisco-based OpenAI reported a breakthrough when it effectively created a "curious" agent to achieve high scores within Montezuma's Revenge.
+A range of machine learning experiments have also been carried out within Minecraft, thanks to Microsoft developing a special version of its block-building title.
+And DeepMind itself rose to prominence by developing agents that taught themselves how to play dozens of Atari games including Breakout and Space Invaders. More recently it created software that plays alongside human team-mates within Quake III Arena.
+These ready-made virtual environments provide a way to carry out a process called reinforcement learning. This involves agents discovering ways to perform better by themselves via a process of trial and error, receiving "rewards" for success rather than being told what to do.
+In some cases, agents teach themselves from scratch. But in AlphaStar's case, it was first trained to imitate human play by referencing past matches, before being unleashed against other versions of itself to further improve performance.
+AlphaStar's progress has not been without controversy.
+Some players felt that it had an unfair advantage in earlier matches because it could look at a game's entire map at once, taking in more detail than a human could.
+"As a human, one of the hardest parts of the game is multitasking," explained Mr Sekha.
+"It's really hard to split your attention between two places. 
+"So, an AI has a crucial advantage when it can see everywhere at once, as that lets it attack and defend almost at the same time, whereas a human would have to choose whether it's best to do one or the other."
+To tackle this, the agent has been tweaked to use the game's map more like humans do. It now has to zoom in to a section to determine the action within, and can only move units to locations in view.
+DeepMind has also reduced the number of actions AlphaStar can take per minute to address other criticism. 
+But Mr Sekha said there were still unanswered questions.
+"If it can switch very quickly from one camera to another camera, much faster than a human could, that would still be a bit unfair," he said.
+"So it will be really interesting to see what steps they have taken to level the playing field, because last time the community felt it was a bit too much in favour of the artificial intelligence." 

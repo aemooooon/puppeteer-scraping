@@ -1,0 +1,23 @@
+In Hong Kong, Western tech giants have stopped handing data over to the authorities. 
+In the United States, the Trump administration has talked of shutting down Chinese-owned TikTok. And in the UK, it’s looking more likely that China’s Huawei will be banned from any involvement in 5G. 
+On this week’s Tech Tent, we explore whether this is the beginning of a great technology schism where companies and countries have to decide whether they are in the American or the Chinese camp.
+After months of growing trade tensions, it is the new security law imposed on Hong Kong by China which has brought matters to a head. 
+Our Asia Business Correspondent Karishma Vaswani tells the programme the new law makes Hong Kong a lot more like China in terms of companies being forced to hand over private data - or at least it might.
+“Businesses, in particular tech firms, don't know whether or not they will fall foul of these new regulations, partly because they're so vague,” she says.
+For years, companies like Google and Facebook - which want to be in China but cannot work with its restrictive laws - have seen Hong Kong as a useful place to wait, and see if things change.
+“Hong Kong has been for so many years the gateway to China, but still kept intact its very unique identity of being a free trading port and a place for multinational businesses,” Vaswani says. 
+Now things have changed - and not in the direction hoped for by the Western tech giants. They may now have to beat a retreat from Hong Kong.
+The dilemma for Chinese-owned TikTok has been even more acute. 
+On Friday, Hong Kong users woke up to find the hugely popular app had gone. Desperate to prove it really isn’t subject to Chinese influence, the company apparently decided this was the only way to prove it was serious about protecting its users’ data.
+But with India having banned the short video app, and US Secretary of State Mike Pompeo praising that move and talking of following suit, exiting Hong Kong may not be enough. 
+Millions of teenage users are probably still unaware that TikTok has Chinese links. But, like Huawei in the UK, the company is finding that it’s caught up in a political rift between China and the West - and will be forced to choose sides.
+That is certainly what Alex Capri, Hinrich Foundation fellow and senior lecturer at the business school of Singapore’s National University, sees happening.
+He tells us that this week has shown that the world is in the process of fragmenting into different blocs. China’s aggressive trade policy was accepted by the West while it was still a relatively small economy, but that has changed now that it has become so powerful, he says.
+“That kind of behaviour is no longer tolerated. So the differences that were a bit grating and a bit abrasive over the last three decades of globalisation have now come to a head and we are now seeing the beginning of an age of decoupling, certainly strategic decoupling from Chinese supply chains.”
+And that, he says, has major consequences not just for the likes of TikTok but for companies such as Apple which want to continue to have a presence in China. “They're going to have to adopt an 'in China for China' strategy whereby they become more and more localised in China, they play with local suppliers and within local ecosystems.”
+But, as for the rest of their business serving other markets, they may also have to start moving more manufacturing out of China, as Apple has done in moving some iPhone production to India. This, Mr Capri says, will be needed to hedge against further export controls and sanctions “which are absolutely coming”.
+Meanwhile, countries will have to decide which side of the great divide they want to play on. 
+The academic and author sees different standards emerging for technologies such as 5G, with a Western open-source set of rules which will encourage smaller players - but exclude Huawei - leaving the Chinese telecoms giant as the dominant force across Asia and Africa.
+Of course, President Trump could change his mind as he did when imposing and then removing sanctions on another Chinese telecoms giant ZTE, deciding that it is in his interest to make a trade deal with China.
+But there is a real sense that, whoever wins the November election in the US, the era of globalised technology is over.
+For the last decade, despite the race between the US and China to dominate fields such as artificial intelligence and quantum computing, American and Chinese scientists and entrepreneurs have lived, worked and collaborated in each other’s countries. 

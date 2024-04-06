@@ -1,0 +1,20 @@
+The government has unveiled a new NHS mobile app that will put patients in England in direct touch with their GPs. 
+The app will allow users to book appointments, order repeat prescriptions and see their medical files held by the surgery. 
+They will also be able to sign up as organ donors, decide how their health data is used and get advice from the 111 service.
+Health Secretary Jeremy Hunt described the app as a "birthday present from the NHS to the British people", 70 years after it was founded.
+Testing of the NHS app will begin in September and it will then be available for anyone in England to download in December for both Android and Apple devices.
+Patients are already able to carry out online many of the functions the app offers, but the government believes having them available via a smartphone will make them more attractive. 
+Mr Hunt told the BBC: "In our 70th year as the NHS, we have to look forward as well as backward and the big change that is going to happen in the next decade is the technology revolution." 
+He said digital developments such as the new app would give people more control over their own health, turning them into "expert patients".
+The Royal College of General Practitioners gave a cautious welcome to the initiative, while calling for practices to get the support they would need during the rollout.
+Its chair, Prof Helen Stokes-Lampard, also warned that security must be a priority. 
+"Considering that patients' medical history will be accessible on individuals' mobile phones on the apps, we need to ensure that the security and reliability of the identity verification processes being used are of the highest international security standards," she said.
+The government says security will be on a par with online banking or even higher.
+But the new service looks pretty basic and will enter a crowded market for health apps, many offering more advanced features. 
+Babylon's GP At Hand allows NHS patients in London to get a consultation with a doctor via a smartphone, although they have to leave their existing practice when they sign up.
+Last week, Babylon claimed that the medical advice offered by the artificial intelligence in another of its apps was at least on a par with the expertise of doctors, although the Royal College of GPs said the claim was dubious.
+Another service, askmyGP, is already working with a number of GP practices, providing them with an online triage system where patients can contact their doctors and find out whether or not they need an appointment.
+AskmyGP's founder Harry Longman questions whether the NHS app, which offers appointments without the patient first having told the doctor their symptoms, might increase a GP's workload.
+"Booking an appointment online seems like a good idea, until you realise that it doesn't create any more GP capacity and may even waste more GP time through inappropriate bookings by those who know how to play the system," he said.
+He says that research shows that only 30% of patients seeking help need a face-to-face appointment.  
+But Jeremy Hunt says that some people may decide they do not need an appointment after using the 111 service on the NHS app to check their symptoms. 

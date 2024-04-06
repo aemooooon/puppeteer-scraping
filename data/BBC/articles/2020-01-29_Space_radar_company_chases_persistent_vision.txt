@@ -1,0 +1,26 @@
+When one of your "companies to watch" goes quiet for a period of time, you begin to wonder what's going on. 
+"Have you heard from Capella Space recently? Weren't they supposed to have launched more satellites by now?" I asked a journalist colleague in December. "Yeah, I was thinking the exact same thing," she replied. 
+And then up pops the US company and all is explained. "Ah, so that's what they've been doing." 
+Capella is developing a commercial constellation of small, low-cost Synthetic Aperture Radar (SAR) satellites. These will be capable of sensing the Earth's surface in all weathers, day or night. 
+It's an activity that has traditionally been dominated by Big Government - the national space agencies and the military - because of the expense and complexity of doing radar from orbit. 
+But the technologies being exploited now by so-called "New Space" companies are challenging the old ways of doing things. 
+Capella put up one 48kg "demonstrator" spacecraft called Denali in late 2018 and was expecting to follow that with two more operational platforms in 2019 and a further 12 in 2020. 
+With this gradual roll-out would have come steadily improving performance. 
+But then, as CEO Payam Banazadeh told me, a few hands started to go up from prospective customers who said they'd rather skip straight to the better quality images of the later satellites. 
+And so the company took the difficult decision to halt its roll-out and bring forward future upgrades. Hence the period of quiet in 2019 as Capella sought to rebuild its next batch of satellites. 
+"We heard the market," the former Nasa engineer said. "Our initial customers will be in defence and intelligence, and they're hooked on high quality and high resolution. And so we need to be sure that from the get-go, we are known for that as well. 
+"Because we've seen it before with other players - it's very difficult to change customers' perception of you after you've already given them a product. You'll be flagged and known for that product, whatever that is, even if your next iteration is much improved." 
+Last week, at the Global Geospatial Intelligence Conference in London, Capella revealed details of its new spacecraft. They're bigger (although still under 100kg) and with greater performance. They should now deliver narrow strip scenes of Earth up to 4,000km in length at a ground resolution of 50cm - and better, down to 30cm for US government-approved customers.
+The first satellite in this new batch, Sequoia (named after another US National Park), is booked onto a SpaceX rocket for a March lift-off. The hope then is to get another six up before the year's end. However, this will depend strongly on launcher availability.
+I've written quite a bit recently about the European "competitor" to Capella - the Finnish company Iceye. Both are trying to break the mould by opening a market for persistent radar imaging where the same spot on the Earth's surface is imaged every hour or so. It's achieved by having multiple spacecraft flying overhead - 36 in the case of Capella; 18 in the case of Iceye. 
+I say "competitor", but in truth these companies seem to be focussing in different areas at the moment. If Capella is going to major on defence and intelligence, Iceye is building a reputation in the maritime sector. Evidence of this is the new service Iceye is offering to find ships that try to hide illegal activity, such as unregulated fishing. 
+But such is the newness of what both companies are doing, they probably need their combined efforts right now to build better awareness of what SAR is all about. 
+Working in the news business, I certainly recognise this. Satellites that can see the Earth's surface even through thick cloud and in the dark are first with those pictures of the volcano that's just blown its top or the oil tanker that's been attacked in the Gulf. 
+But there will be many commercial sectors that simply haven't clocked yet what SAR can do for them. 
+One other issue before I close. You'll probably have seen the kerfuffle surrounding the constellation of Starlink broadband satellites being launched by SpaceX. 
+Their brightness in the sky has caught the ire of astronomers who worry these artificial points of light will impede their view of the cosmos. 
+The SAR constellations haven't escaped this scrutiny, although the questions being asked take a different tack. 
+At the recent American Astronomical Society meeting in Hawaii, Dr Harvey Liszt from the US National Radio Astronomy Observatory raised the concern that powerful radar pulses from orbit could damage the radio receivers that scientists employ in their ground observatories.
+Payam Banazadeh told me Capella was taking this matter very seriously and was keen to co-ordinate his company's activities with the AAS. 
+"We have also been in contact with Dr Liszt and are actively working to safeguard their mission when operating our SAR constellation. 
+"Whether it is observing Earth or deep space, Capella believes in exploration and scientific discovery. We also believe in and support protecting the mission of the radio astronomy community."  

@@ -1,0 +1,7 @@
+The U.S. Department of Defense (DOD) is taking steps to ensure that U.S. defense companies decouple from supply chains involving China as much as possible.
+The magnets are used on the plane’s turbomachine pumps, which are manufactured by U.S.-based Honeywell International. Honeywell has reportedly identified an alternate supplier for the materials while the Pentagon is expected to issue a waiver to resume F-35 deliveries for now.
+William A. LaPlante, U.S. undersecretary of defense for acquisition and sustainment, was asked during a Sept. 9 press briefing why Honeywell hadn’t detected the Chinese component for the better part of the past two decades.
+“Any company that says they know their supply chain is like a company saying they’ve never been hacked,” LaPlante said. “So it’s an endless battle.”
+He suggested that artificial intelligence and open source tools might be used to track raw materials across supply chain networks in real time.
+Analytics company Govini recently issued a report looking at the number of U.S. defense components manufactured in China.
+The share of Chinese suppliers in critical industries grew from 6 percent to 9 percent during this period. The prevalence of Chinese companies in the Pentagon’s supplier base will make it difficult to identify all instances where these firms are a single-source supplier of key materials or technology, according to the report.

@@ -1,0 +1,15 @@
+Researchers have repurposed existing robotic technology so it is able to create custom wooden furniture, a move they say will greatly improve safety.
+The team at the Massachusetts' Institute of Technology (MIT) modified existing technology, including the popular vacuuming robot Roomba, to create the system. 
+The group said the goal was not to replace human carpenters but to allow them to focus on more important tasks such as design.
+It is hoped systems like this might also improve safety.
+"Every year thousands of carpenters injure their hands and fingers doing dangerous tasks such as sawing," the team said.
+AutoSaw could let "non-experts customise different items that can then be constructed with the help of robots".
+Robotics have long been used to manufacture mass-produced, flat-pack furniture but MIT's work could pave the way for robots to create custom furniture for specific purposes and spaces.
+The robots will cut the wood correctly, adding the holes needed to assemble it, and carry the component parts around the room.
+Compared to existing machines used by carpenters, AutoSaw is considerably cheaper and more mobile. As well as Roomba, the project uses two robots from German firm Kuka - though the particular model utilised by MIT's team has since been discontinued.
+Easy access
+But hardware specifics aside, the real goal of MIT's work is to demonstrate that high-quality, customisable furniture is more accessible than before - and safer to produce.
+"Robots have already enabled mass production, but with artificial intelligence they have the potential to enable mass customisation and personalisation in almost everything we produce,” said Daniela Rus, quoted in an article written by MIT's in-house publication.
+Ms Res and her team are part of MIT's Computer Science and Artificial Intelligence Laboratory, founded in 2004.
+The group's research paper on the system said the robots were capable of sizing up and cutting the wood needed to make a chair, shed, table and decking.
+Assembly is still carried out by humans, as if it were a typical flat-pack product.

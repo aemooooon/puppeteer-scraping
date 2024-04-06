@@ -1,0 +1,12 @@
+Alphabet Inc’s YouTube, Facebook Inc., and Twitter Inc, warned on Monday that more videos and other content could be erroneously removed for policy violations, as the companies empty offices and rely on automated takedown software during the coronavirus pandemic.
+In a blog post, Google said that to reduce the need for people to come into offices, YouTube and other business divisions are temporarily relying more on artificial intelligence and automated tools to find problematic content.
+Such software is not always as accurate as humans, which leads to errors, it added, however. And “turnaround times for appeals against these decisions may be slower,” it said.
+Facebook followed suit, saying it would work with contract vendors this week to send home all content reviewers home indefinitely, with pay.
+The social media company drew public criticism last week for asking policy enforcers to continue coming to work, as it lacks secure technology to conduct moderation remotely.
+Facebook also said the decision to rely more on automated tools, which learn to identify offensive material by analyzing digital clues for aspects common to previous takedowns, has limitations.
+“We may see some longer response times and make more mistakes as a result,” it said.
+Twitter said it too would step up use of similar automation, but would not ban users based solely on automated enforcement, because of accuracy concerns.
+The three Silicon Valley internet services giants, like many companies worldwide, have asked employees and contractors to work from home if possible, to slow the fast-spreading respiratory disease. Mass gatherings for sports, cultural and religious events have been canceled globally.
+Google said human review of automated policy decisions also would be slower for other products and phone support would be limited.
+Its content rules cover submissions such as campaigns on its ad network, apps uploaded to the Google Play store and business reviews posted to Google Maps.
+“Some users, advertisers, developers and publishers may experience delays in some support response times for non-critical services, which will now be supported primarily through our chat, email, and self-service channels,” Google said.

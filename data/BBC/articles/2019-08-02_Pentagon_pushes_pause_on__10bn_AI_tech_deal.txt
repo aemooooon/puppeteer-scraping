@@ -1,0 +1,33 @@
+The Pentagon has signalled a delay to a decision on whether to award a lucrative cloud-computing contract to Amazon or Microsoft.
+The two companies are the last ones in the running to provide artificial intelligence-based analysis and host classified military secrets among other services over a 10-year period.
+The deal could be worth more than $10bn (£8.2bn).
+The delay follows concerns raised by President Donald Trump last month.
+He told reporters: "I'm getting tremendous complaints about the contract with the Pentagon and with Amazon."
+The president added that Oracle and IBM - two companies previously knocked out of the bidding process - had been among those raising concerns. 
+And he said he intended to ask for the matter to be looked at "very closely" - despite the fact that the president's former spokeswoman, Sarah Sanders, had said in 2018 that he was "not involved in the process".
+Last month, Republican Senator Marco Rubio also claimed the Department of Defense (DoD) had used "arbitrary criteria" to narrow down the field, which he said could "result in wasted taxpayer dollars". 
+Mr Rubio had previously benefited from millions of dollars-worth of campaign support from Oracle's chief Larry Ellison.
+The contract was initially due to be awarded before the end of this month, and in a statement to the Politico news site. a DoD spokeswoman did not provide specifics about why the new Defense Secretary - who was appointed on 23 July - had decided to review the process.
+"Secretary Esper is committed to ensuring our warfighters have the best capabilities, including artificial intelligence, to remain the most lethal force in the world, while safeguarding taxpayer dollars," she said. 
+"Keeping his promise to members of Congress and the American public, Secretary Esper is looking at the Joint Enterprise Defense Infrastructure (Jedi) programme. No decision will be made on the programme until he has completed his examination."
+Dr Esper was previously the US Secretary of the Army, so would have been familiar with the Jedi contract before taking on the new role.
+The DoD had previously signalled that it might also consider Google as a third alternative.
+But the search giant dropped out of the process in October, saying that it "couldn't be assured that [the work] would align with our AI principles".
+Neither Amazon nor Microsoft has commented.
+As the world's biggest provider of cloud-computing services, Amazon had been the favourite to win Jedi.
+The company's Amazon Web Services division secured a contract with the CIA in 2013 to allow the spy agency to offload work to its computer servers. 
+That success helped it gain other public-sector work and it now says that more than 2,000 government agencies use its cloud technologies.
+Microsoft's Azure division also provides cloud services to the US intelligence community, and it is the favourite to win a second Pentagon cloud-computing contract out for tender. 
+The Defense Enterprise Office Solutions (Deos) contract involves providing email, calendar, video-calling and other productivity tools to the US military and is expected to be worth about $8bn.
+There had been speculation that the DoD might not want to award both Deos and Jedi to the same provider to avoid becoming over-reliant on a single company.
+President Trump has repeatedly criticised Amazon and its chief, Jeff Bezos, in the past.
+Mr Bezos has acknowledged that his ownership of the Washington Post - which is often critical of the current administration - has been a "complexifier", but has said that the president is wrong to consider him an "enemy".
+Mr Bezos has, however, been clear that he believes Amazon should provide services to the US authorities, even if its causes controversy.
+This has included supplying facial-recognition technologies to the police as well as pursuing the Jedi contract.
+"If big tech companies are going to turn their back on US Department of Defense, this country is going to be in trouble," Mr Bezos told a conference in October 2018, following Google's pull-out.
+One factor that could act in Mr Bezos's favour is that he has resisted pressure from some of Amazon's own employees to drop the surveillance software firm Palantir as a client of Amazon Web Services because of its reported links to the US Immigration and Customs Enforcement agency.
+Palantir's co-founder is Peter Thiel - a billionaire tech investor who advises President Trump.
+Mr Thiel has previously complimented both Mr Bezos and Amazon's impact on the wider tech sector in public comments.
+However, his view on Jedi is unknown.
+Bloomberg reported last month that Mr Thiel met Mr Trump and Oracle's co-chief executive, Safra Catz, at the White House last year when Oracle was still seen as a contender. 
+The news agency said the possibility of Amazon winning the Jedi contract was one topic discussed, but did not report the detail of what was said.

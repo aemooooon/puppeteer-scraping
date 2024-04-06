@@ -1,0 +1,32 @@
+A digital artificial intelligence company plans to donate its technology to nonprofits whose goal is to find children who are being exploited in the human trafficking industry.
+Human trafficking is considered to be one of the fastest-growing crimes around the world and is estimated to be a $150 billion-a-year global criminal enterprise.
+And a huge number of its victims are innocent children. 
+According to the FBI, there were nearly 360,000 cases of missing children in 2022, while the National Center for Missing & Exploited Children received more than 32 million reports of suspected child sexual exploitation that year.
+Experts say technology is giving predators an advantage against those working to save children. 
+"I say to myself, 'My God, the lawyer for this dirtbag predator is smarter and more sophisticated than the cops are'," John Walsh, the co-founder of the National Center for Missing & Exploited Children, told The Associated Press. "They don't really know the technology."
+Walsh, the longtime host of "America's Most Wanted" told the outlet human traffickers and sexual predators often use high-end technology and increasingly take advantage of encryption to protect the details of their crimes.
+"The pimps of the day, the gangs of today are way smarter than the sex trafficking gangs of the past," he said. "They're way more dangerous. They move faster. They have encrypted files. They're smart. And law enforcement just can't keep up with them."
+Law enforcement officials in smaller cities and towns often lack the budget and access to the technological tools that would speed up their investigations and aid in the prosecution of the offenders.
+But Cellebrite DI, Ltd., wants to change that.
+The "digital intelligence" company already provides tech tools that help law enforcement and private firms find and follow investigative leads, but it recently announced an initiative called "Operation Find Them All" where it will donate its technology to nonprofits that help find endangered children, including the National Center for Missing & Exploited Children and the nonprofit The Exodus Road, which fights human trafficking around the world. 
+Yossi Carmil, Cellebrite's CEO, said he knew his company had to do what it could knowing that it had the technology to help children in trouble.
+"We are the biggest admirers of law enforcement," Carmil said. "However, they are understaffed, under-equipped, and, at any point of time, regardless of how much the government will give them, they are under constraints. They always need to do more with less."
+The company, which made $85 million for the third quarter of 2023, will also make a financial contribution to those organizations. 
+"I've got kids. John (Walsh) has kids. We are also citizens and parents," Carmil said. "This is a holy mission. It goes beyond the money."
+Law enforcement agencies and companies that are already using Cellebrite are seeing incredible results in their fight against crime. 
+The Brazoria County Sheriff's Office in Texas is currently using Cellebrite technology to process data gathered from cell phones as well as its AI-driven software to analyze the data to find potential leads.
+"The system really helps us with doing our jobs faster," Kent Nielsen, a digital forensic investigator with the department explained.  
+He said that one smartphone could contain more than 250,000 images to process. 
+Rather than having an investigator look through those images and sort them, Cellebrite's Pathfinder software can process them, while also linking them to locations, as well as other data from other smartphones or other cases.
+***Please sign up for CBN Newsletters to ensure you keep receiving the latest news from a distinctly Christian perspective.***
+According to UNKNOWN, a Tim Tebow Foundation anti-trafficking initiative, more than 50,000 images of unidentified children being abused, raped, and tortured are sitting in a global law enforcement database.
+"I believe that human trafficking and child sexual exploitation are two of the greatest evils we face today," Tim Tebow recently shared on social media.
+"And for those 50,000 law enforcement has not been able to identity," Tebow explained, "many people would refer to this as CSAM – child sexual abuse material – and we know that there are boys and girls that are being raped and tortured but are still unknown."
+According to the foundation, the U.S. hosts many of those websites that contain this harmful material – more than any other nation in the world. 
+"Children around the world are suffering from horrific sexual abuse, many from the very people who are meant to protect them. CSAM, or child sexual abuse material, is an evil that has been hiding in the darkness of our communities, our homes, and the internet for too long and it's past time we exposed it to the light," Tebow recently wrote.
+"Those are all boys and girls that are made in the image of God that are going through torture," he added.  
+Meanwhile, the Brazoria County Sheriff's Office used the Cellebrite technology earlier this month as part of the multi-agency Operation Interception to help rescue children being trafficked in nearby Houston during the College Football Playoff national championship. 
+Nielsen said seven girls were rescued and 23 arrests were made.
+Matt Parker, co-founder of The Exodus Road, said he saw what a difference one piece of Cellebrite technology made in investigating the human trafficking of Rohingya Muslims in Malaysia in 2015.
+Parker hopes to bring Cellebrite technology to other countries through "Operation Find Them All", and leverage the tool to help governments prosecute human trafficking cases.
+"When you fight corruption globally, you have to have an overwhelming amount of evidence that is difficult to sweep under the rug," Parker said. "You have to make the case a slam dunk and I'm telling you, in all the experience I have had over the last 13 years… in hundreds of cases of human trafficking when we leverage Cellebrite technology and we introduce that technology into the judicial process, the success level is significantly higher."

@@ -1,0 +1,109 @@
+While intelligent robots aren’t likely to take over the world anytime soon, they could change key domains of modern civilization, boosting economic efficiency and day-to-day convenience while unleashing ample potential for misuse, according to several experts.
+In recent years, the world has been rocked by riveting advances in artificial intelligence and robotics, from ChatGPT composing poetry and autonomous Waymo cabs traversing San Francisco to Boston Dynamics’ humanoid robot Atlas performing acrobatics.
+On a more sinister note, the war in Ukraine has previewed some of the lethal potential of unmanned vehicles.
+Such advances may conjure a notion that humanity is on the cusp of creating a robot that could compete with humans in real-time agility and intelligence. Yet that expectation is unrealistic, several AI and robotics experts have told The Epoch Times.
+While both AI and robots have advanced so spectacularly that they match or surpass an average human in many ways, they’re still sorely lacking in the versatility and adaptiveness that allow the human mind and body to function smoothly in our world.
+The core problem is that there are just too many “unknown unknowns,” according to Lionel Robert, a robotics professor at the University of Michigan.
+An AI that powers a robot or an autonomous vehicle owes its effectiveness to the data used to “train” it. If it hasn’t encountered a situation before, it won’t know how to handle it, Robert explained.
+An example could be a robot learning to open a door. With sufficient training data, the AI could learn to recognize doors of different shapes, sizes, and colors—with different frames and door handles, from different angles and under different lighting conditions—and how to execute the door opening maneuver from different approach angles.
+But what if the door were blocked by a box? The robot would have no concept of what a blocked door was. It might not even recognize it as a door anymore. It would need another large tranche of training data on recognizing a door blocked by a box—different doors, different boxes, different angles, and lighting conditions. Then, it would need to be programmed to perform maneuvers to remove boxes of various sizes and weights. Only then could it proceed with opening the door. But what if a dolly blocked the door? Or a chair? The complexity appears infinite.
+“We respond to unexpected situations that we’ve never encountered before by being innovative. But these systems, by definition, aren’t innovative; they need to have seen the same situation before and then respond similarly,” said Illah Nourbakhsh, professor of ethics and computational technologies at Carnegie Mellon University’s Robotics Institute.
+“It’s been pretty depressing waiting because I think people overpromised and really underdelivered,” said Ram Vasudevan, associate professor of mechanical engineering at the University of Michigan.
+“I don’t actually think that these systems are really close to being deployed in a really effective way.”
+The reason for this overpromise “has to do with complex systems theory,” according to Nourbakhsh.
+“When people make any complex machine and it achieves an accuracy of, let’s say, 90 percent ... they assume, ‘OK, it took me nine hours to do this, it’s probably only one or two more hours to get to a 100 percent,’” he said.
+“And the problem is, any machine that has sensors and actuators and connects to the complex world we’re in, every additional increment of reliability you need, getting from 90 percent to 95, to 99 percent, is exponentially harder.”
+The reliability of a self-driving car, in practice, has to be much higher than 99 percent. The AI has to make hundreds of decisions every day, and one day there are supposed to be millions, even hundreds of millions, of autonomous vehicles on the road.
+“There are situations that happen once in a million times, there are trillions of such situations that exist. You can’t test them all, but they still happen,” Nourbakhsh said.
+Vasudevan concurred.
+“That number is still so large that it is prohibitive from a risk perspective for us to actually deploy these vehicles in a fully autonomous fashion,” he said.
+Moreover, if a deficiency is discovered, it can be exceedingly difficult to fix.
+“You introduce a fix to get it from 95 to 96 and then what happens is you go down to 91 because the side effect of your fix is you just broke something else that was really fragile—it’s a house of cards,” Nourbakhsh said.
+Even worse, knowing that you’ve broken something can sometimes be impossible. “If it’s a one-in-a-billion thing, you can’t generate all those tests in the real world,” he said.
+There’s actually quite a bit of subtlety to driving, autonomous car developers have discovered.
+“Engineers thought this was a pretty easy problem because driving was pretty codified, right?” Robert said.
+“There are rules—there’s a red light, there’s a green light, turn left, turn right—that’s a pretty algorithmic problem on paper. Well, it turns out that driving is very much a social activity.”
+Especially in a city, drivers and pedestrians gesture and sometimes yell at each other to not only communicate what they’re going to do, but also how they feel. Their behavior and driving style gives cues to others on what they want to do. A driverless car lacks that ability, introducing uncertainty and confusion.
+“There’s just a lot of implicit and explicit communication and coordination that goes on that is just not easy to hardwire into an algorithm,” Robert said, noting that “this problem so far lacks a definitive solution.”
+“How do you teach a vehicle to be social? And even then, how do you teach it to be social in different contexts? The vehicle picks you up in Ann Arbor downtown then takes you to Detroit downtown—that’s a different context,” he said.
+Requiring the car to handle all such complexities also makes it less “green” because all the requisite computing power consumes a lot of energy, he noted.
+There are also some technical limitations. Autonomous cars scan their environment with “lidars”—sensors that use lasers to measure the distance of other objects. So far, lidars have trouble with inclement weather because they sometimes interpret raindrops or snowflakes as obstacles.
+The issue is not just whether it’s possible to deploy autonomous cars, but also whether it makes financial sense to do so, Vasudevan pointed out. So far, companies like Waymo need to have crews on standby to quickly come and fix issues and finish deliveries in cases where the self-driving cabs get stuck or run into other trouble. This human backup makes the system too expensive, he argued.
+Even if the current AI improves by an order of magnitude, failures would still be too frequent to put profitability within reach, he opined. “I don’t think there’s a straight-line path to that point in the next several years.”
+One obstacle is that people have particularly high safety expectations for self-driving cars, according to Jessy Grizzle, professor of robotics at the University of Michigan.
+“Even if the cars drive as safely as the humans, we’re still going to blame them much more for the accidents,” he said.
+Moreover, the blame for accidents likely wouldn’t fall on the car owner, as it usually does today, but on the AI manufacturer or operator, who would then face the liability.
+“People’s appetite for autonomous vehicles is hinged on the idea that they’re perfect, not on the idea that they’re as bad as humans,” Nourbakhsh said.
+Grizzle opined that autonomous vehicles “could become actionable and profitable” if they could operate in an environment that doesn’t require stringent safety standards and other regulations, such as those imposed by the Environmental Protection Agency (EPA).
+Early 20th-century carmakers, for example, owed much of their success to the regulation-free environment as well as ignorance regarding the harmful effects of their products, he argued.
+“If they had had to build the cars and meet EPA requirements because they actually understood health and they had to have the same reliability in terms of safety, they never would have gotten off the ground either,” he said.
+The most practical solution, the experts noted, would be to limit the complexity of the environment.
+“It’s easier to imagine an 18-wheeler driving 100 miles on an interstate from warehouse to warehouse, even 200 miles, as opposed to an autonomous cab driving five blocks in New York City. That’s a much harder thing to do,” Robert said.
+Autonomous vehicles can also work in geofenced environments, such as malls, resorts, or senior home campuses.
+Such a service, however, seems hardly any better than hopping on a bus.
+“People want point-to-point pickup,” Robert noted.
+One solution would be to design roadways, or even a whole city, with robotic cars in mind, giving them separate lanes, for example, isolated from pedestrians and other traffic.
+“They can remove a lot of the hazards by the design of the environment instead of putting all of the smarts into the car,” Grizzle said.
+Michigan, for instance, is introducing a separate interstate lane for self-driving cars. That dramatically simplifies the task “because autonomous vehicles can communicate with each other,” Robert said.
+Traffic lights can also be upgraded to communicate with self-driving cars to give them a heads-up about an upcoming red light.
+The current AI should be more than enough to handle such a scenario.
+“It’s not going to justify the complexity that we’re putting into the typical vehicle that Waymo is deploying,” Grizzle said.
+A step further would be to hook the cars into a centralized system.
+“Imagine a society where the driving isn’t done by the vehicle, it’s done by a higher-level, citywide routing system,” Robert said.
+“In that reality, there would be no red lights, no stop signs, the vehicles would never stop, they would coordinate as they pass each other in perfect harmony.”
+That could be achievable in 20 years, he said. But in this case, the obstacle isn’t so much technological as social, he opined, as it would require people to submit to such a scheme.
+Still, the development of a universal robot that could handle a wide range of real-world movement, tasks, and interactions remains even more problematic than autonomous cars—especially if the robot is humanoid.
+On the mechanical side, humanoid robots are already quite sophisticated, as demonstrated by the Boston Dynamics creations. They can walk on different surfaces and terrains and even regain their stability when tripped or pushed. They can also scan and “see” their environment with a level of detail approaching that of self-driving cars.
+But that’s still far cry from being ready for deployment in an uncontrolled environment, even one as limited as one’s home, according to the experts.
+The Boston Dynamics demonstrations, for example, still rely on a fixed environment and choreographed routine.
+“It’s as rigidly organized as if you were doing a gymnastics competition,” Grizzle said.
+Part of the problem is the lack of training data. The available robots are still quite expensive and are usually custom-made for research institutions. Even if the body of training data were shared, it would still be minuscule compared to that available for self-driving cars.
+“The ability to collect a sufficient amount of training data is one aspect,” said Maxim Likhachev, associate professor at Carnegie Mellon University’s Robotics Institute.
+“But on its own, it’s not enough. There are some questions on the algorithmic level. How do you have this learning ability combine with the underlying reasoning ability, the ability to think—not just learn, but to actually think?”
+The robot needs to have some level of deliberative reasoning that allows it to think situations through and understand why they are the way they are, so that it can then come up with a sequence of actions, he said.
+Just like in the example of a door blocked by a box, the robot needs to understand what a blocked door means and devise a set of steps to resolve the problem.
+There are some indications that an AI device is capable of some improvised reasoning and problem-solving. The ChatGPT language processor, for example, can produce a natural-sounding response to questions it hasn’t encountered before.
+It’s folly to think, however, that sticking a ChatGPT into a robot would allow it to solve problems in the physical world, the experts pointed out.
+For one thing, it’s still far from infallible.
+ChatGPT users have shown countless examples of the bot providing substandard, poorly sourced, misleading, or even false responses.
+“If you or I were going through it as a copy editor and really checking the sources of all of the claims that are being made, we would find lots of mistakes,” Grizzle said.
+“Now if those same mistakes are made in physical actions, it usually results in something getting broken.”
+Some mistakes in AI word and image processing tend to be interpreted as creativity—an amusing quirk. It’s unlikely, however, to be a desirable trait in robots that are meant to be useful in a practical sense, Vasudevan pointed out.
+“Creative license in robotics tends to be an unforgiving thing,” he said.
+Paradoxically, the more useful the robot is, in terms of strength and speed, the more catastrophic the errors it can make.
+“You build a really powerful robot, you build a really powerful accident generator,” Vasudevan said.
+The solution, again, would be to adjust the environment to the robots.
+Over the next five years, we may see robots deployed on factory floors that are capable of operating in a semi-controlled environment and can handle modest variations in otherwise repetitive tasks in a stable environment. Rather than the robots accommodating humans, it would be humans getting trained to safely and efficiently work with the robots, Grizzle predicted.
+“Having a robot that’s able to take multiple parts in hand and assemble them and pass them down to a human ... it’s going to happen, and it’s going to revolutionize society. It’s just not going to happen at the speed that everyone wants,” he said.
+Robert argued that rather than developing a universal humanoid robot, it’s more practical to develop non-humanoid robots that can perform only a limited range of tasks but do them better than humans.
+“I can’t imagine anything really cool that we could develop that could help us in our homes, in our factories ... that could not just be turned into a weapon,” Grizzle said.
+Militaries around the world have long been working to develop battle robots.
+“It’s actually probably easier to have robots on the battlefield,” Nourbakhsh said.
+Issues like a robot knocking something over or breaking something don’t seem to matter as much in an active war zone.
+Their advantages, on the other hand, easily stand out.
+A robot doesn’t need food and water, doesn’t tire as long as its batteries last, and can be programmed to never question orders and to not run for cover when shot at.
+The robot can simultaneously process not only what it’s looking at, but also information coming from other robots and drones. They can even perfectly synchronize and coordinate their fire.
+“It can be much more accurate, much more comprehensive,” Robert said, calling it a “force multiplier that can really change a war in ways that we didn’t anticipate.”
+While bipedal robots are still prone to tripping and falling, quadrupeds, such as Boston Dynamics’ Spot, can already handle a wide range of terrain and obstacles.
+The capability can be boosted further by making robots for specific circumstances.
+“If you know a robot’s going to be in a desert, then you design a robot to be in a desert,” Robert said.
+Batteries still don’t last very long, but the robots can be designed as perishable—to self-destruct after depleting their ammunition.
+“They’re being treated as expensive but expendable,” he said.
+The robots can even be programmed to identify enemy combatants—not just person-to-person through facial recognition, but even algorithmically by recognizing a pattern of behavior.
+If the task of identifying targets is transferred to an AI, “you can have a lurking drone that looks for the right digital signature and signals and then fires,” Nourbakhsh said.
+“That’s much easier than robots navigating New York City to make a delivery of a pizza.”
+So far, killer bots can still be outsmarted.
+“If you can figure out the algorithm, if you can figure out where the one weakness is, it isn’t going to adapt as quickly,” Robert said.
+Their efficiency, however, is expected to increase with each new model and software update.
+Such autonomous battle robots raise a slew of ethical and even geopolitical issues.
+From the perspective of the nation that’s deploying them, there are political advantages.
+“If you’re a politician, if U.S. soldiers are not dying, then there’s no cry to stop the war,” Robert noted.
+Without such political pressure, it’s possible governments will be willing to wage wars indefinitely—as long as military budgets allow.
+“You can imagine a scenario where basically people are very quick to go to war and are even more willing to stay in a war,” he said.
+So what happens when killer bots make mistakes?
+“If you put a robot in a village and it kills some innocent kids, are we going to say, ‘Well, it was a malfunction’?” Robert asked.
+Even if the robots are perfected to a point that they would be less likely than a human soldier to kill a civilian, it doesn’t mean civilian casualties would actually drop.
+“As we release more intelligent machinery in our world, we’ve generally caused more collateral damage because we tell ourselves that the smart bomb is more precise,“ Nourbakhsh said. ”But the fact that it’s more precise means at the system level we’re willing to use more of them. So even if each one kills fewer innocent people, we launch more so we end up killing more innocent people.”
+Also worth considering is that anything one country puts on the battlefield is almost certainly going to be copied by its adversaries.
+Civilian or military, it’s almost certain AI-powered robots will be misused, Nourbakhsh argued.
+“People will find ways to take that same technology and use it for their own personal purposes,” he said, predicting “robotic mugging” or “robotic threatening” as the crimes of the future.

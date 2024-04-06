@@ -1,0 +1,29 @@
+The best reads from around the web, including failed fuel predictions, an audacious computer hack and the language of bird song.
+Business
+ Marissa Mayer, what happened?
+Nicholas Carlson | New York Times | 17 December 2014
+ How Yahoo went from a company worth $128 billion to a company worth nothing at all. It was floundering before Marissa Mayer took charge, but she steered it right onto the rocks. She neglected the mature business, bought dozens of start-ups, hired and fired badly, alienated employees, combined hyperactivity with disorganisation – not because she had a strategy, but in the hope of finding one, which she didn’t.
+Internet
+ The internet of paternalistic things
+Sarah Wilson | Medium | 16 December 2014
+ In your smart home the toilet will know you are pregnant before you do – and the toilet will tell the fridge, which will tell everything else. “I could have really used that beer. But the fridge still wouldn’t let me take it. I opened up Taskr to see if could get an old fashioned birth control test delivered. That’s when I got the notification that my funding interview for my new project the following morning had been cancelled.”
+Video gaming
+ Achievement points, you can’t take them with you
+Simon Parkin | Matter | 15 December 2014
+ An essay on the convergence of video games and artificial intelligence. Video games will keep us occupied in the future while machines do the work – including designing the video games. “Given the right kind of incentive, a computer can get me to do pretty much anything. The right kind of incentive seems to be, desolately, nothing more than a clutch of virtual points.”
+Nature
+ Bird song related to human speech
+ Marissa Fessenden | Scientific American | 15 December 2014 
+ Huge genetic study shows most modern birds arose in a “big bang of avian diversification” immediately following the extinction of dinosaurs. The study also finds “surprising similarities” between the networks of genes enabling birds to sing and those enabling humans to speak. A challenge for Chomskians. “This is the first time a learned behaviour has been shown to have so much similar molecular underpinnings.”
+Memory
+ How you know
+Paul Graham | 15 December 2014
+ You can read a great book at different times in your life, and learn different things from it – not because the book has changed, but because you have changed, your mind has changed. And not only books: “As technologies for recording and playing back your life improve, it may become common for people to relive experiences without any goal in mind, simply to learn from them again as one might when rereading a book.”
+Cybersecurity
+ Operation socialist
+Ryan Gallagher | The Intercept | 12 December 2014
+ How Britain’s equivalent of the NSA, the Government Communications Headquarters, hacked into Belgium’s largest telephone company, Belgacom, by luring engineers to a fake LinkedIn page and serving them malware disguised as Microsoft files. From 2010 to 2013 the Brits had free access to Belgacom’s domestic and international traffic, the first known case of an EU member state launching a cyberattack on another.
+Natural resources
+ The conventional wisdom on oil is always wrong
+Ben Casselman | Five Thirty Eight | 18 December 2014
+ Don’t trust any forecast for oil and gas prices however closely reasoned and however persuasive it may be. There are thousands of known variables which influence the price, any number of unknown variables, and infinite complexity in their interactions. “That’s the thing about the conventional wisdom: It always makes sense at the time. It’s only later that we can see all the reasons it was wrong.”

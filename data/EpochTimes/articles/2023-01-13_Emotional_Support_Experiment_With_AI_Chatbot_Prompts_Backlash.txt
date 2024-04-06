@@ -1,0 +1,17 @@
+The co-founder of an online mental health support service is facing backlash for allegedly using an artificial intelligence (AI) chatbot to automate responses to users without their consent.
+Rob Morris, who started the Koko mental health forum when he was a graduate student at the Massachusetts Institute of Technology, posted about the experiment on Twitter before being accused of conducting an experiment on unwitting users in the comment thread.
+The reaction came after Morris posted a Twitter thread about an experiment in which he said Koko “provided mental health support to about 4,000 people—using GPT-3.”
+GPT-3, or Generative Pre-Trained Transformer 3, is an AI model that can mimic human communication through text, using an initial text sent by a human as a prompt.
+On Koko, people can anonymously share their mental health struggles and ask for peer support, and other users can reply with messages of encouragment or advice.
+The experiment involved using GPT-3 to draft replies in what Morris called the “co-pilot” approach, with humans supervising the AI’s responses to about 30,000 messages.
+He said messages composed by AI were rated higher than those written by humans, and response time went down 50 percent “to well under a minute.”
+The experiment was pulled from the platform “pretty quickly,” Morris said, because once users learned that the messages were co-written by an AI chatbot, “it didn’t work.”
+“Simulated empathy feels weird, empty,” he wrote in the thread. “Machines don’t have lived, human experience so when they say ‘that sounds hard’ or ‘I understand’, it sounds inauthentic.”
+In addition, Morris said people tend to appreciate knowing someone is making an effort and spending time in their day to help, a sacrifice that is, in itself, helpful to those in need. However, this mutual engagement isn’t shared with a chatbot that generates a message in seconds.
+“It’s sad that you had to run a dehumanizing experiment on a vulnerable population to come to this conclusion,” wrote one user in the replies to Morris’ thread.
+Another user wrote, “You performed research on human subjects without obtaining informed consent????”
+Informed consent is a general principle applied in research settings that requires the human subjects of an experiment to be informed of the experiment and given the option not to participate.
+Morris responded to the backlash by saying that there were “some large misperceptions about what we did.”
+“Whether this kind of work, outside of academia, should go through IRB processes is an important question and I shouldn’t have tried discussing it on Twitter,” Morris told Gizmodo. “This should be a broader discussion within the industry and one that we want to be a part of.”
+The technical inexhaustibility of AI seems at this point to be only limited by its absence of authentic emotions, according to Morris.
+“It’s also possible that genuine empathy is one thing we humans can prize as uniquely our own,” Morris said in his orignal Twitter thread. “Maybe it’s the one thing we can do that AI can’t ever replace.”

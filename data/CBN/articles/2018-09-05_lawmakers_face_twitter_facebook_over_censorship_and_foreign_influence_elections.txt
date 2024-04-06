@@ -1,0 +1,24 @@
+Shares of Facebook and Twitter fell on Wednesday as their top executives testified before the U.S. Congress, defending the companies against what lawmakers see as a failure to combat continuing foreign efforts to influence U.S. politics.
+Facebook (FB.O) fell 1.6 percent and Twitter (TWTR.N) 5.2 percent. 
+Shares of other tech companies, including Alphabet (GOOGL.O) and Snap (SNAP.N), were also down.
+The social media executives underwent questioning before the Senate Intelligence Committee Wednesday.
+Senators are outraged over online censorship, privacy invasion, secret data mining, fake news, hate speech, and disinformation warfare campaigns by foreign nations.
+Google's top executive, however, was a no-show, and lawmakers weren't happy about it.
+Committee chairman Sen. Richard Burr, a Republican from North Carolina, and vice chairman Mark Warner, a Democrat from Virginia, both expressed their "disappointment" that Google declined to send what they called an appropriately senior level official.
+"Given its size and influence, I would have thought the leadership at Google would want to demonstrate how seriously it takes these challenges and to lead this important public discussion," Warner said in prepared remarks.
+He added, "I know our members have a series of difficult questions about structural vulnerabilities on a number of Google's platforms we need answers for."
+Throughout the hearing, Facebook's number two executive, Sheryl Sandberg and Twitter's CEO, Jack Dorsey defended their platforms and the steps they have taken to fight foreign influence but acknowledged past and present shortcomings.
+Sandberg said that Facebook was "too slow to spot" Russia's purported influence operation and "too slow to act."
+Dorsey said, "We acknowledge the real world, negative consequences of what happened and we take the full responsibility to fix. We can't do this alone. That's why this conversation is important and why I'm here."
+Both testified that policy changes have caught and banned millions of malicious accounts over the past year. 
+Facebook came under fire for being at the forefront of Russia's interference in the 2016 election. 
+During that campaign, actors set up fake accounts, organized protests and spread memes as part of an effort to disrupt the election.
+Sandburg said artificial intelligence and machine-on-machine technology is making it easier.
+Sandburg said, "In the first 3 months of 2018 alone, over 85 percent of the violent content we took down or added warning labels to was identified by our technology before it was reported."
+Both said they're now working closely with the FBI's new election interference task force.
+They also emphasized their business models remain, that means attracting as many users as possible, for as long as possible and finding out as much about users.
+The other social media issue of the day focused on potential political bias and censorship across various platforms. 
+Twitter's CEO also appeared before the House Energy & Commerce Committee because his company has faced accusations of bias against Conservatives and Republicans.
+While Twitter has denied those claims, Dorsey had to admit mistakes while explaining the algorithms Twitter uses for its content.
+Dorsey said, "Our algorithms were unfairly filtering over 600,000 accounts, including some members of Congress from our search auto-complete and latest results. We fixed it."
+He did add, "We believe it's dangerous to ask Twitter to regulate opinions or be the arbiter of truth," Dorsey said. "We'd rather be judged by the impartiality of outcomes and criticized when we fail this principle."

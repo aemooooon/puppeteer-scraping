@@ -1,0 +1,19 @@
+The chancellor has announced an annual £1m prize for the most ground-breaking research into artificial intelligence.
+It will be called the Manchester Prize in honour of Baby, the world's first stored-program computer, built at the University of Manchester in 1948.
+Jeremy Hunt said he wanted the "best AI research to happen in the UK".
+His Budget also announced about £900m to set up a AI research resource and develop an "exascale" supercomputer, with initial investments this year.
+Capable of at least a quintillion operations per second, exascale computers can be used for forecasting weather or modelling climate change, as well as AI.
+The chancellor also announced a £2.5bn 10-year research and innovation programme for quantum computers.
+Entrepreneur network Tech Nation said called his Budget "a positive indication of the UK government's commitment to becoming a science and technology superpower".
+Industry body TechUK said he had "put the UK back on the pitch when it comes to the global competition for science and technology", despite "notable omissions and frustrations, such as the lack of a UK semiconductor strategy and the only partial reversal of cuts to the R and D [research and development] tax credit".
+British chip businesses have sought more government help, as the US and China increase support for their semiconductor industries. 
+And in a move widely seen as a setback to UK ambitions, chip-design company Arm - whose work is inside many of the world's most popular gadgets - recently chose not to pursue a listing on the London Stock Exchange.
+Labour shadow culture secretary Lucy Powell said: "The Budget contains no plan to secure sovereign capacity in semiconductor design and manufacture, no plan to regulate digital markets to unleash competition, innovation and consumer choice, and no plan to support more businesses, and particularly SMEs [small and medium-sized enterprises], to take advantage of new technologies."
+AIs are trained on large datasets of images and text, sometimes "scraped" from the internet without permission.
+But artists and others who allege their intellectual-property rights have been violated have challenged this legally.
+In the Budget, the chancellor said: "We'll work at pace with the Intellectual Property Office to provide clarity on IP rules so that generative AI companies can access the material they need."
+And some rights holders fear this means the government will revisit a stalled plan to provide an exemption to copyright rules to let AI companies scrape content.
+Rachel Coldicutt, who follows the social impact of technology, tweeted: "The net effect of this may well be to give with one hand in the short term and take away with the other - with the potential of prioritising an as-yet-unproven prospect (generative AI) over an established high-performing industry (creative industries)".
+Good Things Foundation chief executive Helen Milner welcomed the chancellor's announcement of £100m funding for charities and community organisations but said: "This is a Budget which recognises the importance of digital technology but falls woefully short of the mark on digital inclusion.
+"We need a new digital-inclusion strategy for the UK led by the government. 
+"We need immediate action and investment to co-fund digital inclusion and skills. 

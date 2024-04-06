@@ -1,0 +1,33 @@
+Billions are being lost to cyber-crime each year, and the problem seems to be getting worse. So could we ever create unhackable computers beyond the reach of criminals and spies? Israeli researchers are coming up with some interesting solutions.
+The key to stopping the hackers, explains Neatsun Ziv, vice president of cyber-security products at Tel Aviv-based Check Point Security Technologies, is to make hacking unprofitable.
+"We're currently tracking 150 hacking groups a week, and they're making $100,000 a week each," he tells the BBC.
+"If we raise the bar, they lose money. They don't want to lose money."
+This means making it difficult enough for hackers to break in that they choose easier targets. 
+And this has been the main principle governing the cyber-security industry ever since it was invented - surrounding businesses with enough armour plating to make it too time-consuming for hackers to drill through. The rhinoceros approach, you might call it. 
+But some think the industry needs to be less rhinoceros and more chameleon, camouflaging itself against attack. 
+"We need to bring prevention back into the game," says Yuval Danieli, vice president of customer services at Israeli cyber-security firm Morphisec.
+"Most of the world is busy with detection and remediation - threat hunting - instead of preventing the cyber-attack before it occurs." 
+Morphisec - born out of research done at Ben-Gurion University - has developed what it calls "moving target security". It's a way of scrambling the names, locations and references of each file and software application in a computer's memory to make it harder for malware to get its teeth stuck in to your system. 
+The mutation occurs each time the computer is turned on so the system is never configured the same way twice. The firm's tech is used to protect the London Stock Exchange and Japanese industrial robotics firm Yaskawa, as well as bank and hotel chains.
+But the most effective way to secure a computer is to isolate it from local networks and the internet completely - so-called air gapping. You would need to gain physical access to the computer to steal data.
+Yuval Elovici, head of the cyber-security research centre at Ben-Gurion University, warns that even this method isn't 100% reliable. 
+"The obvious way to attack an air-gapped machine is to compromise it during the supply chain when it is being built," he says. 
+"So you then have a compromised air-gapped computer in a nuclear power station that came with the malware - the attacker never has to enter the premises."
+Indeed, in October last year, Bloomberg Businessweek alleged that Chinese spies had managed to insert chips on servers made in China that could be activated once the machines were plugged in overseas. The servers were manufactured for US firm Super Micro Computer Inc.
+The story suggested that Amazon Web Services (AWS) and Apple were among 30 companies, as well as government agencies and departments, that had used the suspect servers.
+Apple and Amazon strenuously denied the claims.
+More Technology of Business
+While air gapping is impractical for many businesses, so-called "co-operative cyber-security" is being seen as another way to thwart the hackers.
+Imagine there are four firms working together: Barclays, Microsoft, Google and a cyber-security company, say.
+Each of the four firms gives a piece of data to each other. They don't know what the data is that they are protecting, but they hold it in their networks. 
+In order to access sensitive information from any of the firms, attackers would need to hack all four networks and work out which piece of data is missing, to be able to make any sense of the files stolen.
+"If the likelihood of breaking into a single network is 1%, then to penetrate four different networks, the likelihood would become 0.000001%," explains Alon Cohen, founder of cyber-security firm nsKnox and former chief technology officer for the Israeli military.
+He calls the concept "crypto-splitting", and it involves encoding each sequence of data as thousands of numbers then dividing these cryptographic puzzles between the four companies. 
+"You would need to solve thousands of puzzles in order to put the data back together," says Mr Cohen. 
+Check Point also collaborates with large multinational technology firms in a data-sharing alliance in the belief that co-operation is key to staying one step ahead of the hackers.
+But while such approaches show promise, Check Point's Neatsun Ziv concludes that: "There is no such thing as an unhackable computer, the only thing that exists is the gap between what you build and what people know how to hack today."
+There is always a trade-off between usability and security. The more secure and hack-proof a computer is, the less practical it is in a networked world.
+"Yes, we can build an unhackable computer …but it would be like a tank with so many shields that it wouldn't move anywhere," says Morphisec's Mr Danieli.
+The concern for the cyber-security industry is that as the nascent "internet of things" develops, powered by 5G mobile connectivity, the risk of cyber-attack will only increase. 
+And as artificial intelligence becomes more widespread, it will become just another tool hackers can exploit.
+The arms race continues.

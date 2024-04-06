@@ -1,0 +1,48 @@
+As the line between fact and fiction gets harder to distinguish, online criminals need just two hours to create a realistic, computer-generated “deepfake” product that can ruin someone’s life.
+The surge in popularity of hyper-realistic photos, audio, and videos developed with artificial intelligence (AI)—commonly known as deepfakes—has become an internet sensation.
+It’s also giving cyber villains an edge in the crime world.
+Though it’s not just an American problem.
+In the same analysis, deepfakes used for scam purposes exploded in Canada, Germany, and the United Kingdom. In the study, the United States accounted for 4.3 percent of global deepfake fraud cases.
+Meanwhile, AI experts and cybercrime investigators say we’re just at the tip of the iceberg. The rabbit hole of deepfake fraud potential just keeps going.
+“I believe the No. 1 incentive for cyber criminals to commit cybercrime is law enforcement and their inability to keep up,” Michael Roberts told The Epoch Times.
+He also started PICDO, a cyber crime disruption organization, and has run counter-hacking education for branches of the U.S. and Australian militaries as well as NATO.
+Mr. Roberts said legal systems in the Western world are “hopelessly overwhelmed” by online fraud cases, many of which include deepfake attacks. Moreover, the cases that get investigated without hiring a private firm are cherry-picked.
+“And even then, it [the case] doesn’t get resolved,” he said.
+You may be convinced it’s the voice of your beloved on the other end, but there’s a chance it’s not.
+Deepfake audio or “voice cloning” scams have spread like wildfire across the United States this year, blindsiding compassionate, unprepared individuals in multiple states.
+But it doesn’t stop there. Deepfake attacks can arrive in many forms. These clever scams can also pop up as video chats with someone you know.
+They can appear as the social media post of a long-time colleague, discussing how a cryptocurrency investment allowed them to purchase the beautiful new home they’re excitedly pointing at in a photo.
+Deepfakes are also used for blackmail. It usually involves the creation of a passable video or photo of the victim in a lewd or compromising situation.
+Then attackers demand a ransom, lest they distribute the fake to the victim’s coworkers, boss, family, and friends.
+Every single one of those examples is already happening.
+But to create these realistic fakes, criminals need access to material like photos, audio, and video. Unfortunately, these things aren’t hard to get.
+“If someone gets into your private photos, in your iCloud, that gives all the sampling, all the technology … to make hyper-realistic fakes,” Mr. Roberts said.
+Social media profiles are a treasure trove for criminals looking to create these products.
+Recovering lost assets and the victim’s reputation can be grim. Roberts noted litigation against cyber crimes is an uphill battle. “It’s long, it’s arduous, it’s drawn out, and it’s emotionally and financially taxing.”
+Other AI industry insiders say it’s not just the quality of fakes that are a problem but also the quantity.
+“Sooner or later, people will be able to generate any combination of pixels of any type of content. And it’s up to you to filter it,” Alan Ikoev told The Epoch Times.
+As a pioneer of authorized AI-generated content involving celebrities, he’s all too familiar with the work of his nefarious counterparts.
+But to counter these increasingly sophisticated scams, people need to be suspicious of everything they see online. “If they don’t question, then they’re easily convinced,” Ikoev said.
+But it’s not all bad news. Mr. Roberts maintains criminals haven’t caught up with how fast technology is moving forward, which is currently outpacing the “bad actors.”
+AI has given cybercriminals better tools, but it can also be used against them.
+Mr. Sherbina said businesses can protect themselves by doubling down on tech. Essentially fighting digital fire with fire.
+“Implement advanced AI-based authentication systems, including voice and facial recognition with multi-factor authentication. Continuous monitoring and analysis of communication patterns using AI algorithms can also help detect and prevent fraudulent activities,” he said.
+But for individuals, disrupting or preventing a deepfake scam is simpler.
+In the event of a suspected voice clone attack, Mr. Roberts said, “The first thing you do is say, ‘honey, I’m going to call you right back.'”
+He noted that scammers will invent an excuse why you can’t call back to verify their identity. Another trick to derail criminals using cloned audio to fake a kidnapping is to ask the caller questions that aren’t in the public domain.
+“Have this conversation with your family before it actually happens so they understand what you’re doing,” Mr. Roberts added.
+He stressed the importance of not using individual email addresses with full names or numbers relevant to the user’s date of birth.
+Further, a person should never reuse a login password. Mr. Roberts noted the first thing hackers do when they snag a password is try logging into every possible site to see where else it works.
+This includes bank accounts, cloud storage, social media, and more.
+But while deepfakes have raised the bar high for online scammers, the methods of tracking them down haven’t changed.
+“The process doesn’t change. AI is just the content … but the breadcrumbs the criminals left, they’re always the same,” Mr. Ikoev said.
+Tracking scammers may be well established, but a clear path for victims to recover lost money is not.
+Financial scams from deepfakes can range from $243,000 to $35 million, according to one analysis.
+Perhaps more troubling is that anyone can create them. Mr. Ikoev explained all someone needs to create a deepfake on their smartphone is a graphics card and to watch a few web tutorials.
+Mr. Roberts said Americans should expect an election race chock full of swindlers wielding an arsenal of deepfakes.
+Yet Pandora’s box is already open.
+Earlier this year, videos emerged of U.S. politicians making strikingly out-of-character remarks.
+One involved Hillary Clinton endorsing Republican presidential candidate hopeful, Ron DeSantis.
+Another depicted President Joe Biden hurtling angry remarks at a transgender person.
+According to Mr. Roberts, this is just the beginning.
+“It’s going to be used in a lot of political interference,” he said, adding this technology will make the next COVID-level event much worse for the public.

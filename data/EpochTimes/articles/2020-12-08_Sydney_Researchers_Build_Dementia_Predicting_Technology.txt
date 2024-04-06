@@ -1,0 +1,9 @@
+Researchers at the University of New South Wales believe they are one step closer to a tool capable of detecting the onset of incurable neurodegenerative diseases with great accuracy.
+Results from a joint study by the University of NSW’s Centre for Healthy Brain Ageing (CHeBA) and the School of Computer Science and Engineering show that artificial intelligence models are able to predict a variety of dementias and Alzheimer’s disease.
+Spooner noted that predicting the time until a person develops dementia is a critical tool in helping to understand the risks of dementia.
+Spooner also noted that machine learning models can consider more data and a wider range of information to more accurately determine someone’s risk of developing the diseases.
+“Machine learning can give more accurate results than traditional statistical methods when modelling high-dimensional, heterogeneous, clinical data,” Spooner said.
+Previous analysis in this field used models that were for smaller data sets and did not perform well dealing with information that contained more variables than observations or inputs, commonly known as high dimensional data.
+However, Spooner’s study compared the performance and stability of ten machine learning algorithms, combined with eight feature selection methods which are used for reducing variable in modelling. This made it possible for the learning machines to performing predictions of this specific type of clinical data.
+There are no cures for Alzheimer diseases so research to better understand, predict and treat dementia is vital, Dementia Australia CEO Maree McCabe said.
+“People with a lived experience of dementia tell us accessing support services early improves their understanding of dementia, their relationships and planning for the future,” MacCabe said to The Epoch Times.

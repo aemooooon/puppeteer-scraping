@@ -1,0 +1,8 @@
+SANTA CLARA, Calif.—Taiwan Semiconductor Manufacturing Co. executives said on Thursday the world’s biggest chipmaker will have the next version of ASML Holding NV’s most advanced chipmaking tool in 2024.
+The tool called “high-NA EUV” produces beams of focused light that create the microscopic circuitry on computer chips used in phones, laptops, cars, and artificial intelligence devices such as smart speakers. EUV stands for extreme ultraviolet, the wavelength of light used by ASML’s most advanced machines.
+“TSMC will bring in high-NA EUV scanners in 2024 to develop the associated infrastructure and patterning solution needed for customers to fuel innovation,” said Y.J. Mii, senior vice president of research & development, during TSMC’s technology symposium in Silicon Valley.
+Mii did not say when the device, the second generation of extreme ultraviolet lithography tools for making smaller and faster chips, would be used for mass production. TSMC rival Intel Corp. has said it will use the machines in production by 2025 and that it would be the first to receive the machine.
+As Intel enters the business of making chips that other companies design, it will be competing with TSMC for those customers.
+Kevin Zhang, TSMC senior vice president of business development, clarified that TSMC would not be ready for production with the new high-NA EUV tool in 2024 but that it would be used mostly for research with partners.
+“The importance of TSMC having it in 2024 means they get to the most advanced technology faster,” said TechInsights’ chip economist Dan Hutcheson, who was at the symposium.
+“High-NA EUV is the next major innovation in the technology that will put the chip technology at the lead,” Hutcheson said.

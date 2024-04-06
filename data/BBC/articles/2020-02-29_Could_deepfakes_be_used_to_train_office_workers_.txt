@@ -1,0 +1,41 @@
+A consultancy that makes business training videos is advertising for a "deepfake expert" to create a new generation of presenters.
+Until now, the vast majority of deepfake videos have been pornographic, using artificial intelligence (AI) to manipulate existing footage so the actors take on the facial features of particular celebrities without their knowledge, although they are increasingly utilising much more sophisticated full-body synthesis.
+The technology is also being used to make politicians appear to be saying things that could persuade people not to vote for them.
+But the consultancy, Preswerx, sees it playing a much more mundane role - in the workplace.
+"It hasn't really been used in a business setting yet," boss Joshua Harden says.
+"Having me sitting for 80 hours in front a camera to record 1,000 videos is not a great use of my time." 
+Deepfake presenters may be the answer - but the response to Preswerx's advert, placed on business social network LinkedIn last month, has so far been disappointing.
+"We had two applicants who had experience of video editing but no deepfake expertise and when we asked them to provide this, neither replied," Mr Harden says.
+"It is very hard to find these people. 
+"People are either doing not so good things with it on the internet or they are using it in research projects at universities."
+But Mr Harden retains his vision of a new generation of deepfake presenters so deceptive they could pass for real.
+"We would totally disclose it," he says, "but as the punchline."
+"Our videos are generally well received - it's how we built our business. 
+"If we were to do the same thing and at the end say it was computer-rendered, it would blow people away."
+Deepfakes are not traditionally associated with a good career choice. 
+When Supasorn Suwajanakorn, along with some colleagues from the University of Washington, created a deepfake President Barack Obama, back in 2017, he faced a substantial backlash. 
+And his suggestion the technology could be used to bring historical figures back to life to teach children attracted far less attention than its potential to create mischief, mayhem and misinformation. 
+Facebook boss Mark Zuckerberg said deepfake politicians posed a "significant challenge" to the industry.
+And this year Facebook announced it would remove deepfake video from its platform.
+Twitter, meanwhile, had banned pornograhic deepfakes in 2018.
+But the threat the technology poses to the business world could be equally worrying.
+Fraudsters have long used emails purporting to come from a chief executive to trick employees into sending money or tax information. 
+How much more convincing would it be if there was audio or even video of the chief executive apparently speaking directly to an employee?
+"AI-generated audio could be a real problem if firms don't have steps in place to mitigate it," says Chris Boyd, an intelligence analyst at security company Malwarebytes.
+"There was a case of CEO fraud using simulated audio but the victim realised after the second or third call that it was a fake."
+Writing in Forbes, technology author Wayne Rash pointed out rogue employees could misuse the technology too.
+"Unfortunately, there's not much anyone can do right now to prevent someone, perhaps a disgruntled former employee, from creating a fake video and then releasing it on the internet," he wrote.
+"For example, such a video could have your company CEO announcing a major financial loss, or perhaps a termination of a line of business. 
+"Such an announcement could have a significant effect on stock prices."
+Deepfake people are already populating company websites.
+AI start-ups are selling images of computer-generated faces, offering companies the chance to "increase diversity" in their marketing, without the need for human beings.
+Icons8, which sells stock photographs, has the capacity to create up to a million "diverse models on-demand" each day and allows customers to download up to 10,000  for $100 (£76) a month.
+Boss Ivan Braun says it has already supplied deepfake faces to university researchers, jeans advertisers, gaming companies and a dating site. 
+To feed its AI algorithm, the company took tens of thousands of photographs of 70 real faces around the world in a controlled environment with similar light and angles. 
+For every real face, at least 10 deepfake ones can be created and filtered according to age, ethnicity, hair length and emotion, Mr Braun says.
+Although, the AI is far from infallible.
+"We've had many bad results from creepily straight faces to a piece of meat sticking out of someone's ear," Mr Braun tells BBC News.
+And he is aware the technology needs ethical oversight.
+"The tech is here and we will see many good and bad uses of it, so producers need to be responsible about how we use it," he says. 
+The ease with which deepfake people can be created is also worrying professor in the ethics of AI at Oxford University's Internet Institute Sandra Wachter.
+"It's putting us in a constant state of doubt for all we see and hear - and detection is always going to be a catch-up game," she tells BBC News. 

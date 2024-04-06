@@ -1,0 +1,14 @@
+Artificial intelligence-generated deepfake news anchors are being used by Chinese state-aligned actors to promote pro-China propaganda videos on social media, according to a report published on Feb. 7.
+Graphika found that the fake news anchors were created for a likely fictitious news outlet called “Wolf News,” which it claims utilized technology provided by London-based AI video company Synthesia.
+According to Graphika, the videos were discovered while the company was tracking a network of pro-China disinformation operations that it dubbed “Spamouflage.”
+“This set of two unique videos shared many of the same characteristics as traditional Spamouflage content: they ranged between one-and-a-half and three minutes in length, used a compilation of stock images and news footage from online sources, and were accompanied by robotic English-language voiceovers promoting the interests of the Chinese Communist Party,” Graphika wrote in its analysis.
+China hasn’t commented on the report.
+“As a company pioneering this new kind of media,” Synthesia says it’s aware of the responsibility it has and that AI and similarly powerful technologies “cannot be built with ethics as an afterthought.”
+“We will not offer our software for public use. All content will go through an explicit internal screening process before being released to our trusted clients,” the website states.
+It also states that “political, sexual, personal, criminal and discriminatory content is not tolerated or approved.”
+“It’s very difficult to ascertain that this is misinformation,” Riparbelli said after being shown one of the Wolf News videos, according to the publication. The CEO also urged policymakers to set clearer rules about how the AI tools could be used.
+Riparbelli told The Epoch Times in an emailed statement: “We have strict guidelines for which type of content we allow to be created on our platform and we deeply condemn any misuse.
+“The recent videos that emerged are in breach of our ToS [terms of service] and we have identified and banned the user in question.”
+Riparbelli added that the company only creates AI avatars with “explicit consent” and is working with the leading industry bodies to prevent misuse.
+“No system will ever be perfect, but to avoid similar situations arising in future we will continue our work towards improving systems,” he said.
+Under the regulations, deep synthesis providers must, among other things, establish and maintain systems for user registration and verification of user identity and provide reviews and ethical evaluations of the deepfake services and the algorithms used by the system.

@@ -1,0 +1,6 @@
+Telecom giant AT&T pioneered a data collection program that gathered hundreds of billions of Internet records for the National Security Agency.
+The Fairview Program started in 2003, according to a report from The New York Times.
+The NSA said the the program was like having a "live presence on the global net" for collecting data. It sent more than 1 million emails a day to NSA headquarters.
+The story also claims that AT&T began providing 1.1 billion cell phone records a day to the spy agency in 2011.
+Intelligence officials have long claimed that most data collection dealt only with landline phones.
+Details of the partnership between AT&T and the government came from documents leaked by former NSA analyst Edward Snowden. It's well known that U.S. telecom companies work with the intelligence community.

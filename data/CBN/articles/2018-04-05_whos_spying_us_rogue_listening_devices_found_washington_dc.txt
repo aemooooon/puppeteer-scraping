@@ -1,0 +1,17 @@
+For the first time, the US government has publicly acknowledged the existence in Washington, DC of what appear to be rogue devices that foreign spies and criminals could be using to track individual cellphones and intercept calls and messages.
+The use of such devices, known as cellphone-site simulators, by foreign powers has long been a concern. However, American intelligence and law enforcement agencies — which use such eavesdropping equipment themselves — have been silent on the matter until now.
+The issue came to light after the Department of Homeland Security responded to a recent inquiry from Sen. Ron Wyden (D-OR).
+The DHS's top cybersecurity official, Christopher Krebs, confirmed in a letter to the senator that the agency has detected activity consistent with these devices.
+DHS "has observed anomalous activity in the National Capital region (NCR) that appears to be consistent with international mobile subscriber identity (IMSI) catchers," Krebs said in the letter, obtained by CBN News.
+The memo goes on to say Homeland Security has not been able to pinpoint who is behind the devices.
+Congressman Don Bacon (R-NE) said, "It is a concern. As a guy who used to serve in the intelligence community and the armed services, I always knew my cellphone could be monitored, perhaps even by my own government for security reasons, but also by intelligence organizations – primarily Russia, China, a variety of other countries out there."
+Rep. Bacon sits on the House Homeland Security Committee.
+He says with thousands of members of the military, the NSA, the CIA, the FBI and the rest of the national security community living and working in the Washington area, finding these units in DC is threat to US national and economic security.
+"Most people know not to talk about secrets on their cellphone, but a lot of times you still give away secrets through a roundabout way," said Rep. Bacon. "You talk about your schedule, meetings that you are having. Intelligence agencies can piece together little bits from what you say and put together a bigger intelligence picture."
+    
+The device, which could easily be hidden in a van, works by essentially acting as a fake cellphone tower. As cellphones connect to them, the device opens the door for others to snoop on conversations.
+The Federal Communications Commission, which regulates the nation's airwaves, formed a task force on the subject four years ago. But it never produced a report and no longer meets regularly.
+So what can be done?
+Shutting down rogue stingrays is an expensive proposition that would require wireless network upgrades.
+DHS officials say it would need more funding and resources to develop the ability to detect the use of these devices in a particular area.
+By the way, every embassy worth its salt has one of these listening devices installed on it's roof.

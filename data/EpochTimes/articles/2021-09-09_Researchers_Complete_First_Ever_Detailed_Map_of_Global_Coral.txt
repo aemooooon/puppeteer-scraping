@@ -1,0 +1,17 @@
+HONOLULU—Researchers have completed a comprehensive online map of the world’s coral reefs by using more than 2 million satellite images from across the globe.
+The Allen Coral Atlas, named after late Microsoft co-founder Paul Allen, will act as a reference for reef conservation, marine planning, and coral science as researchers try to save these fragile ecosystems that are being lost to climate change.
+The group announced the completion of the atlas Wednesday and said it is the first global, high-resolution map of its kind. It gives users the ability to see detailed information about local reefs, including different types of submarine structures like sand, rocks, seagrass, and, of course, coral.
+The maps, which include areas up to 50 feet (15 meters) deep, are being used to inform policy decisions about marine protected areas, spatial planning for infrastructures such as docks and seawalls, and upcoming coral restoration projects.
+“Our biggest contribution in this achievement is that we have a uniform mapping of the entire coral reef biome,” said Greg Asner, managing director of the Atlas and director of Arizona State University’s Center for Global Discovery and Conservation.
+Asner said they relied on a network of hundreds of field contributors who gave them local information about reefs so that they could program their satellites and software to focus on the right areas.
+“And that lets us bring the playing field up to a level where decisions can be made at a bigger scale because so far decisions have been super localized,“ Asner said. ”If you don’t know what you’ve got more uniformly, how would the U.N. ever play a real role? How would a government that has an archipelago with 500 islands make a uniform decision?”
+The atlas also includes a coral bleaching monitor to check for corals that are stressed due to global warming and other factors.
+Asner said about three-quarters of the world’s reefs had not previously been mapped in this kind of in-depth way, and many not at all.
+The project began in 2017 when Allen’s company, Vulcan Inc., was working with Ruth Gates, a Hawaii researcher whose idea of creating “super coral” for reef restoration was funded by the philanthropic foundation.
+Gates and Vulcan brought in Asner because of his work with the Global Airborne Observatory that had been mapping reefs in Hawaii at the time.
+Allen, who said he wanted to help save the world’s coral reefs, liked the idea of using technology to visualize data, so Gates connected the group with a satellite company called Planet, and Allen funded the project for about $9 million.
+The University of Queensland in Australia used artificial intelligence technology and local reference data to generate the layers on the atlas. Anyone can view the maps for free online.
+Both Allen and Gates passed away in 2018, leaving Asner and others to carry on their work.
+“Ruth would be so pleased, wouldn’t she?” Asner said. “She would just be tickled that this is really happening.”
+He said about a third of the calls he is getting are from researchers who hope to use the maps to “be sure that their planning and their reef restoration work is going to have its max efficacy.”
+When Gates found out she was sick, she selected friend and colleague Helen Fox from the National Geographic Society to help communicate with conservation groups about how to use the tool.

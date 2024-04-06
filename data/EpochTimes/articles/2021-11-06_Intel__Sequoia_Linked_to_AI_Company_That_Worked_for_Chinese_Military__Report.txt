@@ -1,0 +1,29 @@
+4Paradigm has also been working with Western partners on research projects that could be leveraged for its AI work for the military.
+4Paradigm also boasts a handful of U.S. investors, including angel investor, Sequoia Capital, which is its largest outside shareholder, according to the report.
+“Intel Labs collaborates on research related to our industry with partners all over the world,” a communications officer for Intel said in an email.
+“Our researchers participated on an academic research paper on in-memory database engine optimization along with researchers from 4Paradigm and the National University of Singapore. This paper was published and publicly presented in August of 2021 at the VLDB [Very Large Database] conference.”
+Intel didn’t comment on whether it had knowledge of 4Paradigm’s contract with the PLA.
+A representative for Sequoia Capital said that its investments in 4Paradigm were made by the Sequoia China branch, which declined to comment on the extent of its current holdings in 4Paradigm or whether it had knowledge of the PLA contract.
+Other U.S. companies, including Cisco, Genesis Capital, and Goldman Sachs, also invested in 4Paradigm during later funding rounds.
+This isn’t the first time that Intel and Sequoia have drawn attention for their ethically ambiguous conduct in China.
+Experts believe that the flow of wealth and other resources from major U.S.-based companies to Chinese tech startups is contributing to steady military advancements by the PLA, as well as aiding Beijing’s human rights abuses.
+“These are almost extranational entities that have huge wealth to deploy on what they think is the good bet for the future,” said John Mills, former director of cybersecurity policy, strategy, and international affairs at the Pentagon. “We have to disrupt this insidious interaction. We cannot allow these groups to deploy capital to fund Chinese AI development.”
+Though Silicon Valley often downplays its involvement in the rapid advancement of China’s military technology, U.S. government agencies have sounded the alarm that such ties are undermining national security.
+The CSET report highlighted that the PLA didn’t derive most of its AI capabilities from official defense entities, but from private Chinese corporations.
+“Contrary to conventional wisdom about bloating in the Chinese defense industry, we find that the PLA has made significant progress engaging the private Chinese technology sector to acquire AI systems and intelligent equipment,” the report reads.
+To that end, most of the PLA’s AI equipment suppliers aren’t state-owned defense enterprises at all, but private tech companies founded after 2010. Some of these companies manufacture or research in mainland China, but others exist for the sole purpose of sourcing and importing critical technologies from the United States, according to the report.
+This is because China’s national security and intelligence laws grant the CCP at-will authority to demand access to any intellectual property or data owned by Chinese companies or companies doing business in China.
+Such laws grant the CCP and PLA potential access to any and all technology developed in China, including by U.S. companies such as Intel.
+Despite this, Silicon Valley startups and multinational investment firms have continued to rush money into Chinese companies developing critical and emerging technologies over the past several decades.
+The NCSC said some U.S. companies simply didn’t understand the risks posed by China’s national security laws, while others were fully aware that the technologies they were developing in China might be leveraged by the CCP and PLA.
+Most major U.S. companies, such as Intel, Microsoft, and Google, appear to fall into the latter category.
+There are currently few mechanisms in U.S. law capable of effectively preventing U.S. companies from freely investing in and researching AI with companies known to have ties to the CCP and PLA.
+There’s one problem with the entity list, however: The vast majority of AI equipment suppliers to the PLA aren’t on it. Roughly 91 percent of AI equipment suppliers to the PLA weren’t on the entity list, according to the new CSET report.
+One reason for this is the inability of the entity list to effectively respond to the threat posed by small companies that can easily resume normal business by restructuring under a new name. This means that companies that are formed to extract U.S. technologies for the PLA can simply dissolve, reform, and continue business as usual.
+“They are using the tradecraft we brilliantly used in the ‘50s, ’60s, and ‘70s of ’front companies’ to evade the entity list,” Mills said. “And AI is their No. 1 priority.
+“They are creating shell company after shell company after shell company, and the entity list cannot respond fast enough.”
+Mills suggested that the United States create a new mechanism, similar in function to the Committee on Foreign Investment in the United States (CFIUS).
+Whereas CFIUS reviews foreign investments into the United States based on national security interests, this proposed mechanism would screen U.S. investments in foreign companies for security risks.
+“We don’t have an analog [to CFIUS] that addresses U.S. entities funding foreign groups, except for the entity list,” Mills said.
+To that end, he said continued interactions such as those between Intel, Sequoia, and 4Paradigm could supercharge the PLA’s expanding capabilities in emergent domains such as AI and machine learning.
+“We have allowed an interaction that 99 percent of the population doesn’t understand, doesn’t see, and isn’t aware of,” Mills said. “We need to shine a light on it.”

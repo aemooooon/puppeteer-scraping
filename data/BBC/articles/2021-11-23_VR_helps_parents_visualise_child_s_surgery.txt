@@ -1,0 +1,28 @@
+Six-month-old Archie was born with a condition where the growth lines in his skull had fused too early.
+His parents needed to make a difficult decision - opt for the risks of surgery, or let nature take its course with the physical and psychological impacts which could follow.
+But thanks to a pioneering new technology, Amanda and Judd Michnowiec were able to see what the changes would be beforehand, in virtual reality.
+That, the doctor behind it says, is more information than most parents get.
+Archie's condition - known as Sagittal Synostosis - means that as his brain grows, the skull cannot grow sideways to accommodate it.
+Instead, it expands to the front and back, distorting the head shape. 
+While the condition is not life-threatening, it can cause speech and language delay, as well as raised intracranial pressure.
+"It's been quite overwhelming," said his mother Amanda. "There have been a lot of appointments, and a lot of time away [from work]".
+So Amanda and Judd did not hesitate when Great Ormond Street Hospital for Children offered them the opportunity to be the first to use a ground-breaking new artificial intelligence (AI) platform that predicts the outcome of a life-changing operation in virtual reality.
+At their first consultation, the immersive environment allowed them to see, from all angles, a reconstruction of Archie's head generated from a CT scan. Overlaid on top of this, in green, was what his head would look like after the reshaping procedure. 
+The algorithms needed to create these latter images have been made possible by the harnessing of data from 60 operations over the course of the last seven years.
+"We're excited, and obviously there is always that worry with what he's going to have done," Amanda said after the consultation.
+"Although it's a lot to take in, it is reassuring to know that's what we've got to expect, and have that explained, and we're not going to be waiting and wondering what's happening."
+But the technology not only allows the couple to see and understand what differences the procedure will make - they are also encouraged to suggest potential modifications to the surgeon.
+Dr Noor Ul Owase Jeelani, a consultant paediatric neurosurgeon at the hospital, said the technology means the couple have a clearer picture of what the future holds.
+He said: "Now, when they sign the consent form, it's what I would call truly informed consent.
+"What I would like to see as a surgeon in 10, or perhaps 20 years' time, is that most surgical practice is done this way where the control, and the power, is very much given to the parents and the patients."
+A few weeks later, his parents having confirmed their decision to go ahead, Archie went in for surgery.
+The operation involved the insertion of a small spring into his skull, which immediately starts to correct his head shape.
+The placement, and impact, of this spring was also illustrated in the VR environment. After four weeks, the spring was removed.
+The technique was invented by Dr Jeelani 13 years ago, and has not only reduced the operation time from three hours to 40 minutes, but has also cut blood transfusions by 90%.
+This has led to more predictable outcomes, and it is this predictability that has made the data usable for VR visualisations with 90% accuracy.
+While the technology was created for one particular condition, it is hoped it can be applied to many different sorts of surgery in the future.
+"What we've seen here is essentially proof of principle," said Dr Jeelani. "That if you take a condition, an art form, and make it granular enough that you can study it, and put it on engineering and AI platforms, then you can actually predict the future with a reasonable amount of accuracy."
+Two weeks on from surgery, and Archie and family are doing well.
+"We're quite relieved that we're out the other side now," Amanda said. "We've been told that there shouldn't be any concerns with development and things, so we're really happy with how it went. 
+"Having the opportunity to do the VR really reassured us that we were doing the right thing.
+"Being able to see the "before and after" did relieve that pressure. It was quite a weight off our shoulders - but we're happy."

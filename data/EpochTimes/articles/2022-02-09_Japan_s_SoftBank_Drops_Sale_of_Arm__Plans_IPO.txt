@@ -1,0 +1,21 @@
+TOKYO—SoftBank’s planned sale of the British semiconductor and software design company Arm to U.S. chip maker Nvidia has fallen through, but the Japanese technology investor immediately turned bullish on taking it public.
+SoftBank Group Corp. said Tuesday it plans an initial public offering of Arm after the intended sale to Nvidia failed due to regulatory problems. It said the IPO would come sometime in the fiscal year ending in March 2023.
+Chief Executive Masayoshi Son acknowledged he was disappointed but wasted no time in shifting to an aggressive sales pitch for Arm in its preparation to go public in the United States, likely on the Nasdaq exchange.
+“Arm is back. Rather just being back, it’s really going to grow explosively,” Son told reporters.
+He said “a golden time” was coming because of Arm’s “architecture,” or technology for semiconductors, already widely used in cell phones and adapted by net giants like Amazon. Son said even bigger growth will come as the world shifts to electric vehicles because Arm products are energy efficient.
+Earlier faltering results at Arm were merely because of a hefty investment in hiring engineers needed to keep such innovations going, Son said.
+Son said he was tapping new leadership to give Arm a fresh start, with Rene Haas, a semiconductor industry veteran, as chief executive, replacing Simon Segars.
+“With the uncertainty of the past several months behind us, we are emboldened by a renewed energy to move into a growth strategy and change lives around the world again,” Haas said.
+Arm, which SoftBank acquired in 2016, is a leader in artificial intelligence, IoT, cloud, metaverse, and autonomous driving, with sales and profit growing in recent years. Its semiconductor design is widely licensed and used in virtually all smartphones, the majority of tablets and digital TVs.
+The company’s business centers on designing chips and licensing the intellectual property to customers, rather than chip manufacturing, for which it relies on partners.
+Nvidia also confirmed the merger was no longer on, although it still had its 20-year licensing agreement with Arm.
+“Arm is at the center of the important dynamics in computing. Though we won’t be one company, we will partner closely with Arm,” said Jensen Huang, founder and chief executive officer of Nvidia.
+In December, the Federal Trade Commission sued to block Nvidia’s $40 billion acquisition of Arm, saying the deal would give one of the largest chip companies control over the computing technology and designs that rival firms rely on to develop their own competing chips.
+The FTC said the combined firm could stifle innovative next-generation technologies, including those used to run datacenters and driver-assistance systems in cars.
+The British government Competition and Markets Authority, which had been investigating whether the deal might hurt competition, said it was abandoning the probe. European Union regulators also had been investigating.
+Geoff Blaber, chief executive at CCS Insight, said the opposition to the sale was not a surprise because many people wanted Arm to stay independent.
+“It has also been disruptive to Arm and its ecosystem. An IPO is a far better option for the Arm ecosystem but is unlikely to provide Softbank a comparable return,” he said.
+Besides Arm, SoftBank owns stakes in various technology companies including the SoftBank mobile carrier, Yahoo web services provider, Chinese e-commerce giant Alibaba, and vehicle-for-hire company Didi. SoftBank also takes part in funds that include other global investors called Vision Funds, which focuses on artificial intelligence companies.
+As a result, its financial results tend to be complex and varied. SoftBank has bought and then sold stakes in office-sharing venture WeWork, robotics company Boston Dynamics, mobility service provider Uber, and mobile carrier Sprint, all American businesses.
+SoftBank’s profit tumbled 98 percent in the quarter through December, as the value of its sprawling investments declined.
+Net profit for the fiscal third quarter totaled 29 billion yen ($252 million), down from 1.17 trillion yen the previous year, the company said. Quarterly sales edged up to 1.6 trillion yen ($13.9 billion) from 1.5 trillion yen.

@@ -1,0 +1,20 @@
+Herold Feld, senior vice president at Public Knowledge, appeared on Thursday's CBN Newswatch program to discuss the new app and its privacy issues. 
+SAN FRANCISCO (AP) - Is a peek into the future worth your privacy in the present? That concern was pushed to the spotlight this week with the resurgence of a smartphone app that uses artificial intelligence to transform your current face into your younger and older selves.
+People raised fears on Twitter and other social media sites that on iPhones, FaceApp would be able to see and upload all your photos, including screenshots with sensitive financial or health information or photos of kids with the names of their schools in the background.
+That's not actually true, but the scuttle serves as a good reminder to think twice before downloading new apps.
+Even large, mainstream apps routinely collect user data. But many trendy-at-the-moment apps are guilty of mining user data as a primary purpose. Some personality quizzes on Facebook and similar services collect user information as a business, opening people up to breaches such as in the Cambridge Analytica scandal.
+On Wednesday, the ranking Senate Democrat, Chuck Schumer, wrote in a letter to the FBI and Federal Trade Commission that he's concerned FaceApp could pose "national security and privacy risks for millions of U.S. citizens." The New York Democrat is asking the two agencies to assess the situation.
+As for FaceApp, the app grabs a photo only if you specifically select it to see your face change, security researcher and Guardian Firewall CEO Will Strafach said.
+The confusion comes from an iPhone feature that shows your photo library within the app. It is an Apple feature that lets you select a specific photo, but doesn't give the app full access to the library, even though it may appear that way.
+You have the option of granting access to your entire photo library, but even then, there is no evidence the app is uploading anything other than the photo selected.
+"I'm always looking for privacy concerns," said Strafach, who used a network analyzer tool to track what was happening. "When it's not happening, it's not happening."
+There's a version of FaceApp for Android, but those phones don't tap photo libraries the same way.
+That's not to say the app isn't free of problems, Strafach said.
+Among other things, photos get sent to the cloud for processing in both the iPhone and Android versions, exposing them to hacking and other problems. FaceApp does not explicitly tell users that the photos are being sent to the cloud. Some apps try to limit exposure by doing the processing on the devices themselves, not in the cloud.
+FaceApp's privacy policy also says it is using data from the app to serve targeted ads and to develop new products and features. It says it does not sell data to third party apps, but lists many exceptions including one that allows it to share data after removing information that identifies users.
+FaceApp, which is developed in Russia by Wireless Lab, has had surges of viral popularity before. The app also allows people to swap their genders or add facial hair or makeup.
+Wireless Lab told technology news site TechCrunch that it may store users' photos in the cloud, but "most" are deleted after 48 hours. It said no user data is transferred to Russia.
+The company has not responded to questions from The Associated Press. It told TechCrunch that users can request to have their data deleted.
+Even with those admissions, Strafach urged people to resist the pull of the app. He said the app should have been upfront and told users it was processing photos in the cloud rather than on phones.
+"Bottom line is they were handling sensitive data and they handled it cavalierly and that's just not cool," he said.
+Copyright 2019 The Associated Press. All rights reserved.  

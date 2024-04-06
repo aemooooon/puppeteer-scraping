@@ -1,0 +1,16 @@
+One way the Chinese Communist Party (CCP) uses a popular news aggregator app owned by ByteDance to promote the regime’s propaganda content to users was unveiled in an internal document recently obtained by The Epoch Times.
+The notice informed all-party committees to set up accounts on Toutiao, a popular news aggregator app owned by ByteDance. It then describes how Toutiao can make the propaganda information issued by these accounts appear as recommendations for users that the government has targeted.
+“When there’s a big event or emergency incident happening, it can distribute information to designated users and users in designated regions. It supports the government in spreading information efficiently,” the document stated.
+The document said that the CCP committees would not need to increase their following for this to be effective.
+The algorithm needs to collect three types of information before promoting a post to a user: the characteristics of a post the user interacts with; the user’s characteristics; and where the user is when he/she opens the app, according to Cao.
+The post’s characteristics include which kind of media it is, such as video, photo, picture, or text; the subject of the post, such as yoga, travel, or hip hop; how long it takes the user to read the post, such as video length, photos quantity, and text length; characteristics of the post’s creator.
+The user’s characteristics include hobbies, profession, age, gender, which kind of phone he/she uses, the user’s browsing history on ByteDance apps, searching and surfing histories on the internet, shopping history, and so on.
+The environment characteristics include the exact position of the user, such as at home, in a restaurant, or traveling abroad, etc.; what time of day; which kind of network the user is using, such as 3G, 4G, 5G, and Wifi; and weather conditions.
+The algorithm will also cull the watch histories of other users who are similar to a particular user, such as those with similar hobbies or similar profession.
+After the app obtains all three categories of information, an artificial intelligence (AI) tool will generation recommendations to the user.
+Cao added that the algorithm can also be used to show suitable advertisements for this user.
+ByteDance also created several blacklist databases, Cao said, in which millions of keywords or pictures the Chinese authorities have prohibited would not be allowed on its social media platforms. Any post containing one or more of these contents would be removed immediately, Cao said.
+He did not give specifics as to how ByteDance or Toutiao is able to collect such vast amounts of data on users’ behavior and preferences, nor how its algorithm would pick up on prohibited content.
+ByteDance did not respond to a request for comment.
+TikTok did not respond to a request for comment about its algorithm models.
+The app’s algorithm may be the linchpin of any U.S. deal—as the Chinese regime revised its export control rules on Aug. 28, mandating that “technology based on data analysis for personalized information recommendation services” must be approved by Chinese authorities before export.

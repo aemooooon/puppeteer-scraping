@@ -1,0 +1,15 @@
+South Korean memory chipmaker SK Hynix Inc. has unveiled the industry’s highest-performing DRAM with a data speed capable of transmitting 163 full-HD movies in a single second. Experts describe this as the fastest and largest capacity memory chip to date.
+The memory chip is called HBM3, short for High Bandwidth Memory 3. Its data processing rate has increased by 78 percent compared to its predecessor, HBM2E.
+The company said HBM3 is the fastest DRAM in the world and has the largest capacity and a significantly improved quality level. The introduction of this new chip will help consolidate the company’s leading position in the market.
+SK Hynix is ​​the world’s second-largest memory chip manufacturer, and its main customers include Apple Inc.
+According to Burm, HBM3 is by far the fastest memory device that can read and write the largest amount of data. It is also the fourth generation of HBM technology, succeeding the HBM1, HBM2, and HBM2E.
+“If a standard memory chip is a 1-story building, the HBM3 is equivalent to a 12-story building,” Burm explained.
+“The thickness of the chip is approximately 30 micrometer (μm, 10-6m). It is extremely thin and must be stacked neatly. This extremely difficult process has been achieved in HBM technology. Although challenging, it will develop into an industry standard in the future.”
+Burm believes that the successful development of HBM3 will help South Korea’s domestic technology development and ensure international competitiveness.
+On Oct. 12 the tech giant said its five-layer EUV process enables the industry’s highest DRAM bit density, enhancing overall wafer productivity by about 20 percent. The 14 nm process is said to slash power consumption by nearly 20 percent compared to the previous-generation DRAM node.
+The company said its latest DDR5 has a 7.2 gigabits per second (Gbps) data processing speed, more than double the DDR4 speed of up to 3.2 Gbps.
+According to Burm, DDR5 is the memory used in the central processing unit (CPU), and GDDR and HBM are the memory used in the graphics processing unit (GPU). Rather than saying that there are advantages and disadvantages, it is better to say that there are different architectures built for different purposes, experts have said.
+“Samsung’s mass production of 14nm EUV DDR5 DRAM is an amazing feat. The reason its memory market share exceeds 70 percent is because it has ensured its technological advantages,” Burm said.
+Burm believes that Samsung and SK Hynix will continue to maintain their lead in DRAM.
+“I think that [South Korea] can overcome the shortcomings of the chip foundry sector by ensuring its technological advantages,” Burm said. “In the fierce competition with Taiwanese companies such as TSMC and Micron Technology, it will be an extraordinary challenge for U.S. companies to regain their share in the semiconductor industry.”
+Burm is optimistic about the future of semiconductors and believes that the global shortage may only be temporary. He sees explosive growth in the semiconductor market once the shortage is over.

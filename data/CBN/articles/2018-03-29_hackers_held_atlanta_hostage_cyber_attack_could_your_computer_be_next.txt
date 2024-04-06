@@ -1,0 +1,19 @@
+Atlanta is slowly recovering after a widespread cyber-attack crippled the city's computer systems a week ago.
+A news release said emails and other systems are up and running, but some computers may still be affected by the ransomware attack.
+"It's pretty bad for the city of Atlanta. We're hearing that police officers have to write reports by hand and people can't pay bills," Atlanta resident and cyber security expert Dr. Emily Darraj told CBN News. 
+The Municipal Court of Atlanta announced Thursday morning that all court dates for the day will be rescheduled. In the meantime, the city has hired the security firm SecureWorks to restore its computers and protect them against future threats.
+Few details are known about who is behind the attack that paralyzed the municipality's computers and compromised internal systems used by city employees and citizens.
+However, authorities do know the type of ransomware responsible  – SamSam.
+SamSam encrypted the city's computer systems and threatened to hold them hostage until the authorities paid a ransom. In layman's terms, the ransomware snuck into the computer systems and virtually "locked" the city out.
+Ransomware can infect systems in something as simple as an email.
+"Someone opens an email and that allows the ransomware to come through," she explained. However, Dr. Darraj also said hackers are becoming more sophisticated and can find vulnerabilities in companies, organizations, and even cities.
+"When you are dealing with nefarious actors that are getting more sophisticated, this will be a challenge for everyone," she said.
+The only way to stop these attacks is to prevent them from happening in the first place. She encouraged Atlanta and other cities to improve their cyber security now.
+"Without having the forensic information, what we can surmise going forward is they ought to ensure their systems are incredibly hardened," she said. In the case a ransomware attack does happen, she also advised organizations to have multiple backups and an efficient "incident response posture" to stop the attack from spreading to multiple servers.
+Dr. Darraj suggested cities weigh the options before paying a ransom to a hacker.
+"It would just encourage the nefarious actor," she said. However it may cost more for the security staff to rebuild the hacked server than paying the ransom.
+"Funding is incredibly reduced...They're not going to have the financial means or staff to secure their environment," she warned.
+Ultimately, cyber-attacks are not going away any time soon.
+"There's a worrisome trend of artificial intelligence creating malware. That's a serious threat and concern that we should be paying attention to." she said.
+Those who use electronic currency may also be vulnerable to attack.
+"With the whole idea of Bitcoin and electronic currency, that nefarious actor would shift from the ransom ware approach to the Bitcoin mining approach," she said, which would ultimately get the hacker more money.

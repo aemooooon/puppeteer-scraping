@@ -1,0 +1,17 @@
+Public sector bodies must be more open about their use of algorithms in making decisions, ministers have been told. 
+A government advisory body said greater transparency and accountability was needed in all walks of life over the use of computer-based models in policy.
+Officials must understand algorithms' limits and risks of bias, the Centre for Data Ethics and Innovation said.
+Boris Johnson blamed a "mutant" algorithm for the chaos over school grades in England this summer.
+Ofqual and other exam regulators across the UK were forced to back down following a public outcry over the use of a computer program to determine A-level and GCSE grades after the cancellation of exams. 
+The regulator's chief executive resigned after the algorithm used to "moderate" marks submitted by schools and grading centres resulted in nearly 40% of them being downgraded, in some cases by more than one grade.
+It was accused of breaching of anti-discrimination legislation and failing to uphold standards.
+The government was forced into another U-turn last month over aspects of its planning reforms after Tory MPs accused ministers of relying on a faulty computer-based formula to decide house building targets across England. 
+In a new study, the Centre for Data Ethics and Innovation said there needed to be greater awareness of the risks of using algorithms in make potentially life-changing decisions and more done to mitigate them. 
+Those running organisations, it said, had to remember they were ultimately accountable for all their decisions, whether there were made by humans or artificial intelligence. 
+Its recommendations include requiring all bodies to record where algorithms fit into their overall decision-making process and what steps are taken to ensure those affected are treated fairly.
+While organisations should be actively collecting and using data to identify bias in decision-making, it said there was a risk techniques used to mitigate bias, such as positive discrimination, could fall foul of equality legislation.
+It urged the government to issue guidance on how decision by algorithm must comply with the Equality Act. 
+Adrian Weller said there was an opportunity for the UK to demonstrate global leadership in the responsible use of data and ensure appropriate regulatory standards were in place. 
+"It is vital that we work hard now to get this right as adoption of algorithmic decision-making increases," he said.
+"Government, regulators and industry need to work together with interdisciplinary experts, stakeholders and the public to ensure that algorithms are used to promote fairness, not undermine it."
+The Information Commissioner's Office urged organisations to consult guidance on the use of artificial intelligence.

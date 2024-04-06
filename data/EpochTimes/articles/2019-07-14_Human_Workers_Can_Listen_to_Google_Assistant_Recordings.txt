@@ -1,0 +1,9 @@
+SAN FRANCISCO—Google contractors regularly listen to and review some recordings of what people say to artificial-intelligence system Google Assistant, via their phone or through smart speakers such as the Google Home.
+“We are conducting a full review of our safeguards in this space to prevent misconduct like this from happening again,” he wrote.
+But VRT reporters could hear spoken home addresses in some of the recordings, and were able to track down the speakers. Some of these conversations were not directed at Assistant and happened either as background noise or as a mistaken recording when Assistant thought it was being spoken to, but wasn’t.
+Google says contractors listen to recordings to better understand language patterns and accents. Its user terms confirm recordings may be used by the company, stating Assistant “records your voice and audio on Google services to improve speech recognition.”
+Monsees wrote that Google works with contractors around the world to analyze the recordings.
+“These language experts review and transcribe a small set of queries to help us better understand those languages,” he wrote.
+Google’s terms don’t explicitly say that people review the recordings, but do state that data could be analyzed as the company updates services or create new features.
+Google’s recording feature can be turned off, but doing so means Assistant loses some of its personalized touch. People who turn off the recording feature lose the ability for the Assistant to recognize individual voices and learn your voice pattern.
+Assistant recording is actually turned off by default—but the technology prompts users to turn on recording and other tools in order to get personalized features.

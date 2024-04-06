@@ -1,0 +1,16 @@
+The Department of Homeland Security and the State Department are among a growing list of federal agencies breached by cyber-spies.
+Officials believe the Russian government is behind this serious breach of US government computer networks, including the Treasury and Commerce departments.
+The cyber operation potentially exposed hundreds of thousands of government and corporate networks along with the theft of internal communications.
+And the operation is reportedly connected to a breach of the US-based cybersecurity firm, FireEye. 
+"Recently, we were attacked by a highly sophisticated threat actor, one whose discipline, operational security, and techniques lead us to believe it was a state-sponsored attack," FireEye said in a blog post. "Our number one priority is working to strengthen the security of our customers and the broader community."
+Authorities who are familiar with the hack say it's among the worst ever perpetrated against the United States. Apart from the tool theft, the hackers were focused on some of FireEye's top customers - US government agencies.
+Chairman of the House Intelligence Committee, Rep. Adam Schiff said, "We have asked the relevant intelligence agencies to brief the Committee in the coming days about this attack, any vulnerabilities that may arise from it, and actions to mitigate the impacts."
+A spokesperson for the US Commerce verified there had been a "breach in one of our bureaus." 
+Additionally, FireEye confirmed that the Federal Bureau of Investigation and Microsoft Corp were assisting with the probe.
+The Wall Street Journal reported that hackers invaded the systems of government agencies and FireEye via a software update through SolarWinds Inc.
+SolarWinds, which is based out of Austin, Texas, said on Sunday they are aware of an exposure related to updates released between March and June for software products that checks networks for issues.
+"We believe that this vulnerability is the result of a highly-sophisticated, targeted and manual supply chain attack by a nation state," said SolarWinds CEO Kevin Thompson said in a statement. 
+But the US government and FireEye have refrained from saying that Russian hackers were responsible.
+"We anticipate this will be a very large event when all the information comes to light," said John Hultquist, director of threat analysis at FireEye. "The actor is operating stealthily, but we are certainly still finding targets that they manage to operate in."
+The Cybersecurity and Infrastructure Security Agency (CISA) tweeted on Monday that organizations using SolarWinds Orion Platform software to review the warnings. 
+Chris Krebs, former head of cybersecurity at CISA, said he suspects the hackers used a well, thought out plan.   

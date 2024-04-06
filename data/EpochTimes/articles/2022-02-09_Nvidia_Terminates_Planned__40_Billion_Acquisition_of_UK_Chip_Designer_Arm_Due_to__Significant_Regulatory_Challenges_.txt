@@ -1,0 +1,13 @@
+Nvidia’s planned acquisition of the UK-based chip designer Arm from SoftBank has collapsed due to “significant regulatory challenges,” the companies said in a joint release Tuesday.
+The cash-and-stock deal was originally announced in 2020 and had a value at the time of $40 billion.
+It planned to bring together Nvidia’s AI computing platform with Arm’s vast ecosystem to create the “premier computing company for the age of artificial intelligence, accelerating innovation while expanding into large, high-growth markets.”
+Arm is the world’s leading semiconductor intellectual property company and its technology is used in everything from smartphones to tablets and computers, including Apple’s iPhones and Android devices running on Qualcomm chips.
+It counts nearly every major semiconductor company as a client.
+“Tomorrow’s technologies depend on preserving today’s competitive, cutting-edge chip markets,” the FTC said at the time. “This proposed deal would distort Arm’s incentives in chip markets and allow the combined firm to unfairly undermine Nvidia’s rivals. The FTC’s lawsuit should send a strong signal that we will act aggressively to protect our critical infrastructure markets from illegal vertical mergers that have far-reaching and damaging effects on future innovations.”
+Some chipmakers in China also complained to regulators about the deal, which had been “under review” by Chinese authorities, while big American tech companies also expressed concerns.
+Instead, Arm will now begin preparations for a public offering before the end of the financial year to March 31, 2023.
+Cambridge-based Arm was independent until 2016 when SoftBank Group bought it for $32 billion.
+“The parties agreed to terminate the Agreement because of significant regulatory challenges preventing the consummation of the transaction, despite good faith efforts by the parties. Arm will now start preparations for a public offering,” the companies said Tuesday.
+“Arm has a bright future, and we’ll continue to support them as a proud licensee for decades to come,” said Jensen Huang, founder and CEO of Nvidia.
+“Arm is at the center of the important dynamics in computing. Though we won’t be one company, we will partner closely with Arm. The significant investments that Masa has made have positioned Arm to expand the reach of the Arm CPU beyond client computing to supercomputing, cloud, AI, and robotics. I expect Arm to be the most important CPU architecture of the next decade,” Huang said.
+SoftBank said it will retain the $1.25 billion deposit it had received as part of the deal and it will be recorded as profit in the fourth quarter of the fiscal year ending March 31, 2022, and Nvidia will retain its 20-year Arm license.

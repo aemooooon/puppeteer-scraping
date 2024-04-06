@@ -4,15 +4,9 @@ import fs from "fs";
 import axios from "axios";
 import { fromUnixTime, format } from "date-fns";
 
+import { sleep, replacePuntuationToUnderscore } from "./utils.js";
+
 const baseUrl = "https://www.theepochtimes.com";
-
-function sleep(ms) {
-    return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function replacePuntuationToUnderscore(str) {
-    return str.replace(/[\s!@#$%^&*()\-_=+[\]{};:'",.<>/?\\|`~]/g, "_");
-}
 
 const extractArticle = async (item) => {
     const browser = await puppeteer.launch();

@@ -1,0 +1,15 @@
+CANBERRA, Australia—Australia’s prime minister said on Monday that Microsoft is confident it can fill the void if Google carries out its threat to remove its search engine from Australia.
+A Google executive told a Senate hearing last month that it would likely make its search engine unavailable in Australia if the government goes ahead with a draft law that would make tech giants pay for news content.
+Prime Minister Scott Morrison said he has spoken to Microsoft chief executive Satya Nadella about its search engine, Bing, filling the space.
+“I can tell you, Microsoft’s pretty confident” that Australians would not be worse off, Morrison told the National Press Club of Australia.
+“These are big technology companies and what’s important to Australia, I think, is that we set the rules that are right for our people,” Morrison said.
+“Having a news environment in this country that is one that is sustainable and is supported commercially, then this is vital to how democracies function,” he added.
+Although Bing is Australia’s second most popular search engine, it has only a 3.6 percent market share, according to web analytics service Statcounter. Google says it has 95 percent.
+Nadella initiated the Zoom conversation with Morrison, The Australian newspaper reported.
+A Microsoft statement confirmed that the online meeting had taken place last week but released no details of the conversation.
+“We recognize the importance of a vibrant media sector and public interest journalism in a democracy and we recognize the challenges the media sector has faced over many years through changing business models and consumer preferences,” Microsoft said.
+“With respect to the current controversy over a potential code of conduct governing Google and Facebook, Microsoft is not directly involved and we wouldn’t want to comment on that ongoing process involving the ACCC and those companies,” the statement added, referring to the Australian Competition and Consumer Commission, the national regulator that devised the draft law.
+The mandatory code of conduct proposed by the government aims to make Google and Facebook pay Australian media companies fairly for using news content the tech giants siphon from news sites.
+There are no plans to make smaller search engines such as Bing pay for linking users to Australian news, but the government has not ruled that option out.
+Google has faced pressure from authorities elsewhere to pay for news. Last month, it signed a deal with a group of French publishers paving the way for the company to make digital copyright payments. Under the agreement, Google will negotiate individual licensing deals with newspapers, with payments based on factors such as the amount published daily and monthly Internet site traffic.
+But Google is resisting the Australian plan because it would have less control over how much it would have to pay. Under the Australian system, if an online platform and a news business can’t agree on a price for news, an arbitration panel will make a binding decision on payment.

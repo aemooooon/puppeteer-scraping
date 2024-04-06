@@ -1,0 +1,13 @@
+Taiwan recently unveiled a national team dedicated to quantum computing R&D, taking advantage of the island’s advanced semiconductor industry.
+The team consists of 72 experts and 24 enterprises, including specialists from Taiwan Semiconductor Manufacturing Company (TSMC) and Foxconn, who will research quantum elements, computers, and communications systems.
+Although feasible applications are still thought to be decades away, the technologies are theoretically capable of exceeding the physical limitations of conventional computers upon successful creation.
+MOEA unveiled a plan to invest more than $11 million in the next four years, while MOST pledged $8 million over five years. The government fundings aim to kickstart Taiwan’s development of its own quantum computers.
+More private firms are expected to join R&D efforts, and the funding would be substantially increased depending on the progress, Felix Gwo, the convener of a panel for advancing the development of quantum systems, told The Epoch Times.
+Funding will not be limited to funds from the government, he added.
+According to Taiwan’s DigiTimes, TSMC, the world’s largest chipmaker, has started poaching quantum computing research talent by offering three times their original salary prior to 2020.
+Head of the MOEA’s Department of Industrial Technology, Chiou Chyou-huey, said that quantum technologies were expected to generate enormous business opportunities globally, according to CNA. Quantum computing requires miniaturization technologies, which is the strength of TSMC’s silicon chips.
+Academia Sinica President James Liao said the institution’s research staff had spent a decade extensively researching quantum computing technology and quantum materials.
+Academia Sinica has already been able to build superconducting qubits, the basic unit of quantum information. The Taipei-based national academy already has the technologies to generate and read qubits, as well as control the state of qubits.
+Liao added that quantum computers’ powerful computation abilities are expected to bring about a breakthrough for the pharmaceutical sector. If applied to drug discovery, they could model and test new drugs through molecular simulation.
+Minister of MOST, Wu Tsung-tsong, added that quantum technology would significantly impact cybersecurity, the financial sector, and the national defense industry.
+A qubit or quantum bit is the basic unit of quantum information. The higher the qubit rating, the more advanced the processors are needed.

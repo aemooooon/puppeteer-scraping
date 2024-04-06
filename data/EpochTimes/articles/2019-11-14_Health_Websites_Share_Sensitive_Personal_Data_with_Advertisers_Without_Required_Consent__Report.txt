@@ -1,0 +1,15 @@
+Investigative reporters probing alleged misuse of the sensitive data of Europeans found that health websites were illegally sharing people’s information with ad-targeting companies including Google, Amazon, and Facebook.
+The personal data shared without users’ explicit consent—a requirement under European data protection laws—includes medical symptoms, diagnostic information, as well as names of drugs.
+The FT’s investigation found that 79 percent of the sites installed “cookies” on users’ computers without consent. In Europe, it is a legal requirement for websites to seek explicit consent to install chunks of code that allow third-party companies to track people’s online activity.
+Computer scientist Tim Libert, who created the open-source tool WebXray that the FT used in its investigation, told the publication that the problem is that companies could use medical information to prey on the ill and vulnerable.
+“There is a whole system that will seek to take advantage of you because you’re in a compromised state. I find that morally repugnant,” Libert told the FT.
+He said people profiled on the basis of their assumed medical condition might face discrimination.
+Under the new rules, advertisers are prohibited from sharing “special category” data without explicit consent, in which the user is informed how their sensitive data will be used and by whom.
+According to the British Information Commissioner’s Office, an independent authority set up to uphold information rights in the public interest, “special category” data “is more sensitive, and so needs more protection.”
+The agency notes that “special category” data includes the following: race, ethnic origin, politics, religion, trade union membership, genetics, biometrics (where used for ID purposes), health, sex life, or sexual orientation.
+“In particular, this type of data could create more significant risks to a person’s fundamental rights and freedoms. For example, by putting them at risk of unlawful discrimination,” it notes.
+The sensitive data tracked and shared with third-party marketers includes information from depression websites and the results of online mental health check tests.
+The Office for Civil Rights in the Department of Health and Human Services will look into the data collection to ensure the partnership is in compliance with the Health Insurance Portability and Accountability Act (HIPAA) which safeguards medical information, the Journal said.
+On Monday, Google said patient data “cannot and will not be combined with any Google consumer data.”
+The partnership will explore artificial intelligence and machine learning applications to help improve clinical quality and effectiveness, patient safety, and increase consumer and provider satisfaction, according to the statement.
+Tariq Shaukat, President of Google Cloud, said, “By working in partnership with leading healthcare systems like Ascension, we hope to transform the delivery of healthcare through the power of the cloud, data analytics, machine learning, and modern productivity tools—ultimately improving outcomes, reducing costs, and saving lives.”

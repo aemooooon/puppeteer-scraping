@@ -1,0 +1,10 @@
+JERUSALEM, Israel – Israeli intelligence officers monitoring Russian government hackers discovered they were using antivirus software to hack computers worldwide, including U.S. government agencies.  
+The Russians used Kaspersky Lab antivirus software, one of the world's leading providers, to search out American intelligence programs.
+According to a New York Times report, Russia may have accessed an estimated 400 million computers worldwide, two dozen of which were used by U.S. government agencies.
+The Israeli officials who hacked into Kaspersky's network shared the information with their American counterparts several years ago, but it wasn't until last month that U.S. officials ordered Kaspersky software removed from government computers, according to the report.  
+Complicating matters even further, Israeli officials say the hacking tools they discovered in the Kaspersky network could only have come from the U.S. National Security Agency, the Washington Post reported.
+An investigation by the NSA revealed the Russian government's ability to access these tools.
+Meanwhile, a classified report released last month by the U.S. National Intelligence Council said Russia's access to Kaspersky databases could be used to hack U.S. government networks.
+The Times report says Russian hackers were able to access classified documents from an NSA employee who stored information on his home computer that used Kaspersky antivirus software.
+The NSA, White House, Israeli Embassy in Washington and the Russian Embassy all declined to comment, according to the report.
+Meanwhile, Kaspersky denied any involvement in the Russian government hacking.

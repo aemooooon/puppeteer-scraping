@@ -1,0 +1,21 @@
+PITTSBURGH, Pa. –  Criminals often use technology to hide their crimes and cover their tracks. Now, the tech industry is looking to turn the tables in favor of crime fighters.
+"They have resource constraints and these kind of tools take what may have been manually impossible or would take hundreds of hours to do, down to seconds," Cara Jones explained of tools the tech industry now has to offer law enforcement.
+Jones helped start Marinus Analytics, a company with groundbreaking software called Traffic Jam. It helps investigators discover patterns of criminal and victim activity.
+"The goal was to provide some sophisticated technology to law enforcement for combating human trafficking specifically sex trafficking," Jones told CBN News.
+College Project Transforms Law Enforcement Efforts
+Traffic Jam started at Carnegie Mellon as an undergraduate honors project. Now it's transforming how law enforcement agencies collect and analyze evidence in their efforts to help victims of human trafficking.
+"Traffic Jam allows us to look at a potential victim, identify a link to another victim and then by having victims linked, identify a suspect and have a working case," said Major Richard Hoffman with the Raleigh Police Department. 
+Hoffman's detectives regularly use the software. 
+Detective Rob Pereira is currently on a case involving a trafficker moving women throughout the country. After obtaining a lead about a woman with a prostitution charge in Colorado, Pereira put Traffic Jam to work.
+"I had got the police report from Colorado and found the phone number that was used during their investigation. So at that point I can go into Traffic Jam and I can pull up that phone number. And as I pull up that phone number I see that there is a wide swath of the country in which that phone number was used," Pereira explained.
+"Through this I can determine where she was, when she was there and then follow the phone numbers and also the images that are being used. So I had already spoken to several victims in this case and I knew a lot of areas that the trafficker was going so that now corroborates the information that I was receiving from other women because this guy is going with her to the exact same places," Pereira continued.
+When Efficiency and Speed Are Crucial
+"This data is publicly available and there is a lot of this data," Jones told CBN News. "So there is an opportunity to use the most sophisticated in artificial intelligence to look through this data and to help law enforcement identify these victims."
+When it comes to identifying sex trafficking victims, efficiency and speed are crucial.
+"Because sometimes people will only be in your city for a three-day period, if you're not able to locate somebody quickly and determine that they're a victim and interact with them, find out where they are, who else is associated with them, you're going to miss the only opportunity you have to make contact," said Hoffman.
+This sophisticated tool does more than just link phone numbers and key words from online data – it also contains facial recognition.
+"Traffic Jam pulls images and so you don't just get the image that's posted say today, you can look historically at other images that are related to the same phone number, related to the same image or similar image," Hoffman explained.
+Using 'Traffic Jam' to Fight All Types of Violent Crime
+While Traffic Jam's design specifically targets human trafficking, it can provide detectives leads on a host of other violent crimes.
+"If you look at the heroin epidemic, if you look at robberies, if you look at gang involvement – the 2013 National Gang Report identified gangs as moving to human trafficking as financial gains--so there are so many inter-related violent crimes at these hotels," Hoffman said.
+To date, Traffic Jam has helped recover hundreds of victims of human trafficking, a small taste of what can happen when law enforcement and the tech industry join forces.

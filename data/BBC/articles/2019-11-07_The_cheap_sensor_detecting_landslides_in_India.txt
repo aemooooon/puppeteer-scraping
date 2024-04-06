@@ -1,0 +1,27 @@
+Landslides are common in rural and mountainous areas of India, especially after heavy rain. Scientists now say they have developed a low-cost technology for detecting them, using a motion sensor commonly found in smartphones.
+The device is currently being trialled in more than 20 locations in the Himalayan state of Himachal Pradesh, where landslides kill dozens of people every year. 
+Scientists say they are hopeful that it will help drastically reduce the deaths and damage caused by these natural disasters. 
+An accelerometer is a type of motion sensor which measures changes in velocity. In smartphones, this is what allows people to use compass and maps applications and even flip their screens horizontally or vertically.  
+But now scientists from the Indian Institute of Technology (IIT) in Himachal Pradesh's Mandi district have found that with some modifications, it can be used as a low-cost early warning system for landslides. 
+They told BBC Click's Shubham Kishore that it will cost an estimated 20,000 rupees (£218; $282) to manufacture - a fraction of the cost of existing technologies. 
+Authorities say the frequency of landslides in Himachal Pradesh is due to its mountainous terrain and the instability of the Himalayas, which is a relatively young mountain range.
+However, excessive rain, rampant deforestation, and unauthorised construction has exacerbated the problem. 
+The Environmental Information (ENVIS) centre for the Ministry of Environment and Forest said in a report that casualties from landslides were also growing because "the increase of road connectivity and number of vehicles plying on these roads in the state, means the number of road accidents and loss of precious human lives is increasing day by day".  
+This is because landslides frequently wash away roads and destroy homes - many of which are built with materials like clay mud or unburned bricks. 
+Dr Varun Dutt, a computer engineer, with his colleague, Dr KV Uday, a civil engineer, are leading efforts to develop the technology. These researchers say they are using the motion sensor to measure soil movements. 
+"When we embed it in the soil, the accelerometer will move when the soil moves. Essentially soil moves if some force acts on it. 
+"What the sensor does is allow us to record the extent of that movement. It throws up a range of data that then allows us to track small displacements in soil which causes landslides," Dr Dutt told the BBC's Ayeshea Perera. 
+He explained that a series of small soil movements could help provide an early warning to a larger disaster in the making. Due to the early warnings from small movements, detecting a landslide is easier than trying to detect an earthquake, which is more instantaneous with a very small warning corridor. 
+The device measures all these movements, and when it detects a significant displacement of earth which could result in a landslide, it emits loud noises and sends text messages to officials so that they can evacuate and stop vehicular movement to and around the area.
+The device has already seen some success. 
+In Kutropi, in the state's Mandi district, the device was able to successfully alert officials about an impending landslide. Police were able to turn away vehicles from a road that was later completely washed away.
+Dr Uday told the BBC that they have managed to alert officials after using the device that a hill in the state's Deode region needed to be monitored carefully as the soil movements indicated that the hill was at risk of sliding. 
+Dr Dutt says that state officials - who often have to deal with the tragic consequences of landslides - are excited about the technology.  
+"We were invited to present it at a workshop by the state government in partnership with the National Disaster Management Authority (NDMA) earlier this year. 
+"We showcased the technology and we got a lot of requests to commercialise it. So now we are in the process of marketing it and setting it up," he said. 
+The device has also won an innovation award from the government.  
+At present, the device has managed to demonstrate enough of a lead time to allow officials to warn residents and motorists shortly before a potential landslide. 
+But Dr Dutt and Dr Uday want the technology to be more predictive than reactive.  
+So the team has begun using Artificial Intelligence (AI) and machine learning on the sets of data thrown up by the device, and are hoping that it can develop algorithms that will enable them to predict landslides 24 hours or even a week in advance. 
+These algorithms are currently being refined, and scientists are hoping to test them more accurately in the field by the 2020 monsoon. 
+"We are excited but we want it to be accurate. There should be fewer false alarms. 

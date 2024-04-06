@@ -1,0 +1,13 @@
+Google is planning to expand its “prebunking” campaign to Germany after operational success in Eastern Europe, with the campaign aimed at countering the effects of “disinformation,” even as some experts warn that prebunking would effectively act as censorship.
+Jigsaw, an incubator division within Google that studies emerging social challenges, made “successful use” of prebunking campaigns in Slovakia, Poland, and the Czech Republic in 2022, the company has said.
+Germany will be the second place globally where Jigsaw will be launching a “corresponding campaign.”
+However, some people have questioned the use of prebunking, pointing out that the tactic can end up creating biases in the minds of viewers.
+“Everybody needs to understand the game. We can’t directly target our own citizens tearing down threadbare official statecraft narratives. So destroying our own citizens sharing skepticism, doubt and information becomes ‘Prebunking non-state malinformation,'” Eric Weinstein, managing director of Thiel Capital, wrote in a Feb. 10 tweet.
+After watching one of these videos, the proportion of viewers who “correctly identified” so-called disinformation tactics as explained via the videos rose by 8 percentage points.
+In Germany, Google intends to use prebunking against manipulation techniques and narratives that are “widespread in this country.” That includes “conscious decontextualization,” such as taking photos or videos out of context to create “false narratives.”
+The German campaign will start in the first half of this year.
+An August 2022 study by Google and researchers from the University of Bristol and the University of Western Australia tested prebunking strategies among 30,000 participants. The studies were aimed at “inoculating people against manipulation techniques commonly used in misinformation.”
+Among the “misinformation” cited in the study is COVID-19 material that was linked to “reduced willingness to get vaccinated against the disease and lower intentions to comply with public health measures.”
+Videos used in the tests were found to improve “manipulation technique recognition” while also raising people’s ability to “discern trustworthy from untrustworthy content.”
+“If you want to create an AI that’s got social justice values ... you’re going to only feed it information that confirms that bias. So by biasing the information, you can bias the AI,” Vorhies said.
+In a January speech, Rep. Ken Buck (R-Colo.) called out the dangers posed by Big Tech, naming Google as the “greatest threat to speech in the market.”

@@ -1,0 +1,16 @@
+Researchers say they have trained artificial intelligence to identify houses that need the most work to make them energy-efficient.
+The team at Cambridge University has developed a model which uses open-source data to pinpoint the problem areas in buildings.
+Some 700 "hard to decarbonise" houses have already been identified in Cambridge.
+The team is extending its work to other areas.
+The model is designed to help local authorities and other bodies make decisions about which houses to target when they are trying to reduce heat loss from buildings.
+The team says that these houses are responsible for over a quarter of all direct heating emissions, and they may be hard to decarbonise for many reasons, including their age, structure, and location.
+Dr Ronita Bardhan, who leads Cambridge's Sustainable Design Group, said: "Policymakers need to know how many houses they have to decarbonize, but they often lack the resources to perform detailed audits on every house. 
+"Our model can direct them to high priority houses, saving them precious time and resources."
+The model was "trained" using data from energy performance certificates, which property owners need when selling or renting a property. Other data was added from street view images, aerial views and land-surface temperature measurements.
+The researchers say the model can classify houses with 90% precision, and this is expected to rise as more data is added.
+It can already pinpoint specific parts of buildings which are losing the most heat, such as doors and windows, and detect whether properties are old or new.
+A new framework is being created which will add data relating to energy use, poverty levels and thermal images of building facades.
+Models are being created for other cities and countries so they can benefit from the project, and the team is working with a space organisation so high-resolution thermal images from satellites can be used.
+Dr Bardhan believes the data will also help people living in Cambridge negotiate for more support in making their houses energy efficient. 
+"There is a lot of talk about the need for specialised skills to achieve decarbonisation, but these are simple datasets and we can make this model very user friendly and accessible for the authorities and individual residents," she said.
+Follow East of England news on Facebook, Instagram and X. Got a story? Email eastofenglandnews@bbc.co.uk or WhatsApp  0800 169 1830

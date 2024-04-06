@@ -1,0 +1,14 @@
+A little over a year ago, a global wave of cyberattacks and data breaches rocked the world.
+After successfully breaching Microsoft Exchange Servers, attackers gained full access to hundreds of thousands of emails, passwords, and sensitive files. A total of 250,000 servers fell victim to the attacks, including at least 30,000 organizations in the United States.
+According to numerous credible reports, the attackers were linked with the Chinese Communist Party (CCP). This begs the question: Why is Microsoft continuing to help the CCP?
+Kiersten Todt, former executive director of the Obama administration’s bipartisan commission on cybersecurity, told NPR that there “is a long-term project underway.“ Todt, who now runs the Cyber Readiness Institute, noted that, although what exactly China is building remains somewhat unknown, the “diversity of data, quality of data aggregation, accumulation of data” are all “critical to its success.”
+However, when it comes to China, an equally (if not more) problematic country, Microsoft has opted to double down.
+Why would Microsoft do this?
+Well, as they say, always follow the money.
+According to Yang Hou, corporate vice president chairman and CEO of Microsoft Greater China Region, the U.S. company recognizes the “fast-growing needs for global public cloud services in the China market, both from multinational companies coming to China, Chinese companies seeking for global presence, and Chinese companies to digitally transform their businesses and processes on clouds.”
+Yang stressed that Microsoft’s desire to expand and upgrade its cloud services in China is as strong as ever, and that the company’s intelligent cloud is “the most comprehensive approach to security in the world.” The U.S. company is also committed to helping China achieve greater levels of “technical innovation and business transformation.”
+The aforementioned Microsoft statement argues that the “fast development of China’s digital economy demands advanced technologies and services like Microsoft Azure, to support its emerging digital innovation and industrial digital transformation.” Why does any of this matter? After all, it’s just another business deal. There’s nothing particularly odd about a U.S. company selling out to and assisting China. Right?
+Yes, there’s nothing particularly odd about Microsoft’s behavior. However, this “sell-out” is a little different.
+The cloud is but an afterthought for many politicians, including those situated in the United States. How many of them actually understand the importance of the cloud? Very few, I imagine. How many think it’s just something that exists in the sky?
+As Hillman said, “China’s cloud ambitions are not limited to Asia.”
+Of course they’re not. China’s ambitions are very much global in nature. The CCP isn’t content with dominating the Asian continent. It wants to dominate the world. To do so, it will require copious amounts of data.

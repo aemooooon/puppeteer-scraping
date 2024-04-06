@@ -1,0 +1,10 @@
+Swarms of tiny living robots have discovered the ability to self-replicate, i.e. reproduce, through the process of gathering single cells and assembling them together to form new organisms, through a unique process not seen until now in plants or animals, scientists say.
+Researchers Sam Kriegman, Douglas Blackiston, Michael Levin, and Josh Bongard from Tufts University, Harvard, and the University of Vermont created the life forms, called xenobots, in 2020, using stem cells taken from the embryo of the African clawed frog, Xenopus laevis.
+Unspecialized cells that have the capability to evolve into different types of cells are known as stem cells. Researchers scraped off living stem cells from frog embryos and incubated them without manipulating the genes in order to create xenobots.
+Xenobots aren’t technically robots, which are commonly understood to be constructed of inorganic matter, but are named as such because of their ability to act on behalf of humans, according to researcher Bongard.
+These frog-celled life forms are less than a millimeter—0.04 inches—wide, and under the right lab conditions have been observed moving around in their environments, working together in groups, and self-healing. Researchers have now discovered that the creatures can self-replicate as well through an entirely new form of biological reproduction.
+Xenobot clumps, when placed in dishes with disassociated stem cells, work together and gather loose cells into piles, which then form new xenobots, in a process known as spontaneous kinematic self-replication.
+“In short, progenitors build offspring, which then become progenitors,” the study states.
+This algorithmic improvement resulted in Pac-Man-shaped xenobots reproducing four generations, twice more than spherical-shaped xenobots.
+According to researchers, xenobots and their newly discovered reproductive mechanisms can be utilized in various ways, for example, gathering microplastics in the oceans or inspecting root systems.
+Regarding concerns of self-replication, the scientists said that the experiments were regulated by ethics experts and the living organisms were contained within the lab environment.

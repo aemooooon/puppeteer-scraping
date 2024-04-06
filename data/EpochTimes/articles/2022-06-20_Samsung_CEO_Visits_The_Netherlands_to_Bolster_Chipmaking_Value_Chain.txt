@@ -1,0 +1,14 @@
+Samsung Vice Chairman Lee Jae-yong recently visited the Netherlands to lay the foundations for the South Korean giant’s semiconductor value chain.
+Chipmakers racing to expand production amid a global shortage are competing to secure Dutch chipmaking equipment supplier ASML’s EUV lithography systems—devices essential to making advanced microchips.
+EUV stands for “extreme ultraviolet,” the wavelength of light used by ASML’s most advanced machines.
+These machines are imperative for producing advanced semiconductors below the 7-nanometer process, allowing chipmakers to create smaller, higher-performing chips with greater production efficiency at reduced costs.
+Smaller is better in chipmaking, as the more transistors that are packed into the same space, the faster and more energy efficient a chip can be.
+The Dutch supplier enjoys a near-monopoly in advanced EUV lithography systems, with a small annual output of about 40 units in 2021. These machines are in high demand as chipmakers worldwide rely on the equipment to stay competitive.
+On June 14, Lee visited ASML in Eindhoven, the Netherlands, and met with the company’s CEO Peter Wennink and other executives. The heads of the two companies discussed prospects for the chip market, and supply and demand for EUV lithography machines, according to a statement from Samsung.
+Additionally, the executives also discussed medium and long-term business strategies for the two companies.
+Samsung and ASML have worked together on EUV technologies since early 2000. Samsung currently holds a 1.5 percent stake in the Dutch company.
+AMSL CEO Wennink said last year that the company plans to manufacture 55 units of EUV lithography systems in 2022, of which Samsung secured 18 units.
+However, Wennink said in a fourth-quarter conference call that the fire would not affect ASML’s output and revenue targets.
+With the sharp increase in semiconductor demand, chipmakers worldwide have fiercely competed to secure AMSL’s EUV machines. They include U.S. player Intel, South Korea’s Samsung, and Taiwan’s TSMC, the biggest, which makes chips for Apple, AMD, and Nvidia.
+In March, the Dutch PM had a telephone call with then President-elect Yoon Suk-yeol about a similar topic. The two reportedly agreed to expand the bilateral partnership between the two nations, especially in the field of semiconductors.
+On June 15, local time, Lee visited the Interuniversity Microelectronics Centre (IMEC), the largest semiconductor research institute in Europe, located in Leu, Belgium. He met with IMEC CEO Luc Van den hove, where they reportedly discussed the latest chip technologies and R&D directions.

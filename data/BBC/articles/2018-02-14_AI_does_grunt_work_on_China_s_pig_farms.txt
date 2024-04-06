@@ -1,0 +1,24 @@
+Artificial intelligence technology has been developed to help piglets survive their first months - and then to decide which sows to kill.
+The scheme is being rolled out in China, the world's biggest producer and consumer of pork.
+It marks the latest deployment of tech giant Alibaba's ET Brain cloud computing service.
+China's pig industry is notoriously inefficient, but one expert said the tech could also prove useful elsewhere. 
+For now, the trial is limited to the country's Sichuan province.
+Alibaba teamed up with local feed provider Sichuan Tequ and the farming group Dekon to develop the solution.
+It claims that it should on average lead a sow to rear three additional offspring a year, and reduce the death rate by 3%.
+The system is designed to maintain a profile of each animal, including details of their weight, age, food intake and exercise, among other details.
+Vision recognition software - which relies on a number tattooed onto each swine's side - is used to keep track of each pig.  
+The sounds of their squeals are analysed to try to determine if any of the young ones are at risk of being suffocated under their mothers' weight.
+The AI tech also listens out for coughs, which along with infrared temperature readings are used to act as an early warning system for disease outbreaks. 
+This should help farmers know when to provide specialised vaccinations.
+And when the technology detects a sow's productivity rate has fallen below the norm it suggests she is slaughtered.
+As China's meat consumption continues to rise, Tequ said the tech was necessary to help farmers keep track of their livestock.
+"If you have 10 million pigs to raise, you can barely count how many piglets were born on a daily basis when the due date comes," said chief information officer, Zhang Haifeng.
+China's Synced Review news site has reported that tens of millions of pounds-worth of investment has been committed to the project, and a promotional campaign is already underway. 
+Slogans are being painted on rural walls, including the claim: "Excel in intelligent pig farming, marry a pretty wife early!"
+Tulip Agriculture, one of the UK's leading pig farmers, told the BBC that there was also an appetite in the west for further efficiency gains.
+"We actively investigate, trial and commercialise novel technologies to improve the health and welfare of the pigs we produce," commented agriculture director, Andrew Saunders.
+He gave his firm's use of RFID (radio frequency identification) tags in pigs' ears as one example of how Tulip had already sped up data collection.
+But Alibaba suggests that its system is cheaper to run as it avoids the need to attach and then scan such tags, which can be tricky to do in practice.
+One expert from the UK's National Pig Association, however, cautioned that there were limits to what technology alone could achieve.
+"There are some concerns in the British pig industry about our access to sufficient labour, because we are quite reliant on migrants both on farms and in slaughter houses," Dr Georgina Crayford told the BBC.
+"So, ways in which production can become more automated are obviously of interest," she said.

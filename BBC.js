@@ -2,15 +2,9 @@ import puppeteer from "puppeteer";
 import { data } from "./data/BBC/AI.js";
 import fs from "fs";
 
+import { sleep, replacePuntuationToUnderscore } from "./utils.js";
+
 const baseUrl = "https://www.bbc.com";
-
-function sleep(ms) {
-    return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function replacePuntuationToUnderscore(str) {
-    return str.replace(/[\s!@#$%^&*()\-_=+[\]{};:'",.<>/?\\|`~]/g, '_');
-}
 
 const extractArticle = async (item) => {
     const browser = await puppeteer.launch();
@@ -37,7 +31,7 @@ const extractArticle = async (item) => {
     });
     console.log(`File [${fileName}] has been written successfully.`);
     await browser.close();
-    // await sleep(5000);
+    await sleep(1000);
 };
 
 (async () => {

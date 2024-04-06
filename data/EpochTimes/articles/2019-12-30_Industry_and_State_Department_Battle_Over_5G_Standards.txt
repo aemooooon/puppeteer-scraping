@@ -1,0 +1,25 @@
+WASHINGTON—In the push to develop 5G—the next generation of wireless networks, a gap has emerged between the priorities of industry and government.
+Industry wants the government to take a limited role in export controls. Such controls, it argues, limit the ability of U.S. companies to participate in international organizations that set the standards for the architecture of 5G. That limitation, in turn, results in reduced access to foreign markets.
+The government wants standard-setting to take into account U.S. values and security.
+Participating in the forum were industry experts from Qualcomm, the China Center at the U.S. Chamber of Commerce, the Semiconductor Industry Association (SIA), and Robert Strayer, deputy assistant secretary for cyber and international communications and information policy at the U.S. State Department.
+The industry experts say that access to foreign markets is crucial for providing the sales volume that underpins research and development.
+While the United States wants “China to be part of the global standards development process,” one concern is to ensure that “they’re not trying to put a thumb on the scale to favor certain technologies that can lock us into technologies that won’t be as productive in the future.”
+He said that while the U.S. government wants to see the best of standards-development bodies, it also wants the best uses of technology.
+“We think that our democratic values are fundamental to informing how technology should be used, especially when it comes to facial recognition and artificial intelligence,” he said.
+“Unfortunately, we’ve seen cases like Xinjiang Province of China, where [Chinese telecom company] Huawei has worked with the local province on their security measures that include using facial recognition to identify leaders and then to imprison them in these internment camps.”
+“In the case of China, there’s an authoritarian government there that does not have the rule of law or an independent judiciary to stand between the company and the dictates of the Chinese Communist Party.”
+There are other indications of trust, too, Strayer said.
+Look “at a company’s past acts of respect for the rule of law. Do they have a history of corruption? Do they have a history of intellectual property theft?”
+Qualcomm wants to see a “standards carve-out,” so that any global or U.S. company can participate, “regardless of who is in the room,” she said.
+“We are hoping ... to get clarification from the Department of Commerce on what kinds of technical conversations we can have and what kinds of conversations we can’t.”
+Armstrong said that the complex telecoms systems “require years and years of upfront R&D.”
+“You don’t just float into the standards and make contributions without putting in that upfront investment in R&D,” she said.
+She added that she doesn’t think it’s “feasible” for the United States or China to go their separate ways in developing technologies and standards that are unique to themselves.
+“You really want these marketplaces to be global, and you really want to make sure that that money that comes in from having access to a global marketplace continues to fund R&D,” she said.
+In terms of Huawei, Armstrong said that “where there’s a company like Huawei on the entity list, the unintended consequence of that is if U.S. companies are chilled from interacting with Huawei, for example in the standards-setting, that can cause fear ... of running afoul of export compliance rules.”
+“Technical folks from our companies go to these standard-setting bodies, and, with these export controls in place, sometimes they have to have a lawyer sitting next to them to tell them what they can engage and what they can’t engage on,” Neuffer said.
+“Things that are public, basically there can be engagement, but what’s public is actually questioned.”
+The export controls that are there to protect U.S. national security actually “gum up the gears” of standard-setting, he said.
+This puts American companies at risk of losing influence, market share, money for R&D, and ultimately, leadership in the industry, he said.
+“Trust cannot exist where telecom vendors are subject to an authoritarian government like the People’s Republic of China, that lacks an independent judiciary or a rule of law that would prevent the misuse of data or disruption of critical infrastructure,” he said.
+“Given what is at stake in 5G, we must prevent any untrusted company, regardless of its national origin, from supplying technology for 5G networks.”

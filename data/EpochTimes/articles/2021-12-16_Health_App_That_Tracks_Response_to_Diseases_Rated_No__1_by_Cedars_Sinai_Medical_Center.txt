@@ -1,0 +1,15 @@
+A unique health app that allows patients to track how treatments, medications, and diets affect different medical conditions using artificial intelligence was recently rated No. 1 by Cedars-Sinai Medical Center in a study involving over 1,100 different health applications.
+The app, called Wave Health, allows patients with illnesses including cancer, migraines, chronic pain, and about 250 other chronic illnesses to feel more in control over their disease by helping them discover what could make them feel better or worse on a daily basis.
+Wave received the No. 1 rating in the highest overall score, but also the highest in individual scores for engagement and aesthetics dimensions.
+“[Being rated No. 1] was validating for us, but in a very different way because we were born out of a personal experience that led to a personal mission to help patients,” Matt Lashey, cofounder of Wave Health, told The Epoch Times.
+The app was created by Lashey and his partner, Ric Grenell, former acting director of U.S. National Intelligence after Grenell was diagnosed with cancer in 2013.
+“When you’re diagnosed with cancer, you think, ‘I’ve got cancer, so I’m going to feel crappy,’ Grenell told The Epoch Times. “And when you start to feel terrible, you chalk it up to the cancer and you don’t know any different.”
+Grenell found that through analyzing his daily symptoms through data trends, he could pinpoint which medications were working, and which ones weren’t.
+Grenell and Lashey created the app to help patients who are dealing with a negative health diagnosis navigate an overwhelming amount of information, and give insight into the crucial decisions that need to be made.
+“There’s a whole bunch of apps out there that do symptom tracking, and then they just summarize the symptoms into a report,” Grenell said. “What [Wave Health] does ... is it creates this system that then gives you artificial intelligence that takes your information and then gives you actionable insights.”
+Wave Health allows a patient to put in a percentage scale how they feel at any given moment and tracks sleep, condition changes, mood, hydration, exercise, social interaction, and meals. It also measures blood pressure, heart rate, and other vitals.
+The app’s artificial intelligence then gives health reports and insights that show important trends for both the user and their doctors.
+The app has a back-end monitoring platform that can allow physicians to monitor their patients in real time.
+“We’ve actually had a lot more attention from providers who are much more focused on telehealth solutions, or solutions that would help them to keep in better touch and a closer eye on their patients between visits, to help prevent emerging risks and the resulting hospitalizations,” Lashey said.
+Wave Health has also been a game-changer during the pandemic, Grenell said, given that there has been a greater emphasis on providers protecting chronic patients from the risk of exposure in emergency room settings.
+“If you’re chronically sick, and you start using this, the insights that are generated are going to motivate you to improve your own health,” Grenell said.

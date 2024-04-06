@@ -1,0 +1,20 @@
+The US Air Force will pit an advanced autonomous aircraft against a piloted plane in a challenge set for July 2021.
+The project could eventually lead to unpiloted fighter aircraft that use artificial intelligence (AI).
+Lt Gen Jack Shanahan, head of the Pentagon's Joint Artificial Intelligence Center, called the test a "bold, bold idea".
+Air Force Magazine also described the development of autonomous fighter jets as a "big Moonshot" for the military.
+At a briefing organised by the Mitchell Institute for Aerospace Studies, Lt Gen Shanahan said he had exchanged emails last weekend with the team leader on the project, Dr Steve Rogers of the Air Force Research Laboratory (AFRL).
+He said the AFRL team would attempt to field "an autonomous system to go up against a human, manned system in some sort of air-to-air".
+Shanahan said that, at this stage, it may not use "a lot of AI", but in time, humans and machines working together would make a "big difference".
+When announced in 2018, the project envisioned the development of an unpiloted fighter jet.
+Asked by Air Force Magazine whether this was still the objective, Lt Gen Shanahan said he did not know but added that AI-enabled systems could be used in other ways.
+"Maybe I shouldn't be thinking about a 65ft-wingspan, maybe it is a small autonomous swarming capability," he explained.
+Such swarms of drone aircraft could be deployed under a pilot's control or operate autonomously. A US military project called Skyborg will explore how the pilot of a fighter jet could control other drone aircraft - which would act as airborne sidekicks. 
+These projects feed into an ongoing effort to explore ways of using artificial intelligence (AI) to enhance the American military's capabilities.
+But Shahahan said legacy systems would not "go away overnight" and that it was a question of finding a balance and using AI where it could make things more efficient.
+"The last thing I would claim is that carriers and fighters and satellites are going away in the next couple of years," he said.
+Earlier this year, Elon Musk also entered the discussion, telling the audience at a military conference in Orlando, Florida, that the "fighter-jet era has passed". 
+Mr Musk said the F-35 fighter jet's competition should be a drone, remotely-controlled by a human with manoeuvres augmented by autonomy.
+"The F-35 would have no chance against it," he tweeted.
+Lt Gen Shanahan said that the military should be absorbing the best lessons from work on autonomous cars in the commercial sector.
+But he warned that among manufacturers, 10 companies spending $13-17bn on research over the last decade had still not developed a Level 4 autonomous vehicle.
+Level 4 vehicles are those that no longer require a human driver's attention for safety.

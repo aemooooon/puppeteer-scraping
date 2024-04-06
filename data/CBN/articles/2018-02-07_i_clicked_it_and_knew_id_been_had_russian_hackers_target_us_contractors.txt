@@ -1,0 +1,7 @@
+WASHINGTON – Russian hackers recently targeted dozens of American defense contractors in an effort to gain access to classified military information, a new investigation by The Associated Press reveals.
+The cyberspies, who went after at least 87 contractors, largely targeted their personal Gmail accounts.
+"I clicked on it and instantly knew that I had been had," retired Air Force Gen. James Poss told the AP while recounting a 2015 incident.
+The email was designed to look like a Google security alert, but it was actually a trap by a Russian government hacking group, known in the United States as Fancy Bear, to gain access to Poss's messages.
+It's no secret that both American and Russian intelligence agencies are constantly trying to hack each other's emails. But what may be somewhat surprising is how easy it is to get people in sensitive jobs to click on sketchy phishing links.
+Those targeted included employees of major defense contractors, like Lockheed Martin, Raytheon and Boeing, as well as lesser-known firms.
+Fancy Bear, which many have assessed is linked to Russian intelligence, was implicated in the 2016 hackings of the Democratic National Committee and Hillary Clinton campaign chairman John Podesta.

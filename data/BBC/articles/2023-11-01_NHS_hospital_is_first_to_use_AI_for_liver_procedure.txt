@@ -1,0 +1,16 @@
+Artificial intelligence (AI) is being used to improve a treatment for liver cancer for the first time in an NHS hospital. 
+Addenbrooke's Hospital in Cambridge has introduced AI into its thermal ablation procedure.
+Radiology consultant Nadeem Shaida said it meant the ablation was more accurate and effective.
+Thermal ablation involves inserting a needle or probe into small tumours to destroy them with heat.
+It is an increasingly common treatment because it is considered less invasive than regular surgery.
+The hospital said the AI was programmed with data from thousands of patients so that it could more accurately outline both the tumour and the margin of healthy tissue around it.
+"A few years ago we introduced Cascination (CT scan technology), which improved the accuracy, but AI has given us extra confidence," said Mr Shaida.
+"Before AI we had to rely on our own eye to interpret the images and that's prone to variability among different readers."
+He added: "AI helps us identify straight away if we've taken enough tissue, and if not, we can put the needle back in while the patient is still asleep rather than calling it a day, and then waiting for six weeks before another scan shows you need to repeat the procedure."
+Addenbrooke's says half of the approximate 75 liver cancer patients it treats are eligible for the procedure.
+The AI technology was used recently for patient Charles Sykes's liver treatment at Addenbrooke's.
+The 76-year-old said the procedure seemed straightforward, adding: "If someone hadn't told me AI is what they'd used, I wouldn't have known, but I'm delighted it was available because it improves the chances of success."
+AI is already used in thermal ablation of kidney and lung tumours at centres throughout Europe and Addenbrooke's will be monitoring the effectiveness.
+A global AI Safety Summit at Bletchley Park in Buckinghamshire is due to discuss the advantages and disadvantages of the technology - used across sectors - throughout this week.
+"I don't think interventional radiologists will be out of a job because you still need people to run, guide and understand the system, and to put the needle in physically," said Mr Shaida.
+"But it's a really useful addition to our daily working lives and could reduce the chance of interpretation error around the world."

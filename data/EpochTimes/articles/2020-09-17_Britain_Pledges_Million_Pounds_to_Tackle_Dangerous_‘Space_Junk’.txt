@@ -1,0 +1,15 @@
+The British government pledged a million pounds ($1.3 million) on Wednesday to tackle dangerous “space junk,” which could crash into active satellites and disrupt key services like mobile phones and weather forecasting.
+Some space debris can be detected by functioning satellites, but only a fraction of the total can currently be tracked. The technologies will help avoid collisions with operating satellites, and even with the manned International Space Station, the UK Space Agency said.
+“Last year there was a close call in which a £100 million [$130 million] spacecraft operated by the European Space Agency (ESA) had to light up its thrusters to dodge a satellite,” the agency said.
+The new technologies will include artificial intelligence and sensors to monitor anything in orbit over 1 centimeter (0.4 inches) in size. There are up to 160 million objects currently orbiting the Earth, an estimated 900,000 of which are larger than 1 centimeter.
+“The UK has a significant opportunity to benefit from the new age of satellite megaconstellations—vast networks made up of hundreds or even thousands of spacecraft—so it is more important than ever to effectively track this debris,” The UK Space Agency said.
+The ESA likened the orbits of space objects to the movement of traffic on roads.
+By using cameras in space and applying “future recognition software,” patterns in data from the sensors would show whether an orbiting object is a satellite or space debris, Lift Me Off CEO Michel Poucet told The Epoch Times in an interview.
+If it’s a satellite, the team could then identify if it’s a functioning satellite or not, Poucet said, and from there assess the risk to other satellites and warn interested parties.
+“If it’s a defunct satellite that another country put up and we weren’t aware of, we can provide that information to the UK government or other governments or commercial operators and tell them, ‘Oh, watch out we have spotted an object—it looks like a satellite but it doesn’t seem to be functioning, it doesn’t give the standard footprint.’ We can then give a warning,” he explained.
+Poucet said Lift Me Off appreciated the UK Space Agency’s backing of new and smaller companies.
+“We are not a big company, we are five people. We started two years ago. We thought of new things and the challenges of the future. This was one of them, and the UK Space Agency acknowledges that and also that there are new companies out there that have new technologies that can enhance capability,” he said.
+“It is giving us a chance.”
+Chief Executive of the UK Space Agency Graham Turnock said people were not generally aware of the amount of space junk that is orbiting the planet.
+“You would never let a car drive down a motorway full of broken glass and wreckages, and yet this is what satellites and the space station have to navigate every day in their orbital lanes,” he said.
+Turnock also said the UK had an “unmissable opportunity to lead the way” with tracking and tackling space junk.

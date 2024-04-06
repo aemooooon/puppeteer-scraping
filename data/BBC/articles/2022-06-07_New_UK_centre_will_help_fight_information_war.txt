@@ -1,0 +1,28 @@
+A new centre aims to boost the UK's security through building expertise in cutting-edge technology.
+The Centre for Emerging Technology and Security (CETaS) will be based at the Alan Turing Institute, the UK's centre for data science and artificial intelligence.
+UK officials say it will help develop expertise outside government, including in publicly available information.
+This is proving vital in combating Russian disinformation over Ukraine.
+But concerns are also being raised about the government's current "fragmented" use of this type of open-source intelligence.
+There has been a widespread view that Moscow enjoyed the upper hand in using technology to fight an "information war" in recent years. 
+The West appeared to be on the back foot since Russia weaponised social media to influence public opinion, most famously using fake accounts in the 2016 US presidential election. 
+But the Ukraine conflict has revealed a shifting balance, officials say.
+"In the current phase of the conflict, the balance of advantage is with those who seek the truth about progress in Russia's campaign," two anonymous government officials wrote in a paper issued to mark the launch of the new government-funded CETaS. 
+A key reason has been what's called open-source intelligence. This relies on analysing publicly available data, like videos on social media, in contrast to "secret" intelligence that spies obtain through covert means like intercepting communications or running agents. 
+"The Ukrainian conflict has shown us the importance of data analysis and technology for exposing Russian disinformation campaigns," Paul Killworth, deputy chief scientific adviser for national security, told the BBC. 
+"Centres such as [CETaS] provide another tool in the armoury of open societies. It gives us more teams of specialists able to investigate claims."
+US and UK governments have been active in using open-source information to be able to talk publicly about what their secret sources are indicating. But this type of information is most powerfully used by those outside government to reveal what is really happening on the ground.
+On the evening of 23 February, graduate students in Monterey, California, who had been using publicly available satellite imagery to watch Russian tanks on the border with Ukraine, saw Google Maps showing a traffic jam inching towards the Ukrainian border. 
+They tweeted that a war seemed to have started, long before any official announcement. 
+Since the conflict started, others have used data to investigate possible war crimes and to contest Russian narratives.
+The extent to which investigations have been pioneered by citizen-journalists and investigative groups like Bellingcat is a positive, according to Mr Killworth. 
+"If we went back perhaps a decade or so, if you were looking at advanced analytical capabilities, the ability to manage large amounts of data and conduct cutting-edge analysis, this was the preserve of government," he said. 
+"It was carried out behind barbed wire in very, very tightly controlled circumstances. A few decades on and the amount of cutting-edge, IT tools and analytics and open-source data available to investigative journalists, to citizens groups, to academics has grown dramatically."
+Harnessing new technology to maintain an edge is part of the new centre's mission. This could include fields like automated recognition of military vehicles from satellite imagery or social media, allowing human experts to spend their time on trickier problems.
+Tools are already allowing greater translation and interpretation of foreign language material. Artificial Intelligence can also be used to reveal patterns in behaviour or language that indicate the presence of an organised disinformation network on social media.
+Dealing with these challenges at speed is one of the ambitions for the centre which aims to build a community that can keep pace with the growing amount of data and tools to exploit it.
+Another paper issued as part of the centre's launch, and jointly authored with the think tank RUSI, raises questions about whether government is organised to adequately exploit open-source intelligence. 
+It warns of current "fragmentation" of activity within government and says it needs to be elevated to become a "core" intelligence discipline.
+One official told the authors that even though 35% of intelligence comes from open source, it receives only 1% of funding relative to classified sources. More focus needs to be made on building up the skills and breaking down barriers, with government analysts sometimes unable to access open-source information because of regulatory and technical constraints. 
+A crucial problem is cultural bias. Intelligence agencies have often been reluctant to makes use of open-source information and decision makers are more likely to pay attention to a piece of information with "SECRET" stamped across it than something found online, even if it is just as relevant, the paper says.
+Experts also warn Russia is likely to adapt and up its game. This might mean spending more time amplifying real voices in the West which support its message, something which is harder for governments and social media companies to counter, or by developing better "deepfake" technology.  
+Russia's narrative has also not been challenged within its own borders because it closed down its information space, and the government authors of the CETaS report say Moscow's messages may also be more effective beyond the West. 

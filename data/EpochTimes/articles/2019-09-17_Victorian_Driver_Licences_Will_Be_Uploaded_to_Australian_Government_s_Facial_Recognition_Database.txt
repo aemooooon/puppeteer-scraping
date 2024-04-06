@@ -1,0 +1,12 @@
+The Victorian government has said that every resident’s driver’s licence will be uploaded into an Australian facial recognition database, as it vows that the details will be safe despite previous breaches.
+The data upload is part of a test run of a national system to assist governments in law enforcement and counter-terrorism operations.
+In their current form, the draft federal legislation allows private organisations to access the database. The two bills relevant to the facial recognition network–the Identity-Matching Services Bill and the Australian Passports Amendment (Identity-matching Services) Bill–are still being reviewed by the Parliamentary Joint Committee on Intelligence and Security (PJCIS).
+“It is very important for Victorian citizens to have confidence that their privacy is not going to be adversely impacted by these changes and at the moment, the Commonwealth legislation and the protocols are in place to guarantee that,” Special Minister of State Gavin Jennings told ABC radio on Tuesday.
+Despite previous national breaches to data, Jennings says the community should have faith their private details are secure.
+“In relation to where those failures have occurred, action has been taken to try to prevent them from occurring again,” he said.
+Australian Lawyers Alliance spokesman Greg Barns said the practice is always fine until a breach occurs.
+“If you look at the United States where this technology has been used by police for a considerable period of time, there are some problems which have emerged,” Barns told 3AW radio.
+“One, these databases we are told are easy to hack. Two, there’s been on-selling of data by police forces in the United States. And third, it has led to profiling particular groups, but also incorrect recognition because the technology, at this point in time, can mean you get the wrong person,” he said.
+“If it is hacked of course there are a few things that follow.
+“Firstly it can be on-selling to other groups, criminal groups for example, your facial data recognition can be used to create fake documents, fake licences etc.”
+The government says it allowed consideration of the data as the state’s system is “fairly inefficient” and flawed in relation to facial recognition and multiple IDs.

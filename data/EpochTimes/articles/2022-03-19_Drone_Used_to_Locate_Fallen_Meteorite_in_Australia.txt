@@ -1,0 +1,12 @@
+A student researcher from Western Australia’s Curtin University has used a drone to help pinpoint the location of a meteorite fragment on the remote Nullarbor Plain.
+Thousands of small meteorites are thought to hit Earth’s surface each year, but for every impact witnessed almost 800 space rock chunks land in oceans or remote landscapes and go unnoticed.
+A young Australian researcher last year came up with what he thought to be a sound method for locating fallen meteors more efficiently, accurately and often.
+Putting his money where his mouth was, Curtin University graduate student Seamus Anderson went out and pinpointed the exact spot of a freshly fallen sample on WA’s vast Nullarbor Plain in April.
+He and his search party unearthed the meteorite fragment on remote Kybo cattle station by referencing its whereabouts from drone footage and then using artificial intelligence to scan the landing area.
+The university’s Space Science and Technology Centre is satisfied the find demonstrates the potential to recover vastly more meteorites, particularly those observed as they fall through the atmosphere.
+“A camera-fitted drone flies over and collects images of the fall zone, which are transferred to our field computer where an algorithm scans each image for meteorites and features that resemble them,” Anderson said.
+“Although our algorithm was ’trained' on data collected from past searches, we brought with us previously recovered meteorites and imaged them on the ground ... to create local data to further train the algorithm.”
+While searches would usually involve a group of people covering a large predicted impact area on foot, the Anderson method only needs a tenth of the labour and time and has a much higher success rate.
+The Kybo rock was traced to its impact point within four days of the crew’s arrival at the property.
+Anderson said meteorites tracked by Curtin’s Desert Fireball Network give a geologic sample of where they originate from, contributing to an overall understanding of the geology of the solar system.
+“New solutions such as our drone technique help make investments in space science and the study of meteorites more cost-effective and impactful,” he said.

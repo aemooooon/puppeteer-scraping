@@ -1,0 +1,10 @@
+SAN FRANCISCO—General Motors’s venture capital arm has invested millions of dollars in Oculii, a startup maker of software for radar sensors used in self-driving cars, Oculii co-founder Steven Hong said.
+GM can use Oculii’s low-cost software to boost the resolution of radars and scale up its partially automated vehicles and full self-driving cars, he told Reuters in an interview.
+The investment is a “fantastic signal they’re serious about the technology and bullish about radar in general,” said the Stanford University graduate who founded Oculii with his father, Lang Hong, an engineering professor at Wright State University.
+He declined to disclose the financial details.
+Tesla Inc. eliminated radar sensors from its volume models this year, rekindling questions about the safety and performance of its advanced driver assistant system.
+Radars, which measure the distance between objects, enable a car to accelerate or brake to match its speed with that of the vehicle in front. Radars also work well in adverse lighting and weather conditions.
+Tesla Chief Executive Elon Musk has called additional sensors like lidars and radars “crutches,” doubling down on cheaper cameras and artificial intelligence for its driving automation system.
+Hong said he agreed with comments by Tesla’s artificial intelligence director, Andrej Karpathy, about the shortcomings of traditional radars. Karpathy said in June that radars sometimes make “dumb” measurements of the environment, holding back its vision system.
+“Traditional radar is very low resolution and very noisy,” Hong said. But high-resolution radars are a key backup to cameras and other sensors when they fail, thus providing “extra safety,” he added.
+He said he expected Tesla to embrace radars as prices decline.

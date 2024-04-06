@@ -1,0 +1,15 @@
+The European Union’s chief executive on Sept. 12, proposed hefty fines on Google, Facebook, Twitter, and other online platforms if they fail to remove extremist content within one hour.
+Brussels gave internet firms three months in March to show they were acting faster to take down radical posts. Industry lobby groups said they have made great strides since then, but the Commission decided that progress had been insufficient.
+If authorities flag it, the European Commission wants content inciting or advocating extremist offenses, promoting extremist groups, or showing how to commit such acts to be removed from the web within an hour.
+“One hour is the decisive time window in which the greatest damage takes place,” Jean-Claude Juncker said in his annual State of the Union address to the European Parliament.
+In a proposal that will need backing from EU countries and the European Parliament, internet platforms will also be required to take proactive measures, such as developing new tools to weed out abuse and human oversight of content.
+Service providers will have to provide annual transparency reports to show their efforts in tackling abuse.
+Providers systematically failing to remove extremist content could face hefty fines of up to 4 percent of annual global turnover.
+“We need strong and targeted tools to win this online battle,” Justice Commissioner Vera Jourova said.
+In turn, the draft rules will demand the EU’s 28 national governments put in place the capacity to identify extremist content online, sanctions, and an appeals procedure.
+The industry has also been working since December 2015 in a voluntary partnership to stop the misuse of the internet by international extremist groups, later creating a “database of hashes” to better detect extremist content.
+Firms increasingly rely on a mix of machine learning, artificial intelligence and human moderators to spot and delete extremist content.
+YouTube said it shared the Commission’s desire to react rapidly and keep violent extremism off the internet. It said it had invested heavily to do so and would continue to engage closely with the Commission, EU countries and law enforcement agencies.
+Facebook said in a statement that it had made significant strides finding and removing their propaganda “but we know we can do more.”
+When content is taken down from one platform, it often crops up on another—straining authorities’ ability to police the web.
+Smaller platforms, industry insiders warn, may not have the same resources to comply as speedily with tougher EU rules.

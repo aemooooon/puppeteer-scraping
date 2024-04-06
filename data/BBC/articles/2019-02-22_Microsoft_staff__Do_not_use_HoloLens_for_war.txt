@@ -1,0 +1,24 @@
+At least 50 Microsoft employees have demanded the company back out of a deal with the US military to provide augmented reality technology.
+In particular, the group has said the firm’s headset, HoloLens, must not be used to “help people kill”. 
+In November, Microsoft agreed a $479m (£367m) deal to develop a platform that would involve soldiers using about 100,000 headsets. 
+"We always appreciate feedback from employees and have many avenues for employee voices to be heard," a Microsoft spokesperson said.
+A letter sent around Microsoft on Friday and seen by the BBC has been backed by employees across multiple departments.
+“Microsoft must stop in its activities to empower the US Army’s ability to cause harm and violence,” it reads. 
+“We did not sign up to develop weapons, and we demand a say in how our work is used.”
+HoloLens, first released to developers in March 2016, allows the wearer to see digital images laid over the real world. Microsoft's chief executive Satya Nadella is expected to announced HoloLens 2 at an event in Barcelona on Sunday, ahead of the Mobile World Congress trade show.  
+The letter demands Microsoft cancel the Integrated Visual Augmentation System (IVAS) contract, stop developing “any and all” weapons technologies, and draft a public policy statement on the matter. 
+It also calls for an “independent, external ethics review board” that would oversee compliance with that policy. 
+It is not the first time that Microsoft employees have spoken out against the firm's work with government entities. 
+In June, with the Trump administration mired in controversy over family separations on the US-Mexico border, staff demanded the firm cease providing services to the US Immigration and Customs Enforcement agency (ICE).
+Mr Nadella eventually denounced the White House’s actions and said Microsoft’s technology was only being used for standard office-related tasks. 
+With this latest employee rebellion, Microsoft will not have such an easy defence. According to the contract, the goal is to “increase lethality by enhancing the ability to detect, decide and engage before the enemy”. 
+Microsoft is understood to have outbid rival augmented reality developers, such as Magic Leap. 
+Microsoft’s president and top lawyer Brad Smith has said employees who are not happy with the nature of the firm’s military work would be allowed to work in other departments. However, in the latest letter, employees said that suggestion was flawed. 
+“Microsoft fails to inform its engineers on the intent of the software they are building. 
+"There are many engineers who contributed to HoloLens before this contract even existed, believing it would be used to help architects and engineers build buildings and cars, to help teach people how to perform surgery or play the piano, to push the boundaries of gaming, and to connect with the Mars Rover (RIP).  
+"These engineers have now lost their ability to make decisions about what they work on, instead finding themselves implicated as war profiteers.” 
+Microsoft is not the only company to face internal anger over military work. Last year, Google did not renew a contract to work with the US on Project Maven, an artificial intelligence program in development with the Pentagon.  
+However, Amazon chief executive Jeff Bezos said his firm would enthusiastically work with the military.  
+"This is a great country - it needs to be defended,” he said during an on-stage interview. 
+___
+Follow Dave Lee on Twitter @DaveLeeBBC

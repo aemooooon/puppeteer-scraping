@@ -1,0 +1,11 @@
+LONDON—Prime Minister Boris Johnson on Jan. 28 granted China’s Huawei a limited role in Britain’s 5G mobile network, resisting U.S. pressure to exclude the company from next generation communications on fears China could use it to steal secrets.
+In the biggest test of his post-Brexit foreign policy to date, Johnson ruled that “high-risk vendors” would be allowed into the “non-sensitive” parts of 5G networks, but their involvement would be capped at 35 percent.
+They would be excluded from the sensitive core of networks, where data is processed, and banned from all critical networks and sensitive locations such as nuclear sites and military bases, the government said.
+The decision will dismay President Donald Trump’s administration which fears China could use Huawei to steal secrets and which has warned that if London gives Huawei a role then it could scale back intelligence cooperation.
+“This is a UK-specific solution for UK-specific reasons and the decision deals with the challenges we face right now,” Communications Secretary Nicky Morgan said following a meeting of the National Security Council chaired by Johnson.
+Huawei was not mentioned by name in the British government’s statement, but British cyber security officials said they had always treated the company as a “high risk” vendor.
+The White House and U.S. state department did not immediately respond for a request to comment.
+“Huawei is reassured by the UK government’s confirmation that we can continue working with our customers to keep the 5G roll-out on track,” said Victor Zhang, Vice-President, Huawei.
+Sources told Reuters last week senior British officials had proposed granting Huawei a limited role in the 5G network—a “calculated compromise” which could be presented to Washington as a tough restriction but also accepted by British operators already using the company’s equipment.
+The United States has argued that as 5G technology evolves, the distinction between the “edge” and “core” will blur as data is processed throughout the network, making it difficult to contain any security risks.
+Huawei’s equipment is already used by Britain’s biggest telecoms companies such as BT and Vodafone, but it has been largely deployed at the “edge” of the network and excluded in the “core” where data is processed.

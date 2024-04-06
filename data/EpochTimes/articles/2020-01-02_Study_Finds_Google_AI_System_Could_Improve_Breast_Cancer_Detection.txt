@@ -1,0 +1,16 @@
+CHICAGO—A Google artificial intelligence system proved as good as expert radiologists at detecting which women had breast cancer based on screening mammograms and showed promise at reducing errors, researchers in the United States and Britain reported.
+The study, published in the journal Nature on Wednesday, is the latest to show that artificial intelligence (AI) has the potential to improve the accuracy of screening for breast cancer, which affects one in eight women globally.
+Radiologists miss about 20 percent of breast cancers in mammograms, the American Cancer Society says, and half of all women who get the screenings for over 10 years have a false-positive result.
+The findings of the study, developed with Alphabet Inc’s DeepMind AI unit, which merged with Google Health in September, represent a significant advance in the potential for the early detection of breast cancer, Mozziyar Etemadi, one of its co-authors from Northwestern Medicine in Chicago, said.
+The team, which included researchers at Imperial College London and Britain’s National Health Service, trained the system to identify breast cancers on tens of thousands of mammograms.
+They then compared the system’s performance with the actual results from a set of 25,856 mammograms in the United Kingdom and 3,097 from the United States.
+The study showed the AI system could identify cancers with a similar degree of accuracy to expert radiologists while reducing the number of false-positive results by 5.7 percent in the United States-based group and by 1.2 percent in the British-based group.
+It also cut the number of false negatives, where tests are wrongly classified as normal, by 9.4 percent in the United States group, and by 2.7 percent in the British group.
+Connie Lehman, chief of the breast imaging department at Harvard’s Massachusetts General Hospital, said the results are in line with findings from several groups using AI to improve cancer detection in mammograms, including her own work.
+The notion of using computers to improve cancer diagnostics is decades old, and computer-aided detection (CAD) systems are commonplace in mammography clinics. Yet, CAD programs have not improved performance in clinical practice.
+The issue, Lehman said, is that current CAD programs were trained to identify things human radiologists can see, whereas, with AI, computers learn to spot cancers based on the actual results of thousands of mammograms.
+This has the potential to “exceed human capacity to identify subtle cues that the human eye and brain aren’t able to perceive,” Lehman added.
+Although computers have not been “super helpful” so far, “what we’ve shown at least in tens of thousands of mammograms is the tool can actually make a very well-informed decision,” Etemadi said.
+The study has some limitations. Most of the tests were done using the same type of imaging equipment, and the U.S. group contained a lot of patients with confirmed breast cancers.
+Crucially, the team has yet to show the tool improves patient care, said Dr. Lisa Watanabe, chief medical officer of CureMetrix, whose AI mammogram program won United States approval last year.
+“AI software is only helpful if it actually moves the dial for the radiologist,” she said.

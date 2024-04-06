@@ -1,0 +1,7 @@
+When a job opens and is advertised, employers are inundated with hundreds of resumes. And 52 percent of talent acquisition leaders claim that screening all these candidates is the hardest part.
+For example, if the job is for a television sales account executive, AI will look for keywords like sales, television, revenue, etc. Then, it will send on resumes with these keywords and reject resumes without.
+Although this method has been around for a while, it’s becoming more popular. This technology makes it simpler and quicker to screen numerous people. Not only does it save time for the recruiter but also it speeds up the process for the candidate.
+This technique creates a level playing field since questions are standardized. As a result, biased questions are eliminated and it’s fair for all involved.
+Once the interview is complete, AI comes into play. The algorithm evaluates a candidate’s speech patterns, word selection, and facial expressions.
+But some people may have biases they aren’t even aware of, and they are programming the AI. The result has drawn a lot of legislation and regulatory actions. They fear the fairness and ethical issues tied to using AI in HR. The goal is to have greater oversight of using AI in human resources.
+It also eliminates repetitive and time-consuming tasks. This is because it automatically screens resumes, makes assessments, and schedules interviews.

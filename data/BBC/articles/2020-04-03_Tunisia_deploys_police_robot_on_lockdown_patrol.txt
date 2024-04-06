@@ -1,0 +1,17 @@
+A police robot has been deployed to patrol areas of Tunisia's capital, Tunis, to ensure that people are observing a coronavirus lockdown.
+If it spies anyone walking in the largely deserted streets, it approaches them and asks why they are out.
+They must then show their ID and other papers to the robot's camera, so officers controlling it can check them.
+This is the second week of a nationwide lockdown to contain the virus, which has killed 14 people.
+Everyone must stay in their homes, but people are allowed out for medical reasons or to purchase necessities.
+The North African nation currently has 436 people being treated for Covid-19, the respiratory illness caused by coronavirus.
+It is not clear how many of the Tunisian-built surveillance robots, called PGuards, have been deployed by the interior ministry.
+The manufacturer, Enova Robotics, told the BBC it was a confidential matter. It also refused to reveal the price tag.
+A four-wheeled PGuard has a thermal-imaging camera and Lidar (light detection and ranging) technology, which works like radar but uses light instead of radio waves.
+The interior ministry posted a video on Facebook about its futuristic mission to impose the restrictions not long after the lockdown started.
+Some welcomed the move, while others said the robot "moved too slowly" to be effective.
+But several videos have since appeared on social media showing people being stopped by a PGuard. In one a man, who is asked if he knows there is an ongoing lockdown, explains that he wants to buy cigarettes.
+The robot replies: "OK buy your tobacco, but be quick and go home."
+Before coronavirus swept the world, Enova's clients were largely private firms, its chief sales officer Radouhane Ben Farhat told me.
+The firm, which has its headquarters in the coastal city of Sousse, also produces a "healthcare" robot, he said.
+It can give a preliminary visual diagnosis and use its sensors to measure certain things - and one will be soon be working at a hospital in Tunis.
+This would help minimise physical contact between medics and patients with Covid-19, Mr Farhat said.

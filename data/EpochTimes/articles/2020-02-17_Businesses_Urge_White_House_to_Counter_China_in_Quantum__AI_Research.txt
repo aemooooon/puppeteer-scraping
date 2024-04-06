@@ -1,0 +1,30 @@
+One theme dominated the discussions at this year’s first meeting of the President’s Council of Advisors on Science and Technology (PCAST) earlier this month. The dominance and pre-eminence of the United States in the development of future technologies is under threat from an adversary: China.
+China is believed to be spending large sums on quantum research in its bid to dominate the field. Success, he added, will require an all-nation approach in the United States.
+Achieving quantum superiority in the United States “is the most impactful activity that industry must take to lead the world.”
+Over the next five years, multibillion-dollar levels of investment must be made, Gil said.
+“It is crucial to double system performance every year,” he added.
+Turning to artificial intelligence (AI), Gil noted that in recent years, U.S. industry “has made a large share of the investment.”
+Companies such as Google, IBM, Facebook, and others invested $65 billion in AI research in 2018 alone, he said. AI research and development will be in excess of $100 billion from now until 2025, he said.
+Meanwhile, “computing requirements [for AI] are doubling every three-and-a-half months,” Gil said, adding that “we’re talking about a real challenge here.”
+The United States “leads the world in free open source libraries and tools,” and American AI frameworks are the most widely used in the world, he added. U.S. AI industry players offer 5,000 AI publications per year, while industry collaboration with universities accounts for two-thirds of those articles, Gil said.
+To put those numbers into perspective, that number is seven times that of China, and double that of Europe, where the largest share comes from government sources, he said.
+“AI is pushing R&D. On the data side of things, China has the population advantage,” which gives it the opportunity to build crucial data banks for AI development that are larger than any other nation, Blunt said.
+“China also has a much different definition of what privacy means,” she added, suggesting that China’s data gathering standards violate international norms, as well as human rights.
+In the wake of a number of cases in which researchers in the United States have been fired or arrested for allegedly secret work for China while simultaneously using U.S. federal money for research at American universities, Droegemeier has been focusing on protecting U.S. research enterprise from exploitation by adversarial foreign countries.
+In order to address research safety, integrity, and productivity, PCAST Chairman Kelvin Droegemeier established JCORE, the Joint Committee on the Research Environment. As director of the White House Office of Science and Technology Policy (OSTP), Droegemeier serves as science adviser to the president.
+“It doesn’t matter where you come from,” he told the Washington Examiner in October last year. “If they break the rules, I don’t want them in the research enterprise.”
+STEM should be “mandatory all through the educational process,” Cathy Bessant, chief operations and technology officer at Bank of America, said.
+She added that she’s sure that her own children could have graduated “without any of that education in computers, IT, or the sciences,” but felt lucky that those subjects were available.
+STEM literacy also is crucial to professionals in non-STEM fields, she said.
+“There isn’t a ballerina today who doesn’t have a deep understanding of geometry. Or a NASCAR driver who doesn’t understand engineering,” Bessant said.
+“There’s a case to be made for the magnetism of the topics we are talking about.”
+Droegemeier agrees. “Start with the end in mind,” he said. The question is, “How do we entice people into the sciences?”
+They are not enticed by the tools of science, he said. “They are enticed by the subject matter.”
+IBM’s Gil offered a stark indicator of the American dilemma.
+“Fifty percent of Ph.D.s are not born in the U.S.,” he said. “What are we going to do?”
+The irony of his statement was reflected in the PCAST members themselves. Four of the 10 presidential science advisers at the table were born and raised outside of the United States. All four have Ph.D.s.
+Droegemeier calls his approach to the problem, “the G.I. Bill 2.0.”
+We need to take a “multisector, whole-of-nation approach to bring many more Americans into critical STEM programs,” he said.
+“Thousands, not dozens or hundreds, [are needed],“ he said. ”We need a skilled technical workforce.”
+“We need a full-court press” to bring American nationals into these areas, Droegemeier said of the need to fill sensitive STEM positions with domestic talent.
+“As the president says very eloquently,” he added, it is necessary “to align education policy with our visa policy,” since the United States wants to remain the international destination of choice for foreign students.

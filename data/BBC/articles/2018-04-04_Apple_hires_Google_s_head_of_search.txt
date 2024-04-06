@@ -1,0 +1,11 @@
+Apple has hired Google's former head of search and artificial intelligence to lead its machine learning and AI strategy. 
+John Giannandrea will report directly to chief executive Tim Cook, the New York Times reported on Tuesday.
+The appointment comes at the same time that the tech giant looks to develop its Siri digital assistant. 
+It was reported last week that Apple was looking for more than 150 engineers to work on the platform.
+Mr Giannandrea joined Google in 2010 after it acquired the search start-up Metaweb, where he had served as chief technology officer. 
+He previously worked as Netscape's chief technologist.
+Analysts say that Siri, which was first introduced on the iPhone 4S in 2011, has since fallen behind offerings from competitors, such as Amazon Alexa and Google Assistant. 
+The company's strong stance on protecting user data, as well as its secrecy, are thought to pose a challenge to machine learning - something that Apple has denied. 
+"Apple keeps more user data on the device, and sends less to its servers, than Google, Amazon or Facebook," Martin Garner, senior vice president of CCS Insight, told the BBC.
+"That's good for users, but it means it has less detailed data for training its AI models than the other players.
+"The AI world will be very interested to hear from Mr Giannandrea how he plans to tackle this dilemma to make Apple's AI fully competitive."

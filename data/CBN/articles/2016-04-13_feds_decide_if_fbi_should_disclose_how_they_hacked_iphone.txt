@@ -1,0 +1,10 @@
+Federal officials are weighing in on whether they should let Apple know how they hacked into the iPhone of one of the San Bernardino terrorists. 
+ The Washington Post reports that the FBI cracked Syed Farook's phone with the help of professional hackers.
+    
+Security experts have been calling on the government to disclose the data to Apple so it can be fixed, but the intelligence bureau is not disclosing who the hackers are or how they got into the phone.
+If the government shares data on the flaws with Apple, "they're going to fix it and then we're back where we started from," Comey said last week in a discussion at Ohio's Kenyon College.
+Sources familiar with the matter told the Washington Post that the bureau did not need the services of the Israeli firm Cellebrite as some earlier reports had suggested.     
+The solution brought to the bureau has a limited shelf life as it only works on iPhone 5Cs running the iOS 9 operating system. 
+Apple says it will not sue the government to gain access to the solution. 
+    
+Meanwhile, the final decision on whether the FBI has to release that information will be made by senior officials from the Justice Department, FBI, National Security Agency, CIA, State Department and Department of Homeland Security. 

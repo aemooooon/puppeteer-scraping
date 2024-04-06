@@ -1,0 +1,35 @@
+Over 60 schools are using facial recognition in what privacy campaigners say is making Britain a “surveillance society growing out of control.”
+“Biometric Britain: The Expansion of Facial Recognition Surveillance” lays out in detail how some schools—along with police, retailers, and tech companies—are expanding facial recognition while the European Union is legislating to restrict its use.
+The civil liberties group has now called for immediate government action on use of the technology, warning that Britain is at “great risk” of following in the footsteps of China and Russia’s high-tech surveillance states.
+The NGO said the use of biometrics in schools to perform relatively straightforward tasks—such as as paying for canteen food—has now become a significant threat to children’s data rights and privacy.
+Researchers found that in some schools, parents who opted their children out of using the technology were penalised financially by being told they would have to pay for a different type of swipe card, despite offering the facial recognition model for free.
+Large numbers also use fingerprint-based systems to identify pupils in the school canteen, or for cashless payments and other purposes such as library access.
+Parents use the technology to top up their child’s account online, which is charged by the school for meals they purchase in the canteen.
+Swipe cards, fingerprints, and, increasingly, facial recognition are used to identify the correct account on the school system so the right person is charged for the meal.
+Facial recognition systems operate by capturing a reference image of a child and associating it with their account.
+A camera in the canteen then takes an image of the child as they purchase their food, and the software matches the biometric faceprint of this image against the school database to identify the child. A cashier then charges the account.
+According to Big Brother Watch, schools that have adopted facial recognition systems cite several different reasons for processing biometric data for the simple task of facilitating lunch payments.
+The pressure group said the growing number of facilities using the technology suggest that facial recognition is “becoming worryingly widespread and normalised in the UK education system.”
+It said that around 85 percent of pupils using fingerprint readers were enrolled on the system, however similar statistics for children enrolled in facial biometrics are not yet known.
+It reports that LAT was swayed into rolling out the technology owing to benefits that include it being contactless, speeding up the lunch service, saving students from carrying around a card, and being secure.
+According to the “Frequently Asked Questions” section on the trust’s website, a parent who has already permitted their child’s fingerprint to be used in the cashless canteen, automatically permits the use of facial recognition “as both are forms of biometric processing.”
+According to the privacy group, “this is incorrect in law” and contradicts previous guidance from the Information Commissioner’s Office (ICO) around consent to biometric processing.
+The ICO says consent must “specify the nature of the special category data” and must also be “specific for each type of processing.”
+The report states: “In addition to the biometric faceprint the school also stores a photo of a child on the system for ‘added verification’—raising questions over whether facial recognition is necessary at all given that an ordinary photograph is subsequently used to identify the child—as it could be with a swipe card system.”
+Big Brother Watch suggests that the facial recognition system is “little more than a shortcut for staff” to search the database to identify the correct account to charge.
+It said the “most alarming” of the Leverhulme Trust’s policy is the fact that opting out of facial recognition is not free.
+It states parents or children who opt out of facial recognition must “purchase a card” as an alternative method of identification.
+ICO guidance states that for consent to be freely given, refusing consent must not come with a detriment.
+In 2021, nine schools in Scotland were forced to halt a roll out of FRT in canteens following a significant pushback from Big Brother Watch, which led to an ICO inquiry.
+The commissioner stated that schools could only rely on explicit consent as a legal justification to process the biometric data involved in facial recognition, under Article 9 of the GDPR Act, and clarified that other justifications such as public task would not be sufficient as biometric data processing is unlikely to be deemed necessary for school catering purposes.
+The guidance also pointed out that FRT poses “risks in terms of bias” and, given that children’s biometric data is being processed, additional protection of their rights may be merited.
+Trials of mobile phone-based facial recognition in South Wales saw people of colour being four times as likely to be subject to a biometric scan than their white peers.
+Victims, suspects, people thought to pose a risk of harm to themselves, and associates of any of those people, can be placed on police watchlists, meaning that a huge section of the public could be at risk from being added to facial recognition watchlists.
+Over 11 years since the High Court ruled that holding mugshots of innocent people was unlawful, no police force has made serious progress in deleting these photos, but millions more images have been added to databases, which amounts to 2.5 a minute, Big Brother Watch found.
+Five police forces have spent large sums on retrospective facial recognition tools, which identify people in photos or videos, while the Home Office has allocated £50 million for a centralised facial matching platform that will bring together law enforcement and immigration databases on one system.
+The use of FRT in the private sector appears to be more chilling, according to the group.
+The report exposes the growth of online face search engines where cyberstalkers can search anyone’s photos—including children—without consent, using facial recognition technology.
+“The UK has fallen completely out of step with the rest of Europe and the democratic world by opening the floodgates to facial recognition cameras, which are scanning the faces of millions of people across the country,” she said.
+“This Orwellian surveillance tech treats innocent members of the public like suspects in a police line-up.
+“Police forces, and even supermarkets and clothes shops, are now using ever more intrusive facial recognition technologies that often wrongly flag people as criminals, disproportionately misidentifying black people.”
+Carlo urged the government to “urgently stop” live facial recognition surveillance, while Parliament has a careful review of the regulations needed for the UK to “adopt biometric technologies more safely and responsibly.”

@@ -1,0 +1,6 @@
+The U.S. government may have another way of spying on possible suspects, or just about anyone at all for that matter.
+The method involves getting information out of any device or appliance connected to the Internet.
+Here's how it works. These days anything can be connected to the Internet -- from cars to televisions to household appliances, like refrigerators, to cell phones and more.
+It's called "the Internet of things."
+Director of National Intelligence James Clapper told the Senate last week that the government could hack into the Internet of things and get all kinds of information.
+That means your refrigerator could be watching you in the future.

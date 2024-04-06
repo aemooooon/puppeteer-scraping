@@ -1,0 +1,12 @@
+Spikes in hate speech on social media are to be tracked by an online tool - aimed at helping police pre-empt crimes on the streets.
+Cardiff University has been awarded £1m for its HateLab research programme.
+It will look at "trigger" events like terrorism and Brexit and how they may motivate hate crimes.
+An online hate speech dashboard is being developed, using artificial intelligence to monitor hate speech in real time.
+The aim is to enable police and support organisations to respond more quickly - and pre-empt online and street hate crimes.
+Experts believe the terror attacks between March and June 2017 were the main contributor to the 17% increase in hate crime in England and Wales in 2017-18.  
+Professor of criminology Matthew Williams, said Brexit had drawn sharp divisions in society.
+"Whatever the outcome, be it a second referendum, a soft-Brexit or a no-Brexit, there is concern that events will motivate more hate crime," he said.
+"As we saw following the 2016 vote, and to a more extreme extent following the 2017 terror attacks, surges in online hate speech coincided with significant increases in hate crimes offline."
+The dashboard is being developed in partnership with the National Online Hate Crime Hub, which was announced by the Home Secretary in 2017.
+The research team hopes HateLab, at Cardiff University's Data Innovation Research Institute, will allow hub staff to monitor hate speech "using cutting-edge ethical artificial intelligence."
+It wants to speed up responses to "trigger" events, to dispel rumours and stop hate speech spreading.  

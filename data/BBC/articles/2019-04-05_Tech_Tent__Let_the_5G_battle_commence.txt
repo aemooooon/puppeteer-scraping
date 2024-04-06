@@ -1,0 +1,16 @@
+The 5G era has finally begun. Both the United States and South Korea claim they have won the race to launch the first commercial next-generation mobile network.
+On the Tech Tent podcast this week, we assess those claims and ask how important it is to be first with this technology.
+South Korea was long expected to be first with 5G. It is a technological powerhouse with ultra-fast broadband, home to giant firms such as Samsung and a government that sees leading the world in connectivity as a matter of national pride. 
+Three networks were due to launch commercial 5G services on Friday when news emerged that an American operator was trying to steal their thunder.
+With quite a fanfare, Verizon launched its service on Wednesday in very limited areas of Chicago and Minneapolis. 
+So the South Korean operators moved their launches forward to the same day, although it appeared that only a handful of celebrities were able to use it on the first day.
+In both South Korea and the US, these are largely symbolic launches because just about nobody has a 5G-enabled mobile phone yet.
+But Ronan Dunne, president of Verizon Wireless, told Tech Tent that more than 30 US cities would be covered by the end of 2019. Half a dozen 5G handsets will be available.
+"We think the adoption rate and the pace at which coverage will grow will be even faster than we have seen in the past," he said.
+Telecoms expert Simon Forrest, from Futuresource Consulting, still thinks South Korea will make faster progress rolling out 5G than the United States, partly because the operators there have united to build the network.
+"They're working in unison to deliver services, whereas in somewhere like the US, each of those operators is competing with the other and building their own separate networks."
+He explains that South Korea and many other countries are using parts of the wireless spectrum best suited to reasonably fast, fairly wide coverage. This is known as the coverage capacity layer.
+In the United States, these ideal frequencies are largely occupied by the Department of Defense. Verizon is instead relying on millimetre wave, which offers very high speeds in a limited area. That means building a lot of new masts and that may be easier in some places than others.
+When 4G arrived, Asian countries were well ahead when it came to rolling out the new networks.
+This time the United States and Europe look well-prepared and a number of operators are planning to launch 5G in the second half of this year.
+What is still far from clear is just how eager consumers will be to pay for a technology that has been marketed as a solution for connecting things rather than people to the internet. 

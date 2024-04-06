@@ -1,0 +1,18 @@
+Amazon has unveiled a musical keyboard with a built-in artificial intelligence (AI) composer.
+The AWS DeepComposer is a two-octave, 32-key keyboard that can connect to computers via a USB cable.
+Users can play a short tune, or use a pre-recorded one, ask the keyboard to embellish it in one of four styles - jazz, classical, rock or pop - and then publish it on Soundcloud.
+But one expert said the audio demo provided by Amazon was "terrible".
+Prof Nick Collins, an expert on musical AI at Durham University, admitted it was difficult to evaluate the quality of DeepComposer based on the single audio example provided by Amazon in a blog.
+"If I had to judge just based on what was on that web page, I wasn't very impressed at all," he told the BBC.
+"It's terrible. A musician with a basic sequencing ability could easily mock up better examples."
+A spokeswoman for Amazon said the device was intended for developers as a "fun and engaging way" to gain new skills.
+Prof Collins said that, among more general users, it might fail to be seen as anything more than "a quick gimmick".
+Dr Oded Ben-Tal at Kingston University, who has worked on AI music projects, agreed.
+"I see people doing this five times and then saying, 'Yeah that's fine,' then [moving] on to something else," he told the BBC.
+Of the audio demo, he said: "I don't think it sounds good."
+Prof Collins even took issue with the name, adding that while he was intrigued by the rise of AI-enabled music tools and products in recent years, he was disappointed by their monikers.
+"They haven't even got to the best puns yet," he said.
+"I've been waiting for a system called Deep Purple or Deep-eche Mode but no-one's done it yet."
+DeepComposer uses a form of deep-learning AI called a generative adversarial network, which uses one neural network to generate content and another to quality check it. 
+Such systems have been used to, for example, invent new levels of classic video games or modify photographs so they look like Van Gogh paintings.
+The central idea in all these cases, DeepComposer included, is that AI can capture key features of an art form and transform other material so that it shares those features too.

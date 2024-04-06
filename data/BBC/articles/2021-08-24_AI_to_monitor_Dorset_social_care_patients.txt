@@ -1,0 +1,23 @@
+One hundred people in Dorset who need social care are to be monitored by artificial intelligence (AI) as part of a three-month pilot.
+Sensors installed in homes will track behaviour and electricity usage which the AI will analyse to spot potential health problems.
+Lilli, the UK-based firm behind the technology, says it could cut costs and the number of care visits required.
+But one expert said the scheme might feel invasive to some patients.
+People discharged from hospital often require care and support during their recovery, particularly those with joint replacements or conditions such as diabetes, dementia, long Covid and chronic fatigue syndrome, also known as ME.
+In the Dorset pilot, each participant will have an average of between six and nine sensors installed in their homes, said Nick Weston, chief commercial officer at Lilli. 
+The devices monitor movement, temperature and the use of specific appliances but there are no cameras. 
+"We'll look at how often they put the kettle on, how often they open the fridge," Mr Weston told the BBC. "Because we're monitoring on an individual level, we would see small changes in behaviour."
+The idea is to automatically register improvements in personal independence within the home or, conversely, flag up activity that might indicate a problem. 
+Overly frequent bathroom visits during the night, for example, could suggest a urinary tract infection or other concern.
+Mr Weston expects all participants to be enrolled by mid-September.
+Lilli believes it can reduce the number of support visits patients need by 780 hours each year and save £250,000 per year in costs for Dorset Council.
+"It has the potential to improve provision across Dorset and our partner organisations in the NHS, making sure we are able to support people safely in their own homes," said Piers Brown, lead member for health at Dorset Council.
+Mr Weston added that Lilli plans to roll out the system to two more places in England, one in the North East and one in south London.
+"We've got more people being treated in the community than ever before - technology has to support that delivery," he said.
+Technology that monitors people's health remotely, also known as telecare, is often cheap to roll out and can allow people who want more independence to achieve that, said Prof Tom Sorrell at the University of Warwick, who has studied telecare and care robotics.
+However, he added: "It can increase people's loneliness if what's happening is care visits are being replaced by technology."
+Mr Weston said the system was not just about cutting costs or reducing contact with patients but to ensure they were receiving the most appropriate care for their condition.
+"We shouldn't be relying on home care agency staff to provide the social interaction for somebody," he said.
+The Lilli system requires written consent from enrolled patients or someone authorised to give consent on their behalf, such as a family member, before it is installed.
+Data from participants' homes is encrypted both when transmitted and stored, and Lilli has said that only the organisation providing patient care will have access to it.
+Participants and their families would have to consider how comfortable they were with this form of behavioural monitoring, said Prof Anthea Tinker at King's College London's Institute of Gerontology.
+Some people may not like the idea that their toilet visits would be tracked by a computer, she suggested. And she noted that it could be difficult to obtain informed consent from certain patients.

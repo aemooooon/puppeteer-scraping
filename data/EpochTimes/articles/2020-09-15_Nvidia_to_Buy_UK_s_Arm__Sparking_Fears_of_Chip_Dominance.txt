@@ -1,0 +1,21 @@
+LONDON—U.S. graphics chip maker Nvidia said it plans to buy UK-based Arm Holdings in a deal worth up to $40 billion, in a move that would create a global powerhouse in the industry.
+The deal, announced late on Sept. 13 by Nvidia and Arm’s parent company, Japan’s SoftBank, raises concerns about the independence of Arm, one of Europe’s most important tech companies.
+The vast majority of the world’s smartphones run on Arm’s chip designs and it’s a vital supplier for companies such as Apple and Samsung. It’s also an innovator in chip technology that can power artificial intelligence for connected devices such as medical sensors, known as the “internet of things.”
+The company’s business centers on designing chips and licensing the intellectual property to customers, rather than chip manufacturing, for which it relies on partners.
+Being owned by a U.S. company could mean Arm is exposed to U.S. government export bans at a time when Washington is in a battle for technology supremacy with China.
+Under the terms of the deal, Santa Clara, California-based Nvidia will pay SoftBank $21.5 billion in stock and $12 billion in cash. SoftBank could earn a further $5 billion if Arm hits performance targets, while Arm employees will get $1.5 billion worth of Nvidia shares.
+Nvidia shares rose on news of the deal.
+SoftBank bought Arm for about $32 billion in 2016, in a deal that sparked fears one of Britain’s most successful tech companies would succumb to a foreign takeover. To allay the concerns, the British government got SoftBank to agree to keep Arm’s headquarters in the UK and double its British staff over five years.
+Nvidia CEO Jensen Huang said the U.S. company plans to keep Arm based at its headquarters in Cambridge, England, where it will also build an artificial intelligence research center.
+“Together we’re going to create the world’s premier computing company for the age of AI,” Huang told reporters.
+“We want more great engineers, not fewer;, we want more R&D not less. And we want that work to be done in the UK, in Cambridge,” Huang said, adding that it wasn’t about consolidation or cost savings.
+However, Hermann Hauser, who helped set up Arm, called the deal an “absolute disaster for Cambridge, the UK, and Europe.”
+Hauser, now a technology investor, told the BBC’s Radio 4 that his biggest concern was that it would degrade what he called the UK’s “economic sovereignty” because Arm would end up falling under the jurisdiction of U.S. export controls.
+That means “if hundreds of UK companies that incorporate Arm’s (technology) in their products, want to sell it, and export it to anywhere in the world including China, which is a major market, the decision on whether they will be allowed to export it will be made in the White House and not in Downing Street.”
+Arm CEO Simon Segars shrugged off the concerns. He said whether the U.S. has jurisdiction is determined by how and where products were developed, not the parent company’s ownership.
+“The majority of our products are designed in the UK or outside the U.S. and the majority of our products don’t fall under much of the U.S. export control set of rules,” he said.
+The deal would also destroy Arm’s “neutral“ business model, which has made it the “Switzerland of the semiconductor industry,” Hauser said. The arm has become successful by licensing its technology to more than 500 companies, many of which are rivals to Nvidia, and the sale would create a “monopoly problem,” he said.
+Nvidia plans to maintain its open licensing model and customer neutrality, Huang said.
+Regulators in the U.S., UK, China, and the European Union will need to approve the deal, which will need about 18 months to complete.
+The British government said it could intervene in the deal because of the “vital role” Arm plays in the UK’s tech sector.
+“The government monitors acquisitions and mergers closely and when a takeover may have a significant impact on the UK, we will not hesitate to investigate further and take appropriate action,” said Prime Minister Boris Johnson’s spokesman, James Slack.

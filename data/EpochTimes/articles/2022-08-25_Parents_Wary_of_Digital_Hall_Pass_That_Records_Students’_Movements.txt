@@ -1,0 +1,23 @@
+In the old days, when a student requested a bathroom visit during classroom time, the teacher handed them a hall pass made of paper or sometimes a wooden block.
+Now, many schools are taking the hall pass digital with SmartPass, a hall pass application that tracks students and generates weekly reports about trends in their movements.
+“Students are getting smarter and sneakier than ever, and you may not know that Betty and Bob have been meeting up every afternoon for the last two weeks, but SmartPass knows,” an advertising video directed at school administrators says, while explaining a new feature called Encounter Detection. “Behind the scenes we are using artificial intelligence to see which students have passes to similar rooms around the same time, and presenting you with actionable data to start a conversation.”
+For example, the data may show that two students from different classrooms asked to go to the water fountain five times last week, and their hall pass time overlapped for a few minutes each time.
+The weekly report also shows administrators how many total hall passes were generated, a list of student names and profiles ranking students from the highest number of passes used, how many teachers approved passes and how many encounters were prevented. That is, how many times students were prevented from having a pass at the same time.
+Not all parents are in favor of the app. The board of the Stroudsburg Area School District in Monroe County, Pennsylvania, voted last week to start using SmartPass in its schools.
+Parent Michelle Grana spoke to the board before the decision.
+“I said I’m upset about the lack of privacy involved, and with the data going into private corporate hands, and how their education is being outsourced to tech companies,” Grana told The Epoch Times about her comments to the school board. “You’re literally checking on underage students using a natural, private environment. That’s gross.”
+Grana said she believes teachers should be better trained in managing classrooms and children with behavioral needs, instead of looking to technology devices to aid in disciplinary actions.
+In response to the decision to use SmartPass, which she called the straw that broke the camel’s back, Grana has removed her children, including a high school senior, from the school.
+“Children should not be tracked to go to the bathroom,” Grana said.
+Shannon Grady, chair of the local “Moms for Liberty” chapter in Chester County, Pennsylvania, calls the app an invasion of privacy and says her group is preparing non-consent forms for parents to tell schools they will opt-out of using such technology.
+“There’s no big deal here,” Curry told The Epoch Times. He explained that students can set a meeting with a teacher in another classroom later in the week without leaving their current room to arrange a hall pass. It reduces traffic in the halls. And in case of emergency, students with an app on the phone could check in.
+For example, in a fire drill, when administrators are counting students to make sure everyone is out of the school, with the paper system, there could be many hall passes issued by many teachers. With 90 teachers in Stroudsburg High School, imagine if each one had written a hall pass before the fire drill, he said. They would have to compare 90 papers and find out where the students were last seen.
+But with SmartPass, Curry said, all the information is in one place and the school can more quickly account for everyone. Plus, kids who ended up walking out with another class can check in and provide their location.
+SmartPass limits the number of students allowed in the hallway at once by creating a digital waiting list. If the maximum number of students are already in the hall, the app tells students who requested a pass when it is their turn.
+Curry emphasized that no child has been, nor would be, denied use of the bathroom.
+“I just think that people have got to give it a chance and understand what it means,” Curry said.
+SmartPass can be installed on students’ phones or school tablets or laptop computers. During COVID-19 mitigation, some schools used SmartPass for contact tracing.
+Grady worries that if students become accustomed to scanning their phones or logging into the app as children, they won’t object to being tracked as adults.
+“You’re training my child to just ’scan it, scan it, scan it,' so then they get comfortable being tracked and traced every move,” Grady said. “It’s conditioning.”
+Curry says students and adults are already being tracked, but not by schools.
+The superintendent said it’s somewhat hypocritical for parents to object to SmartPass when they allow their children to have smartphones.

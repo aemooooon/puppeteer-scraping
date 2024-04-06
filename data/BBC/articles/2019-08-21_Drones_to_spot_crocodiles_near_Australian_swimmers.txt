@@ -1,0 +1,7 @@
+Drones using artificial intelligence to detect crocodiles near swimmers are being used in Queensland, Australia.
+Developed by Little Ripper Group, and the University of Technology Sydney, they can detect up to 16 different types of marine life, including sharks, and it says the system is 93% accurate.
+The drones feature sirens, speaker systems and flotation devices that can be dropped to swimmers in danger.
+Liverpool John Moores University's Dr Serge Wich called the idea "fantastic".
+"It's a great use of drones," he told BBC News.
+"If that helps to increase public safety, that's really useful."
+"The Queensland government said, 'Hey, do we have a challenge for you?' and asked, 'Can you spot crocodiles for us?'" Little Ripper Group co-founder Paul Scully-Power told tech site ZDNet at an Amazon Web Services conference in Canberra.

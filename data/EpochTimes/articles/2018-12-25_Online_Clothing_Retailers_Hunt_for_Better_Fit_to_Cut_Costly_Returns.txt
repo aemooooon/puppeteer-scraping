@@ -1,0 +1,24 @@
+BERLIN/MADRID, Spain—Models testing fashion brands like Adidas, Benetton, and Gap are finding that almost a third of the shoes and clothes they try on are bigger or smaller than the size on the label indicates, explaining why many clothes bought online are sent back.
+Calculating sizes more accurately could help online retailers like Germany’s Zalando and Britain’s ASOS cut costly returns and improve customer satisfaction.
+“If you try on the same brand in a different color it is sometimes a different size,” Zalando fitting model Savina Bellotto said as she squeezed a foot into a stiletto shoe with a shiny silver buckle that dug into her ankle.
+Discounting to shift stock means fashion retailers are struggling to preserve profit margins, and ASOS’s warning last week of a major downturn caused retail shares to tumble.
+Targeting returns, fast fashion firms like Zara and H&M have introduced software that suggests sizes for online customers. Customers type in height and weight, which are processed alongside historic data on purchases and returns.
+“Returns cost you a fortune. Firstly, you’ve got an unhappy customer, but also you’ve got the re-processing and putting it back into stock,” said Charlotte Kula-Przezwanski, a partner at Columbus Consulting, which specializes in retail processes.
+To crack the sizing problem, Zalando, Europe’s biggest online-only fashion retailer, told Reuters it was augmenting the data it gathers online with feedback from models who check new styles.
+“If we can put an article on a fitting model, just before or as an article is online, we immediately know there is a fitting problem,” said Zalando’s director of engineering Stacia Carr, adding that models flag about 30 percent of stock as too big or too small.
+Returns are a major issue for Zalando as about half the products it sells are sent back. A tradition of catalog shopping with free returns means customers in its German home market are comfortable sending back unwanted goods.
+Zalando co-CEO Rubin Ritter said in November the problems with processing returns had been resolved and the company was taking steps to increase the profitability of smaller orders such as making size recommendations to reduce returns.
+A change in fabric or design can have a big impact, Carr said, noting that size-related returns soared recently for one major denim brand after it adjusted its design. When Zalando flagged the issue, it changed back.
+“In this era of turning around articles very quickly, the corners that get cut sometimes impact the fit of the garment,” she said.
+Zalando’s small team of models initially tested shoes, but now they try on clothes too. Dresses, its top-selling category, also have the highest rate of returns.
+Models try on up to 120 shoes a day, measuring the inside with a special ruler and noting how each fits at heel, ankle, and toes, while also looking for strong smells or quality issues.
+“We know the Nordics like things more loose and oversized. The further south you go, it’s a tighter fit, the bodies are different,” she said. “We’ve all been surprised that we’ve been able to put a dent in this because it is such a complex topic.”
+British lingerie retailer Figleaves, owned by fashion group N Brown, supplements artificial intelligence with a feature letting a buyer speak to a fitting assistant via Skype.
+“Often it’s the customer care person who is showing on her body how something should fit,” said CEO Miriam Lahage. “What’s most important is that you have two people looking face-to-face and making a human connection.”
+Customers like the feature and returns have dropped since its introduction around 15 months ago, she says.
+A rise in returns is an inevitable part of the e-commerce boom, retailers say.
+“There’s a growing trend in return rates globally as the market matures,” said Roger Graell, director of e-commerce at Spain’s Mango, which expects to make at least one-fifth of sales online by 2020.
+“What we hope to do with technology is make that growth rate slower.”
+Mango uses sizing tools powered by Berlin-based software firm Fit Analytics, which was launched eight years ago and works with more than 200 companies—including ASOS, Tommy Hilfiger, Calvin Klein, and Hugo Boss—across 95 countries.
+Fit Analytics has more than doubled revenue every year over the past three years, says CEO Sebastian Schulze.
+“Margins are under pressure across the industry, you have to make sure people buy several times otherwise you don’t make money,” said Schulze.

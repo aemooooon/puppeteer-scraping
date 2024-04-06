@@ -1,0 +1,13 @@
+A drive to train 100,000 Scots in data skills over the next decade has been launched by two of Edinburgh's universities. 
+Edinburgh and Heriot-Watt said the new venture could transform the area into "the data capital of Europe".
+It is thought Scotland needs about 13,000 additional workers each year with data skills. 
+To help address that, the two universities are to increase data science teaching.
+They also plan to help schools and colleges across the area bring the subject into more classrooms. 
+There will also be investment in a data analysis facility, which will help 1,000 organisations use data to innovate within their sectors. 
+The Data-Driven Innovation initiative is part of the Edinburgh and South East Scotland City Region Deal, which is being backed with cash from both the UK and Scottish governments.
+Infrastructure Secretary Michael Matheson said the £300m the Scottish administration was investing would "help deliver inclusive economic growth across the region", with the Data Driven Innovation programme "key to this".
+He added: "We are working to ensure Scotland is an internationally recognised vibrant, inclusive, open and outward-looking digital nation."
+Scottish Secretary David Mundell said: "This exciting project - backed by £270m of UK government investment - will ensure that the UK leads the world in technologies of the future and benefits from the economic growth opportunities this brings. 
+"By giving 100,000 people, and 1,000 companies, the skills and capability they need to drive innovation through big data and artificial intelligence, this partnership working will help maximise the potential of these sectors - a key goal of the UK government's modern industrial strategy."
+Prof Charlie Jeffery, senior vice principal at the University of Edinburgh, said: "We are working not just in our universities, but also with schools, colleges and businesses so people have the opportunities to develop data skills across their life-course.
+"This could include young people about to enter the workforce, women returning after career breaks, or people looking to re-skill in mid-career."

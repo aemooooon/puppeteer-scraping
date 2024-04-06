@@ -1,0 +1,8 @@
+Predicting where and when conflicts will escalate into war or where food shortages might lead to famine could help peacekeepers and aid agencies intervene before they turn into humanitarian disasters.
+The world is witnessing an unprecedented humanitarian crisis. According to the UN, 68.5 million people were forcibly displaced from their homes due to famine, natural disasters and war in 2017. That is equivalent to 44,000 people forced to flee every day. These figures, which are the most up-to-date available, mark the highest level of displacement on record.
+The majority of these people come from three countries that have been torn apart by conflict – Syria, Afghanistan and South Sudan.
+Predicting where growing political, ethnic and religious tensions might spark into full-blown conflict is notoriously difficult. But researchers believe that artificial intelligence might help analyse the complex patchwork of information from potential war zones to predict where peacekeeping efforts can be focused.
+Organisations like the World Bank, the UN and the Red Cross are also turning to AI in the hope it can help them to tackle humanitarian disasters. The technology can analyse the complex factors that could indicate a famine is on its way or look for the warning signs that could lead to mass migration.
+Others are using the technology to help relief workers make sense of the chaos after natural disasters. Together this could help to ensure peacekeeping teams, aid workers and relief efforts get to the places that need them most at the right time.
+--
+Join 900,000+ Future fans by liking us on Facebook, or follow us on Twitter or Instagram.

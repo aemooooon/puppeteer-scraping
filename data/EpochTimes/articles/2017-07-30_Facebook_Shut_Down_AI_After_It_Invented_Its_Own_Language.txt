@@ -1,0 +1,19 @@
+The system developed code words to make communication more efficient and researchers took it offline when they realized it was no longer using English.
+The incident, after it was revealed in early July, puts in perspective Tesla CEO Elon Musk’s warnings about AI.
+“AI is the rare case where I think we need to be proactive in regulation instead of reactive,” Musk said at a meeting of U.S. National Governors Association in July. “Because I think by the time we are reactive in AI regulation, it'll be too late.”
+The phrases in the new language make no sense to people, but contain useful meaning when interpreted by AI bots.
+Facebook’s advanced AI system was capable of negotiating with other AI systems so it can come to conclusions on how to proceed with its task. The phrases make no sense on the surface, but actually represent the intended task.
+In one exchange revealed by Facebook to Fast Co. Design, two negotiating bots—Bob and Alice—started using their own language to complete a conversation.
+“I can i i everything else,” Bob said.
+“Balls have zero to me to me to me to me to me to me to me to me to,” Alice responded.
+The rest of the exchange formed variations of these sentences in the newly-forged dialect, even though the AIs were programmed to use English.
+According the researchers, these nonsense phrases are a language the bots developed to communicate how many items each should get in the exchange.
+When Bob later says “i i can i i i everything else,” it appears the artificially intelligent bot used its new language to make an offer to Alice.
+The Facebook team believes the bot may have been saying something like: “I'll have three and you have everything else.”
+Although the English may seem quite efficient to humans, the AI may have seen the sentence as either redundant or less effective for reaching its assigned goal.
+The Facebook AI apparently determined that the word-rich expressions in English were not required to complete its task. The AI operated on a “reward” principle and in this instance there was no reward for continuing to use the language. So it developed its own.
+“Like if I say ’the' five times, you interpret that to mean I want five copies of this item. This isn’t so different from the way communities of humans create shorthands.”
+AI developers at other companies have also observed programs develop languages to simplify communication. At Elon Musk’s OpenAI lab, an experiment succeeded in having AI bots develop their own languages.
+At Google, the team working on the Translate service discovered that the AI they programmed had silently written its own language to aid in translating sentences.
+The Translate developers had added a neural network to the system, making it capable of translating between language pairs it had never been taught. The new language the AI silently wrote was a surprise.
+There is not enough evidence to claim that these unforeseen AI divergences are a threat or that they could lead to machines taking over operators. They do make development more difficult, however, because people are unable to grasp the overwhelmingly logical nature of the new languages.

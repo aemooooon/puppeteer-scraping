@@ -1,0 +1,22 @@
+Clearview AI, a US firm with a database of three billion facial images from the internet, is facing a new legal challenge from privacy campaigners.
+Privacy International and others argue its methods of collecting photos and selling them to private firms and the police "go beyond what we could ever expect as online users".
+Clearview has said is has no contracts with any EU-based customers.
+It said it had complied with requests to remove images of EU citizens.
+Under GDPR rules, European citizens can ask the company if their faces are in its database and request that their biometric data is no longer included in searches.
+Five such requests were submitted by privacy campaigners.
+"We have voluntarily processed the five data access requests in question, which only contain publicly available information, just like thousands of others we have processed," said Clearview.
+It added that it had "helped thousands of law enforcement agencies across America save children from sexual predators, protect the elderly from financial criminals, and keep communities safe."
+It said that national governments had expressed "a dire need for our technology" to help investigate crimes such as money laundering and human trafficking.
+The legal challenge, supported by the Hermes Center for Transparency and Digital Rights, Homo Digitalis and noyb was submitted to data regulators in France, Austria, Italy, Greece and the UK.
+The New-York-based start-up uses an automated image scraping tool to collect any images containing human faces that it detects on the web. These are run through its facial recognition software and stored on a database, access to which is sold on to private companies and law enforcement agencies.
+"Clearview seems to misunderstand the internet as a homogeneous and fully public forum where everything is up for grabs," said Lucie Audibert, a legal officer at PI. "This is plainly wrong. Such practices threaten the open character of the internet and the numerous rights and freedoms it enables."
+"Just because something is online does not mean it is fair game to be appropriated by others in any way which they want to - neither morally nor legally," said Alan Dahi, data protection lawyer at noyb.
+"Data protection authorities need to take action and stop Clearview and similar organisations from hoovering up the personal data of EU residents," he added.
+Prof Alan Woodward, a computer scientist at Surrey University, said the case will open a complicated legal debate  "about who owns images placed online and how possible it is to enforce any rights if the images are taken across a national boundary".
+And there will be more fundamental questions about whether Clearview is invading privacy "by using these images in their database to enable government agencies to identify individuals", he said.
+Clearview AI is no stranger to controversy and has faced a flurry of legal challenges.
+The UK and Australian data regulators launched a joint probe last year, while Sweden has fined its national police authority for using the firm's technology to identify people.
+In February, Canada's federal privacy commissioner Daniel Therrien ended a year-long investigation into the firm, concluding that it collected images without user knowledge or consent and demanding that it delete photos of Canadians from its database. During the investigation, Clearview announced it would no longer operate in Canada.
+In the US, the American Civil Liberties Union is pursuing a lawsuit against the company in Illinois while Californian data laws mean users in the state can opt out of having their data sold, via a form on Clearview's website. 
+The firm came to prominence in January 2020 when a New York Times investigation revealed its business practices.
+Shortly afterwards, Twitter, Facebook and YouTube demanded that Clearview stop collecting images from its platforms.

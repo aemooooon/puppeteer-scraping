@@ -1,0 +1,54 @@
+LONDON (AP) - An unprecedented global "ransomware" attack has hit at least 100,000 organizations in 150 countries, Europe's police agency said Sunday - and predicted that more damage may be seen Monday as people return to work and switch on their computers.
+  
+The attack that began Friday is believed to be the biggest online extortion attack ever recorded, spreading chaos by locking computers that run Britain's hospital network, Germany's national railway and scores of other companies, factories and government agencies worldwide.
+  
+Jan Op Gen Oorth, spokesman for the Netherlands-based Europol, said the number of individuals who have fallen victim to the cyberextortion attack could be much higher.
+  
+He said it was too early to say who is behind the onslaught and what their motivation was. The main challenge for investigators was the fast-spreading capabilities of the malware, he said, but added that so far, not many people have paid the ransoms that the virus demands.
+  
+The attack held hospitals and other entities hostage by freezing their computers, encrypting their data and demanding money through online bitcoin payment - $300 at first, rising to $600 before it destroys files hours later.
+  
+The effects were felt across the globe, with Russia's Interior Ministry and companies including Spain's Telefonica, FedEx Corp. in the U.S. and French carmaker Renault all reporting disruptions.
+  
+On Sunday, Chinese media reported that students at several universities were hit by the virus, which blocked access to their thesis papers and their dissertation presentations.
+  
+Had it not been for a young cybersecurity researcher's accidental discovery of a so-called "kill switch," the malicious software likely would have spread much farther and faster. Security experts say this attack should wake up every corporate board room and legislative chamber around the globe.
+  
+Nonetheless, the experts say such widespread attacks are tough to pull off.
+  
+This one worked because of a "perfect storm" of conditions, including a known and highly dangerous security hole in Microsoft Windows, tardy users who didn't apply Microsoft's March software fix, and malware designed to spread quickly once inside university, business and government networks.
+  
+What's worse, those responsible were able to borrow a weaponized "exploit," apparently created by the U.S. National Security Agency, to launch the attack in the first place.
+  
+Darien Huss, a 28-year-old research engineer who assisted the anonymous British researcher who has been lauded a hero, said he was "still worried for what's to come in the next few days, because it really would not be so difficult for the actors behind this to re-release their code without a kill switch or with a better kill switch.
+  
+"Or we could potentially see copycats mimic the delivery or exploit method they used," he said.
+  
+Now that this "WannaCry" malware is out there, the world's computer systems are vulnerable to a degree they haven't been before, unless people everywhere move quickly to install Microsoft's security patches.
+  
+The worldwide effort to extort cash from computer users is the first widely successful example of ransomware that self-replicates like a virus, and it prompted Microsoft to quickly change its policy, announcing free security patches to fix this vulnerability in the older Windows systems still used by millions of individuals and smaller businesses. Normally, such patches are reserved for organizations willing to pay for extended support.
+  
+Security officials in Britain urged organizations to protect themselves by installing the security fixes, running antivirus software and backing up data elsewhere. Experts say this vulnerability has been understood among experts for months, yet too many groups failed to take it seriously.
+  
+The ransomware exploited a vulnerability that has been patched in updates of recent versions of Windows since March, but Microsoft until now didn't make freely available the patch for Windows XP and other older systems.
+  
+"The problem is the larger organizations are still running on old, no longer supported operating systems," said Lawrence Abrams, a New York-based blogger who runs BleepingComputer.com. "So they no longer get the security updates they should be."
+  
+Britain's National Cyber Security Center said it could have been much worse if not for a young cybersecurity researcher.
+  
+The 22-year-old Britain-based researcher, identified online only as MalwareTech, explained that he spotted a hidden web address in the "WannaCry" code and made it official by registering its domain name. That inexpensive move redirected the attacks to MalwareTech's server, which operates as a "sinkhole" to keep malware from escaping.
+  
+His move may have saved governments and companies millions of dollars and slowed the outbreak before U.S.-based computers were more widely infected.
+  
+But the kill switch couldn't help those already infected. Short of paying, options for these individuals and companies are usually limited to recovering data files from a backup, if available, or living without them.
+  
+The Windows vulnerability in question was purportedly identified by the NSA for its own intelligence-gathering purposes. Intelligence officials wouldn't comment on the authenticity of the claims. The tools appeared stolen by hackers, who dumped them on the internet.
+  
+British cybersecurity expert Graham Cluley doesn't want to blame the NSA for the attack.
+  
+"There are other criminals who've launched this attack, and they are ultimately responsible for this," he said. "But there's clearly some culpability on the part of the U.S. intelligence services. Because they could have done something ages ago to get this problem fixed, and they didn't do it."
+  
+He said most people "are living an online life," and these agencies have a duty to protect their countries' citizens in that realm as well.
+  
+"Obviously, they want those tools in order to spy on people of interest, on other countries, to conduct surveillance," Cluley said. "It's a handy thing to have, but it's a dangerous thing to have. Because they can be used against you. And that's what's happening right now."
+  

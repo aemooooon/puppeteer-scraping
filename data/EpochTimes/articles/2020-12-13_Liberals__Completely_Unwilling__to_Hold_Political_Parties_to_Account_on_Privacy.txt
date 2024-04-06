@@ -1,0 +1,24 @@
+OTTAWA—A leading expert on personal−information law says the Trudeau government is unwilling to hold political parties to the same level of accountability it is demanding of other organizations in its current revamp of the federal privacy regime.
+Teresa Scassa, a law professor at the University of Ottawa, says the Liberals are imposing significant new obligations on many organizations but “they’re simply not willing to hold themselves” and other parties to account as political entities.
+The Justice Department recently issued a discussion paper on revising the Privacy Act, which regulates the federal public sector’s collection, use and disclosure of personal data.
+The launch of a public consultation follows the tabling of a government bill by Innovation Minister Navdeep Bains that would give people more control over their information in the digital age, with potentially stiff fines for companies that flout the rules.
+However, neither initiative addresses calls from the privacy commissioner and accountability advocates who want federal laws governing personal information to apply to political parties.
+Information about prospective voters is helpful to political parties for everything from door−to−door canvassing to crafting platforms, and there are new concerns about how parties use such information to track and target people in the era of algorithms and vast databases.
+Scassa says the government could ensure federal parties abide by provisions that would require them, for example, to obtain consent to use personal information, report data breaches when they happen and erase personal details upon someone’s request.
+“There’s a lot that you could put in there that would dramatically improve the protection of individuals’ privacy, when it comes to political parties,” Scassa said. “They seem completely unwilling to do so. It’s a very significant problem.”
+It might be necessary to include exceptions in the law around how parties communicate with voters or espouse their ideas, she concedes.
+But basic fair−information principles can apply, “especially since the kind of information that political parties are now starting to collect and use goes way beyond what used to be the case, and some of them are in engaging in much more sophisticated profiling of people and so on,” Scassa added.
+Others calling for explicit application of privacy law to parties include privacy commissioner Daniel Therrien and the Centre for Digital Rights, established by businessman and philanthropist Jim Balsillie.
+Justice Department spokesman Ian McLeod said the Privacy Act applies to federal government institutions and federal public bodies, and since political parties are private organizations, “they would not be captured by the act’s scope.”
+Asked about the possible inclusion of political parties in federal privacy law governing private−sector organizations, Bains spokesman John Power noted the 2018 Elections Modernization Act created requirements for political parties to protect Canadians’ personal information.
+Parties are now required to have “a publicly available, easily understandable policy” for the protection of personal information, a document that must be submitted to Elections Canada, he said.
+Scassa said these provisions fall short of what’s needed.
+“A requirement to have a privacy policy without more, without proper accountability and proper safeguards, it’s just not good enough.”
+The discussion paper on overhauling the Privacy Act says the government faces the dilemma of updating a decades−old law so that Canadians can benefit from the many promises of the digital environment, while respecting modern expectations about how their information should be used, managed and protected.
+Among the changes it proposes:
+-Give federal agencies greater flexibility to use and disclose personal information that has undergone an established process for removing personal identifiers;
+-Spell out rights related to public awareness of interactions with automated decision−making systems, such as artificial intelligence tools;
+-Give the privacy commissioner greater powers to more effectively address complaints and expand the range of matters for which individuals can seek legal remedies.
+Definitions of what the government considers to be personal information and publicly available information, particularly in the context of the online world and social media, would be welcome in a revised law, said Tim McSorley, national co−ordinator of the International Civll Liberties Monitoring Group.
+McSorley would also like to see a rights−based approach to management of personal information, saying it would amount to a profound change by placing privacy rights on a footing with other fundamental guarantees.
+In addition, he flags elements of the discussion paper that suggest police and spy agencies could be exempted from certain requirements, given the secret nature of their investigations.

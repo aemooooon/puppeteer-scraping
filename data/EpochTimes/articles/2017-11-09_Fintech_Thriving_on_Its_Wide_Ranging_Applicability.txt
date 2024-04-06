@@ -1,0 +1,23 @@
+TORONTO—In the massive world of financial services, there is plenty of room for improvement in areas ranging from payments processing and money transfers to online wealth management, lending, banking, and analytics.
+Enter the fintechs—small, new, cutting-edge tech-enabled companies.
+“We’re trying to do something like maybe a few years ahead of its time—it’s different,” Rabie said in a phone interview. “We’re going for a bigger payoff at a slower time frame.”
+Rabie, 31, says the book is still being written on machine learning—getting computers to learn without explicit programming. His company is using it to simplify and prioritize vast quantities of information and provide key insights to financial professionals.
+Rabie has an economics background and is a self-taught software engineer.
+BigTerminal began with his desire to “attack the Bloomberg terminal.” The Bloomberg has become ubiquitous for specialized financial markets professionals, but Rabie wanted to provide more capability than it did in analyzing historical data.
+His custom data analytics built up a solid base of clients, which put him in the enviable position of being able to cover his costs as a startup.
+The amount of information financial professionals need to process is mind-boggling, and the field of machine learning can greatly improve the situation.
+“If we can leverage that data, there’s probably a better way we help ‘de-noise’ the world for people,” Rabie said. “That’s the main goal here. There’s too much information. It’s impossible to parse through it.”
+Through tagging, scoring, and sentiment indicators, Rabie says his software can simplify what’s in a 10,000-word document and get salient points to the user based on his or her preferences.
+“To help knowledge workers do their jobs better, that’s definitely a big, big opportunity,” Chapados said.
+Rabie’s passion is central banking—which has taken on a greater importance since the financial crisis. BigTerminal plans to launch its central bank toolkit early next year.
+The additional roadblocks of regulation combined with an oligopoly of large banks in Canada might make for an overwhelming challenge to fintech’s propagation.
+But Rabie says the big banks’ oligopoly makes them slower to innovate and that they are behind the trend in a number of technologies including blockchain and machine learning. This provides ample room for fintechs to grow.
+And instead of trying to unseat the big banks, many fintechs have shifted to building partnerships with them as they try to scale up and build their customer bases.
+Regulation, which Rabie says can make fintechs more cautious and conservative, isn’t a major impediment for what he wants to accomplish since his firm doesn’t manage money. A lot of the regulatory compliance burden falls on his clients.
+The challenge many tech firms face—including BigTerminal—is finding the right talent to grow. The long-standing culture of financial services has typically seen financial professionals working separately from IT specialists, but fintech is bringing the two fields closer together.
+Fintech brings about greater financial inclusion. Services once only thought of as the domain of the wealthy are now fair game for anybody with a smartphone—regardless of what part of the world they’re in.
+At the heart of a lot of fintech development is data—everything from personal to economic, to historical, to financial etc. Harnessing and humanizing that data has the potential to bring tremendous value added.
+“Data is the most important asset we have now,” said Andrew Young, senior quantitative analyst at BigTerminal, at the Toronto Global Forum.
+“Power will transfer to the owner of the customer experience,” according to the report. A better customer experience than what the big banks provide has been the mother of invention that gave birth to fintech. Machine learning has a natural application in this space.
+“The VC space is super hot for fintech,” Rabie said. “Thankfully, we aren’t looking to raise capital right now, but it seems like if we needed to or wanted to, it’s a very attractive time.”
+Toronto ranks as the second-largest financial centre in North America after New York City and is a thriving hotbed for fintech. Rabie says there’s a buzz about fintech in the city.

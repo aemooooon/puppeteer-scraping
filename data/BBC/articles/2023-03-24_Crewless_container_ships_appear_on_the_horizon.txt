@@ -1,0 +1,32 @@
+Cruising quietly through the Frier Fjord in southern Norway, the Yara Birkeland looks like an ordinary small ship.
+However, by the end of the year, the number of crew on board will be reduced from five to two and then, if all goes well, in two more years the vessel's bridge will be removed and there won't be any crew on board at all.
+Until then, Captain Svend Ødegård is at the helm of the 80m-long ship. "We are taking big steps towards autonomy," he tells the BBC. "There's a lot of installed technology there, that is not on existing ships."
+Eventually the Yara Birkeland will navigate aided by sensors, including radar and cameras, which will feed data to an artificial intelligence, which will detect and classify waterborne obstacles. 
+"We have situational awareness - cameras on the side, front and stern of the ship," the captain explains. "It can decide whether to change its path because something is in the way."
+The captain's job will move onto dry-land, to a remote operation centre more than 80km (50 miles) away, where several ships could potentially be monitored at the same time. If necessary, humans will be able to intervene by sending commands to alter the speed and course. 
+Owned by fertiliser giant Yara, the Yara Birkeland has been sailing twice weekly for last several months from the firm's enormous plant near Porsgrunn to the port of Brevik, carrying up to 100 containers and collecting data along the 13km (8 miles) route.
+"Vessels which operate along short, regular and fixed routes offer good opportunities to introduce autonomous ship technologies," says Sinikka Hartonen, Secretary General of One Sea Association, an alliance of maritime companies and experts working in autonomy.
+The project's technology provider, Kongsberg is working on another two battery-powered autonomous barges in the Oslo Fjord, with Norwegian grocery wholesaler Asko, and a fourth, small container ship, near Ålesund. 
+"Some of the technology has already been around for many years. So it's really putting it together," says An-Magritt Ryste, director for next generation shipping at Kongsberg Maritime. 
+According to Ms Ryste, there's also interest in using autonomous navigation in fishing, passenger ferries and military vessels.
+Kongsberg already makes autonomous underwater vehicles (AUVs), which largely carry out seabed mapping tasks for customers in offshore energy, ocean research and defence.
+Recently, the firm delivered an 8m, unmanned surface vessel (USV) that detects fish stocks, using acoustic sonars and navigating by AI, cameras, radar, and GPS.
+"They're also supervised by humans, who can intervene. But they are fully autonomous," says Bjørn Jalving, Kongsberg's Senior Vice President of Technology.
+Kongsberg has been scaling up the technology for larger vessels. "Eventually I think limitations will not be technical, it's a matter of making it safe and secure in compliance with regulations, and good business for the operators," says Mr Jalving.
+Of course one of the big attractions for shipping firms, is the costs saved by not having a crew aboard. One team could potentially monitor several ships, says Mr Jalving. Plus it's safer for a crew to be on land, rather than at sea.
+Other companies are also working on autonomous shipping projects.
+Last year in Japan, a 222m car ferry self-navigated and docked using technology by Mitsubishi Shipbuilding Company.
+Meanwhile, a commercial ship completed a month-long voyage from Texas to South Korea, navigating autonomously for about half of the 20,000km route.
+The ship's optimal route choice saved fuel and emissions, according to the ship's technology provider, Avikus, part of the ship building firm HD Hyundai.
+More technology of business:
+"You can use autonomy to limit tasks that are dangerous or boring," says Marius Tannum, an Associate Professor of Applied Autonomy at the University of South-Eastern Norway. 
+"The Yara Birkeland project and the Asko barge project are pushing the technology out into the real world, and not just in research labs, like we have been doing for many years."
+When it comes to safety, crewless vessels need to perform as well, if not better than captained ships says Prof Tannum, who believes there will always needs to be a backstop - someone monitoring who could intervene if necessary. 
+"Since this is very new technology and not tested in real life that much, we need this transitional period with crew on board," Prof Tannum says. "Then gradually, we can trust the autonomy to do more." 
+Autonomy opens up possibilities for new designs though, he adds. "Without crew you can have more capacity for goods, because you don't need the living quarters, galley, heating, air conditioning and other systems," Prof Tannum adds.
+There's scepticism whether large unmanned ships could be crossing oceans any time soon, though. "First the legal challenges must be resolved. And then the ships needs robust energy and propulsion systems that require very little maintenance," points out Prof Tannum.
+One of the biggest hurdle is regulation and new rules will have to be drawn up.
+"Current legislation has been developed based on the presumption that the equipment onboard a ship is fully manually controlled," says Sinikka Hartonen, adding that the International Maritime Organization is now working towards a framework. 
+"The regulation is totally new territory for the marine authorities and politicians in Norway. What they do will have consequences internationally," says Yara project manager Jon Sletten.  
+Whatever happens, progress in autonomous shipping is likely to move more quickly than autonomous cars and trucks, according to Prof Tannum.
+"Autonomous cars move in high-speed close to both dynamic and static obstacles, road conditions vary and the complexity that cars in regular traffic faces is more challenging than ships.

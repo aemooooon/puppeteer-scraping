@@ -1,0 +1,15 @@
+The head of Australia’s security and intelligence agency has conveyed a clear message—and threat—that any criminals or state actors seeking to conduct cyber attacks on Australia should be wary of the nation’s counter-offensive capabilities.
+Rachel Noble, director-general of the Australian Signals Directorate (ASD)—a government agency responsible for intelligence, cyber security, and offensive operations—said that Australia’s ability to detect and retaliate against cyber attacks now posed a significant threat to malicious actors.
+“ASD is increasingly becoming the first and last line of digital defence that protects our country from cyber attacks ... and we are right now fighting that battle with criminals, state actors and serious and organised crime,” Noble said, reported the Australian Associated Press.
+“But we do want our adversaries to know that we are here.
+“We want them to calculate: Today is not the day.”
+Noble said the strength of Australia’s offensive operations had grown to the point that the nation was now capable of shortening any war it got involved in.
+Noble also said that a quarter of all cyberattacks on Australia had targeted energy, water, telecommunications, health services, and other critical infrastructure.
+This included attempts from state actors to gather intelligence or implant bugs and malware capable of denying, degrading, or disrupting the vital services at their discretion.
+She said that while Australia would never seek out conflict, its intelligence capabilities allowed the ASD to “undertake offensive cyber operations as no one else can.”
+The Australian Cyber Security Centre (ACSC), a department of the ASD, has been Australia’s front line of defence against cyber incidents and has reportedly seen a 13 percent increase in cyber crime in the last 12 months.
+“We have to attribute who’s doing it and make them pay a price right now,” Alexander previously said. “The ransomware guys, and Russia, predominantly get off pretty much free.”
+“Imagine if we indicted [them] and put their picture up and said ‘that’s the guy,’” Alexander said. “And if we can, we will arrest you. You can’t move out of Russia, you’re going to have to stay there for the rest of your life … we got you. We know who you are.”
+Alexander suggested a radar-like mechanism that would show cyber attacks across private and public industries that could be shared with allies to create a bigger picture and respond accordingly.
+However, Alexander raised concern that, currently, attacks on the private sector were difficult to detect.
+“I think the biggest problem that I faced in government, and that we face today, is governments—not just ours, but yours as well—can’t see attacks on the private sector. Yet the government is responsible for defending the private sector,” Alexander said.

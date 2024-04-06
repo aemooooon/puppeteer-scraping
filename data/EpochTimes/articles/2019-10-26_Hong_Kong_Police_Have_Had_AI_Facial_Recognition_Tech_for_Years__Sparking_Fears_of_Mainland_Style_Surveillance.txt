@@ -1,0 +1,11 @@
+As the Hong Kong protests continue into their fifth month, and police brutality intensifies, fears are growing that law enforcement authorities are using artificial intelligence facial recognition software from a Sydney-based company to quell the ongoing pro-democracy protests.
+Sources familiar with the matter, who spoke on condition of anonymity, said the technology was initially supplied to find missing children, but it is uncertain if the software is now being used to identify individuals amid an increasing crackdown on pro-democracy demonstrators.
+In a training session after protests in Hong Kong kicked off in June, police officers reportedly specifically asked iOminiscient staff how to use dashboard cameras to automatically identify license plate numbers.
+Bonnie Leung, a district councilor and a former leader of the Civil Human Rights Front told Bloomberg demonstrators continue to wear face masks for fear of being identified with mainland-style surveillance.
+“Hong Kong people are afraid of being captured by the CCTV cameras,” Leung said.
+Although Hong Kong authorities have claimed built-in facial recognition is not being used throughout the city in its CCTV cameras at China government offices, or in its recently installed smart lampposts, Chief Executive Carrie Lam’s administration has yet to quash fears the technology is being used to monitor protests.
+Meanwhile, iOmniscient has so far refused to respond when asked whether its technology has been used for crowd control in Hong Kong.
+Stuart Hargreaves, a law professor at Chinese University of Hong Kong told Bloomberg: “Is the ‘facial recognition’ simply the police combing through video footage for ‘known individuals,’ or is there some kind of automated AI [Artificial Intelligence] system at play?”
+“The truth is we simply do not know.”
+The Epoch Times reached out to iOmniscient for comment, but did not immediately hear back.
+Hong Kong’s protests have plunged the region into its biggest political crisis in decades and has taken a heavy toll on its economy.

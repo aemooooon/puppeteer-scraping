@@ -1,0 +1,24 @@
+Should you be asking a voice-activated speaker intimate questions about your health? And is it important that the scientists behind AI systems actually understand how they work? 
+These are two questions we seek to answer in this week's Tech Tent podcast.
+"What are the symptoms of Parkinson's disease?"
+If you are a UK user putting that question to Amazon's voice-controlled speakers, the answer will probably now come from the NHS, thanks to a new partnership between the tech giant and the UK's National Health Service.
+In effect, what is happening is a simple web search that prioritises useful and accurate information.
+That may not sound controversial but immediately many people did raise concerns about the NHS working with a tech giant such as Amazon.
+"What I'm concerned about is that the NHS has sought a partnership with Amazon that seems to encourage people to give private health details to a company that profits from people's private data," Silkie Carlo from the campaign group Big Brother Watch tells the programme.
+Amazon insists it will not be sharing health data with third parties or using any health questions asked to target advertising at customers.
+But Carlo is not convinced.
+"How would they be able to differentiate between people searching for books and music and people searching for information about health concerns?" she asks.
+If this means Amazon intends to create a separate dataset of people's health concerns, that is even more worrying, she says.   
+But William Tunstall-Pedoe, whose company developed the software that became Alexa, takes a different view.
+He no longer has a connection with Amazon, but says people have been asking Alexa health questions for years and it is important that they get good answers.
+"This partnership means that the information is high-quality, clinician-led information from the NHS, where previously it might not have been," he says.
+He says it is legitimate to have concerns about how health data will be used, but the same worries apply to every search engine that we use to ask similar questions.
+As artificial intelligence and autonomous systems make rapid advances, two other problems are emerging. 
+Sometimes the scientists behind AI are not really clear what is happening inside their black box systems. Sometimes technology users are not even aware that machines are making decisions without human intervention.
+Researchers at the Centre for Assuring Autonomy at the UK's York University call this phenomenon "accidental autonomy".
+The centre's director Prof John McDermid gives an example: the software that is being blamed for the two crashes involving Boeing's 737 Max aircraft.
+"To avoid having to retrain pilots, Boeing decided not to tell them about the system thinking it would operate automatically in the background. In essence, they didn't need to know," he says.
+He says that with vital software, it is essential that the operators - the pilots in this case - understand what is happening and are able to take over control from the autonomous system if necessary.
+His colleague Dr Ana MacIntosh says there is a wider issue with understanding what is going on inside all sorts of complex AI systems.
+"The 'explainability' of the decisions which are being taken by systems is very different to having a conversation with a human who previously might have made those decisions," she says.
+"We don't understand in many cases how those decisions are being made."

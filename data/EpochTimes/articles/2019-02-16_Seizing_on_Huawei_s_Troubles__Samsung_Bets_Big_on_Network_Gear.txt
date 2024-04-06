@@ -1,0 +1,26 @@
+SEOUL—Samsung Electronics is pouring resources into its telecom network equipment business, aiming to capitalize on the security fears hobbling China’s Huawei, according to company officials and other industry executives.
+Those efforts include moving high-performing managers and numerous employees to the network division from its handset unit, two Samsung sources said.
+French carrier Orange’s chief technology officer, Mari-Noëlle Jégo-Laveissière, visited Japan last year and was impressed with the pace of 5G preparations using alternative equipment makers including Samsung, a company representative told Reuters.
+“Samsung is doing a big push in Europe at the moment,” one industry source said, declining to be identified.
+Underscoring the growing importance of the business, South Korean Prime Minister Lee Nak-yeon visited Samsung’s network division in January. In a closed-door meeting during that visit, Samsung heir Jay Y. Lee asked for government help with recruiting high-level engineers.
+Australia and New Zealand have joined the United States in effectively barring Huawei from 5G, and many other countries, especially in Europe, are considering a ban.
+Huawei’s woes have presented Samsung with a rare opportunity. Telecom firms would ordinarily stick with their 4G providers for 5G upgrades as they can use existing gear to minimize costs, but many firms may now be under political pressure to switch.
+“We’re bolstering our network business to seize market opportunities arising at a time when Huawei is the subject of warnings about security,” said one of the Samsung sources.
+The sources, who did not disclose specific figures for the employee moves, declined to be identified as they were not authorized to speak on the matter.
+Keen to seek new growth, particularly as sales of its mainstay chips and smartphones have begun to drop, Samsung plans to invest $22 billion in 5G mobile technology and other fields over three years. It declined to break down how much will go to 5G and the other areas—artificial intelligence, biopharma and automotive electronic parts.
+“Samsung is focused on building trust with our partners and leading the global 5G markets, regardless of other companies,” it said in an emailed statement to Reuters.
+“We don’t think 5G is far away in India,” a Samsung official with direct knowledge of the matter told Reuters. He declined to be named due to the sensitivity of the matter.
+Samsung’s clients include U.S. firms AT&T Inc, Verizon Communications Inc and Sprint Corp and it has 5G network contracts with all three, though it was not clear how extensive those contracts are. It also sells to South Korean carriers and has partnered with Japanese mobile carriers to test its 5G equipment.
+In many cases, Samsung supplies only small pieces of networks. According to market tracker Dell'Oro Group, the South Korean firm holds just 3 percent of the global telecom infrastructure market compared with 28 percent for Huawei.
+“We need more software engineers and want to work with the government to find that talent,” Lee was quoted as saying by government officials at his meeting with the prime minister.
+Samsung’s network business unit employs roughly 5,000 people, according to a government official in the southern city of Gumi where Samsung operates its manufacturing plants.
+Kim Young-woo, an analyst at SK Securities, expects Samsung to hire 1,000-1,500 people for 5G network equipment this year. Samsung declined to comment on network employee levels and hiring plans.
+But Samsung’s bet remains risky as the long-term nature of telecom network investment means change comes slowly.
+Sweden’s Ericsson and Finland’s Nokia, which acquired the remnants of once-powerful network equipment companies Alcatel-Lucent and Nortel, have as yet seen little sales growth from Huawei’s problems, company executives said.
+Both are in cost-cutting mode, even in the face of the 5G opportunity and the problems confronting their biggest rival.
+Indeed, some network operators in Europe are warning that a Huawei ban—now under consideration in France, the UK, Germany and other countries—could push back deployment of 5G by as much as three years.
+Others warn Samsung may struggle to develop a global sales and support organization.
+“The way telcos purchase products and services from their suppliers demand a lot of time and resources, which is why Ericsson and Nokia have around 100,000 employees and Huawei almost twice as many,” said Bengt Nordstrom, CEO of telecom consultancy Northstream.
+But Samsung is taking the long view. In December, it agreed to extend its Olympic partnership with the International Olympic Committee through to 2028 and expand its sponsorship to 5G technology.
+The company did not want to leave its sponsorship spot open to Chinese rivals, a separate source with knowledge of the matter said.
+“If Samsung dropped the top mobile sponsorship for the Olympic games beyond 2020, then who would have taken that spot? It would only have been China, Huawei.”

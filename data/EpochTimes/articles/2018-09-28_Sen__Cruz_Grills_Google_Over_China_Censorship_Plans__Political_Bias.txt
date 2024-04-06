@@ -1,0 +1,21 @@
+Sen. Ted Cruz (R-Texas) closely questioned a Google representative regarding the company’s Dragonfly project to allegedly develop a censored internet search engine for China. Cruz also asked about Google’s alleged bias against conservatives.
+Chief Privacy Officer Keith Enright confirmed Dragonfly’s existence, but denied knowledge of what the project entailed during his testimony before the Senate Commerce, Science and Transportation Committee on Sept. 26.
+He said a “search product” for China isn’t close to release.
+The project developed an app, for phones using iOS and Android operating systems, that required users to log in with their phone numbers. It also tracked user search histories and locations and censored terms such as “democracy,” “human rights,” and “peaceful protest,” according to the sources.
+The Chinese communist regime runs the world’s most sophisticated system of internet censorship and requires foreign companies to censor topics it deems “sensitive,” such as democracy, human rights, and the ongoing persecution in China of Tibetans, Falun Gong practitioners, human rights activists, and others. Companies are also forced to share with the regime any data stored in China.
+Cruz kept digging, however, and asked whether project Dragonfly exists and what it is.
+Enright said Google has “an array of internal projects” and that it wouldn’t be “necessarily appropriate” in a conversation about privacy “to speculate as to what we might be looking at in terms of a product launch in some part of the world.”
+“You’re not answering my question then on Project Dragonfly?” Cruz asked.
+“There is a project Dragonfly,” Enright said.
+Cruz continued: “And it’s focused on a search engine in China. Is that accurate?”
+“We are not close to launching a search product,” Enright said, apparently attempting to repeat his previous answer, but Cruz stopped him and rephrased his question. “I didn’t ask timing of launch. I asked what it is.”
+“I am not clear on the contours of what is in scope or out of scope for that project,“ Enright said. ”But I can say that if we were close to launching a search product in China, myself and my team would be very actively engaged to ensure that it was going through the appropriate privacy review process and that it was consistent with our privacy values and the commitments that we’ve made to our users.”
+The trouble is, the internal privacy review process of Dragonfly was “a catastrophic failure ... which one of the reviewers characterized as actively subverted,” according to Poulson’s letter.
+“No sir,” he replied. “We build products for everyone. And in my experience, I see no evidence of bias in the way that our products or services operate.”
+Enright acknowledged, however, that his view didn’t go beyond personal experience. “I have not reviewed data,” he said.
+Cruz further asked, “Are you aware of efforts to actually empirically assess and determine it?”
+“As chief privacy officer of Google, I am not aware of such efforts,” Enright said.
+Google didn’t respond to a request for further information on the issue.
+The search results could have influenced millions of voters in Clinton’s favor, Epstein estimated, though he stopped short of accusing the company of producing the bias deliberately, which Google denied.
+Silicon Valley is known for having a mostly left-leaning workforce and management.
+Google co-founder Sergey Brin said to a large audience of employees he was “deeply offended” by the election of President Trump and that “most people here are pretty upset” as shown in a video of a post-election Google meeting leaked to Breitbart.

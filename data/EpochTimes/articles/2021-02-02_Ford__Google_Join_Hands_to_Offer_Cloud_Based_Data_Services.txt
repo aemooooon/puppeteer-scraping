@@ -1,0 +1,10 @@
+Ford Motor Co will tap into software, artificial intelligence and cloud computing offered by Alphabet’s Google to develop new consumer services and modernize internal operations, the companies said on Monday.
+As part of a six-year partnership, the Dearborn, Michigan-based automaker will incorporate the tech giant’s Android operating system into its Ford and Lincoln vehicles starting in 2023.
+Ford will offer its customers built-in Google apps, including its map and voice technology. It will deploy Google artificial intelligence technology to improve the efficiency of vehicle development, supply chain and manufacturing operations, the companies said.
+The companies will also form a group, Team Upshift, to explore uses of data to develop new retail, create new ownership offers and other services for Ford customers.
+Ford customer data will not be handed over to Google or Google advertisers, Ford vice president for strategy, David McClelland, said during a conference call.
+The automaker will continue to use other cloud service providers and collaborate with other tech companies such as Amazon.com, he said.
+“Will Ford be like Foxconn? No. Absolutely not,” McClelland said, alluding to a fear among some auto sector executives that auto manufacturers would be relegated to low-margin hardware assembly, like iPhone assembler Foxconn, in any deal with a technology industry power.
+McClelland and Google Cloud chief Thomas Kurian did not disclose details of the commercial terms of the agreement.
+The Google-Ford partnership reflects growing pressure on automakers to speed up software and data-enabled services that can generate revenue or cut costs.
+Ford, like its established rivals, has watched electric vehicle maker Tesla become the world’s most valuable automaker by far, in part because investors view Tesla as far ahead when it comes to the software and data management required for connected and electric cars.

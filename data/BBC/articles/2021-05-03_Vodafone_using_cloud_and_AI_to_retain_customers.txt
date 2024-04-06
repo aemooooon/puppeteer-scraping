@@ -1,0 +1,32 @@
+Vodafone is teaming up with Google to develop a cloud-based data platform to help telcos find new opportunities and improve relationships with customers.
+Numerous studies have found that telcos are increasingly struggling to find new revenue streams, despite investing heavily into 4G and 5G networks. 
+The partnership is the latest trend showing a convergence between the telecoms market and Silicon Valley.
+But there are concerns over where in the world customer data is processed.
+The deal is set to last for six years and will involve a collaboration of up to 1,000 staff from both mobile operator Vodafone and tech giant Google, located in the US, Spain and the UK. 
+The idea is to help Vodafone create and deploy new digital services simultaneously in multiple countries for both consumers and enterprise customers, as well as to gain new insights from customer data to improve relationships and boost customer retention.  
+If the platform is a success, it would be a further boost for the public cloud computing market, which is projected to grow by 23.1% to $332.3bn (£239.3bn) in 2021, according to research firm Gartner. 
+"Telcos are investing an insane amount of money into network equipment and spectrum licences for 4G and 5G, but they are struggling with profitability to get returns on their investments, because the investments are extremely high," Leif-Olof Wallin, a research vice president at Gartner told the BBC.
+"They need to operate more efficiently to reduce costs, which is why they're using public cloud services."
+Gartner research shows that customers are much happier when they can upgrade to a new phone, change contracts or add services to existing agreements instantly by themselves, without having to wait on hold and speak to customer service staff in call centres.
+According to Mr Wallin, it is much more expensive to try to acquire new mobile subscriber customers, than it is to keep existing customers happy and tweak their services as time goes on. 
+He says Vodafone has long had an ambition of being able to eventually automate at least 50% of all changes or upgrades to existing contracts and agreements.
+As part of these efforts, the mobile operator launched a "friendly" artificial intelligence-powered digital assistant chatbot app called TOBi in 2017.
+Consumers download the app and ask TOBi questions. The app, powered by IBM Watson artificial intelligence (AI), is able to instantly access information about common topics like international roaming or accessing 5G, and it can also pull up customer records to help users with a problem. 
+The mobile operator also has an existing deal with Amazon Web Services (AWS), to bring business applications and computing power closer to where the data is located, using the cloud and 5G mobile internet - a concept called "edge computing". 
+The Google deal is meant to expand on this concept of automating customer service, as well as speeding up the global delivery of consumer and enterprise services. 
+Vodafone says it has so far identified 700 use cases where it believes having a data platform would come in handy. It says the benefits would include reducing costs by simplifying and centralising its operations.
+"This is an important announcement which highlights the level of technology transformation happening in telecoms which is perhaps more dramatic than in any other industry at the moment," said Nick McQuire, chief of research at consultancy CCS Insight. 
+"With the changes brought on by the pandemic, along with the transition to 5G and the cloud happening across the sector, operators are getting aggressive in turning to data analytics and machine learning to help them drive improvements to operations, and above all, improve the customer experience."
+However, there are concerns over how customer data will be transmitted from Vodafone to Google, and any other partners.
+In March, Spain's data protection authority AEPD fined Vodafone €8.15m for violating multiple GDPR data protection laws, including Article 44, which forbids the transfer of personal data to countries that are not within the European Economic Area, or to countries with legislations not in accordance with GDPR.
+And in July, the Court of Justice of the European Union (CJEU) ruled that it is illegal to share personal data with US cloud providers, due to concerns over "invasive US surveillance programmes".
+"This is clearly a big deal for both Vodafone and Google. However, it appears to ignore the Schrems 2 decision, based on the GDPR, that governs data transfers between the EU and the US," independent telecoms analyst Ian Grant told the BBC. 
+"Firms active in the EU, such as Vodafone, may not use cloud services provided by US-based firms, as US law allows US government agencies, such as the NSA, to request and get data on anyone whose data is processed on US-owned clouds anywhere in the world."
+Google says Mr Grant's view that it is "illegal" to share data with US cloud providers is inaccurate.
+However others agree, such as Anja Hoffmann, a lawyer and policy analyst for German think-tank the Centre for European Policy (CEP), who told German newspaper Handelsblatt that "data transfers from companies in the EU to cloud services in the US such as Microsoft, Amazon, Google or Dropbox are illegal if the data recipients there are subject to US surveillance laws and have access to the data content in plain text".
+The sharing of personal data between the EU, Switzerland and the US was previously governed by a framework known as Privacy Shield, which was designed by the European Commission.
+Other countries can only transmit personal data with the EU if they have data protection laws in place that the European Commission considers to be adequate.
+But the Schrems 2 decision in July invalidates the Privacy Shield framework. However, the framework itself is not mandatory and companies have to decide whether they want to opt in.
+Either way, no new legislation or deviations from GDPR have yet been agreed by the UK.
+So while there may not be a law in place governing how personal data is currently being transmitted between US cloud providers and the UK - even if the data centre is in Europe - Mr Grant says this could be "unquestionably risky".
+Vodafone told the BBC in response: "We have strict intra-company contractual provisions in place that ensure data flows between the EU and the UK are lawful.

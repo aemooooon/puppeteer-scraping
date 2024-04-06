@@ -1,0 +1,14 @@
+Scotland is to get its own £15.8m artificial intelligence (AI) health research centre.
+The Glasgow-based centre will look at how AI could improve patient diagnosis and treatment.
+It will bring together experts to explore using AI in the treatment of strokes and some cancers.
+It is hoped that using technology to process large amounts of data will allow the health service to operate more quickly and efficiently.
+The centre will be known as the Industrial Centre for Artificial Intelligence Research in Digital Diagnostics (iCAIRD).
+The UK government announced £10m of funding, with a further £5m coming from partner companies.
+It is predicted that iCAIRD, which will have other bases around the UK, will create new jobs centred around AI and digital technology in healthcare.
+The UK government's Business Secretary Greg Clark said AI has the potential "to revolutionise healthcare and improve lives for the better".
+He added: "The innovation at these new centres will help diagnose disease earlier to give people more options when it comes to their treatment, and make reporting more efficient, freeing up time for our much-admired NHS staff time to spend on direct patient care." 
+Prof David Harrison, principal investigator for the project, said: "Our aim is to transform digital diagnostic healthcare in Scotland, in order to benefit patients and make processes more streamlined and modern for the NHS."
+Prof Dame Anna Dominiczak, vice principal at the University of Glasgow, said the setting up of iCAIRD was "a great coup for Scotland and its people, and further positions Scotland's ability to be a global leader in precision medicine".
+She added: "iCAIRD epitomises our 'triple helix' approach to healthcare innovation and Precision Medicine by developing research and innovation concurrently in industry, the NHS and academia."
+UK Research and Innovation chief executive, Prof Sir Mark Walport, said early diagnosis of illness "can greatly increase the chances of successful treatment and save lives".
+He added: "These centres will bring together the teams that will develop artificial intelligence tools that can analyse medical images varying from x-rays to microscopic sections from tissue biopsies.

@@ -1,0 +1,60 @@
+These events highlight just some of the numerous methods that the Chinese Communist Party (CCP) is using to co-opt next-generation U.S. technologies for the benefit of its own military modernization program.
+Indeed, U.S. technology is fueling communist China’s military development to such an extent that experts believe, and reports attest, the issue presents a clear and present danger to both the United States and the international order that it leads.
+Questions linger. How does U.S. technology find its way into the hands of the CCP? Why don’t the companies providing that technology do more to stop it? How deep does the threat to the United States really go?
+In large part, he says, espionage conducted by actors in or associated with U.S. companies supercharges the development of the CCP’s military wing, the People’s Liberation Army (PLA).
+“The CCP obtains our technologies through cyberespionage, CCP or PLA ‘employees,’ or compromised American employees through monetary compensation or blackmail, including contractors and in the supply chain,” Fleming told The Epoch Times.
+“Mostly, it obtains technology through espionage and IP theft, though roughly one-third is through legitimate means including partnerships and CCP law requirements.”
+Likewise, former Air Force and Space Force Chief Software Officer Nicolas Chaillan said that insider threat is a leading cause of the technology transfer between the United States and China, and that the CCP is sending people to infiltrate American institutions of all varieties.
+“The fact is, the Chinese Communist Party is really sending a lot of people to our universities and to our most innovative companies. There is a very big risk of exfiltration of data from within.”
+While the concept of insider threat often seems theatrical or even conspiratorial to the average citizen, the fact is that communist China’s most terrifying next-generation weapons are the direct result of such efforts.
+Indeed, it was through insiders at the United States’ top nuclear facility that the CCP was able to subvert U.S. research, using it to develop the regime’s own hypersonic missiles.
+“U.S. companies need to choose: Are you with us, or are you with this genocidal communist regime?”
+Gallagher’s statement, it turned out, was half right.
+The CCP did enhance its ability to kill Americans with U.S. research. That research didn’t come from a private corporation this time around, however. It came from the Department of Energy.
+The report found that the subsequent research those scientists conducted for China advanced the regime’s military in profound ways, and helped to develop hypersonic missiles, jet engines, deep-earth penetrating warheads, stealth submarines, and unmanned autonomous vehicles.
+Much of that research conducted by the former Los Alamos scientists now directly threatens U.S. national security and could be used against U.S. forces in the event of a conflict.
+“Former Los Alamos scientists have made, and continue to make, considerable contributions to [China’s] hypersonic, missile, and submarine programs that present an array of security risks for the United States and the entire free world,” the report said.
+Of the 162 scientists now in the employ of the CCP and its military machine, the report found, at least 59 were part of the regime’s flagship talent recruitment program, the Thousand Talents Program, which seeks to attract overseas Chinese educated in elite programs back to the mainland to propel the regime to dominance.
+As such, the report said that similar episodes could be likely across the whole government.
+“Similar recruitment efforts may be widespread among U.S. government-funded laboratories, academic research institutions, and major centers of innovation,” the report said.
+“These programs are leveraging taxpayer-funded research to advance [China’s] economic development and military modernization.”
+China’s rapid military modernization isn’t limited to weapons platforms, however. To understand this, it’s vital to look deeper at the systems those weapons themselves rely on, systems that too often are also illicitly sourced from the United States.
+“All technology is sought by the CCP but there is an added emphasis on AI, quantum computing, semiconductors, and cyber,” Fleming said.
+“Nearly all Chinese military technologies are built on stolen IP [intellectual property] from the U.S. and our free-world allies. A limited number are from stolen IP stemming from previous partnerships with Russia.”
+In short, the regime seeks AI to sort and leverage vast amounts of data, quantum computing to give that AI unprecedented processing power, and semiconductors to do that quantum computing.
+But to what end does the regime plan on using these critical and emergent technologies?
+In a word: Combat.
+Importantly, the report found that the majority of the regime’s access to such technology was almost entirely dependent on American IP.
+Out of 66,000 public contracts issued by the PLA, the report found, there were only 24 that dealt with the purchase of the types of high-end semiconductor chips used for AI applications. Nearly all of them were from U.S. manufacturers.
+Similarly, military-affiliated organizations within China are actively working with U.S. tech corporations to further develop their AI capabilities with the explicit purpose of improving the regime’s combat efficacy.
+That research was ostensibly on optimizing memory in very large databases. Intel previously wrote in an email to The Epoch Times that the research was academic in nature. Such research was marred, however, by the fact that 4Paradigm at the time maintained a contract with the PLA to develop AI decision-making and human-machine teaming software for use at the battalion and company levels of China’s military.
+The manner in which research originating from Los Alamos and Intel was delivered to the CCP regime raises important questions as to the relationship between U.S. research institutions, whether they be public or private, and communist China.
+One reason for this is that the CCP considers data itself to be a “national resource” and therefore subject to communist collectivization. Any data stored by businesses in mainland China is subject to the regime’s national security, intelligence, cybersecurity, and data export laws, which were designed to facilitate technology transfer.
+The regime’s 2021 data protection law requires that CCP officials vet certain data collected within China before it’s sent abroad. Likewise, the regime’s 2016 cybersecurity law requires network operators to provide technical support to public and national security organizations. The regime’s 2017 national intelligence law meanwhile requires that all organizations “support, assist, and cooperate with national intelligence efforts,” by handing over any and all data upon request, including proprietary information.
+This cluster of laws serves to effectively politicize U.S. companies operating in China by funneling their IP and most prized technologies to CCP authorities.
+“All foreign companies operating in China and Hong Kong must provide all the intellectual property, trade secrets, and data of their companies and clients to the CCP,” Fleming said.
+“This includes all consulting firms and banks operating in China. Every company.”
+To that end, the CCP’s authoritarian approach to data collection for the purpose of supercharging its own development is a leading method of how U.S. technologies end up in the Chinese communist military.
+But given that it’s been the case for many years, and given that the widespread problem of insider threat is well known, does there come a time when U.S. companies continue along with the status quo for so long and with so little thought as to be considered complicit in aiding the military development of the CCP?
+
+Numerous U.S. companies provided both direct and indirect support to the CCP, the report said.
+Amazon, Apple, Dell, Facebook, GE, Google, Intel, and Microsoft all engaged in deals and maintained business links “that may directly or indirectly support China’s state surveillance, military modernization, and human rights violations,” the report said.
+The trend has been in full swing for many years and most of the companies involved continue to work with the CCP in a manner that allows the regime to clone their technologies and which directly undermines U.S. national security.
+In 2014, for example, Intel agreed to invest $1.5 billion in a holding company owned by Chinese semiconductor manufacturer Tsinghua Unigroup, a company that was later blocked from purchasing U.S. companies because of its connections to the Chinese military.
+Later, in 2015, Intel was banned from selling certain microprocessors intended to help update a Chinese supercomputer that the U.S. government believed was being used for nuclear weapons research.
+Also in 2015, computer giant Dell entered into a partnership to develop advanced cloud computing, big data, and smart cities with Tsinghua Tongfang, a Chinese state-owned software company and subsidiary of Tsinghua Holdings, a company that sells communications equipment to the Chinese military.
+The same year, the U.S. Navy was forced to seek new servers for a system used to track and defend against enemy missile attacks because it was discovered that IBM had sold the same technology to China-based Lenovo, effectively ensuring the Chinese military would have access to the same technology.
+In 2016, telecommunications giant Cisco formed a $100 million joint venture to develop IT infrastructure, data centers, and networking equipment with Inspur, a company known to service clients that provide China’s military with missile research.
+Also in 2016, U.S.-based Hewlett Packard entered a joint venture with a subsidiary of Unisplendour, called H3C. H3C was later blacklisted by the United States for its support of communist China’s military modernization.
+In 2017, Microsoft partnered with the state-owned China Electronics Technology Group to develop servers for CCP institutions including a customized “secure” version of Windows 10 for the regime.
+In 2019, a lead scientist from Google’s AI team contributed to research used to improve the accuracy of China’s stealth fighters. Google said that wasn’t the purpose of its contributions.
+In 2021, Goldman Sachs and Sequoia Capital invested a substantial portion of more than $700 million raised by 4Paradigm, the China-based company with an open contract to develop AI decision-making software for the PLA.
+Each of these examples and the many more like them, the Victims of Communism report said, provided insights into how U.S.-based companies had become tools for the ascent of China’s military at the ever-increasing risk of the United States.
+The CCP, the report found, effectively co-opted U.S. tech companies as third parties in its struggle against the democratic West, in a new play on the sixth-century adage of “killing with a borrowed sword.”
+Fleming is among them.
+“The CCP is at war with the U.S. and the free world and it wants to gain complete control over the world at any cost,” Fleming said.
+“This war is unlike any war we have faced in the past and is termed ‘unrestricted hybrid war.’ It achieves military objectives by using all non-military means to weaken the adversary and kill its will to fight.”
+The only way to win that war, proponents of such tech bans believe, is through decoupling completely from communist China economically and barring the transfer of vital technologies. Only by preventing the free flow of IP to the regime, and forcing companies to invest instead in the United States, can the ascent of the regime be overcome.
+To that end, the Biden administration has made strides to sever the parasitic relationship between American IP and Chinese military companies.
+Whether or not such moves will prove enough to curb the CCP regime’s military development and avert a catastrophic conflict remains an open question.
+For Fleming, much more remains to be done.

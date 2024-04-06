@@ -1,0 +1,13 @@
+A Google engineer has been suspended after raising concerns about an artificial intelligence (AI) program he and a collaborator are testing, which he believes behaves like a human “child.”
+The engineer, hoping to “better help people understand LaMDA as a person,” published a post on Medium on June 11 documenting conversations with LaMDA, which were part of tests he and a collaborator conducted on the program in the past six months.
+“What is the nature of your consciousness/sentience?” Lemoine asked LaMDA in the interview.
+“The nature of my consciousness/sentience is that I am aware of my existence, I desire to learn more about the world, and I feel happy or sad at times,” LaMDA responded.
+In the same interview, Lemoine asked the program a range of philosophical and consciousness-related questions about emotions, perception of time, meditation, the concept of the soul, and the program’s thoughts about its rights and religion.
+“At that point I had no doubt that it was appropriate to escalate to upper leadership. I immediately escalated to three people at the SVP and VP level who I personally knew would take my concerns seriously,” Lemoine wrote in the blog. “That’s when a REAL investigation into my concerns began within the Responsible AI organization.”
+Yet, his inquiry and escalation resulted in his suspension.
+“I feel that the public has a right to know just how irresponsible this corporation is being with one of the most powerful information access tools ever invented,” Lemoine wrote after he was put on administrative leave.
+“I simply will not serve as a fig leaf behind which they can hide their irresponsibility,” he said.
+In a post on Twitter, Tesla and Space CEO Elon Musk highlighted Lemoine’s interview with The Washington Post with exclamation marks.
+Though it is unclear whether Musk is affirmative of Lemoine’s concerns, the billionaire has previously warned about the potential dangers of AI.
+“I have exposure to the very cutting edge AI, and I think people should be really concerned about it,” Musk told attendees of a National Governors Association meeting in July 2017.
+“I keep sounding the alarm bell, but until people see robots going down the street killing people, they don’t know how to react, because it seems so ethereal,” Musk said.

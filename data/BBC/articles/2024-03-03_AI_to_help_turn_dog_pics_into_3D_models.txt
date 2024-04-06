@@ -1,0 +1,13 @@
+Photographs of dogs could be used to help generate 3D models more accurately, a study has revealed. 
+Researchers at the University of Surrey taught an artificial intelligence (AI) system to predict the 3D pose from a 2D image of a dog.
+A myriad of virtual dogs were created using the video game Grand Theft Auto.
+Postgraduate research student Moira Shooter said: "From ecology to animation, this neat solution has so many possible uses."
+One way to teach AI to get 3D information from 2D images is to show it photos while giving it information about 3D 'ground truth' - where the objects are in 3D space.
+For humans, that means wearing motion capture suits.  
+Unable to replicate the same with dogs, researchers altered the code of Grand Theft Auto V, switching the main character for one of eight breeds of dog - a process known as modding.
+They generated 118 videos of the dogs sitting, walking, barking and running in a range of different weather and lighting conditions.  
+The team called their new database DigiDogs, which was made up of 27,900 frames.
+They now plan to fine tune the system using Meta's DINOv2 model to make sure it can predict a 3D pose just as well from real dog pictures.  
+"Our model was trained on CGI dogs, but we were able to use it to make 3D skeletal models from photographs of real animals," Ms Shooter said. 
+"That could let conservationists spot injured wildlife, or help artists create more realistic animals in the metaverse. 
+She added: "3D poses contain so much more information than 2D photographs."

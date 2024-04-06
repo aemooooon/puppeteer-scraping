@@ -1,0 +1,7 @@
+Google users can soon combine images and text in search queries, a feature unveiled on Wednesday that could help the Alphabet Inc unit expand its role in e-commerce and dominance in online video.
+The new feature will arrive within months through its Google Lens search tool, the company said in its livestreamed Search On conference. Google said in May that advances in artificial intelligence software would make this possible.
+“With this new capability, you can tap on the Lens icon when you’re looking at a picture of a shirt, and ask Google to find you the same pattern — but on another article of clothing, like socks,” Senior Vice President Prabhakar Raghavan said.
+“This helps when you’re looking for something that might be difficult to describe accurately with words alone.”
+The technology also sorts within videos, including on Google’s YouTube, already the internet’s biggest streaming service.
+“Your bike has a broken thingamajig, and you need some guidance on how to fix it,” Raghavan said. “The point-and-ask mode of searching will make it easier to find the exact moment in a video that can help.”
+Users will be able to run reverse-image searches when surfing on the Google iOS app or the Chrome desktop browser. Selecting an image will pull up similar online visuals, which could help shoppers find where to buy items seen in photos and ultimately lead them to Google Shopping, its rival to Amazon.com Inc’s marketplace.

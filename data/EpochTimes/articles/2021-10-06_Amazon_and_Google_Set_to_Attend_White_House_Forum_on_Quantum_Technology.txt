@@ -1,0 +1,10 @@
+WASHINGTON—Amazon.com Inc, Google, and Microsoft Corp are expected to join a Biden administration conference on Tuesday focused on quantum technologies as the U.S. government works to head off hacking threats and corner a burgeoning growth industry.
+The White House’s Office of Science and Technology Policy (OSTP) is hosting the event that will discuss critical applications of quantum computing, which is expected to operate millions of times faster than today’s advanced supercomputers.
+Boeing Co, Honeywell International Inc, International Business Machines Corp, Intel Corp, and Northrop Grumman Corp are also expected to attend, according to an administration spokesperson.
+“There’s a lot of excitement about quantum computers and quantum sensors, and there’s some hype associated with that,” said Charlie Tahan, assistant director for quantum information science at OSTP.
+“But what we really want to get down to: what are the applications that a future quantum computer could run that could really benefit our society.”
+The technology, which is based on core principles of physics, is still in its infancy but has become a darling of investors aspiring to revolutionize healthcare, finance, artificial intelligence, weather forecasting, and other areas.
+President Joe Biden’s administration is especially focused on the national security implications of quantum technology, which promises the ability to easily crack encryption standards in use today.
+China, which Washington regards as its chief rival abroad, has also made significant efforts to develop the technology.
+The Biden administration is also hoping to encourage more students to enter the field and to increase cybersecurity around private research and development to prevent snooping, Tahan said.
+Congress has already funneled hundreds of millions of dollars into the industry, including quantum research laboratories, and bills currently under consideration now could add billions more.

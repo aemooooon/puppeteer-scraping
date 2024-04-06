@@ -1,0 +1,21 @@
+The Waterloo corridor, which runs between the cities of Toronto and Waterloo in Canada, is home to coyotes, deer and, increasingly, tech firms.
+Google, Research in Motion and thousands of start-ups have offices there as the area positions itself to be the next Silicon Valley.
+Having an area like this is becoming increasingly important as cities look to tech to help solve problems like congestion and pollution.
+"Tech hubs are an important aspect of any city," said Bob Crow, managing director of the Institute of Quantum Computing, which is based in the corridor.
+"Cities are desperate for cash and many are serving citizens with the same or less money than years ago. There is a built-in need to find ways of economising, whether it be making better use of the streets, or moving people around more efficiently, and cities are looking for technological change."
+His own area of research, quantum computing, can offer strides towards these goals.
+"Quantum computers and quantum sensors will be used in future and they have a profound ability to look at unstructured data and information which cities are increasingly collecting, and address it quickly," said Mr Crow. 
+"With today's technology we can use sensors to discover that the trash needs to be emptied somewhere and we can find a vehicle to do that. With quantum computing we can talk to all of the bins and all of the bin lorries at the same time and they will tell us where bins need cleaning and we can plan an entire route."
+650 kilometres away in Montreal, the city is looking to artificial intelligence to get the most out of one of its most valuable assets - trees.
+Earlier this year Infra.AI piloted a program that helped identify ailing trees on city streets. The AI system it developed was shown images of healthy trees and from that was able to identify the ones that the council needed to maintain or replace.
+"Trees are worth about half a billion Canadian dollars to the city in terms of how they can help fight air pollution but also increase property prices and general ambience and this kind of proactive tree management is good for the city," said Bettina Tratz-Ryan, a smart cities expert at research firm Gartner.
+As cities collect more data from a range of sources, they need to share it with digital hubs, entrepreneurs and local universities, she said.
+"It means these groups can use the city as a test bed for technology. It provides a real setting for their trials, the ability to get data straight away, and it shortens the time for smart implementations." 
+But Adrian Smith, professor of technology and society at the University of Sussex, thinks cities need to be cautious.
+"It is a brilliant idea to open up these problems to a greater diversity of people but unless you have involvement of the neighbourhoods, both in coming up with the challenges and the solutions, then it is just a quick fix," he said.
+London's tech hub - dubbed Silicon Roundabout - is one of the world's most expensive when it comes to the cost of office space, beating those in similar areas in San Francisco, Dublin and Los Angeles.
+While its rents may be exorbitant, its value to the city is even greater, thinks Scott Cain, the chief business officer of London's innovation hub, the Future City Catapult.
+"We think that the role of urban innovation hubs that address the needs of cities is significant - it brings a whole bunch of actors together, from local authorities, to universities, to the health service to transit authorities, to think about the tricky problems facing cities."
+He cites three examples.
+But alongside the innovation, London has also found itself mired in dispute with arguably one of the most innovative firms to enter the capital - Uber - over whether the taxi app firm needs greater regulation.
+It is a dichotomy which many cities need to wrestle with as they partner with tech firms, thinks Mr Cain.

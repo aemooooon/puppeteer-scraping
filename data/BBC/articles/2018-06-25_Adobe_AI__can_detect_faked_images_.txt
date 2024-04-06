@@ -1,0 +1,14 @@
+The company behind the photo-editing program Photoshop says it has developed a tool that can detect if an image has been tampered with.
+Vlad Morariu, an Adobe researcher, employed artificial intelligence to scan for signs of manipulation that are not usually visible to the naked eye.
+The AI could tell if an element had been added, moved or cut from a photo.
+But the company warned that no piece of technology could provide a foolproof verification system.
+Photoshop, which was created 28 years ago, is a powerful image editor, and its name has become a verb for image manipulation.
+Existing verification tools can scan an image file's metadata - which contains information on when and where a photo was taken - for signs of mischief, and look for things like inconsistent lighting.
+But such tests are easily defeated.
+Mr Morarium, who spent 14 years researching ways to spot image manipulation, taught an artificial intelligence network to recognise signs of colour change and noise inconsistencies in tens of thousands of pictures.
+The initial study focused on three common manipulation techniques:
+"Each of these techniques tend to leave certain artefacts, such as strong contrast edges, deliberately smoothed areas, or different noise patterns," he notes.
+Mr Morarium, whose research was carried out in conjunction with the US government agency Darpa, said the algorithm might also detect differences in illumination and unusual compression in the future.
+He added that Adobe, which brought image manipulation capabilities to the masses, was "uniquely positioned" to create tools to determine authenticity.
+One expert said the core techniques in Adobe and Darpa's research have been widely known for nearly 20 years, but the use of machine learning might help reveal tampering that is not immediately apparent. 
+Yet Hany Farid, a professor of computer science at Dartmouth College in New Hampshire, warned that no artificial intelligence solution would be infallible. 

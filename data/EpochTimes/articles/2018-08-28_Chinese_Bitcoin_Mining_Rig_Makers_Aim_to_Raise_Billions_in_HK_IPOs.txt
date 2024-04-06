@@ -1,0 +1,23 @@
+Three of the world’s largest bitcoin mining equipment makers plan to raise billions of dollars with initial public offerings in Hong Kong, even as other companies report plunging demand for the chips needed to make bitcoin.
+Soaring cryptocurrency prices last year triggered a boom in demand for specialist mining chips and in developing “mines” - facilities with thousands of machines that create the coins by solving complex mathematical puzzles.
+Yet the US chipmaker Nvidia Corp said this month that second-quarter sales to crypto miners totaled just $18 million, compared with $100 million expected by analysts.
+Nvidia’s chief financial officer, Colette Kress, said she anticipated “no contribution” to revenues from cryptocurrency in coming months.
+That has raised concerns about the upcoming Hong Kong listings by three Chinese manufacturers of bitcoin mining equipment, Bitmain, Canaan Inc and Ebang International Holdings.
+The companies all design high-end computer chips intended for mining cryptocurrencies, particularly bitcoin, and sell mining equipment containing the chips. In addition, Bitmain mines cryptocurrencies on its own account. Companies like Nvidia also sell specialty chips used for mining.
+“The marked decline in the price of bitcoin since the start of the year is likely to weigh on investors’ interest in these companies,” said Benjamin Quinlan, chief executive of financial services consultancy Quinlan & Associates.
+But, he added, “the fall in the price of bitcoin from its peaks has not been matched by an equivalent fall in the numbers of people mining it.”
+Bitcoin is currently trading at $6,699, down 64 percent from its December 2017 peak of$18,690. Daily mining revenue was 77 percent lower than in December, according to Blockchain.info, a data analytics and wallet provider.
+“As the bitcoin price decreases, so does the profitability of mining itself, which decreases demand for mining chips and miners,” said Wang Leilei, a consultant at financial services consultancy Kapronasia.
+It is not just the price of bitcoin that is causing worries. People close to the IPOs said regulatory scrutiny and a patchy performance by Hong Kong offerings this year were additional concerns.
+Julian Hosp, president of TenX, a Singapore-based blockchain firm, has also warned that if coins switch mining algorithms, then the machines designed to mine them would become useless.
+Cryptocurrency trading is a global activity, but Chinese chipmakers have led the way in developing the most efficient means to mine the coins.
+Bitmain had three-quarters of the market for the specialist chips last year, followed by Canaan on 14 percent, according to estimates by analysts at Bernstein.
+Ebang is aiming to raise up to $1 billion, according to sources, while Canaan is targeting at least $400 million—down from a figure of up to $2 billion touted earlier this year by people involved in the deal.
+While Ebang is expected to face Hong Kong’s listing committee in September, Canaan’s offering is taking longer.
+Two sources familiar with Canaan’s situation said the company had not yet fixed a date for a committee appearance, as it worked on clearing up questions from HKEX officials regarding due diligence done on its prospectus.
+A source close to Bitmain’s IPO said the company was aware about the potential for close regulatory scrutiny.
+Bitmain, Canaan, and Ebang didn’t respond to requests for comment. A Hong Kong exchange spokesman declined to comment.
+The bitcoin price slump is leading miners to consider their IPO sales pitches carefully, with many involved expecting them to push the potential of other uses for their chips.
+Both Canaan and Ebang highlight the potential for their technology to be applied to other cutting-edge sectors.
+That includes broader development of blockchain applications—the ledger system that underpins bitcoin and which is being widely explored by the financial industry—as well as artificial intelligence tools and the forthcoming build-out of 5G telecoms networks both within and outside China.
+“The mainland government encourages chip design and production, as that is a segment of China’s market that has been suffering,” said Kapronasia’s Wang.

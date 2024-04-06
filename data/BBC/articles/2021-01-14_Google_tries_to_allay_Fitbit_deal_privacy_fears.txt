@@ -1,0 +1,17 @@
+Google has completed its acquisition of Fitbit and tried to reassure users it will protect their privacy.
+The search giant bought the health-tracking company for $2.1bn (£1.5bn) in November 2019 but faced questions from regulators.
+Following a four-month European Commission investigation, it agreed not to use health and location data from Fitbit devices for advertising.
+The deal was then approved by authorities in December.
+In a blog, Google said the acquisition "has always been about devices, not data".
+"We've been clear since the beginning that we will protect Fitbit users' privacy," it added, promising the commitments given to the commission, which it must keep for 10 years, would be implemented globally.
+It has also agreed:
+Fitbit chief executive James Park said many of its devices' features would remain the same but, with Google at the helm, the "possibilities are truly limitless".
+Google is keen to take a share of a global smartwatch market dominated by Apple, as devices that use its Wear OS have largely failed to make an impact.
+CCS Insight analyst Leo Gebbie said Google would use the acquisition to "reinvigorate its efforts with wearable devices".
+"Now the deal is done, I expect Google to focus on building new smartwatches which excel in terms of health and fitness tracking," he said.
+"Hopefully, Google will use Fitbit's expertise to overhaul the Google Wear OS platform, which has been slipping further and further behind rivals for some time."
+But Fitbit owners would see only subtle changes "over time".
+Google has big ambitions in fitness and healthcare but has also faced controversy. 
+An app developed by its DeepMind team gathered data on 1.6 million UK patients without informing them. 
+DeepMind promised the information would never be merged with Google's.
+But in 2018 it was integrated into the technology giant's wider plans to build an artificial-intelligence-powered assistant for nurses and doctors around the world. 

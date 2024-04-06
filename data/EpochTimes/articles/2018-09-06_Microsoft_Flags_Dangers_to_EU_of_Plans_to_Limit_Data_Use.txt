@@ -1,0 +1,6 @@
+Microsoft said on Sept. 5, that EU lawmakers’ copyright reforms limiting the use of potentially valuable data to non-profit bodies could damage the European Union’s digital development.
+Companies, research bodies, and organizations such as Wikipedia have stepped up their lobbying ahead of a European Parliament vote next week which will determine its position ahead of talks with member states and the European Commission.
+Scientists, researchers, and some firms have questioned lawmakers’ willingness to beef up the Commission’s proposal in favor of the creative industries and non-profit bodies.
+The draft proposal on the table could hold back EU attempts to catch up with Japan, Singapore, and China in data science, research and artificial intelligence and have “a great number of unintended negative consequences,” Microsoft said.
+“By confining the exception for text and data mining to only a small group of non-profit research organizations, Article 3 cuts off promising research by public and private partnerships and prevent uptake of new technologies by European businesses large and small,” it said in a statement.
+German drugmaker Bayer, which says mining vast quantities of data is invaluable in its efforts to develop innovative drugs against diseases, is similarly critical.

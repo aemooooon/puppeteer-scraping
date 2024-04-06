@@ -1,0 +1,63 @@
+When grainy images surfaced of helicopter wreckage leaning against the wall of Osama bin Laden’s compound, military tech geeks pored over the tell-tale signs of new stealth capabilities in the odd-looking pieces.
+The two helicopters in the Navy Seal raid that killed bin Laden were officially identified as (heavily-modified) U.S. military Black Hawks, one of which went down in the mission.
+But that 2011 mission turned out to be more of a last hurrah for the Black Hawk and its 40-year-old design, than a glimpse into the next generation of helicopter tech.
+The Army strategists now charged with undoing the strategic upper hand built up by Russia and China don’t want an updated stealth Black Hawk.
+They want something that can fly twice as fast and three times as far.
+And for that, they need a completely new aircraft. One that might not even look like a helicopter.
+In other words, they need to start with a clean sheet, explained James Thomson, Deputy Director of the Army’s Future Vertical Lift team.
+“We developed the UH-60 Black Hawk (we could talk about the Apache as well) based on 1970s technology,“ Thomson told The Epoch Times. ”In the late 80s, we had our first reequip of the Black Hawk... and that is nothing like the Black Hawk of today.
+“But you can only do that so far and get so much out of the aircraft until you really need to look at the next generation of technology.”
+But in the last few years, with high-tech anti-aircraft capabilities changing the modern battlefield, some military analysts even dared to suggest that helicopters—which had become a staple of land warfare since the Korean and Vietnam wars—might go the way of the warhorse.
+In 2017, the Trump administration’s National Security Strategy demanded that the armed forces revamp to face a new era of renewed “great power competition” with Russia and China.
+In the past 15 years, China had quietly tripled its annual military spending to an estimated $200 billion, with a clear focus on leveraging the latest developments such as artificial intelligence (AI), cloud computing, and long-range and hypersonic missiles to unbalance the U.S. military.
+A revanchist Russia too had made advances in military tech and anti-aircraft specifically aimed at wrong-footing the United States.
+One of the many questions the strategists needed to answer was: what place did helicopters (or their modern equivalents) have in the battlefield dominated by increasingly sophisticated means of tracking and taking down aircraft?
+In 2018 the Army gave its verdict, throwing its weight squarely behind the need for what they call “vertical lift” on the battlefield, making it the third priority of six major modernization programs.
+One of the two main parts of the Army’s Future Vertical Lift (FVL) program is a replacement for the Black Hawk, which will build on the demonstration program.
+In addition to being able to fly 1,725 nautical miles, the new aircraft is going to need to demonstrate both low-speed agility and a huge leap in speed.
+“We’ve asked for 250 to 280 knots. That’s more than double the current capability,“ said Thomson. ”That’s a pretty significant increase.”
+“One of the aircraft has actually exceeded our objectives,” he said, in reference to the V-280 Valor, one of the demonstration aircraft from two manufacturers which started development six years ago, named after the 280-knot goal.
+“We feel very comfortable that although it is a leap ahead in capability, it’s also obtainable.”
+Like everything else in the Army modernization plan, Flara and the broader Vertical Lift program are cogs in a military machine that must first drill out the anti-aircraft safe thrown up in recent years by Russia and China.
+Once that is disintegrated, the new Flara aircraft, capable of carrying at least 12 soldiers, come into play.
+“Once we penetrate and then disintegrate that air defense system, think about a fleet of vertical lift aircraft that can come through there at 280 knots or more, and deliver a battalion’s-worth of soldiers on the objective to really exploit that window that we open up,” said Thomson.
+“On the other side of the coin, what a tremendous increase to our air medivac capability,” he said.
+Jack Watling is a research fellow in Ground Warfare at defense and security think-tank RUSI (Royal United Services Institute) based in London.
+“The U.S. Army is developing a new operating concept called Multi-Domain Operations,” Watling told The Epoch Times. “This is a response to what they call anti-access area denial, which threatens your aircraft primarily, but also your shipping, and can also strike land bases.”
+“The Army says what you need in order to do that is tactical aviation, which can pick up infantry and move them in as fast as possible. Hence why they are going for tilt-rotor type things rather than the Black Hawks that they have at the moment.”
+“This is probably much more relevant in the Pacific where you have a dynamic of island hopping, so that range becomes pretty critical,” said Watling.
+But whilst he knows the theory, Watling is skeptical of how it will work in practice.
+“I don’t think that you will be able to knock down the types of systems that threaten aviation, particularly for helicopters.”
+“You may well be able to knock out or suppress for a limited period the long-range systems that would threaten certain aircraft, but to put it bluntly, there are too many systems on the field that are lethal to aviation.”
+According to Watling, in exercises the helicopters “routinely get smashed. ”
+Exactly what those air-launched effects are, Thomson didn’t say. However, some analysts speculate that they could include drones launched from aircraft.
+The Army has said it intends to introduce more unmanned aircraft for a variety of roles. These could also potentially conduct possible electronic warfare: jamming, spoofing, and decoying enemy sensors.
+Thomson also emphasized that helicopters are able to take advantage of the terrain to avoid detection. Some analysts have talked about helicopters exploiting what they term “urban canyons.”
+“I know we like to draw bubbles, but the reality is terrain matters,“ said Thomson. ”There’s an ability for us to maintain stand-off from the relative sanctuary and then employ our air-launched effects to penetrate and disintegrated those bubbles and to allow us to exploit it.”
+He indicated that critics most likely aren’t party to the classified elements of the modernization strategy and how FVL fits in.
+“We’ve done and will continue to do the high-fidelity modeling,” he said, indicating that he was not able to elaborate further.
+But neither of those offerings look much like conventional helicopters.
+Previous conventional helicopter design bumped up against a natural speed barrier that limited them typically to around 150 knots—something called “retreating blade” stall.
+For a stationary hovering helicopter, the left and right sides of the main rotor—forward and backward spinning—cut through the air at the same speed, providing the same degree of lift.
+Once the aircraft begins to move forward at speed, however, that changes, as the air begins to flow past the aircraft. The forward spinning side of the blade moves into air already traveling towards it, increasing the blade’s airspeed and thus lift.
+The opposite happens with the rotor on the other side where the blade now rotates in the same direction as the air flowing past the aircraft.
+The result is that as you go faster, the lift gets increasingly lopsided. This can be compensated by angling the blades—but only up to a point. Go too fast, and the returning (retreating) blade can’t provide lift: retreating blade stall.
+(Spinning the blade too fast would propel the blade tip past the speed of sound, which creates other problems.)
+The Bell V-280 Valor bypasses the issue by effectively turning into a plane mid-flight by turning its two rotors to face forwards.
+That tilt-rotor design was the best way to meet the objectives of the program, the Valor’s chief engineer Paul Wilson told The Epoch Times.
+“The big benefits of a tilt-rotor configuration are that you have a wing,” said Wilson. “Wing-born flight is highly efficient in terms of speed and range. So we are able to meet those needs that they don’t have with their current platforms.”
+“You get all the benefits of a tilt-rotor that you expect in terms of speed and range, and you are getting all the capability of a vertical lift platform in terms of payload and agility in a low-speed environment.”
+In what is called vertical lift mode, the V-280 rotor systems point up.
+In that environment, it behaves very much like a helicopter, in terms of how it flies, how the pilot controls it,” said Wilson.
+“Then as you start to tilt the rotor pylons down, you get into a mixed control state that the fly-by-wire system controls make seamless to the pilot.”
+Once the rotors are titled fully forward then the aircraft is essentially configured like a turbo-prop aircraft, and flies just like a turbo-prop, said Wilson.
+The V-280 has 150 hours of flight time under its belt and has reached 300 knots of true airspeed.
+The V-280 was informed by the V-22 tilt-rotor that was incorporated into the Marine Corps in 2007.
+“We’ve had the opportunity to take lessons learned from our legacy programs and incorporate those as well as advances in technology etc. to reduce the cost of manufacturing and the sustainment of the platform,” said Wilson.
+The aircraft has already met the design brief, but they are still pushing forward with other demonstrations.
+“We‘ll be having an autonomous flight demo, with a safety pilot on board,” said Wilson. “We’ll be demonstrating the autonomy of the platform we can build into fly-by-wire.”
+For the full-fledged Flara program, the Army has asked for “supervised autonomy with the potential for a path to full autonomy.”
+The Boeing-Sikorsky demonstration offering, the SB>1 Defiant, uses two rotors in place of the usual one on top of the aircraft, rotating in opposite directions, canceling out the lopsided lift problem.
+The double rotor on top also balances out the spin normally canceled by the upright tail rotor. No longer needed to stabilize the aircraft, the rear rotor is placed facing forward, to drive the aircraft forward.
+Boeing-Sikorsky and Lockheed Martin did not respond to requests for interview.
+In March next year, the Army will award contracts for the final two competitive designs before picking a winner in 2023, which will go in the field in 2030.

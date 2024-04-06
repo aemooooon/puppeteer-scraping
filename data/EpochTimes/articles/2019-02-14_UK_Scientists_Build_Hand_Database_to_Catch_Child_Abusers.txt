@@ -1,0 +1,11 @@
+LONDON—British scientists are building a database of hand images in order to track down child abusers and other criminals.
+Experts from Lancaster University are asking the British public to send images of their hands so they can train artificial intelligence to spot criminals.
+Marks and veins on the back of peoples’ hands can be used to identify them, meaning images of abuse gathered by police have been used in court to unmask the criminals pictured in them.
+However, the work of identification involves slowly examining the disturbing images, matching identifying features with other images.
+Forensic anthropologist Professor Dame Sue Black of Lancaster University said in an emailed statement that they need 5,000 unique hand images from the public in order to compare their identifying features.
+“Now for the first time, researchers will analyze all the factors that make a hand truly unique, so we can understand and use them reliably as evidence to identify individuals,” Black said.
+She added, “A significant step change is required in the science to both reliably and repeatedly extract and compare anatomical information from large numbers of images especially when the hand is not in a standard position or when either the resolution or lighting in the image is not ideal.”
+“So if you’ve got a perpetrator who might be working out of Malaysia and moves to Germany or the UK, different police forces see these images, but can’t necessarily connect them to the same perpetrator.
+“We believe that if we can use machine learning to speed up the process and to be able to trawl through millions of images, not only do you have the opportunity to make those connections, but you are also saving the officers and scientists who have to be exposed to these photographs,” she said.
+The project combines the usual identifiers such as fingerprints with patterns of veins on the hand, scars, and skin creases.
+Scientists said the biometric capabilities developed from the research could also have applications in border control and security.

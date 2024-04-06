@@ -1,0 +1,12 @@
+A £225m investment has been awarded to Bristol University by the government to create the UK's most powerful supercomputer.
+Isambard-AI will be 10 times more powerful than the UK's current fastest supercomputer. 
+A university spokesperson said the AI will be used for scientific discovery in fields such as robotics, big data, climate research and drug discovery.
+Hewlett Packard Enterprise (HPE) has been named as the supplier.
+The funding, part of a £300m package to create a new national Artificial Intelligence Research Resource (AIRR) for the country announced at the government's AI Safety Summit at Bletchley Park, will make the UK a world leader in AI. 
+Prof Simon McIntosh-Smith, director of the Isambard National Research Facility at the University of Bristol, said: "It's immensely exciting to be at the forefront of the AI revolution and to partner with industry leaders HPE and NVIDIA to rapidly build and deploy large-scale research computing infrastructure to create one of the most powerful supercomputers in the world. 
+"Isambard-AI will offer capacity never seen before in the UK for researchers and industry to harness the huge potential of AI in fields such as robotics, big data, climate research and drug discovery." 
+The technology will host 5,000 state of the art NVIDIA superchips and be capable of 200 quadrillion calculations per second.
+Science, Innovation and Technology Secretary Michelle Donelan said: "We have made it clear that Britain is grasping the opportunity to lead the world in adopting this technology safely so we can put it to work and lead healthier, easier and longer lives.  
+"This means giving Britain's leading researchers and scientific talent access to the tools they need to delve into how this complicated technology works. 
+"That is why we are investing in building UK's supercomputers, making sure we cement our place as a world-leader in AI safety." 
+Both Isambard 3, which is being installed in Bristol this year, and Isambard-AI will be based at the National Composites Centre, in collaboration with the Universities of Bath, Bristol, Cardiff and Exeter.

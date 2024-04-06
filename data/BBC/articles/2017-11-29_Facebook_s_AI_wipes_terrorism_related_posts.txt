@@ -1,0 +1,24 @@
+Facebook has said that efforts to use artificial intelligence and other automated techniques to delete terrorism-related posts are "bearing fruit" but more work is needed.
+The firm said that 99% of the material it now removes about Al Qaeda and so-called Islamic State is first detected by itself rather than its users.
+But it acknowledged that it had to do more work to identify other groups.
+Founder Mark Zuckerberg first detailed his AI-based plan in February.
+He said at the time that it would take "many years" to fully develop the required systems.
+Facebook relies on a mix of human checkers and software to confirm which posts should be removed, but it said that the task was now "primarily" being carried out by its automated systems.
+It said the technologies included photo and video-matching - in which previously identified imagery used by terrorist groups is automatically detected when it is reposted.
+This is made possible by the firm sharing hashes - unique codes generated from image data - with other organisations. 
+The "digital fingerprints" allow pictures and video clips to be quickly checked against a list of previously flagged material without the imagery itself - which takes up much more data - having to be shared.
+The California-based firm also referred to text-based machine learning, in which software is trained over time to detect which posts are most likely to be of concern by analysing factors such as the frequency with which certain words and phrases appear.
+Facebook said that once a piece of terror content was flagged as being such, it removed 83% of the material and any subsequently uploaded copies within an hour of them being posted.
+It added that in some cases, material was now being wiped before it had ever gone live on its site.
+The company said that it had focused on Al Qaeda and IS up until now because they represented the "biggest threat globally", but cautioned that expanding the efforts to other groups was "not as simple as flipping a switch".
+"A system designed to find content from one terrorist group may not work for another because of language and stylistic differences in their propaganda," wrote Monika Bickert, Facebook's global policy chief and Brian Fishman, the company's head of counter-terrorism policy.
+"[But] we hope over time that we may be able to responsibly and effectively expand the use of automated systems to detect content from regional terrorist organisations too."
+UK Prime Minister, Theresa May, acknowledged in September that Facebook and other tech companies had made progress in their efforts to tackle the issue, but added that they still needed to go "further and faster".
+Mrs May, along with several other European leaders, has said that she wanted terrorist-related material to be erased within two hours of being posted.
+It has been hinted that failure to comply could lead to hefty financial penalties.
+In October, a new German law came into force that allows its government to fine Facebook and other social media firms with more than two million local users up to 50 million euros ($59.3m; £44.4m) if they fail to remove "manifestly unlawful" posts within 24 hours.
+How far can the automation tech that companies have built their businesses on be used to do more about extreme content?
+Facebook says that its work to take down extremist content is becoming more systematised than in the past - working with partners externally to spot content and using multiple techniques internally to take it down. 
+Government in the UK will still press for more - not just taking material down quickly but also finding ways to identify people involved with terrorism and preventing them from uploading in the first place.
+Facebook says it does look not just at content but the behaviour behind certain accounts to identify those posting material it does not want on the platform.
+But this is a cat and mouse game in which those seeking to take advantage of the reach of social media platforms will always look for new ways of getting round these techniques. 

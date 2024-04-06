@@ -1,0 +1,14 @@
+As the investigation gets deeper into the Colonial Pipeline cyberattack, lawmakers on Capitol Hill are sounding off about better protection.  
+Members of the Senate Homeland Security and Government Affairs Committee used the Colonial incident to push experts about lessons learned and what's needed going forward, after recent high-profile attacks as gas lines are growing due to the disruption of fuel to the East Coast.
+"This is potentially the most substantial and damaging attack on critical infrastructure ever," said Sen. Rob Portman (R-Ohio). "It shows that cyber attacks can have tangible and real-world consequences."
+While Colonial Pipeline supplies about half of the fuel to East Coast customers, it's still a private company. The Cybersecurity and Information Security Agency (CISA) focuses on protecting federal assets. 
+***Please sign up for CBN Newsletters and download the CBN News app to ensure you keep receiving the latest news from a distinctly Christian perspective.***
+
+Still, incidents like this put the two sectors in essentially the same cyber threat boat, where communication is not always flowing, perhaps creating a threat of its own.
+"If the FBI had not brought you in do you think Colonial would have contacted you directly?" Portman questioned CISA's Acting Director Brandon Wales. "No," Wales replied. "Do you think that's a problem?" Portman persisted. "I think that there is a benefit when CISA is brought in quickly," Wales said.  
+"CISA's unique responsibility is to help the broad community improve their cybersecurity," Wales added. "We're the only federal agency charged with getting information out to support everyone's cybersecurity and resilience.  But for us to do that, we need to be fed the right information from all of our partners."
+That, Wales said, covers government intelligence and the private sector mainly because both have been hit by four major cyber-attacks in the last six months. Officials say the attack on the private network monitoring company, Solar Winds, affected nine different federal agencies. It's something on the mind of the President.
+"We launched a new public/private initiative in April," Biden said Monday. "It begins with a 100-day stint to improve cybersecurity in the electric sector and we'll follow that with similar initiatives in natural gas pipelines and water and other sectors."
+
+U.S. officials blamed the Solar Winds hack on SVR, a group backed by the Russian government. Investigators say a gang of hackers called Darkside, is responsible for the ransomware attack on Colonial.
+"So far there is no evidence, based on our intelligence people, that Russia is involved," the President said Monday. "Although, there's evidence that the actors are in Russia. They have some responsibility to deal with this."

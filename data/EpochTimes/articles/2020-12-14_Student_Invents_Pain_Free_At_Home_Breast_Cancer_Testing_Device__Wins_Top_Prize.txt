@@ -1,0 +1,13 @@
+The invention of an affordable, reusable, noninvasive device to help women screen for breast cancer at home has won a biomedical engineering student a top award.
+Spanish student Judit Giró Benet, 23, is one of two recipients of the 2020 James Dyson Award, an annual award for trailblazing inventors. The accolade came with a $35,000 cash prize.
+Benet’s device, The Blue Box, was inspired halfway through the research journey by her own mother’s diagnosis of breast cancer. The student became steadfast in her desire to find an easy early screening solution for other women.
+The device, which costs around $60, can be used multiple times by multiple users, making it extremely cost effective.
+“The name comes from the notion of having the world see it as a box that is blue and nothing else, to eliminate fear and worry about cancer,” Benet, from Tarragona, Spain, told TechNewsWorld.
+“I believed this device [was] something that the world needed,” Benet said. “I refused to stop until the world told me otherwise.”
+Benet knew she wanted to work in biomedical engineering from a young age. She eventually pursued a Master’s degree in Embedded Cyber-Physical Systems at the University of California at Irvine with The Blue Box project in mind.
+“I thought, if the dog is able to do that, why wouldn’t my Arduino microprocessor be able to? I read a lot of articles trying to find out what the compounds are that make the dogs bark. I started collecting a lot of sensors and I put them all together,” she said.
+“In the end, some of them were right about some of them, so we were actually able to detect breast cancer.”
+Dyson added: “I have seen and experienced first-hand the harrowing effects of cancer. So as scientists and engineers, anything we can do to use technology to attempt to overcome this, we should.
+“I was particularly impressed with how well The Blue Box works with sensors and artificial intelligence to maturely function as an electronic device and accompanying app.”
+In addition to serving the individual, the device also stores data in the cloud, contributing to expanded global knowledge of cancer. The University of California is getting ready for human clinical trials. In the meantime, Benet says that the $35,000 prize money will allow her to patent The Blue Box and start pitching to investors.
+Benet’s California-based company, The Blue Box Biomedical Solution, is preparing for an online product launch just as soon as the device has FDA approval. She hopes to one day expand the capacity of The Blue Box to detect other types of cancer.

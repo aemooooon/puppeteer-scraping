@@ -1,0 +1,31 @@
+Despite years of discussions between politicians and doctors, the Quebec government couldn’t find a way to pay its general practitioners for phone and video consultations with patients.
+Then the COVID-19 pandemic hit.
+Premier Legault called a public health emergency March 14, sweeping aside legislative hurdles as well as the bureaucratic inertia of Quebec’s health care network. Within days, family doctors across the province could be paid to examine patients by phone or video.
+Dr. Louis Godin, president of Quebec’s federation of general practitioners, said the pandemic has done what years of talk failed to accomplish.
+“Often there are positive things that happen during crises,” he said in a recent interview. “It allows us, sometimes, to develop things much faster than we would have otherwise done.”
+Federal Health Minister Patty Hajdu told a Senate committee last week that the “uptick” in virtual care in Quebec and across Canada—which includes screening for COVID-19—will leave “an amazing legacy in terms of our ability to access physicians in the 21st century.”
+“If there’s any silver lining to this crisis whatsoever,” she continued, “it’s the rapidity at which I see provinces and territories moving toward innovation and the delivery of health care.”
+Carolina Bessega, chief scientific officer and co-founder of Montreal-based Stradigi AI, said artificial intelligence will be increasingly used to expand the ability to perform tasks at a distance.
+Machine learning, she said in a recent interview, is already capable of helping doctors spot mental illness in the written and verbal responses of patients.
+And while it’s early to know exactly what AI solutions will be fast-tracked during this crisis, Bessega said many companies and governments don’t have the luxury of waiting to implement new technologies.
+“Maybe this is sad, but history shows that in a moment of crisis, it’s when technology and new ideas grow in a fast way,” said Bessega, whose machine learning platform can help companies with things such as pricing products, equipment monitoring and fraud detection.
+“And I’m sure that most of the things that will be fast-forwarded right now,” she added, “we are going to discover that they are very useful and they will improve our quality of life when the crisis is over.”
+Anne-Louise Davidson, a professor in Concordia University’s education department, said universities are usually slow to change, but when schools closed to stop the spread of COVID-19, many professors were forced to put all their material online.
+“It happened like a hurricane,” said Davidson, who studies teaching and technology.
+The crisis is spurring teachers to explore online tools, to open more communication channels with students and to think about how they can be more agile in delivering course material, she said.
+She predicts universities that adapt will emerge from this crisis requiring professors to develop courses that can be delivered entirely online but that are also suitable for in-class teaching.
+Monday was the first day of classes for McGill University following a two-week break during which teachers and staff put about 2,000 courses online for the school’s 40,000 students.
+“It’s been an incredibly steep learning curve,” Chris Buddle, associate provost for teaching and academic learning, said in an interview Monday. But, he said, McGill—and the other universities that adapt—will come out of the crisis stronger.
+“There are silver linings in some of the things that are happening right now,” he said. “One of them is what institutes of higher education will learn about what it means to do remote and distance learning and teaching.”
+Richard Worzel, a Toronto-based futurist, says he expects technology that helps businesses and institutions operate from a distance will be developed and deployed more rapidly because of the COVID-19 crisis. Artificial intelligence, for instance, will be used increasingly to triage patients, he said, and send them to hospitals and clinics that can provide appropriate care.
+“Anything to do with acting at a distance is going to be put on steroids after this, whether it’s medicine, social interaction or dating,” Worzel said in a recent interview. Companies able to capitalize on this need, he predicted, “are going to make fortunes.”
+Olivia Chiu, a speech-language pathologist from the Toronto area, has started using video to see her clients during the pandemic. Chiu said video therapy is as effective as in-person visits—as long her clients have a proper internet connection.
+Chiu said that now that she has seen how it works, she and the company she works with, Two Can Talk, will maintain video options to their services when the crisis is over.
+“For clients outside the GTA, it’s harder for them to find clinicians,” she said in an interview Monday. “[Video] is a great option for people who don’t have the services around them.”
+Montreal−based family physician Yael Acre said telemedicine—at least for now—can’t replace all the benefits of seeing a patient in person.
+Acre woke up earlier this week with a sore throat and chills, so she spent the day at home consulting with patients by phone. Telemedicine, she said, is practical in some instances.
+But, she said, it could lead doctors to order more testing than they usually would in order to have something tangible with which to make a diagnosis. Also, she noted, in-person consultations are better for picking up on subtle cues revealing domestic or elder abuse.
+In any case, Acre is skeptical the Quebec government will allow telemedicine to continue unfettered after the state of emergency ends.
+“I am pretty sure that once this is over, there will be severe restrictions as to when you can do a phone visit,” she said in a recent interview.
+Godin of the Quebec doctors’ federation explained that the deal reached to pay physicians for phone or video consultations will last only as long the state of public health emergency. After that, he said, the province would have to amend legislation to allow the payments to continue.
+But he feels it’s unlikely the government will move backwards once doctors and patients have been given a taste of telemedicine.

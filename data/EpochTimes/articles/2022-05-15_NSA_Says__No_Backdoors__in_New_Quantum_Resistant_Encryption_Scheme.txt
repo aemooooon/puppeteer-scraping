@@ -1,0 +1,15 @@
+The next generation of encryption standards being developed out of the United States will be impenetrable, even by the country’s top code crackers, and resistant to quantum computers, according to NSA Cybersecurity Director Rob Joyce.
+“There are no backdoors,” Joyce told Bloomberg May 13, referring to hidden flaws that enable hackers to break encryption.
+The development of quantum computers is putting at risk the standardized encryption keys that secure emails, online banking, medical records, some national security systems, and more.
+Put simply, quantum computers are a new and developing technology that exploit quantum mechanical phenomena to solve mathematical problems that today’s conventional computers cannot.
+The National Institute of Standards and Technology (NIST) warns that if large-scale quantum computers are ever built, they will be able to break many public-key cryptosystems and seriously compromise the confidentiality and integrity of digital communications on the internet and elsewhere.
+To future-proof cybersecurity with the advent of quantum computers, the White House has said it wants to guard the nation’s sensitive government information with quantum-resistant encryption.
+In 2016, NIST launched a public competition to “develop and standardize one or more additional public-key cryptographic algorithms” to improve and strengthen existing standards.
+Joyce, the NSA cybersecurity director, said that while the agency has already classified its own quantum-resistant algorithms, it did not enter them into the competition. But its mathematicians worked with NIST to support the process by trying to crack the encryption in a bid to test them.
+“Those candidate algorithms that NIST is running the competitions on all appear strong, secure, and what we need for quantum resistance,” Joyce said. “We’ve worked against all of them to make sure they are solid.”
+The open competition aims to “build trust and confidence” with the public around the security of the algorithms, Joyce said.
+The winning algorithm will be made a public standard available in 2024 for government and industry to adopt, Bloomberg reported.
+“The reason they take so long to standardize is our confidence in them is a function of how many hours really smart people are taking to try to break them,” Charles Tahan, director of the national quantum coordination office at the White House, told Bloomberg.
+Meanwhile, Joyce also noted that U.S. adversaries—in particular, China—were stealing encrypted U.S. data that was intended to remain secret for decades, waiting for the quantum computing technology to unlock them.
+According to Booz Allen Hamilton, a U.S. tech consulting firm supporting business, government, and military organizations, Chinese threat groups will likely soon steal encrypted data, expecting to decrypt it when quantum computers become more viable.
+Booz Allen Hamilton’s report titled “Chinese Threats in the Quantum Era” noted that Beijing was “a persistent cyber adversary of government and commercial organizations globally and a major developer of quantum-computing technology.”

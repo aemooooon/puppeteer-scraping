@@ -1,0 +1,7 @@
+Researchers at the University of California–Irvine have developed a tool that detects which COVID-19 patients are likely to need ventilators or intensive-care (ICU) treatment.
+The machine-learning model—which is being offered online free to health care organizations—uses patients’ medical histories to determine which COVID-19 sufferers should be sent home and which will need critical care.
+The algorithm predicts whether a person’s condition is expected to worsen within 72 hours.
+Chow was the first author of a study on the technology, which was published by PLOS ONE, a peer-reviewed scientific journal. The study found the COVID-19 tool’s predictions were about 95 percent accurate.
+Researchers began working on the project in January by collecting patient data at UC–Irvine Health. They developed a prototype in March and launched the study soon after.
+The tool uses patients’ preexisting conditions, hospital test results, and demographic data to calculate the odds of them needing urgent care. Study authors say the tool could help predict the number of ICU beds needed.
+Chang, who also is co-director of the university’s Center for Artificial Intelligence in Diagnostic Medicine, designed the model.

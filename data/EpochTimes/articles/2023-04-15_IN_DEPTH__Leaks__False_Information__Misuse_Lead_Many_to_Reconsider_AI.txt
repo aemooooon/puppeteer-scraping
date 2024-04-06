@@ -1,0 +1,11 @@
+As research laboratory OpenAI drives artificial intelligence (AI) forward with ChatGPT, AI-related issues such as leaks and privacy concerns have surfaced, further driving unease over what the technology can do.
+The Italian watchdog is investigating the chatbot gave OpenAI 20 days to propose measures for protecting user’s data, or else it would face a fine of €20 million (US $21.8 million) or up to 4 percent of annual global turnover.
+There are two main reasons for the suspension and investigation.
+The bug was patched, but there were other issues.
+“Upon deeper investigation, we also discovered that the same bug may have caused the unintentional visibility of payment-related information of 1.2% of the ChatGPT Plus subscribers who were active during a specific nine-hour window,” OpenIA said.
+Secondly, Open AI claims that its service targets people over 13 years old, but no age verification exists.
+In this regard, the Italian watchdog believes that ChatGPT may expose minors to unsuitable answers for their degree of development and self-awareness.
+The concerns of companies and governments regarding AI are not limited to leaks, false information, and age verification. Some fear it could also impact the global economy and security.
+In terms of false information, Japanese electronic engineer Li Jixin told The Epoch Times in early April: “While AI brings convenience to humans, it also provides criminals with new tools, just like what the internet does. We need better morals for humans first, and then we need to strengthen the regulatory measures of AI.”
+“Our democracy, our society runs on language,“ Harris said. ”Code is language, law is language, contracts are language, media is language. When I can synthesize anyone saying anything else and then flood a democracy with untruths, … this is going to exponentiate a lot of the things that we saw with social media,” he said.
+“The AI being developed now certainly has many strengths and weaknesses, and it could be abused to bring chaos and disaster to human society,” Kiyohara Hitoshi, a computer engineer from Japan, told The Epoch Times on April 9.

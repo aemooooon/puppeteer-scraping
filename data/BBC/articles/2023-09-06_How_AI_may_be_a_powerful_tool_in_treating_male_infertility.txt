@@ -1,0 +1,32 @@
+Infertility affects 7% of the male population. Now artificial intelligence (AI) may be about to help solve the problem.
+Dr Steven Vasilescu says that the AI software developed by him and his team can spot sperm in samples taken from severely infertile men 1,000 times faster than a highly trained pair of eyes.
+"It can highlight a potentially viable sperm before a human can even process what they're looking at," he says.
+Dr Vasilescu is a biomedical engineer at the University of Technology Sydney (UTS), in Australia, and founder of medical company NeoGenix Biosciences.
+The system he and his colleagues have developed is called SpermSearch.
+It has been designed to help men who have no sperm in their ejaculate at all, 10% of infertile men, a condition called non-obstructive azoospermia (NOA).
+Usually in these cases, a small portion of the testes is surgically removed, and taken to a lab, where an embryologist can manually search for healthy sperm.
+The tissue is teased apart and examined under a microscope. If any viable sperm are found, they can be extracted and injected into an egg.
+This process, says Dr Vasilescu, can take multiple staff six or seven hours, and there is danger of fatigue and inaccuracy. 
+"When an embryologist looks down the microscope, what they see is just this complete mess - a starscape of cells," he says.
+"There's blood and tissue. There might be only 10 sperm in the whole thing, but there can be millions of other cells. It's a needle in a haystack," says Dr Vasilescu.
+He says that, by contrast, SpermSearch can find any healthy sperm in seconds, when photographs of the samples are immediately uploaded into the computer.
+To achieve this speed, Dr Vasilescu and his colleagues trained the AI to identify sperm in these complex tissue samples by showing it thousands of such images.
+In a published scientific paper, the UTS biomedical engineering team said that in a test SpermSearch was 1,000 times faster than an experienced embryologist.
+However, SpermSearch is not designed to replace embryologists, but rather to act as an assistive tool. 
+Dr Sarah Martins da Silva says that such speed in finding any sperm is vital. "Time is critical," says the clinical reader in reproductive medicine at the University of Dundee.
+"If you've got somebody that's had an egg collection, and you've got eggs that need to be fertilised, there's only a small time window for us to be able to do that. Speeding up the process would be hugely advantageous."
+With sperm counts widely reported to have declined by half over the past four decades, infertility remains a growing problem.
+Factors behind the drop in male fertility are reported to include everything from pollution and smoking, to poor diets, not getting enough exercise, and too much stress.
+Dr Meurig Gallagher is another academic working to help men with infertility problems.
+An Assistant Professor in the Centre for Systems Modelling and Quantitative Biomedicine at the University of Birmingham, his new technique uses imaging software to track the speed and action of sperm tails.
+"Watching the tail gives insight into the health of a sample," he says. "Minute changes can tell us whether the sperm is under environmental stress, about to die, or is responding to a biological cue."
+Meanwhile, Belfast-based fertility firm Examen uses a technique known as single cell gel electrophoresis to identify DNA damage in individual sperm.
+Prof Sheena Lewis and her team have been developing the technique for more than 20 years.
+However, Prof Lewis, who is emeritus professor in reproductive medicine at Queens University Belfast and chief executive of Examen, says that while developments in the use of AI are exciting, medicine moves very slowly. 
+For example, SpermSearch is currently at the stage of proof-of-concept, following a very small trial involving just seven patients.
+"It doesn't mean anything yet," says Prof Lewis. "The length of time between something being at proof-of-concept to being commercially available is probably between two and five years.
+"It's got a long way to go. It's also aimed at the very small group of men who have NOA. Anything you can do is fantastic - but it's never going to be mainstream."
+Read additional stories on artificial intelligence
+Back in Sydney, Dr Vasilescu says treatment like theirs is the "last stop".
+"It can be the difference between fertilising an egg - or just stopping treatment," he says.
+"If we can make the embryologist more efficient, more accurate, they might find sperm they wouldn't otherwise find. That gives a man the chance of fathering his own biological children."

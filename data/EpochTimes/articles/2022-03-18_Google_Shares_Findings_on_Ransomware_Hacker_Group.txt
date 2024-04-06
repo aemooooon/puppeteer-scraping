@@ -1,0 +1,6 @@
+Alphabet Inc.’s Google detected a group of ransomware hackers trying to breach companies in 2021, exploiting a vulnerability in Microsoft Corp.’s Windows.
+The group sent over 5,000 malicious emails a day to up to 650 global organizations, often leveraging a flaw in MSHTML. Microsoft issued a security fix for the Windows vulnerability in late 2021.
+Lately, the group has attacked various organizations and industries with a less specific focus.
+The group referred to by Google as Exotic Lily used artificial intelligence technology to create fake LinkedIn profiles.
+The group functions as an initial access broker, which breaks into corporate computer networks and passes that access to other cybercriminal syndicates.
+Exotic Lily is associated with the notorious Russian-speaking ransomware group, Conti.

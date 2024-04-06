@@ -1,0 +1,15 @@
+A Silicon Valley start-up says it has completed the first commercial coast-to-coast journey across America with an autonomous lorry.  
+Plus.ai said one of its vehicles had hauled a refrigerator trailer full of butter 2,800 miles from California to Pennsylvania in less than three days.
+It relied on sensors, cameras, radar and Lidar (light detection and ranging) technology and computer vision software underpinned by artificial intelligence.
+But a driver and engineer rode along.
+"This cross-country freight run... shows the safety, efficiency and maturity of our autonomous trucks, which are already delivering freight for other partners several days a week," said co-founder Shawn Kerrigan. 
+"Continued advances in our autonomous trucks will make it possible for these quick cross-country runs to be the norm in the future." 
+Prof David Bailey, of the University of Birmingham Business School, said the journey, from Tulare on the west coast to Quakertown on the east coast, was "quite a big deal". 
+He added: "While many commentators became excited about driverless technologies over the last few years, interest waned after it was over-hyped. 
+"But it's important to note that the underlying investment in the new autonomous technologies is still ongoing, evidenced by this Plus.ai self-driving truck run."
+Daimler and Tesla are also developing self-driving lorries. 
+But Uber scrapped its research programme last July to focus on autonomous cars instead. 
+Tom Bruls, of the University of Oxford's Robotics Institute, told BBC News Embark and TuSimple had had similar successes. 
+Embark, for example, completed a 2,400 mile trip across the US last February. 
+Freight journeys were relatively straightforward as traffic flowed in the same direction at roughly the same speed on highways, Mr Bruls said.
+"Only the beginning and end part of the journey (off the highway) have to be done manually for now," he said.

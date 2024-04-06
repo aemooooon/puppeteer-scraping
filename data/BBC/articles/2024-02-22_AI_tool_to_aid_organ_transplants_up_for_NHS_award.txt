@@ -1,0 +1,8 @@
+A method using artificial intelligence (AI) to assess potential transplant organs has been shortlisted for a national NHS award.
+Known as OrQA - Organ Quality Assessment - the technology scans images of organs to look at suitability for kidney and liver transplants.
+The tool was created by the University of Bradford and Newcastle Upon Tyne Hospitals NHS Foundation Trust.
+The Medipex NHS Innovation Awards will be presented on 13 March.
+It is hoped OrQA, which uses similar AI technology to facial recognition, could result in up to 200 more patients receiving kidney transplants and 100 more liver transplants a year in the UK, its creators said.
+Researchers are working to expand the technology to assess other organs including the pancreas, heart and lungs.
+"It is not replacing the human element but assisting it," said Prof Hassan Ugail, who worked on the project.
+"By using an algorithm to look at thousands of images of human organs, we are able to create a system that assesses donor organs and this will hopefully save time, money and lives."

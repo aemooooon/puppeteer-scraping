@@ -1,0 +1,20 @@
+Pennsylvania election data show that over 432,000 votes were removed from President Donald Trump during the November election, data scientists say.
+According to an analysis by the Data Integrity Group, obtained exclusively by The Epoch Times, votes for Trump—from both Election Day and mail-in ballots—were removed from the totals in at least 15 counties.
+Time-series election data show Trump’s votes decrementing in various counties at numerous time points, instead of increasing as would be expected under normal circumstances.
+The group said Election Day vote removals happened during the vote tabulation process in at least 15 counties, including Lehigh, Chester, Allegheny, Armstrong, Westmoreland, Northampton, Delaware, Montgomery, Lackawanna, Dauphin, Pike, Carbon, Washington, Erie, and Luzerne.
+Meanwhile, absentee vote removals occurred in Allegheny, Chester, and Lehigh counties.
+A total of at least 432,116 votes—213,707 Election Day votes and 218,409 absentee votes—were removed.
+“There were vote movements across all candidates. However, we did not see the same type of negative decrements to any of the [other] candidates that we saw with President Trump’s tallies, and they happened repeatedly with no explanation,” Lynda McLaughlin, a member of the group, told The Epoch Times.
+The Pennsylvania Secretary of State’s office didn’t immediately respond to a request by The Epoch Times for comment.
+The Data Integrity Group is a group of scientists, engineers, and machine learning experts who have been working together to check whether there was a manipulation of data in the 2020 general election.
+The group’s lineup of data scientists includes Justin Mealey and Dave Lobue.
+Mealey is a nine-year veteran of the U.S. Navy, where he worked as an electronic warfare technician, cryptologic technician, and Arabic linguist. He worked at the NSA as a mission manager for Levant/North Africa and later worked as a CIA contractor at the National Counter-Terrorism Center.
+Lobue has 12 years of experience in data science and machine learning across financial services, telecommunications, and research consulting industries. He currently specializes in artificial intelligence applications.
+Data scientists from the group have analyzed the election data for several states, including Arizona and Georgia.
+While the group didn’t identify any state official, county official, or related voting machine manufacturers related to alleged wrongdoing, it urged the state to authorize forensic audits to uphold election integrity, and stated that it’s irresponsible to certify the results before the alleged errors and anomalies are explained.
+“The bottom line is the errors were made. Data confirms these errors and it shouldn’t matter if they were machine or human, they’re still errors and deserve a second review and thorough analysis with forensic audits to find the answers,” the group said.
+Errors could be made in several steps in the election result reporting process.
+Though it’s unclear what caused the errors that were flagged by the Data Integrity Group, Edison Research did concede that a reporting error happened separately.
+In a widely circulated video clip of CNN’s live election night broadcast, 19,958 votes were seen being switched from Trump to Biden in 30 seconds.
+Rob Farman, executive vice president at Edison, said that the “switching” stemmed from a brief reporting error from Edison Research.
+He told The Associated Press that a state feed from Armstrong County, Pennsylvania, first showed the correct values of 24,233 votes for Trump and 4,275 for Biden, but a team member had mistakenly entered them backward—4,275 for Trump and 24,233 for Biden.

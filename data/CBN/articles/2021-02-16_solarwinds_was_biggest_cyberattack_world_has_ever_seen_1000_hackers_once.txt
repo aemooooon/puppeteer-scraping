@@ -1,0 +1,16 @@
+Microsoft says a foreign power enlisted more than 1,000 software engineers to pull off a massive computer hack against U.S. government agencies. 
+An investigation by Microsoft revealed hackers were able to access Microsoft's source code, but no changes were made, the company said in a blog post. 
+"We detected unusual activity with a small number of internal accounts and upon review, we discovered one account had been used to view source code in a number of source code repositories," the blog said. "The account did not have permissions to modify any code or engineering systems and our investigation further confirmed no changes were made."
+Intelligence and law enforcement officials are still trying to piece together the cyber-espionage campaign blamed on Russia that has badly shaken the U.S. government and private sector. 
+It came through infected software from a company called SolarWinds in Austin, Texas. The company makes popular software that monitors computer networks of businesses and governments.
+The hack was publicly revealed in December but it's believed to have begun more than a year earlier.
+The intruders stealthily scooped up intelligence for months, carefully choosing targets from thousands of customers infected with malicious code they activated after sneaking it into an update of network management software first released last March by SolarWinds.
+One security expert told CBN News at the time that on a scale of one to ten, this hack was a ten.
+***As certain voices are censored and free speech platforms shut down, be sure to sign up for CBN News emails and the CBN News app to ensure you keep receiving news from a Christian Perspective.***
+So far, the list of agencies known to have been affected includes the U.S. Treasury, Commerce, and Justice departments, along with several private companies including cybersecurity firms. The Russian government has denied any role in the hack.
+The breach was so dire the Pentagon had to order an emergency shutdown of an internal communications network that handles classified material, something that reportedly never happened before.
+The hack is considered the largest and most sophisticated attack the world has ever seen by cybersecurity experts.
+Following bipartisan criticism of the federal government's lack of response to the breach, the White House announced last week that a senior national security official has been leading the U.S. response since the first day of the Biden administration.
+Anne Neuberger, the deputy national security adviser for cyber and emergency technology, is in charge of remediating the hack, identifying issues with the federal government's response, and launching a study aimed at preventing similar incidents, the White House said.
+"In the first weeks of the Biden administration DNSA Neuberger has held a series of consultations with both Democratic and Republican members of Congress on our approach to SolarWinds specifically and our cybersecurity strategy broadly," Emily Horne, a spokeswoman for the National Security Council told the New York Times. "We look forward to continuing to work with Congress on these issues."
+The House Homeland Security Committee held a hearing last week with cybersecurity experts to discuss the SolarWinds hack and other issues.

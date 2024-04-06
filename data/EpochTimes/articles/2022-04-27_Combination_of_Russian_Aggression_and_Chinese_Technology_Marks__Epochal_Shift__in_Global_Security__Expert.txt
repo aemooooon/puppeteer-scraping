@@ -1,0 +1,14 @@
+The convergence of Russian aggression and Chinese technologies presents a new and unique security threat to global supply chains, according to one security expert.
+Clete Johnson, a partner at Wilkinson Barker Knauer, says the Russian invasion of Ukraine and the partnership between Russia and China has presented an “epochal shift” in the security space, possibly exceeding in consequence that of 9/11 or the end of World War II.
+“It’s a world-historically significant event and invasion,” Johnson said.
+Speaking at an April 26 event hosted by the Atlantic Council, a Washington-based think tank, he said the security of information and communications technologies would shape the course of the coming decades.
+Johnson said that “the confluence that we have with regard to the reliability and security of Chinese technology alongside the very real hard security considerations of what Russia might do” presents a threat to global stability previously unimagined.
+“Now you have this confluence of two adversary powers, one of which is suddenly a violent aggressor,” he said.
+To curb the malign influence of authoritarianism, he said both the companies and governments of “free-market democratic” nations would need to work hand in hand as a single team.
+“The question for industry is, how do you navigate all of the policies, regulations, and international jurisdictions?” Johnson said.
+To that end, he said new policies would need to be developed internationally and built around shared expertise and standards-setting.
+Johnson said the West would need to better leverage artificial intelligence and machine learning to detect anomalies in the global supply chain, as China and Russia could leverage their influence with third parties to limit the access of political enemies to vital resources.
+“You need systems in place for, No. 1, threat awareness, and No. 2, anomaly detection,” he said. “One of the great benefits of AI and machine learning is anomaly detection.”
+Johnson used the example of the SolarWinds attack, wherein threat actors pushed out a bad update to thousands of system users by getting into and co-opting a legitimate update service, thus disrupting supply chains in a manner that directly affected the U.S. government.
+To that end, he said new technologies would need to be constantly reevaluated for security and that a professional and legal culture would need to develop to become more accepting of finding, acknowledging, and ultimately repairing the damage from breaches and other shortcomings.
+“Every invention since fire has been used by good guys and bad guys, in war, and by criminals,” Johnson said. “That will certainly be the case through the future of supply chain security. It’s in every organization’s interest to get these issues right.

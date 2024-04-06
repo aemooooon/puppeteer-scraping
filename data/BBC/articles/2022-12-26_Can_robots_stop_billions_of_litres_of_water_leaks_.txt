@@ -1,0 +1,26 @@
+Around three billion litres of water are lost through leaks across hundreds of thousands of miles of water pipe in England and Wales daily, says water industry economic regulator Ofwat. 
+Engineers have now developed miniature robots to patrol the pipe network, check for faults and prevent leaks.
+They say maintaining the network will be "impossible" without robotics. 
+Water industry body Water UK told BBC News that companies were already "investing billions" in leakage.
+But a recent  Ofwat report pointed to a lack of investment by water companies. It named several that it said were "letting down customers and the environment" by not spending enough on improvements. Water UK responded saying that leakage was at "its lowest level since privatisation".
+Leaks are a widespread and complicated problem: Across the UK, hundreds of thousands of kilometres of pipe - of varying age and in varying condition - supply millions of properties with water. 
+Colin Day from Essex and Suffolk Water said: "In [this region] alone, we look after more than 8,500km (5,282 miles) of pipe and only about half the leaks in those pipes are visible, which means it's complicated to pinpoint where [the rest] are."
+Wasted water has been a particularly sensitive issue this year. According to Water UK, three companies - South East Water, South West Water, and Yorkshire Water - still have localised hosepipe bans in place following the summer drought. And, amid the cost of living crisis, Ofwat estimates 20% of customers in England and Wales struggle to pay their water bill. 
+In the last year, though, according to Ofwat, companies have reduced leakage by an average of about 6%. 
+The industry has committed to a government target of halving the amount of water lost by 2050. Water UK accepted that progress needed to "accelerate". "We're adopting the latest technology, including special in-pipe cameras; satellite imaging; thermal drone technology, high-tech probes, and artificial intelligence," it told BBC News. 
+We visited the site of a leak repair with Essex and Suffolk Water, which is owned by Northumbria Water. At a suburban site, a team was carefully excavating - navigating the overlying sewer pipe, gas supply and electricity cables to locate an underground leak. 
+"This one wasn't visible - we detected it through monitoring flow in our network," said Colin Day from Essex and Suffolk Water. 
+"We've covered the biggest leaks - burst pipes that people see. It's these smaller, hidden leaks that we need to find." 
+Essex and Suffolk Water is testing "non-dig" repairs, including sealants that can be safely injected into pipes to repair cracks before they develop into a major leak. The technological revolution in leak prevention, according to some scientists, will be miniature robots. 
+Some companies already use tethered robots to investigate pipes that are inaccessible. But most of the network is currently inaccessible without digging. This is where much smaller, artificially intelligent machines come in.  
+A new generation of underground robotic pipe patrollers is being tested at the Integrated Civil and Infrastructure Research Centre (ICAIR) at the University of Sheffield.
+Pipebots are miniature, mobile robots with cameras for eyes and all-terrain legs. They are being developed in collaboration with the water industry to patrol pipes and find cracks and weaknesses before they develop into leaks. 
+"Companies only respond reactively to faults at the moment, not proactively," explains Prof Kirill Horoshenkov. "We need to have the presence of robots so they can continuously collect data before the onset of faults." 
+Holding the toy car-sized robot in his hand, Prof Horoshenkov explained: "They move along the pipe, taking pictures and they have a microphone to listen to the pipe. They're designed to make decisions about whether the pipe is likely to develop a fault or not."
+Artificial intelligence specialist Prof Netta Cohen from the University of Leeds says the biggest challenge for pipebots is communication. 
+"Underground, there's no GPS. So they will communicate with each other at short ranges (using sound or wifi)."
+She and her colleagues are developing a system where a larger "mother" robot carries and deploys a group of miniature robots. 
+"They will deposit these little guys to go into the smaller pipes and collect them when they're done," explained Prof Cohen. "We will need a whole society of these robots to work in all these kilometres of pipe.
+"If you think about the state of our infrastructure," she added, "it is so urgent to do something. It has implications not just for industry, but for our impact on the environment." 
+The water pipes beneath our feet, said Prof Cohen, are some of the most inhospitable environments on Earth. "We can't do this without robotics."  
+At ICAIR, the team hopes the first pipebots will patrol the water network within five years. Until then, each time there is a leak, the water companies will have to dig -  around the maze of sewer pipes, gas supplies and cables - to fix it. 

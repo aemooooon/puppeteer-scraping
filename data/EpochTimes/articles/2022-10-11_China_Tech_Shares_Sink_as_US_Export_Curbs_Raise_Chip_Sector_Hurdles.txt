@@ -1,0 +1,28 @@
+SHANGHAI, Oct 10—Shares in Chinese tech giants Alibaba Group and Tencent as well as in chipmakers slumped on Monday, as investors were spooked by new U.S. export control measures aimed at slowing Beijing’s technological and military advances.
+The Biden administration published a sweeping set of export controls on Friday, including a measure to cut China off from certain semiconductors made anywhere in the world with U.S. equipment.
+The raft of measures, some of which take immediate effect, could amount to the biggest shift in U.S. policy toward exporting technology to China since the 1990s.
+Experts said the new rules will have a broad impact, slowing China’s efforts to develop its own chip industry and advance commercial and state research involving military weapons, artificial intelligence, data centers, and many other areas that are powered by supercomputers and high-end chips.
+The new controls also come at a time when the global chip industry is already facing major headwinds from tumbling demand post-COVID in computers, smartphones, and other electronic devices and has warned of weak revenue.
+The most immediate impact is likely to be felt by Chinese chipmakers, they said.
+Under the new regulations, U.S. companies must cease supplying Chinese chipmakers with equipment that can produce relatively advanced chips—logic chips under 16 nanometers (nm), DRAM chips below 18 nm, and NAND chips with 28 layers or more—unless they first obtain a license.
+That’s set to affect China’s top contract chipmakers—Semiconductor Manufacturing International Corp. (SMIC) and Hua Hong Semiconductor Ltd.—as well as state-backed leading memory chipmakers Yangtze Memory Technologies Co. Ltd. (YMTC) and Changxin Memory Technologies (CXMT).
+“The measures will hobble the Chinese chip sector and will scupper numerous growth plans and potentially set back innovation in both the East and the West,” said Danni Hewson, an analyst at AJ Bell.
+“There will be plenty of boardrooms hosting top level meetings over the next few days considering the implications of U.S. export controls.”
+Chinese foundries have a fraction of the global contract chip market, which is dominated by Taiwan’s TSMC, but they control about 70 percent of the domestic market, underscoring Beijing’s efforts to boost self-sufficiency in chips.
+In memory chips, industry watchers have pegged YMTC and CXMT as China’s best hopes for breaking into the global market, going neck and neck with top players such as Samsung Electronics and Micron Technology.
+The new regulations will now pose major hurdles for the two Chinese memory chipmakers, analysts said.
+“The advancement of memory will be limited as there is no opportunity to upgrade process equipment, no opportunity to expand production, and the market will be lost,” Gu Wenjun, who leads research at Shanghai-based consultancy ICWise, wrote in a research note.
+The blocking of equipment supplies for high-end chip production could also have a cascading impact on simpler chips, analysts said.
+Stewart Randall, who tracks China’s semiconductor sector at Shanghai-based consultancy Intralink, said that for NAND chips, the same equipment used to produce 128-layer NAND can also produce simpler 64-layer NAND.
+China’s foreign ministry spokesperson Mao Ning on Saturday called the move an abuse of trade measures designed to reinforce the United States’ “technological hegemony.”
+U.S. toolmakers now required to halt shipments to wholly Chinese-owned factories producing advanced logic chips include KLA Corp., Lam Research Corp., and Applied Materials Inc. , which pushed their shares down about 4 percent and 8 percent.
+The Philadelphia semiconductor index fell 3.4 percent.
+In advanced AI chips—Nvidia Corp. and Advanced Micro Devices Inc.—which are among the major vendors supplying to China, slipped about 3 percent each.
+Some industry experts say the ban could also hit commercial data centers at Chinese tech giants. Shares in e-commerce company Alibaba and social media and gaming company Tencent, both of which rely on data centers extensively, dropped 3.3 percent and 2.5 percent, respectively.
+A steep decline in tech shares led China’s market down on its first post-Golden Week holiday trading on Monday.
+An index measuring China’s semiconductor firms tumbled nearly 7 percent, and Shanghai’s tech-focused board STAR Market declined 4.5 percent.
+SMIC dropped 4 percent, chip equipment maker NAURA Technology Group Co. sank 10 percent by the daily limit, and Hua Hong Semiconductor plunged 9.5 percent.
+Shares in AI research firm SenseTime and surveillance equipment maker Dahua Technology, which will be cut off from chips made using U.S. technologies, tumbled 5.7 percent and 10 percent, respectively.
+The impact on tech shares outside of China was limited on Monday as financial markets in South Korea, Japan, and Taiwan were closed for separate holidays.
+European tech index slipped 0.8 percent, while New York-listed shares of Chinese firms Alibaba, JD.com and Pinduoduo fell between 3 percent and 7 percent.
+Analysts expect the impact on TSMC, the world’s top contract chipmaker, to be limited as most of its advanced chip orders comes from U.S.-based customers such as Apple and Qualcomm, although it generates around 10–12 percentof its revenue from China.

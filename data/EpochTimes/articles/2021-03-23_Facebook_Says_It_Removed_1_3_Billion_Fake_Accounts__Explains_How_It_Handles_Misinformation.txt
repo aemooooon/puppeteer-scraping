@@ -1,0 +1,9 @@
+Facebook on March 22 issued an announcement on how it plans to combat misinformation on its platforms. The technology giant also said it took down 1.3 billion fake accounts between October and December 2020.
+Rosen said they have a group of “more than 80 independent fact-checkers, who review content in more than 60 languages,” and if they judge something as untrue, the content’s dissemination is limited.
+“When they rate something as false, we reduce its distribution so fewer people see it and add a warning label with more information for anyone who sees it,” Rosen wrote.
+He also noted that once one of these labels is applied, the vast majority of people don’t click on the post.
+“We know that when a warning screen is placed on a post, 95% of the time people don’t click to view it,” he said.
+The company published its policies before a U.S. House Committee on Energy and Commerce investigation into how tech platforms are tackling misinformation.
+Rosen wrote that Facebook suppresses the distribution of “Pages, Groups, and domains who repeatedly share misinformation,” with a particular emphasis on “false claims about COVID-19 and vaccines and content that is intended to suppress voting.”
+Rosen said the platform uses both people and artificial intelligence to detect activity they’re looking to combat, adding that they now have 35,000 people working on it.
+Moreover, the organization that’s supposed to oversee the quality of fact-checkers is run by Poynter Institute, another TikTok partner.

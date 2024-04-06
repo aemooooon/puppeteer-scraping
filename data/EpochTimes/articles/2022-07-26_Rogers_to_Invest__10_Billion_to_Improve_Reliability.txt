@@ -1,0 +1,8 @@
+Rogers will be investing $10 billion over the next three years to enhance the reliability of its services, says the company’s president and CEO.
+The investment will also include more oversight and testing while partnering with other technology firms to do a full review of Rogers’ network systems. The company says it will also invest more in Artificial Intelligence (AI) technology in its efforts to enhance reliability.
+The Rogers outage on July 8 lasted just under 12 hours, although some customers reported outages of over 15 hours. The outage affected millions of mobile and internet users across Canada and prevented calls to 911 services in some Canadian cities.
+Rogers says it will be sharing lessons learned from the outage with industry competitors.
+For emergency 911 calls, Staffieri says Rogers is working on a formal agreement with other carriers to switch calls to each other’s networks automatically, including in the event of an outage, to ensure emergency services are not disrupted.
+Staffieri told a parliamentary committee on July 25 that Rogers previously had procedures in place to ensure that 911 and emergency services would switch over to an alternate provider in the event of an outage. For various technical reasons that transfer did not happen on July 8, he told the standing committee on industry and technology.
+Rogers’ chief technology officer, Ron Mckenzie, told the committee that because the outage directly affected core systems of communication, and resulted in a “complete loss of connection,” there was no way to transfer emergency services.
+Rogers’ $26 billion deal to take over Shaw Communications Inc. is currently under review and is awaiting approval from the Competition Bureau.

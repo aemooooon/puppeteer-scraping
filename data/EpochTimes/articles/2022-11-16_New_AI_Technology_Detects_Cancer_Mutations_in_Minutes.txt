@@ -1,0 +1,29 @@
+HAIFA, Israel—A new Israeli technology that analyzes digitized biopsy images in real time enables the detection of cancer mutations in a few minutes instead of a few weeks.
+This artificial intelligence (AI) tool was an initiative of a young computer scientist who lost his mother five years ago to ovarian cancer.
+Dean Bitan, 34, told The Epoch Times that he knew about the long and challenging weeks for cancer patients waiting for a diagnosis because he was standing on the front lines.
+“My mother died of cancer, this is also the reason why I founded the company with my partners,” he said.
+Bitan is the co-founder and CEO of Imagene, an Israeli company that enables doctors to shorten the detection of mutations from a few weeks to a few minutes by using an AI algorithm that detects changes in the appearance of cells on digital biopsy slides.
+It is not at this point a diagnostic tool as it still requires more research and evidence. However, Wolf said there are individual situations where—without an immediate treatment—patients would die: “It is precisely in these exceptional situations that we use the software.”
+Dov Hershkovitz, professor and director of the Institute of Pathology in Tel Aviv Medical Center, told The Epoch Times about a 41-year-old mother of three who recently came to the Oncology Department with headaches. They performed a CAT scan of her whole body and brain and found a mass in the lungs as well as metastases in the brain.
+They took a biopsy from the mass and realized that this patient needed urgent therapy. “There is no time, because if we wait until we get the complete genetic assay,“ Hershkovitz said, ”this patient would need to undergo brain irradiation.”
+“We really wanted to save her from this therapy,” he said. The disease was progressing very quickly.
+The hospital had already been working with Imagene for 2 years for research purposes, he said, so they asked the company if they could identify the mutation.
+“It took them two minutes,” he said.
+Following the morphological diagnosis from Imagene, Hershkovitz said he knew the gene of target: “We performed the rapid assay—two hours—a molecular assay,” that is specific and validated for a treatment decision.
+The AI tool allowed the medical staff to plan a precisely targeted therapy for the patient.
+Hershkovitz said that less than 2 days after the patient came to the Oncology department they knew the diagnosis and were able to start therapy.
+“The improvement was amazing,” he said. “She didn’t need any brain irradiation.״
+Imagene’s AI allows analysis of a digital slide without a molecular analysis, without extracting DNA, and without performing very time-consuming and expensive assays said Hershkovitz. It’s able to tell the specific mutation.
+“So if we know what is the expected mutation, then we can save money, save time, and save lives,” he said.
+Digital pathology allows tissue to be scanned at high resolutions, which allows the analysis of samples at a much higher level than what the human eye can see through a microscope.
+The AI scans the digitized samples and finds small differences that separate the types of cancers according to different mutations.
+A cancer cell that has a mutation of a certain type looks different from a cancer cell that has a mutation of another type. The mutation affects not only the genetic structure of the mutation but affects the entire structure of the cell.
+The combination of digital pathology and AI enables specific mutations to be detected with a high probability.
+The study compared the performance of conventional testing methods to that of the AI method.
+“Of the 140 tests performed using the AI solution … only a single case showed discordance with the final pathology report, demonstrating high accuracy of the AI solution,” according to the study.
+Iris Barshack, professor and head of the Institute of Pathology at Sheba Medical Center and an author of the paper, told The Epoch Times that approximately one-third of patients are “unfortunately, likely to die if they arrive with metastatic lung cancer [and have to wait] until the pathology laboratories anywhere in the world will have an answer for the appropriate therapy.”
+Barshack, who is also the chair of the Israeli Association of Pathologists, said that Sheba has used the technology in real-time in the clinic with almost 100 cases after “training” the algorithm with more than 600 cases.
+At this stage it is not a regulated diagnostic tool so they verify the findings in the laboratory she said. Within a short time, and in some cases within only a few hours, “the data can be transferred to the oncologist and start the treatment.”
+After Imagene’s AI algorithm goes through all the validation processes, it will replace the laboratory work she said.
+“Even now we are shortening the turnaround time to a few hours instead of several weeks and by doing so we save lives,” said Barshack.
+“We are in the process of submission for the FDA and CE,” Avital Rbani, a spokesperson for Imagene, told The Epoch Times in an email. FDA is the Food and Drug Administration in the United States, and CE is the Conformitè Europëenne, a mark indicating the product has been tested to meet marketing directives in the European Union.

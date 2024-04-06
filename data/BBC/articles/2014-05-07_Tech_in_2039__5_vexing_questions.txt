@@ -1,0 +1,34 @@
+Twenty-five years from now, what issues and fears will we have about our deeper interaction with computers? New Scientist magazine sifted through predictions from leading researchers in the field. And if they’re right, we’ll be discussing, worrying about and debating everything from extreme surgery to the implications of brain implant advertising.
+Brain chips mean we are struggling to distinguish our own thoughts from ideas implanted by advertisers. Self-driving cars restrict old-school human drivers to special recreation parks. And the optimal number of fingers is 12.5.
+ 
+ Confused? It's a vision of the world in 25 years, as dreamed up by today's researchers in computer-human interaction (CHI).
+CHI normally means investigating better ways for people to interact with devices we have now, but recently attendees at a conference in Toronto, Canada, got ahead of themselves. They created an imaginary conference agenda for 2039 that predicts the kinds of challenges we will face with future computers – many of which will be implanted.
+"It's meant to be sort of the fringes of human-computer interaction research, what's really edgy or provocative, "says Eric Baumer of Cornell University in Ithaca, New York, who dreamed up the idea of the conference. "There's a lot of retrospective thinking about the past, but there's not as much thinking about what are the futures toward which we think we're working."
+New Scientist used the conference abstracts to create a list of the questions our cyborg descendants might have about computers in 2039.
+Is it weird when my organs talk to each other?
+ 
+In an abstract entitled "My liver and my kidney compared notes", IBM researcher Michael Muller, based in Cambridge, Massachusetts, looks at what happens when the implanted monitors on people's internal organs – a network he calls Arterionet – are able to share data and pool knowledge to offer enhanced health tips.
+His conclusion: "While most users were sceptical, many users proposed additional features that could lead to greater acceptance and compliance with such recommendations."
+It's worth thinking about how people might deal with health tips from organ monitors. Wearable technology that tracks your activity or your health stats is slowly gaining popularity while researchers earlier this year implanted power-generating silicone strips on the hearts, lungs and diaphragms of live cows, pigs and sheep. Muller says the biggest challenge to creating Arterionet will be figuring out how to fit the artificial intelligence in a sufficiently small and safe package.
+Why do plants need their own Facebook, again?
+ 
+To understand this question, you need to know about Plantastic, the brainchild of Bill Tomlinson at the University of California at Irvine and colleagues.
+In their abstract, they reason that to make our food supply more sustainable, it may make sense to grow more fruits and vegetables close to home. But certain crops thrive when they're grown in large quantities or alongside certain other plants – too tall an order for the average farmer.
+Enter Plantastic, which would advise what plants would work best for your area and tell you what people in the neighbourhood are growing. Nanochips on plants would feed data back to the site. That information in turn could be used to learn more about what grows best in which environment.
+Assuming people will want to know whether this adds anything, Tomlinson's team created a fictional study that looks at 10 backyard gardens over two growing seasons. It suggests that using Plantastic will increase yields by 4 to 12%.
+Tomlinson's graduate student Juliet Norton is working on an early version of what the online system might look like.
+Autonomous cars have made driving so boring – what shall I do instead?
+ 
+Andreas Riener at the Institute for Pervasive Computing in Linz, Austria, has written an abstract that starts with a bold view of the future: "The first self-driving car cruised on our roads in 2019. Now, 20 years after, it is time to review how this innovation has changed our mobility behaviour."
+This vision is rooted in a real trend. Self-driving cars have been making headlines for several years now. They are legal to drive in the state of Nevada, and Google's driverless car has already racked up hundreds of thousands of practice miles.
+Reiner's contribution is to explore how this will change us. He predicts that once the robots take the wheel everywhere, many of us will lose interest in driving altogether. Fewer of us will own our own cars. Those who do won't waste as much time pimping them out or driving around just for fun. People who still love cars might have to seek their thrills in special "recreation parks", where they can drive manually in an artificial environment. "If the vehicles of the future are only a means to get from A to B, this car culture would get lost," he says.
+Did I just think up that idea or did an advertiser implant it?
+ 
+Multiple contributors to CHI 2039 ponder the future of brain implants. Whether it involves capturing input from each of our senses or recording neurons directly in the brain, they assume that this one is a question not of if but when. And that could bring opportunities – and challenges.
+Shachar Maidenbaum of the Hebrew University of Jerusalem, Israel, envisions devices that could record our day-to-day experiences and then allow us to share our memories with one another, revolutionising courts, classrooms, and our social interactions.
+Daniel Gruen of IBM Research, meanwhile, envisions devices that could prompt your memory when you forget something – with some darker consequences. "Imagine in the future that you have systems that help you with memory," he says. "At what point do you start wondering, 'Wait, I've had an idea. Is that really mine or is that idea coming from somewhere else?'"
+So, what is the ideal number of fingers?
+ 
+Ever strain yourself swiping across your iPhone screen? That problem would go away if you could have an extra thumb surgically attached to your hand.
+That's the starting point for a fictitious study of 124 people who have chosen to augment their hands with bionic fingers – on average they have 13.4 digits. Johannes Schöning, a computer scientist at Hasselt University in Belgium and colleagues even comes to an intriguing conclusion: "The optimal finger count is 12.5, with six normal-sized fingers on each hand and the dominant hand having an extra half-sized finger that can be moved with 6 degrees of freedom."
+It's entertaining stuff but even Schöning admits that 25 years might not be long enough for this one to appear.

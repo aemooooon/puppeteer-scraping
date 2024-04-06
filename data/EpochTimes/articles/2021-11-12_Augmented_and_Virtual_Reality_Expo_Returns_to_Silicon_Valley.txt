@@ -1,0 +1,18 @@
+SANTA CLARA, Calif.—The Augmented World Expo (AWE) took place in Silicon Valley from Nov. 9 to 11 this year after last year’s event was canceled due to the pandemic.
+The expo was held at the Santa Clara Convention Center and featured artificial intelligence, bio-interfaces, haptics, 5G, streaming, and more.
+“A lot of customers and buyers are kind of connecting here, investors in startups, brands and creators and developers, so really bringing all of these people together is the main attraction of this year,” Ori Inbar, co-founder of AWE and Super Ventures, told NTD Television.
+“I think the main attraction is just seeing so many of our good friends here, and really giving the entire ecosystem an opportunity to get together to share stories about what we’ve been doing for the last two years,” Inbar said.
+Companies told NTD Television how augmented and virtual reality can be applied in the fields of health, education, games, and more.
+Apprentice.io created an AR headset and a tablet to help pharmaceutical manufacturers.
+“They can use the device and have hands-free access, two-way audio and video collaboration with teams that are at the other end of the glass, elsewhere in the facility, at home, or elsewhere around the world,” said Gary Pignata, co-founder of Apprentice.io.
+Users can also access procedures and information through the headset to get prompted, interact, and capture data.
+“Now with Varjo Aero, you can go in the immersion level where you can see the smallest details in virtual reality. You can see the meters, you can see your cockpit or your racing simulator car just like it would be in real life,” said Jussi Makinen, chief brand officer at Varjo.
+Haptic gloves for virtual reality allow a person to feel the physical characteristics of an object. They also have force feedback, allowing the hand to stop and not pass through air when it wraps around a virtual object.
+“And by coupling those two in the same interaction, it feels very natural. And your brain makes the leap over the uncanny valley, saying, ‘I understand what this object is, I visually recognize it, I feel the physical properties of it, and I can naturally interact with it,’” said Kim Oberg, director of sales at Haptx Inc. “You actually have to pick up an item and manipulate it as you would in real life. So it’s great for training, for design, for engineering.”
+Luminance uses AR/VR for meditation. A heart rate monitor connects to a virtual landscape to determine the mental state of a person.
+“That means that the grass is growing and shrinking in relationship to their heart rate; the cloud cover and the fog and the natural landscape are changing with their heart rate as well, and their mental activity. So as they clear their mind, they clear the fog, and the environment moves through four seasons,” said John Siberine, CEO of Luminance.
+For others, like Niantic, it’s their first time participating in the expo.
+“What the Lightship Platform is, it’s all the tools and technology that we use to power our games like Pokemon Go and Ingress and our new Pikmin Bloom. We’re taking pieces of that and bringing it out to developers and brands so that they too can create their own realistic AR experiences,” said Meghan Hughes, head of marketing for Lightship Platform, Niantic, Inc.
+In one game-like demonstration, the software is able to distinguish between objects and people and to show the appropriate interactive display.
+Since 2010, more than 5,000 companies and 50,000 professionals have participated in AWE to connect, learn, and grow their businesses in the market.
+Jayasai Sontineni, a software developer at Holopundits, participated as an attendee this year instead of having an exhibit.

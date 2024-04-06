@@ -1,0 +1,4 @@
+WASHINGTON—U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere.
+The Commerce Department said new export rules take effect on Jan. 6 that target emerging technology that could give the U.S. a significant military or intelligence advantage. A special license would be required to sell software outside the United States that can automatically scan aerial images to identify objects of interest, such as vehicles or houses.
+The rules could affect a growing sector of the tech industry using algorithms to analyze satellite images of crops, trade patterns and other changes affecting the economy or environment.
+The new export rules are the result of Congress passing a law in 2018 that updated national security-related export controls to protect “emerging and foundational” technology that could end up in the hands of foreign governments.

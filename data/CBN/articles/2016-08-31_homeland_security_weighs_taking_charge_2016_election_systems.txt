@@ -1,0 +1,9 @@
+The Department of Homeland Security is considering declaring this year's election a "critical infrastructure," which would give the agency more authority in overseeing the national voting process this November.
+"There's a vital national interest in our election process, so I do think we need to consider whether it should be considered by my department and others' critical infrastructure," DHS Secretary Jeh Johnson told reporters at a press conference earlier this month.
+     
+It's a move that would give the agency the same role in election security as it has in security for other key assets, such as the electric power grid, Wall Street, and 14 other major assets that are key to keeping the country running.
+According to a statement on the DHS website, "There are 16 critical infrastructure sectors whose assets, systems, and networks, whether physical or virtual, are considered so vital to the United States that their incapacitation or destruction would have a debilitating effect on security, national economic security, national public health or safety, or any combination thereof."
+Johnson's statement came before the FBI identified new cyber-attacks on two state election boards.
+The intelligence agency's cyber division is warning state officials to boost their election security after Russia-based hackers targeted online voter registration systems in Illinois and Arizona.
+Now Arizona's top election official is speaking out, saying her state's system looks clean.
+"We took our entire voter registration database offline so it could be inspected by a cyber-security team. So, to the best of our knowledge and the best of their knowledge, no information was either hacked or stolen or compromised from our database," Arizona Secretary of State Michele Reagan said.

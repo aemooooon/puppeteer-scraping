@@ -1,0 +1,18 @@
+One week after Google updated its user privacy policy to allow data scraping from millions of users for artificial intelligence (AI) training purposes, the tech giant is now facing a class-action lawsuit.
+Eight plaintiffs, represented by Clarkson Law Firm, claimed to be representing “millions of class members,” such as internet users and copyright holders, who said that their privacy and property rights were violated by Google’s recent updates to its privacy policy.
+The Open AI plaintiffs, who are also represented by Clarkson, accused Google of allegedly stealing “essentially every piece of data exchanged on the internet it could take” without credit, consent, or compensation.
+The law firm has asked the court to allow the plaintiffs to remain anonymous in both cases, citing violent threats reportedly received by individuals filing similar lawsuits.
+The complaint pointed to a recent update to Google’s privacy policy that explicitly stated the company may use publicly accessible information to train its AI models and tools such as Bard.
+In their opening statement, the plaintiffs accused Google of “harvesting data in secret” to build its AI products without consent.
+“It has very recently come to light that Google has been secretly stealing everything ever created and shared on the internet by hundreds of millions of Americans,” said the complaint and that the company uses this data to train its AI products, like its chatbot, Bard.
+The plaintiffs also allege that Google stole “virtually the entirety of our digital footprint,” including “creative and copywritten works” to build its AI products.
+The lawsuit pointed out that Google’s decision not only violates use rights, but gives it an “unfair advantage” compared with its competitors, which lawfully obtain or purchase data to train AI.
+“Google must understand, once and for all: it does not own the internet, it does not own our creative works, it does not own our expressions of our personhood, pictures of our families and children, or anything else simply because we share it online,” said Mr. Clarkson in a statement.
+Tim Giordano, one of the attorneys, told CNN that “publicly available” does not mean and allows it to say that the data is “free to use for any purpose.”
+“Our personal information and our data is our property, and it’s valuable, and nobody has the right to just take it and use it for any purpose,” he said.
+Mr. Giordano said that Google’s search engine could “serve up an attributed link to your work that can actually drive somebody to purchase it or engage with it.”
+He said that data scraping to train AI tools could instead create “an alternative version of the work that radically alters the incentives for anybody to need to purchase the work,” he added.
+Although most internet users are not bothered by their digital data being collected for search results or targeted advertising purposes, the same may not be true for AI bot training.
+Google could potentially owe upward of $5 billion in damages, according to the lawsuit.
+The plaintiffs also requested a court order requiring Google to obtain users’ explicit permission first.
+This ranges from allowing users to opt out of its “illicit data collection,” along with the ability to delete already existing data, as well as provide “fair compensation” to owners of the published data.

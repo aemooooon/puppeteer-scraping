@@ -1,0 +1,22 @@
+With artificial intelligence (AI) rapidly evolving and expanding in its size, scope, and abilities, houses of worship are beginning to look at ways to harness its power to protect congregants from mass shootings.
+Listen to the latest episode of CBN’s Quick Start podcast
+
+Matt Montana, director of safety at Valley Baptist Church out in Bakersfield, California, told the “Higher Ground With Billy Hallowell” podcast how his church is preparing to use AI to stop gunmen in their tracks.
+“I came on staff here a little over three years ago after retiring from law enforcement,” he said. “And as I assessed the safety needs of our community … I really felt it was important to kind of identify some sort of technology that would allow us to identify if somebody had weapons on our campus.”
+Montana, whose church has four campuses, said guns themselves aren’t his concern; his security worries center on trying to prevent people from “having weapons on campus for nefarious means.”
+As he began his quest to find innovative ways to protect Valley Baptist Church, a company called ZeroEyes came across his desk, and he was immediately intrigued.
+Find out about how ZeroEyes relies on AI for gun detection:
+Founded by a team of former Navy SEALs and technology experts, ZeroEyes describes itself as a “human-verified proactive gun detection and situational awareness software that integrates into existing digital security cameras with a mission to stop mass shootings and gun-related violence.”
+Rob Huberty, COO and co-founder of ZeroEyes, told “Higher Ground With Billy Hallowell” he and his team began laying the groundwork for the company after the infamous Parkland shooting.
+“A bunch of us, we saw a video of the shooter who was out, and he had his gun out in front of a camera, and he actually talked to another student. He said, ‘get out of here. It’s going to be bad,'” Huberty recounted. “And we said, ‘There’s an opportunity here to see a gun and do something before anything happens. What if somebody was watching this?'”
+Considering many people aren’t actively monitoring security video to vet for such occurrences, the ZeroEyes team pondered how technology could fill that gap and become a proactive tool.
+“We said, ‘Could we use AI and leverage it in a way to spot guns?” Huberty said, noting his team quickly realized there was nothing like that on the market. “So, we’re like, let’s create this, and let’s do it in a way that … is the least intrusive.”
+ZeroEyes uses video cameras that already exist at various institutions. The company started by working with schools, processing images frame-by-frame to see if and when guns might show up.
+“We took images of ourselves carrying guns on these types of cameras, and we just compiled a massive database for what the definition of a gun is,” Huberty said, explaining the software will then flag any gun that shows up on security cameras. “If there’s an image, it’s going to send out an alert, and it’s going to give that image of that location.”
+The flagged image can then make its way into the hands of first responders to prepare them to take quick and decisive action to neutralize threats more readily. The use of current cameras, Huberty said, doesn’t invade privacy while simultaneously elevating security.
+As for Montana and his planned use of the technology, he was initially intrigued not only by ZeroEyes’ mission, but also by the veterans behind the company who had given their “service to the nation.”
+“I really just started … studying it and thought it’d be a perfect fit for us,” Montana said.
+Valley Baptist Church hasn’t yet turned on ZeroEyes, but parishioners support the coming effort to protect them.
+“They’re grateful for the efforts we’re putting forward to protect the congregation,” Montana said.
+The former law enforcement officer, who spent the last 14 years of his career assigned to an FBI international terrorism squad, said some people want to harm innocents — and that churches and houses of worship should take heed.
+“That’s just a fact of life,” Montana said. “I think it’s extremely important for me personally, for churches, houses of faith to recognize that and be vigilant — not to be paranoid, but be vigilant.”

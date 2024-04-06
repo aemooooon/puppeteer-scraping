@@ -1,0 +1,10 @@
+The maker of a popular fertility app has been sued for allegedly sending personal data to Chinese analytics firms without users’ consent.
+The three firms—Jiguang, UMSNS, and Umeng—are all Chinese data analytics companies; Umeng is a Beijing-based startup owned by e-commerce giant Alibaba.
+“This was being done in secrecy without ... Premom app users’ knowledge and consent,” it further stated.
+The suit alleges that Easy Healthcare “deceived” users “because, unknowing to them, it directly worked with these three Chinese entities prior to launching the Premom app.”
+“Prior to its launch, [Easy Healthcare] coded into the Premom app software the ability for these Chinese entities to access and take …. users’ personal information and location data,” it added.
+The suit asserts that user data shared with the Chinese firms is stored on servers in China.
+“Under Chinese law, all of this data is accessible by the People’s Republic of China, and in turn the Communist Party of China,” it said.
+Desiree Moore, an attorney at K&L Gates LLP, which is representing Easy Healthcare, said the allegations in the lawsuit are “without merit” and the company is “confident it will prevail.”
+She added, “Easy Healthcare is dedicated to the privacy and protection of its users above all.”
+While both U.S. companies have remained committed to the September 2020 deal, the partnership hasn’t been formalized.

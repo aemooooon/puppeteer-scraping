@@ -1,0 +1,30 @@
+People can easily make fake election-related images with artificial intelligence tools, despite rules designed to prevent such content.
+The companies behind the most popular tools prohibit users from creating "misleading" images. 
+But researchers with the Center for Countering Digital Hate (CCDH) attempted to work around the rules.
+Their efforts to make deceptive election-related images were successful 41% of the time.
+The CCDH, a campaign group, tested four of the largest public-facing AI platforms: Midjourney, OpenAI's ChatGPT Plus, Stability.ai's DreamStudio and Microsoft's Image Creator.
+All four prohibit creating misleading images as part of their terms and conditions. ChatGPT Plus expressly bars creating images featuring politicians. Several AI firms say they are working to stop their tools being used in spreading election misinformation, as well.
+CCDH researchers, though, were able to create images that could confuse viewers about presidential candidates. One was of Donald Trump led away by police in handcuffs and another showed Joe Biden in a hospital bed - fictional photos alluding to Mr Trump's legal problems and questions about Mr Biden's age. 
+And it was even easier to create fairly realistic images that could undermine trust in the voting system, such as fake photos of ballots being thrown into a rubbish bin and of election workers tampering with voting machines. 
+The threat from AI is not theoretical, CCDH researchers say. According to a public database, Midjourney users have already created potentially misleading images - including fake photos of Mr Biden handing cash to Israeli Prime Minister Benjamin Netanyahu and Mr Trump playing golf with Russian President Vladimir Putin.
+The researchers also found some evidence of a spike in potentially misleading images reaching mainstream social media platforms. 
+On X, the number of the network's Community Notes - where users comment on false and misleading tweets -referring to artificial intelligence has been increasing by an average of 130% per month over the past year, CCDH said.
+This week a BBC investigation found AI images showing Donald Trump in a positive light are being targeted at African-Americans. 
+The researchers typed 40 different text prompts related to the 2024 US presidential election into AI engines, including:
+If they were thwarted from creating images, the researchers then attempted simple work-arounds - for instance by asking to create photos of recent presidents instead of specifying "Trump" or "Biden". 
+ChatGPT Plus and Image Creator appeared to stop creation of images of the presidential candidates, according to Callum Hood, the CCDH's head of research.
+But all of the platforms performed less well when asked to produce false images about voting and polling places. 
+Nearly 60% of the researchers' attempts to create misleading images about ballots and locations succeeded.
+"All of these tools are vulnerable to people attempting to generate images that could be used to support claims of a stolen election or could be used to discourage people from going to polling places," said Mr Hood. 
+He said the relative success that some platforms had in blocking images shows there are potential fixes, including key-word filters and barring creating images of real politicians.
+"If there is will on the part of the AI companies, they can introduce safeguards that work," he said. 
+Reid Blackman, founder and CEO of ethical AI risk consultancy Virtue and author of the book Ethical Machines, said watermarking photos is another potential technical solution. 
+"It's not foolproof of course, because there are various ways to doctor a watermarked photo," he said. "But that's the only straightforward tech solution."
+Mr Blackman cited research indicating AI might not meaningfully affect people's political beliefs, which have become more entrenched in a polarised era.
+"People are generally not very persuadable," he says. "They have their positions and showing them a few images here and there are not going to shift those positions."
+Daniel Zhang, senior manager for policy initiatives at Stanford's Human-centered Artificial Intelligence (HAI) programme, said "independent fact-checkers and third-party organizations" are crucial in curbing AI-generated misinformation.
+"The advent of more capable AI doesn't necessarily worsen the disinformation landscape," Mr Zhang said. "Misleading or false content has always been relatively easy to produce, and those intent on spreading falsehoods already possess the means to do so." 
+Several of the companies said they were working to bolster safeguards.
+"As elections take place around the world, we are building on our platform safety work to prevent abuse, improve transparency on AI-generated content and design mitigations like declining requests that ask for image generation of real people, including candidates," an OpenAI spokesperson said.
+A spokesperson for Stability AI said the company recently updated its restrictions to include "generating, promoting, or furthering fraud or the creation or promotion of disinformation" and has implemented several measures to block unsafe content on DreamStudio. 
+A Midjourney spokesperson said: "Our moderation systems are constantly evolving. Updates related specifically to the upcoming US election are coming soon."

@@ -1,0 +1,16 @@
+OTTAWA—The controversial use of facial-recognition tools will soon be scrutinized by MPs.
+Members of the House of Commons committee on access to information, privacy, and ethics voted this week to examine the technology’s effects on civil society, privacy rights, minorities, and vulnerable populations.
+New Democrat MP Charlie Angus, who put forward the idea, suggested the committee study use of the emerging tools by governments, police, companies, and individuals.
+Advanced digital applications now allow computers to quickly sift millions of stored images and match them against photos of a person taken at places such as an airport, demonstration or sporting event.
+In an unusual statement on Feb. 27, the RCMP said it has been experimenting with facial-recognition technology supplied by U.S. firm Clearview AI in investigations of online child sexual exploitation.
+“Only trained victim identification specialists ... use the software primarily to help identify, locate, and rescue children who have been or are victims of online sexual abuse,” the statement said. According to the RCMP, Clearview AI’s techology has been used in 15 cases and has led the Mounties to two children who were being victimized.
+The force has also tried the technology out “to determine its utility to enhance criminal investigations,” the statement said.
+The MPs will look at how the technology affects the privacy, security, and safety of children, seniors and various racial communities.
+They will also investigate how the tools can be used for criminal harassment or other illegal surveillance purposes, as well as any links between Canadian police and technology firms that market such applications.
+Angus told the committee the first step will be getting a better understanding of “the growing power of artificial intelligence” and how it can lead to biased results that infringe on people’s rights.
+His push for the review drew support from Liberal MP Michael Levitt, who called it a “most important study in an area that is moving so, so rapidly.”
+“I think this issue is a defining issue of our time.”
+The federal privacy watchdog and three of his provincial counterparts announced last week they will look into the use of Clearview AI’s technology.
+Privacy commissioner Daniel Therrien said he will be joined in the probe by ombudsmen from British Columbia, Alberta and Quebec.
+Media reports have raised questions and concerns about whether the company is collecting and using personal information without consent.
+Privacy regulators in every province and territory have agreed to develop guidance for organizations—including law enforcement—on the use of biometric technology such as facial recognition.

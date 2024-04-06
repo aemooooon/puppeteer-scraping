@@ -1,0 +1,17 @@
+Chipmaker Intel Corp. posted record fourth-quarter revenue, but forecast first-quarter earnings short of Wall Street expectations, as the world’s largest chipmaker faces challenges linked to persistent global supply chain problems.
+Intel shares, which initially fell about 3 percent in late trade, recovered some ground after the company expressed confidence in demand for its chips and the ability to manage supply chain constraints.
+However, Chief Executive Officer Patrick Gelsinger said on a conference call that he expected those constraints to persist this year and into next year as the “unprecedented demand” for chips continued.
+The company forecast first-quarter earnings per share of 80 cents, compared to an expectation of 86 cents, according to IBES data from Refinitiv.
+Intel’s gross margin forecast of 52 percent fell within a previous range it projected for the next two to three years, but the figure raised concerns.
+“With the high capex spend planned, we think Intel’s gross margin could come under more pressure,” said Kinngai Chan, a senior chip analyst at Summit Insights Group.
+The outlook overshadowed fourth-quarter results, which Tony Balow, Intel’s vice president of investor relations, said was a record and surpassed expectations. Adjusted revenue in the quarter was $19.5 billion, above an expectation of $18.3 billion and adjusted earnings per share was $1.09, ahead of 91 cents expected by analysts.
+Revenue from Intel’s higher-margin data center business rose 20 percent to $7.3 billion in the latest quarter, also a record high for that category. Analysts on average had expected revenue of $6.73 billion, according to FactSet data.
+“We continue to see robust demand across all of our businesses. And then we see superb execution by our factory network, allowing us to go meet that demand in this challenging environment,” Balow told Reuters after the earnings were released.
+The company expects first-quarter revenue of $18.3 billion, above analysts’ average estimates of $17.62 billion, according to IBES data from Refinitiv.
+The forecast places bets on its in-house chip-making capacity to meet strong demand from PC, data center, and artificial intelligence markets even through a global semiconductor supply crunch.
+Intel, one of the few semiconductor companies that designs and makes its own chips, has been in a better position to weather supply chain challenges.
+Last week, Intel announced it was investing $20 billion for two chip factories in Ohio that could eventually become the world’s largest chip making complex with up to eight planned.
+Investors are watching how fast and how successful Intel ramps up those factories. Some analysts have raised questions of a glut coming at a time when not only Intel but rivals Taiwan Semiconductor Manufacturing Co. and Samsung Electronics Co. are also building factories.
+“It’s really up to Intel to execute this plan so they can show revenue growth above 10 percent, which is what they’ve guided to once the foundry business is up and running,” said Edward Jones analyst Logan Purk.
+Gelsinger said on the conference call that acute inflation will mean having the extra chip factory capacity will help balance cost and bring in healthy cashflow.
+He also said that Intel could have other spin offs like the Mobileye autonomous vehicle unit that it plans to list this year. Gelsinger said that process was “progressing smoothly.”

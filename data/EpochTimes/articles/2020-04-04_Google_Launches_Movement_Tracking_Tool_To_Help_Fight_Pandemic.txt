@@ -1,0 +1,7 @@
+Google has launched a movement tracking tool aimed at helping public health officials combat COVID-19, the disease caused by the CCP virus, commonly known as novel coronavirus.
+The tech giant said the reports would initially cover 131 countries and regions, and use aggregated and anonymized data.
+Google insists the tool meets stringent privacy protections and the information it generates will contain no personally identifiable information.
+“For these reports, we use differential privacy, which adds artificial noise to our datasets enabling high quality results without identifying any individual person,” the executives said in the announcement, adding that the data comes from users who have switched on the Location History setting on their devices, which is off by default. People who do not wish to have their data be used for this purpose can turn off the location feature and delete their Location History data.
+The mobility reports will be broken down according to time and location and across categories of places like retail, recreation, groceries, pharmacies, parks, transit stations, workplaces, and residential areas.
+Still, despite data protection measures in effect, the tool feeds into the debate over privacy.
+“COVID-19 is an emergency on such a huge scale that, if anonymity is managed appropriately, internet giants and social media platforms could play a responsible part in helping to build collective crowd intelligence for social good, rather than profit,” Skilton told the outlet.

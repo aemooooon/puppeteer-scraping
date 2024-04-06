@@ -1,0 +1,21 @@
+The Chinese regime has created an innocent-sounding government agency that actually conducts mass surveillance on citizens, and has a role in the persecution of religious groups.
+Among the duties for a grid administrator is to be “a promoter of the Party’s line and policies,” according to a local government notice.
+Shanghai was one of the first Chinese cities to incorporate the system. In 2003, the municipal government announced a 20-year development plan, in which it said the “grid management system” would be used to allocate the city’s resources, such as public services and public green areas.
+
+
+  DV.load(“https://www.documentcloud.org/documents/6995208-关于印发-基层综治中心规范化建设标准-的通知.js”, {
+  responsive: true,
+    sidebar: false,
+    container: “#DV-viewer-6995208-关于印发-基层综治中心规范化建设标准-的通知”
+  });
+
+
+<a href="https://assets.documentcloud.org/documents/6995208/关于印发-基层综治中心规范化建设标准-的通知.pdf" target="_blank" class="article-hover-class">关于印发《基层综治中心规范化建设标准》的通知 (PDF)</a>
+In 2008, Shanghai officials touted the system’s success in overcoming urban problems, such as efficiently removing garbage in public areas, as one grid administrator would be in charge of patrolling about 10 grids, each the size of about 10,000 square meters (107,600 square feet).
+It gained political importance in April 2015, when the General Office of the CCP’s Central Committee and the cabinet-like State Council issued a document on building a system that could “strengthen public security in society.” By integrating these grids and police offices, these new “comprehensive management centers” would monitor citizens.
+Grid administrators should patrol major streets, buildings, and public places at least twice per day. They must always be aware of “public opinions” and “timely discover any security risks and unstable factors in their grids,” the document stated.
+The Epoch Times also obtained several leaked government documents showing the massive scale of this system.
+The 770 village centers were in charge of 6,690 grids and had 7,404 grid administrators, according to the leaked document.
+Another leaked document showed that Mudanjiang, a city of about 2.6 million people as of the end of last year, was divided into 4,124 grids, with a total of 1,027 village-level centers and 4,282 grid administrators.
+Falun Gong, also known as Falun Dafa, is an ancient spiritual practice that incorporates meditative exercises. While the practice was enormously popular in China in the 1990s, adherents of the practice became targets of a nationwide persecution beginning in July 1999.
+To ensure compliance, Bitter Winter stated that the city government appointed grid administrators to keep Tibetans under surveillance from 9 a.m. to 9 p.m., citing unnamed sources.

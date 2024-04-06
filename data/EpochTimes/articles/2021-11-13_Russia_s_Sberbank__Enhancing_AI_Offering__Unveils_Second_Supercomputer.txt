@@ -1,0 +1,13 @@
+MOSCOW—A second supercomputer and artificial intelligence (AI) upgrades form part of Sberbank’s enhanced offerings of digital services such as cloud computing and virtual assistant software, Chief Technology Officer David Rafalovsky told Reuters on Wednesday.
+Russia’s largest lender is investing more in non-banking services as it shifts towards offering more technology systems, even last year dropping “bank” from its logo. On Thursday it unveiled the Christofari Neo, a second supercomputer, to meet internal and external AI demand that has exceeded expectations.
+The supercomputer was named after the bank’s first ever customer 180 years ago, Nikolai Christofari.
+The lender, alongside other Russian firms including Yandex and Tinkoff, is developing a so-called ecosystem of services beyond its core business, something Sberbank says is needed to combat traditional banks’ shrinking margins.
+The central bank has proposed that banks may need to create additional buffers if ecosystem investments exceed 30 percent of their total capital, but the final decision is yet to be made.
+But Rafalovsky said Sberbank, whose ecosystem includes e-commerce, cyber security, and cloud services, had room to continue investing hundreds of millions of dollars in technology.
+“We are not constrained in terms of ability to invest, in terms of capital,” Rafalovsky said in an interview. “We are investing more now [than a year ago]. Our investments in core IT infrastructure and products overall went up.”
+He said Sberbank’s primary technological constraint was attracting the best information technology (IT) talent.
+Sberbank needs that talent to further expand its technological arsenal. The most “commercially significant” update, Rafalovsky said, was ML Space Private, an AI development toolkit that third parties can use without fully connecting to SberCloud.
+This, he said, was significant for many Russian firms that may be unable to run sensitive data through Sberbank’s commercial cloud platform.
+Sberbank, majority owned by Russia’s government, has assets of 36.8 trillion roubles ($521.5 billion) and a market value of about $113 billion.
+Chief Executive Officer German Gref on Tuesday said Sberbank was eyeing expanding its digital offering in other European countries while Rafalovsky hinted that spin offs of digital assets were possible in time.
+“We are set up to be able to do it when the time is right,” he said. “The timing of doing this is as important as having something to spin off.”

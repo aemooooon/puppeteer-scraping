@@ -1,0 +1,24 @@
+Continuing disruptions in America’s supply chains have prompted businesses to review and modify their inventory management systems.
+Just-in-time (JIT) inventory management, which calls for inventory to be delivered just as it’s needed, has long been the standard. However, just-in-case (JIC), a system that focuses on keeping extra inventory on hand, has recently gained attention.
+JIT, which was developed by Japanese firms around the 1970s, has always focused on efficient inventory management, which is the opposite of stockpiling parts and supplies on shelves and in warehouses.
+“This would result in the exact amount of inventory needed to meet demand and not have any excess inventory, which was generally practiced to avoid any excess costs.”
+In 2020, the pandemic’s onset proved to be a jolt to the system.
+“JIT relied on the law of large numbers, and regression analysis of history to the mean,” Luttner said.
+Companies could use past performance and trends to prepare for future sales. When COVID-19 struck, demand suddenly became volatile, plunging in some segments, such as transportation and hospitality, and skyrocketing in others, such as toilet paper and groceries.
+“The problem with JIT was that when demand became highly variable, prediction of the future became uncertain,” Luttner said.
+As companies reacted to the new situation, they reevaluated their inventory management systems.
+“In the last 18 months or so, as a result of the COVID-19 pandemic, the typical way of managing inventory has changed,” he said. “Many companies are now planning just-in-case inventory.”
+This system for inventory management strives to keep excess stock on hand for high-volume products. The goal is to avoid running short of supplies and thus losing out on sales. In the case of toilet paper, the transition to JIC could be seen in the steps taken following the shortage in 2020.
+“This required the manufacturer to shift to excess inventory to keep up with the high demand,” Luttner said.
+For some, the decision to keep high levels of inventory doesn’t mean their shelves are now full. The gaps are a sign of a negative vicious cycle spurred on by consumer panic and manufacturers’ struggles to have an adequate workforce and access to raw materials, according to manufacturing expert Lisa Lang.
+“JIC means points in the supply chain have more than they need,” Lang told The Epoch Times. “When this happens, other points don’t have enough. This misalignment causes panic and over-ordering and more misalignment.”
+It may cause consumers to stockpile more items at home, for instance, which causes a backlog of orders for manufacturers. When shortages ensue due to the lag in filling orders, consumers might be motivated to stock up even more, thus continuing the cycle.
+“Until the stability returns, the panic will continue,” Lang said.
+When reviewing inventory management systems, “it is vital to understand how long a company can operate with inventory on hand and what operational adjustments need to be made to address the current supply chain headwinds, such as increased container and transportation costs and port backlog, relevant to target financial outcomes,” ‘Akau’ola said.
+Identifying supply chain risks and opportunities can aid in the evaluation process. Going forward, some companies will look to implement changes that reduce risk.
+“One key advantage of JIC is the ability to manage the volatility in demand without suffering stock-outs or low inventory, forcing the decision of which customers to serve,” Luttner said.
+JIC also provides the flexibility to have multiple sources in the supply chain, which can help mitigate risk during disruptive periods. Having too much inventory on hand also has its downside.
+“In retail, October, November, and December—or calendar Q4—is traditionally the season in which a large portion of the annual profit is made,” ‘Akau’ola said. “Having too much inventory could create unnecessary working capital and financial risk.”
+The best path forward may be a balance between the two inventory systems, and organizations are likely to rely on frequent analysis and demand data as they make decisions.
+“Companies need to address the vulnerabilities by diversifying their suppliers, which may enable a JIT approach,” ‘Akau’ola said. “They should also stockpile essential materials, which lends itself to the JIC strategy. Neither JIT nor JIC is a silver bullet.”
+Leveraging technology will play a role too.

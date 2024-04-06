@@ -1,0 +1,12 @@
+MILAN—Italian police said on Saturday they had broken up a number of online schemes offering to sell fake European Union digital COVID-19 status certificates or purported coronavirus vaccines.
+The investigation, coordinated by the cyber crime prosecutor’s office in Milan, showed that thousands of people were ready to pay for false certificates, a police statement said.
+The EU on Thursday launched a digital COVID-19 certificate designed to help citizens travel across the 27-nation bloc and open up summer tourism.
+The certificate features a “QR” code that indicates if a traveler has been fully vaccinated or has recently recovered from a COVID-19 infection or tested negative.
+The police said they had seized control of 10 channels on the encrypted messaging service Telegram linked to anonymous accounts on marketplaces in the so-called dark web, through which it was possible to contact the sellers, who required payment in cryptocurrency.
+Prices ranged from 110 to 130 euros ($130–155) for an “all inclusive” package of fake pass and purported vial of vaccine. Some buyers came from outside the EU.
+“About 250,000 users had registered, and a hundred tried to interact with the sellers,” said Gian Luca Berruti, head of the Milan tax police’s cyber-fraud unit.
+It is unclear whether any actual vaccine was handed over, but police said they had found several counterfeit COVID-19 certificates.
+These contained false identification data, the specially generated QR code, and the batch number of a first and second dose of vaccine.
+Berruti said police had identified a number of suspects, but declined to disclose further details.
+“We want to make clear that anyone found with these fake certificates, including buyers, risks being prosecuted for offences punishable by up to six years in prison, such as fraud and using false documents,” he said.
+The scheme was uncovered using two artificial intelligence tools that allow the police to monitor the web in real time and then interact as potential customers.

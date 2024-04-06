@@ -1,0 +1,11 @@
+Scientists are looking at ways to make greater use of robots in cleaning up and taking apart the most highly radioactive areas of Dounreay.
+The nuclear power complex on the Caithness coast near Thurso is being decommissioned.
+Robots have been used previously to reach contaminated parts of the site.
+Dounreay's operator said they were working with Robotics and Artificial Intelligence in Nuclear (Rain), a consortium of universities.
+Led by the University of Manchester, they are exploring the potential for using robots in the Fuel Cycle Area (FCA), which has the most contaminated parts of the site.
+Dounreay said the most contaminated areas were "generally also the most inaccessible".
+A group of scientists from Rain carried out trials earlier this year in the FCA laboratories of a small remotely operated vehicle equipped with sensors, cameras and a manipulator "arm".
+A robot was used previously to demolish parts of a site associated with the first operational reactor to achieve criticality in Scotland more than 60 years ago.
+The Dounreay Materials Test Reactor (DMTR) achieved criticality, a nuclear term referring to the balance of neutrons in the system, in 1958.
+The robot, Brokk 180, was used to dismantle parts of the interior of the reactor's support buildings.
+A device described as a hi-tech worm was also used to probe the condition of a pipeline once used to discharge radioactive effluent.

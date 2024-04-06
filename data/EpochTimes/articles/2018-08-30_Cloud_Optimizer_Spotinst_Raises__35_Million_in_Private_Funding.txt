@@ -1,0 +1,4 @@
+Spotinst, an U.S.-Israeli startup that helps businesses to manage their computer infrastructure across different cloud providers, said it raised $35 million in a private funding round led by Highland Capital, bringing total funds raised to date to $52 million.
+Existing investors Leaders Fund, Intel Capital, and Vertex Ventures also participated in the latest funding round, Spotinst said on August 28.
+Spotinst, founded in 2015, said it helps companies achieve savings of 80 percent on average on regular cloud computing costs, by tapping into excess computing capacity in data centers operated by Amazon Web Services, Microsoft Azure, and Google Cloud.
+It said it will use the new funds to increase its market share of the cloud optimization space with an artificial intelligence platform.

@@ -1,0 +1,14 @@
+The CEO of Australia’s largest telco Telstra has called on the federal government and the telecommunication industry to invest more in cyber defences to counter ransomware and other online attacks.
+Andy Penn, who is also the chair of the ​​​​​ Cyber Security Industry Advisory Committee, said Australia needed a whole-of-nation approach to online threats due to the fast digital adoption speed of the country.
+He also said that the digital space was about to make another significant technological breakthrough that would “enable a whole new world” by the end of this decade.
+“A world of multiplying possibilities from artificial intelligence and the ‘Internet of Things,’ the new digital metaverse, robotics, autonomous vehicles, nanotechnology and quantum computing.”
+In light of these developments, Penn said Australia could not risk falling behind. However, he noted that the country also had to face new threats.
+“The risk of attacks on Australian networks from geopolitical tensions, whether directly or inadvertently, has also increased,” he said.
+“And while the threat of cyber attack from state actors is real, it is the knock-on effects that represent significant risks for consumers.”
+Taking his company as an example, Penn said Telstra was working 24/7 to prevent malicious activities from harming its networks.
+Penn noted that an estimated 80 percent of Australian companies suffered a ransomware attack in 2021, and the losses caused by email scams reached $80 million (US$55 million).
+Meanwhile, Cyber Security Minister Clare O'Neil, who was overhauling the previous Morrison government’s cyber security strategy, said she wanted the industry to contribute as much input as possible.
+She also said the government would back critical technologies, support new jobs and skills, and place high importance on cyber security.
+Penn said while the elevation of cyber security to the federal cabinet showed the government’s recognition of the issue, community awareness was the “biggest single lever” in fighting online threats.
+“Unless we actually help the community help themselves by better password protection, patching systems, offline backups, we’re never going to be able to catch everything,” Penn said.
+At the same time, he called for essential cyber awareness to be taught at school for robotics, software engineering, analytics and data science.

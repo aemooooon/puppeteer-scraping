@@ -1,0 +1,9 @@
+Russian hackers working for a state-sponsored cyber-espionage unit could have caused electricity blackouts in the US last year after gaining access to some utility control rooms, a Department of Homeland Security (DHS) official disclosed this week.
+DHS officials tell CBN News the hackers, identified as Dragonfly or Energetic Bear, broke into supposedly secure, "air-gapped" or isolated networks owned by utilities with relative ease.
+"They got to the point where they could have thrown switches" and disrupted power flows, said Jonathan Homer, chief of industrial-control-system analysis for DHS.
+The attackers began by using conventional tools — spear-phishing emails and watering-hole attacks, which trick victims into entering their passwords on spoofed websites — to compromise the corporate networks of suppliers, many of whom were smaller companies without big budgets for cybersecurity.
+Once inside the vendor networks, they pivoted to their real focus: the utilities. In many cases, it was a relatively easy process for them to steal credentials from vendors and gain direct access to utility networks.
+DHS has been warning utility companies about the Russian group's threat to critical infrastructure since 2014.
+Deputy Attorney General Rod Rosenstein announced charges Friday against 12 Russian intelligence officers accused of hacking Democratic organizations and the Clinton campaign and distributing information intended to influence the 2016 presidential election.
+Russia has denied targeting critical infrastructure.
+Director of National Intelligence Dan Coats warned shortly before last week's meeting between President Donald Trump and Russian President Vladimir Putin that "warning lights are blinking red" to indicate that Russia is preparing to launch another campaign to interfere in US elections.

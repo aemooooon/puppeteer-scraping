@@ -1,0 +1,8 @@
+Victoria is the latest Australian state to launch a home quarantine trial using a facial recognition and geolocation app.
+Health Minister Martin Foley called on Victorians 18-years and over and currently isolating at home to volunteer to participate in the trial that will run for four weeks. The trial is seen as an alternative choice to hotel quarantine.
+Participants will be required to download the home quarantine app on their smartphones. At certain times the app will send out a notice, in turn, the individual must respond within five minutes by taking a photo of themselves to prove they are isolating at home.
+“Should that not be responded to in a period of time, follow-up calls or visits are made to make sure that the person is where they should be,” Foley said. “It will be an easy and less-fuss way of making sure that people are all doing the right thing, protecting themselves, and protecting the community.”
+New South Wales (NSW) announced their own home quarantine trial and app featuring the same technology earlier this month, involving 175 double-dosed vaccinated people.
+In August, South Australia (SA) began their trial with the state Premier Steven Marshall pleased with the results.
+However, there are significant privacy concerns surrounding the app. The NSW government said user privacy would be protected through the same mechanisms as the current Service NSW check-in app.
+Walsh said the apps are easy to hack, facial recognition software is often flawed, and fundamental privacy rights are eroded.

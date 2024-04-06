@@ -1,0 +1,11 @@
+TEL AVIV, Israel (AP) — Israel has charged the housekeeper for the country's defense minister with espionage for offering to spy for hackers reportedly linked to Iran, Israeli officials said Thursday.
+The man, identified as Omri Goren, reportedly has a criminal record but worked at Defense Minister Benny Gantz's home as a cleaner and caretaker.
+How he got close, personal access to an Israeli leader with security clearance remains something of a mystery, even to experts. The incident raised questions about how thoroughly such workers are vetted.
+The Shin Bet security service, which announced the arrest, said it was reviewing its vetting procedures.
+According to the security service and the indictment, Goren saw reports in the Israeli media about a hacker group called “Black Shadow." He looked up the group and used the Telegram app to contact one of its agents, presenting himself as someone who worked for Gantz. Goren demonstrated his access to the defense minister by sending photographs of various items in Gantz's home, including his computer.
+The government said Goren, also identified in the indictment under the name Gorochovsky, discussed infecting Gantz's computer with malware but was arrested before any plans were carried out. He had no access to classified material, it said.
+Goren’s public defender, Gal Wolf, was quoted in news reports as saying the suspect was desperate for money and had no intention of damaging national security.
+Israeli media reported that Goren has been sentenced to prison on four occasions, including for armed robbery and breaking into homes. According to the reports, he did not undergo a security review before working for Gantz.
+The incident drew attention on Thursday from Israel's robust cybersecurity industry, especially for the hackers' reported connection to the country's archrival, Iran. “Black Shadow” is well-known in Israel for crashing widely-used web sites.
+Experts said the group's activities appear to be an example of a state willing to use cyberterrorism to undermine feeling of safety among civilians living in a rival country.
+The fact that Goren allegedly reached out to the hackers - and not the other way around - reflects to some extent the group's success at spreading word of their brand.

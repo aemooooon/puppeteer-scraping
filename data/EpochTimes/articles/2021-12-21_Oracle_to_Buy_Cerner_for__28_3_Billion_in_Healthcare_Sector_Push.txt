@@ -1,0 +1,12 @@
+Business software maker Oracle Corp. said on Monday it would buy Cerner Corp. for $28.3 billion in its biggest-ever deal, gaining access to a trove of data from one of the biggest healthcare IT firms in the United States.
+Cerner shareholders will receive $95 in cash for each share they hold, representing a premium of 5.8 percent to the company’s last closing price.
+Oracle will be able to use the data from Cerner to train and improve the software maker’s artificial intelligence-based cloud services. This is likely to give Oracle an advantage and draw more healthcare clients to its cloud platform.
+Cerner, whose software traditionally ran in its customers’ data centers, had started shifting its service to cloud computing providers. It had selected Amazon.com, Inc.’s Amazon Web Services as its “preferred” cloud provider in 2019.
+However, Oracle said on Monday it will move Cerner’s software to its own cloud computing service and modernize Cerner’s apps with tools such as a voice assistant.
+“This can be done very quickly because Cerner’s largest business and most important clinical system already runs on the Oracle Database,” Mike Sicilia, executive vice president for vertical industries at Oracle, said in a statement.
+Amazon Web Services did not immediately respond to a Reuters request for comment.
+“There is potentially some low-hanging fruit in terms of cost-saves if Oracle moves all of Cerner to Oracle’s cloud,” Edward Jones analyst Logan Purk said, noting that app development by customers on Oracle’s cloud will make it less likely they leave for a competing platform as switching costs can be expensive.
+“This minimizes customer friction while giving Oracle a leading product for healthcare customers,” Purk added.
+Oracle said it expects the deal, which is likely to close in 2022, to add to revenue growth as it expands Cerner’s business into more countries. Cerner is expected to be accretive to earnings on an adjusted basis in the first full fiscal year and contribute “substantially more” thereafter.
+Shares of Cerner were up about 1 percent while those of Oracle where down about 4 percent at $92.93.
+Analysts believe healthcare has been a tough nut to crack for tech players, which have ramped up investment in the sector as demand for cloud-based solutions rose during the pandemic.

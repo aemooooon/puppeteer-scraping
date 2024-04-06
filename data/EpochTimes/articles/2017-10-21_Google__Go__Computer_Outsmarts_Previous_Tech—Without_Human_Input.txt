@@ -1,0 +1,19 @@
+There’s a new whiz kid in the tech world—but it is a narrow-minded loner.
+Google’s latest artificial intelligence creation can beat all comers, human and machine alike, at the hardest game in the world, and it has figured it out solely by playing against itself.
+Its creators said that the machine “is no longer constrained by the limits of human knowledge.”
+But humans need not worry that computers will be teaching themselves to overthrow their human overlords anytime soon. Despite demonstrating strategic prowess in advance of humans, this machine’s intellect is suited to one narrow task alone.
+Last year, Deepmind’s AlphaGo computer famously beat the world’s best player of what is thought to be the most difficult game known to humans—the ancient Chinese game of “Go.”
+The computer won by four games to one against Lee Se-dol, winner of 18 world titles, famed for his creativity and widely considered to be the greatest player of the past decade.
+AlphaGo’s tactical mastery, however, wasn’t something programmed in by humans. Instead, it had “learned' how to play, building up strategic understanding entirely by learning from the data of the moves of human experts.
+The tech company then began to work on an upgrade, a new machine called Go AlphaZero.
+AlphaGo Zero, however, was not trained through studying games with humans. It was entirely self-taught. After playing matches against itself for just three days before it was able to decrown the AlphaGo version, which had defeated the best human in the world, winning every one of a hundred matches.
+Within 40 days AlphGo Zero was able to beat the best previous version of AlphGo.
+Strangely, AlphaGo Zero actually uses a lot less computational power than its predecessor.
+“All previous versions of AlphaGo started by training from human data,” explains professor David Silver in a video posted on the Deep Mind website. “They were told, ‘In this particular position, this human expert played this particular move. And in this other position, this human expert played here.’”
+AlphaGo Zero doesn’t use any human data whatsoever, he said, but learns completely from self-play.
+By taking this approach, it is able to always compete with a perfectly matched opponent, maximizing learning, creating much more effective algorithms.
+“People tend to assume that machine learning is all about big data and massive amounts of computation. But actually what we saw is that algorithms matter much more than either data or computability,” said Silver.
+AlphaGo Zero’s self-learned algorithms are so good that it uses over 10 times fewer computations than the previous version of AlphaGo.
+It required only 4.9 million training games and three days to beat the previous version, which had amassed its strategic skills from  30 million games over several months.
+But that ability to learn without human input doesn’t mean the beginning of the end for humankind, he said. “Like all other successful AI so far, is extremely limited in what it knows and in what it can do compared with humans and even other animals,” he said.
+Anders Sandberg of the Future of Humanity Institute at Oxford University told AFP that there was an important difference between the “general-purpose smarts humans have and the specialized smarts” of computer software.

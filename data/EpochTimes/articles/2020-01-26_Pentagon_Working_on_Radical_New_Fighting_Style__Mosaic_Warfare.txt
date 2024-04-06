@@ -1,0 +1,51 @@
+In the secretive labs of the Pentagon, top military minds are working on a new fighting style.
+Their novel vision for warfare isn’t about making bigger, faster, or even higher-tech kits. It’s about getting numerous smaller, cheaper, perhaps lower-tech systems and deploying them in a radically new way.
+The official term is mosaic warfare, but some strategists liken it to Lego.
+Mosaic warfare is the solution of the Defense Advanced Research Projects Agency (DARPA) to China’s growing military prowess.
+China’s generals have honed their military to cripple the U.S. military’s brain and nervous system—a strategy known as systems destruction warfare. They have also invested heavily in long-range missile systems and anti-aircraft systems that threaten U.S. carriers and jets.
+In war-gaming carried out by U.S. analysts, China often defeats the United States in some scenarios of Pacific warfare.
+With mosaic warfare, instead of a limited number of the latest high-tech toys, military commanders would have the strategic equivalent of countless building blocks, including some that would be unmanned.
+Everything in the military toolkit—such as radar, radar sensing, jamming, missile launching, or cyber capabilities—would be separated into these blocks, ready to be stuck together.
+These can be assembled at will to fit each scenario, creating unique plays for each situation.
+DARPA first unveiled the mosaic concept in August 2017, and has since been developing it through testing with wargaming scenarios. It has started to develop the information technology that could potentially hold together the tiles.
+A “traditional” approach means constructing monolithic systems designed for specific purposes, says Harrison Schramm, senior fellow at the Center for Strategic and Budgetary Assessments.
+When it comes to strategy, the very existence of those systems gives the game away.
+“As an adversary, if I look at your systems, I can quickly parse out what your strategy is,” Schramm told The Epoch Times.
+“The big difference here (and how this is different than other ideas) is the forces will be rapidly compose-able and may end up using tactics that haven’t been developed previously,“ said Schramm. ”In other words, we are going to determine how to use our kit based on our perception of the scenario. Which is a radical departure.”
+“Mosaic is trying to uncouple us from the idea that we have platforms that can only fight in a certain way, and that if our adversaries don’t oblige us, then we are at a loss.”
+Commanders trying to figure out how to piece together their bespoke force from the building blocks would be assisted by an artificial intelligence (AI)-powered adviser.
+“It sounds like it should be something very doable, but it’s not right now,” said Tom Burns, DARPA’s former STO director credited with coming up with the mosaic concept. “The interfaces are not made to communicate that kind of information and the Army doesn’t have air and ground vehicles that it can send forward,” he said in the statement.
+“The central idea is to be cheap, fast, lethal, flexible, and scalable,” the article reads. “Rather than building one expensive, exquisite munition optimized for a particular target, connect small unmanned systems with existing capabilities in creative and continually evolving combinations that take advantage of changing battlefield conditions and emergent vulnerabilities. Put simply, it’s Voltron on the cheap: a human-machine team combining flexible unmanned systems with coup d’oeil (strategic intuition) at a tempo that an adversary cannot match.”
+That speed essentially leaves an adversary unable to put together a response in time—causing it to freeze like a fighter faced with an unfamiliar attack. In military terms, it gets inside the critical OODA loop. (Observe, Orientate, Decide, Act).
+DARPA isn’t the only defense organization looking to more numerous, smaller, unmanned systems to counter renewed “great power competition” with Russia and China, as set forth in the Trump administration’s 2018 National Defense Strategy.
+The Navy is considering a new strategy called distributed operations, which means moving away from reliance on a few large ships. Instead, its weapons and sensors would be spread across many more platforms, including unmanned ships, with no single point of failure.
+The Marine Corps is also proposing to use smaller boats to allow Marines to slip onto Pacific islands, where they can station missile batteries safe from China’s anti-ship missiles.
+Systems Destruction refers to targeting the systems underlining a military capability or process, says Robert Bunker of the U.S. Army War College’s Strategic Studies Institute.
+“The German practice of blitzkrieg—maneuver warfare in World War II—was essentially targeting the Command and Control system of the opposing force which paralyzed its decision making and battlefield response capacity,” Bunker told The Epoch Times.
+“The Chinese are wanting to gain the same capability via information dominance, precision strikes, and joint operations—which also sounds like older U.S. thinking related to this capability.”
+With Mosaic, “the intent is to engage in a revolution in military affairs so that U.S. forces would jump ahead in operational battlefield capability over China,” Bunker says.
+“Of course, China now also seeks to do the same thing. As their economic power (GDP and high tech industry) increases, they become a far more serious peer competitor in this regard.”
+“The Achilles heel in one scenario might be different than the Achilles heel in a different scenario,” Schramm said. “The aim is to spread them around and make them more difficult to discern. That’s where the role of autonomy and the role self-forming, self-healing networks comes into play as well.”
+In theory, mosaic is a strategy of warfare that could be enacted to a limited degree through adapting existing equipment.
+“We live in the real world, and one of the rules of this entire enterprise is that nobody gets to start with a clean sheet,” Schramm says. “We have ships and aircraft that we have or are in the process of acquiring and we bought those to last a long time. ”
+He says that mosaic would “definitely blend in and use current capabilities as well as future acquisition.”
+There are two pieces to mosaic, explains Schramm, who has been working on mosaic warfare gaming at the Center for Strategic and Budgetary Assessments.
+One aspect is the adoption of platforms that can easily form the Lego bricks, or tiles, of the mosaic concept. The other is the integration of AI to help guide commanders through the vast array of strategic options now available.
+“In the concept that we’ve played out in our war-games and our analysis of this, we’ve taken a small portion of the budget and repurposed it to buying mosaic stuff, which is mostly small and autonomous and ‘loss tolerant.’”
+The participants had to select which mosaic pieces could be used.
+“The mosaic aspect of this is that you are combining things in a setting that may not have previously been combined in training or in operations,” Schramm said.
+Part of the wargame was to see how participants used an AI assistant, which they term “man-machine teaming.”
+“We allowed our participants to say how much manned, how much unmanned, how important the different parts of the mission were to each other. Then the machine part of the interface would deliver a solution and say, ‘This is how we recommend you apportion your force based on what you said was important to you.’”
+According to Schramm, the AI limitations aren’t the challenge.
+“I am firmly of the opinion that man-machine teaming and the integration of AI is a policy and a manpower problem. It’s not a technology problem. The technology either already exists, or exists on a path to development in the near term.”
+He warned against getting carried away with the potential of AI. “I have built things that don’t work. I know of real failures in AI.”
+Despite the supremacy of AI in strategy games such as chess and Go, those games are very limited in scope and work within precise rules.
+“We all know that ‘checkmate’ is winning in chess,” Schramm said. “In diplomacy and in war, what winning was on Monday might not be what winning was on Tuesday. Humans are very good at future thinking and making inferences with lack of data.”
+“I don’t ever see in the near-term a human commander saying, ‘The box told me to send this many units over here, so this is what I am going to do.’ Where this is most effective is the machine does things that machines are good at, gets you to the 85 percent solution.”
+Schramm said they found that regardless of how smart the AI box was, the fundamentals of war strategy still applied.
+China’s grand strategy is focused directly at the United States, Bunker says. “The CCP wants to create a parallel world system as a challenge to the liberal democratic one that has existed since the late 1940s.”
+“The Chinese grand strategy has been to initially focus on economic development with their military forces being of secondary importance.”
+Knowing it couldn’t compete conventionally with the United States, the Chinese Communist Party (CCP) instead engaged in a strategic spaces campaign says Bunker.
+“This is all taking place internationally within the gray zone short of war. A prime example of this strategy is their seizure and/or creation of islands throughout the South China Sea. Another example is their creation of Confucius Institutes for propaganda purposes.”
+Another example is the strategy of isolating Taiwan internationally “in an attempt to turn it into a pariah state,” said Bunker. “The intent is to make it perceived as nothing more than an illegitimate breakaway province from the mainland.”
+But Bunker says that Chinese leader Xi Jinping’s “Mao complex” may have pushed him to overplay China’s hand.

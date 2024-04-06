@@ -1,0 +1,20 @@
+The Superbowl weekend attack on a water treatment facility near Tampa, Florida has once again put the spotlight on the ever-present cyber threat in the U.S.
+Someone hacked into the plant's computer system and increased the level of lye going into the water. Fortunately, the deed was detected before anyone was hurt. In the days following the breach, investigators say they have leads but no suspects.
+"We don't know right now whether the breach originated from within the United States or outside the country," said Pinellas County Sheriff Bob Gualtieri. "We also do not know why the Oldsmar system was targeted."
+It's just the latest strike in an ongoing cyberwar.  U.S. lawmakers want to make sure Americans win this war. It's why they called a group of experts to Capitol Hill on Wednesday to try and figure out the best strategies to implement next. 
+One expert points out the battleground is enormous.
+"People have thought about power grid and financial systems, but it's almost any system that is connected to the internet, which is essentially almost anything today, can be a target," said Michael Daniel, president of Cyber Threat Alliance. "And so, we need to be thinking very broadly in terms of our cyber defenses."
+"We need to go on offense," added Dmitri Alperovitch, executive chairman of Silverado Policy Accelerator. "We need to make it harder for adversaries to conduct these operations."
+"There is no technology magic bullet," said Susan Gordon, deputy director of National Intelligence.
+The panel provided Congress a "to do " list which included getting a leader, perhaps empowering the head of a government agency, to oversee cybersecurity in the civilian world.
+"We need a comprehensive federal civilian agency cybersecurity strategy," said Chris Krebs, former director of the Cybersecurity and Infrastructure Security Agency or CISA.  
+Also, experts say, the relationship between the public and private sectors in this arena needs to be seamless.
+"We need to move beyond just sharing information back and forth between the government and the private sector, but actually enable multiple elements of the government, law enforcement, and intelligence to be lined up and synchronized in time that the private sector can take," Daniel said.
+Just weeks ago, prior to the Presidential Inauguration, hackers breached information technology contractor Solar Winds, gaining access to government agencies including the Treasury and Commerce Departments. 
+President Biden followed up by earmarking $10 billion in his COVID-19 relief plan for cybersecurity.
+"We don't have a cyber problem," Alperovitch said. "We have a China, Russian, Iran, and North Korea problem."
+John Mills is the former director of Cyber Security Policy, Strategy, and International Affairs. He tells CBN News, while they are all dangerous, China is chief.
+"We can't have untrusted Chinese componentry in these environments and the reality is we're not good at that, we're not good at identifying them," Mills said.
+Sadly, though, this war must be waged inside U.S. borders as well, where experts say disinformation has become a main cyber threat.
+"I think that our domestic terrorists got a pretty good look at the playbook," Gordon said.  "Number one is disinformation, and it's incredibly powerful (because of) the ability to overwhelm airwaves with messaging."
+The cybersecurity experts said it is absolutely essential that the U.S. strike back when attacked. They add, however, leaders must strongly consider on a case-by-case basis whether such retaliation should take a cyber route or a physical one.   

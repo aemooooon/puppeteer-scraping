@@ -1,0 +1,17 @@
+Vodafone is teaming up with IBM to offer businesses a way to link different cloud computing systems to support the next wave of digital advances, such as machine learning, on super-fast fifth-generation telecoms networks.
+As part of the deal, the UK-based telecoms operator will pay $550 million to IBM under an eight-year managed-services agreement that will offer tools such as artificial intelligence (AI) and automation to networked businesses.
+The two companies are pitching the venture as a combination of cloud computing and connectivity that would, for example, enable super-fast communication between robots on a factory floor without the need for a big ‘pipe’ back to a data center.
+And, with an estimated 70 percent of organizations using up to 15 different cloud systems, the ability to link them should make it easier for firms to adapt and innovate without having to redesign their networks from the ground up.
+“Businesses are beginning to embrace digital ... as they do that they get a lot of complexity,” Greg Hyttenrauch of Vodafone, one of the co-leaders of the project, told Reuters in an interview.
+“We predicated this venture on the ability to simplify that complexity.”
+Vodafone has built a strong position in mobile services for business - it is the No. 1 or No. 2 provider in Britain, Germany, Italy, and Spain and is stepping up its battle against BT, Deutsche Telekom, Telecom Italia and Telefonica in the fixed-line business market.
+It aims to grow business service revenue, which currently accounts for 30 percent of its total, by combining fixed-line and mobile services with new technology in areas like AI and the Internet of Things.
+It is expected to be operational in the first half of 2019.
+The partnership seeks to bring IBM’s prowess in handling multiple cloud-based systems to bear, and reflects the priorities behind its $34 billion takeover of Red Hat, a software firm that specializes in Linux operating systems, said IBM’s Michael Valocchi, the other co-lead.
+Analyst Dave Bartoletti at Forrester Research said the deal recognized Vodafone’s need for a partner to build out its cloud computing services.
+At the same time, IBM is moving away from competing head on with “hyperscale” cloud providers like Amazon Web Services, Microsoft Azure, and Google that offer hosted memory, network, and storage services that can grow with the needs of big, data-intensive businesses.
+Instead, it is aiming to be “the go-to company for enterprises who need to stitch together multiple cloud platforms”, said Bartoletti.
+Analyst Carla Arend at IDC estimates the global cloud market at $420 billion this year, with the market for global cloud connectivity worth another $2 billion.
+“The combined global market opportunity is huge,” she said.
+Ireland and Britain have already allocated 5G spectrum and Germany is about to auction frequencies for a mobile technology that will offer downloads far faster than on existing networks, as well as ultra-low ‘latency’ or reaction times.
+Combining these characteristics with significant computing power will make it possible to deploy applications such as AI, or computerized problem solving, in the field.

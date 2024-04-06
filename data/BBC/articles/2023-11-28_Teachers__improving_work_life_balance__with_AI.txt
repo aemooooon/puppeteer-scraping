@@ -1,0 +1,33 @@
+Teachers are using artificial intelligence (AI) to save time by "automating tasks", says a government report first seen by the BBC.
+Adapting the reading age of texts, making handouts, and writing emails to parents were cited as popular uses, with a "small number" saying they used it for grading and feedback.
+Teachers said it gave them more time to do "more impactful" work.
+But the report also warned that AI can produce unreliable or biased content.
+The Department for Education (DfE) report is based on 567 responses to a call for evidence about AI in education, including schools, over the summer. Most submissions were from England.
+It found that most respondents were "broadly optimistic" about the use of AI in education, but almost all had some hesitations.
+They worried about AI producing false information including when marking assessments, for example.
+The report will inform future policy on AI, the DfE said - adding that the government was already helping to "realise the potential of AI in education".
+Ben Merritt, head of modern foreign languages at King Ecgbert School in Sheffield, recently used AI to generate a cartoon for an exercise with his class.
+In the lesson, he wanted to ask children to label parts of the face in German, but he could not find the perfect illustration on the internet.
+"It was very easy to find pictures of smiling children of all different ethnicities, genders, and so on. But none of them particularly had the teeth visible... by typing in precisely what I wanted, I got the exact image that I ended up using," he said. 
+"There's an awful lot to do as a teacher, whether it's admin tasks or resource-creation, marking, feedback and so on," Mr Merritt added.
+"Cutting down on the more administrative tasks - and not just cutting down the time taken, but also improving them - in my view, that means that I can be more focused on improving teaching practice."
+However, Mr Merritt stressed the need to check the content that AI produced.
+"I asked it to create some questions from a YouTube video, and the 10th question it came up with was something like, 'where should you click to like and subscribe to this video?', which is no good in a classroom at all."
+The DfE report suggests some teachers are using AI to demonstrate and "raise awareness of the risks and limitations".
+Tilly, a Year 9 student at Mr Merritt's school, where teachers have set up a working group to share ideas, said: "My science teacher... showed us how to calculate something, and then AI came up with questions of how we can practise that. And the answers actually ended up being wrong." 
+Tilly added that she learned to double-check every time if the AI was correct.
+Catherine Elliott, who works for Sheffield City Council, holds meet-ups for teachers across the city for educational institution Learn Sheffield to talk about how they use the technology.
+"Most people are using it for creating resources. Things like having a piece of text and simplifying it into a language that's understandable relative to the reading age of children," she said.
+Ms Elliott added that this can help children with special educational needs and disabilities, or for whom English is a second language.
+"I've heard stories of people using it as a starting point for report-writing. Now, obviously, you need to put your personal spin on that. But it can generate some really good sentences for you."
+According to the survey tool Teacher Tapp, four in 10 teachers are already using AI in their schoolwork. 
+Prof Becky Allen, the app's co-founder and chief analyst, said some teachers found it easier to use AI to cut down on work than others. 
+"It's really quite normal now as a maths teacher, that you don't mark maths homework any more," she said - adding that this was becoming the case even before widespread access to AI tools.
+"One of the reasons why we're OK with it in maths is because we have such chronic shortages of maths teachers that you know nobody really feels aggrieved."
+The government says there are 27,000 more teachers in England than there were in 2010, but pupil population has also grown and there are more students per teacher.
+Prof Allen said an important question was whether AI could be trusted to give feedback more widely, suggesting it could save teachers time in "low-stakes situations".
+Many teachers went on strike this year because of workload, as well as pay.
+Research by the Education Support charity this month suggested 36% of school teachers in the UK had experienced "burn-out". 
+The DfE report said that for some teachers, using AI "reduced their overtime, improved their work-life balance and increased job satisfaction".
+Education Secretary Gillian Keegan said the right approach was needed "to take advantage of this transformative technology".
+"It's heartening that many education professionals are already seeing the tangible benefits of AI," she said.

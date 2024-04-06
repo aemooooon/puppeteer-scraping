@@ -1,0 +1,17 @@
+A leading child protection organisation has warned that abuse of AI technology threatens to "overwhelm" the internet.
+The Internet Watch Foundation (IWF) removes images of child sexual abuse from websites.
+It says it has found thousands of AI-generated images which are so realistic they are criminal under UK law.
+AI is being used to produce new images of real victims, de-age celebrities and unclothe children in ordinary photos to depict them in abuse scenarios.
+"Our worst nightmares have come true," said Susie Hargreaves OBE, chief executive of Cambridge-based IWF.  
+"Chillingly, we are seeing criminals deliberately training their AI on real victims' images.
+"Children who have been raped in the past are now being incorporated into new scenarios because someone, somewhere, wants to see it."
+In a new study of a single dark web forum, the IWF found 2,978 images of abuse generated using artificial intelligence. 
+Half of them depicted children of primary school age, with some as young as two years old. 
+More than 560 images were classified as Category A - the most serious kind of imagery - including rape, sexual torture and bestiality.
+In the UK, cartoons, drawings, animations and AI images are all criminal if they depict child abuse. 
+Experts also found that the technology is being used to "nudify" children, whose clothed pictures had been uploaded to the internet for genuine reasons. 
+The most convincing imagery is now difficult for trained analysts to distinguish and, as the technology advances, the IWF warns it will pose "more obstacles" for them and the police.
+Ian Critchley, National Police Chiefs' Council Lead for Child Protection, said: "It is clear that this is no longer an emerging threat - it is here, and normalises the rape and abuse of real children.
+"AI has many positive attributes, and we are developing opportunities to turn this technology against those who would abuse it to prey on children." 
+The Prime Minister Rishi Sunak is hosting a global AI Safety Summit at Bletchley Park on 1 November. 
+Susie Hargreaves has once again urged him to put this issue at "the top of the agenda" and warned "if we don't get a grip on this threat, this material threatens to overwhelm the internet." 

@@ -1,0 +1,39 @@
+Google is surreptitiously pushing its political agenda onto its users through its products in an effort that one employee described as “preventing the next Trump situation.”
+“They are a highly biased political machine that is bent on never letting somebody like Donald Trump come to power again,” said one Google employee, who wished to remain anonymous and spoke on camera with his likeness not shown and his voice disguised.
+Google, the world’s largest internet company with some 100,000 employees and more than $130 billion in annual revenue, has long been accused of channeling the politics of its mostly left-leaning workforce into its products, which the company has repeatedly denied.
+The latest revelations, however, depict a company that has expended substantial effort in putting its thumb on the political scales after the 2016 election.
+“Right after Donald Trump won the election in 2016, the company did a complete 180 in what they thought was important,” the insider said.
+Blaming Trump’s success on “hate and misogyny and racism,” the company decided to “fix” it and went on to diverge from its previous values of “self-expression and giving everyone a voice,” he said.
+“They’re like ... ‘We need to start policing our users, because we don’t want to have an outcome like that, we don’t want to have an outcome like that to happen again.’”
+A similar sentiment was expressed by Jen Gennai, head of Google’s Responsible Innovation, who was caught on hidden camera by a Project Veritas reporter several weeks ago.
+“We all got screwed over in 2016, again it wasn’t just us, it was, the people got screwed over, the news media got screwed over, like, everybody got screwed over so we’ve rapidly been like, ‘What happened there and how do we prevent it from happening again?’” she said.
+Gennai said that she used to work for Google’s Trust and Safety team and that the 2020 presidential election has been “top of mind” for the team. “They’ve been working on it since 2016, to make sure we’re ready for 2020,” she said.
+In some such cases, “it may be desirable to consider how we might help society reach a more fair and equitable state, via either product intervention or broader corporate responsibility efforts,” the document states.
+Since every person shares in such characteristics, the definition could make one believe that Google is simply trying to make sure it treats everybody fairly. But Gennai made clear her job was to bring “fairness” only to certain people, based on whether they belong to a group Google deems sufficiently “marginalized.”
+It was set up to develop an artificial intelligence (AI) algorithm that would put in place Google’s idea of “fairness” at scale.
+Gennai appeared to confirm that Google is going even further, looking to its algorithms for a specific political outcome.
+“We’re also training our algorithms, like, if 2016 happened again, would we have, would the outcome be different?” she said.
+Algorithms are “trained” by being fed with sufficient quantities of properly classified data. If, for example, the AI is provided enough cat images classified as “a cat,” the machine will eventually learn to recognize almost any cat image, even one it hasn’t encountered before, as “a cat.”
+But the insider said Google has been training its “fairness” algorithm to produce results that reflect the company’s political views instead.
+“What they’re really saying about fairness is that they have to manipulate their search results so it gives them the political agenda that they want,” he said. “And so they have to re-bias their algorithms.”
+In 2008, for instance, Google introduced the “search suggestions” function. Whenever one started to type into the Google search bar, an algorithm would draw upon signals such as the user’s previous searches, searches by users worldwide, sites in Google’s index, and ads in Google’s network to suggest search phrases that start with the text already typed in.
+Now, however, the “fairness” algorithm causes the function to, at least sometimes, display results infused with Google’s preferred worldview, the insider said.
+When one types in “men can” and makes a space, the suggestions would show phrases like: “men can have babies,” “men can get pregnant,” and “men can have periods.”
+When one types in “women can” and makes a space, the suggestions would show phrases like: “women can vote,” “Women can do anything,” and “women can be drafted.”
+This is not because these phrases are so popular among users, but because the “fairness” algorithm pulled them from so-called “sources of truth”—as it was intentionally “trained” to do, the insider said.
+“They are feeding the information and training the AI so that it will return results like this,” he said.
+“Maybe it is the most important issue that we’ve ever faced in this country for as long as it’s existed,” said Project Veritas founder James O’Keefe. “All the political advertising money spent in the entire world will not have the effect of this company modifying its algorithms.”
+He said that Google assigns categories to YouTube videos based on words uttered in the videos. The “fairness” algorithm then elevates or buries the content based on its alignment with Google’s political agenda.
+Prager U videos and Dave Rubin’s videos were labeled “right-wing” and “news talk” and have received “heightened analysis” by an AI called Viacon, which, according to the insider, polices YouTube content. Prager U produces educational videos on conservative ideas. Rubin, who describes himself as a classical liberal, hosts a talk show where he says he tries to bridge ideological divides.
+People who Google labels as “right-wing news commentators,” regardless of whether they self-identify as such, have their videos disadvantaged, the insider said, specifically mentioning Rubin, pro-Trump satirical channel Carpe Diem, center-left commentator and journalist Tim Pool, and conservative comedian and commentator Steven Crowder.
+The Epoch Times on multiple dates tested the function by browsing Google News search results for the word “trump.” Every time, only about 3 to 5 percent of the articles featured on the first 10 pages of the results came from traditionally conservative-leaning media.
+Google has maintained that it simply gives preference to more “credible” sources.
+“We’re choosing what we define as credible news sources and those news sources don’t necessarily overlap with conservative sources,” Gennai said.
+The insider said, however, that Google actually has an editorial agenda. It puts the news sources through the “fairness” algorithm and if one aligns with Google’s agenda, “it pops the top,” he said. “If it doesn’t, then it gets buried.”
+“They can pressure us, but we’re not changing,” she said.
+And it’s not that the company is unaware that its “fairness” doctrine is far from universal.
+“The same people who voted for the current president do not agree with our definition of fairness,” Gennai said.
+In addition, Gennai appeared to consider Google’s political agenda as a justification to oppose the call from Sen. Elizabeth Warren (D-Mass.) to regulate Google along antitrust lines.
+“Elizabeth Warren is saying we should break up Google. And like, I love her but she’s very misguided,” Gennai said. “Like, that will not make it better it will make it worse, because all these smaller companies who don’t have the same resources that we do will be charged with preventing the next Trump situation, it’s like a small company cannot do that.”
+O’Keefe called it a “watershed moment” saying a “number of insiders” already approached him in the prior 24 hours, showing the tech companies are “in serious trouble.”
+“They’re really about to get a deluge of insiders,” he said.

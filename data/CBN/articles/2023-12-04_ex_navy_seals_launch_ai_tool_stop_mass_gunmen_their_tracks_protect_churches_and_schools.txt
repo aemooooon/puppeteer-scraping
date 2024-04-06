@@ -1,0 +1,16 @@
+A company co-founded by former U.S. Navy SEALs is harnessing artificial intelligence (AI) to protect churches and faith-based schools from potential attacks. 
+As concern grows over mass shootings, ZeroEyes co-founder Rob Huberty told CBN's The 700 Club his company is using artificial intelligence to protect potential targets like schools and houses of worship.
+"We take your existing video cameras, and we process every frame-by-frame, every image, every video feed that you have," he said. "We use our AI that goes over them and what it does is it looks for guns that are exposed."
+Within seconds, ZeroEyes pinpoints the types of guns being brandished and alerts first responders about the nature of potential threats as well as the types of weapons assailants might have. 
+Dominic Iocco, president of Lansing Catholic High School in Michigan and a ZeroEyes user, said the product offers peace of mind to his school community. 
+"My initial reaction was basically — 'How can we not do this?'" he said. " {Especially} when you look at...the tragic history of these types of scenarios, and you see the advantage of the response time that AI gives you."
+He continued, "As as an administrator of a school, obviously you never want something like this to ever happen. But you also want to know that you've done everything possible to make the school as safe as possible." 
+Matt Montana, safety director at Valley Baptist Church in Bakersfield, California, agrees.
+"People want to do us harm, and when I say us, I mean, men and women, the Christian faith...because we live in a broken world," he said. "There's a lot of sin out there and the innocence is preyed upon."
+Montana's church is preparing to roll out ZeroEyes. As a former law enforcement officer, Montana said the real-time intelligence capabilities can help mitigate potential threats and save lives. Even the mere presence of and knowledge about ZeroEyes being employed, he said, could make a difference.
+"What we're doing here, that, in itself, may deter somebody who has thoughts of doing harm to people at Valley Baptist Church," he said.
+While Huberty is fully aware of privacy concerns regarding AI, he said his company has intentional safeguards in place to protect users and organizations from any such infractions.
+"We view ourselves not as the total solution, but as a layer that makes sense," he said. "There's no facial recognition, there's no predictive analytics, we're just looking for an object, which is a gun." 
+Huberty added, "We are trying to do this the right way. We're never selling data. We don't even see the live feed. We're making sure it is the most secure connection that we can possibly have"
+He said the goal is to spot guns and give information to first responders as quickly as possible so they can be prepared to combat real-time threats.
+With mass shootings and acts of violence increasingly directed at synagogues, churches, and faith-based schools, ZeroEyes is offering a viable option for leaders looking to increase protections.

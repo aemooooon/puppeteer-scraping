@@ -1,0 +1,10 @@
+Big Tech and other social media companies should be required by Congress to publish dataset collections that would enable people to see clearly what principles guide their moderation policies, Kalev Leetaru says.
+Section 230 of the Communications Decency Act is being scrutinized by members of both parties, with proposals ranging from removing it altogether to keeping it in place with no changes.
+The section largely shields technology platforms from repercussions for their own actions and content posted by others. As the role of the platforms becomes larger and larger in everyday life, and as they crack down on a number of users—primarily conservatives—a public debate has ensued on what to do about moderation and censorship.
+“It’s kind of like a doctor: they know their patient is ill but you can’t treat the patient until you know specifically what diseases they have,” he said.
+In one case earlier this year, posts mentioning Memphis were taken down by Twitter. Users were told they were violating Twitter’s terms of service. The company soon issued a statement blaming an artificial intelligence algorithm.
+“How exactly did that AI algorithm come to see Memphis as being a bad term? We have no idea. Was that a human being who typed in a keyword? Was that some machine learning algorithm that looks for things going viral and makes its own decisions?” Leetaru said.
+Facebook CEO Mark Zuckerberg later disputed the allegations.
+“The problem is that at this point we don’t have the data, we can’t answer who’s right,” Leetaru said.
+The longtime data researcher is proposing a large, mandated requirement for transparency for tech platforms, which could be added to Section 230.
+Among the recommended changes: forcing social media platforms to publish a dataset collection concerning their moderation activities; clarifying that platforms cannot experiment on users, especially children; requiring that the platforms outline their policies clearly and equally enforce them; and compelling the companies to “clearly document in plain English the rationale behind each enforcement action.”

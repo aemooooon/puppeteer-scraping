@@ -1,0 +1,36 @@
+It was difficult to maintain a poker face when the leader of a big US tech firm I was chatting to said there was a definite tipping point at which the firm would exit the UK. 
+I could see my own surprise mirrored on the faces of the other people in the room - many of whom worked there.
+They hadn't heard this before either, one told me afterwards.
+I can't tell you who it was but it's a brand you would probably recognise.
+I've been doing this job for long enough to recognise a petulant tech ego when I meet one. From Big Tech, there's often big talk. But this felt different. 
+It reflected a sentiment I have been hearing quite loudly of late, from this lucrative and powerful US-based sector.
+Many of these companies are increasingly fed up. 
+Their "tipping point" is UK regulation - and it's coming at them thick and fast.
+The Online Safety Bill is due to pass in the autumn. Aimed at protecting children, it lays down strict rules around policing social media content, with high financial penalties and prison time for individual tech execs if the firms fail to comply.
+One clause that has proved particularly controversial is a proposal that encrypted messages, which includes those sent on WhatsApp, can be read and handed over to law enforcement by the platforms they are sent on, if there is deemed to be a national security or child protection risk. 
+The NSPCC children's charity has described encrypted messaging apps as the "front line" of where child abuse images are shared, but it is also seen as an essential security tool for activists, journalists and politicians.
+Currently messaging apps like WhatsApp, Proton and Signal, which offer this encryption, cannot see the content of these messages themselves. 
+WhatsApp and Signal have both threatened to quit the UK market over this demand. 
+The Digital Markets Bill is also making its way through Parliament. It proposes that the UK's competition watchdog selects large companies like Amazon and Microsoft, gives them rules to comply with and sets punishments if they don't.
+Several firms have told me they feel this gives an unprecedented amount of power to a single body.
+Microsoft reacted furiously when the Competition and Markets Authority (CMA) chose to block its acquisition of the video game giant Activision Blizzard.
+"There's a clear message here - the European Union is a more attractive place to start a business than the United Kingdom," raged chief executive Brad Smith. The CMA has since reopened negotiations with Microsoft.
+This is especially damning because the EU is also introducing strict rules in the same vein - but it is collectively a much larger and therefore more valuable market.
+In the UK, proposed amendments to the Investigatory Powers Act, which included tech firms getting Home Office approval for new security features before worldwide release, incensed Apple so much that it threatened to remove Facetime and iMessage from the UK if they go through. 
+Clearly the UK cannot, and should not, be held to ransom by US tech giants. But the services they provide are widely used by millions of people. And rightly or wrongly, there is no UK-based alternative to those services.
+Against this backdrop, we have a self-proclaimed pro-tech prime minister, Rishi Sunak. He is trying to entice the lucrative artificial intelligence sector - also largely US-based - to set up camp in the UK. A handful of them - Palantir, OpenAI and Anthropic - have agreed to open London headquarters. 
+But in California's Silicon Valley, some say that the goodwill is souring.
+"There is growing irritation here about the UK and EU trying to rein in Big Tech... that's seen as less about ethical behaviour and more about jealousy and tying down foreign competition," says tech veteran Michael Malone.
+British entrepreneur Mustafa Suleyman, the co-founder of DeepMind, has chosen to locate his new company InflectionAI in California, rather than the UK. 
+It's a difficult line to tread. Big Tech hasn't exactly covered itself in glory with past behaviours - and lots of people feel regulation and accountability is long overdue.
+Also, we shouldn't confuse "pro-innovation" with "pro-Big Tech" warns Professor Neil Lawrence, a Cambridge University academic who has previously acted as an advisor to the CMA.
+"Pro-innovation regulation is about ensuring that there's space for smaller companies and start-ups to participate in emerging digital markets", he said.
+Other experts are concerned that those writing the rules do not understand the rapidly evolving technology they are trying to harness. 
+"There are some people in government who've got very deep [tech] knowledge, but just not enough of them," said economist Dame Diane Coyle.
+"And so [all] this legislation has been going through Parliament in a manner that seems to technical experts, like some of my colleagues, not particularly well-informed, and putting at risk some of the services that people in this country value very highly."
+If UK law-makers don't understand the tech, there are experts willing to advise.
+But many of those feel ignored.
+Prof Alan Woodward is a cyber-security expert at University of Surrey, who has worked in various posts at GCHQ, the UK's intelligence, security and cyber-agency.
+"So many of us have signed letters, given formal evidence to committees, directly offered to advise - either the government doesn't understand or doesn't want to listen," he said.
+"Ignorance combined with arrogance is a dangerous mix."
+The Department for Science, Innovation and Technology said that it had "worked hand-in-hand with industry and experts from around the world to develop changes to the tech sector", including during the development of the Online Safety Bill and the Digital Markets Bill.

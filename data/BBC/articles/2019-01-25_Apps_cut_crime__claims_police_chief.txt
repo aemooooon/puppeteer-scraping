@@ -1,0 +1,31 @@
+A police force has rolled out 60 apps to help prevent crime amid a drop in budgets and officer numbers.
+Avon and Somerset Police has been using predictive data to anticipate crime hotspots and tackle repeat offenders.
+Its chief constable said officers faced a "blizzard of demand" daily but use of technology had led to a reduction in crime and anti-social behaviour.
+The Police Foundation said the force was "well in advance" of many others in the use of predictive software.
+Mr Marsh said the apps should help prevent future cases similar to the killing of Bijan Ebrahimi, a disabled Iranian refugee who was beaten to death on a Bristol estate in 2013.
+The force was found to be institutionally racist in how it handled his numerous complaints in the seven years leading up to his murder.
+After the report's publication, Mr Marsh vowed to Mr Ebrahimi's sisters that the force would learn from its mistakes and make changes in how it dealt with vulnerable people.
+And he said he was confident the software, which was introduced in 2016, identified vulnerable victims and risk of harm in a way that was not possible then.
+It uses a combination of artificial intelligence and statistics to assess the risk of someone committing or becoming a victim of gun or knife crime, as well as the likelihood of someone falling victim to modern slavery.
+The technology generates a bespoke file in seconds - a previously laborious job, which would have tied-up officers for days or weeks at a time and taken them off the beat.
+Andrew Roebuck, Avon & Somerset Police Federation chair, said the force was "leading the way" in predictive policing.
+"I think other forces are a bit jealous," he said.
+"It's a learning curve for the organisation and it's working well with the officers."
+Rick Muir, director of the Police Foundation, said while all forces increasingly relied on predictive software, many were still working with unlinked databases, which were incompatible. 
+He said: "The way in which Avon & Somerset have created a very usable interface for the officers is well in advance of what I've seen in some other places."
+Since 2010 the force has had its budget reduced by £78m, with the number of police officers cut by 655, leading Mr Marsh and its police and crime commissioner to declare it at "tipping point".
+Front-line officers are now equipped with laptops, body-worn cameras and mobile phones to use while out on the beat.
+"There is a blizzard of risk and demand facing our officers but we don't want a case like Mr Ebrahimi's to happen again," said Mr Marsh.
+"The problem-solving apps direct us to repeat offenders, problem areas and vulnerable people.
+"What we've started to see is a reduction in incidents of repeat crime and anti-social behaviour around those crime hotspots because of what we are doing."
+Some of the apps officers have been using include: 
+The result is "one voice of truth" that officers could rely on, said Becky Tipper, who manages the control centre where 999 and 101 calls are handled at force HQ.
+She said: "For staff all across the organisation it has completely revolutionised what we are doing.
+"It's part of daily business now to use the data that's available to us, it's reduced the need for a lot of manual work - there's no human intervention in a lot of it so that data is collected from the computer systems in one place and it's one voice of truth - one system with one result."
+Since the software was introduced the force has gone from being one of the worst-performing for how long it takes to answer 999 calls to one of the best.
+The head of its control centre said it now had a 99.9% success rate on 999 calls answered within 10 seconds and helped other over-stretched forces when they were experiencing high call rates.
+The force's business intelligence manager Jonathan Dowey said the data helped officers make better policing decisions.
+"We don't want to be attending the same sort of incidents day after day, we want to problem-solve them and prevent them.
+"What we are not doing here is automating policing, instead we are empowering and augmenting police officers - giving them accurate and timely data to support their decisions."
+Mr Marsh said the data was about doing the best he could with the resources he had, although he was hopeful officer numbers could be boosted.
+The force is hoping a rise in its council tax precept for 2019-20 will be approved to release funding for 100 extra officers, who would be tasked with tackling knife crime, drug dealing and burglaries.

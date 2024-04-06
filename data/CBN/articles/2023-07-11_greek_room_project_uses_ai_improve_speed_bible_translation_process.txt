@@ -1,0 +1,19 @@
+Artificial intelligence is being used by a team of specialists in California to translate the Bible into languages that at present don't have a written version of God's Word. 
+The "Greek Room" project team – led by Ulf Hermjakob, a senior research scientist at the University of Southern California's Information Sciences Institute (ISI), and Joel Mathew, a research engineer there – aims to develop tools to enhance the efficiency of Bible translation, according to Relevant Magazine. 
+Wycliffe Bible Translators is also collaborating with the project. Its name pays homage to the original language of the New Testament, according to its website. 
+Bible translation is a long and arduous process, oftentimes taking longer than 10 years. Out of the world's 7,100 languages, only about 700 possess a complete copy of the Bible. While more than 3,500 languages have at least one book of the Bible, over 6,000 languages lack a comprehensive version, the outlet reported. 
+
+"People don't realize that there are about 7,100 languages in the world," Hermjakob told Relevant. "Google Translate covers about 100 of them. Our focus for this Bible translation is on very low-resource languages that don't even fall within the top 500."
+Mathew told the outlet he believes software technology will help improve and speed up the translation process. 
+"There were a lot of areas where I felt software technology could really speed up, improve, support, and help them," Mathew said. "It's one of my passions to see the Bible translated into all languages."
+While some aspects of the translation are straightforward, leaving little room for debate, other language values require human intervention due to their subjective nature, according to Relevant. 
+Mathew gave an example to the outlet showing the challenge of translating the simple meaning of a certain passage into a local language. 
+"There is a community living in the mountains, and they live in huts without doors, so there's no concept of a door in their culture," he said. "In the Bible, there is a verse that says, 'Behold I stand at the door and knock.' The question is, how do you translate that for people so that it is meaningful to them?"
+The Greek Room project allows translators to dedicate more time to these types of translations. 
+"We try to then explain it as not specifically knocking at the door, but instead describe a scene where someone is standing at the entrance of your house and asking to be invited to come in," Mathew told Relevant Magazine. 
+Wycliffe notes the use of a word aligner — or, more simply, a word and phrase suggestion tool — a computer program that compares translated Scripture to its original language source. It reveals inconsistencies and suggests solutions to help people clearly understand, according to its website. 
+Hermjakob and Mathew said they hope to make their Greek Room available to translators worldwide as an open-source platform, making their data and code public. 
+***Please sign up for CBN Newsletters and download the CBN News app to ensure you keep receiving the latest news from a distinctly Christian perspective.***
+Others also believe that AI is here to stay and has tremendous potential for Christian ministry. 
+"I don't see missionaries being automated any time soon. But the many, many, many (AI) applications that will be available to us have created this new wild frontier, and its impact will be huge," Ted Esler, president of Missio Nexus, an association of U.S. and Canadian agencies and churches, told CBN News last month. 
+"The ability to go from one language to another, the barriers are quickly being reduced... interacting between languages in ministry work, whether it's church planting, discipleship, planning, meetings, all these things, is going to go through some fairly dramatic pivots and shifts over the next few years," said Jon Hirst, Innovation Officer at SIL International.

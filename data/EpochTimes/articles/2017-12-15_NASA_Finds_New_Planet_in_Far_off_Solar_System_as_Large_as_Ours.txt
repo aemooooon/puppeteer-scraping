@@ -1,0 +1,12 @@
+NASA’s recent discovery of a new planet circling around a far-off Sun-like star has raised hopes of finding extra-terrestrial life outside our own solar system.
+The new planet was discovered using data from NASA’s Kepler Space Telescope and machine learning from Google, and has been dubbed Kepler-90i—a sizzling hot, rocky planet that orbits its star once every 14.4 days.
+“Machine learning is an approach to artificial intelligence in which computers ‘learn.’ In this case, computers learned to identify planets by finding in Kepler data instances where the telescope recorded signals from planets beyond our solar system, known as exoplanets,” the statement read.
+Paul Hertz, director of NASA’s Astrophysics Division in Washington, said the data will be a “treasure trove” for future innovative researchers.
+“Just as we expected, there are exciting discoveries lurking in our archived Kepler data, waiting for the right tool or technology to unearth them,” said Hertz.
+In order to identify exoplanets—planets outside our solar system orbiting a star—researchers Christopher Shallue and Andrew Vanderburg trained a computer to analyze light readings recorded by Kepler. The computer would detect the minuscule change in brightness captured by the telescope when an exoplanet passed in front, or “transited” a star.
+The technique was inspired by the way neurons connect in the human brain and helped researchers sift through the telescope’s data to find the eighth exoplanet.
+NASA said that other planetary systems probably hold more promise for life than Keplar-90, however, its outermost planet, Kepler-90h, orbits at a similar distance to its star as Earth does to the Sun.
+The newly discovered planet is about 30 percent larger than Earth and its position in its solar system is on par with Mercury. The average surface temperature of Kepler-90i is believed to exceed 800 degrees Fahrenheit.
+“The Kepler-90 star system is like a mini version of our solar system. You have small planets inside and big planets outside, but everything is scrunched in much closer,” said Vanderburg, a NASA Sagan Postdoctoral Fellow and astronomer at the University of Texas at Austin, in the statement.
+Telescope Kepler has produced an unprecedented data set for exoplanet hunting, according to NASA.
+“These results demonstrate the enduring value of Kepler’s mission,” said Jessie Dotson, Kepler’s project scientist at NASA’s Ames Research Center in California’s Silicon Valley.

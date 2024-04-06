@@ -1,0 +1,14 @@
+The U.S. Air Force has announced four prototype jets will compete for its vision of an unmanned autonomous fighter that can team up with a human-piloted lead aircraft.
+Boeing’s prototype—known as the Loyal Wingman—is also supported by the Air Force in Australia, where it’s being developed and built.
+Kratos’s XQ-58A Valkyrie already has recorded some test flight miles.
+Skyborg marks another step toward warfare strategies that involve greater numbers of autonomous platforms in the air, on land, and at sea.
+Autonomous jets, tanks, helicopters, and submarines not only eliminate the risk to human life but are also potentially cheaper and simpler to make. With no flesh and blood to protect, they need less armor, less air, less space, and have fewer design constraints.
+Skyborg is specifically required to be “attritable,” i.e., cheap and replaceable enough to be destroyed in battle.
+The Air Force says that the prototypes will help establish a “best of breed” autonomous system that can adapt, orient, and make decisions at machine speed.
+That system would be the common AI framework of a family of Skyborg drones, each suited to different mission sets.
+“Because autonomous systems can support missions that are too strenuous or dangerous for manned crews, Skyborg can increase capability significantly and be a force multiplier for the Air Force,” said Brig. Gen. Dale White, program executive officer for fighters and advanced aircraft, who, along with Brig. Gen. Heather Pringle, commander of the Air Force Research Laboratory (AFRL), leads the Skyborg program.
+“We have the opportunity to transform our warfighting capabilities and change the way we fight and the way we employ air power.”
+The unmanned wingman concept also highlights another growing theme of military modernization: integration of manned and unmanned platforms through the use of artificial intelligence. The approach has already been tested in principle by the adoption of regular fighter jets for autonomy through fly-by-wire systems.
+On Jan. 5, the Navy simultaneously flew two autonomously piloted carrier jets, using a third human-piloted jet as a mission controller.
+The EA-18G Growler jets used in the test are electronic-warfare aircraft—modified versions of the F-18. Over the course of four flights, 21 demonstration missions were completed, according to Boeing.
+With China now spending more than a dozen times more on defense than it did 20 years ago, the U.S. military is revamping for a renewed “great power competition” with Russia and China, as demanded by the 2018 National Defense Strategy.

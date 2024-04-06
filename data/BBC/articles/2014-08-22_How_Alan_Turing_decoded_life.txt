@@ -1,0 +1,25 @@
+Our picks of the week from around the web, including Alan Turing’s decoding of natural patterns, the man behind graphene and the ethics around treating Ebola.
+Robot cars with adjustable ethics settings
+Patrick Lin | Wired | 19 August 2014
+An approach (though not a solution) to the problem of ethics for driverless cars, and potentially quite a useful intermediate step: allow the user to select from a range of “ethics settings”. One person might instruct the car to value his life over all others; another might prefer the car to value all lives the same and minimise harm overall; a third might want to minimise legal liability and costs for herself. 
+Regulating infinity
+Robin Hanson | Overcoming Bias | 17 August 2014
+Longer lifespans, more rapid technological change and greater plasticity of values point us towards a world in which inter-generational conflict becomes much fiercer as older people co-exist with younger people who are very, very different. It is an interesting and plausible problem, though the possible solution debated here – that the world should be regulated by a super-intelligence – is more of a thought experiment.    
+Can a robot be too nice?
+Leon Neyfakh | Boston Globe | 15 August 2014
+Should we try to give robots human-like personalities? Arguably not, on the grounds that too much anthropomorphism might make us over-respectful of robots, too reluctant to pull the plug. But in practice, robots with human traits will tend to be easier for us to understand and use. The issue is rather that personalities are hard to construct; and our notions of where robots belong in society are still taking shape.
+The man who really built Bitcoin
+Tom Simonite | MIT | 15 August 2014
+Meet Gavin Andresen, chief scientist at the Bitcoin Foundation, and thus the de facto boss of Bitcoin development. Princeton computer science graduate; previously with Silicon Graphics; encountered Bitcoin in 2010, sent code tweaks to Satoshi Nakamoto by email, took over as lead developer with Satoshi’s blessing. Spoiler alert: Andresen says he is not himself Satoshi, and he doesn’t know who is.
+Godfather of graphene
+Giles Whittell | Intelligent Life | 15 August 2014
+Profile of physicist Andre Geim, discoverer of graphene, Nobel prize-winner, Russian emigre now established in Manchester, England. Graphene, which is “100 times stronger than steel and 100 times more conductive than copper”, is “the applied-science project of the age”. If optimistic projections hold true, Geim will be “more than a mere scientist; he will be the founder of a new economy, like James Watt 230 years ago.”
+Science and ethics of Ebola treatment
+Joanna Monti-Masel | Scientia Salon | 14 August 2014
+How to administer a very few doses of untested medicine in an epidemic. Don’t worry about side effects: “If there were ever a disease for which this is not a big deal, it is Ebola. It seems unlikely that the drug could make matters any worse.” Do have a control group, however small: Toss a coin to see which of the two American patients gets ZMapp and which a placebo; next do the same for two African patients.
+How the zebra got its stripes
+Kat Arney | Mosaic | 12 August 2014
+After developing new models of computing, and running a code-breaking team that helped save Britain from Hitler, Alan Turing went to Manchester and invented a mathematical theory of embryology showing that complex structures could evolve from two interacting components. Now, 60 years later, geneticists are finding that Turing was right. His systems explain much about the development of organisms.
+Hearing music in noise
+Natalie Wolchover | Quanta | 12 August 2014
+Winner of the Fields Medal, the highest honour in mathematics, Martin Hairer's sideline is writing music-editing software. This familiarised him with the algorithms used to compress jpeg and mp3 files, which inspired his “fantastic” solution for stochastic partial differential equations. These are used to model highly complicated patterns of growth, such as a drop of water spreading through a paper napkin.   

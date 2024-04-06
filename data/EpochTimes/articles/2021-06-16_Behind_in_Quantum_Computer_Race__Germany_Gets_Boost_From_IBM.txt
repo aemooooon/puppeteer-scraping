@@ -1,0 +1,7 @@
+BERLIN—IBM on Tuesday unveiled one of Europe’s most powerful quantum computers in Germany, boosting the country’s efforts to stay in the race for what’s considered a key technology of the future.
+Quantum computers use subatomic particles to get around the limitations of traditional physics and perform calculations at far higher speeds than even the fastest existing supercomputers. While this was long seen as the preserve of arcane research, companies are increasingly hoping to harness quantum computers to develop new materials, drugs, or artificial intelligence applications.
+The new IBM system is the company’s first quantum computer outside of the United States, where it already has more than 30 such computers. It is located at a facility in Ehningen operated by Germany’s Fraunhofer Society research organization.
+Speaking by video link at the official launch, German Chancellor Angela Merkel said quantum computing would play a key role in the country’s efforts to retain “technological and digital sovereignty” while also providing a motor for economic growth.
+“Of course, we’re not alone in the world with such ideas,” she said. “ The United States and China in particular are investing large sums.”
+Merkel said her government had recently decided to increase its funding for quantum computing research by €2 billion ($2.4 billion) over the coming five years.
+“The rest of the world isn’t sleeping in this field,” said the 66-year-old, who was a quantum chemist in East Germany before entering politics.

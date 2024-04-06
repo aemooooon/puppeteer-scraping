@@ -1,0 +1,22 @@
+The UK's Intellectual Property Office has decided artificial-intelligence systems cannot patent inventions for the time being.
+Patents assign the ownership of a new invention to its creator.
+A recent IPO consultation found many experts doubted AI was currently able to invent without human assistance.
+Current law allowed humans to patent inventions made with AI assistance, the government said, despite "misperceptions" this was not the case.
+Last year, the Court of Appeal ruled against Stephen Thaler, who had said his Dabus AI system should be recognised as the inventor in two patent applications, for:
+The judges sided, by a two-to-one majority, with the IPO, which had told him to list a real person as the inventor.
+"Only a person can have rights - a machine cannot," wrote Lady Justice Laing in her judgement. 
+"A patent is a statutory right and it can only be granted to a person."
+But the IPO also said it would "need to understand how our IP system should protect AI-devised inventions in the future" and committed to advancing international discussions, with a view to keeping the UK competitive.
+In July 2021, in a case also brought by Mr Thaler, an Australian court decided AI systems could be recognised as inventors for patent purposes. 
+Days earlier, South Africa had issued a similar ruling. 
+However, the Australian decision was later overturned on appeal.
+Many AI systems are trained on large amounts of data copied from the internet.
+And, on Tuesday, the IPO also announced plans to change copyright law to allow anyone with lawful access - rather than only those conducting non-commercial research, as now - to do this, to "promote the use of AI technology, and wider 'data mining' techniques, for the public good".
+Rights holders will still be able to control and charge for access to their works but no longer charge extra for the ability to mine them.
+An increasing number of people are using AI tools such as DALL.E 2 to create images resembling a work of human art.
+And Mr Thaler has recently sued the US Copyright Office over its refusal to recognise a software system as the "author" of an image, the Register reported.
+In the consultation, the IPO noted the UK was one of only a handful of countries to protect computer-generated works with no human creator. 
+The "author" of a "computer-generated work" is defined as "the person by whom the arrangements necessary for the creation of the work are undertaken", it says. 
+And protection lasts for 50 years from when the work is made.
+Performing-arts workers' union Equity had called for copyright law to be changed to protect actors' livelihoods from AI content such as "deepfakes", generated from images of their face or voice.
+The IPO took this issue seriously, it said, but "at this stage, the impacts of AI technologies on performers remain unclear".

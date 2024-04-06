@@ -1,0 +1,15 @@
+WASHINGTON, DC – Facial recognition technology might be the next best crime-fighting tool. But it's stirring controversy on Capitol Hill with lawmakers questioning its accuracy and its impact on privacy.
+Today's latest tech has been featured in sci-fi movies for decades. Now, life widely imitates art when faces in pictures we post on social media are instantly recognized. For some it's frightening.
+During a recent hearing on Capitol Hill, skeptics spoke against facial recognition pilot programs being rolled out by Customs and Border Protection and TSA aimed at verifying identification.
+"To be clear CBP is only comparing the picture taken against photos previously provided by travelers to the US government for the purpose of international travel," said John Wagner with US Customs and Border Protection. "This is not a surveillance program."
+Perhaps not, but the technology has some flaws.
+"Age, race and sex, there are demographic affects quantifying those (specifically) women and dark skinned people," said Charles Romine with the National Institute of Standards and Technology (NIST).
+To better illustrate this, lawmakers referenced an ACLU study using facial recognition to compare members of Congress to 25,000 arrest photos.
+"That software incorrectly matched 28 members with individuals who had criminal records," said House Homeland Security Committee Chair Bennie Thompson.   "Although the false matches were done on both Democrats and Republicans, men and woman and a wide range of ages, nearly 40 percent of false matches were people of color. This is unacceptable."
+NIST is performing a comprehensive analysis on facial recognition as it pertains to demographics. The results should be out this fall.
+Security is also a concern, especially after someone hacked the system of a sub-contractor working with Customs and Border Protection exposing information that, in the wrong hands, could lead to deep fakes and other results of artificial intelligence.
+"Our main network has these types of protocols on them but we didn't have it on this type of system," Wagner says.  He says the security protocols are being added to all systems.
+And what about privacy? ICE has been comparing drivers' licenses in three states against their records without public knowledge.
+"I do not believe that anyone has a reasonable expectation of privacy in a government ID photo, period," said committee member Rep. Mike Rogers.
+When it comes to identifying criminals, some say the benefits of the technology outweigh the negatives.
+"Effective facial recognition technologies can aid law enforcement by ridding this process of bias and error," Rogers said.

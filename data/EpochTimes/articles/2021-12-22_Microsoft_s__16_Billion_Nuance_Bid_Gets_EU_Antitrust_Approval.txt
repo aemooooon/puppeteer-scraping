@@ -1,0 +1,7 @@
+BRUSSELS—The European Commission on Tuesday granted Microsoft unconditional antitrust approval for its $16 billion bid for artificial intelligence and speech technology company Nuance Communications.
+The deal is Microsoft’s second biggest after its $26.2 billion LinkedIn purchase in 2016, and would boost its presence in cloud services for healthcare.
+It has already regulatory approval in the United States and Australia.
+The Commission said its investigation into the deal had concluded that it would not significantly reduce competition in markets for transcription software, cloud services, enterprise communication services, PC operating systems, and other products.
+“The proposed transaction would raise no competition concerns on any of the markets examined in the European Economic Area,” the Commission said.
+U.S.–based Nuance serves 77 percent of U.S. hospitals and helped launch Apple’s Siri virtual assistant.
+The Commission said it had examined issues including the overlap between Microsoft and Nuance’s transcription software activities, and found that they offered “very different products” that, when combined, would continue to face strong competition from other players.

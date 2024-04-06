@@ -1,0 +1,16 @@
+Amazon's personal digital assistant Alexa is on track to gain a new ability – replicating the voices of family members, even if they're dead.
+The capability was unveiled at an Amazon conference this past week in Las Vegas.
+ 
+The feature is still in development, but it would allow Alexa to mimic the voice of a specific person based on less than a minute of provided recording.
+Rohit Prasad, the head scientist for Alexa, said the desire behind the capability was to build greater trust in people's interactions with Alexa by putting in more "human attributes of empathy and affect."
+Prasad said, “While A.I. [Artificial Intelligence] can’t eliminate that pain of loss, it can definitely make their memories last.”  
+He then played a video at the event with a young child asking, “Alexa, can Grandma finish reading me the Wizard of Oz?” Alexa then switches to an artificial voice that mimics the child’s grandmother. 
+
+Many critics are calling the move "creepy."
+A software consultant named Fiona Charles tweeted, "Is there anyone who doesn't think this is seriously creepy?"
+Mashable said Alexa's use of dead loved ones' voices is "like an episode of 'Black Mirror'." That's a TV show that some have compared to a modern version of the "Twilight Zone" that merges sci-fi with dystopian fears. Netflix describes it as "a twisted, high-tech near-future where humanity's greatest innovations and darkest instincts collide."
+Other social media users stated, "I hear dead people," a tongue-in-cheek reference to a movie called "The Sixth Sense."
+Meanwhile, the effort to equip Alexa with the power to mimic the voices of specific people is also sparking privacy concerns and ethical questions about consent. 
+It's all part of the shift toward Artificial Intelligence which several Big Tech companies are actively developing, raising concerns that A.I. could invade real life with fake creations that distort our perceptions of reality.  
+"We are unquestionably living in the golden era of A.I. where our dreams and science fictions are becoming a reality," Prasad added.
+***Please sign up for CBN Newsletters and download the CBN News app to ensure you keep receiving the latest news from a distinctly Christian perspective.***

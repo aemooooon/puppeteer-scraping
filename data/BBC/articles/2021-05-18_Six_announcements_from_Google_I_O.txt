@@ -1,0 +1,31 @@
+Last year Google's developer conference was cancelled. Google I/O was back this year with several new announcements. Here are the things that caught our eye. 
+Google says it is creating a smartphone camera that more accurately depicts skin tone. 
+"For people of colour, photography has not always seen us as we want to be seen, even in some of our own Google products" said Google's Sameer Samat.
+Google says it's making changes to auto white balance adjustments "to bring out natural brown tones". 
+The company says it is also working on new algorithms to better distinguish the subject from a background. 
+The camera will be ready on the new Google Pixel which will be out later this year. 
+However Google has itself been subject to accusations of racism recently.
+The company was described as "institutionally racist" by influential AI academic Timnit Gebru. She says she was dismissed by the company after a paper she had written about discrimination in AI in December. More details here.
+Google Photos will use AI to curate collections to share with the user, similar to Memories on Apple and Facebook. 
+A big complaint from users of Apple's or Facebook's feature is when people are reminded of breakups or tough times in their lives.
+Google says they have taken this into consideration and will allow users to control which photos they do or don't see by letting them remove specific images, people or time periods.  
+Another feature they're introducing is called "little patterns". It will use AI to scan pictures and create albums based on similarities within them - for example, the same jumper, the same couch or similar cups of coffee.
+Google is also using machine learning to create what they're calling "cinematic moments" which will look at two or three pictures taken within moments of each other and creating a moving image, similar to Apple's Live Photos. 
+Google launched a new feature called "Smart Canvas" - a sort of umbrella platform interconnecting Google Docs, Meet, Sheets, Tasks, and Slides.
+One feature announced is an "assisted writing" tool. 
+This will flag up "gendered terms" to the user and suggest alternatives. 
+For example, a user who wrote "Chairman" would be asked whether they wanted to use a gendered term - and would be offered alternatives such as "Chairperson" or "Chair". 
+Google said more details would be revealed "in the coming weeks". 
+Google described this update to its operating system, Android 12, as "the biggest design change in Android's history". 
+This update will include new privacy features that will allow users to have more control over how much information apps get from them. 
+A light on the top of the screen will indicate if an app is using the device's camera or microphone - a feature users of Apple's iOS are already familiar with. 
+Users can also opt to share an approximate location instead of an exact one. 
+Google and Apple have recently faced criticism about their operating systems. The two companies run the operating systems of the vast majority of the world's phones outside of China.  
+Apple recently announced a new feature to its iOS update that allows users to stop third party apps from tracking them. Google didn't announce an equivalent tool. 
+Google announced it was working on a new video chat system - where the person you're chatting to appears in front of you in 3D. 
+The project is called "Starline" and aims to create ultra realistic projections for video chats. 
+The pandemic has created huge interest in how video conferencing can be improved. 
+However before you get too excited, this is still very much a work in progress. 
+The technology needs multiple cameras, and is unlikely to be compatible with consumer tech anytime soon. 
+Google also unveiled a tool that uses artificial intelligence to help spot skin, hair and nail conditions, based on images uploaded by patients.
+The company said it should launch later this year, and that the app has been awarded a CE mark for use as a medical tool in Europe.

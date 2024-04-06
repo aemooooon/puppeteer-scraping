@@ -1,0 +1,19 @@
+Facebook has announced it will remove videos modified by artificial intelligence, known as deepfakes, from its platform. 
+Deepfakes are computer-generated clips that are designed to look real. 
+The social media company said in a blog that these videos distort reality and present a "significant challenge" for the technology industry.
+While deepfakes are still relatively uncommon on the internet, they are becoming more prevalent. 
+AI software creates deepfakes of people - often politicians or celebrities - by merging, replacing, or superimposing content on to a video in a way that makes it look real. 
+Facebook said it would remove videos if it realised they had been edited in ways that weren't obvious to an average person, or if they misled a viewer into thinking that a person in a video said words they did not actually say. 
+"There are people who engage in media manipulation in order to mislead," wrote Monika Bickert, vice president of global policy management at Facebook in the blog. 
+Facebook staff and independent fact-checkers will be used to judge a video's authenticity.  
+The new policy will not apply to parody or satire videos. 
+Last September, Facebook announced it was contributing $10m (£7.6m) to a fund to improve deepfake detection technologies. 
+Mark Zuckerberg, Facebook's chief executive, has himself featured in a deepfake video. The clip featured a computer-generated version of Zuckerberg crediting a secretive organisation for the success of the social network.
+William Tunstall-Pedoe, a computer scientist who sold his AI company to Amazon, told BBC News that Facebook deserved credit for trying to tackle the "difficult area".
+"The fact the video is fake and intended to be misleading is the key thing for me," he said. "Whether sophisticated AI techniques are used or less sophisticated techniques isn't relevant."
+Other companies like Google and Microsoft are also trying to combat deepfakes. 
+Facebook said it plans to work with academia, government, and businesses to expose the people behind deepfakes. 
+The Californian tech giant added that it would continue to remove all videos that include nudity, graphic violence, voter suppression and hate speech. 
+Facebook has been criticised for refusing to remove an altered video of US House of Representatives Speaker Nancy Pelosi that went viral last summer. The video is edited to make it look like she was slurring her words. 
+However, Facebook told Reuters it would not be taking the video down under the new policy. 
+"The doctored video of Speaker Pelosi does not meet the standards of this policy and would not be removed," the company reportedly said. 

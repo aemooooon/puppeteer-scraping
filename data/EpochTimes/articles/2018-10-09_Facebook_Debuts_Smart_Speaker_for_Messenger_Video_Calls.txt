@@ -1,0 +1,18 @@
+Facebook released a smart speaker designed to make video calling easier on Oct.8, but the company’s history of privacy mishaps and the device’s price and limited functionality could slow it from taking on market leaders Amazon.com Inc and Alphabet Inc’s Google.
+The device, known as Portal, comes in $199 and $349 versions and its signature feature is a wide-angle camera that automatically keeps users in focus as they move about a room, Facebook hardware executives told Reuters in a meeting last week.
+They said Portal is available at Amazon and Best Buy stores in addition to Facebook.com and starts shipping to U.S. customers in early November.
+Smart speakers costing under $100 from Amazon and Google have become best sellers in the nascent industry. Users issue voice commands to search, shop, and listen to music, turning the speakers into a major funnel into the technology companies’ competing networks.
+Portal could help Facebook stop users from flocking to rival chat and video apps on other speakers and give it a new, wholly controlled environment to sell ads.
+About 32 percent of U.S. consumers own a smart speaker, but another 16 percent plan to buy one by the end of 2018, according to an Adobe Analytics survey released last month.
+Facebook expects to stand apart on the market because of Portal’s touchscreen and the 400 million people who call through its Messenger service each month worldwide. Rival smart speakers with screens lack a video-chatting app that is as popular.
+Still, Amazon has shipped 1 million of its Echo speakers with displays over the last year, according to research firm Canalys, which expects 4 million such devices across brands to ship globally next year.
+Portal’s camera, which uses a form of artificial intelligence to recognize body shapes, is a major marketing point, offering users the convenience of staying in the frame without having to adjust the device.
+“Our goal is to make you feel present in the same space as the person on the other end,” said Rafa Camargo, the Facebook vice president overseeing Portal.
+The launch of the product comes at a tricky time for Facebook. Last month, it announced an attacker gained the ability to take over 50 million user accounts because of software flaws.
+Scrutiny this year over Facebook’s privacy and content moderation practices have led some people to abandon the service and the company to warn of thinning profits.
+Portal locks with a passcode, and its microphones and camera shuts off with the tap of a button. Video and voice calls are encrypted and contents of them are not stored, the company said.
+Users can conference with any Messenger user.
+Portal integrates Amazon’s Alexa voice assistant to handle search queries, and Facebook collects audio files of requests made to Alexa.
+The higher-priced Portal’s screen is 15.6 inches, versus 10 inches. Both display photos and notifications from Facebook and videos from the Food Network, but offer few other applications.
+Additional features are available during calls, including joint listening on Spotify. A handful of animated e-books such as “Itsy Bitsy Spider” will be included at launch for interactive story time.
+Portal runs on the open-source version of Google’s Android mobile operating system, similar to many Amazon devices.

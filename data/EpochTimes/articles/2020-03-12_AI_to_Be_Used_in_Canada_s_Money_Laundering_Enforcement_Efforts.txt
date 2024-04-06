@@ -1,0 +1,15 @@
+OTTAWA—The federal anti-money laundering centre is exploring artificial intelligence and machine learning to help sort through a deluge of data in the hunt for hidden dirty cash.
+In its annual report made public Wednesday, the Financial Transactions and Reports Analysis Centre of Canada, known as Fintrac, says rapid change in the global financial system, spurred by quickly evolving technology, is both a challenge and an opportunity.
+Fintrac says technology can help money launderers but also create more efficient and effective ways of doing business for enforcement agencies.
+The federal centre tries to pinpoint cash linked to money laundering and terrorism by sifting through millions of pieces of information annually from banks, insurance companies, securities dealers, money service businesses, real estate brokers, casinos, and others.
+Overall, the centre disclosed 2,276 pieces of financial intelligence to police and security agencies such as the RCMP and Canadian Security Intelligence Service last year.
+Of these, 1,702 were related to money laundering, 373 to terrorism financing and threats to the security of Canada, and 201 to a combination of these.
+Fraud, drugs and tax evasion were the most common offences linked to the disclosures. Many of the drug-related ones involved the movement of money related to deadly fentanyl.
+The top three recipients of information were the RCMP, municipal police forces and CSIS.
+In December 2019, Fintrac warned casinos to scrutinize customers who pay for their gaming with bank drafts—the latest method of choice for criminals trying to disguise tainted money.
+The agency published the alert as part of Project Athena, an RCMP-led public-private partnership aimed at disrupting money laundering activity in British Columbia and across Canada. The initiative was modelled on previous efforts targeting the fentanyl trade, romance fraud, and human trafficking.
+British Columbia launched a public inquiry into money laundering in May after a series of independent reviews revealed that billions of dollars were being laundered through the province’s casinos, real estate market, and other sectors.
+British Columbia was second only to Ontario among provinces in the number of financial intelligence disclosure packages received from Fintrac in 2018−19.
+The federal centre depends on sophisticated technology to receive, store, and secure over 25 million new financial transaction reports every year.
+Filtering and analyzing the information to generate useful intelligence is only possible with modern systems that can manage the high volume of data, make the connections and produce the needed results, all in real-time or close to it, the report says.
+“Over the past year, the centre engaged in research and consultation aimed at better understanding how to take advantage of new and evolving technology, particularly in relation to machine learning and artificial intelligence.”

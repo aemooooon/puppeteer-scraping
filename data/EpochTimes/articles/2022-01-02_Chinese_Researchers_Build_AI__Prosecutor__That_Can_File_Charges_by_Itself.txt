@@ -1,0 +1,20 @@
+Scientists in China said they have developed a machine that relies on artificial intelligence (AI) to charge offenders with crimes.
+Shanghai Pudong Procuratorate, the country’s largest prosecution office, built and tested the machine. So far, the machine is able to identify and file charges for the eight most common crimes in Shanghai—credit card fraud, running a gambling operation, reckless driving, intentional injury, obstructing official duties, theft, fraud, and picking a quarrel.
+The researchers said that, based on a written description of a case, the so-called AI prosecutor can file a charge with 97 percent accuracy.
+Professor Shi Yong, the project’s lead scientist, said the AI technology could reduce prosecutors’ daily workloads, allowing them to focus on more challenging work. Shi also is the director of the big data and knowledge management laboratory at the Chinese Academy of Sciences, the regime’s top state-run research institute.
+“The system can replace prosecutors in the decision-making process to a certain extent,” Shi and his team said in a paper published in the Chinese peer-reviewed journal Management Review. The South China Morning Post first reported about the newly developed AI machine.
+Shi and his colleagues said that Chinese prosecutors began employing AI in 2016. Many of them now use an AI tool known as “System 206.” The system is able to evaluate the strength of evidence, conditions for an arrest, and how dangerous a suspect is considered to be to the public.
+But all existing AI tools only played a limited role, since “they do not participate in the decision-making process of filing charges and [suggesting] sentences,” the paper stated.
+To make such decisions requires a machine to identify and remove any contents of a case file that are irrelevant to a crime and keep the useful information, it added.
+The machine also needs to transform the complex, ever-changing human language into a standard mathematical or geometric format that a computer can understand, according to the paper.
+China’s internet companies have developed powerful tools for natural language processing, but their operation often requires large computers that prosecutors do not have access to.
+The AI “prosecutor” developed by Shi’s team could operate on a desktop. For each suspect, it would press a charge based on 1,000 “traits” obtained from the human-generated case description text, most of which is too short or abstract to make sense to humans. System 206 would then assess the evidence.
+Shi said they used more than 17,000 cases from 2015 to 2020 to train the machine.
+The paper expected the AI prosecutor would soon become more competent with upgrades. It would be able to recognize less common crimes and file multiple charges against one suspect.
+But the new machine has raised questions among Chinese prosecutors. A prosecutor in Guangzhou stated in the report that he had some concerns about the use of an AI prosecutor in filing charges.
+The 97 percent accuracy may be high from a perspective of technology, but there will always be a chance of a mistake, the prosecutor said.
+“Who will take responsibility when it happens? The prosecutor, the machine, or the designer of the algorithm?”
+Direct application of AI in decision-making could also affect a human prosecutor’s autonomy. Most prosecutors don’t want computer scientists to interfere with a legal judgment, the prosecutor added.
+Another question is that the AI prosecutor could file a charge based only on its previous experience, the prosecutor said. It couldn’t foresee the public reaction to a case in a shifting social environment.
+“AI may help detect a mistake, but it cannot replace humans in making a decision,” the prosecutor stated.
+China’s media celebrated the AI prosecutor as the world’s first achievement in this field.

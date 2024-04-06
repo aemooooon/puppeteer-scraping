@@ -1,0 +1,33 @@
+For the second year in a row, Canada has refused visas to dozens of researchers - most of them from Africa - who were hoping to attend an artificial intelligence (AI) conference in Vancouver. The hassles have caused at least one other AI conference to choose a different country for their next event.
+The Neural Information Processing Systems conference (NeurIPS), which brings together thousands of experts and researchers from all over the world, will be held in Vancouver next month. 
+Last week, NeurIPS began hearing that several attendees had had their visas denied. 
+It was the second year in a row the conference has had visa troubles. In 2018, when the conference was held in Montreal, more than 100 attendees were denied visas. 
+The issue prompted Prime Minister Justin Trudeau to defend Canada's immigration system during the G7.
+"I can assure you that Canada is world-class in the way that it approves visas and encourages people from around the world to come participate in important global conversations like these," he told Wired Magazine at the G7 in 2018.
+"I'm sure that there will be people looking into what you have described."
+This year, event organisers had been working with Immigration, Refugee and Citizenship Canada to try to make the visa process smoother, providing a list of names of people invited to attend the conference. 
+But still problems persisted. 
+NeurIPS said that because denials are issued by embassies around the world, they are unsure how many people are affected. But organisers for the Black in AI workshop said that about 30 were initially denied, mostly from African countries.
+"The importance cannot be overstressed," Black in AI organiser Charles Onu told the BBC. "It's more and more important for AI to build a diverse body."
+After the issue was raised to the government by NeurIPS, and 15 of the 30 denials have since been overturned, Mr Onu said.
+About 20 are still pending, and 86 have been approved. 
+"It is imperative that all voices be heard at NeurIPS to enable future success in the field of AI," said Katherine Heller, a professor at Duke University and the event's diversity and inclusion co-chair. "We are opposed to any attempt to impede progress made by our international community."
+A spokesperson for the ministry of immigration told the BBC they had been working with conference organisers since May to try and make the visa application process as smooth as possible. 
+"While we cannot comment on the admissibility of any particular individual, we can say that, in general, all visitors to Canada must meet the requirements for temporary residence in Canada, as set out in Canada's Immigration and Refugee Protection Act," the ministry said in an email.
+The ministry said the applicant must demonstrate that they will "leave Canada when their visa expires". The ministry looks at factors such as the applicant's ties to their home country, the purpose of the visit, the person's family and economic situation, and the overall economic and political stability of their home country.
+Mwiza Simbeye, who is from Zambia and is currently a Google research intern based in New York, was denied a visa to attend NeurIPS in Montreal last year. 
+He says that in its denial letter, the Canadian embassy told him they were "not satisfied" that he would leave Canada once the conference was over. They cited his family ties in Canada and his country of residence as a reason, as well as his personal assets as a reason.
+Mr Simbeye's trip to the conference was funded by Google, and he had three letters of recommendation, including one from Canadian scientist Yoshua Bengio, who won the Turing Award in 2018, which has been called the "Nobel Prize for computing".
+Mr Simbeye said last year's denial was a great disappointment, because the conference provides a rare opportunity to connect in person with people whose research you follow online.
+"There's no better place or platform than these academic conferences for you to get exposed to these new technologies or methods," he told the BBC. 
+It is also a springboard for many who are just starting out in their career, who hope to network and meet others in the industry. He attended a conference in New Orleans instead, he said.
+"I just don't want to be a researcher that just does research and it's in a paper," he says. "I want ... that research to be applied and affect millions of people."
+Google's senior vice-president of AI Jeff Dean tweeted the visa "hindrance" would limit the kinds of voices heard in this burgeoning field of research.
+"The denial of visas for people to attend scientific conferences inhibits the free flow of ideas that is essential for scientific progress," he said.
+Visa woes are common for academics trying to attend conferences in the US, Canada and the UK. 
+Russian academic Marina Dubova was denied a visa to attend the Cognitive Science Society's annual conference this summer. 
+In the UK, two Amsterdam University students had their visas to attend a conference rejected over similar concerns that they would not return home to their countries of Bosnia and Turkey. 
+The curator of the Egyptian Museum in Cairo was also denied a visa to attend a conference in Swansea. 
+The hassles are leading some conference organisers to choose other countries. 
+The International Conference on Learning Representations will take place in Addis Ababa, Ethiopia, in 2020.
+Mr Bengio, who is an organiser, said they chose the location after all the issues with Canadian visas for NeurIPS 2018.

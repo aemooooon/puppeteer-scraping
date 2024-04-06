@@ -1,0 +1,17 @@
+A team of scientists has used artificial intelligence (AI) to work out where the next novel coronavirus could emerge. 
+The researchers used a combination of fundamental biology and machine learning. 
+Their computer algorithm predicted many more potential hosts of new virus strains than have previously been detected. 
+The findings have been published in the journal Nature Communications. 
+Dr Marcus Blagrove, a virologist from the University of Liverpool, UK, who was involved in the study, explained: "We want to know where the next coronavirus might come from. 
+"One way they're generated is through recombination between two existing coronaviruses - so two viruses infect the same cell and they recombine into a 'daughter' virus that would be an entirely new strain." 
+The researchers were able to plug existing biological evidence into an algorithm - teaching a computer how to spot viruses and host species that were most likely to be a source of this recombination. 
+First, the team "asked" their algorithm to find use biological patterns to predict which mammals might be susceptible to known coronaviruses, which revealed links between 411 strains of coronavirus and 876 potential mammal species. 
+The crucial, predictive step was in looking for species that were able to harbour several viruses at once. Lead researcher Dr Maya Wardeh, who is also from the University of Liverpool, was able to use existing biological knowledge to teach the algorithm to search for patterns that made this more likely to happen. 
+"We were able to predict which species had the chance for many coronaviruses to infect them," she explained. "Either because they are very closely related [to a species known to carry a coronavirus] or because they share the same geographical space," she said. 
+This step concluded that many more mammals were potential hosts for new coronaviruses than previous surveillance work - screening animals for viruses - had shown. 
+The Asian palm civet and greater horseshoe bat, for example, were predicted to be host to 32 and 68 different coronaviruses, respectively. And in species including the common hedgehog, the European rabbit and the dromedary camel, the algorithm predicted that Sars-CoV-2 might recombine with other, existing coronaviruses.
+The scientists say their findings could help to target the surveillance for new diseases - possibly helping prevent the next pandemic before its starts. 
+"This is not a reason to demonise these species," Dr Wardeh stressed, pointing out that "spill-over" of viruses into human populations tends to be linked to human activities like wildlife trade and farming.   
+"But it's virtually impossible to survey all animals all the time, so our approach enables prioritisation. It says these are the species to watch," the University of Liverpool researcher added.  
+The scientists say the "ideal" use of this technique would be to help find viruses as they're recombining. 
+"If we can find them before they get into humans," said Dr Blagrove. "Then we could work on developing drugs and vaccines and on stopping them getting into humans in the first place."

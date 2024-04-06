@@ -1,0 +1,29 @@
+The UK government will ensure industry and research in Wales is "properly supported" after Brexit, Chancellor Philip Hammond has pledged.
+On a visit to Swansea, he said a shared prosperity fund - replacing EU grants - would be consulted on later this year. 
+It comes as uncertainty was expressed on future funding for developing young people's skills and in projects in deprived parts of Wales. 
+Wales has received £4bn in EU funding up to now. 
+The Wales Co-operative Centre fears that the UK government might decide money will go on what are considered the best ideas but not necessarily the places which need it most.
+One programme which has received more than £5m from the European Social Fund in the last funding round is Technocamps.
+Led by Swansea University, it aims to encourage thousands of pupils through after-school clubs and boot camps to develop their computer skills and explore everything from app development and coding to artificial intelligence.
+It has already helped more than 40,000 pupils since 2011 but European funding has been the backbone, enabling it to employ 25 staff. There is uncertainty about what will happen after 2023.
+Alfie Hopkin, from Llanelli, was inspired to develop his own games app when he was 14 after a Technocamps workshop. Now 20, he has a job as a software developer in Bridgend and is being sponsored to do a degree in advanced systems engineering at Swansea University, one day a week.
+ "As a family we like our tech and around 2012 when the Raspberry Pi  came out on Kickstarter, my dad ordered it and thought it was pretty cool to get me into programming," he said. 
+"We found out there was a Swansea-based Pi Community so we met up once a month and got to meet some really cool people - and one of them worked on the Technocamps project. I got an invitation to do a two-day course in games development, met some people in college and later on that year released by first game on iOS app store. It was Christmas time, it was a present collecting game with Santa - I had about 2,000 downloads in the first two days."
+"Technocamps was great because the people were enthusiastic about what they did. It was a stepping stone and so I could find out that this is what I want to do in my life. School wasn't great for IT because the course covered general and pretty basic stuff." 
+He now works for Bridgend-based Probe-RTS on its new Poet software tool, which enables companies to trouble-shoot issues with systems and machines to improve productivity. It can be downloaded as a smart phone app and be used by workers to pin-point problems in real time. It has been introduced in Burton's biscuit factory in Cwmbran and is already having an impact. 
+Alfie's boss Lynn Davies said he had brought important skills to the project but worries Wales might not receive the level of EU funding in future.
+"We've funded this ourselves and it would be lovely to think we could take on more developers and go in different directions - we now see these skills as a fundamental part of our business," he said. "But a lot of companies wouldn't be able to fund it -and having these grants available will bring these youngsters forward at a quicker pace. "
+What next for Wales' European funding?
+Treasury promises to underwrite EU money
+Has EU money been spent on vanity projects?
+Prof Faron Moller, the computer scientist running the Technocamps programme, said EU funding had helped it reach more than 40,000 young people across Wales.
+It now has a hub for schools outreach workshops in every university computer science department in Wales - and has succeeded in reaching a lot of girls, who are poorly represented on degree courses,
+"With the UK leaving the European Union next year the funding for the Technocamps has become very uncertain and although European funding is currently supporting the programme there is currently no clear alternative once it come to an end," he said.
+The Fern Partnership in Rhondda has grown rapidly in the last three years and works in seven different community buildings offering child care, training courses, jobs clubs and library facilities. 
+It has been helped with advice from the Wales Cooperative Centre and its £11m Social Business Wales project. 
+Social Business Wales is funded by EU regional development and Welsh Government money over five years and has so far supported more than 400 social businesses and created 270 jobs
+Michelle Coburn-Hughes, director of community development at the Fern Partnership, said: "It's the unknown at the moment, as an organisation. If our funding is pulled, I'd like to think we'd make it no matter what. What would be difficult for us is how hard that journey will be."
+Overall in Wales, projects worth £3.2bn are set to run until 2020, with £2.1bn coming from the EU, split between social fund and regional development money. 
+Derek Walker of the Wales Cooperative Centre fears no-one will step in, adding: "Without EU funding we are worried what will happen next and what will support those jobs and services in our communities."
+But Mr Hammond asked for the government to be judged on its record, as he announced £36m for a power-generating buildings research programme at Swansea University.
+"We will ensure that the Welsh economy - which is doing very well at the moment - continues to be supported so it can play its role in the technological transformation of the overall UK economy."

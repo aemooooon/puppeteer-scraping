@@ -1,0 +1,25 @@
+It is perhaps not surprising that the fractious relationship between historic adversaries India and Pakistan has spilled over into social media in recent years.
+But at the end of April, as India struggled with a ferocious second wave of Covid-19, citizens on either side of the border shelved their barbs in favour of supportive hashtags like #IndiaNeedsOxygen and #PakistanStandsWithIndia.
+Experts say it is well known that supportive hashtags do not always mean positive tweets - users often "hijack" them for anything from trolling to wishing happy birthday to a cricketer or Bollywood star. 
+But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive.
+Researchers, led by Ashiqur KhudaBukhsh of Carnegie Mellon University (CMU) in the US, used machine learning tools to identify the tweets that expressed kindness, empathy and solidarity.
+They collected 300,000 tweets with three biggest trending hashtags: #IndiaNeedsOxygen, #PakistanStandsWithIndia and #EndiaSaySorryToKashmir - the last a reference to the long-running dispute over the Himalayan territory. Of these, 55,712 tweets were from Pakistan, 46,651 were from India and the remaining were from around the world. 
+The researchers then ran the text from these tweets into a "hope speech classifier" - a language processing tool that helps detect positive comments. They looked for patterns to identify if the text had "hostility-diffusing positive hope speech", or words like prayer, empathy, distress and solidarity.
+Their study found that tweets containing supportive hashtags originating in Pakistan heavily outnumbered those containing non-supportive hashtags and also had substantially more likes and retweets. Their method also amplified the positive tweets, making it easier to find them quickly. 
+"Our research showed that there's a universality in how people express emotions. If you search randomly, you'll find positive tweets a little over 44% of the time. Our method throws up positive tweets 83% of the time," Mr KhudaBukhsh said.
+In end-April and early-May, as Indian hospitals ran out of beds, people died gasping for oxygen and funeral pyres burned round the clock, there was a significant outpouring of support and solidarity from people across the border. 
+One reason could be that the outbreak in Pakistan was also getting serious, says Prof Arifa Zehra, who teaches history in Lahore. 
+"The situation here was pretty bad too, our hope was getting thinner and thinner. Our enemy was the same, our borders are so close and we get impacted by whatever happens."
+But, Prof Zehra says, seeing all those positive messages "gave me a warm feeling - it was the greatest reassurance that we are still human".
+"A pandemic doesn't recognise borders, whether they are geographical or ideological. And when the dark cloud is sneering at you, then there's no harm is sharing a prayer."
+And that's what Pakistani twitter users did.
+"Our prayers and Our sympathies are with you. We are Neighbours not Enemies," wrote one:
+"We are neighbours not enemies. We are rivals not opponents. We have boundaries but not in our hearts," wrote another:
+"Heartbreaking to see this situation in our neighbourhood. Send love and prayers from Pakistan. May Almighty Allah help humanity through this pandemic," tweeted a third: 
+Mr KhudaBukhsh says their method of identifying and amplifying positive messages can help boost public morale and also improve relations between communities and countries.
+"When a country is going through a national health crisis like a pandemic, words of hope can be a welcome medicine and the last thing you want to see is negativity. 
+"There are several studies that show that if you're exposed to too much hate speech or negative content, you get influenced by it."
+Their method, he says, can be used to combat hate speech.
+"When there's a negative situation, such as in times of war or a health crisis, instead of blocking the content, an alternative approach can be to highlight the positive content. It will help reinforce the belief that people on the other side of the aisle are kinder."
+But what happens if the technology is used to do just the opposite, to censor empathetic content?
+Any kind of speech filtering can be used to manipulate the web space, Mr KhudaBukhsh says.
