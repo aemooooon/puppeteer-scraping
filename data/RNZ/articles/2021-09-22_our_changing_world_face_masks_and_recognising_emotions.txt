@@ -1,0 +1,18 @@
+Follow Our Changing World on Apple Podcasts, Spotify, Stitcher, iHeartRADIO, Google Podcasts, RadioPublic or wherever you listen to your podcasts.
+ "What we're looking at is the intensity of emotion." - Harisu Abdullahi Shehu
+PHD student Harisu Abdullahi Shehu from Victoria University is doing research into facial expressions and emotion detection, and the impact of facial masks and coverings. 
+As part of his research, he sent out a survey to participants around the world, all from different cultural backgrounds. What he discovered is that facial emotions weren’t easily detected, while the face was covered. 
+In the survey, Harisu included several levels - the six basic expressions - anger, disgust, fear, neutral, sad and surprise. Each participant had one guess at the emotion on the faces provided. 
+“Someone got back to me saying that they saw one expression as happiness, but it also wasn’t detected on any of the levels I provided.” 
+The reasons for this are due to the cultural variations. Those from diverse cultural backgrounds may also express these categories of emotions differently, which means there is no consistency in terms of the human ability to detect or read the emotion of another person. 
+With a mask on this becomes increasingly difficult. 
+“We just assume that if you see the mouth is wide and the cheek is pulled that this is happiness. But this is just an assumption based on the literature,” he says. 
+The challenge for human beings is our use of speech and body language that are also important when it comes to how we not only express our emotions, but also in how we interpret them. 
+Harisu says that robots and artificial intelligence perform a much higher accuracy rate than people when detecting emotions when a person is not wearing a mask. When a person is wearing a facial mask, the AI makes a random guess, and the accuracy rate drops significantly.
+As part of this research, Harisu is currently developing an algorithm that pays attention only to the uncovered regions of the face. 
+In this case, there will be more of a focus on the eyes if an individual is wearing a face mask, or the attention will be focused on the lower part of the face - the nose, mouth and cheeks, if a person is wearing sunglasses.
+But why is it important for AI to detect emotions and read them accurately in the first place? 
+While the use of robots is not commonplace in New Zealand apart from use in airports for international travel and facial recognition on iPhones, in places like Japan, robots are installed in airports to assist customers with directions. There are also robots in retail stores and hotels. 
+“The robots need to understand people’s emotions for them to react in an intuitive way to enhance a customer experience.”
+Harisu says this is particularly important in light of Covid. If robots become integrated into hospitals and care homes they can assist patients, without the virus being transmitted. 
+Listen to the podcast to find out more about Harisu’s research, the biases in people and robots, and why AI outperforms humans when it comes to detecting emotions. 

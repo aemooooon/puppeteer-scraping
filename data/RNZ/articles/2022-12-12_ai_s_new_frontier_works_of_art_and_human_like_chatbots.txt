@@ -1,0 +1,28 @@
+Welcome to our current affairs podcast, where we delve into the world of artificial intelligence and the latest developments in the field. 
+Today, we are focusing on a tool called ChatGPT, which has been making waves in the AI community. 
+ChatGPT is a state-of-the-art AI language model that has the ability to generate human-like text responses in real-time. 
+However, as with any technology, there are also risks associated with ChatGPT. 
+In this 23-minute episode, we will be discussing the capabilities and potential dangers of this AI tool, as well as exploring the ethical implications of using AI in our daily lives. 
+So, sit back and join us as we explore the world of ChatGPT and artificial intelligence.
+This introduction was created by the OpenAI tool ChatGPT.
+I asked it to "write an introduction for a 20-minute current affairs podcast. This podcast is about artificial intelligence and the ChatGPT AI tool, and the risks ChatGPT poses".
+What sort of risks are we talking about?
+Well, professional risks in any number of areas. Take the example of Tim Gibson, an illustrator and creative director.
+When the AI image-generation programme Dall-E made waves earlier this year, it piqued Gibson's interest, prompting him to write a piece for The Spinoff about the potentially devastating threat this technology poses to artists and illustrators. 
+"Know thy enemy," he says wryly.
+Earlier this year, Colorado game designer Jason M. Allen courted controversy when a piece of art he generated using the Midjourney image generator won first prize at an art competition. 
+Allan maintains he is the author and creator of the artwork, because the specific combination of commands used to generate the image belongs to him: if art is an idea that is then brought to life, this is as much a work of art as a photograph, he argues. 
+And Gibson says while that might not land with everyone, it's difficult to argue against.
+"There are whole segments of creative industries where you're a little bit higher up the chain, you might say, 'I've got a great idea and it's this' - and then that gets filtered to the middle-tier creatives, maybe they hire three people under them.
+"It's the middle ground, I think, in terms of my illustration hat point of view. The risk is to them."
+Dall-E can generate thousands upon thousands of ideas in the time it would take a human artist to conceive and complete a single drawing. 
+While there are still limitations to the tech - it's terrible at drawing human hands, for example - it far surpasses human artists in the sheer volume of work it's able to produce. 
+And AI isn't just limited to the creative sector: as well as podcast introductions, ChatGPT can write up contracts and opinion pieces; it can answer customer queries, and provide recommendations.
+The Guardian reports that academics have generated responses to exam queries that would result in full marks if submitted by a student. 
+"Programmers have used the tool to solve coding challenges in obscure programming languages in a matter of seconds."
+Andrew Chen, a research fellow at Auckland University, says the irony of the rapidly developing AI sector is the machines are learning from the very people they might one day end up replacing. 
+"Something we have to keep in mind when we go, 'oh, this is actually a bit scary', is that in a lot of cases it is taking inspiration from humans, and reflecting that back to ourselves.
+"We should look at that and go, well, what does that say about us? 
+"There is some concern about how these automations and technologies will affect our societies and affect individuals.
+"Overall, I think we have to be optimistic. Think about how these technologies will be able to enable us to do more things, to do greater things, and to take the lessons of all the great science-fiction work that has come before as warning lessons so we don't repeat those mistakes."
+Find out how to listen and subscribe to The Detail here.  

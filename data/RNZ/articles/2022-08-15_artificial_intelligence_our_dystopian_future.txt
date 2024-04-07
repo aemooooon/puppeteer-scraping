@@ -1,0 +1,31 @@
+(Note: This podcast contains spoilers for the films The Matrix and Terminator, as well as the Greek myth of King Midas. All of these are at least 20 years old, with the latter being written approximately 3000 years ago, so if you've not caught up on them yet, you've only yourself to blame.)
+In the 1999 film The Matrix, which is set in the near future, the human race - worried by the increasing sentience and potential villainy of the artificial intelligence (AI) machines it's created - makes the decision to scorch the sky.
+They reason that without an energy source as abundant as the sun, the machines - which rely on solar power - will be crippled. 
+But their plan backfires.  
+"The human body generates more bioelectricity than a 120-volt battery, and over 25,000 BTUs of body heat," says one of the film's main characters, Lawrence Fishburne's Morpheus, in a voiceover. 
+"Combined with a form of fusion, the machines had found all the energy they would ever need."
+This, according to Otago University law professor Colin Gavaghan, director of the Centre for Law and Policy in Emerging Technologies, neatly summarises a truism of AI systems.
+"One thing that defines AI is that it finds its own imaginative solutions to the challenges we give it, the problems we give it," he says. 
+Artificial intelligence systems running rogue might seem like the stuff of science-fiction, but these systems are increasingly common in many high-tech elements of society, from self-driving cars to digital assistants, facial identification, Netflix recommendations, and much, much more. 
+The capabilities of artificial intelligence are growing at pace; a pace that's outstripping regulatory frameworks. 
+And as AI systems take on more and more complex tasks and responsibilities, theorists and researchers have turned their minds to the question of catastrophic AI failure: what happens if we give an AI system a lot of power, a lot of responsibility, and it doesn't behave how we anticipated? 
+Asked about the potential benefits of sophisticated AI systems in the near future, Gavaghan is enthusiastic.
+"If you think, for example, about the medical domain, it's becoming a big challenge now for doctors to handle multiple co-morbidities.
+"Trying to manage all the contra-indications and the side-effects of those things and how they all relate to each other ... becomes fiendishly complex. So systems that can look across a bunch of different data-sets and optimise outcomes [would be beneficial]."
+But as Gavaghan says, part of the 'intelligence' component of AI is these systems learn, they find innovative solutions to problems - and while that might sound exciting in theory, there's certainly risk in it.
+Consider, for example, an AI tasked with mitigating or reversing the effects of climate change.
+Such a system might conclude the best course of action would be to eliminate the single greatest cause of global warming, which is humans.
+"A big concern about general intelligence in this regard is that, if we aren't very, very careful about how we ask the questions, how we allocate tasks, then it will find solutions to those tasks that will literally do what we told it, but absolutely don't do what we meant, or what we wanted."
+Gavaghan describes this as the 'King Midas problem', referencing the myth wherein the avaricious Phrygian king Midas wishes for the ability to have everything he touches turn to gold, without thinking through the long-term implications.
+AI can make our lives a lot easier. Its potential applications are almost limitless. Importantly, research into AI can be done in any country, limited only by time, resources and expertise. 
+Those undoubted benefits could also turn sour: AI-controlled weapons systems or autonomous vehicles or war don't sound like a very good development for humanity.
+But they are possible, and, much like with nuclear weapons, if you think your geopolitical rivals might be developing these capabilities, it's easy to justify developing them yourself.
+This, Gavaghan says, is where universal agreements or limits could be helpful: countries around the world getting together, starting a dialogue, and agreeing on what the limits of AI development might be. 
+Some researchers have suggested future AI research should be guided by values and morals, rather than forbidding certain capabilities. But that brings with it a new, similarly challenging question: what exactly are human values? 
+Gavaghan brings up the example of a survey distributed around the world: respondents were given a scenario in which a self-driving car had to make a split-second decision whether to continue on its planned route and collide with a logging truck coming in the opposite direction, or veer away, saving the driver, but ploughing into a group of cyclists.
+"Some people said you should save the people in the car. Some said you should maximise the number of lives saved. Some said you should prioritise children's lives over old people's lives.
+"In France, they wanted to prioritise the lives of attractive, good-looking people over other people!
+"So, absolutely: what are human values? The values of Silicon Valley tech tycoons?"
+Gavaghan says the future of AI is an area where philosophy, technology, and legislation dovetail, each as important as one another - and while there's a lot still unknown, the fact it's a topic being discussed more broadly is a positive. 
+"It's a debate that should be cast wider...a lot of this technology is here with us now." 
+Find out how to listen and subscribe to The Detail here.  

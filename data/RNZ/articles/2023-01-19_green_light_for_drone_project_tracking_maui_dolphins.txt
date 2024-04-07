@@ -1,0 +1,12 @@
+A non-profit wildlife technology organisation, Māui63, has already developed a drone capable of finding and tracking the critically endangered dolphins using artificial intelligence.
+But the aviation authority had to approve its use beyond the visual line of sight, so that the unmanned aircraft could be operated far offshore.
+The approval is for a 50km stretch of ocean off the West Coast of Aotearoa's North Island, where Māui dolphins live.
+The chief executive of Maui63, Tane van der Boon, said it was a huge win that would allow the organisation to survey the entire habitat of the world's rarest dolphin. It is believed there are only 54 Māui dolphins left.
+"To effectively track the Māui dolphins, we need BVLOS [beyond visual line of sight] to fly far offshore, to survey their entire habitat," he said.
+"It means we'll be able to get out and survey up to 50km away from the pilot in a single flight without any observers required for spotting the drone or surrounding airspace."
+He said this use of the drones would allow the collection of data better than ever before.
+"We'll be able to monitor the dolphins continuously, which will help us predict their movements more accurately, and better understand the ecology of this species.
+"We'll then ensure the information is shared with anyone who needs it, to help put data-driven protection measures in place."
+The CAA approval has come at the conclusion of the Māui drone project, a collaboration between the Ministry for Primary Industries (MPI) through the Sustainable Food and Fibre Futures fund, MAUI63, WWF-New Zealand, and fishing companies Moana New Zealand and Sanford.
+It used AI technology which can distinguish Māui and Hector's dolphins from other species with more than 90 percent accuracy.
+MPI's director of investment programmes Steve Penno said gaining BVLOS approval meant MAUI63 would be able to start collecting more meaningful data, translating years of research and development into practice.

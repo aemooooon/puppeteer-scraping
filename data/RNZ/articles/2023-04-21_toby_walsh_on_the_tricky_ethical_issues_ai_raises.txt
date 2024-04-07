@@ -1,0 +1,5 @@
+But what happens if artificial intelligence steps in to make even harder decisions for us? Which treatment should a patient have, what sentence should a criminal receive?
+These are the issues explored by Australian IT expert Toby Walsh in his new book, Machines Behaving Badly.
+Toby is a Laureate Fellow and Scientia Professor of Artificial Intelligence at the University of New South Wales and CSIRO Data61.
+The book looks at how AI is being built and developed by a small group of people with their own flaws and biases, controlled by multi-billion dollar companies, with little to no regulation or oversight.
+Yet if we could address some of these issues now, Toby Walsh argues, AI could usefully liberate us from what he calls the four Ds: the dirty, dull, difficult and dangerous.

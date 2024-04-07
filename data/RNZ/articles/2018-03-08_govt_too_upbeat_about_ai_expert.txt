@@ -1,0 +1,18 @@
+Yesterday the BBC filed a report looking at Flippy - a robot, and the newest employee at a Los Angeles burger bar.
+The robot analyses burger patties using heat sensors so it knows when to flip them.
+While robotic chefs might be a few years off in New Zealand, academics are warning the government to prepare early for what's being described as a new industrial revolution in a new report.
+One of its authors, Wellington researcher Matthew Boyd, said AI systems reflect biases within their human creators.
+He cited as an example employment datasets, which AI might screen to figure out whether an applicant has a shot at a job - and which might reflect gender and ethnic biases existing in an industry.
+"Now, if the AI system is using a dataset like that to therefore infer some kind of screening method, or who should be brought forward for interview, who's most likely to get a job ... the AI system itself will be biased."
+And it's not just processes that could be exploited.
+A 2016 report by the Institute of Economic Research and Chartered Accountants Australia and New Zealand said nearly 900,000 jobs could be automated in the next 20 years
+That's nearly half of all this country's jobs.
+And while new jobs will be created, some will be rendered obsolete.
+Ben Reid from the Artificial Intelligence Forum said the country needed to have an open conversation about the impact of AI on the workforce.
+"Yes, artificial intelligence is going to have a significant impact on the job market.
+"New Zealand really does need to start having an open conversation. There will be some people who do find it hard to retrain, and I think society - and industry - need to have open conversations about how we support those people in the future."
+Mr Boyd said the government was guilty of being too upbeat about AI, seeing it as a tool for economic growth, and downplaying the huge disruption likely to follow.
+But the chief business officer for local AI company Soul Machines, Greg Cross, said the doom-and-gloom narrative was too simplified, and reflects dystopian portrayals of AI in movies like The Terminator and Minority Report. 
+Mr Cross said AI would bring with it a host of job opportunities - it was just a matter of people adjusting to their demands.
+But Mr Cross agreed there needs to be more discussion about AI's impacts on society.
+"I think we need more intelligent debate as to what changes that will actually mean in our society ... [but] we've proven ourselves to be very adept at adapting to changes in technology that have happened over the last 100 years.

@@ -1,0 +1,2 @@
+The information will be used to better understand extreme weather patterns - including what causes them and why.
+But the machines need to taught to recognise variations in handwriting - so they can translate records into a database.

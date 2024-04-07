@@ -1,0 +1,27 @@
+Turnitin, which all eight New Zealand universities use, said it could now spot AI-generated material with 98 percent accuracy and it had switched on that ability for its New Zealand customers.
+Academics told RNZ the update would help, but they doubted it would be effective for long or for students who knew sophisticated ways of using the tools.
+Turnitin regional vice-president for the Asia Pacific, James Thorley, said the software estimated what percentage of a text was written by AI and highlighted the offending sentences.
+Thorley said AI-generated work was harder to detect than other types of cheating.
+"Each time that ChatGPT or any other AI writing tool generates anything it is unique so no two creations will ever be the same, so you cannot detect it in the same way that you detect copy-paste plagiarism from whatever source," he said.
+"You're really looking for this difference between how an AI writer would write and how a human would write but obviously that's a lot more complex than simply matching the same text."
+Testing indicated Turnitin would be effective even if students edited AI-produced work to make it look like their own, Thorley said.
+Surveys in the United States indicated 25-50 percent of university students had used AI for various tasks, he said.
+"Everyone's actually very excited about the potential of these kinds of tools. Detecting doesn't necessarily mean that there's misconduct happening, that it's wrong. It's all about getting a bigger picture of what's going on and starting conversations."
+Catherine Moran from the University of Canterbury said it was redesigning its assessments because of AI and she expected Turnitin would be used for assignments that had not yet been changed.
+A senior lecturer in software engineering at Victoria University, Simon McCallum, said the update to Turnitin would help catch misuse of AI, but he expected it would only be effective for a short time and when students were doing it in an unsophisticated manner.
+"There's a whole bunch of these other AI tools that when you layer them on top of each other make any of those detections much less certain and the problem we have is that if you're going to ping someone for plagiarism you have to be certain that they break the rules not just have a hint that it's probably an AI that wrote this," he said.
+Dr McCallum said a large number of students were using ChatGPT and similar "large language model" programmes.
+"Students are using GPT a lot. Some of them are getting very good at it and the ones who are good at prompt-engineering, creating good input to the AI, are able to generate very realistic work that looks very much like their own work in much shorter time than they would if they were having to write it themselves," he said.
+He said students should learn to use AI because it would be widely used in many jobs, but he worried some were doing it without putting in any thought.
+"I'm worried when people are abdicating thinking. They're not using their mind or making the effort to learn," he said.
+"We might need to consider every assignment a group assignment because we have to think that every student has access to a group member, an AI, that can do some of the task for them and so then you have to say, well instead of treating it like your own work, in the group how did you contribute."
+ChatGPT and the like were so important the entire education system should shut down so teachers and lecturers could figure out what to do, McCallum said.
+"This is a pandemic-level event. It's the kind of thing which is going to fundamentally change a lot of what we do. In the pandemic we suddenly had to go online and we suddenly had to teach in a whole new way and this is the same level of change that's needed," he said.
+"Let's just close schools for a month, five, six weeks, and just spend that time doing professional development with all the teachers and with the university lecturers and say all of you need to get up to speed with this because it has fundamentally changed education."
+Universities New Zealand executive director Chris Whelan said universities and schools did not need to close, but they should rethink the ways they assessed students.
+"Best practice internationally is to recognise that it's out there and to redesign assessments around it. So in some cases encourage assignments to be set using generative AI for a first draft and then to provide an assignment around what's good or bad about [it]. But in other instances it's to set assignments that generative AI can't replicate," he said.
+Whelan said the update to Turnitin would be hugely helpful.
+University of Auckland senior lecturer Paul Geertsema said universities should reconsider how they used essays as a form of assessment.
+"We need to reassess why we are giving people essays to write. The truth is that ChatGPT and similar tools can write beautiful essays on most topics and we need to revisit what is that we want people to be able to do," he said.
+"This is a very powerful tool and society can really benefit from its use and we should do whatever we can to encourage its adoption in industry and in the workplace so we are able to compete effectively and generate wealth for our society."
+Secondary Principals Association president Vaughan Couillault said it would be difficult for teenagers to get away with using AI to generate school assignments because their teachers knew them well enough to spot work that was better than their normal standard.

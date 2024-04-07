@@ -1,0 +1,22 @@
+The police have appointed two outside advisors on the safe use of facial recognition technology.
+They say they choose not to use many of these new powers introduced in a recent $23 million tech upgrade.
+But Dr Matthew Guariglia, of the Electronic Frontier Foundation in California, said he was was sceptical, based on his understanding of said of US law enforcement.
+"Once it's already in the hands of the police, it becomes even harder to take it away from them. Because then they feel like they're being denied technology, they've already worked into their daily routines," he said.
+"And so then it's often relied upon to bring experts in to justify how they've been using it, even though they did not get permission from anyone, and had no accountability or regulation, when they instituted the technology in the first place."
+The two new police advisers are technologist Dr Andrew Chen University of Auckland and Associate law Professor Nessa Lynch at Victoria University.
+Lynch said they would tell the public if, in the course of a six-month study, they found worrying issues.
+"We are two well-known independent researchers," she said.
+"We are operating under some terms of reference and, obviously, we will be constrained by confidential information. But the intention with the terms of reference is to make that report public at the end."
+A New Zealand survey of facial recognition Lynch co-researched last December concluded the tech is in place for mass surveillance here and the rules to limit that are far too loose.
+In her police role, she would be especially interested in the range of facial recognition uses, from the more intrusive to less invasive, she said.
+The latest controversy is what police are doing with photos they've been taking of Māori teenagers who had not done anything wrong.
+Police told RNZ they keep the photos in two databases, but they have not made clear if these are searchable by facial recognition.
+The police's new system uses software from Japanese giant NEC, which markets it as an unparalleled tool for surveillance.
+Dr Guariglia said the trends in US police departments were alarming, where they could even be detected.
+"There is so much secrecy of what happens behind the walls in police departments, especially when it comes to the agreements they make and the technology they lease from these large companies," he said.
+"The problem is that a lot of these police departments are leasing their information from private companies.
+"And so you cannot learn what's happening behind that wall of proprietary information."
+The police in New Zealand have been making attempts since mid-2020 to be more open, after a trial of face recognition was exposed.
+Guariglia said there was evidence in the US, of private companies using their access to databases, such as of drivers' licence photos or social security identifications, to gather facial images of brown and black people in order to train their Artificial Intelligence algorithms.
+The AI has, generally, been proved to have a bias that makes it less accurate with non-white faces.
+"A lot of the decisions that police make, including sometimes who to arrest or who suspects are, are being produced by algorithms that the public has no accountability over and doesn't really even know how it works," Guariglia said.

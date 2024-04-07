@@ -1,0 +1,33 @@
+The government also engaged Microsoft to look at questions of sovereignty and citizenship to help government services go digital.
+The memorandum of understanding (MOU) with Microsoft, first signed in 2017, was only released on Wednesday after RNZ asked if it existed.
+An update to the MOU in 2020 set in train talks on creating a "lighthouse" project on AI between Microsoft, the Education Ministry and the Department Internal Affairs (DIA
+The MOU set out how the government's top digital officer (the GCDO) would, "work closely with the Ministry of Education as the sector lead ... facilitate a range of agencies to work with Microsoft, and appropriate third-party stakeholders, to investigate creating a program to apply AI and other digital capabilities to support New Zealand's educational outcomes".
+The latter two on Wednesday said the project did not go ahead, but did not say why not.
+"[Ministry of Education] had some exploratory meetings with Microsoft and the GCDO, however there was no agreement to progress any work," the ministry said.
+This occurred even though the ministry had no formal boards, committees or groups that provide advice to it about AI in schools - not then, and not now, three years on and despite the advent of ChatGPT, according to an OIA response last month.
+The MOU described it as one of just two "lighthouse projects" that were "important to the government, the lead agency and to Microsoft", and that would need to be aligned with "Microsoft's AI for Good programme".
+The Ministry of Education's two big edtech contracts are with Microsoft and Google. Schools get free use of Microsoft software, including the likes of Minecraft, that use AI.
+Asked for comment, the company said: "Microsoft doesn't have any more comment to make on this topic."
+Microsoft's local revenues last year rose more than $200 million to top $1b, on which it paid $11m in tax. Microsoft, Amazon and Google are the biggest cloud service providers here, by far.
+The MOU was signed in May 2017 and updated in February 2020. In May 2020, the government announced Microsoft would set up a cloud service region in New Zealand. The country's renewable electricity is attractive to data centres.
+This would provide cloud access "in ways we haven't been able to before", it said.
+The MOU has non-disclosure and confidentiality clauses in it. It was co-signed by the government's top data officer, Paul James, who is chief executive of DIA.
+DIA is a signatory to a charter committing it to transparency around algorithms, as is the Ministry of Education.
+The 2017/2020 agreement gives the $2 trillion-dollar corporation a leg up that local companies do not get, as none have such a high-level agreement.
+"The MOU between DIA and Microsoft identifies areas where we could cooperate. It does not commit either party to do so," DIA told RNZ on Wednesday.
+Microsoft rival Amazon signed its own similar MOU with the government last December. Amazon earlier told RNZ its deal reflected issues it lobbied the Prime Minister about extensively in 2021.
+Unlike Amazon's MOU, Microsoft's is non-binding but it underwrites collaboration for shifting masses of public data into Microsoft's cloud computing data centres, first in Australia and then - when they are built - here.
+It also gives the US company a say regarding government barriers to setting up "hyperscale" centres.
+"Policies that may have the effect of impeding... adoption of hyperscale cloud services" would be identified and discussed.
+Microsoft would school the government on how other countries "deal with these issues", while working together on "possible solutions... to allow for the provision of hyperscale public cloud services".
+The education AI project was one of two "lighthouse" projects the 2020 MOU update was designed to get going. The other was to help small and medium businesses cope with digital disruption, and to upskill New Zealanders. It is not clear what happened to that project.
+DIA said the education AI project "did not proceed and so was not publicised".
+"If the project had gone ahead details would have been shared with the public," it said.
+A DIA initiative that did go ahead in 2021 was Microsoft taking over 5 million people's RealMe digital identity accounts, and transferring them to its servers in Australia. Microsoft said transferring 163 services across 56 public sector agencies to the cloud was a task that took "above all, trust" from citizens.
+"It's the promised land," a leading DIA manager was quoted by Microsoft at the time.
+The 2017 MOU envisaged a "digital identity" framework would be set up under one of three projects.
+The third key participant in the projects was the Fletcher Centre at Tufts University in the US. Microsoft, and the Bill and Melinda Gates Foundation, have been recorded as donors to the Fletcher Centre.
+The second project involved researching questions such as, "What does it mean to be a sovereign nation in a digital world?" and, "What does it mean to be a citizen in a digital world?"
+The project could involve "applying advanced emerging technologies (eg artificial intelligence, machine learning, big data analytics and Internet of Things) to cost-effectively improve the public sector in a trust-preserving and enhancing manner".
+Three workshops in Wellington were scheduled to kick off the three projects; at the first workshop, Microsoft, not the government, would "provide strategy, policy and technical resources".
+DIA and Education are both signatories to a charter committing them to transparency and accountability over algorithms, which are related to AI.

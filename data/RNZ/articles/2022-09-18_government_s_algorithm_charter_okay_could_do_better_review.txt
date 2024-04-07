@@ -1,0 +1,39 @@
+There is also little way for people to challenge decisions made about them by powerful public-sector algorithms.
+These are among the findings of a review of the first year's operation of the government's algorithm charter.
+There is no action plan to pick up on the findings, and policy options on data ethics are only in the early development stages, an Official Information Act response shows.
+Algorithms are computing maths creations that solve problems. They are proliferating across government and industry, used for the likes of hiring decisions, or by courts to determine the risk someone poses; Netflix uses algorithms to pander to your preferences; and doctors to diagnose an illness or predict the next pandemic.
+Overall, the new review scores the charter's first year: 'OK, could do better'.
+The 28 agencies that have signed up - from Oranga Tamariki to Police and Education - told reviewers they like the charter's intent, though find it is a bit vague in practice, and they often lack resources to properly follow it.
+"Most agencies feel there is a gap between the high-level principles of the charter, and concrete practice for complying with each of the commitments."
+For instance, "measuring bias and ensuring appropriate human oversight of algorithms is not something in which all agencies have expertise", the review said.
+Some struggled to make "trade-offs between different types of bias", it said.
+"Most agencies have capability gaps for critically evaluating solutions that may support bias management, transparency and effective human oversight."
+Another problem: "At the moment there is very little opportunity for New Zealanders to get individual recourse on decisions made about them that have been informed by an algorithm," the review said.
+Plus, compliance was very light-handed.
+"Some greater enforcement might be necessary to keep social licence."
+This appears at odds with OECD principles on artificial intelligence that say how systems work should be disclosed so people can challenge them.
+The local review suggests creating a government-wide register to let the public know just what algorithms are doing what.
+Some agencies do not know themselves - they were "still only starting this process, or have decided to focus on a select few examples".
+Others had done full stocktakes; some had published their algorithms online, motivated by the charter.
+The review stresses the need to win public trust. "Public awareness of use by government agencies is limited."
+Ironically, though, the review itself has not been widely publicised.
+The charter tries to get agencies to balance privacy and transparency, prevent bias and reflect Te Tiriti.
+Algorithms are embedded within some of the largest New Zealand public agencies sitting on some of the most sensitive data about people.
+They "reveal insights that could not easily be revealed by human analysis alone", government public relations said.
+"These algorithms can be used to help government better understand New Zealand and New Zealanders."
+However, the mysterious way "black box" algorithms work - so-called because the scientists themselves do not know how they make their decisions - has sparked fears of where the likes of medical artificial intelligence might end up taking us.
+The tech is outpacing the research into public algorithms' perils and benefits, which remains in its infancy.
+"Public-sector algorithmic systems raise daunting questions about how to ensure government transparency, accountability, and control over their own systems," a 2021 study said.
+New Zealand was one of the first with an algorithm charter; the UK has been trumpeting its own algorithm standard to kick in this year.
+Australia has been criticised for soft-pedalling over algorithm abuse, though regulators there are now making moves.
+Even individual cities like New York have begun experimenting with mandatory transparency.
+But the local review, while noting New Zealanders' lack of recourse to challenge algorithmic outcomes, has nothing to say on what to do about it.
+On the problem of bias, it recommends putting in more resources and a guide to evaluating software.
+Agencies, it found, were often flying blind.
+"Agencies identified a lack of a clear oversight body" and resorted to monitoring themselves.
+It recommended setting up an oversight body.
+Some agencies suggested non-binding audits.
+The review said it could be useful to straight-out ban some algorithms, as Europe had done with AI systems used for "indiscriminate surveillance".
+The 28 signatories told reviewers they were in too much of a vacuum.
+"Most agencies have addressed their charter commitments largely on their own and without knowledge of how other agencies were going about it."
+Stats NZ was now assessing its own "gaps and issues" with algorithms and would share it with other agencies, an OIA response shows.

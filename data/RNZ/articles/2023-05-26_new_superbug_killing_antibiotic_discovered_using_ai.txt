@@ -1,0 +1,24 @@
+The AI helped narrow down thousands of potential chemicals to a handful that could be tested in the laboratory.
+The result was a potent, experimental antibiotic called abaucin, which will need further tests before being used.
+The researchers in Canada and the United States say AI has the power to massively accelerate the discovery of new drugs.
+It was the latest example of how the tools of artificial intelligence can be a revolutionary force in science and medicine.
+Antibiotics kill bacteria. However, there has been a lack of new drugs for decades and bacteria are becoming harder to treat, as they evolve resistance to the ones we have.
+More than a million people a year are estimated to die from infections that resist treatment with antibiotics.
+The researchers focused on one of the most problematic species of bacteria - Acinetobacter baumannii, which can infect wounds and cause pneumonia.
+It is one of the three superbugs the World Health Organisation has identified as a "critical" threat.
+It is often able to shrug off multiple antibiotics and is a problem in hospitals and care homes, where it can survive on surfaces and medical equipment.
+Dr Jonathan Stokes, from McMaster University, described the bug as "public enemy number one" because it was "really common" to find cases where it was "resistant to nearly every antibiotic".
+To find a new antibiotic, the researchers first had to train the AI. They took thousands of drugs where the precise chemical structure was known, and manually tested them on Acinetobacter baumannii to see which could slow it down or kill it.
+This information was fed into the AI so it could learn the chemical features of drugs which could attack the problematic bacterium.
+The AI was then unleashed on a list of 6680 compounds whose effectiveness was unknown. The results - published in Nature Chemical Biology - showed it took the AI an hour and a half to produce a shortlist.
+The researchers tested 240 in the laboratory, and found nine potential antibiotics. One of them was the incredibly potent antibiotic abaucin.
+Laboratory experiments showed it could treat infected wounds in mice and was able to kill A. baumannii samples from patients.
+However, Stokes said: "This is when the work starts."
+The next step was to perfect the drug in the laboratory and then perform clinical trials. He expected the first AI antibiotics could take until 2030 until they were available to be prescribed.
+Curiously, this experimental antibiotic had no effect on other species of bacteria, and worked only on A. baumannii.
+Many antibiotics kill bacteria indiscriminately. The researchers believe the precision of abaucin will make it harder for drug-resistance to emerge, and could lead to fewer side-effects.
+In principle, the AI could screen tens of millions of potential compounds - something that would be impractical to do manually.
+"AI enhances the rate, and in a perfect world decreases the cost, with which we can discover these new classes of antibiotic that we desperately need," Stokes said.
+The researchers tested the principles of AI-aided antibiotic discovery in E. coli in 2020, but have now used that knowledge to focus on the big nasties. They plan to look at Staphylococcus aureus and Pseudomonas aeruginosa next.
+"This finding further supports the premise that AI can significantly accelerate and expand our search for novel antibiotics," said Professor James Collins, from the Massachusetts Institute of Technology.
+"I'm excited that this work shows that we can use AI to help combat problematic pathogens such as A. baumannii."

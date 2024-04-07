@@ -1,0 +1,65 @@
+ 
+The Terminator was scary as hell.
+The low budget sci-fi film features an unstoppable killer robot relentlessly hunting someone - a concept that frightened my pubescent self far more than creepy Japanese children or masked maniacs.
+And yet the movie’s concept of a world where an artificially intelligent computer has usurped humanity and sent machines to war seems pretty silly, even 33 years after its release.
+Right?
+Well, not to the man who inspired Robert Downey Jr’s Tony Stark in Iron Man - Elon Musk - the 40-year-old, Hollywood-star dating billionaire entrepreneur behind electric car company Tesla and rocket manufacturer SpaceX.
+Musk believes robots will probably, one day, kill us all.
+He also believes there’s a one-in-billion chance we’re not living in a computer simulation. But nevermind about that.
+In July, Musk gave a speech warning, “I keep sounding the alarm bell, but until people see robots going down the street killing people, they don’t know how to react, because it seems so ethereal.”
+He says robots represent “a fundamental risk to the existence of civilization” and is certain they will eventually do everything better than humans.
+Incredibly, his comments have sparked a public debate with another tech behemoth, Facebook founder, Mark Zuckerberg.
+In a recent live video, the Zuck told viewers Musk was a “naysayer” who was fearmongering. “In some ways I actually think it is pretty irresponsible.”
+Musk shot back on Twitter: “I've talked to Mark about this. His understanding of the subject is limited.”
+Top that, Taylor and Katy.
+Two days ago, Microsoft titan Bill Gates joined the party, telling The Wall Street Journal that world destruction isn’t imminent. “This is a case where Elon and I disagree … we shouldn’t panic about it.”
+Aaron Stockdill is a Cantabrian studying towards a PhD in computer science at the University of Cambridge. “We understand how to design intelligent systems so they don’t go on murderous rampages.”
+Stockdill says people shouldn’t fear an intelligent robot reprogramming itself. If that were to happen, the more likely outcome is it would optimise itself to become lazy and apathetic.
+Steve McKinlay, who teaches digital ethics and artificial intelligence at the Wellington Institute of Technology, also rejects Musk’s fears.
+“Elon Musk should stick to building battery-powered cars and rockets. He doesn’t know what he’s talking about,” he says.
+In two weeks, the former coder will give a speech before the Royal Society of New Zealand on the ethical implications of artificial intelligence and big data.
+But more importantly - does he think robots will one day kill us all?
+“In our lifetime, no.”
+Oh, good.
+“There’s the kind of artificial intelligence that often pops up in movies like Ex Machina and The Terminator - the killer robots - the good news is we’re absolutely nowhere near developing this type of artificial intelligence,” he says.
+“There are viral videos of newly built robots that are supposedly at the forefront of technological developments and they’re falling down and knocking things over. That’s not where the danger is going to come from.”
+The biggest danger, he says, are autonomous weapon systems, or “drone swarms”.
+Right now, drones aren’t just used to just make epic holiday videos or spy on neighbours, they’ve been deployed by militaries, such as the US in its “War on Terror”, for decades.
+Swarms, a form of drone technology, can theoretically be made for cheap using 3D printers. They move like a self-organised flock of birds without human control, zooming towards their target, which could be the largest population mass it finds. If a few are shot down, the rest continue.
+Superpowers around the world are pursuing swarm technology. It’s relatively new, but evolving swiftly.
+“Their impact could rival the development of the machine-gun: anyone without their own drone swarm faces rapid defeat on the battlefield,” the BBC reported earlier this year.
+McKinlay says the potential of drone swarms is nightmarish.
+“We have major world powers developing this new technology with no real ethical consideration, and a world with it just becomes more scary and less safe.”
+Mary Wareham, a former advocacy director for Oxfam New Zealand, has campaigned against problematic weapons for years. She now works in Washington DC for Human Rights Watch.
+She has previously warned, “Should humans give the power to select and attack a target over to a machine?”
+Last month, she criticised the New Zealand Government for failing to take a stand against lethal autonomous weapons and ban them. She told Stuff, 19 other countries had signed an open letter to the United Nations as part of the “Campaign to Stop Killer Robots”.
+“We do not have long to act. Once this Pandora's box is opened, it will be hard to close,” the letter reads.
+Another signee is Elon Musk.
+The UN currently plans to create a group of governmental experts who will “work hard at finding means to prevent an arms race in these weapons, to protect civilians from their misuse, and to avoid the destabilizing effects of these technologies”.
+There are other technological advancements that concern McKinlay. For instance, driverless cars.
+“What if the car must make an instant decision to drive onto the pavement and knock down three people to save the driver’s life, or have a head-on collision? Which designer is allowed this power?”
+There’s also facial recognition technology, which Apple is introducing in its new flagship iPhone X. A fingerprint or six-digit code is no longer enough.
+Facial recognition isn’t new, but it is developing at a rate of knots.
+McKinlay says, in some ways, it’s great. “You can get through airport security faster.”
+In other ways, it’s incredibly frightening.
+Last week, it emerged researchers at Stanford University had developed facial recognition software that could predict someone’s sexual orientation.
+The software, nicknamed on social media as the “gaydar”, can correctly distinguish between gay and heterosexual men 81 percent of the time, and gay and heterosexual women 71 percent of the time.
+“What if that software got into the hands of a government or militant group that persecutes homosexuality?” asks McKinlay.
+“There is facial recognition software being developed that can determine whether someone is a pedofile or a terrorist. How does that go for the false positives? It’s like something out of Minority Report.”
+But the issue McKinlay focuses most on is machine learning.
+Machine learning is artificial intelligence that allows systems to automatically learn and improve from experience without being explicitly programmed.
+“So many issues arise out of data collection, such as what people are doing, how they’re spending money or where they are - no one reads the terms or conditions,” McKinlay says.
+“It goes far deeper than privacy concerns. This underpins the foundations of our democracy. We’ve got both government and non-government agencies using this data and machine-learning algorithms to predict our behaviour.”
+He says technology like this could have the profoundest effect on people’s lives.
+“This goes from supermarkets predicting what people want to buy, to ACC deciding how long to keep someone on a benefit.”
+He says there is currently very little scrutiny or ethical consideration of this science, “and you can’t see inside the box because the designers won’t let you. They’ll tell you they can’t lose their competitive edge.”
+Aaron Stockdill says the biggest concern is job losses, something that’s already been happening for decades.
+“In the near future, we will likely see a hollowing of the middle, where the jobs that get replaced first are those like accountants or managers,” he says.
+“The menial, but fiddly jobs will continue to be done by hand, simply because building a machine is more expensive than paying someone, although this respite will not last forever. The creative or complicated jobs will be the last to go, such as teaching and artistry.”
+He says no jobs are safe from artificial intelligence, but we are many, many years away from complete overhaul. “The technology genie is already out of the bottle, there is no going back, but we do have to decide what the future is.”
+He says people shouldn’t fear technology. “History is filled with clashes between society and technology. Every time, technology wins. Luddites feared weaving machines, Victorians feared schools, Socrates feared books. None of these technologies have destroyed us, or doomed us, or caused us all to become stupid.”
+McKinlay is also far from doom-and-gloom about artificial intelligence. “We could find cures for cancer. We could improve transportation around our cities. We could solve problems around energy and resource and distribution of food.”
+Nor is Musk, who, like Tony Stark, has invested almost everything he is worth in new technology.
+They both want proactive regulation. But the problem is co-operation.
+McKinlay remembers a recent conversation he had with a tech expert, who told him: “The cat is out of the bag when it comes to autonomous weapons. The good guys just have to make sure they build these things faster than the bad guys."
+Musk says he invests as much as anyone in artificial intelligence so he can “keep an eye on what's going on”.

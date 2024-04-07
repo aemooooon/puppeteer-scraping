@@ -1,0 +1,20 @@
+But the use of algorithms also comes with risks. Elsewhere, there have been concerns about racially-biased outcomes, for example.
+In the US, the COMPAS algorithm overstated the risk of black prisoners reoffending compared with their white counterparts - an outcome that could result in them being kept in prison for longer.
+A New Zealand Law Foundation-funded report from the University of Otago's Artificial Intelligence and Law in New Zealand Project calls for safeguards against the risks of algorithms, and says their use by government agencies is coming under increasing scrutiny.
+Professor James Maclaurin co-authored the report and said on the plus side of AI, algorithms were accuracy, efficiency and fairness of decisions affecting New Zealanders.
+On the negative side were concerns about accuracy, transparency, control and bias.
+Co-author Associate Professor Ali Knott said we may think computers programme can't be prejudiced, but the way information is fed in to a system, based on previous human decisions, could mean its outputs were tainted by historic human biases.
+"There's also a danger that other, innocent-looking factors - postcode for instance - can serve as proxies for things like race," he said.
+Checking algorithmic decisions for these sorts of problems means that the decision-making needs to be transparent, the report authors said.
+In some cases overseas, companies who made the algorithms wouldn't reveal how they worked, meaning they couldn't be checked or corrected.
+New Zealand had so far avoided such issues because government agencies had built their AI systems in-house, Prof Maclaurin said.
+Associate Professor Colin Gavaghan warned against "regulatory placebos" - measures that gave a sense of protection without making anything safer.
+For example, having a person sign off decisions guided by algorithms. That often resulted in people becoming trusting and uncritical of the system.
+But Associate Professor David Parry, Head of Department of Computer Science at Auckland University of Technology, said the report understated the risks.
+"Unfortunately most decision-makers have very little understanding of how these algorithms work or what the results actually mean. Bias is caused by data selection, the right to opt-out of data collection, existing bias in decision making and inappropriate choice of algorithm."
+A suitable regulator would behave like a medicines agency, requiring proof that the algorithm is effective from independent studies, proof that it is being used correctly, and surveillance of outcomes along with the right to stop an algorithm being used, he said.
+"Such a regulator would benefit from responding to the very thoughtful and insightful views coming from Māori groups, for example. These ways of thinking about collective and personal rights and benefits, are applicable to everyone and I believe are leading the way to acceptable models of use.
+"New Zealand has an exceptional opportunity to get this right and become a world-leader in the use, assessment and development of algorithmic approaches in government if we are prepared to have a scientific and inclusive approach."
+Dr Benjamin Liu, senior lecturer in Department of Commercial Law at the University of Auckland, said that while keeping in mind criticisms, the benefit of AI algorithms shouldn't be forgotten.
+"For example, police in New Delhi recovered 3000 missing children within just four days after using facial recognition software. And back home, we all enjoy the convenience brought by eGate when we pass through Auckland International Airport.
+"In the end, the key question is not about whether to use or ban AI, but rather how to preserve the fundamental values we share in our society. This will require policy-makers, lawyers, technologists and AI industry to closely work together to ensure the use of AI is consistent with the current laws and regulations, and to make new rules when the need arises."

@@ -1,0 +1,23 @@
+An Official Information Act request seen by RNZ on the Five Country Conference - which shares traveller, migrant and refugee data between the Five Eyes - unintentionally records notes made by staff as they start redacting a document.
+One says: "I thought INZ [Immigration New Zealand] wasn't keen on releasing information referencing automation - especially as it relates to decision-making".
+Immigration lawyer Alastair McClymont said INZ has always been secretive about its use of AI, possibly fearing the public would believe automated decision-making was unfair.
+"I think people would probably be concerned. I would say that if I went up and asked people on the street they would find it quite horrifying.
+"I think the biggest danger is entrenching bad decision-making. You're going to get a situation that once someone's declined they're always going to be declined because that's the way the automation process is going to work. Should we worry about it? Yes, a lot. But it doesn't surprise me - they've been gearing up towards this for a very long time."
+In the OIA document, tracked changes and comments were visible, with one official recording INZ's reluctance to disclose information on automation.
+A colleague suggested the writer check with George Rodrigues, who in 2020 was re-elected as a director of the international Biometrics Institute and was INZ's manager of identity services, compliance risk and intelligence services.
+No redaction was made about the passage, so no complaint could be made to the ombudsman.
+Lawyers said the most redacted information they found came in partnership visa applications, with concerns that those blanked out sections and pages concealed risk assessments and profiling in their clients' cases.
+Richard Small said the comments made in the OIA suggested the system was being manipulated and underlined a lack of transparency that practitioners and migrants see.
+It had proved hard to find out about algorithms when seeking official information or privacy act information on why migrants had been rejected, he said.
+"They rely massively on automation, and probably don't want the public to know the extent to which they are profiling people, for example as we know, of different races, and who knows what other automatic profiles they have in the system.
+"Their default position is secrecy, not transparency. That's their core culture. And we can illustrate that through many examples. They believe their systems are fundamentally no one else's business, even when they drive unfair decisions, and that is just unacceptable."
+In a statement the Ministry of Business, Innovation and Employment (MBIE) said it took its obligations under the Official Information Act very seriously.
+"We strongly believe in the importance of transparency through the release of information," INZ general manager of enablement Stephen Dunstan said.
+"Due to an administration error, these comments were included on the final release. They include free and frank initial discussions from staff about the material and, as reflected in the published document, do not reflect MBIE's final decision on the release of information.
+"In the course of processing official information requests, staff regularly discuss the application of the act, focussing on the principle of availability - that the information shall be made available unless there is good reason for withholding it."
+He did not say whether or why INZ was 'not keen' on publicising automated decision-making.
+Ombudsman Peter Boshier was overseas but his office said in the context of complaints, he could consider any relevant matters.
+A spokesperson said after its recent correspondence with the government about OIA allegations raised by Labour MP Gaurav Sharma, the Ombudsman replied to the PM's chief of staff, "noting that he expected the distinction between what is official information and what is not to be accurately reflected in training".
+On automated decision-making, INZ has said previously it had no intention to use parts of its new powers to allow computers to reject visa applications, instead using automation to work through administrative steps in visa processing.
+The Data Ethics Advisory Group reported in 2020 on INZ's risk analytics platform.
+"Training of the data models (machine learning) relies on past data and Immigration NZ's dependence on this could have implications for the operations of the Risk Analytics Platform. The Data Science Review Board should include independent voices with specific expertise to interrogate this risk. The composition of the Data Science Review Board is too internally focused and the board does not have human rights and ethics representatives.

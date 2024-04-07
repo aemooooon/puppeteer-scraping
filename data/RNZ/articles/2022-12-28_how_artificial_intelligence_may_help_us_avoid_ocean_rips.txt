@@ -1,0 +1,15 @@
+The National Institute of Water & Atmospheric Research (NIWA) and Surf Life Saving New Zealand have developed a rip current identification tool using artificial intelligence (AI).
+NIWA described rip currents as narrow, fast-moving segments of water that travelled away from the shore, and could reach speeds of 2.5 metres per second.
+NIWA Coastal and Estuarine Physical Processes Scientist Christo Rautenbach said rip currents were the most dangerous beach hazard around the world, including in New Zealand.
+"It became obvious that we needed a more effective way of identifying rip currents, and that's where this idea came from.
+"We've made a big leap forward in training our AI model to detect rip currents in almost any photographic or video image."
+NIWA said the technology was developed by feeding millions of coastal aerial images into the AI model, to teach it to identify where rips occurred in real-time.
+Rautenbach said trials showed it was able to detect rip currents with 91 percent accuracy.
+He said the tool would work by identifying rips at beaches through scanning live camera and/or drone footage, then sending out a warning alert.
+"Even knowledgeable surf lifeguards can struggle identifying rips, depending on the beach and environmental conditions.
+"As well as this, some beaches are remote or really large, so surf lifeguards can use all the extra help they can get."
+He said their next phase was developing a social scientific methodology of how to roll the technology out.
+"Each beach will have a specific need, so we can't just say we're going to deploy drones at every beach."
+He said they wanted to test the technology thoroughly before releasing it to the public, so initially it would be a supportive tool to Surf Life Saving who would receive the rip current alerts.
+"Thereafter we would deploy it in a more general sense. So the idea would be, you come to a beach, there would be a QR code and you scan it, and you then get the updates of rip currents."
+Rautenbach said NIWA took beach privacy seriously, and with regard to the cameras and drones, they were going to work with the public to establish what would work where, and what would be acceptable.

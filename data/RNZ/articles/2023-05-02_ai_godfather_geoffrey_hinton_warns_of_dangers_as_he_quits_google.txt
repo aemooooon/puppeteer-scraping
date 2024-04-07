@@ -1,0 +1,14 @@
+Geoffrey Hinton, aged 75, announced his resignation from Google in a statement to the New York Times, saying he now regretted his work.
+And in a BBC interview on Monday, he said: "I can now just speak freely about what I think the dangers might be.
+"And some of them are quite scary."
+Dr Hinton's pioneering research on deep learning and neural networks has paved the way for current AI systems like ChatGPT.
+But the British-Canadian cognitive psychologist and computer scientist told the BBC the chatbot could soon overtake the level of information that a human brain holds.
+"Right now, what we're seeing is things like GPT-4 eclipses a person in the amount of general knowledge it has and it eclipses them by a long way. In terms of reasoning, it's not as good, but it does already do simple reasoning.
+"And given the rate of progress, we expect things to get better quite fast. So we need to worry about that. Right now, they're not more intelligent than us, as far as I can tell. But I think they soon may be."
+In the New York Times article, Hinton referred to "bad actors" who would try use AI for "bad things".
+When asked by the BBC to elaborate on this, he replied: "This is just a kind of worst-case scenario, kind of a nightmare scenario.
+"You can imagine, for example, some bad actor like [Russian President Vladimir] Putin decided to give robots the ability to create their own sub-goals."
+The scientist warned that this eventually might "create sub-goals like 'I need to get more power'".
+Hinton also said there were several other reasons to quit his job.
+"One is, I'm 75. So it's time to retire. Another was, I actually want to say some good things about Google. And they're more credible if I don't work for Google."
+He stressed that he did not want to criticise Google and that the tech giant had been "very responsible".

@@ -1,0 +1,13 @@
+Experts are sharing their knowledge with up-and-coming New Zealand researchers wanting to enter this year's Callaghan Innovation C-Prize Challenge, which this year focuses on wearable technology.
+Professor Paul Lukowicz, one of the specialists, works at a German research centre for artificial intelligence and has developed sensors that can be woven into a shirt so a virtual coach can tell the wearer if they're exercising correctly.
+"The shirt itself has a sensor, and it's not just a motion sensor like your step counters, but a sensor that really can feel how your muscles move.
+"That way, when you do something like push ups, you really get information on how much strain you apply to different areas on the body. And that is processed by the computer to give you more detailed coaching instructions."
+Then there is the collar that records how much you have eaten in a day.
+"It can see what happens inside your neck. So when you're swallowing and chewing and talking. So maybe one day having all of this diet assistance, at the end of the day this thing will tell you how much you ate."
+Professor Robert Riener from Switzerland specialises in wearable robots which help stroke or spinal injury victims regain movement in their limbs.
+"These robotic components are supporting them to move the legs and the arms. The effect is they get trained to do the movements; their muscles are being built up and their co-ordination capabilities are improving so that they can, in the best case, be healed from a stroke for example."
+The robots can also help the elderly move more freely.
+"They can still use a wheelchair ... and sometimes when they have to stand up to talk to somebody at eye level, to take something out of a shelf, to walk up one or two steps, then they can get out of their wheelchair, do some steps and then go back. They can also drive their car with the device."
+Diane Jones is at the forefront of wearable tech in New Zealand and has invented a vibrating massager that helps increase blood flow around injured muscles.
+Dr Jones said the localised vibration therapy is usually applied to the body with what looked like a power tool.
+"It's usually applied by a sport physiotherapist and it sends vibration energy in to muscles. So we looked at that product, and we wanted to make something that was much more of a wearable technology, something the user could easily apply themselves."

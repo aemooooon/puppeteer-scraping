@@ -1,0 +1,43 @@
+Emails released under the Official Information Act reveal significant ties and high hopes between the two partners over greater use of AI, including to help neuro-diverse students.
+But what began at the very highest levels of government departments, ended in a whimper when staffers neglected it.
+The government quietly signed a deal for doing "lighthouse" projects with Microsoft in 2020, at the same time as the American titan began moves to build big data centres here.
+To kick it off, the government chief digital officer (GCDO) asked about a dozen departmental chief executives to come up with ideas to work on with Microsoft, the newly released documents show.
+"These lighthouse projects are significant to Microsoft's leadership and our wider relationship with them," wrote GCDO Paul James in a February 2020 email.
+"This is a real opportunity to gain access to world leading assistance with a challenging problem."
+The education AI project was one of two selected.
+Though it was said to be of "national significance", the project was not made public at the time.
+A joint team then began looking into the likes of how to use "existing ministry datasets" to leverage AI to deliver personalised learning to neuro-diverse students, and how to use AI to augment decision-making processes.
+Later, the ministry settled on using the American-NZ project to provide the "foundations" for a broader AI and data science education strategy.
+"It was clear that the team see this as a significant opportunity to impact the New Zealand education system," Microsoft's national technology officer Russell Craig wrote in July 2020 to Education, Internal Affairs and the Department of Prime Minister and Cabinet.
+But by the end of 2021, no one on the seven-strong steering group of senior managers had had time to even go to meetings or do any work on it, and the project "fell into a black hole", the project leader said.
+Google approached the ministry about this time for "a similar opportunity for research-based work" but no one picked it up, "so again, nothing happened".
+The ministry also eventually rejected Microsoft's other proposal, to add to the "lighthouse" projects its Operation Constellation of real-time data collection and analysis in schools, citing trust problems.
+Critics have questioned why a trillion-dollar US company should get a leg-up from the government.
+The government's non-binding Memorandum of Understanding signed in 2017 gave Microsoft a special role in digital development nationally. The deal was not made public until RNZ inquiries earlier this year.
+The MOU was updated in February 2020 to add the lighthouse projects. This was followed in May 2020 by a $100m-plus data centre project announced by the government and Microsoft. Three months later, in August, Microsoft got ministerial approval to buy the land for the data centre in Auckland.
+Microsoft revenues in this country have risen more than fivefold since 2018 to over $1 billion. It pays little tax here and large fees to its US parent. It used to employ about 150 people locally but laid some off in April.
+Microsoft referred RNZ's questions to the ministry.
+The "lighthouse" projects had to be "transformational" and deliver widespread benefits, but neither went ahead (a second one was with the Ministry of Business, Innovation and Employment), the documents said.
+That was despite some heavyweight input going in.
+Just a day after the GCDO asked for ideas, Education Secretary Iona Holsted wrote back, suggesting they use Microsoft AI in admin, personalised learning and Learning Support for higher-needs children.
+"We can help influence demand for the NZ-based Microsoft cloud [data centre] through our school software licensing agreement," she told James.
+The ministry could shift its entire Te Rito data repository to Microsoft's cloud, she added.
+Her chief digital officer, Stewart Wakefield, led the new AI project on the ministry's side.
+The emails show Microsoft got its global team involved and wanted to get more data from students - there was "lack of testing data", Russell Craig said.
+The ministry consulted no one other than Microsoft and the GCDO.
+This was because the initiative did not proceed, it said.
+It lacked any formal group to give it advice about AI, and this gap persisted until at least early 2023, a separate OIA showed.
+Lighthouse projects were envisaged to also involve non-government organisations, but this one did not get to that.
+An non-government organisation (NGO) coalition of support groups earlier this month said the government was failing to deliver for neuro-diverse children in schools. ADHD (attention-deficit/hyperactivity disorder), autism, giftedness and dyslexia are all examples of neuro-diversity.
+In October 2020, Internal Affairs top digital inclusion manager Adrienne Moor said "there seemed initially to be strong interest" in pushing the AI lighthouse project on, but the pandemic may have robbed it of focus.
+The following month, "concerns about ethics, data sovereignty, data privacy, amongst others", were raised by the Education Ministry.
+By December the ministry had rejected Project Constellation: "There were concerns that it would not align with the trust model."
+The original AI lighthouse project was still attracting "genuine enthusiasm" as well as "caution around the use of education system data", and there was talk of "the scale of this in China", emails said.
+By March 2021, the new steering group was wondering about "avoiding vendor lock-in by only working with Microsoft".
+The group agreed to look at how AI could help students with maths and numeracy.
+But by November 2021 the project was dead.
+Nothing has taken its place. "No AI projects currently exist," the ministry told RNZ on Thursday.
+This is despite the MOU that in 2020 committed the ministry and GCDO to work with Microsoft to explore "creating a program to apply AI and other digital capabilities".
+Microsoft has pushed on regardless.
+It got overseas investment approval earlier this year to buy more land for another data centre. It has partnered with the spy agencies on cyber-security tools. It is expected to be a major beneficiary of the government's cloud-first policy that directs public agencies to always favour cloud-computing over traditional data storage, and that was updated just last month.
+The company promotes "testing our hypotheses and designs with neurodiverse students" to come up with "more inclusive products".

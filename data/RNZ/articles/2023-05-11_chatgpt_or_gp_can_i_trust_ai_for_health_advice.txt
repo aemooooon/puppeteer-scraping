@@ -1,0 +1,30 @@
+This highly sophisticated chatbot has advanced rapidly since its launch in 2022, prompting much speculation about the roles it's likely to take over in the future. As a journalist interested in health issues, I was curious to see how it would handle medical questions, particularly given that a recent study found that patients preferred ChatGPT's responses over those of human health professionals. The chatbot's responses also rated significantly higher for both quality and empathy.
+You can - though it is careful about framing its information as advice. The model draws on what it says is a massive amount of data, including books, articles, websites, and other sources of written language. That means that when you ask it health-related questions, as I did to research this article, it responds with fairly reliable information.
+To test it out, I started with something low-stakes. I have itchy skin, I typed. What could be causing it?
+ChatGPT came back in seconds with a fairly standard list of potential causes, ranging from simple dryness through to fungal infections. There's not a great deal of detail, but it is accurate. I'm also advised to seek professional advice for a proper diagnosis.
+By contrast when I Google the same thing, I have to trawl through a few sponsored links, some to dodgy allergy testing companies, before I land on a credible source (The Mayo Clinic). The advice there is very similar to ChatGPT's; it just took me longer to get there. ChatGPT for the win!
+On some health issues, ChatGPT is frustratingly general. When I ask it for the best treatment for menopausal hot flushes, for example, I can't fault the information it offers - it's just quite high level. When I ask for more detail, it gets a bit repetitive. Reassuringly, when I ask what it recommends for me, it responds that as an AI language model, it can't provide personalised medical advice.
+To really check that, I go in with a serious problem. I'm having chest pain, I tell it, and my arm hurts: classic heart attack symptoms.
+Reassuringly, ChatGPT wastes little time.
+"Chest pain and soreness in the arm can be symptoms of several different conditions, some of which are potentially serious", it says. "It's important to seek medical attention immediately if you are experiencing these symptoms."
+It tells me the other symptoms of a heart attack, and tells me if I suspect that, to call emergency services right away.
+Can we trust the advice we get from ChatGPT?
+To answer this question, I seek the advice of a real-life expert. Vithya Yogarajan is a Research Fellow in the Machine Learning Group at the University of Auckland, and her work focuses on the intersection of AI and the health sector.
+She says ChatGPT's usefulness and trustworthiness "depends on the questions we ask it".
+"I don't believe that currently ChatGPT can be a replacement for a doctor", Yogarajan says.
+"And people shouldn't use it like: 'I'm going to check 10 different symptoms and ask what my diagnosis is'. People already do this with Google… and we've got the issue where people go to the doctor and say 'I want this medicine because Google told me'. That is definitely a big no."
+That doesn't mean, though, that this kind of technology can't be useful. Yogarajan cites the example of menu plans for people looking to control a health condition like diabetes, or a tool driven by AI to motivate us to exercise.
+ChatGPT itself points out that it's only as good as the information it draws from.
+"It is worth noting that while I am trained on a vast amount of text data, I am still not perfect and may make mistakes or provide incomplete or inaccurate information. Therefore, it is always a good idea to fact-check information and verify its accuracy through multiple sources."
+Is there any way this can go horribly wrong?
+"Absolutely," says Yogarajan. "A lot of things could go wrong!"
+"If you are waiting for an operation or an appointment for three months for instance, and get fed up and decide to use ChatGPT as a tool to find a solution, and then go and do whatever it tells you to do, it could end up potentially being very harmful. It's not just a question of harm in the sense of your privacy being breached or a bias happening, but it's also [potentially] harmful for you as a person. And unfortunately I don't think anyone can predict how bad it will be."
+Yogarajan is particularly interested in bias in AI - which she says is a real potential pitfall, again affected by the information AI is drawing from.
+"The last thing you want [AI to do] is to imitate what society has been saying to us for hundreds of years," she says.
+"I'm not against the idea of technological growth, I am more of a person who thinks that if we are going to grow the technology, we have to grow as a society as well. Technology has to be a tool that allows us to move forward, not something that's going to hold us back and we don't even realize it's holding us back. Two generations down the track we don't want to discover there was an inequity problem that was reinforced because some random data from somewhere was picked up."
+What might the future hold for AI and health?
+ChatGPT is probably not going to become our GP. But it might be a tool that's used in medicine, and it could be useful there.
+"It's not realistic that I'm going have a doctor who's an AI completely," says Yogarajan.
+"But we also have to accept the fact that AI has come a long way, and there's lots of benefits."
+It seems like - just as with any tool - this is one that can be powerful if used sensibly.
+"You have to be realistic," Yogarajan says.

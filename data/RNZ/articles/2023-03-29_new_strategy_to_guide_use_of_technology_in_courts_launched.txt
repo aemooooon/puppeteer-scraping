@@ -1,0 +1,24 @@
+"Proceedings must be simple, accessible and timely," Dame Helen Winkelmann said on launching the Digital Strategy for the Courts and Tribunals of Aotearoa New Zealand.
+"The use of paper files limits the ability of courts and tribunals to perform their core function of delivering justice to all people in a simple, accessible and timely manner," the 44-page document says.
+The strategy aims to cut complexity, costs and delays, while building public confidence in the courts.
+It goes as far as imagining, long term, the use of artificial intelligence (AI) "with necessary safeguards" to provide or analyse information, or even to determine "simple procedural applications" such as time extensions and routine management orders.
+In the meantime, four core initiatives over the next five years will focus on bringing in a fully-digital document and case management system - called Te Au Reka - holding a lot more hearings remotely on screens, outfitting hearing rooms with the infrastructure necessary to enable the technological initiatives identified, and training staff to handle the high-tech tools.
+Research shows around half of New Zealanders will have a legal problem in any two-year period.
+However, fewer than a third of those will be able to get help, and only a small number get help from a lawyer or other professional.
+"There has been a rise in the number of people going through the court process without the help of a lawyer," the strategy says.
+The building pressures on courts have been exacerbated by the pandemic.
+At one stage last year, lockdowns and other restrictions had delayed 142,000 High Court and district court appearances such as sentencings, bail hearings, Family Court proceedings, and trials.
+While the courts already use some technology to manage caseflows and the like, "those systems are in many cases at or beyond the end of their working life", the strategy says.
+Lawyers could not access the existing technology, with the data needing to be given to them by hand.
+"Errors, unsurprisingly, creep in", the strategy says - and even judges have few ways to easily access all the information they needed.
+There were currently no automated systems for monitoring whether timeframes were met, or to alert staff if information for hearings had not turned up.
+"Judges cannot count on the completeness and accuracy of the material before them."
+Among four key initiatives for the next several years, are holding a lot more hearings remotely.
+A one-stop portal would provide information about processes, timeframes, and possible outcomes, so people could understand justice "pathways".
+A lot of civil proceedings will move online.
+In criminal cases, victims would be able to go online to check the proceedings, and jurors are in line to get digital notebooks.
+A lot more rooms would have to be set up and staff trained for the online move, the strategy says.
+One aim is to improve access to justice for people with disabilities, the neurodiverse, ethnic minorities and people who cannot travel to court locations.
+Going fully-digital will let courts share workloads around to overcome logjams.
+It will also make it easier to analyse how courts were working and how to improve them, the strategy says.
+As for the security of screeds of very sensitive information, the strategy says: "Judicial control and supervision of court information, judicial information and court business should be preserved and enhanced."

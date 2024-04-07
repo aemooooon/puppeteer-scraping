@@ -1,0 +1,15 @@
+Tech commentator Mark Pesce looks at American tech company Clearview AI and the implication that its facial recognition technology has for everyone.
+“A young man in his early 20s got a great idea that he could go and scrape… these photos, many of which are identified, build up a database of billions of photos, use those to train a machine-learning artificial intelligence model and then be able to offer a service through a mobile phone app that would be able to identify anyone instantly just by putting the camera of the mobile phone up to them,” says Pesce.
+The app, Clearview AI, was first sold to US law enforcement and has since been sold to the United Arab Emirates, Singapore, and Qatar. 
+Facial recognition technology has come a long way in the past ten years but it wasn’t the hardest part of building this tool, he says.
+“The hard thing was actually just to get the photos but it turns out, we gave everyone the photos - all of that sharing that we’ve been doing quite innocently has now been used to build this huge database.”
+We tend to not really understand that the sharing we do in earnestness can have another side to it, he says.
+“Interestingly, after Clearview AI went public with this, five, six weeks ago, Facebook said well you’ve broken our terms of service…and they’ve basically said you can’t use the photos for this.”
+Pesce expects this to play out in the courts.
+But, what Clearview AI has done is not very hard, he says. A team of journalists were able to do the same thing.
+“It’s as if we’ve sort of broken the barrier and now we’re in this new age because we’ve shared so much public data it is really easy for almost anyone to start to build their very powerful tools to de-anonymise us to identify us anywhere we are in public.”
+If that wasn’t bad enough, almost every website you’re on is watching you, Pesce says.
+“Basically what they’re doing is they’re gathering data about what you’re looking at, how long you’re looking, when you’re scrolling, why you’re scrolling, when you leave the page.”
+It was something that five or six years ago was only done by a handful of websites, like Facebook.
+“That technology has basically gone rogue and it’s now embedded in most of the underlying technology in most websites, so you have to understand that when you’re on a website, you’re being watched.”
+Never assume you’re on a website anonymously, he says. 

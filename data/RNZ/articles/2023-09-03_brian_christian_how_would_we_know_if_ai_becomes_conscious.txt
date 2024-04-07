@@ -1,0 +1,36 @@
+But what would it mean for humans if artificial intelligence technology became conscious? And how would we know?
+Computer scientist Brian Christian ponders these complex questions with Kim Hill. 
+Brian Christian is the author of The Alignment Problem, Algorithms to Live By (with Tom Griffiths), and The Most Human Human. He is part of the AI Policy and Governance Working Group at the Institute for Advanced Study.
+In 2021, after having a message exchange with a chatbot called LaMDA, Google engineer Blake Lemoine was fired for claiming the system was sentient.
+Brian Christian tells Kim Hill that from his perspective, the evidence was not persuasive enough to confirm Lemoine's claim.
+"He was asking LaMDA these very soul-searching questions about what is its experience like, what is it like to be a chatbot, and so forth ... and what he got back was coherent and cogent enough that he ended up deciding [it was sentient]."
+"He's a person of faith so his attitude was, well, if it's telling me that it's having this inner experience, then who am I to tell God where God can and cannot put a soul? And so he gave it the benefit of the doubt."
+"I think he's someone who trusts his instincts, trusts that gut feeling that he has … that there might be someone or something on the other side of that conversation. So I don't think that really changed for him."
+This month, a group of computer scientists, neuroscientists and philosophers published the discussion paper Consciousness in Artificial Intelligence, which laid out 14 criteria that might indicate consciousness.
+Christian says this "significant document" has already started making waves in philosophy, neuroscience and computer science circles – and is bringing these different communities together in a new way.
+"There's an entire philosophical literature on what does it mean to have a mind? What are the key attributes of consciousness?
+"There's a neuroscience literature on, can we locate the structures within the brain that actually give rise to those conscious experiences? Are they in the front of the brain? Are they in the back of the brain?
+"Increasingly, we now have computational systems, in many cases explicitly modelled after certain aspects of human neuroscience."
+We can now start to explore whether AI has the requisite attributes that we suspect give rise to consciousness, he says.
+"I think we're just at the very beginning, but it strikes me that this is truly one of the most significant questions there is, really. And I think these disciplines are now really starting to talk to each other in a very deep way.
+"We might be able to say that a particular [AI] system is conscious, even if we don't know which theory of consciousness is correct."
+Philosophers all the way back to Aristotle, have grappled with the question of what makes human beings special and unique, Christian says.
+"Aristotle was really very focused on what makes human experience so important … From my perspective, from a 21st-century perspective, he was far too quick to write off the experiences of other mammals, etc. So yeah, there is kind of a self-centeredness."
+Until the animal rights movement of the 1970s, and specifically the work of Australian moral philosopher Peter Singer, philosophers largely 'wrote off' the complex inner lives of animals in their understanding of consciousness, he says.
+"That was something that the philosophers had wrong for about two and a half millennia and we're now just coming around."
+For humans, consciousness corresponds to the ability to think rationally but also optical experience and imagination, Christian says.
+"Extending those sorts of visual modalities starts to suggest… it starts to remove some of the barriers, at least, for what might make these systems conscious."
+For now, the biggest advance in AI has been language models that can do textual tasks.
+Christian believes it's just a matter of time before we see very intelligent robots that can clean houses and offer companionship in a "sophisticated" way.
+"You've got a lot of PhD students tinking away, you've got some would-be entrepreneurs trying to make it happen and there's been an incredible, incredible upsurge in the amount of venture capital that's going into AI companies, broadly speaking, so I think people are ... trying to essentially throw everything against the wall and see what sticks."
+He predicts the next development we'll see is a "form of agency" embedded into a desktop that can browse the web, looking at whatever is on your computer screen and maybe clicking buttons.
+"That's a very limited kind of software form of embodiment but it starts to have the first morsels of agency. It can take in perceptual input and then take an action."
+Although a lot of today's AI systems tick one or more of the boxes for consciousness, so far none ticks them all, he says.
+"You can imagine essentially bolting on different capacities, right, so taking a language model that appears to have a certain amount of information processing ability, and giving it, if you will, a visual sense.
+"Or you can imagine putting it into some sort of physical body, rather than just having it operating in a data centre. You could put a copy of, let's say, GPT-4 in a robot that was in a specific embodied experience. You could potentially give it the ability to move that body.
+"Now we're talking about the criterion of agency. So, at the moment, there is no compelling commercial reason to do that. But it's certainly within the capabilities of what we have at this point from an engineering standpoint."
+Christian suggests that it might be "humbling in a good way" for humans to share the world with another conscious entity that is quite alien to ourselves.
+"It might fundamentally change our position in the universe in a way that I think, could be good, assuming we don't get taken over or lose control of civilisation or so forth … It could be a good thing, but it's harrowing."
+The ethics and safety implications of artificial intelligence are "extremely concerning" to Christian and the sheer pace of progress is "certainly nervous-making", he says.
+"There is a real gap right now between the shared sense that many of us have that we need to regulate this technology, and the general lack of clarity that many of us have on exactly what kind of regulation ought to exist."
+With a lack of institutional capacity for auditing AI systems, he says it's time the US government incentivised the creation of an auditing industry.

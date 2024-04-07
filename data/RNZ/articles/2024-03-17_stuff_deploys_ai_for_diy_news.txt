@@ -1,0 +1,33 @@
+
+Readers browsing the country’s most popular news site were beckoned by an enticing headline last week.
+“Stuff poll says Christchurch NZ’s best place,” it began, before adding, “New Plymouth not happy about it”.
+The headline contained two crucial selling points for news: controversy and a metaphysical conundrum. First of all, is Christchurch truly New Zealand’s best place? Could it be that Stuff reader polls are somehow wrong?
+But more importantly, how is New Plymouth – a metropolitan centre not blessed with the gift of consciousness – able to express unhappiness? Does a cloud roll off Mt Taranaki and hang over the city to signal its displeasure? Do the waves crash more angrily on Fitzroy Beach?
+The story didn’t answer those questions, perhaps because it was written by another entity which has not been awakened to the joy, confusion, and dread of mortal existence.
+A standfirst at the top of the story explains that it was assembled by a robot.
+"This story was summarised from original Stuff reporting and published member comments using generative AI tool Chat GPT with oversight and editing from Stuff journalists," it said.
+This may have struck some as a slightly strange thing for Stuff to publish, given its leaders have been outspoken about the threat AI poses to journalism.
+Its chief executive Sinead Boucher warned about a AI-driven potential media-pocaplyse at a recent select committee hearing on the proposed Fair Digital News Bargaining Bill. 
+"In this last year we have seen the rise of AI technology that has been hailed as a gamechanger for humanity by the tech companies that own it but which at its core has an egregious wholesale theft of our content and our intellectual property," she said. "For the news media globally this development is looking increasingly like an extinction-level event."
+But a fair reading of Stuff's AI policies allows room for it to do things like summarise its polling data on New Zealand’s best city – provided there’s a human editor overseeing the final product.
+Boucher posited some other potential use cases for AI in an interview with Mediawatch last year. 
+"Text reports based on business company results or sport results or things like that. That's a labour-saving thing. There's no IP in that," she said.
+"That's an assistant in some ways because it allows the journalist to focus on stories where human insight and human creativity, empathy, human connection, all those things are really important."
+One media organisation has already been using AI for one of those purposes.
+BusinessDesk employs ChatGPT to put together its stock exchange coverage – an initiative its managing editor Matt Martel says saves time and frees its reporters up for other tasks.
+"We use it for NZX market data copy. Articles which used to take us a minimum of 30 minutes now takes less than 30 seconds," he told Mediawatch.
+The real issue with Stuff’s latest AI story is not so much that it breached the company’s editorial policies, but that its whole existence is a grave sin against writing and perhaps creativity itself.
+Reading the story produces what I imagine to be a similar sensation to a spider crawling over your brain.
+Its writing isn’t so much terrible as unsettling, existing in a kind of uncanny valley between sense and nonsense.
+David Farrier, the journalist and author of the blog Webworm, highlighted what he called “horrific” passages from the story.
+"Stuff tossed this question into the ring, and New Zealanders, never shy to back their own patch, came out swinging with opinions as varied as flavours in a Whittaker's sampler," one read.
+Other journalists also took a cudgel to the AI-generated work.
+The Spinoff’s Madeleine Chapman wrote an article headlined ‘Oh no! Turns out AI sucks at writing’. It rapped the story over the knuckles for beginning with the word ‘Ah’ and for using the phrase ‘New Plymouth enthusiasts’. 
+But the reality is AI articles are unlikely to stay this bad forever. Stuff’s travesty is likely just an initial encroachment in AI’s inevitable annexation of land traditionally occupied by journalists. 
+Chapman told Mediawatch AI stories could work well as a time-saving device if they free up journalists to get going on investigations or other high-quality work. 
+But she worried that using AI could undermine media companies when they're pitching for financial support from readers for their journalism. 
+She said readers often pick out what they see as the worst thing a media company has produced and ask why they should have to pay for that when they're faced with a paywall.
+"I would love for people not to have that approach to journalism because it's an impossible bar to meet - to have every single thing you publish be somebody's favourite thing they want to pay for. But at the same time if that's the approach people are taking you don't want the thing they pick out to be 'well, literally a robot wrote this'."
+Despite that, Chapman saw little point fully eschewing the encroachment of AI into journalism.
+She said newsrooms like hers would need to focus on what they can provide that new technology can't. At The Spinoff, that's funny articles and longer-form investigations, though results at other publications may vary.
+"People are willing to pay for something if they know a lot of work's gone into it and this is the only place they can get it," she said.

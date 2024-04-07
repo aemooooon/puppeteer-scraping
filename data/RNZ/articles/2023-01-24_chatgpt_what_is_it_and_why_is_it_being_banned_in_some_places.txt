@@ -1,0 +1,33 @@
+Generative AI ChatGPT offers endless opportunities to seek an answer to any question you've ever had, but its creation has also been met with concern.
+A Queensland Department of Education spokesperson said it had blocked ChatGPT for students on the department's network until it could be fully "assessed for appropriateness".
+Queensland joins NSW in banning the app in public schools. Victoria has ruled out blocking ChatGPT.
+ChatGPT - or Chat Generative Pre-Trained Transformer - is a chatbot that was launched by OpenAI, an artificial intelligence research and deployment company, in November 2022.
+It is a language model that can generate realistic, human-like text.
+ChatGPT can be used in language translation and to summarise large chunks of text to give a precis of an article.
+It can also generate text responses on any subject when prompted, making it useful as a chatbot for customer service.
+The big concern is that ChatGPT could potentially be used by university and school students to cheat on written assignments without being detected.
+It's been described as akin to students outsourcing their homework to robots.
+But some educators have also spoken about harnessing the existence of ChatGPT as a major opportunity to make assessments more authentic, mirroring challenges students may face in the real world.
+This would require a radical rethink of school and university assessment to make it much more difficult to plagiarise.
+Griffith Institute for Educational Research director Leonie Rowan said ChatGPT also had the potential to improve learning outcomes for disadvantaged children who did not have access to tutors.
+"There's a lot of positive dimensions," Rowan said.
+"It's got huge potential.
+"This might be an opportunity to help, for example, kids with language backgrounds other than English, culturally and linguistically diverse learners, refugee kids."
+In response to the launch of ChatGPT, an online tool capable of detecting artificial-intelligence-generated material has already emerged, dubbed AICheatCheck.
+It uses its own artificial intelligence models to predict if text has been written by a human or a machine, based on word choice and sentence structure.
+"Misuse of artificial intelligence by a student may be considered academic misconduct or a technology violation," a spokesperson for the department said.
+"As part of their policies and guidelines, it is also important for schools to educate students about the ethical and academic implications of using AI to complete assignments."
+Rowan advocates embracing the technology, rather than banning it.
+"I can understand why banning it looks like a simple and quick solution," she said.
+"But you can't lock people up away from the world, you can't ban kids from the world.
+"I don't think it should be banned. I don't think it can be banned.
+"Let's get curious before we get scared. Humans are amazing. We learned how to use fire to our advantage, and how to make life better thanks to all sorts of technological advantages.
+"I'm optimistic about the present and the future with ChatGPT."
+Rowan said there was no evidence that the emergence of ChatGPT would lead to a "tsunami of cheating".
+And she said there were already people writing assignments for students before the emergence of ChatGPT.
+"That's already an industry," she said.
+"[ChatGPT] is an opportunity for us to think about, 'Wow, what is this amazing new space going to allow us to do and encourage us to do in new kinds of ways?'
+"Maybe this is a wake-up call that our assessments do need to be more individualised."
+Rowan said the chatbot had implications for people trying "to navigate all sorts of foreign systems".
+For example, it has huge potential to help people, such as those from culturally and linguistically diverse backgrounds, write job applications.
+ChatGPT can also be used for creative purposes such as writing songs and poetry, and is also being utilised for basic output such as writing and responding to emails.

@@ -1,0 +1,36 @@
+New Zealand tech players have been discussing how much choice you get in the matter of deep fakes, or in unwittingly training AI to do its thing - and it adds up to not a lot.
+"A lot of the ways and methods of collecting the AI training data actually probably do breach, you know, privacy principles, ethical principles," Dr Andrew Chen told a webinar run by the Office of the Privacy Commissioner.
+Take deep fakes.
+The US Republican Party has just deployed a first-ever all-AI attack ad showing uproar in the streets and a fake Joe Biden slumped at his Oval Office desk.
+It prompted this advice to pundits from Casey Newton of the New York Times tech podcast Hard Fork: "You can sort of all begin to write your pieces about how 2024 is going to be the AI election."
+MSNBC called the AI political ad "an unsettling first step toward a new world of manipulation", though others thought it was merely tat.
+New Zealand will get to its election before the US, of course, in October 2023. The Independent Electoral Review has been looking disinformation and earlier suggested it might look at the implications of AI, but has not done this for its report back early next month.
+Newton added: "I don't know what [commentators] Joe Rogan and Ben Shapiro, and Joe Biden, think about [AI fakes], my guess is they don't love it, right, but ... it's happening with those people first but it's going to happen to all of us soon enough."
+All of us?
+With the famous, AI has screes of pictures and talk to work with. But as Allyn Robins of New Zealand's Brainbox Institute told one of the webinars, it does not require all this any more.
+"They've developed so fast that all you need is five minutes of audio and a few photographs of somebody's face probably from social media," Robins said.
+"Anybody with those things out there, and in the age of social media that's most people, could have these techniques applied to them very effectively and produce all sorts of fake but personal information about them."
+One defence for a technophile might be to flood the web with all sorts of images that are not you, but are labelled as you, to confuse the AI. But this would be an "arms race", Robins said.
+"I do not have easy solutions. Apologies that this talk has been a little bit of a downer," he told the online audience.
+"It's not all bad in terms of AI impacts on privacy, but the overall ones are pretty grim."
+Among the things that are not all bad, imagine you have an idea, write down what you want to see - and up those images pop on your screen.
+Through image generators with fancy names like Stable Diffusion, AI is already doing just this, often very cheaply.
+"Think of it as a ChatGPT service for images," said Popular Mechanics.
+You may not even care about being deep-faked and having unauthorised avatars. But AI is targeting you in other ways regardless .
+The privacy webinars heard repeatedly about the technology's insatiable appetite for data, because it needs it to learn from.
+Big tech gorges on all those hours you spend on your smartphone, and consultant David Ding questioned how they are getting the data for free - or even getting you to pay them.
+"You've got people using chatbots and actually training the model," Ding said.
+"You know, that's your behaviour, that's really your data. You may have a child learning a language on an app - the person that owns the data is paying to train the model.
+"So we are seeing things being flipped on its head."
+Chen, of the University of Auckland, was looking into whether aspects of this constitute an exploitation of labour - yours - because that might carry more weight with people than a privacy breach.
+For instance, when you are asked to prove you are a human to buy concert tickets online, you may be asked to click on each image that has a traffic light in it, he explained. But you probably won't be told if the system is using just half the images to check your humanness - and the other half to train itself.
+"One of the questions is, how have we let the tech giants get away with this for so long?"
+What felt insignificant to an individual, had heft enmasse, he said. Sometimes the data capture was hidden, sometimes it was not.
+"We've got people who are actually entering sensitive or confidential personal information in the ChatGPT, which actually tells you that they will use that data for training purposes."
+But who reads the terms and conditions?
+Robins said it had been normalised, and was largely unregulated.
+"Because regulators haven't had a chance to pivot yet, and because everybody sees this as a race to get to market and there are likely to be few consequences for doing the wrong thing, the incentives in the space are very much towards grabbing whatever information you can get, not worrying too much about whether it's copyrighted or private for somebody, and then just rushing it out to market.
+"And once the model is out there, it is out there."
+The approach of the mass capture of data, to enable the mass capture of attention, is paying off.
+Facebook's owner Meta recently added $80 billion to its market value in one swoop by announcing AI had ramped up by 24 percent how much time people were spending on Instagram in the first three months of this year.
+The Office of the Privacy Commissioner's webinars ran under a slogan "protect the personal information you hold". One of them addressed "why personal information should be considered taonga".

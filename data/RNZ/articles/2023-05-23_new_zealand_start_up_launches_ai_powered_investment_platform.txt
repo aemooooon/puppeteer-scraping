@@ -1,0 +1,12 @@
+Gembot.ai combines the GPT model from OpenAI with vast financial data to help investors to research, plan, manage and trade investments.
+Its co-founder Charlie Meaden said the platform would not provide investment advice, but act as an assistant that could answer simple or complex questions about investing.
+Investors can trade using its own brokerage service known as Gembroker, which has also partnered with Silicon Valley firm Alpaca to allow commission-free trade of US equities.
+Meaden said Gembot could be used in a number of ways.
+"[For example] with all the inflation that's been going on over the past couple of years, you might ask some questions about how specific assets have done in inflationary periods, whether it be gold or oil or something like that.
+"You can also get it to create tables of history - of when different events happened. Maybe it was in 2008 when all the banks [in the US] started closing and you can get that data sort of synthesised for you."
+Gembot users could also potentially ask how much they need to save to meet their retirement goals based on their income.
+Meaden said users would still have to make the final investment decisions, meaning they may need to consult with a financial professional.
+But it could answer simple queries that may mean less use of investment advisors, he said.
+"The AI assistant is very good at reminding the user that we're not providing financial advice and you do have to do your own research," he said.
+Meaden has been working on the project since 2019, and believed Gembot.ai would be a fit for a global audience.
+"We decided a long time ago that we didn't want to take the standard start-up approach of launching with a promise, but with a product that had already been stress-tested.

@@ -1,0 +1,11 @@
+The ABC recently reported that the Australian Securities and Investments Commission (ASIC) had used AI to read and summarise public submissions into parliamentary inquiries, such as the use of consultants in government.
+In response to reporter questions, ASIC said it had trialled AI because it was becoming too onerous to read all the submissions.
+The commission called it an "ideal and low risk" way to test generative AI technology, the ABC reported.
+There are increasing concerns in Australia that the country is becoming too dependent on AI created and trained in the US or China, and the technology was becoming too advanced for non-experts to understand.
+When approached by RNZ, the Chief Digital Officer - who leads AI adoption in the public service - said they were not currently aware of any instances where generative AI was being used to summarise parliamentary submissions or similar documents.
+In a recent briefing to the Minister for Digitising Government Judith Collins, the office trumpeted the efficiency gains possible from AI, but raised the spectre of "serious harm", too.
+It confirmed, however, that work had started on a programme to coordinate greater use of AI by public agencies.
+This could include "encouraging and supporting agencies to trial, uptake and innovate with AI responsibly, underpinned by good governance".
+An interim guide to AI use put out last year lists likely uses such as helping policy developers get "fuller data and insight".
+In addition, AI could help with "targeting and personalisation" of public services, the advice said.
+"AI and automation have the potential to deliver huge efficiency and innovation benefits for the public service by performing high-volume low-value tasks, freeing up resources for higher value activity."

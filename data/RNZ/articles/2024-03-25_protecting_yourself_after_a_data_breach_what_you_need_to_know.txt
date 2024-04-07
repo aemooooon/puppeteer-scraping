@@ -1,0 +1,38 @@
+The information, taken from a database of online competitions from as far back as 2016, included names, dates of birth, gender, addresses, email addresses and phone numbers. Some images and videos, submitted as part of entries, had been taken, too.
+The information has since been published online, according to reports.
+The affected database did not contain passwords, identity documents, financial information, bank accounts or credit card details, the media company said. It had emailed affected people and was reviewing its IT systems.
+The breach was first reported on 15 March, when it was thought as many as 2.5 million people were affected. MediaWorks later clarified the number was 403,000.
+The company blamed an unidentified system vulnerability: "From initial investigations, MediaWorks understands the attacker was able to access the data by exploiting a previously unidentified system vulnerability."
+Under the Privacy Act 2020, organisations that experienced a privacy breach that either caused or was likely to cause serious harm must notify the Privacy Commissioner and affected people as soon as possible. The expected timeframe was within 72 hours.
+The Office of the Privacy Commissioner told RNZ: "MediaWorks notified us on 19 March of a privacy breach resulting from a cyber hack that it became aware of on 15 March."
+RNZ has asked MediaWorks why it took so long to report the breach.
+Some victims told media outlets they had been contacted by the attacker, requesting payment for deletion of their information.
+MediaWorks "strongly recommended" people did not pay. This was in line with advice from cyber security experts and the government. Cabinet has agreed that government agencies do not pay cyber ransoms.
+Why? Paying a ransom does not guarantee the deletion of stolen data or the removal of malicious software. However, it does create a financial incentive for criminals to continue or expand their activities.
+One victim told RNZ she was frightened by what the criminals could do with her data. MediaWorks' email was not very reassuring, she said.
+"[The email] just kind of says, very broadly, 'they got all of our database'. Essentially 'good luck, here are some tips, go fend for yourselves'."
+Sam Leggett, senior threat and incident response analyst at CERT, said even basic details gave attackers more "targetable information" for phishing campaigns.
+"They can then sell it or use it themselves."
+Phishing, one of the oldest internet scams, is when online thieves create fraudulent identities to try to get people to divulge sensitive information, such as banking log ins, credit card details, or passwords.
+"For example, you may be directed to a website that looks like your bank’s website, and asked to enter your internet banking login details. This will give the attacker access to both your login information, and your bank accounts," CERT's website warned.
+People could expect to see more targeting phishing scams after their data had been compromised in a breach, Leggett said.
+Red flags were dodgy-looking links and email addresses as well as unexpected requests to download attachments, click on links, or enter sensitive information.
+"I'd rather someone simply delete an email than click on it but if someone is able to report it [to CERT] it might save the next person," he said.
+Another common tactic with stolen passwords was "credential stuffing". Simply put, this was when attackers took a big list of passwords and tried them against unrelated accounts.
+For this reason, it was important to use different passwords for different accounts, he said. And to employ two-factor authentication, requiring two security steps to verify your identity when logging into an account.
+People may wonder why it matters if their contact details have been stolen, given they are likely already elsewhere online.
+Laura Bell Main, chief executive officer at SafeStack, an online security training platform, agreed "there's a huge amount of data already out there".
+But every time there was a data breach, "we enrich the picture of data about you", she said.
+"The richer this picture is over time, the more likely [attackers] can compromise one of your accounts or impersonate you."
+While people were increasingly using artificial intelligence to make their lives easier, so were hackers, she said. AI could help them navigate huge datasets, identify patterns and craft phishing campaigns.
+"Their aim is mostly to make a profit. They only need to get one or two responses to do that. From a business model, you can see the appeal."
+Scams and fraud accounted for almost $15.7 million in 2023, according to CERT's 2023 report. The biggest portion of that ($4.6m) went to investment scams.
+"We've got to be much more sceptical when we receive communications," Bell Main said. "If someone's reaching out to you and you're not expecting anything, you need to take a breath."
+Often, phishing scams created a sense of urgency, asking you to click a link or open an attachment immediately.
+"It's that fast response that will get us most of the time."
+Under the Privacy Act, agencies must take reasonable steps to avoid security breaches and protect customer data privacy.
+CERT's Leggett said he encouraged organisations to "just collect as little information as you need".
+Bell Main said she encouraged people to question whether a company really needed all the personal information it was requesting, especially if it was only for marketing purposes.
+"Keep asking: Why do they need that data?"
+Against a backdrop of a recession and public sector cuts, Bell Main was concerned about potential cuts to security.
+"It's one area where we're reliant on contractors, because we don't have enough people to sit in full-time roles.

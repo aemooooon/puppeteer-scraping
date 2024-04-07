@@ -1,0 +1,31 @@
+Whisper, launched in September by the company behind the ChatGPT chatbot, was trained on 680,000 hours of audio from the web, including 1381 hours of the te reo Māori.
+Indigenous tech and culture experts say that, while such technologies can help preserve and revive their languages, harvesting their data without consent risks abuse, distorting of Indigenous culture, and depriving minorities of their rights.
+"Data is like our land and natural resources," Karaitiana Taiuru, a Māori ethicist and an honorary academic at the University of Auckland, said.
+"If Indigenous peoples don't have sovereignty of their own data, they will simply be re-colonised in this information society."
+OpenAI did not respond to a request for comment.
+It said it collaborated "with industry leaders and policymakers to ensure that AI systems are developed in a trustworthy manner" in a statement on its website.
+Generative artificial intelligence (AI) that learns from mass data sets typically scraped from the web to create original text, images, videos and more, has quickly found a wide range of applications from marketing to education to law.
+But alongside, there are growing concerns about plagiarism, unethical sourcing of data, and cultural appropriation.
+This is especially true of Indigenous communities that have a long history of their culture being stolen and appropriated, said Michael Running Wolf, an AI ethicist and Native American who founded the non-profit Indigenous in AI.
+"There is a huge commercial incentive to collect our language data for applications like voice AI and large language models. Some large datasets have Indigenous data with unexplained origins," he said.
+"Having Indigenous data sovereignty is critical as it allows communities to protect knowledge that is sacred or deeply sensitive, and which may have commercial value, from exploitation," he told the Thomson Reuters Foundation.
+Many Indigenous languages are under threat of disappearing, the United Nations has warned, taking with them cultures, knowledge and traditions.
+In New Zealand, where Māori is enjoying a revival, the government aims to have one million basic speakers by 2040.
+That means digital systems using Māori will be rolled out in increasing numbers, said Peter-Lucas Jones, chief executive of Te Hiku Media, a non-profit that runs Maori broadcasts and also archives and promotes the language.
+"The development of tools that use generative AI can absolutely assist with the revitalisation and reclamation of Indigenous languages and cultures," said Jones.
+But it was "concerning" to see a non-Maori organisation roll out a speech model using their language, he said.
+"What we are seeing with these large AI models is that data is being scraped from the internet with little regard for any bias that could be present in the data, let alone any associated intellectual property rights," he said.
+Indigenous leaders were angered when Air New Zealand in 2019 sought to trademark a logo with the words "kia ora" - meaning "hello" or "good health" in Māori - highlighting tensions over attempts to co-opt their language and culture by outside groups.
+Now, there are questions about intellectual property rights over data scraped from the web for use by AI, a legal grey area.
+A group of visual artists sued AI artwork generation companies Stability AI, Midjourney, and DeviantArt in January for copyright infringement by creating images in their style. Stability AI has said that its work is protected by the fair use doctrine that allows limited use of copyrighted material.
+Critics warn Indigenous groups - who are generally not involved in the design or testing of AI systems - are at risk from bias that can be embedded within algorithms, while generative AI models may also spread incorrect information.
+"There are real risks that generative technologies could teach false Indigenous histories and stories, create and re-create biases and make it impossible for Indigenous peoples to reclaim sovereignty of their data," said Māori ethicist Taiuru.
+There is growing recognition of the need to protect Indigenous data and knowledge, with the World Trade Organization outlining measures in 2006 to provide intellectual property protection for "traditional knowledge and folklore".
+Federally recognised tribes in the United States can restrict data collection on their reservations. However, a tribe's sovereignty only extends to work done within their borders, and data collection "can fly under the radar and avoid the jurisdiction of a tribe," said Running Wolf.
+Moreover, individuals and companies have no legal obligation to compensate communities for their data, or to give them access to the data collected, he said.
+As a result, "communities are careful about who they partner with ... there are a handful of large corporations that many communities refuse to work with," said Running Wolf, who is working with trusted linguists and data scientists to get Native American languages recognised by AI.
+Another option is an Indigenous data cooperative, he said, that could compensate communities for their data and accelerate research.
+Te Hiku Media has built technology for the Māori language, including automatic speech recognition and a speech-to-text model, and is in talks with other Indigenous communities about sharing its technology.
+They have turned down offers from several companies seeking to commercialise their data, Jones said.
+"Ultimately, it is up to Māori to decide whether Siri should speak Māori," he said, in reference to Apple's voice assistant.
+"The communities from where the data was collected should decide whether their data should be used, and for what."

@@ -1,0 +1,37 @@
+A new police deal to share data with law enforcement in Europe has been done when Europol is being sued for harvesting screes of data about ordinary citizens.
+The European Union's own data protection watchdog is suing its own police for the mass processing of the personal data of people with no links to criminal activity.
+New Zealand did a deal with Europol in June 2022 to expand data sharing.
+The negotiations happened as the controversy over Europol's so-called 'big data ark' was growing.
+Ordered to delete much of the ark, Europol instead got the law changed to retrospectively OK what it was doing, also in June.
+New Zealand Police said it knew about the issue "which surfaced in Sept 2020 while negotiations were in train".
+"We are satisfied that the clauses in the agreement are robust for both parties to comply with how personal information is dealt with."
+The watchdog Data Protection Supervisor has now gone to Europe's highest court to overturn the amended laws, saying hoovering up data poses a "severe risk" to people.
+In July, Prime Minister Jacinda Ardern said the Europol agreement "reinforces New Zealand's strong data protection framework".
+Police say the deal allows exchange of personal data for the first time "that is linked to serious crime and/or terrorism".
+None has been shared yet as admin details were still being worked out, it said.
+The agreement, worked on with input from the Privacy Commissioner and Human Rights Commissioner, had strong controls on sharing, retaining and destroying data, and around individuals' rights to access and correct it, police told RNZ.
+The European Union delegation to New Zealand told RNZ that Europol supported national police forces with the "Herculean task" of analysing data lawfully transmitted to them.
+It was a leader in "protecting fundamental rights like personal data", European Commissioner for Home Affairs Ylva Johansson said in a statement.
+She had proposed new regulations in 2021 aimed to strike "the right balance" and said negotiations on that needed to swiftly conclude - it is not clear how these would affect June's law changes.
+Machine learning and artificial intelligence have honed law enforcement's appetite for more and more data.
+Europol's gathering and storing of a vast trove about millions of citizens, their movements, and communications has been compared to what America's NSA was doing when Edward Snowden blew the whistle on it - a "collect it all" surveillance approach, commentators dubbed it then.
+Europol has suggested the data watchdog is being impractical.
+However, critics say the European Commission is setting a dangerous precedent for other law enforcement agencies to push to see how far they could go with surveillance.
+A Dutch activist has described falling foul of Europol; it was caught trying to delete the data it had on Frank van der Linde rather than comply with the watchdog's order to hand it over to him.
+Before the Europol deal was done in June, data sharing was all "one-way" - from New Zealand to Europol.
+But the mosque attacks in 2019 triggered emergency provisions for the first time to let Europol send data to NZ. Later, the Europeans came proposing the routine data-sharing deal.
+It "means New Zealand will have access to more information to disrupt and respond to the victims of serious crimes and terrorism", Ardern said after signing it.
+A national interest analysis by police, of the agreement, said it "reflects the strong human rights considerations, privacy protections, and data security measures that are required by New Zealand and the EU's domestic legal frameworks".
+As well as upholding transnational criminal law and work, the deal "will increase collaboration with Europol for potential joint-enforcement operations", it said, noting Europol's "significant pool of evidentiary information".
+The deal was a reasonable response to crime under the Crown's Te Tiriti partnership, it added.
+The European data protection supervisor went to Europe's top court last month asking it to scrap the June legal U-turn.
+It could not "unduly move the goalposts" when people's privacy was at stake, the watchdog said.
+One EU lawmaker said "millions of innocent citizens risk being wrongfully suspected of a crime".
+Police here said the legal action was a recent development, "but it should not affect the operation of the agreement".
+The EU is separately pressuring New Zealand to increase its data protections generally, triggering a Justice Ministry review of how people are alerted or not when personal information is collected on them indirectly, such as from public online sources, according to lawyers familiar with the review.
+The New Zealand government is itself poised to introduce wider data preservation powers.
+The Cabinet has already authorised the law changes needed under the review of the Search and Surveillance Act, which is pivotal to police operations.
+These will set up "data preservation orders" to let an overseas investigation get hold of it in time, a ministerial briefing proactively released in April said.
+This move is required, for the country to join the Budapest Convention.
+However, the new powers might also have "a practical domestic application", the briefing said.
+That might, for instance, empower police to compel mobile phone carriers to preserve data for criminal investigations.

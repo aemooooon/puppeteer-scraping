@@ -1,0 +1,27 @@
+Made in Auckland and dubbed "the future of healthcare" by epidemiologist Michael Baker, its hoped ëlarm could plug gaps in the country's Covid response.
+The app works by connecting to "wearables" - like a fitbit or smartwatch - to look for the small physiological changes that happen at the early onset of an illness.
+It can pick up on slight changes in heart rate, body temperature and respiratory rate which happen before more obvious symptoms like coughing or fever show.
+The app was dreamt up in March last year by an Auckland company called Datamine and developed using artificial intelligence and medical data from Covid-19 cases.
+It has been listed on the Apple and Android app stores and accrued users in 23 countries - where Datamine's founder Paul O'Connor said it was proving increasingly effective with Covid-19.
+"We've now got the ëlarm system to over 80 percent accuracy in terms of detecting Covid-19 two to three days before somebody actually knows that they're sick," he said.
+With each new user it got, O'Connor expected the system to keep learning, improving and becoming more accurate.
+Ëlarm has caught the attention of officials here, with the Ministry of Health confirming it was in "active discussions" with Datamine about how it might be used in country's Covid-19 response.
+Neither the ministry or Datamine will divulge any more details just yet, but Paul O'Connor said it could be useful at the border, for workers or returnees.
+"We have had discussions around people coming into the country using the ëlarm system. So having a wearable on and seeing if there are any changes when they're travelling or before they're travelling ... and then when they come into the country in managed isolation," he said.
+Ëlarm also has also caught the interest of epidemiologist Michael Baker, who said people pre-symptomatic for Covid-19 had proven particularly good at infecting others, which was the reason the virus had spread so quickly around the world.
+Although ëlarm doesn't replace a Covid-19 test, Baker said finding a way to detect the virus early was really important.
+"So this has real potential," he said.
+He said the technology could be used to pick up when the virus was being transmitted between returnees in an MIQ hotel, or it could replace the daily health checks that nurses carry out.
+Baker said every interaction, even a fleeting temperature check, carried some risk of infection.
+"If, instead of doing that, you could issue everyone who's going through MIQ an app for their phone and a device that would continually monitor key indicators, or early indicators, of potential infection, that could be a great improvement," he said.
+ACT party leader David Seymour first urged the government to consider ëlarm in June last year.
+He thought it could eventually replace the need for some low-risk returnees to complete managed isolation.
+"In a post-vaccine Covid world, it might be appropriate to have a much wider range of people using this kind of technology from Datamine. It might be appropriate that all people visiting the country have to use it for a period of time after entering in substitution of quarantine, if they can also show they have an immunity effect and have come from a country with a very low-risk," he said.
+Baker said beyond Covid-19, wearables technology like ëlarm might continue to prove valuable.
+"This is the future of healthcare and early disease detection and possible even screening, that we make better use of the data that we can get, that we can harness, from other devices," he said.
+The Ministry of Health hoped it would be able to provide more details about any plans for ëlarm later this month.
+On 28 February, the Auckland region moved to Covid-19 Alert Level 3. The rest of New Zealand moved to Alert Level 2. This is for a period of seven days. Further community cases of Covid-19 have been identified in the Auckland Region. If you are in Auckland, stay home where possible, and follow Alert Level 3 guidelines. This will stop the transmission of Covid-19 and save lives. For more information on the alert levels go to covid19.govt.nz.
+RNZ is the statutory Lifeline Utility responsible for radio broadcasting under the Emergency Management Act 2002 and it has a memorandum of understanding with Government which has been activated to help deal with potential health issues related to the pandemic. RNZ's Lifeline Utility obligations do not affect our editorial independence as a public media organisation or the rigour of our news gathering and reporting operations.
+As New Zealand's Lifeline Utility radio broadcaster, RNZ is required to maintain essential public information channels and news during times of national emergency and we are committed to supporting all New Zealanders. We are also committed to looking after the health and well-being of our staff. 
+RNZ will continue to provide essential information services - broadcasting and publishing critical public service announcements on air, on our website and via social media channels. Comprehensive news will be available on air and via our website and digital services. 
+If necessary RNZ Concert and RNZ Pacific will carry news and information from RNZ National. Parliament will continue to be broadcast on the AM network when the House is sitting. As the country's public service media organisation, RNZ is committed to supporting all New Zealanders. 

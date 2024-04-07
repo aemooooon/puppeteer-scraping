@@ -1,0 +1,13 @@
+Robots are being deployed in ever-greater numbers in factories and also taking on tasks such as personal care or surgery, raising fears over unemployment, wealth inequality and alienation.
+A draft European Parliament motion suggests their growing intelligence, pervasiveness and autonomy requires rethinking everything from taxation to legal liability.
+However, Germany's VDMA, which represents companies such as automation giant Siemens and robot maker Kuka, said the proposals were too complicated and too early.
+The draft motion called on the European Commission to consider "that at least the most sophisticated autonomous robots could be established as having the status of electronic persons with specific rights and obligations".
+It also suggested the creation of a register for smart autonomous robots, which would link each one to funds established to cover its legal liabilities.
+VDMA's robotic and automation department managing director Patrick Schwarzkopf said creating a legal framework with electron persons was "something that could happen in 50 years but not in 10 years".
+"We think it would be very bureaucratic and would stunt the development of robotics."
+However, he acknowledged that a legal framework for self-driving cars would also soon be needed.
+The report said robotics and artificial intelligence may result in a large part of the work now done by humans being taken over by robots, raising concerns about the future of employment and the viability of social security systems.
+It said for tax purposes organizations should have to declare savings they made in social security contributions by using robotics instead of people.
+Mr Schwarzkopf said there was no proven correlation between increasing robot density and unemployment, pointing out that the number of employees in the German automotive industry rose by 13 percent between 2010 and 2015, while industrial robot stock in the industry rose 17 percent in the same period.
+The motion faces an uphill battle to win backing from the various political blocks in European Parliament.
+Even if it did get enough support to pass, it would be a non-binding resolution as the Parliament lacked the authority to propose legislation.

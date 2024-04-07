@@ -1,0 +1,13 @@
+Elon Musk has announced limits to the number of posts readers can access a day, depending on whether their account is verified or not and how old it was.
+Unverified accounts would be limited to reading 1000 posts a day, verified accounts could access 10,000 posts a day, and new but unverified accounts would only be able to see 500 a day. Earlier in the day Musk had announced tighter limits, but they were revised hours later.
+The move was to address extreme levels of system manipulation and data scraping, Musk said. Data scraping is when data from websites is gathered for use elsewhere, increasingly by Artificial Intelligence companies, which increases the load on the sites the data is being provided by.
+The move was risky as it could push users away and undermine Twitter's advertising revenue, New Zealand tech commentator Peter Griffin said.
+"What he's really doing is alienating all those users who are consuming a lot of tweets, they are looking at a lot of tweets, but they are what makes the platform so great," Griffin said.
+"The more tweets people look at, the more ads they look at, so it's risking undermining what is still part of his business model, you can't expect everyone to subscribe to Twitter Blue."
+"If he's really worried about this data scraping by the AI giants, he really needs to come up with a better way to approach it."
+While the limits could encourage some to move to paid verified accounts others might leave the platform, Griffin said. And Musk could be attempting to mask more urgent infrastructure issues Twitter was facing.
+"It's not necessarily the most immediate problem he has, which is actually the stability of the platform and being able to pay the bills to keep the server capacity there to make sure everyone has a good experience at peak times, when there's a lot of traffic on Twitter."
+Last month it was reported Twitter refused to pay its Google Cloud bills.
+New Zealand Social media and advertising agency owner Vaughn Davis was also sceptical the change was primarily aimed at tackling data scraping, and suspected it was a tactic to push people onto verified, paid accounts.
+The change was disappointing and would diminish what users got from visiting the site, he said.
+"It goes right against the diversity and the richness that the platform offers," Davis said.

@@ -1,0 +1,63 @@
+Daisy Ridley sits up in bed and smiles.
+The Star Wars actor runs her fingers through her hair and laughs playfully. She’s about to have sex.
+There are dozens of pornographic videos of Ridley online. They’re easy to find. There are others of Taylor Swift, Emma Watson and Gal Gadot.
+They are all, of course, fake.
+Dubbed “deepfakes,” they’re made with artificial intelligence that can paste a person's face onto another person's body.
+Netsafe and InternetNZ are among those warning this type of fake video could become a dangerous mass phenomenon that could threaten our privacy, safety and even our democracy.
+Deepfakes (a mix of “deep learning” and “fake”) emerged in the final weeks of last year after a flood of phony celebrity porn was uploaded to Reddit. They employ a type of AI called machine learning, which is modelled on the human brain and can adapt and improve without reprogramming.
+To create a deepfake of Daisy Ridley, for example, you would need a batch of photos of the actor - taken from different angles and of different facial expressions - to train the machine learning system. Once it sufficiently understands the nuances of her appearance, it can paste her into a pornographic video.
+In January, using a similar algorithm, a desktop application called FakeApp was launched that allows users to easily create videos of faces that have been swapped for others.
+With relative ease, anyone can now create a deepfake.
+At times, the technology looks crude and unconvincing - the faces glitch and fail to track properly - but it’s improving. Some newer deepfakes are uncanny.
+“I would say the resolution is essentially doubling every year,” says Victoria University design researcher Tom White.
+“Soon - and in fact, it’s already happened - we won’t be able to tell the difference between real and fake.”
+White was ahead of the trend when, in 2016, he developed a Twitter bot called "SmileVector" that can add or remove smiles to photos of people's faces. 
+“I was working on machine learning and wanted to take what I was seeing in the laboratory and put it in a public forum,” he says.
+A few months later, one of his students took his algorithm and created a video involving a real face swapped onto an animated one. White says this is one of the earliest examples of a deepfake.
+SmileVector isn’t limited to manipulating faces - it can also generate fonts and logos - but White says “faces really resonate with people, so I geared it that way”.
+Beyond pornography, deepfakes have the potential to resemble a terrifying Black Mirror episode, says InternetNZ’s policy director, Dr Ellen Strickland.
+“Fake videos have started in the pornographic realm, but politics is another worrying area,” she says.
+Last month, Buzzfeed teamed up with US director Jordan Peele to create a deepfake of Barack Obama calling Donald Trump a “total and complete dipshit.”
+It looks like Obama. It sounds like Obama. The only reason someone watching the video might realise it’s fake is their scepticism that he would say such a thing.
+At the end of the video, Peele, impersonating the former President, says “this is a dangerous time. Moving forward, we need to be more vigilant with what we trust from the internet”.
+Dr Strickland says fake videos could be made with far more nefarious motivation. A manipulated video could be used to plunge stocks, ridicule powerful people and manipulate the public. A fake video of an assassination, for instance, could spread panic, cause riots and spark major civil unrest.
+“The power of social media to quickly spread content is quite scary. Millions of people can see or watch something before agencies have a chance to act,” she says.
+And the scariest part? “Technically, from what we understand, fake videos can be very difficult to detect. We’re a way off from being able to tell, but it is something people and agencies around the world are working on.”
+Tech commentator Peter Griffin says the democratisation of deepfake technology is inevitable.
+“We’ve already FakeApp, and Snapchat has been incorporating this type of technology with its filters for awhile, but it will get to the point where it’s on everyone’s phones,” he says.
+“You’ll eventually have your own digital self that looks exactly like you, and you’ll be able to make it do whatever you want.”
+Griffin, who was formerly director at Science Media Centre, says deepfakes hint at the trouble ahead for machine learning technology.
+“This could be used for revenge porn, for instance - for blackmail or bullying purposes. It won’t be long before Netsafe has to get involved.”
+Netsafe chief executive Martin Cocker agrees, and says the law would theoretically be on the victim’s side.
+“Luckily, our Harmful Digital Communications Act wouldn’t differentiate between a real or fake video - someone can be prosecuted if there’s an attempt to harm someone.”
+He, too, says New Zealand is not immune from damaging fake videos.
+“It is on our radar. It has to be. It’s an emerging technology that could become a major concern.”
+“It’s a dangerous realm because the technology is advancing at such a rate ... it’s a learning process right now for both the public and different agencies.”
+He says beyond fake celebrity porn, there hasn’t been widespread abuse of deepfake tech - yet.
+“But given what we know about how people misuse other technology, we can only assume that it will become an increasing concern. Because fake videos can be so convincing, you’re essentially asking people to be skeptical of everything they see, which is a good default position.”
+But is it? Dr Strickland says cynicism is a double-edged sword.
+“The growth of fake videos could lead to widespread deniability of any footage. Anyone would be able deny everything,” she says.
+“Fake news means people are increasingly skeptical of what they read. Fake videos could mean seeing would no longer be believing.”
+Image manipulation has already invaded the political realm.
+An image of Parkland shooting survivor Emma Gonzalez ripping up a copy of the US Constitution went viral in March. It later emerged the image had been doctored by gun rights lobbyists in an attempt to discredit the teenager. The original photo had been of Gonzalez tearing up a paper target from a shooting range.
+But the image had already been planted in people’s minds, and a false memory can warp our perception, whether we realise it’s false or not.
+In 2010, Slate experimented with this idea by showing people five fabricated political photos, including Obama shaking hands with then-Iranian President Mahmoud Ahmadinejad.
+Despite being told that what they had seen was false, about 15 percent were later convinced the event had happened. This rate was magnified when the fake photo fit with their political worldview.
+There are other major technological advancements happening in machine learning.
+Just this week, Google announced a “new virtual assistant” that can hold a conversation with a human over the phone.
+In a demo recording that was played at the company’s annual developer conference, a robot arranged a hair appointment with a real person. The robot paused and ummed and ahhed like a human.
+The audience was both impressed and stunned, and tech commentators have subsequently called the technology creepy and deceptive. They said allowing a Google program to answer your phone, make and receive payments, and set appointments raised major privacy concerns.
+So why would Google develop this type of artificial intelligence?
+In a blog post published on Tuesday, the company’s answer was clear - to help people.
+And there’s the rub. Dr Strickland says technology is rarely created to be dangerous or harmful. It’s meant to connect people and improve their lives.
+Advancements in AI happen at universities, in labs or in the homes of geniuses who do revolutionary things simply because they can.
+The Reddit user behind the deepfakes was interviewed by Vice in December and said he developed his algorithm only because he’s a programmer with an interest in machine learning.
+“Every technology can be used with bad motivations, and it's impossible to stop that … [but] I don't think it's a bad thing for more average people [to] engage in machine learning research.”
+Tom White hasn’t updated SmileVector since 2016. He likes the idea of it representing a point in time: “I feel like I made a contribution, and leaving it in that old state shows what we were able to do back then.”
+He has since had countless conversations about the ethics of machine learning with his students, and has developed his own watermark that he puts on any image he has digitally manipulated.
+“I think there are instances when you do want to be subversive, but disclosing what you’re doing in a clear way is vital.”
+Despite the dangers of deepfakes, he says they have their upside.
+“The main advantage is being able to democratise media,” he says.
+“This could have great benefits in filmmaking, for instance. Let’s say you wanted to digitally recreate an actor who died during filming - it’s great that computers can provide more help in the creation of media.”
+Since the release of FakeApp, people have been have begun inserting Nicolas Cage into famous movies.
+You can now watch Cage exploring a temple in Raiders of the Lost Ark, battling the Terminator, or taking a bath in front of Superman.

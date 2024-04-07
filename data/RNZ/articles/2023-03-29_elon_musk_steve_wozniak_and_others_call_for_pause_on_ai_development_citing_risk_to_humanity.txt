@@ -1,0 +1,5 @@
+The letter, issued by the non-profit Future of Life Institute and signed by more than 1000 people including Musk, Apple co-founder Steve Wozniak and Stability AI CEO Emad Mostaque, called for a pause on advanced AI development until shared safety protocols for such designs were developed, implemented and audited by independent experts.
+"Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable," the letter said.
+The letter also detailed potential risks to society and civilisation by human-competitive AI systems in the form of economic and political disruptions, and called on developers to work with policymakers on governance and regulatory authorities.
+The letter comes as EU police force Europol on Monday joined a chorus of ethical and legal concerns over advanced AI like ChatGPT, warning about the potential misuse of the system in phishing attempts, disinformation and cybercrime.
+Since its release last year, Microsoft-backed OpenAI's ChatGPT has prompted rivals to launch similar products, and companies to integrate it or similar technologies into their apps and products.

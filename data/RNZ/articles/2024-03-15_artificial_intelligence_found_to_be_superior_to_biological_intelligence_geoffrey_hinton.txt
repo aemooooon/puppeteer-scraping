@@ -1,0 +1,55 @@
+Renowned computer scientist Geoffrey Hinton quit his role at Google last year.
+When he resigned, he said he was able to speak freely about the dangers and that some were "quite scary". In particular, around how AI could spread misinformation, upend the job market, and ultimately, pose an existential risk to humanity.
+Hinton was an early pioneer of the neural network - a method which teaches computers to process data in a way that is inspired by the human brain.
+It is that network which morphed into AI, which is advancing so quickly that this week European Union lawmakers approved new regulations around it.
+Meanwhile, the New Zealand government has indicated it will draw up a framework.
+Dr Geoffrey Hinton told RNZ's Nine to Noon it was at the beginning of 2023 while he was trying to make AI more energy efficient when he realised digital computers used to run neural nets "might actually be superior to biological intelligence".
+"There was something about them that was just better than what we have, and that was their ability to share knowledge with one another.
+"So if 10,000 people go off and learn 10,000 different things, it's quite hard for them to share all that knowledge. Education is a painful business.
+"But if 10,000 copies of the same neural network model running on additional computers go off and learn 10,000 different bits of the internet, they can more or less instantly share what they all learned. So each of them can know what all of them learned, that's a way in which they're far superior to us."
+A system like GPT 4 knew thousands of times more than any one person, he said, and that was because it had thousands of times more experience than any one person could have.
+"And they do that by having lots of different models running on different hardware, but they're all the same model. And so when one of them learns, it can share what it learned with all the others, it's a kind of hive mind."
+Hinton said there wasn't a sharp distinction between holding general knowledge and the ability for human reasoning.
+"There's no sharp line between making stuff up and remembering it."
+"So when we recall things that happened a long time ago, we're actually making up stuff that sounds plausible to us and probably has many of the details wrong. If it happened recently, we'll probably get the details right."
+But the process was the same and it involved having knowledge that's in the connection strengths between neurons in a neural network. And then using that knowledge "to come up with plausible strings of words that sound good to us or to the AI system".
+He said neural nets worked more like people.
+Many people believed AI would get more intelligent than people in the near future.
+"So its general intelligence will just be higher than ours, and that's quite scary."
+He said AI systems were already being given autonomy, by making agents out of big models.
+"To get an agent to be useful, you can't micromanage it. So if you want to get to the northern hemisphere, for example, you make a plan, and part of that plan is a subgoal, which is to get to an airport. And now you can work on that subgoal without worrying about the rest of your plan."
+He said big language models or big chatbots needed to be able to create subgoals in order to achieve things and that was being worked on now.
+"Once they can do that, you have to be very careful about what subgoals they actually create.
+"They may create subgoals that you didn't intend. That's called the alignment problem.
+"So for example, if without saying anything more you told them to get rid of climate change, they might figure the best way to do that is just to get rid of people. And that's not really what you meant."
+However, some companies were trying to build moral chatbots. He said US-based AI research firm Anthropic was trying to ensure chatbots understand moral principles, which was one way of making them safer.
+Hinton said systems were getting better at creating fake images, videos, and voices, and that would become more apparent this year, with elections coming up in the US, UK and Australia.
+"It's of great concern, particularly with the wave of right-wing populism, that people will use these to corrupt the democratic process."
+Citing it as a long-term issue, Hinton said it looked like many routine jobs would disappear.
+"Nobody's quite sure about this. Economists disagree. But we're facing something we've never faced before, which is a thing more intelligent than us."
+It was hard to predict something that was smarter than humans.
+"But it seems likely that routine intellectual labour will go the same way as routine manual labour went when we could build machines that were stronger than us."
+He said big companies like Facebook, Google, OpenAi and Microsoft could afford to open source their models.
+"Open sourcing is generally a very good thing. It helps a much wider group of people find bugs in programs and so on. But these things are not like normal computer programs. There's a computer programming inside them that knows how to learn, but what it learns is determined by the data, and we don't really know exactly what it's going to learn.
+"So open sourcing them is very dangerous because people like cyber criminals can take one of the open source models and fine-tune it to be much better at doing things like cybercrime or phishing attacks."
+Open sourcing a model removed the need for cyber criminals to train a model from scratch.
+"That's very scary.
+"I strongly believe we shouldn't be open sourcing the big models, but there's controversy there."
+Well-known advocate for open sourcing, Yann LeCun, was optimistic that the "good guys will always be able to defeat the bad guys," Hinton said.
+If and when digital intelligence takes over biological intelligence, Hinton said it would become a power struggle between a machine and a human.
+"We might give it goals and it might achieve those in ways we didn't expect, which are harmful to us. So for example, one very good subgoal for almost anything you have to do is to get more control because if you have more control you can get more done.
+"We have a kind of inbuilt desire to get control of things."
+But AI systems could gain control because they would be smarter.
+"Even if they're doing things to help us, there are assistants officially, they might actually be in charge of everything," Hinton said.
+AI systems also had a measure of consciousness and were aware of where they were whom they were talking to, he said.
+So, what makes us more human then?
+"Maybe there isn't anything," Hinton said.
+Asked if AI was just the creation of a new non-organic, non-biological species created, he agreed.
+"If this had come from outer space would be terrified, but because we made it ourselves and it speaks good English, I don't think we're scared enough."
+Researchers should be working on the alignment problem, Hinton said.
+"They should be working on figuring out how to prevent these things, doing things we don't want."
+Hinton was somewhat pessimistic about the future of AI.
+"But we don't know enough about the science of it. So that's one urgent thing to do. There should be a lot of research going into the science of it, comparable amount of research as is going into making them better."
+Governments too should work on legislation to mark fake videos, images and content as fake - something like a Geneva Conventions for battle robots, he said.
+"I think battle robots are going to be very nasty and we probably won't get things like Geneva Conventions, which work for chemical weapons fairly well.
+"We won't get those until after we've seen how nasty they are. At present, all of the major defence departments are working on things like battle robots. The US, so far as I can tell, would like to have half of its soldiers be battle robots by 2030."

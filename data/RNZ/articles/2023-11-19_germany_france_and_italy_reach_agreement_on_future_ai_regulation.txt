@@ -1,0 +1,13 @@
+An agreement on how artificial intelligence should be regulated in the future has been reached by Germany, France and Italy, according to a joint paper seen by Reuters, which is expected to accelerate negotiations at the European level.
+The three governments are in favour of binding voluntary commitments for both large and small AI providers in the European Union.
+The European Commission, the European Parliament and the EU Council are currently negotiating how the bloc should position itself in this new field.
+The Parliament presented an "AI Act" in June, with the aim of averting safety risks from AI applications and avoiding discriminatory effects, but without slowing down the innovative power of this new technology in Europe.
+During the discussions, the European Parliament proposed that the code of conduct should initially only be binding for major AI providers, which are primarily from the US.
+However, the three EU governments have warned against this apparent competitive advantage for smaller European providers. This could lead to less trust in the security of these smaller providers and therefore fewer customers, they said.
+The rules of conduct and transparency should therefore be binding for everyone, they added.
+Initially, no sanctions should be imposed, according to the paper.
+However, if violations of the code of conduct are identified after a certain period of time, a system of sanctions could be set up. In the future, a European authority would monitor compliance with the standards, the paper said.
+Germany's Economy Ministry, which is in charge of the topic together with the Ministry of Digital Affairs, said laws and state control should not regulate AI itself, but rather its application.
+The development of AI models that are not yet in use, or have not yet been launched on the market, should not be regulated separately by the state.
+The German government is hosting a digital summit in Jena, in the state of Thuringia, on Monday and Tuesday (local time) which will include representatives from politics, business and science.
+Issues surrounding AI will be on the agenda when the German and Italian governments hold talks in Berlin on Wednesday.

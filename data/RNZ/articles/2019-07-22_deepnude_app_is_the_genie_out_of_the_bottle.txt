@@ -1,0 +1,15 @@
+The DeepNude app used artificial intelligence to create realistic-looking nude photos of women - and it was only women, it wasn't designed to work on men.
+Curtis Barnes is a legal researcher and artificial intelligence expert who co-authored a report on deepfakes for New Zealand's Law Foundation.
+He told Kathryn Ryan that DeepNude is the latest in a long line of technologies which are using artificial intelligence to produce better and better representations of humans in video or photograph.
+Someone using  DeepNude would upload a photograph to the app and using various artificial intelligence paradigms, it would reproduce a new photo which had the clothes of the person stripped away.
+“Obviously not the actual body of the women in the photograph but an artificial intelligence’s attempt to recreate what it thought that women’s body would look like in that particular photo.”
+The app was trained using 10,000 photographs of naked cisgender women.
+“It seems probably personal preference and perhaps a commercial decision because of course they were trying to sell this app, rather successfully actually, for up to $US50 a pop.”
+Barnes found New Zealand law would cover harmful or use of the photographs.
+“For instance, if you blackmail somebody with a photograph of them that’s been synthetically generated, it’s still going to be blackmail. It doesn’t matter if it was created by DeepNude or if it was really taken or if you had no photograph at all and if you slander them or harm their reputation or do harm to their company or things like that, this is all going to still apply.”
+The Harmful Digital Communications Act could be helpful to deal with this phenomenon, he says.
+“Any communication which can cause harm to somebody, serious harm as assessed in the courts, could be found to cross a line and have a criminal response to it.”
+DeepNude may have gone from app stores, but the software was copied because the code was provided as opensource on the internet.
+It’s not something you’d want to go for looking for, Barnes says.
+“Because of the popularity of the nude, it’s become a place for cyber criminals to store malware, obviously because they know people who go looking for DeepNude are going to download it and may be trepidatious about revealing how they got certain viruses on their computer systems.”
+The solution is not going to be entirely legal or technological, he says.

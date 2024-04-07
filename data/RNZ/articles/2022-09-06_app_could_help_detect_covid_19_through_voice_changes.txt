@@ -1,0 +1,11 @@
+The study out of Maastricht University in the Netherlands, used artificial intelligence (AI) to detect Covid infection in people's voices.
+Covid infection usually affects the upper respiratory track and vocal cords, which can lead to changes in a person's voice.
+Wafaa Aljbawi, a researcher at Maastricht University's Institute of Data Science and her supervisors Dr Sami Simons, a pulmonologist at the University's Medical Centre, and Dr Visara Urovi, also from the Institute of Data Science, decided to investigate if it was possible to use AI to analyse voices in order to detect Covid infections.
+The researchers found their AI model was more accurate than lateral flow or rapid antigen tests and cheaper, quicker and easy to use.
+Aljbawi presented findings to the European Respiratory Society International Congress in Barcelona, Spain on Monday.
+She told the congress that the AI model was accurate 89 percent of the time, whereas the accuracy of lateral flow or rapid antigen tests varied widely depending on the brand.
+She said "these promising results suggest that simple voice recordings and fine-tuned AI algorithms can potentially achieve high precision in determining which patients have Covid-19 infection."
+Its accuracy and cost effectiveness means the technology could be used in low-income countries where PCR tests are expensive or difficult to distribute.
+"Such tests can be provided at no cost and are simple to interpret. Moreover, they enable remote, virtual testing and have a turnaround time of less than a minute.
+Aljbawi said the AI testing could also be used at the entry points for large gatherings, which would enable rapid screening of an entire population.
+The researchers said the accuracy of their results now need to be validated.

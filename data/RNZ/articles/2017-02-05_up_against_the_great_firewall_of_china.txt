@@ -1,0 +1,42 @@
+The Great Firewall of China.
+Technology magazine Wired is often credited with coining the term back in 1997 to describe Chinese government laws and technologies to regulate and censor the Web.
+Selected foreign sites are completely blocked from view today - at least in theory -  and key words can be filtered out of online searches. Chinese corporate laws oblige domestic and foreign internet companies doing business there to co-operate.
+China's national parliament approved a new cybersecurity law last November which prohibits use of the internet for "inciting subversion of the national regime" or "the overthrow of the Socialist system."
+ 
+Also banned is inciting separatism or ethnic hatred, "endangering national unity," or "fabricating" or disseminating false information about the economy.
+Article 37 of the new law requires "critical information infrastructure operators" to store users' data on Chinese territory and Article 24 requires internet providers to demand the identity of customers.
+ 
+This would make it much easier for security services to track down individuals suspected of transgressing the law.
+
+“In law and in practice, China is creating the world’s largest online thought prison,"
+said The Washington Post. "It turns the idea of the Internet as a force for freedom on its head."
+
+Ren Xianling, the vice minister of China's top internet authority, said the process was akin to "installing brakes on a car before driving on the road".
+Chinese cyber police also watch over Chinese internet users - and foreign visitors.
+"Snoops sniff data packets, including the ones bringing you these words. The idea is to look for harmful foreign influences," New Zealand IT journalist and commentator Bill Bennett wrote on his blog from Shanghai last year.
+"Google isn't there, Facebook isn't there. In the past sites like the Economist were blocked," he told Mediawatch.
+"In the past two years, it's become more sophisticated. Now they will pick out stories they don't want people to see rather than block the entire site," he said. 
+"You are quite often diverted to Chinese language sites when you're looking for things. The frustrating thing is how it changes. What might have worked for you half an hour ago might not work later on," he said.
+Savvy internet users all over the world get around geo-blocking with the use of virtual private networks (VPNs) and proxy servers to disguise their location.
+Bill Bennett says these are widely used in China - but frustrating.
+"My VPN would connect and work for a while, but every now and then it would drop out," he said. "The word in the computer community is that there's a form of artificial intelligence looking for VPNs and actively trying to block them. The technology is bang up-to-date. You've got to remember that this is where the things are made. They are world class," said Bill Bennett.
+Earlier this month, China's IT ministry announced a "clean up" of unauthorised internet connections, including VPNs. Companies offering the service must be officially vetted to keep operating, said the ministry.
+While dealing with the Great Firewall of China is a hassle for foreigners there, it is a genuine headache for journalists in Hong Kong.
+Since 1998, Hong Kong been part of the PRC but under the “one country two systems” arrangement, Hong Kong has its own laws, elected assembly and independent media.
+Yuen-Ying Chan is a director and professor at Hong Kong University's Media Centre and a founder member of the International Consortium of Investigative Journalists - the outfit which co-ordinated the release of the Panama Papers data earlier this year.
+"China is the biggest story in the world. Its the second largest economy. Chinese money is going everywhere around the world. It's really important to report that," she told Mediawatch.
+In August 2013, she won an international award her for “raising a new generation of questioning, curious and fair journalists right on the doorstep of mainland China”.
+How do reporters get news and information in and out of Mainland China under with such strict media control in place? 
+"There are some stories published here that will be blocked in China straight away," she said.
+She cites the ICIJ reports that close relatives of Chinese officials had offshore accounts and companies identified in the Panama Papers leak.
+"There are red-line areas, but there is also space where you can write good stories," she said.
+Last year, a massive explosion devastated the port of Tianjin. About 170 people died and hundreds were injured.
+"Reporters rushed to the scene but within a week orders came down. Officials said: 'That's enough,' she told Mediawatch. 
+"In China you have reporters racing against time to get stories out before orders come down. In spite of censorship, people push the envelope to tell good stories," she said.
+"A lot of stories now get up first online and on social media. The internet had created a huge space for expression. It's monitored and censored but the words get out very quickly. Stories taken down from websites have already gone out on social media. We have a generation of Chinese young people better informed than ever before," she said."
+In 2006, she strongly criticized the Google for censoring its Chinese service  calling it "a missed opportunity to help nurture free journalism in the country"
+"There's an irony here. On one hand (the government) wants control, but it is also promoting digital media. It  understands 'the power of digital, but it's trying to control the uncontrollable." she said.
+Chinese state-owned media answer to China's ruling Communist Party. President Xi visited major media outlets in January to reinforce that message.
+Hong Kong has private ownership and a free-press tradition, but Yuen Ying Chan says increasingly they have owners from mainland China and owners with "vast business interests there" which can create conflicts of interest. 
+In the New York Times Yuen Ying Chan wrote about Beijing "gaining more control" over Hong Kong media. 
+Journalism there will become “darker and more complicated," she warned.

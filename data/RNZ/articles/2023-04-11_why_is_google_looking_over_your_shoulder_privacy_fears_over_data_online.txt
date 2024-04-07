@@ -1,0 +1,59 @@
+Statistics New Zealand, Inland Revenue, ACC, the Ministry of Social Development, Te Whatu Ora, city councils and even RNZ are among the agencies using the service - part of the Google Marketing Platform brand - which tracks and reports website traffic.
+The biggest worry around the 2018 Census was the lack of data - with one in seven New Zealanders failing to fill it in.
+Technology commentator and programmer Geoff Palmer was one of them - but unlike many others, this was not because he did not know his way around online.
+He was worried about the potential for online spying.
+For the 2023 Census he "naively" assumed Stats NZ would have "upped its game", he said.
+However, using the browser add-on Lightbeam he found by the time he actually started answering the Census questions, he was connected to 10 "third parties", including Google Analytics, YouTube, and DoubleClick, another Google-owned data harvesting platform.
+"You're responding to very personal questions about your age, your gender, your religious beliefs, all these sort of things. And I'm just wondering why Google is looking over your shoulder while you're answering these questions?"
+The Census privacy page says it has "enabled IP anonymisation (anonymisation of the Internet Protocol, or unique address that identifies a device on the internet or a local network) for its Universal Analytics.
+"This means Google Analytics anonymises your IP address 'as soon as technically feasible'. We never see your IP address via Google Analytics."
+However, Google Analytics' own terms and conditions said data collected included location, browsing history, apps used and personal data like age and gender, Palmer noted, and "as soon as technically feasible" did not seem very specific.
+"It seems most government departments and agencies are using Google Analytics, with the notable exception of the spy agency, the Government Communications Security Bureau."
+The official in charge of the Census, Deputy Government Statistician Simon Mason, said Stats NZ used Google Analytics to collect information about when the website was being used, for how long and on what devices, in order to "enhance the experience" for people.
+Neither Stats NZ nor Google were linking that information to individuals, he said.
+"We've taken huge steps to ensure people's privacy is protected, I mean if you can't have trust and confidence in the Census, it's a big problem for our authorising environment.
+"So it's really important that people do have trust and confidence in the Census and that the data is anonymised."
+However, data privacy specialist Kent Newman said it was not enough for government agencies to simply say "you can trust us".
+"That's the opposite of what we should be doing. You should be demonstrating that you are a trustworthy service."
+Stats NZ's assurances about privacy being a taonga were "somewhat disingenuous", he said.
+"In their privacy statement they're saying this kind of cheeky thing: 'We won't use it for this purpose. We won't be able to tell who you are.' Google will.
+"It appears that Stats NZ is failing to perform its core function, which is looking after our data."
+Newman, who previously raised the alarm about the police use of Facebook Pixel, said it was "a systemic problem" and many government agencies were guilty of a cavalier attitude towards privacy.
+"Partly it's a lack of resources, but part of it is simply the cultural approach of 'She'll be right'.
+"Artificial Intelligence is now upon us, and New Zealand is not even dealing with cookies, which have been regulated in the EU for ten years or so.
+"The issue is we're going to get a reputation for doing it badly, and that means that hackers overseas are going to look at us as a bit of a soft target."
+IT security consultant Daniel Ayers said he would be "cautious" about accepting any claim that Google was anonymising information.
+"Its entire business model is based on gathering information about people for the purposes of targeting advertising at them. That's why they do everything they do.
+"This is a worry when you're talking about government websites, because people have no choice but to use them, they may even be required by statute to do."
+The main question was what information was being disclosed to Google and whether that was a privacy risk.
+So while it may not very much matter if Google knew someone was filling in the Census, sometimes the pages people were viewing could reveal potentially sensitive information about them, Ayers said.
+"For instance, if you're looking at the IRD site for information about what to do if you can't pay your taxes, or details on family support available if you leave your husband.
+"Can Google identify the person who is doing that? And if they can, it's a severe privacy risk."
+Under the Privacy Act, there is no "risk" to privacy unless a person is individually identifiable.
+"But it's not that simple. People interact with Google dozens of times a day, and they could be identified while browsing."
+IT security consultant Tony Grasso from Titanium Defence, the former cyber lead at the Department of Internal Affairs, said government departments had "genuine reasons" for wanting to know how people were using their websites.
+The public was quick to complain when website were not user-friendly - and using a commercial product was acceptable "and cost-effective" in many cases, he said.
+"Otherwise we're putting government in a really awkward position and they end up doing nothing because they're too afraid to do anything and being called out.
+"So I do think it needs a guideline and a framework for people to use."
+The important thing was that someone was checking that data was "OK for export", Grasso said.
+However, Council for Civil Liberties chair Thomas Beagle said New Zealanders should be able to use government websites without having their information shared with marketing companies.
+"It seems odd to me that our government is wanting to give information about our people to a foreign company. And it kind of boggles my mind that they think this is a good idea."
+It was "safe to assume" that Google was not offering its services to improve New Zealand government websites, he said.
+"They're offering it because they can track people to do a better job of marketing. And of course Stats NZ is probably using it for cheap or free because Google wants this information.
+"There are other tools out there you can use to do exactly the same thing, without feeding that information back to Google."
+So who is checking that New Zealanders' private data is cleared for export?
+Internal Affairs issues the "web usability standards" for government websites, including expectations regarding privacy - but it does not check up to see they are being followed.
+Government chief privacy officer Katrine Evans said agencies adopting an IT product must ensure there were no harmful effects on people - "and the more sensitive the information involved, the more careful they have to be".
+"Our role is to set expectations for what government agencies need to check, what they should be telling people and so on, so people can be sure their information is not being misused.
+"We don't do that for the agencies, the agencies have to do that for themselves."
+Anyone had the right to ask government agencies or other organisations what personal information they held about them and the reason they were holding it, Evans said.
+"And if they're not satisfied with the response, they can complain to the Privacy Commissioner, who is the regulator."
+A spokesperson for the Office of the Privacy Commissioner told RNZ it had not received any complaints about Google Analytics.
+The Privacy Commission does not use Google Analytics for its own website.
+"We went with a New Zealand-based provider who was able to help meet our commitment to the public around privacy assurance."
+The Ministry for Social Development said it used Google Analytics to collect IP and browser information to help with "security".
+A spokesperson said its own systems removed any information that might identify users and sent the rest to Google Analytics to track how its website was being used.
+Corrections said its use of Google Analytics was confined to website traffic and performance and did not involve any personal identifiable information, beyond the general location of the person accessing the site.
+New Zealand police said it used the Google Analytics tool to "collect and view non-personal visitor statistics".
+In a written response to RNZ's questions, a Google spokesperson said Google Analytics "helped publishers understand how well their sites and apps are working for their visitors - but not by identifying individuals or tracking them across the web".
+"These organisations, not Google, control what data is collected with these tools, and how it is used.

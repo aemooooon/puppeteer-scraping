@@ -1,0 +1,36 @@
+Neil Potts, Facebook's public policy director, said the first-person livestream of the shooting "was a type of video we had not seen before", according to Bloomberg.
+The livestream, recorded with a GoPro camera mounted on the shooter's head, tricked Facebook's AI system into inaction, he explained. Mr Potts made the remark while testifying before the Home Affairs select committee (in the UK Parliament) investigating hate crimes.
+"This is unfortunately an adversarial space. Those sharing the video were deliberately splicing and cutting it and using filters to subvert automation. There is still progress to be made with machine learning."
+The explanation comes after Facebook was ridiculed by New Zealand Prime Minister Jacinda Arden for not moving fast enough in removing the livestreamed attack. The livestream remained up for nearly 20 minutes before Facebook was alerted by New Zealand police officers that the attack was being broadcast.
+Shortly after the attack, Ms Ardern said Facebook and other major tech companies bear some "responsibility" for the video.
+Ms Ardern and French President Emmanuel Macron plan to co-chair a meeting in Paris of global leaders and technology company executives on 15 May in a bid to curb the promotion of violent extremism online. They will seek agreement on a pledge, entitled the "Christchurch Call," to eliminate terrorist and violent extremist content on social media.
+Facebook, Twitter and YouTube have faced tough questions from frustrated MPs about why they are still failing to remove hate speech on their platforms.
+Facebook was challenged on why copies of the video showing the New Zealand mosque shootings remained online.
+Meanwhile, YouTube was described as a "cesspit" of neo-Nazi content.
+All three said they were improving policies and technology, and increasing the number of people working to remove hate speech from their platforms.
+But MPs seemed unimpressed, with several saying the firms were "failing" to deal with the issue, despite repeated assurances that their systems were improving.
+"It seems to me that time and again you are simply not keeping up with the scale of the problem," said chair Yvette Cooper.
+Labour MP Stephen Doughty said he was "fed up" with the lack of progress on hate speech.
+Executives from the three platforms were asked if they were actively sharing information about those posting terrorist propaganda with police.
+All three said they did when there was "an imminent threat to life" but not otherwise.
+Labour MP Yvette Cooper also asked the executives whether the decision by the Sri Lankan government to block social media sites in the wake of the recent bombings in its country would happen "more often because governments have no confidence in your ability to sort things".
+Marco Pancini, director of public policy at YouTube, said: "We need to respect this decision. But voices from civil society are raising concerns about the ability to understand what is happening and to communicate if social media is blocked."
+Facebook reiterated that it had dedicated teams working in different languages around the world to deal with content moderation.
+"We feel it is better to have an open internet because it is better to know if someone is safe," said Mr Potts. "But we share the concerns of the Sri Lankan government and we respect and understand that."
+Mr Doughty asked why so much neo-Nazi content was still so easily found on YouTube, Twitter and Facebook. "I can find page after page using utterly offensive language. Clearly the systems aren't working," he said. He accused all three firms of "not doing your jobs".
+MPs seemed to be extremely frustrated, with several saying that concerns had been raised about specific accounts repeatedly, and yet they still remained on all platforms.
+"We have a number of ongoing assessments. We have no interest in having violent extremist groups on our platform but we can't ban our way out of the problem," said Twitter's head of public policy, Katy Minshall.
+"If you have a deep link to hate, we remove you," said Mr Potts.
+"Well you clearly don't, Mr Potts," replied Mr Doughty.
+Describing YouTube as a "cesspit" of white supremacist material, Mr Doughty said: "Link after link after link. This is in full view."
+"We need to look into this content," said Mr Pancini. "It is absolutely an important issue."
+He was asked whether YouTube's algorithms promoted far-right content, even to users who did not want to see it.
+"Recommended videos is a useful feature if you are looking for music but the challenge for speech is that it is a different dynamic. We are working to promote authoritative content and make sure controversial and offensive content has less visibility," he said.
+He was pressed on why the algorithms were not changed.
+"It is a very good question but it is not so black and white. We need to find ways to improve quality of results of the algorithm," Mr Pancini said.
+Ms Cooper asked Mr Pancini why she personally was being recommended "increasingly extreme content" when she searched on YouTube.
+"The logic is based on user behaviour," he replied. "I'm aware of the challenges this raises when it comes to political speech. I'm not here to defend this type of content."
+She seemed particularly frustrated that she had asked the same questions to YouTube 18 months ago and yet she felt nothing had changed because she was still seeing the same content.
+Meanwhile, the social media giant said it was preparing itself for a massive fine by US federal authorities investigating its handling of users' personal information. 
+Facebook said it had already set aside $3 billion US to cover legal expenses, but acknowledged the final cost to the company could reach $5 billion. 
+The company has come under public scrutiny for offering more of its users' data to companies than it had previously admitted.

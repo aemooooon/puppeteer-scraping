@@ -1,0 +1,26 @@
+Iris Data Science is working on the prototype of its Sheep NN technology which will eliminate the need for costly electronic identification or ear-tagging of animals in future.
+The project has received a $40,000 grant from Callaghan Innovation and the company is aiming to prototype the software this year.
+"Sheep face images are collected and fed into a machine-learning model, which gradually learns to identify sheep by finding recognisable features," Iris Data Science's managing director Greg Peyroux said.
+In short, the same facial recognition technology which was used on humans at airports, and in myriad other ways around the world, could be used to identify individual stock on farms.
+In future, the technology could assist with tracking animal locations to prevent hustling, monitoring animal behaviour, estimating weight, assessing for disease and animal welfare, or estimating parentage without the need to observe lambing or DNA testing.
+The team had recently begun collecting data to develop similar facial recognition technology for other stock including cattle and goats.
+Mr Peyroux said the project was the result of many years of discussions.
+"We've been working on it quite hard now for the past 12 months," he said.
+"The idea is the technology will replace tags of various sorts - the plastic kind and the more expensive electronic IDs. It will lead into other models which will help with productivity and other gains around individual animals.
+"The idea came from discussions with colleagues ... the notion was farmers could tell what their animals look like on an individual basis and perhaps they can even tell what some of the offspring look like.
+"So we were mulling it over for many years and then more recently a client said to us 'Can you make it easy to tell who's who in the paddock?' and so we workshopped it with them and came up with facial recognition."
+Mr Peyroux said he expected the technology would be cheaper than buying electronic tags and it would also be easier on the animals.
+"Currently with the plastic tags it's quite hard to identify an animal and it doesn't link to digital systems.
+"The project we're working on not only will it identify them then and there, it will also be able to do things such as working out what their welfare is like, what's the composition of their body like so they can be as healthy as possible and increase their productivity gains and maybe also have a positive environmental impact."
+They had been working with several farmers in Southland, Otago and Canterbury in recent months and hoped to showcase the technology on one of them.
+"We are quite keen to get this being used for real on a farm and invite people to come and see it in action," Mr Peyroux said.
+The company's lead data scientist, Benoit Auvray, said the technology would be similar to a "cellphone camera" which would sit in the race and identify the animals as they came through in real-time without the need for internet connectivity.
+"Every time the animals come into the shed for whatever reason - mating, scanning, weaning - they get re-identified and the library of images for each animal keeps increasing," he said.
+While your average person might struggle to identify individual sheep, the technology builds on what's already happening with facial recognition of humans and allows computers to do the hard yards.
+"There are a few differences with sheep, they look very similar, there's wool growth, and then you can't ask a sheep to stop and look at the camera directly but we've got hours and hours of high-resolution footage now and that allows us to build machine-learning models to do facial recognition accurately," Mr Auvray said.
+The technology was incredibly accurate on a small number of animals at present and the team was working on scaling that up to large farm flocks.
+Mr Peyroux said making it appealing to the rural sector was another matter.
+"There's going to have to be a good return on investment and it's going to have to be very easy to use and very easy to adopt," he said.
+"We've been told very clearly ... if it isn't easy and it's expensive, it's just not going to work."
+It was too early to say how much it would cost to roll it out onto a farm, but Mr Peyroux said it would be "certainly be a lot cheaper than electronic tags and it'll be attractive compared to the plastic tags".
+Deep learning technology was the future of farming, Mr Peyroux said.

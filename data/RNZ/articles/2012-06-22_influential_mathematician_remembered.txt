@@ -1,0 +1,8 @@
+He is best known for his work cracking the Germans' secret codes during World War II.
+Turing, who died in June 1954, is also regarded as one of the pioneers of computer technology.
+Turing studied mathematics at Cambridge University, and subsequently taught there, working in the burgeoning world of quantum mechanics.
+It was at Cambridge that he developed the proof which states that automatic computation cannot solve all mathematical problems. This concept, also known as the Turing machine, is considered the basis for the modern theory of computation.
+In 1936, Turing went to Princeton University in America, returning to England in 1938.
+He began to work secretly part-time for the Government Code and Cypher School. On the outbreak of war he took up full-time work at its headquarters, Bletchley Park.
+There he played a vital role in deciphering the messages encrypted by the German Enigma machine, which provided vital intelligence for the Allies. He took the lead in a team that designed a machine that successfully decoded German messages.
+In 1949, he went to Manchester University where he directed the computing laboratory and developed a body of work that helped to form the basis for the field of artificial intelligence. In 1951 he was elected a fellow of the Royal Society.

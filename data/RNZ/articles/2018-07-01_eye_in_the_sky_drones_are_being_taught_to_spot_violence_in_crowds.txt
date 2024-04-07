@@ -1,0 +1,31 @@
+Imagine your every move being watched and analysed by drones designed to predict - and stop - violent behaviour.
+It sounds like a scene from Black Mirror, but researchers are trialling a drone surveillance system that does just that - and it could come to a festival near you.
+The ominously-named Eye in the Sky program uses artificial intelligence that compares live-streamed drone footage to violent actions such as punching, stabbing, kicking and strangling.
+Any movements it deems aggressive are flagged with law authorities.
+The program, developed by researchers in India and the UK, will be trialled at two events on Indian university campuses this year - a technology fair and a music festival.
+Lead researcher Amarjot Singh from the University of Cambridge hopes the technology will help close gaps in surveillance and lead to a reduction in crime.
+"The problem is in public spaces where crowd density is quite large or in developing countries where we don't have enough CCTV cameras," he told ABC's Sunday Extra.
+"For example, in India there were riots recently and we didn't have enough cameras to monitor everything."
+The same technology has been used to locate abandoned bags in busy public areas, and to detect ATM theft, with an accuracy rate of 96 percent.
+In the wake of terrorist attacks in cities like Manchester and Boston, festivals around the world have begun turning to drones to monitor crowds.
+In April this year, US music festival Coachella equipped security with autonomous drones to bolster their security system and deter so-called "bad behaviour".
+And they could be used a lot closer to home.
+With thousands of fans set to descend on upcoming festivals like Australia's Splendour In The Grass, there has been talk that similar technology could be used to monitor densely populated areas for sexual harassment or assault.
+But the research has opened the door to a range of ethical concerns, with some arguing the technology could incorrectly identify movements in crowds.
+Toby Walsh, a professor of artificial intelligence at the University of New South Wales and CSIRO's Data61, believes the analysis of live footage may prove unreliable.
+"I suspect you have to track how people's hands and limbs move over time to really see accurately whether someone is fighting … as opposed to dancing badly or doing a high five," he said.
+The advent of the program has also provoked concerns about privacy.
+Mr Walsh argues that as commercial drones become more accessible, the technology could fall into the wrong hands and be misused by police or authoritarian governments.
+"I should point out that even if you can't see a person's face, you can recognise them," Mr Walsh added.
+"There are places on the planet like China where they are increasingly becoming surveillance states enabled by artificial intelligence.
+"We should be concerned. There's plenty of good that technology could be used for and, like any technology, it can be used for bad."
+While the Eye in the Sky program is still in the prototype stage, Mr Singh insists it relies on a sophisticated algorithm that can only recognise certain movements rather than people themselves.
+"The drone on its own doesn't take any action, it's just a screening tool," he said.
+"If you have a very large crowd, it narrows it down to a few batches so that if the artificial intelligence makes a mistake … law enforcement officials can make an informed decision."
+Still, there are fears that the arrival of such technology could change how we view attending public events.
+"[In the past] if you went to a political demonstration you couldn't be identified … that expectation is starting to disappear because of technology," Mr Walsh said.
+"There are places where we want privacy.
+"If you want to be in a public space and someone wants to fly a drone over the top then it's hard to maintain your privacy."
+It would seem that the future of surveillance is already upon us.
+"These are important conversations I think we as a society need to have because the technology is arriving very rapidly," Mr Walsh said.
+"We have to think what sort of society we want to wake up to and we have to balance the benefits against the risks."

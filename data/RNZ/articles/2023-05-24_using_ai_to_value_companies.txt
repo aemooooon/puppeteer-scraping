@@ -1,0 +1,3 @@
+A research team at the University of Auckland has successfully used artificial intelligence to evaluate the actual value of companies. 
+The data used is based on profitability, efficiency, growth, risk and other factors, and the research has recently been published in a leading global accounting journal.
+It shows that machine learning algorithms can provide very accurate stock valuations, often more accurate than traditional methods. 

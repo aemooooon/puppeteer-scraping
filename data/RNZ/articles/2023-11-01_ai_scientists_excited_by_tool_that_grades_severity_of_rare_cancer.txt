@@ -1,0 +1,20 @@
+Artificial intelligence is nearly twice as good at grading the aggressiveness of a rare form of cancer from scans as the current method, a study suggests.
+By recognising details invisible to the naked eye, AI was 82 percent accurate, compared with 44 percent for lab analysis.
+Researchers from the Royal Marsden Hospital and Institute of Cancer Research say it could improve treatment and benefit thousands every year.
+They are also excited by its potential for spotting other cancers early.
+AI is already showing huge promise for diagnosing breast cancers and reducing treatment times.
+Computers can be fed huge amounts of information and trained to identify the patterns in it to make predictions, solve problems and even learn from their own mistakes.
+"We're incredibly excited by the potential of this state-of-the-art technology," said Professor Christina Messiou, consultant radiologist at The Royal Marsden NHS Foundation Trust and professor in imaging for personalised oncology at The Institute of Cancer Research, London.
+"It could lead to patients having better outcomes, through faster diagnosis and more effectively personalised treatment."
+The researchers, writing in Lancet Oncology, used a technique called radiomics to identify signs, invisible to the naked eye, of retroperitoneal sarcoma - which develops in the connective tissue of the back of the abdomen - in scans of 170 patients.
+With this data, the AI algorithm was able to grade the aggressiveness of 89 other European and US hospital patients' tumours, from scans, much more accurately than biopsies, in which a small part of the cancerous tissue is analysed under a microscope.
+When dental nurse Tina McLaughlan was diagnosed - in June last year, after stomach pain - with a sarcoma at the back of her abdomen, doctors relied on computerised tomography (CT) scan images to find the problem.
+They decided it was too risky to give her a needle biopsy.
+The 65-year-old, from Bedfordshire, had the tumour removed and now returns to the Royal Marsden for scans every three months.
+She was not part of the AI trial but told BBC News it would help other patients.
+"You go in for the first scan and they can't tell you what it is - they didn't tell me through all my treatment, until the histology, post-op, so it would be really useful to know that straight away," McLaughlan said.
+"Hopefully, it would lead to a quicker diagnosis."
+About 4300 people in England are diagnosed with this type of cancer each year.
+Prof Messiou hopes the technology can eventually be used around the world, with high-risk patients given specific treatment while those at low risk are spared unnecessary treatments and follow-up scans.
+Dr Paul Huang, from the Institute of Cancer Research, London, said: "This kind of technology has the potential to transform the lives of people with sarcoma - enabling personalised treatment plans tailored to the specific biology of their cancer.
+"It's great to see such promising findings."

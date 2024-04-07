@@ -1,0 +1,15 @@
+"There's still a lot of work to be done to refine Optimus and prove it," Musk told the electric vehicle maker's "AI Day" event being held at a Tesla office in Palo Alto, California.
+Musk said existing humanoid robots are "missing a brain" and the ability to solve problems on their own. By contrast, he said, Optimus would be an "extremely capable robot" that Tesla would aim to produce in the millions. He said he expected it would cost less than US$20,000.
+Tesla said the company had developed a prototype for its robot in February. That early model walked out to wave at the crowd on Friday, and Tesla showed a video of it doing simple tasks, such as watering plants, carrying boxes and lifting metal bars at a production station at Tesla's California plant.
+Musk and Tesla representatives acknowledged that there was a lot of work to be done to achieve the goal of a mass-produced, low-cost robot, using Tesla-designed technology that would be capable of replacing humans at work.
+Other automakers, including Toyota Motor and Honda Motor, have developed humanoid robot prototypes capable of doing complicated things like shooting a basketball, and production robots from ABB and others are a mainstay of auto manufacturing.
+But Tesla is alone in pushing the market opportunity for a mass-market robot that could also be used in factory work.
+A next-generation Tesla bot, which was rolled on stage by staff, will use Tesla-designed components, including a 2.3 kWh battery pack carried in its torso, a chip system and actuators to drive its limbs. The robot is designed to weigh 73 kg.
+"It wasn't quite ready to walk. But I think it will walk in a few weeks," Musk said.
+Musk has described the event as intended to recruit workers, and the engineers on stage catered to a technical audience. They detailed the process by which Tesla designed robot hands and used crash-simulator technology to test the robot's ability to fall on its face without breaking.
+Musk, who has spoken before about the risks of artificial intelligence, said the mass rollout of robots had the potential to 'transform civilization' and create "a future of abundance, a future of no poverty." But he said he believed it was important that Tesla shareholders had a role in vetting the company's efforts.
+"If I go crazy, you can fire me," Musk said. "This is important."
+Tesla also discussed its long-delayed self-driving technology at the event. Engineers working on the auto self-driving software described how they trained software to choose actions, such as when to merge into traffic, and how they sped up the computer decision-making process.
+In May, Musk said that the world's most valuable car maker would be "worth basically zero" without achieving full self-driving capability, and it faces growing regulatory probes, as well as technological hurdles.
+Musk has said he expects Tesla will achieve full self-driving this year and mass produce a robotaxi with no steering wheel or pedal by 2024.
+At an "Autonomy" event in 2019, Musk promised 1 million robotaxis by 2020 but has yet to deliver such a car.

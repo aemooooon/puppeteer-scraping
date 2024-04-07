@@ -1,0 +1,31 @@
+Last week, an AI went big on the internet. The two-minute track 'Heart On My Sleeve' features AI-created vocals sounding like megastars Drake and The Weeknd.
+It has quickly been pulled from streaming services by the artists' label for breaching copyright.
+ This audio is not downloadable due to copyright restrictions. 
+'Heart On My Sleeve' has been taken down from Apple Music, Spotify, Deezer and Tidal and being removed from TikTok and YouTube, but some versions remain available.
+Publishers Universal Music Group said the song violated copyright law.
+In a statement to music industry trade magazine Billboard, Universal said "platforms have a fundamental legal and ethical responsibility to prevent the use of their services in ways that harm artists."
+Technology futurist and author of the Memia newsletter Ben Reid talked to Jesse Mulligan about the bigger issues at play here.
+"We've seen this explosion of generative AI tools in the last few months" such as ChatGPT and image emulator DALL-E, Reid said, "so yeah, text to music is the next one".
+"The tools to synthesise voices are developing really quickly ... sometimes sort of called DeepFakes, where you can train an AI model to replicate someone's voice, speech patterns, intonation, and then you can give it a script to speak.
+"We're seeing this being applied in the commercial space now."
+The sweeping changes that AI technology will create are just beginning, with some frightened and some optimistic.
+"This a generational change, a paradigm change in terms of what the technology enables.
+"We've moved from an era where music is relatively scarce and is now completely abundant. ... The ability now is you can create hours and hours of AI-generated music with very little effort.
+"The question around copyright is what are these AI models trained on originally? Is it copyrighted material that has been fed into the models?
+"The music publishers, this is their business model, and they are looking to protect the legal rights from copyright."
+"I'm not a lawyer, but these questions have been raised before," Reid noted, such as back in the early 2000s when Google attempted to scan and upload every book in the world, causing concern from authors' guilds.
+That case ultimately went to the US Supreme Court, which found it fair use for Google to put the material online.
+The rapid speed of technology development makes it hard for the legal system to keep up, Reid said.
+"Regulation tends to trail innovation in tech by quite a degree.
+"My sense would be by the time this legal process has gone through the courts - and it may take years and years and years, and lawyers will make a lot of money out of it - by that time, my hunch is you're going to find AI models being trained on AI-generated content and there's actually no real traceability back to any original copyrighted content at all.
+"My feeling for the future is that we may see a future where all music is AI-generated and there's this complete democratisation of the ability to create, consume and completely personalise music streams."
+But does that take away any personality and human element in music?
+Reid said it is possible that if you have an endless procession of AI avatars and AI musicians, each with a completely crafted personal story, we might not be able to tell the difference.
+"Why would you pick Ed Sheeran over your favourite personalised selection?"
+As the AI revolution picks up speed, there have been a fair bit of gloomy predictions and utopian imagining about where it might all lead.
+Reid said he is already finding the tools useful in his own work life.
+"I think there's going to be huge advantages in terms of personal productivity. I integrate ChatGPT and a number of image-generation tools into my workflows on a daily basis now and it makes me incredibly productive.
+"I think our ability as a society to absorb these new technologies and adapt and arguably change some of the fundamental principles of how our economy works, I think are going to raise some major questions over the next year."
+Some people panicked with the introduction of the printing press, television and the internet, and some of the AI backlash is no different, Reid said.
+"It's just new technology coming along to create an abundance of something that was pretty scarce. I think the difference here is possibly the speed with which things are happening.
+"Given the pace of change now, there is the question of can people re-skill, re-train quickly enough and will the jobs that people do today and even the jobs we're anticipating, will they be churned really, really quickly as well?

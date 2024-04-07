@@ -1,0 +1,6 @@
+Renowned computer scientist Geoffrey Hinton quit his role at Google last year.
+When he resigned, he said he was able to speak freely about what the dangers of be, and that some were "quite scary".
+In particular, around how AI could spread misinformation, upend the job market, and ultimately, pose an existential risk to humanity.
+Dr Hinton was an early pioneer of the neural network - a method which teaches computers to process data in a way that is inspired by the human brain.
+It's that network which morphed into AI, which is advancing so quickly that this week European Union lawmakers approved new regulations around it.
+Meanwhile, the Government here has indicated it will draw up a framework.

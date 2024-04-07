@@ -1,0 +1,60 @@
+ 
+As the co-founder and chief executive of PledgeMe, Anna Guenther was naturally on the invite list to last year’s Hi-Tech Awards, which celebrate New Zealand’s tech industry.
+She went along with one of the awards’ sponsors - a man.
+“I remember a guy approached us and complimented the man I was with on bringing such a 'hot date'. He didn't think that maybe I ran a tech company, nor did he even tell me to my face I looked nice.”
+When the nominations were announced for this year’s awards, held in Auckland’s Viaduct Harbour next month, Guenther noticed a worrying trend.
+Of the 39 companies nominated, two have women chief executives, 61 percent have all-male boards, while 88 percent of their directors are men. The awards are also hosting an “alumni event” advertising workshop presentations by seven industry leaders - six are men.
+“There are more Mikes and Tims (two each) on the list than women,” says Guenther.
+“What really disappoints me is this is an issue that isn't new and the awards are something we've had for years, and things don't seem to be getting better.
+“We need to be showing women who are doing well, which is why it's sad the nominations don't do that. They just seem to be celebrating the dudes.”
+The chief executive of bus card company Snapper, Miki Szikszai, tweeted he was boycotting the awards until they “actively engage in some dialogue on how the events can promote genuine diversity”.
+Angie Judge founded Dexibit, an Auckland analytics company that provides data to museums and other cultural institutions, and is one of the two nominated women chief executives.
+Of the nominated companies, her business is the only one with more women directors than men.
+“I remember when I was studying about 15 years ago - I was one of probably two women out of 100 in my software engineering class,” Judge says.
+She says things are improving, if slowly.
+“We've got to get girls into coding and software engineering careers, then we've got to get them rising through the ranks and eventually founding their own companies and celebrating their success.”
+“I hate to guess how quickly things will improve, but it can be a 10 year journey - it certainly was for me.”
+'UNWELCOMING AND UNCOMFORTABLE' 
+Just under one in three IT grads in 2015 were women, according to the most recent data available from stats service Figure.NZ. But it’s not quite translating to the industry.
+Government figures show only 21 percent of IT employees are women, down from 23 percent in the 2013 census.
+Anna Guenther says retention is a massive problem. “A lot of women just don’t want to stay in the sector. It can be incredibly unwelcoming and uncomfortable.”
+In February, a blog post by a former Uber engineer Susan Fowler revealed a culture of conflict and sexism at the transport app company:
+When I joined Uber, the organization I was part of was over 25% women. By the time I was trying to transfer to another eng organization, this number had dropped down to less than 6%. Women were transferring out of the organization, and those who couldn't transfer were quitting or preparing to quit. When I asked our director what was being done ... his reply was, in a nutshell, that the women of Uber just needed to step up and be better engineers.
+Guenther says Fowler’s post increases the perception that the tech sector is “just not seen as a healthy place to be for women”.
+Sacha Judd runs Refactor, which regularly hosts events for women in the tech sector. She says Uber, which was founded by Travis Kalanick and Garrett Camp, “followed a homogeneous path that is quite textbook for Silicon Valley”.
+“Tech companies tend to be built by guys who get similar people - such as their mates - together to work on a product and pretty soon the top four or five people running the place are white dudes with beards who drink craft beer,” she says.
+“It's then quite hard for someone to come from an underrepresented group - such as women or people of different racial backgrounds - to want to be a part of that. It already feels like a place that's not for you.
+“Then all of a sudden you end up with a company and a toxic culture like Uber’s.”
+HOWARD AND HEIDI
+Angie Judge says unconscious bias is something everyone has to be conscious of, not just women. “For example, when I'm hiring for a role, if I'm not getting women applying, it means I'm doing something wrong and not searching far and wide enough.”
+Judd says hiring is “one of the best interventions”. “Anyone who says ‘Oh well, I only got six CVs and they were all white guys’ probably hasn't tried very hard.”
+In 2003, as part of a Columbia University study, matching CVs with different names were given to two groups of students, who were asked to judge who they preferred.
+Both CVs were rated equally competent, but the students liked “Howard”, while “Heidi” was seen as ambitious to a fault and only out for herself.
+“You might look at a candidate and unconsciously think ‘this guy looks like six others who we've hired and who have been successful, let's go for that again’,” says Judd.
+“You shouldn't be appointing a position if you haven't looked at a diverse group of candidates.”
+“I think we're all biased,” says Guenther.
+“I realised I was a few years ago when I looked at my board and saw I had just hired men, but from a general perspective, I just can't understand how any company can be run without any women near the top.
+"I know there are many powerful men in the sector who do think it's a problem, but some don't want that change to start with them."
+Judge says diversity, whether it's gender or ethnicity or age, is incredibly important for innovation.
+“If you put five similar people in a room, you're just not going to get the same quality of ideas.”
+“There's evidence that code written by women can be more productive ... and companies run by women often perform better financially.”
+A recent report by the Technology Industry Association backs that up.
+“Research shows that companies with diverse teams gain access to the largest possible talent pool, allowing them to benefit from the different and complementary perspectives and leadership styles that women bring,” the report said.
+The industry is growing - too quickly for New Zealand at its current rate - as the report estimates a shortfall of more than 10,000 skilled staff over the next three years.
+That demand also means that tech is where the money is. According to Government research, the average salary for someone working in IT is a whopping $103,586.
+Of all the jobs advertised on TradeMe in 2015, five of the top six with the highest median salaries were in IT.
+The industry’s pay gap is 7.2 percent.
+Guenther says the history of the industry highlights the divide.
+“In the past, most ‘human computers’ were women because it was such a lowly-paid role. It was only as computers became automated and the jobs better paid, it transitioned to becoming a male-dominated industry.”
+A CAREER CHOICE
+The group that runs the Hi-Tech Awards, the Hi-Tech Trust, was quick to respond to complaints about under-representation.
+“We’re also concerned about the lack of women in technology, and the lack of progress towards addressing this,” says a trustee, Jennifer Rutherford.
+“We had an increase in applications this year by female-led, female-exec businesses, yet this is not reflected in the finalists. We do not specifically steer the judges to a quota, but we are attempting to ensure any bias is removed.”
+She says two women speakers pulled out of the alumni speakers event shortly before the agenda was published. In the past few days, “we circled back to invite new speakers and now three out of the seven speakers are female”.
+Rutherford says the trust recently ensured a 50/50 gender composition on its board, while it has also increased its female judges.
+The Wireless asked one of the awards’ judges for an interview, but was turned down because of the conflict of interest. She did, however, say the fact that 15 of the 55 judges are female is a “pretty good ratio” for the industry.
+Angie Judge is optimistic about the future of tech and is excited about developments in data science and artificial intelligence. In her current job, she’s been able to explore the archives and treasures of some of the biggest museums.
+“Things have changed a lot over the past two or three years - there are now some great programmes in schools - many about getting girls doing coding or women into software engineering careers,” she says.
+“We're starting to see a lot of companies coming through led or founded by women, particularly in the Hi-Tech field."
+Sacha Judd says it’s vital to tell the stories of “women who are doing awesome stuff so there are visible role models for young women to look up to and so they realise the industry does have a place for them”.
+“We must tell the stories of women who are doing great things in our sector, instead of the same tales of the Mark Zuckerbergs and Elon Musks of the world, or the Rod Drurys and Sam Morgans of New Zealand.

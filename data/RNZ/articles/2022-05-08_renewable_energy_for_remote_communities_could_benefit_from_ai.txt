@@ -1,0 +1,19 @@
+About 84 percent of New Zealand's electricity comes from renewable sources, but for remote places, on-the-grid power is a challenge.
+For instance, Rakiura / Stewart Island relies entirely on diesel generated electricity.
+But electrical engineer Soheil Mohseni told Afternoons that using artificial intelligence (AI) could help overcome the challenge of designing and building renewable energy systems for this type of remote community.
+Mohseni is doing post-doctoral studies in sustainable energy at Victoria University, and has been running AI analysis of optimal renewable energy systems for different remote communities.
+He said his analysis of Rakiura / Stewart Island showed an exciting alternative that could benefit the residents by providing much cheaper energy that was more resilient than the current diesel provision, and was less harmful to the environment.
+AI-based optimisation algorithms were inspired by "swarm behaviour" found in nature, such as schooling behaviour in fish or flocking behaviour in birds, he said.
+"They have opened up a whole new way to solve computationally challenging problems like the sizing of microgrids, which can be made up of distributed energy options like solar PV [solar photovoltaic cells], wind turbines, and micro-hydro battery storage.
+"Finding the cheapest mix of these options is often challenging, so we can use those AI-based optimisation algorithms to solve such problems.
+"With the AI it is truly cost-optimised. This has the potential to bring sustainable systems into place faster."
+For Rakiura / Stewart Island the best design for the community's needs integrated solar PV, wind turbine, battery storage, hydrogen fuel cells, hydrogen tanks and electrolysers.
+The analysis showed the design offered "could serve all the energy needs of the community including the electricity, the transportation fuel needs, and also the hot water and space heating energy needs," Mohseni said.
+"We looked at those energy needs in an entirely integrated manner.
+"We have conceptualised a single energy system that serves all of those types of energy needs and eliminates the need for importing diesel fuel.
+"We found that such a system is both technically feasible and economically viable, and we have statistically found that the current cost of electricity on Rakiura / Stewart Island can be reduced."
+Mohseni said the diesel-generated electricity supplied on Stewart Island cost up to 52 cents per kw hour, but that could be reduced down to 24 cents per kw hour with his microgrid system design.
+"It can be considered as a low-risk high-yield investment opportunity, because it has a really good internal rate of return."
+He believed a system like his could be built by an energy providing business, or through community financing.
+The method for suggesting promising and reliable renewable energy systems had also been tested on other remote communities with promising results, he said.
+"We have considered an off-grid renewable energy system for Aotea / Great Barrier Island up north. And we have shown that based on solar PV and wind turbines, and battery storage we can produce quite cheap energy solutions for the communities."

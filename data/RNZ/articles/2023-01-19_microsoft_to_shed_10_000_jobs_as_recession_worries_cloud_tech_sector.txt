@@ -1,0 +1,20 @@
+The layoff, far larger than cuts by Microsoft last year, pile on to tens of thousands of job cuts across the technology sector that's long past its strong growth during the pandemic.
+Its shares fell about 1 percent.
+The news comes even as the software maker is set to ramp up spending in generative artificial intelligence that is the new bright spot for the industry.
+Just this week, its chief executive touted AI to world leaders gathered in Davos, Switzerland, claiming the technology would transform its products and touch people around the globe.
+Microsoft has looked at adding to its $1 billion stake in OpenAI, the startup behind the Silicon Valley chatbot sensation known as ChatGPT.
+In a note to employees, chief executive Satya Nadella attempted to address the divergent realities.
+Customers wanted to "optimise their digital spend to do more with less" and "exercise caution as some parts of the world are in a recession and other parts are anticipating one", he said. "At the same time, the next major wave of computing is being born with advances in AI."
+Nadella said the layoffs, affecting less than 5 percent of Microsoft's workforce, would conclude by the end of March. However, Microsoft would keep hiring in "strategic areas," he said.
+The timing corresponds with the date its retail and cloud-computing rival Amazon has said more employees will be notified in its own 18,000-person layoffs.
+The cuts reflect broader belt-tightening in the technology sector. The chief executive of another company serving enterprises, Palantir Technologies, this week told Reuters that reducing cloud spending was a top-ten priority of his customers.
+More than 150,000 tech-company workers faced job cuts in 2022, according to tracking site Layoffs.fyi. Among them were 11,000 at Facebook's parent Meta Platforms, representing the breadth of workforce reductions stretching beyond enterprise IT to ad-based business and the consumer internet.
+Microsoft said it would take a billion-dollar charge from severance costs among other changes. US-eligible staff, for instance, will get healthcare coverage and stock vesting for six months.
+The charge also regards adjustments to its hardware lineup and lease consolidation to build higher-density workspaces, Nadella said. Microsoft declined to detail the hardware changes or say if it would stop developing any product line.
+The Redmond, Washington-based company has grappled with a slump in the personal-computer market after a pandemic boom fizzled out, leaving little demand for its Windows software and accompanying products.
+In total, the charge, taking place in Microsoft's second fiscal quarter this year, represents a negative impact of 12 cents per share of profit, the company said.
+Wedbush Securities analyst Dan Ives said, "This is a rip the band-aid off moment to preserve margins and cut costs in a softer macro."
+Ascendant in recent years from an explosion in corporate demand to host data online and handle computing in the so-called cloud, Microsoft has taken a different tone in recent months.
+In its first fiscal quarter of 2023, cloud growth dropped to 35 percent, and the company projected the figure to drop again. In July last year, it said a small number of roles had been eliminated.
+Still, Nadella sought to assure employees on the future. Generative AI, as reflected by OpenAI's ChatGPT that Microsoft will soon market through its cloud service, is pointing the road ahead.
+"We are allocating both our capital and talent to areas of secular growth and long-term competitiveness for the company, he said. "We will emerge stronger."

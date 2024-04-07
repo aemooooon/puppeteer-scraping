@@ -1,0 +1,25 @@
+The University of Canterbury team Electric Sheep was the only New Zealand team to compete and qualify at the international RoboCup 2019 competition, in Sydney, Australia, recently.
+One of the team of students, graduates and PhD candidates behind the robots is Banon Hopman, an undergraduate studying product design at University of Canterbury. 
+The UC team qualified for the Humanoid League category of the event for which the robots have to have all of the same dimensions as a human - albeit only at knee height - with the joints and head in the right place.
+“It looks like a human in basic terms,” says Hopman.
+The tiny robots play on a field that’s about 9 metres long.
+“It’s got to be completely autonomous, they’ve got to make their own decisions and see the ball and kick the ball towards the goal,” says Hopman.
+“The first step is actually seeing the ball, RGB sensors which is a red green blue screen basically, and you use machine learning…and they can pick up on the pixels that the camera sees and they then learn what a ball is and what a goal post is etc.
+“They use localisation, Wifi to know where the robots are in the field and communicate with the other robots and the referee to actually kick the ball in the right direction and to know which goal to kick towards so you don’t score a non goal.”
+The RoboCup plays by FIFA rules, and has a few robot-specific extras.
+“If the robot does get incapacitated or it can’t actually move, the rule is a handler can come and pick it up and take it off the field.”
+At one point in the game Electric Sheep’s head once fell off, so Hopman had to take advantage of that rule.
+“It’s really funny to watch.”
+Electric Sheep was the only robot in the New Zealand team, and was often up against teams of four. Despite that it made it through to the second round.
+Hopman says it’s very much a test in whether the teams can create a useful piece of artificial intelligence.
+“This is pushing the limits of robot intelligence and limits, there were robots who actually managed to pick up the ball and throw it from the side, which is very impressive.”
+They’re not so advanced that they can cheat and play dirty though, Hopman says they’re worth around $20,000 each so no one would really want to waste money on creating a dirty robot.
+Electric Sheep was completely 3D printed, and while it had good software, Hopman says it was let down in the hardware department.
+The team had a small budget and so quite a lot of smoke came off the robot on the field, it was running at about 80 degrees, he says.
+“Smoke on the pitch, smoke off the pitch, there was a lot of smoking, it’s got a bad habit.”
+Half way through the competition, the team changed things up a bit and replaced Electric Sheep’s arms with another robots legs, says Hopman.
+There were a number of problems throughout the tournament.
+“Our robot was held together with duct tape and number 8 wire.”
+At one point it fell over, he says.
+“It didn’t actually have enough power to get up and walk.”
+Hopman says there are a lot of improvements to make before next year - Electric Sheep didn’t actually score any goals. 

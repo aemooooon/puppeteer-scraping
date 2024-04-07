@@ -1,0 +1,46 @@
+ 
+A recent report from New Zealand's AI Forum - Shaping a Future New Zealand (PDF) - says few New Zealand business have a serious strategy for AI  - and many of them really need one.
+The report says media and IT companies had been surveyed in its research, but media companies didn’t feature in it. 
+
+There are the logos of dozens of banks, manufacturers, govt agencies, universities, polytechnics, research institutes, IT firms and law firms in its chart of the 'ecosystem' of AI in New Zealand - but no media companies at all.
+Maybe that’s not out of line with other places.
+When US-based Fortune magazine picked 100 Companies Are Leading the Way in AI, only one - a Chinese company called Bytedance - had anything to do with the media.
+The impact of AI on media was the topic of the Great AI Debate in Auckland recently.
+To hint at what might be possible, writer and digital creator Josh Drummond unveiled an AI-driven bot that writes Mike Hosking opinion pieces.
+Mr Drummond fed a number of Mr Hosking's recent Herald and Newstalk ZB columns into "an AI predictive text-bot thing" called Botnik to see what it would spit out.
+It spat out things like this:
+“If it’s just an ideological plan, the buses and trains are over. Bikes need to work. And the council and their agenda can rule this PC world. So what? Let’s all like National. They stand to be the Government and whip Labour butt with it."
+Mr Drummond saysif Mr Hosking's employers wanted to cut costs, they could use the bot instead.
+But when he tried the same technique with the output of Newstalk ZB political editor Barry Soper, it didn't really work too well:
+
+Not much chance of any editor publishing that.
+Mr Drummond made a point about the frequency and predictability of many Mike Hosking opinions, but hasn’t quite created a means of writing a Mike Hosking opinion piece before Mike Hosking writes one himself.
+Maybe one day . . .
+Computers are already creating simple stories about business and sports results for the media overseas, but Japan’s public broadcaster NHK has gone further with an AI-driven news presenter called Yomiko.
+Sporting an ‘A’ earring hanging from one earlobe and “I” on the other, Yomiko chats with the hosts about reports on topics such as  - how school uniforms are being recycled.
+In the US, digital outlet Buzzfeed has just rolled out a brand new podcast with a chat-bot co-host called Jojo which can connect listeners to programme items on mobiles while they're listening.  
+Behind the scenes, big names in news media overseas are also putting AI to work.
+Three out of four leading media editors and executives surveyed by the Reuters Institute for the Study of Journalism recently are planning "to actively experiment with artificial intelligence."
+At the New York Times, journalists highlight phrases, headlines or main points in the text which computers recognise and then extract information for subsequent use in research and fact-checking.
+The BBC's Newslab has created the Ai-driven Juicer which extracts the selected news, facts and concepts from news articles published elsewhere and makes them searchable.
+The Washington Post has been experimenting with automated news writing. It uses 'smart software' called Heliograf which put together news stories almost instantly from official data during the Rio Olympics and the US election in 2016.
+The New York Times is also using AI to moderate reader comments and eliminate harassment and abuse without taking up the time of any humans.
+Are our media up to speed with this?
+"The news media haven't taken up the technology in the way other industries have  . . . but the technology is developing fast and they are going to start adopting it," says Anchali Anandanayagam from IP and media law firm Hudson Gavin Martin. 
+Justin Flitter from New Zealand AI - who chaired the Great AI Debate on the media in Auckland recently - believes media companies need to automate "in order to produce the volume of content to feed timelines".  
+Instead of having junior journalists writing financial reports that can take weeks and weeks to curate, he says, they can now use an AI system to produce those report in minutes.   
+"That - in theory - leaves those journalists free to work on the stories that a bot or AI system just can't generate," he told Mediawatch. 
+"In theory" are the key words, though. Cost-cutting companies focused on quantity over quality may simply cut the human journalists from their ledger. 
+ And robo-journalism isn't simply a question of substituting human labour for that of a machine. 
+Columbia University is the US recently raised the question of free speech for bots.  
+"How will the courts address free-expression rights for artificially intelligent communicators? This conversation is coming, and it may push the Supreme Court to do something it has avoided: define who is and is not a journalist," said Jared Schroeder, an assistant professor of journalism at Southern Methodist University. 
+He speculated that a bot programmer could invoke a journalistic shield law to protect her program’s code from disclosure - and pondered whether a bot filing official information requests could even be exempt from fees. 
+If a robot writes a defamatory story can it be sued?
+"There will always be human involvement so responsibility still rests with the media companies," Anchali Anandanayagam told Mediawatch. 
+"Machines are not acting of their own volition in writing news for us. Machines are augmenting us to do it faster and better," she said. 
+Justin Flitter says AI and algorithms delivering news tailored to the tastes to individuals has created 'filter bubbles'. It raises the question of whether media companies and online platforms have a responsibility to broaden the range of opinion and content they distribute. 
+If systems like the BBC's Juicer can extract relevant parts of news stories from hundreds of outlets for journalists, will AI systems eventually give individuals the power to bypass the gatekeepers of the news media altogether? 
+"I don't think so. There are similar arguments that lawyers will no longer have jobs because robots will do it all," says Anchali Anandanayagam. 
+"The news media that people will want to be written by people has a different value proposition," she says. 
+But as robo-journalism and bot-driven interaction become commonplace, Justin Flitter says media companies will have to think about declaring that to the audience. 
+"Film and TV have used AI for years. There's no disclosure. Just as the paid media notify the readers about sponsored content, should we know if a robot is creating content in the new media?" he asks. 

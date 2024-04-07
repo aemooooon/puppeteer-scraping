@@ -1,0 +1,27 @@
+Those firms are doing well from the government's policy to shift public data to the cloud, and to support them building large data centres here.
+Australia is more reluctant to pass its public data in this way, but faces similar pressures - most of its whole-of-government cloud deals are with foreign firms.
+Rupert Taylor-Price, who heads Canberra's Vault Cloud, is among those pushing back, and starting to win out sometimes - his company was the first Australian-owned one to win a whole-of-government deal with the New South Wales state government in 2020 to simplify the use of its cloud services for public agencies.
+"Sovereign capability is very easy to give away - it's a press release, and a ministerial announcement," Taylor-Price told RNZ.
+"When you look at the economics of this, when you give up your sovereignty of your data, you know, data is the new gold, you're giving up the value of your economy."
+"Ferocious" lobbying by big tech was the norm, he said.
+"I don't criticise the multinationals for trying to take advantage of weak leadership in a government. They should be trying to further their commercial interests. Follow the money. Look at where the political donations are coming from, look at the spending on lobbying.
+"The sad truth is that your local industry rarely has the financial capability to make those big lobbying plays that large multinationals do. And that's not in the interest of the country."
+From what he could see, political lobbying had been "wildly successful" in New Zealand.
+"How many meetings has your prime minister had with the local providers? And how many meetings (has) your prime minister had with the multinationals? That's normally the acid test."
+Amazon Web Services lobbied Jacinda Ardern when she was prime minister, about hosting secret data above the restricted level, and many other matters.
+Australia's shift to put fewer tech eggs in foreign baskets was spurred on by the vulnerabilities exposed during Covid and bush fires from relying on offshore help, but also recent "shock" tech moves, Taylor-Price said.
+One was Microsoft suddenly exiting talks about providing top-secret cloud services to Canberra, amid rumours it was taking a new direction globally to [https://www.innovationaus.com/microsoft-walks-away-from-top-secret-cloud-negotiation/
+limit what sensitive data services it offered non-US governments].
+The federal government last year expanded its regulatory regime to the data and cloud sector, as part of laws aimed at making critical national infrastructure more secure.
+Up to that point, only four sectors were considered critical - the standard "electricity, gas, water and ports" - but that was expanded to 11 sectors, including data processing and storage, and in these sectors operatorsmust now meet higher standards.
+Amazon Web Services, and others, had urged caution on Canberra and made the case they already "built to satisfy the requirements of the most security-sensitive organisation".
+AWS and Microsoft are the only two companies in New Zealand that have Memorandum of Understanding deals with the government.
+These are non-binding, but provide access and influence, without much transparency.
+In Microsoft's case, its deal paved the way for department chief executives to offer it ideas for big projects. One of these - since aborted - was to introduce a lot more artificial intelligence into schools.
+The existence of such deals - regardless of what was in them - sent signals to buyers within government departments that that is where their preferencing should be, Taylor-Price said.
+"I just can't understand why a government would do that to its own citizens."
+The government and large tech firms have repeatedly talked up multi-billion dollar investment and jobs, coming from the rapid, joint data centre-cloud services expansion here.
+Amazon has said it would train 100,000 people on its products here.
+But Taylor-Price said the jobs would be for highly skilled people, "transferred into a multinational for them to profit from" and who would not go without work in any event.
+As for training, Vault offered this across the Tasman, so he knew it could be done locally.
+"You don't need to go to those multinationals to get those outcomes.

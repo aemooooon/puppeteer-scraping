@@ -1,0 +1,28 @@
+Similar action has been taken overseas by a number of large banks and technology companies, including Apple and Samsung.
+New Zealand remains without government-wide rules or guidelines for ministries and agencies' use of artificial intelligence.
+Documents show that in March, MBIE blocked staff access to a number of AI tools including ChatGPT.
+The ministry was worried staff could put sensitive information into the technology which could later resurface.
+MBIE has hit the pause button while it works out if the technology can be used safely.
+University of Auckland senior law lecturer and AI law expert Nikki Chamberlain said caution was prudent.
+"It's a new technology and we don't know the consequences of it yet.
+"And only time is going to be able to tell whether the information that you're putting in there is going to be protected and private."
+In New Zealand there is no AI-specific regulation or legislation, and internal MBIE documents say there are "no rules or guidelines for all government agencies about staff use [of] AI tools".
+A spokesperson for the Government Chief Digital Officer in the Department of Internal Affairs said the government was working on guidance for agencies which it expected to have soon.
+It said its own DIA staff have not been banned from using AI tools.
+Privacy Commissioner Michael Webster said it was up to individual government agencies and companies to decide if, and how, they use AI.
+"And if the risks are too high then my expectation would be that they won't proceed with that proposal."
+Frith Tweedie from consultancy firm Simply Privacy said staff needed guidance and safeguards.
+"I don't think it is unreasonable to pause while you are working that out, I think all of the government agencies should be forming a position on what's appropriate and inappropriate use.
+"And for some of them a full ban might be appropriate to for those that are dealing with particular sensitive information."
+ChatGPT is trained by being fed the internet and, by predicting the next word in a sequence, it spits out full sentence answers to questions.
+It contains masses of unvetted information and it is essentially a locked box - once information has been put in, it is all but impossible to get out again.
+Canada's privacy watchdog has launched an investigation into OpenAI about its Chat GPT technology, and Italy briefly banned the use of the product over privacy concerns.
+Many international companies have banned or restricted staff from using the technology including Apple, Samsung, Amazon, JPMorgan Chase, Deutsche Bank and Goldman Sachs.
+Last month OpenAI tightened up some of ChatGPT's privacy settings, but the adjustments are tacked on, and privacy questions remain.
+"I'm certainly recommending that organisations and individuals ... take care, definitely turn off the chat history, but even so I would avoid entering any confidential information or any personal information," Tweedie said.
+Europe has much more stringent privacy laws and far higher sanctions than in Aotearoa.
+Chamberlain said New Zealand needed legislation covering AI.
+"Until we have laws around regulating the use of AI, and information that is held by AI, and then how that information can be used going forward, we just need to be really careful."
+In the meantime, late last month the Privacy Commissioner issued advice for agencies and businesses to use the technology.
+That includes staff considering whether it is necessary and proportionate to use AI at all.
+He said firms and government agencies should do a privacy risk impact assessment to work out the danger areas to avoid.

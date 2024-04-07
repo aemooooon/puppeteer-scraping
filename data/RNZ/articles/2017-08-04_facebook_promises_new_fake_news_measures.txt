@@ -1,0 +1,8 @@
+The company said in a statement on its website it would start using "updated machine learning" to identify potentially false stories.
+At present it finds potentially false stories through a mixture of artificial intelligence (AI) and user detection. These are then sent to independent fact-checkers who place a flag next to hoax stories to alert readers.
+It has also just launched a new feature in four countries that will publish alternative news links beneath problematic articles.
+These stories would not be "direct responses" to fake articles, but factually accurate reports that offered an alternative, a spokesman said.
+Facebook has been criticised as being one of the main distribution points for so-called fake news, which many think influenced the 2016 US presidential election.
+The issue has also become a big political topic in Europe. French voters were deluged with false stories ahead of the presidential election in May, and Germany backed a plan to fine social media networks if they failed to remove hateful postings promptly, ahead of elections there in September.
+On Thursday, the firm rolled out a new "related articles" feature in the US, France, Germany and the Netherlands.
+The feature, which the firm has been testing since April, places links to other news coverage beneath highly popular or questionable stories, offering users "more perspectives and additional information".

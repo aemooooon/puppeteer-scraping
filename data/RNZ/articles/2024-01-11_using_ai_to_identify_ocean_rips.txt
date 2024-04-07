@@ -1,0 +1,3 @@
+Rips, narrow segments of water, can move faster than two metres per second and spotting them can be difficult, particularly for kids.
+However an AI tool developed by NIWA and Surf Life Saving New Zealand is having some success detecting rip currents in real time. 
+Dr Christo Rautenbach, a coastal and estuarine scientist at NIWA, is one of the people behind the tool.

@@ -1,0 +1,29 @@
+Learning machines are changing our work in ways most of us don’t yet understand - including journalists. 
+It's not only hospital porters and shelf-stackers likely to lose their jobs soon to robots and smart computers according the University of Auckland's Ian Watson, who pondered the consequences of artificial intelligence in a Gibbons Lecture on at the University of Auckland this week.
+"There are also people in smug middle class professional jobs who shouldn't be blase about this," he told Radio Live host Graeme Hill recently.
+And which smug middle class jobs did he have in mind?
+"Accountancy, law, journalism. There are are lots of tasks in those jobs that are mundane and can be automated," he said.
+Accountancy, sure, that’s just numbers.
+The law? Well, that’s all written down for any computer to scan and take on board.
+But although parts of journalism may be mundane, surely they still require the human mind and all the skills journalists learn at tertiary institutions  - and then refine on the job over the years?
+Maybe not any more.
+The 21st century has ushered in Natural Language Generation. Forbes' earning reports are machine-generated content. The Associated Press generates more than 3000 financial reports automatically each quarter using the Wordsmith platform.
+US tech commentator Shelly Palmer says many financial news stories from agencies like Bloomberg and Reuters are already written by machines. He put journalism in his top five jobs to be taken first by robots.
+In his Gibbons Lecture, Prof. Watson said he had a mate in the US who ran a company called Narrative Science that gives computers sports stats from the news wires to write stories for publication like this one:
+"I swear you can't tell that was written by a computer," he said. 
+The story sounded familiar to Mediawatch.
+The game in question was in 2011.
+No one had struck out ten batters in a row like Will Roberts for almost 10 years. But a story about the game for the website of the vanquished George Washington University  - which was written by a one-eyed human - churlishly didn't mention that feat until the very end of the story.
+A computer at Narrative Science wrote a more balanced story. It even produced an account for fans of George Washington University which was more balanced than the one on the GWU website.
+Prof Watson went on to say the appeal of all this for bosses of the modern media is obvious.
+"Most news organisations are struggling for revenue. You can cut down the number of juniors for that work, he said.
+But Prof Watson also said smart computers are still very limited in one respect that is important to humans.
+"We react better when the AI appears to have some feeling even if it's just simulating emotions. That's why Siri can tell jokes," he said
+But Siri’s jokes are not good jokes.
+So while learning machines may be able to write basic news reports, they’ll never be broadcasters.
+Or will they?
+Back in January 2016, Robert Lowenthal left the Australian radio network Macquarie to launch online podcasting platform Whooshkaa.
+Recently it claimed to have created the world's first audio podcasts made directly from text almost in real time.
+”Whooshkaa is using artificial intelligence and machine learning to automatically convert stories and news feeds into audio. Publishers can now generate a comprehensive news bulletin in real time, combining the top stories of the day into a single podcast,” the statement said.
+Whooshkaa claims it can do this for its clients in what it calls "two true-blue Aussie" voices:
+And so you can judge that, Whooskaa put robot Russell to work reading out the announcement of this supposed "world first" in podcasting.

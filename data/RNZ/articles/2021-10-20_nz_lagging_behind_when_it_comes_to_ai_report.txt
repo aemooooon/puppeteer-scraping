@@ -1,0 +1,15 @@
+The inaugural State of AI in New Zealand report is a nationwide survey from data specialist company Qrious.
+AI and data science head Sam Daish tells Jesse Mulligan that New Zealand has a similar percentage of AI companies to countries that are advanced in the field, like US and Canada.
+"So they're really producing new products and services using vision, audio and other input.
+"But where we seem to be really lagging is bigger companies making a start on this journey, so those companies that are doing well tend to be smaller, under 100 people or even under 50, and they seem to be the ones that are making strides."
+AI presents opportunities for the country to grow a whole new sector of the economy, Daish says.
+"That economy would not just include the people developing the AI - the coders or the data developers. But also, everyone associated with that, marketing, product development, UI, artists, professional services.
+"This is just an incredibly fast-growing industry worldwide and New Zealand has got an amazing opportunity to grow our prosperity by being big players in that."
+AI has become so commonplace that we often don't think that we're using it, he says, but it also has use beyond tech companies too.
+For example, he says one company they work with is a waste management firm that has employed AI to prevent people from jumping into the rubbish pit to retrieve something.
+"So, using computer vision, you can detect when a person is getting too close to a machine or even going somewhere they shouldn't go."
+The report found there's a significant percentage of companies that don't know how to start employing AI into their business to help solve problems, Daish says.
+"That's where doing a little bit of research yourself to find case studies, and the AI Forum has a bunch of case studies online, or talking with an experienced consultant that knows how to do these things, that's a good way of starting the conversation."
+It may not matter too much among the domestic market, but for companies wanting to compete on a world stage, AI is key, he says.
+"These companies in New Zealand that are doing very well in AI, they are competing overseas and in fact their biggest markets are overseas, which is fantastic for us, because winning in those markets earns us export dollars and really builds the capability here in New Zealand to kick on even further."
+Research has shown that those that are more interested in the technology and those using it, do get better results, he says.

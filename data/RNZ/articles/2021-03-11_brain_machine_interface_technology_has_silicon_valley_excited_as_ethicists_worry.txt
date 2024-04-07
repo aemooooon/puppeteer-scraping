@@ -1,0 +1,55 @@
+Having hundreds of needles injected into your brain may sound more like a torture than a treatment. But the process is already allowing some patients with severe paralysis to control a robotic arm by thought alone.
+Brain-machine interface technology (BMI) is a field of science that's small and relatively new, but it has Silicon Valley brimming with excitement.
+Big tech is investing millions in the sector with the hope of creating a future where thought-controlled technology is everywhere, one where typing and texting are no longer necessary.
+Ethicists worry about a very different scenario - a future where consumers become cyborgs and being free gives way to capitalist enslavement.
+BMI's most influential advocate is Elon Musk, who aims to achieve what he calls a "sort of symbiosis" between humans and artificial intelligence.
+"With a high-bandwidth brain-machine interface, I think we can actually go along for the ride," he told a conference of his admirers in late 2019.
+"We can effectively have the option of merging with AI."
+Musk's research company Neuralink claims to have developed a surgical robot capable of inserting an array of up to 1000 electrodes into a person's brain with pin-point accuracy.
+Neuralink unveiled the machine at a press event late last year, but the company is remaining tight-lipped about the finer details of its work.
+Despite the secrecy, UK-based neuroscientist Andrew Jackson says the device has enormous potential.
+"At the moment, the state-of-the-art is about 100 electrodes," he told the ABC's Future Tense.
+"What Neuralink has done is increased that by an order of magnitude, and these are flexible individual wires that can be put in different parts of the brain."
+If electrodes no longer need to be inserted by hand, Jackson said, the surgery will be "safer and speedier".
+"The robot can do things like identify where blood vessels are and so it will avoid damaging blood vessels during the surgery."
+Only about 20 or so people have had a BMI device implanted into their brains.
+Professor Jackson said the treatment has been targeted at people with major paralytic disabilities, but he conceded the experimentation, so far, had been small-scale.
+"They have been able to control the movement of a robot arm in three dimensions and also control grasping of that robot arm, so that would assist with activities of daily living," he said.
+Researchers have also demonstrated how a BMI could help patients regain control of paralysed limbs, by thought-controlling a device that delivers electrical stimulation to the muscles of the limb.
+The first recipient of a BMI device was Nathan Copeland, a US man who broke his neck in a car accident and is now a C5 quadriplegic, with no sensation from the chest down.
+Copeland has four arrays - two in his sensory cortex and two in his motor cortex. He visits a BMI lab three or four times a week to undertake experiments.
+He said the implants have allowed him to use his thoughts alone to operate certain devices.
+"Basically, they can just record my brain signals and convert them into things that the computer can use to control other things," he said.
+"I can control a robotic arm and hand or a computer cursor or I've played some games that use a computer emulator."
+While his BMI has given him greater confidence and he's been proud to be a "human guinea pig", Copeland said his daily life had not changed in any substantive way.
+Assistant professor of physical medicine and rehabilitation at the University of Pittsburgh Jennifer Collinger is all too aware of the technology's limits.
+"There's tens of millions of neurons that are active in the brain at any one time, and our technology really only allows us access to hundreds of those at a time, so we are really under-sampling what's naturally happening," she said.
+She said there was a misconception that scientists could simply place electrodes anywhere in the brain and immediately begin decoding people's thought signals.
+"What we really need to do is target areas where we have at least some understanding of what the cells in that particular area of the brain are doing."
+Once that understanding is established, she said, a computer would then record brain activity while the patient thought about performing a certain action - for instance, moving a robotic arm - the computer could then correlate that brain activity with the task and move the prosthesis every time it detected that signal in future.
+Dr Collinger said other research teams were working on attempts to decode brain signals related to speech. Professor Jackson said the knowledge of how the brain represented ideas was much poorer than our understanding of how it performed direct action tasks.
+"When we go further into the more cognitive domain of things like memories or decisions or emotions, that is all very much at the edge of what neuroscience is currently trying to understand," he says.
+One research team focused on decoding the brain's signals around speech is based at the University of California, San Francisco, and works in partnership with Facebook.
+Like Elon Musk, Mark Zuckerberg sees the future of BMI as more than medical.
+"Facebook wants to create a device that can literally read your mind," VOX Media tech writer Sigal Samuel said.
+She said the Facebook approach involved experiments with non-invasive BMI devices, such as a cap studded with electrodes.
+"It has been funding research on BMIs that can pick up thoughts directly from your neurons and translate them into words, into English sentences."
+Recently, University of California researchers in partnership with Facebook announced their algorithm could translate neural activity into English sentences, with an error rate of only 3 percent for vocabularies of 300 words, she said.
+Like Neuralink, Facebook has kept most of its work "under wraps", Samuel said. But there's no mistaking Zuckerberg's long-term intentions.
+"They want to reach a much, much wider audience of billions of people, and that aim is to give everyone the ability to control digital devices, using the power of our thoughts alone," she said.
+"Facebook has said, 'Look, we know that we can't really foresee and anticipate all the neuro-ethical risks we are incurring here, that's why we are trying to talk to neuro-ethicists and build neuro-ethical design in from the ground floor'."
+But at the end of the day, she points out, Facebook, like all companies, is primarily focused on its bottom line, on making profit.
+For neurolaw researcher Nicole Vincent the involvement of big tech raises more than just abstract ethical concerns. There are also serious legal considerations to take into account.
+If corporations and governments develop the ability to accurately read people's thoughts, she says, what happens to the legal right to remain silent?
+"In this particular case, how should we treat neuro-based evidence? Should it be treated like normal physical evidence at the scene of a crime? So, the distinction gets blurred," she said.
+Dr Vincent also foresees potential for discrimination and a drive toward enforced conformity.
+If thought analysis is eventually used to find correlations between certain types of people, she said, those correlations might then be used to try to predetermine criminality or mental illness.
+"A lot of the ethical considerations stem from the way in which our society may be altered," she said.
+"This raises questions about free will, about moral responsibility - is it only the case that somebody can be a morally responsible person when their brain functions as we want it to function?"
+She worries that if BMI-based technology ever becomes a primary means of communication, humans may become dangerously dependent on the tech titans and their machines.
+"If the device alters itself as it learns about how to communicate with your brain ... you'd better hope that the device can be reproduced if it breaks, because if it can't, then you would effectively be suffering from something like brain damage, and I really worry about this sort of scenario."
+For Professor Jackson, the highly speculative, almost fantastical side of Silicon Valley's embrace of BMI represents less a fear than a distraction.
+"The kind of device Neuralink is developing will have enormous benefits for people with profound disabilities," he said.
+"But when it segues into talk of enhancement - the idea that we might be able to, for instance, write new memories into our brain or upload our memories onto a hard drive or into the cloud - we know a lot less about how those brain systems work."
+He said, at the moment, the benefits possible from using a brain-machine interface were "still nothing like the sophistication of a normally functioning nervous system".
+"I think we have to be realistic," he said.

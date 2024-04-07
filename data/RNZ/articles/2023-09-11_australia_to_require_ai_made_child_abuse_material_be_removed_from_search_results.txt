@@ -1,0 +1,10 @@
+A new code drafted by the industry giants at the government's request would require search engines to ensure that such content was not returned in search results, e-Safety Commissioner Julie Inman Grant said in a statement.
+It would also require that AI functions built into search engines could not produce synthetic versions of the same material, she said. Synthetic versions of the material are also known as deepfakes.
+"The use of generative AI has grown so quickly that I think it's caught the whole world off guard to a certain degree," Inman Grant said.
+The code presents an example of how the regulatory and legal landscape surrounding internet platforms is being reshaped by the explosion of products which automatically generate lifelike content.
+Inman Grant said an earlier code drafted by Google, owned by Alphabet, and Bing, owned by Microsoft, did not cover AI-generated content, so she asked them to go back to the drawing board.
+"When the biggest players in the industry announced they would integrate generative AI into their search functions we had a draft code that was clearly no longer fit for purpose. We asked the industry to have another go," Inman Grant added.
+A spokesperson for the Digital Industry Group Inc, an Australian advocacy organisation of which Google is a member, said it was pleased the regulator had approved the new version of the code.
+"We worked hard to reflect recent developments in relation to generative AI, codifying best practices for industry and providing further community safeguards," the spokesperson said.
+Earlier this year, the regulator registered safety codes for several other internet services like social media, smartphone applications and equipment providers. Those codes take effect in late 2023.
+The regulator is still working on developing safety codes concerning internet storage and private messaging services, which have faced resistance from privacy advocates globally.

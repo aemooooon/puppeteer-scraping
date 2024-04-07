@@ -1,0 +1,24 @@
+Struggling to find relevant sources for your review? Inciteful will list suitable articles with just the click of a button. Are your human research participants too expensive or complicated to manage? Not a problem - try synthetic participants instead.
+Each of these tools suggests AI could be superior to humans in outlining and explaining concepts or ideas. But can humans be replaced when it comes to qualitative research?
+This is something we recently had to grapple with while carrying out unrelated research into mobile dating during the Covid-19 pandemic. And what we found should temper enthusiasm for artificial responses over the words of human participants.
+Our research is looking at how people might navigate mobile dating during the pandemic in Aotearoa New Zealand. Our aim was to explore broader social responses to mobile dating as the pandemic progressed and as public health mandates changed over time.
+As part of this ongoing research, we prompt participants to develop stories in response to hypothetical scenarios.
+In 2021 and 2022 we received a wide range of intriguing and quirky responses from 110 New Zealanders recruited through Facebook. Each participant received a gift voucher for their time.
+Participants described characters navigating the challenges of "Zoom dates" and clashing over vaccination statuses or wearing masks. Others wrote passionate love stories with eyebrow-raising details. Some even broke the fourth wall and wrote directly to us, complaining about the mandatory word length of their stories or the quality of our prompts.
+These responses captured the highs and lows of online dating, the boredom and loneliness of lockdown, and the thrills and despair of finding love during the time of Covid-19.
+But, perhaps most of all, these responses reminded us of the idiosyncratic and irreverent aspects of human participation in research - the unexpected directions participants go in, or even the unsolicited feedback you can receive when doing research.
+But in the latest round of our study in late 2023, something had clearly changed across the 60 stories we received.
+This time many of the stories felt "off". Word choices were quite stilted or overly formal. And each story was quite moralistic in terms of what one "should" do in a situation.
+Using AI detection tools, such as ZeroGPT, we concluded participants - or even bots - were using AI to generate story answers for them, possibly to receive the gift voucher for minimal effort.
+Contrary to claims that AI can sufficiently replicate human participants in research, we found AI-generated stories to be woeful.
+We were reminded that an essential ingredient of any social research is for the data to be based on lived experience.
+Perhaps the biggest threat to human research is not AI, but rather the philosophy that underscores it.
+It is worth noting the majority of claims about AI's capabilities to replace humans come from computer scientists or quantitative social scientists. In these types of studies, human reasoning or behaviour is often measured through scorecards or yes/no statements.
+This approach necessarily fits human experience into a framework that can be more easily analysed through computational or artificial interpretation.
+In contrast, we are qualitative researchers who are interested in the messy, emotional, lived experience of people's perspectives on dating. We were drawn to the thrills and disappointments participants originally pointed to with online dating, the frustrations and challenges of trying to use dating apps, as well as the opportunities they might create for intimacy during a time of lockdowns and evolving health mandates.
+In general, we found AI poorly simulated these experiences.
+Some might accept generative AI is here to stay, or that AI should be viewed as offering various tools to researchers. Other researchers might retreat to forms of data collection, such as surveys, that might minimise the interference of unwanted AI participation.
+But, based on our recent research experience, we believe theoretically-driven, qualitative social research is best equipped to detect and protect against AI interference.
+There are additional implications for research. The threat of AI as an unwanted participant means researchers will have to work longer or harder to spot imposter participants.
+Academic institutions need to start developing policies and practices to reduce the burden on individual researchers trying to carry out research in the changing AI environment.
+Regardless of researchers' theoretical orientation, how we work to limit the involvement of AI is a question for anyone interested in understanding human perspectives or experiences. If anything, the limitations of AI reemphasise the importance of being human in social research.

@@ -1,0 +1,33 @@
+The release of the latest version of ChatGPT just weeks ago created shock at the speed the technology was advancing.
+The Council of Trade Unions said it was a "wakeup call", and regulation was needed to ensure workers did not get a raw deal.
+Tech analysts say it comes only months after the government kicked decisions about artificial intelligence down the road.
+The advances in artificial intelligence are being compared to technological leaps from electricity, the internet and mobile phones.
+The release of the latest version of the chat-bot ChatGPT shows how quickly the technology is getting better.
+It can pass the US lawyers' bar exam in the top 10 percent - 80 percentage points better than an earlier version released only a few months ago.
+"How they work is by doing the equivalent of you or me sitting down one evening and deciding to read, and them not stopping for about 10,000 to 20,000 years," Auckland University professor in the School of Computer Science Michael Witbrock said.
+The technology was trained by being fed the internet, and by predicting the next word in a sequence - it spits out cogent answers to complex questions, writes essays and analyses images.
+Artificial intelligence sector group AI Forum chair Madeline Newman said the latest technology was cheap, easy for businesses of all sizes to use, and was available now.
+"I was talking to somebody the other day, and they were talking about how they found it just a revelation, because they're not terribly good at writing business letters.
+"And this is somebody reasonably senior, it was always a stressful thing to them for them to do, it was in a second language, and now they're able to get ChatGPT to write the first version."
+Experts say the benefits from artificial intelligence include likely massive increases in productivity.
+It can streamline work processes, help to make investment decisions, and could prompt huge leaps in drug development and disease treatment.
+An AI Forum report states the technology has the potential to increase New Zealand GDP by as much as $54 billion by 2035.
+The new developments suggest white collar workers in tech and the knowledge economy - including administrators, lawyers, journalists and other "email jobs" - are in for tougher competition from AI than perhaps previously thought.
+Council of Trade Unions chief executive Richard Wagstaff said it was a "wakeup call".
+"As whole workforces face potentially extinction ...we need to work on a just transition plan for those workers.
+"That is, give them support to retrain to find other industries to work in [which have a] future."
+He said there were enormous regulatory challenges ahead to ensure workers are not left worse off.
+We simply do not know yet how may jobs will be lost, or created, from the technology.
+The creators of chatGPT, OpenAI, expect in the coming years the vast majority of US workers will have at least some tasks affected, and a fifth will see half of their work substantially affected.
+AI Forum's 2018 report concludes there will not be mass unemployment.
+It said over the next 40 years AI driven job displacement will account for only 10 percent of normal job creation and destruction.
+While the government has a number work programmes regarding AI underway, there was currently no national strategy or money set aside for it.
+Newman said only last year the government "kicked AI strategy into the long grass" pushing work out until at least 2025.
+"We were not happy with it last year, and we're much less happy with it this year [given advancements] - we're the industry body, though, so of course we wouldn't be.
+"But I think everybody else is waking up to the fact now that it needs to be addressed.
+"You're going to end up walking in part way through the fourth industrial revolution and you will be walking into that without a strategy.
+"It will happen to us anyway, it is about how successfully we support that and how we point it in the right direction so it provides good results for Aotearoa."
+Newman said without a strategy New Zealand companies faced losing ground to their international competitors.
+Computer Science professor Michael Witbrock said one of the reasons he moved back to New Zealand four years ago was that he could see these changes coming.
+He said Aotearoa's history of being at the forefront of social progress - women getting the vote, anti-nuclear policy - makes it well placed to make the most, in a responsible way, of advancements in AI.
+Minister for the Digital Economy and Communications Ginny Andersen said, in a statement, "this government is focused on the future of work. We aware that Artificial Intelligence is a rapidly changing technology and the Government continues to monitor this technology and its implications closely.

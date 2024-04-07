@@ -1,0 +1,8 @@
+Earlier this year, global tech giant Samsung reportedly banned staff from using generative AI tools, after an accidental leak of confidential source code by an engineer who used ChatGPT.
+Mark Presnell of eCommerce integration firm Convergence said submitting queries to platforms like ChatGPT would put them into the public domain.
+He said companies needed to ensure staff were aware of the risks.
+"Personally, I think those safeguards are not in place. I think this needs to be addressed through education."
+Companies needed to identify what was or was not sensitive and what was or was not intellectual property.
+"Perhaps [companies should be] updating employment agreements, particularly clauses relating to confidential information and how that needs to be handled," Presnell said.
+People needed to understand that tools such as ChatGPT or other AI platforms were open, he said.
+"It's a tool, much like the early mobile phones, meant to facilitate our efficiencies. However, as we once transitioned from company-monitored phone calls to personal mobiles in the workplace, we are now navigating a similar shift with AI.

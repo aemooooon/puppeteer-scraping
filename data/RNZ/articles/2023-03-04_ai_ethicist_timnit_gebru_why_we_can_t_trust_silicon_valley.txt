@@ -1,0 +1,3 @@
+The speed of development in the field is dizzying, with new tools such as ChatGPT and DALL·E offering a sneak peek at the potential of AI to work for us.
+Ethiopian born US computer scientist Dr Timnit Gebru is a leading researcher on the ethics of artificial intelligence.
+Google hired Dr Gebru to co-lead its Ethical Artificial Intelligence Team, but then fired her in 2020 after she co-wrote an article questioning the dangers of the large language AI models the company was developing.

@@ -1,0 +1,15 @@
+The expansion of the use of facial recognition comes as the supermarket chain faces criticism for using the technology.
+Consumer NZ discovered 29 North Island Foodstuffs supermarkets were using facial recognition technology (FRT) to scan shoppers' faces.
+Consumer said Foodstuffs, which owns the supermarkets Pak'nSave, New World and Four Square, was the only major retailer in the country using this.
+FRT involves the identification of a person based on an analysis of their facial features. Artificial intelligence programs identify and map facial features to create a faceprint, which is compared to those on a database to find a match.
+Foodstuffs said the information was only used for crime prevention, and the images collected were stored no longer than five days.
+Consumer chief executive Jon Duffy said Consumer questioned whether collecting customers' data was proportionate to the risk Foodstuffs was trying to address.
+"If you imagine every single person going into a supermarket that has this technology operating is having their biometric data recorded by Foodstuff North Island and stored, is that smashing a nut with a sledgehammer?"
+He questioned how effective keeping data for five days was preventing crime.
+The Office of the Privacy Commissioner expressed its concerns about the use of FRT in a supermarket.
+"The idea behind FRT is that everybody in the store gets screened, and then if somebody is seen as being high risk they go onto a risk register. Our concern is about how people get onto the register, how long is that information stored for, and how do you come off," Deputy Privacy Commissioner Liz MacPherson said.
+MacPherson said there was currently limited evidence of FRT's effectiveness in keeping people safe.
+Foodstuffs have announced a FRT trial would be starting soon in about 30 North Island stores, to run for an initial six months.
+Foodstuffs North Island chief executive Chris Quin said the business' data showed repeat offenders were responsible for a high proportion of serious offending in the stores
+Quin said nearly 2500 out of around 9700 offenders were likely to be repeat offenders this year.
+"We have a responsibility to protect the safety and security of our teams and customers," he said.

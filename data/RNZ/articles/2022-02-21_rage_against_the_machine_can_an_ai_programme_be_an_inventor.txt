@@ -1,0 +1,20 @@
+US-based physicist Dr Stephen Thaler is testing patent law around the world to see if his artificial intelligence inventor programme, "Device for the Autonomous Bootstrapping of Unified Sentience" (DABUS), could be considered an inventor.
+In 2018, Thaler lodged an application for two patents for a food container invented by DABUS with the European Patent Office and later filed an International Patent Application.
+To date, the only office to grant DABUS a patent was in South Africa.
+Applications in Europe, the United Kingdom and the United States had all been rejected, with Dr Thaler's appeals also unsuccessful.
+It has also been also declined in Australia and New Zealand.
+The original Australian refusal was overturned by the Federal Court in 2021 which said that the country's patent act had no specific provision excluding AI systems as inventors, there was no explicit part of patent law that required a human author, and that the term "inventor" must be allowed to evolve over time as technology develops.
+That decision has now been appealed and the decision is now awaited by local legal experts on both sides of the Tasman, given the similarities in both countries legal frameworks.
+Chapman Tripp patents director Ben Halberg said he expected Thaler would appeal the negative decision in New Zealand as well.
+"Dr Thaler seems to be a very well resourced applicant having filed these applications in a number of countries overseas either wanting to get some clarity on the law or certainly bring attention to this ambiguity and potentially, future issues that are going to arise from the increasing prevalence of artificial intelligence systems."
+New Zealand's Assistant Commissioner of Patents rejected Thaler's patent application in January 2022, adopting a similar view to Australia.
+The basis of the ruling was that the term "inventor" intrinsically refers to a natural person and it was "ill-founded" to say otherwise just because the Act does not specifically exclude AI systems.
+It also held that the Act was drafted and had always been applied on the assumption that an inventor was a human being.
+But Chapman Tripp's Halberg has challenged that assessment, saying the Commissioner conflates "inventor" with "entitlement".
+"The Assistant Commissioner in his decision refers to an intrinsic requirement for that the inventor be a person but when the language of the act is examined in closer detail there's no explicit requirement at least that the inventor be a person, only that the applicant for the patent ... is a person."
+It was entirely possible that you could have a valid patent for a non-human inventor if there was a person applying for the patent, he said.
+He also said the purpose of the Act, among other things, was to promote innovation and economic growth and balance that against the interests of the patent owners and society as a whole.
+"Some consideration [by the government] needs to be given to the advantages of granting patents or not granting patents to non-human inventors."
+Halberg said he could see arguments on both sides because publication was important but the alternative was that any invention created by these artificial intelligence systems were kept secret and society would not have access to this information.
+"Once we address the question of the whether the inventor, for the purposes of the Act, can include an artificial intelligence system then there is certaintly an argument that as the owner of that system Dr Thaler would be entitled to the patent rights of that invention," Halberg said.
+Thaler has until 28 February to appeal the decision to the High Court, which Halberg believed has a "high likelihood" of succeeding for the same reasons seen in Australia.

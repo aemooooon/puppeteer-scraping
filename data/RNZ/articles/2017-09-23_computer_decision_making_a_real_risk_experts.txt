@@ -1,0 +1,15 @@
+Lawyers and advocacy groups have been demanding the Accident Compensation Corporation - which this week admitted some staff use fake names - divulges details of its computer prediction programme, which profiles how long a client will use services.
+They said they were concerned the model was based on getting people off ACC, instead of helping people.
+ACC said the system, known as the "survival analysis model" has been used for three years. At the time, ACC said the system was system was designed to process claims more efficiently and there were no data breaches.
+University of Otago Artificial Intelligence and Law in New Zealand Project Associate Professor James Maclaurin said details of the ACC model, and how it was used, were sketchy.
+Scant information was available, he said, and the most concrete information available said the tool was used to predict which clients were most likely to need help and should be called; which type of case manager should help; and how long ACC expected a claim to be managed.
+"This somewhat vague description leaves open the possibility that ACC uses these predictions to minimise treatment times, either by intervening in patients' treatment, or by declining applicants with long predicted treatment times."
+Department of Computer Science Professor Alistair Knott said the tool made predictions about future ACC cases using a database of 364,000 past claims lodged between 2007 and 2013.
+The corporation stressed case details were kept private and management appeared to be ultimately under human control, he said.
+"But ACC workers find themselves in a situation increasingly common in our society: their decisions are guided by advice generated automatically by a machine, based on a large set of data extending far beyond their own experience.
+"We are in the same position when we use Google's navigation system in our cars, or choose a book based on Amazon's recommendations. In these cases, having a computer in the decision-making loop seems innocuous enough.
+"It seems less innocuous when it guides the agencies whose decisions have serious consequences for people's lives."
+Prof Knott said it was fundamentally a good thing to use statistics to inform decision-making but if government department relied on such tools they needed to answer questions of accuracy, declare publicly how tools were used, and whether there was any potential for discrimination based on, for example, age, ethnicity, or gender.
+"There is a real risk that the ACC tool unfairly discriminates against some clients. This possibility needs to be explored in an evaluation of the system," researchers said.
+Faculty of Law Professor Colin Gavaghan said predictive technologies showed potential for informing public decision-making.
+"But we are calling for ACC to provide a public account of how it uses its predictive tool, so as to maintain the integrity of its decision-making," he said.

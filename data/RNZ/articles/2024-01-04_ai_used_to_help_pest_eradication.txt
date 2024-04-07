@@ -1,0 +1,2 @@
+Developed with funding from the BioHeritage National Science Challenge, the Find-A-Pest app, launched in 2018, now uses artificial intelligence to identify pests and where they're found.
+Data gathered by users is then sent to experts who confirm the identifications.

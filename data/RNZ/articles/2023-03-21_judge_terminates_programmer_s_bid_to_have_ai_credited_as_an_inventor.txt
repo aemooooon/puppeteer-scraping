@@ -1,0 +1,14 @@
+Artificial intelligence (AI) cannot be listed as an inventor under New Zealand patent law - it has to be a real person, a court has ruled.
+American programming pioneer Dr Stephen Thaler has developed an AI system named Dabus, which in turn has invented a new type of food container that can interlock with others.
+When he tried to apply for a patent for the container in New Zealand, citing Dabus as its inventor, the Commissioner of Patents' office turned down the application.
+"If the legislators had intended to allow granting of patents in New Zealand for inventions devised solely by non-humans such as artificial intelligences, or life forms other than human beings, they would have drafted the (Patents) Act to accommodate these possibilities specifically and explicitly," the ruling said.
+"They did not do so. It is not appropriate for the commissioner to ignore this fact and decide a case as though they should have done so."
+Dabus stands for "Device for the Autonomous Bootstrapping of Unified Sentience", an AI system devised by Thaler made up from interconnected and interacting "neural networks".
+The new type of food containers have fractal-produced grooves and ridges on the outside, which make them easy to connect together.
+They are also easy for robots to grasp.
+Thaler has unsuccessfully appealed decisions by patent authorities in the United Kingdom, the United States and Australia, who have also found that Dabus cannot be an inventor.
+However, he is continuing to pursue legal challenges around the world and has had success in South Africa.
+After he was refused his New Zealand application, Thaler appealed the assistant commissioner of patents' decision to the High Court, arguing that it would be factually incorrect to name anyone other than Dabus as the inventor, and it would open the patent to challenge.
+However, Judge Matthew Palmer said he did not think it was appropriate for the courts to expand the statutory definition of an inventor.
+"Such a step is more appropriately reserved, in our constitution, for Parliament," the judge said.
+He said that when the Patents Act 2013 was introduced, at a time when artificial intelligence was known about, there was no suggestion that Parliament intended to remove the requirement that an inventor be a natural person.

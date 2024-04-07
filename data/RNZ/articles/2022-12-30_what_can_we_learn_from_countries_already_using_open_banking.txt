@@ -1,0 +1,26 @@
+Analysis - Traditional banks in New Zealand have long served as gatekeepers of customers' data. This is about to change with the arrival of what's called "open banking", set to arrive in New Zealand by 2024.
+In essence, open banking is where a traditional bank makes client and transaction data available to another financial service provider. This provider then uses the information to find the best deal for customers.
+The government recently agreed to establish a consumer data rights framework (CDR), paving the way for open banking in New Zealand.
+As the country prepares for this new way to do banking, we can learn a great deal from the experiences of Europe and the United Kingdom - particularly in relation to concerns over governance and the security of data.
+Open banking is gaining global recognition as it helps integrate new financial service providers into the financial ecosystem, making it more sustainable, efficient, agile and innovative.
+For someone with several accounts across different banks, open banking will allow them to check all their transactions in a single interface through account aggregator applications. The customer will then be able quickly move funds between their accounts.
+With the help of artificial intelligence, the same application can help customers organise their finances by suggesting financial products with better rates and conditions.
+As far as small-and-medium-sized entrepreneurs are concerned, open banking enables them to control their cash flow better, reconcile payments and manage inventories. Open banking also allows business owners to integrate their financial information with their accounting service provider.
+But as we embark on this brave new world, what can we learn from the experiences of those countries that have already introduced open banking? Helpfully, there are two recent reports from the UK and Europe that illustrate some of the benefits and pitfalls of the process.
+Open banking emerged in July 2013 as part of the European Commission's revised Payment Services Directive 2 (PSD2) proposal. Open banking is now a global initiative where the UK and continental Europe are seen as global leaders. In Europe alone, there are at least 410 third-party providers.
+In May 2022, the UK's Competition and Markets Authority published the results of an investigation into their open banking experience.
+The authority's investigation raised concerns over corporate governance failures, the late delivery of accounts, management of conflicts, procurement, value for money, and it identified the need for human resource improvements.
+The issues mainly related to governance failures at the Open Banking Implementation Entity (OBIE).
+The OBIE was charged with overseeing the implementation and the performance of open banking by the nine largest banks in the UK. This governance structure led to too much power being vested in a single trustee, with insufficient checks and balances on their decisions. In addition, there were failings in the risk management system and internal controls.
+The UK government has recognised the problem and is in the process of reinforcing OBIE's governance structure.
+Recently, the European Commission held public consultation on its 2013 directive and the commission's work on open banking. Most of the respondents were concerned about sharing financial data due to a lack of trust - stemming from concerns over privacy, data protection and digital security. There was a general sense of not being able to control how their data was used.
+Some 84 percent of people responding to the public consultation believed there were security and privacy risks in giving service providers access to their data.
+Moreover, 57 percent of respondents believed financial service providers that hold their data only sometimes ask for consent before sharing that data with other financial or third-party service providers.
+The European and UK experience highlights the issues related to the implementation of open banking and public perception. The New Zealand government should carefully consider the governance and data security issues raised by the two reports.
+It is crucial to develop an effective board oversight and risk management strategy. A consent management tool should be introduced to build trust and transparency. There should also be a high-level system in which all data holders and users are adequately monitored and supervised.
+Implementing open banking in New Zealand should result in a shift of power from traditional banks towards a vigorous financial technology sector. It should also create opportunity for traditional banks to innovate and become much more responsive to customer needs.
+If we get it right, open banking will ultimately mean New Zealanders are better served by their financial system.
+This story first appeared on The Conversation website
+*Abhishek Mukherjee is a lecturer in Accounting and Finance at the University of Waikato.
+**Paresha Sinha is an associate professor at the University of Waikato.
+***Paul David Richard Griffiths is a professor of finance; academic director of gaduate programme in banking, finance & fintech at EM Normandie.

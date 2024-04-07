@@ -1,0 +1,11 @@
+The court system is going fully digital under a programme called Te Au Reka, expected to cost $169 million over four years.
+In getting their heads around new tech, the judiciary in April set up the new group to look at artificial intelligence.
+"The group's initial priority was to prepare guidelines regarding generative AI in the context of New Zealand courts," said the office of the Chief Justice.
+The chief justice set up the group, led by the judiciary.
+RNZ asked if the group had any industry-affiliated members, or researchers independent of the judiciary.
+Its includes representatives from the senior courts and District Court, judicial support staff, court registries, and the Ministry of Justice, the office said.
+The three lots of guidelines cover security risks, where the AI might help and where it would not help the courts.
+Lawyers, academics and community groups were now being asked for their say on the guidelines, with feedback closing in mid-October.
+Recently, [https://www.rnz.co.nz/news/political/491407/government-ministry-blocks-ai-technology-from-staff-use
+the Ministry of Business, Innovation and Employment banned staff] from using AI such as ChatGPT, citing data and privacy risks.
+In March, the Law Society said its libraries had started receiving requests from lawyers for details of cases an AI chatbot - such as ChatGPT - had told them about, but which turned out to be made up.

@@ -1,0 +1,15 @@
+It's a recognition of AI's potential, decoding how AI already affects everyday life, and what it will mean in the future. It's also a call for regulation and control, and decisions to be made about where responsibility lies when it causes harm.
+Director of the New Zealand Law Foundation Centre for Law and Policy in Emerging Technologies at the University of Otago, Professor Colin Gavaghan, tells Kathryn Ryan that law change is a slow process – for good reason – but that can make it difficult to keep up with rapidly emerging technology.
+The first problem they encountered when they started the project was defining what artificial intelligence is.
+“There are as many definitions as there are people working in the area, so it’s really hard.”
+But they did finally land on a definition for their purposes:
+“AI is when we’re talking about machines demonstrating qualities and performing tasks that we would typically associate with human intelligence – tasks that require things like learning, reasoning, problem solving, or make predictions based on past experiences.
+“When computers do these things, they don’t necessarily do them the same way we humans do, so when we talk about reasoning and intelligence, we’re talking about it in a slightly metaphorical sense but that’s probably the closest we can get to a fairly expansive definition.”
+While AI and machine learning can be of great benefit and convenience to people, such as Google searches, Gavaghan says there are real concerns about what turns up on people’s newsfeeds and how it can lead them down rabbit holes.
+“They could see extremist thoughts or end up in echo chambers because of these prediction and recommendation systems.”
+He says that, in the wider world, we don’t have a clue what level of technology is being used and what it’s been used for which makes it very difficult to police.
+“What I always tell my students is, before we start thinking about making new laws, let’s see what’s there already and see whether it can be made to apply to these new technologies.”
+Another problem we come up against is terms of service and privacy policies for technologies we purchase or use, which nobody really reads.
+“The consent-based model is ludicrous. I’m a tech lawyer and even I don’t read all these policies. It’d be impossible, it’d take up half your day.”
+Furthermore, if you want to challenge an AI system that decided not to shortlist you for a job or denied you a visa, it can be very difficult.
+“To challenge it meaningfully, you need to be able to find out how it was made in the first place. A real problem with AI systems is something called the ‘black box problem’ wherein we can see the information that went in at one end, and we can see the result at the other end, but it’s hard to see the working in the middle.

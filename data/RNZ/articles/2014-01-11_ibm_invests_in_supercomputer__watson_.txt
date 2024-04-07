@@ -1,0 +1,4 @@
+The supercomputer, known as Watson, beat human rivals when it competed on the American gameshow Jeopardy in 2011.
+Named after former IBM president Thomas Watson, the computer aims to mimic how people think, using natural language capabilities and analytics, but can process vast amounts of information faster than the human brain.
+IBM plans to farm out Watson's abilities to businesses and consumers via its cloud computing infrastructure, Softlayer.
+The company is creating a new division for Watson, and its investment includes a $US100m fund to boost innovation in Watson-related developer apps, the BBC reports.

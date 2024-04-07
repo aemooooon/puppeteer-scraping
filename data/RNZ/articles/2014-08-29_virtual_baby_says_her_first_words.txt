@@ -1,0 +1,16 @@
+BabyX is a 3D computer-animated infant that can see, react and respond to what is in front of her - and she is learning more as she gets older just like a real child.
+Watch BabyX reading and saying some of her first words
+A video by the university shows her reading out words that are held in front of her and recognising pictures.
+But her artificially-intelligent brain also releases virtual dopamine when she is praised, meaning she smiles and giggles when she thinks she has done something good. She is also seen smiling when doing well at a game of virtual ping-pong because she's learned to hit the ball.
+BabyX is based on the real-life daughter of Dr Mark Sagar, who is the director of the Laboratory for Animate Technologies at the Auckland Bioengineering Institute
+BabyX is officially classed as a biologically-based artificial intelligence, and a prototype. Dr Sagar says his research falls into an irresistibly interesting area.
+"It literally learns from what it experiences. So if you show it something or do various things, then that is what it's learning from, it's not pre-trained. And that sort of takes us into the whole area of how does a machine learn, and how do people learn."
+BabyX is essentially a cluster of inter-connected neural networks. She can see and hear Dr Sagar when he is talking to her and read his facial expressions and hear the tone in his voice.
+"Nature's done all these things where you've got these certain systems which actually have multiple effects on the body, and what we've done is kind of modelled those and from these low-level building blocks it gives us all these more complicated behaviours which actually involve learning and behaviour itself."
+Dr Sagar is no stranger to computer animation and has worked on simulating faces for Hollywood blockbusters at Weta Digital.
+After his daughter Francesca was born, it wasn't long before BabyX entered the world as well in a bid to build a computer system that can learn like a human.
+"The idea was what's a good place to start with this, and to be as simple as possible which is a baby. We happened to have new baby at the time so I thought that could work out quite nicely to combine life and work a little bit."
+Watch how BabyX sees the world in front of her
+Mark Sagar says BabyX serves as a platform which can be used in many ways. He says she could be used to teach reading, or for medical education, and there are links with how computers of the future will learn.
+"On the applied side a really big one is a way of interacting with computers, so it's basically a human-computer interface ... where you're actually having a natural way of interacting with the machine."
+Dr Sagar says he does not yet know if BabyX will be allowed to keep growing older, or whether she will have her learning limited.

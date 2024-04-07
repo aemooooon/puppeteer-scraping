@@ -1,0 +1,14 @@
+It said the systems could make judgements that were discriminatory or just plain wrong.
+Generative AI such as ChatGPT can produce original texts such as essays and to date, most debate about its use in education had focused on potential cheating by students.
+The ministry's advice to schools said the tools could also look promising for marking work, but teachers should be cautious.
+"Without understanding the basis for the judgements (i.e. seeing inside the algorithm), this can be unfair and discriminatory. It is the responsibility of teachers and the school to make final decisions on learners' work," it said.
+"Also, because of the way these tools 'invent' answers, sometimes they can be simply wrong. AI systems trained off the internet have not seen enough work by children or young people to have a good understanding of what is appropriate for or expected of young people."
+Victoria University senior lecturer in software engineering Simon McCallum said he agreed teachers should be wary of using generative AI for marking.
+He said he had tried it himself to see how well it might work but it was not clear if the tools were consistently accurate.
+"We haven't really done enough experimentation with it and worked out whether it does a consistently good job," he said.
+"You don't know if it just sort of suddenly goes off the rails and does something crazy and punishes a student for using the word 'unicorn' or something because we don't know what triggers the AI to perform in unusual ways."
+However, McCallum said he expected AI tools would eventually be very good for grading students' work.
+"We can train it to avoid having bias and it will be uniform for every student. It doesn't get tired as it goes through the marking and decides that the person who's given this answer the 70th time is boring and gives them a low grade," he said.
+"There are a lot of advantages having machines doing this and automating it but the quality isn't there yet."
+Secondary Principals Association president Vaughan Couillault said generative AI might be helpful for teachers but should not be relied upon.
+"Whilst it might be a useful tool to use in your marking, the most useful tool to use in your marking is your professional judgement," he said.

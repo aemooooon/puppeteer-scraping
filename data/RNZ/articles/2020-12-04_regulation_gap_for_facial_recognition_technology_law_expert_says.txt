@@ -1,0 +1,55 @@
+Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR).
+Without major intervention any framework to control facial recognition technology "cannot hope to engender public confidence that its use is fair and lawful", the study said. It recommends 15 moves, such as a moratorium on live FR use by police.
+Read the full report here
+In 20 years, New Zealand has gone from testing budding facial recognition on passports in partnership with the German government in 2000, as revealed in a recent OIA response, to a state-wide system replete with such tools as BriefCam, that scans CCTV footage superfast using 27 identifying factors in addition to facial recognition.
+Many of the tools link up in an automated system officials finished setting up last year, to share passport, drivers licence and immigration photos and data, around the clock.
+It's a scenario that unsettles lead researcher Nessa Lynch.
+"The infrastructure and the framework for mass surveillance does exist, and all our discussion and our investigation seems to show that the police are using it in a relatively restrained manner at present," said Lynch, associate law professor at Victoria University and a member of the state sector's Data Ethics Advisory Group.
+"But I think the issue is that we don't actually know and we don't actually have a regulatory framework.
+"So in comparison to other types of biometrics, like DNA, and even fingerprints where there is a clear statutory regime around when you collect it, when you retain it, and what you can use it for, the facial images is very much in a regulation gap at the moment."
+The 118-page involving UK and Australian academics, focuses on the risks to civil liberties, described as "pernicious", as opposed to the obvious benefits of the tech for fighting crime.
+"New Zealand, like many other jurisdictions, has a regulatory gap that can permit troublesome surveillance practices," it said.
+Unlike fingerprinting or DNA sampling, facial recognition could collect images at a distance, and without a person's consent or even knowledge, Lynch said.
+Some people like to share their lives on Twitter and Facebook, some people don't. But you've got a certain amount of control over that, she said.
+"Whereas if the state is running it, you don't have control.
+"The consequences are the thing... What if the surveillance or the police use of this technology has consequences in terms of arrest or conviction or some sort of other coercive power?"
+The police under media pressure, recently revealed they have a dozen high-tech tools in their investigative armoury.
+Beyond that, facial recognition is also increasingly being run in other public systems, with increasing penetration by private companies.
+One example is passport processing by Internal Affairs that now relies on a system set up and managed by two major multinationals, under a contract syndicated so other departments can sign up easily and cheaply too.
+It concerned Lynch that the infrastructure had already been assembled, and was being added to continually, with little public buy-in or knowledge, aside from disparate media releases.
+This counted against transparency already, she said.
+"Where the New Zealand government is making a condition of a particular service, that your facial image is being collected and [the system] is being run by a private supplier, we need to be very transparent around the laws and the regulations that apply to that."
+The public-private blurring blunted what little regulation there was still further, the study said.
+"Private organisations could deploy FRT surveillance on land that is ostensibly public, and may set up partnerships with state agencies to share matches. This has the potential to exacerbate the opacity of how FRT is being deployed, as private companies may be able to circumvent regulatory requirements."
+Lynch said the point was the "infrastructure is there and if there was to be bad actors or a change of government policy or change of police policy ... who [is] surveillance and police action directed against?"
+Facial recognition technology is "trained" on artificial intelligence algorithms that have been proved in some cases to retain the biases of the software developers, making minority groups nervous of its misuse.
+Another of the researchers, Dr Joe Purshouse of the University of East Anglia, said New Zealand had not gone as far as the UK in the trial and use of facial recognition technology and should strengthen its weak laws while it could.
+"New Zealand has got a number of sort of structural weaknesses, that perhaps would create the risk to the human rights of people, and ethical abuse of this technology that could go on with relative impunity compared to somewhere like the UK," Purshouse said.
+The constraints on police or other agencies developing facial recognition watchlists was better in this country than the UK, he added - it was a mixed bag.
+One move could be to follow Europe's general data protection regulations - called the "toughest privacy and security law in the world" - in making facial recognition, DNA and fingerprint data subject to a higher level of safeguards, Purshouse said.
+"There are contexts where facial recognition might be used in full adherence to the law," he said.
+"But at the moment in New Zealand, I think part of the problem is there is a lack of transparency between how things are used, and a lack of consideration of the human rights impacts of the technology, and a full privacy assessment and human rights assessment of the impacts of different use cases before the technology is being used."
+Scotland had just set up a biometrics commissioner as watchdog, and this was recommended for New Zealand, he said.
+Facial recognition is being enthusiastically marketed here as a boon for security and safety, tied to artificial intelligence that's able to analyse enormous data hoards quickly.
+Integrating facial recognition technology across agencies is being pushed by the likes of Japanese giant NEC, which has key software within the police, Internal Affairs and Immigration New Zealand.
+This country was among the first to boast a significant database of passport photos, an OIA response said; and police currently hold hundreds of thousands of facial images, including of about 250,000 firearms licence holders, and want to add tens of thousands more each year.
+Function creep is occurring routinely, such as Immigration NZ currently adding what it calls "enhanced face templating" to its systems, according to an OIA response.
+There is data-sharing creep, too, the latest being officials looking at sharing biometric data with Japan, Indonesia and Europol, in addition to the four countries they already share Immigration's fingerprint data with Australia, UK, US and Canada, another OIA response showed.
+The risks ranged from low to high, the new research said, and in the category of systems "with capability for targeted and mass surveillance activities that clearly pose high-risk" mentioned police systems BriefCam, NewX, Cellebrite and ABIS.
+"Even if some technologies become relatively widespread in the private sector, their use by police raises different issues, related to power imbalance and trust," it said.
+Lawyer Louise Taylor, who is deputy chair of the AI Forum, said public nervousness about the tech must be tackled.
+"We need to be careful not to over-regulate technology generally, because there are some beneficial uses of facial recognition.
+"But there are gaps in the current legal framework.
+"So we need to look at regulating particular applications ... particularly where it has the potential to cause harm to society or certain sectors. So one of those applications is in policing and criminal justice," Taylor said.
+An update of the Privacy Act on 1 December had set out general principles but not codified specific rules for biometrics, and "given the concerns about privacy" this had to be looked at.
+"Because conversations need to move away from the harmful effects of these forms of technology, and actually how we can use them in a way which is safe, and which is trusted by the general public," she said.
+It was crucial to get transparency around how the algorithms used to train police facial recognition tech were set up, to negate bias against Māori and Pasifika people, Taylor added.
+Some US tech firms have put a hold on supplying the tech to police departments due to the bias and unreliability concerns, but the American companies are small players in a global market dominated by Chinese giants such as Huawei, and also Japan's NEC.
+Today's report makes 15 recommendations including for a biometrics commissioner and a moratorium on police use of live automated facial recognition, something police say they do not do.
+"We would welcome robust public debate around emergent technology and the development of a legal and ethical framework which we can all sign up to," said deputy chief executive of Insights & Deployment Mark Evans.
+Police would be publishing an Emergent Technology report every three months, would appoint an expert panel on new tech, with external input, and had new policy around the tech's use. They have signed up to a national Algorithm Charter, meant to safeguard algorithm deployment.
+Last year a Law Foundation-funded report from the University of Otago called for safeguards against the risks of algorithms, and creation of a regulatory agency to monitor algorithm use.
+The research report said the regulating of facial recognition technology use sat across "numerous pieces of legislation, regulation and policy. There remains a significant regulation gap".
+Evans said it would not be appropriate to comment on matters relating to government regulation or legislation, but police "recognise facial recognition is an area of high and legitimate public interest".
+"We are committed to transparency and consultation around this work."
+The police did not use public facing, or 'live' facial recognition technology, he said.

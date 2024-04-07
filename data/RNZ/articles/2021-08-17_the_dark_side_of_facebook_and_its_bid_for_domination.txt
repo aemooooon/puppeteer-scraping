@@ -1,0 +1,48 @@
+New York Times reporters Cecilia Kang and Sheera Frenkel connect the dots between Facebook's business model and the misinformation, data mining and hate speech that the company has enabled.
+After covering Facebook for 15 years, Frenkel and Kang believe that rather than acting like some kind of Frankenstein's monster that has outgrown its creators, the company is still behaving exactly as it was designed to.
+“[Facebook is now] actually performing very well at its given functions and exactly what its creator Mark Zuckerberg wanted when he first conceived of Facebook, and of a social media company that would connect the world,” Frenkel says.
+Zuckerberg has always prioritised engagement and downplayed risk, Frenkel says.
+“He's not the kind of person, I think, that has seen much of the dark side of the world, one of the things we show in the book is how he went from a quite a sheltered upbringing to one of the best private boarding schools in the United States, and then to Harvard.
+“He's not someone who's experienced much hardship in his life. And so perhaps seeing things like hate speech and misinformation, and how they were going to run rampant and how those were going to be things people engaged in was not something someone with his particular background would see. He also hasn't surrounded himself with people who would necessarily see that.”
+The journalists spoke to 400 people for An Ugly Truth, many of them current Facebook employees with misgivings about decisions made at the executive level.
+“They were seeing decisions that were made that they just simply didn't agree with. And they want to see changes from within.”
+Facebook’s platform is built upon a fundamental dichotomy, the authors say - it connects people while also profiting from them.
+The "ugly truth " of their book’s title comes from a line in a memo written by a top Facebook executive.
+“He essentially argues that there's a truth at the heart of Facebook, which is that their mission is to grow their company and connect to the world.
+"And if some people get harmed along the way, that's something they're just accepting. That's basically the cost of doing business,” Frenkel says.
+The growth of hate speech and misinformation was known to Facebook’s executives from the start but their attention was fixated on growth, Frenkel says.
+When they did try to tackle the problem, technology was seen as a silver bullet, Kang says.
+This same tech failed completely during the Christchurch mosque shootings.
+“They put a lot of faith in the idea that their machine learning and artificial intelligence could detect and weed out problematic content.
+“What they didn't realise is it was a really simple workaround, that people easily replicated or posted versions of this live shooting over and over and so quickly and were so easily able to get around these filters, these technology tools.”
+The broadcast on Facebook of a video made by the mosque shooter showed the shortcomings of Facebook’s censorship technology and also revealed something about the culture within the company, Kang says.
+“Particularly borne from Mark Zuckerberg [was] this idea that technology can be the solve-all... and it just has its limits because behind all technology are humans who develop these technologies.”
+A concept called 'algorithmic amplification' sped up the sharing of the Christchurch shooter’s live feed, Frenkel says.
+“People who engaged with that video, whether they engaged with it because they were upset that they were seeing it on Facebook, or whether because they supported it for some reason... those people were ultimately amplifying it on Facebook so that if you logged in, you were more likely to see it at the top of your newsfeed.”
+Facebook simply couldn’t stop the footage being shared, she says, despite having powerful technology designed to prevent such content from surfacing.
+“It shows the problem with the growth that Facebook was focused on, it was so focused on getting billions of people across the world connected and on their platform that they didn't scale up the safety side in parallel to that.”
+Facebook has an ethos of 'company over country' that is typical of a Silicon Valley mindset where growth is rewarded over societal good, Kang says,
+“It's something that not only is embraced, because there is so much incredible competition in Silicon Valley, but also investors reward that mentality, people join these companies with the attitude that they want to win, anything to get your company ahead.
+“And there's this just brutal, shark mentality, that you always have to swim and you always have to hunt or else you're gonna die.”
+People perceived as downers are not welcomed at Facebook, they say.
+“A repeat pattern we saw in the book is that both Mark Zuckerberg and Sheryl Sandberg don't deal well with bad news that’s brought to them.”
+Sandberg’s conference room is named ‘Only Good News’, she says.
+“We spoke to so many people that worked for them that said they got the sense that looking into something, uncovering something, that was going wrong at Facebook was frowned upon by executives.”
+Facebook's former head of security Alex Stamos uncovering Russian interference in the 2016 US election is a stark example of this.
+“He brings [the information] to his bosses and essentially says, look you have been going out there and telling people that it's a crazy idea that Russia used Facebook to influence Americans during the 2016 elections.
+“And our team has been looking at this, we've been uncovering Russian accounts who have been trying to spread hacked documents to journalists and influence coverage, and in fact, influence Americans.”
+Facebook’s executive response to Stamos's discovery was lacklustre, the book says.
+“They saw what he had done as a bit of an inconvenience, holding them in a corner where they then had to take action, and perhaps where they were going to face problems from members of Congress, from members of the public over what Alex Stamos covered.”
+Despite appearances, Facebook CFO Sheryl Sandberg isn't as powerful within the company as many would imagine, Frenkel says.
+“We were so surprised with our reporting on Sheryl Sandberg and we really thought that she was the person who was supposed to balance out Mark Zuckerberg’s less informed, younger instincts, the fact that he's not quite as mature or has lived as much of real life really as she has.
+“And we were so surprised to find that not only does she not have as much say in really important big decisions, but she didn't push back that much.”
+Sandberg's lack of response to a Facebook video of an apparently intoxicated Nancy Pelosi is a case in point.
+“People within Facebook are saying we’ve got to take this down, it could lead to real life political misinformation.
+“And Nancy Pelosi’s office itself, which was close to Sheryl Sandberg, said we're really protesting the video and Mark Zuckerberg said 'keep it up' even though Sheryl Sandberg had said, not very firmly though, that she thought it should be taken down.”
+Rather surprisingly, Facebook's vice president of global public policy Joel Kaplan is a hugely powerful figure within the company.
+Kaplan was particularly powerful and influential over the five years of the Trump administration when Zuckerberg and Sandberg found themselves in unfamiliar political territory, Frenkel says.
+They hired Kaplan, a former George W Bush chief of staff, to give them the Republican view of the world.
+“A lot of the big decisions on [freedom of] speech really boiled down to whether, in Joel Kaplan’s view, these decisions would upset and anger Republicans.
+“He always brought that into the equation when making big decisions over some of the posts that Trump had on Facebook, and whether they should be taken down.”
+Kang and Frenkel don't see much chance of Facebook changing from within anytime soon.
+“If Mark Zuckerberg continues to be CEO with 60 percent of voting shares in the company, essentially having control over the biggest decisions, it's really hard to see a change in direction he believes strongly in this company.

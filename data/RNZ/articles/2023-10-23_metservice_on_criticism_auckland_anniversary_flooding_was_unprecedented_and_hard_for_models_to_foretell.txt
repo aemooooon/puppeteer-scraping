@@ -1,0 +1,20 @@
+Its weather modelling systems did not forecast the amount of rainfall or degree of severe flooding caused by the deluge, an internal review found.
+But MetService chief executive Stephen Hunt said that was because meteorological models base weather forecasts on how the weather has behaved previously - past data - but the Auckland floods saw an unprecedented amount of moisture in the atmosphere, that was very hard to forecast.
+The review looked into the State Owned Enterprise's performance in relation to both the 27 January Auckland Anniversary weekend floods and Cyclone Gabrielle, which caused devastation in many parts of the Upper North Island in February.
+Hunt said for Cyclone Gabrielle its forecasting models performed well and meteorologists were able to predict much of what happened.
+But in the case of the earlier Auckland Anniversary floods, Hunt said the weather behaved differently to how it had in the past.
+"A very narrow, very long channel of very very very moisture-laden air was funnelled down over Auckland and that region. That was very hard to predict exactly what the weather phenomena was going to be - but more importantly, exactly where it was going to land."
+It had not been just MetService models that struggled with those predictions, but all models. And in cases like this, intervention from meteorologists was essential, Hunt said.
+If a model appeared to be under-forecasting or forecasting incorrectly, meteorologists could then apply their expertise to modify the forecast to cater for that.
+"The models are based on mathematics, physics, and formed by how weather has performed in the past by data," he said.
+The three main weather modelling regimes in the world come from Europe, the UK and the US and provide the essential foundation for all weather modelling around the globe.
+Localised models were also then developed.
+"What we're seeing around the world at the moment are really significantly different weather phenomena, with the patterns and weather events which do challenge the traditional nature of these weather models that have been established for some time."
+He said with the speed of climate change "these models sometimes do struggle to cope with what is happening in the climate change future."
+The internal review was carried out to ensure the agency was adapting their systems to provide the best service to New Zealanders.
+"As we're seeing around the world - with climate change affecting traditional weather patterns in different ways and more extreme weather becoming more frequent and more intense - that such an occurrence in New Zealand naturally exposes gaps and opportunities in systems that we've had for some time.
+"We're continuously learning and evolving our systems, which have served us very well in the past, but now we have to adapt and now we have to respond to that change in climate to make sure we can continue continually serve New Zealand best."
+He said that was not just for modelling, but also forecasting, alerting and warning.
+One lesson they took from the Auckland floods was a need to focus on their alerting service.
+Hunt said work was also being done with AI informed future weather models.
+While AI and machine learning already played a part in weather modelling, "the new generation of weather models are going to be heavily informed by those new capabilities."

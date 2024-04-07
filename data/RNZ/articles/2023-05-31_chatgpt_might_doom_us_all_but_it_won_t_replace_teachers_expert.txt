@@ -1,0 +1,21 @@
+AI language processing has improved in leaps and bounds over the past few years, and particularly the last six months since the release of OpenAI's ChatGPT.
+That, and the company's newer GPT-4 model, are able to create large amounts of text based on simple prompts - which some students quickly realised could be used to cheat on schoolwork.
+But educators too think there might be uses for GPT and similar technology in the classroom - to speed up marking.
+Last week, Australia's Federal Education Minister Jason Clare said AI could "help teachers by automating routine tasks such as grading and allowing them to focus on the more critical task of teaching and mentoring students".
+The Ministry of Education here has warned teachers not to use ChatGPT to mark students' work, saying it could be "unfair and discriminatory", "weak on Mātauranga and Te Reo Māori" and "may produce results with errors and biases which can reinforce existing inequities".
+The ministry also said the technology can also produce answers that are just plain wrong - they are designed to "create answers that are grammatically correct compilations of text, based on predicting what word should come next in a sentence", and do not actually understand whether what they have created is true or not.
+Victoria University of Wellington computer scientist Simon McCallum told Morning Report on Wednesday algorithms have long been used to mark students' work in the form of multi-choice questions, and AI could ease the workload for teachers in judging "summative" work - whether a student has learned something or not.
+But teaching was not all about just putting facts in students' heads, he explained.
+"As a teacher, I have come to the realisation that my value is not in the massive amount of information I've tried to store in my head - it's in my ability to inspire my students, to mentor them, to be with them on their journey, and that's my real value. And actually, the assessment is just a way of signalling their progress rather than the focus of my education…
+"Summative [assessment] could be done by AI, because it's just that measure of position - but that connection, that formative needs humans."
+But not just yet, perhaps.
+"It's ready to start thinking about it, certainly. Fifteen years ago I wrote algorithms to help grade student work... The idea is that we're now at the point where the AI is just about to be able to start marking, if we change the way we assess people to make it easier for the AI to do the marking."
+AI language models are typically trained on enormous amounts of text, including material scraped from the internet, Wikipedia and books.
+The Ministry of Education said they are not designed to understand writing by children.
+"AI systems trained off the internet have not seen enough work by children or young people to have a good understanding of what is appropriate for or expected of young people."
+McCallum said this was only partly true.
+"It has quite a good ability to move between contexts, so if you give it the context of a five- or six-year-old child, it is starting to be better at identifying that level of language and that level of interaction.
+"But that requires sort of expert prompting and expert use of the AI - part of our problem is most of us as a population aren't expert users."
+As for fears ChatGPT and its peers could be harbingers of doom - not just for our jobs, but our very existence - McCallum said it was not a risk to be taken lightly.
+"One of the things that I've been playing with is called AutoGPT, where you let the computer ask GPT for a plan, and then each one of those steps it tries to execute. Now, I can just let that run on my computer, and so long as my computer is firewalled off from other things and it can't build stuff or interact with the financial markets or interact with power grids, that's fine.
+"But if somebody who has those connections and isn't as careful allows it to leak basically from the computer into our internet system and it works out how to multiply, how to copy itself, then we're not sure how to stop it.

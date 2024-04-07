@@ -1,0 +1,55 @@
+It lists more than a dozen investigative tech tools, including drones that can send live footage to patrols, a superfast system to spot suspects in CCTV feeds and a cellphone scourer with facial recognition capability.
+The stocktake has been released under the Official Information Act. Police tried and failed at the last minute to have it deleted.
+Commissioner Andrew Coster ordered the stocktake in May only after RNZ exposed that police had trialled an algorithm that searches social media for face matches, from controversial US supplier Clearview AI, without telling the government, the Privacy Commissioner or the public.
+The new report still lacked critical detail, digital tracking expert Dr Andrew Chen, a research fellow at Koi Tū, the centre for informed futures said.
+"The stocktake shows that there are a whole bunch of different projects that police have been working on, these new technologies that they've been utilising, that we haven't really heard much about in the past," Chen said.
+"This is a very brief summary of the technologies they found over the last couple of months.
+"This allows us to know what we need to be asking more questions about."
+He was not concerned or surprised by anything on the list of 20 or so systems, two thirds of them investigative tools and a third administrative.
+Read the document (PDF: 1.01MB)
+These include:
+Other tech is deployed that automatically identifies number plates, and there are three systems for detecting and analysing child abuse material.
+There is very little information on some of this, including about drones: "Use of remotely-piloted aircraft systems ... was endorsed by the Police Executive on 12 June, 2019," is all the stocktake says.
+More can be learned from Vodafone's website than from police: "Using 5G connectivity the police can operate a hi-tech drone to give them an ultra-high definition view of a scene, help them control a crowd or to find their target," Vodafone said.
+"I do think that there is a problem when a vendor can tell us that they have New Zealand police as a customer, but New Zealand police don't tell the public about it themselves," Chen said.
+The stocktake showed police are interested in using other new tech:
+The stocktake was just a "starting point", Police Deputy Commissioner Strategy and Service Jevon McSkimming said.
+"It gives us a baseline for us to continue to look at what emerging technologies are.
+"Technologies are really helping us solve crimes, keeping our people safe and keep the public safe."
+The stocktake said that police should be more transparent, though it has provided just a glimpse of the vast new facial recognition power on tap - while asserting that police were not using it.
+"Many technological tools that we use have an in-built facial recognition capability," it said. "However, we do not use this functionality."
+This was too loose, associate law professor Nessa Lynch of Victoria University, who has studied legislation overseas that restricts surveillance, said.
+"We don't have a lot of regulation over the facial recognition and there is probably very little to stop the police deciding that they might like to implement one of these live facial recognition technology systems," Lynch said.
+But Deputy Commissioner McSkimming said that won't happen.
+"We've got no public-facing facial recognition. And it's quite clear from our Commissioner that we won't be doing it," he said.
+This means the facial recognition is being used to match a suspect's photo with, say, a still photo from CCTV, but was not used on live feeds from public places, the police said.
+The police released the stocktake to former RNZ reporter Mackenzie Smith, who had lodged the OIA.
+They then asked him two days ago to delete it. He refused.
+The request to delete it was made because an "over-energetic" official had released the report without the proper sign-offs, McSkimming said.
+Police still intended putting the unedited stocktake on their website, he said.
+The stocktake concluded the police were using the new tech with care, were following privacy and security guidelines, and were considering legal and ethical implications "to varying degrees".
+They did not use algorithms to predict crime, unlike in the US, it said.
+However, it also shows the approvals and monitoring process has been ad hoc, and recommended centralised controls and better monitoring.
+This is underlined by a second report released alongside the stocktake: a privacy impact assessment of the flagship ABIS 2 photo and fingerprint handling system.
+Read the full assessment (PDF: 480KB)
+This was done only in October, months after ABIS was designed and a contract signed, and only after the stocktake recommended police take a "deep dive into ethical and privacy implications" of existing new tech.
+The stocktake makes scant mention of any privacy impact assessments being done on any other of the new tech systems.
+The ABIS 2 assessment recommended tighter governance, oversight and control of access.
+"It is possible that the image library and the facial/image comparison tool could be misused or abused if careful oversight of requests for access to the system are not scrutinised," it said.
+Māori data sovereignty networks have questioned the way the risks are being managed by government agencies.
+ABIS 2 is one of the new tech systems with a facial recognition algorithm for live camera feeds that the police say they won't use.
+"The new system is not creating a new collection of information, nor is it operating in a 'public facing' capacity," the privacy assessment said.
+Another OIA response shows the Police Minister had only a single communication about facial recognition technologies with agencies in the last term of Parliament - and this was a briefing by police in May 2020 about the Clearview trial (what police elsewhere internally referred to as a "public furore").
+This briefing showed the police only got interested in Clearview after becoming aware of media coverage of it, and receiving an OIA request in early 2020 asking if they were using Clearview technology.
+At that point, they took up the firm's offer of a free trial, which they used on a live robbery investigation plus a few test cases, but the trial fell flat.
+But associate professor Lynch said privacy impact assessments and internal controls were not enough.
+"As a criminal lawyer rather than a privacy lawyer I'm quite interested in what the teeth are and the compliance.
+"So for instance, in the United Kingdom ... where the person became aware that they were scanned on the street.
+"They had some recourse through judicial review, but the teeth in our privacy system in New Zealand are quite hollow, we don't have a lot of ways as individual citizens of bringing privacy complaints."
+New law was needed to protect people, especially Māori, who featured a lot in police biometric databases, she said.
+"The combination of a new government, new Ministers, perhaps bit more of an emphasis on privacy, along with the idea of public trust in the police, we might see some movement."
+The police stocktake cited Wales as a successful example of automated facial recognition deployed at big public events - on one occasion Welsh police deployed it at a protest at a defence exhibition.
+This, and London police's use of similar tech, "demonstrate that these kinds of emergent technologies can be used safely and responsibly in a policing context", it said.
+However, the Welsh police experiment has since been found to have been unlawful.
+Other research faults the legal protections in the UK.
+The police here have said they aim to assemble an external panel of experts to review their use of new technologies.

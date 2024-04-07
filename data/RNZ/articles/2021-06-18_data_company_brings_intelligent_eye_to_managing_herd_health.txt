@@ -1,0 +1,3 @@
+Powered by artificial intelligence software, Iris Data Science's cameras collect tens of thousands of data points from cows leaving the milking shed each day, and use them to monitor the health of each cow.
+The company has adapted the technology it used when creating the world’s first sheep facial recognition system - this time to help with the early detection of lameness.
+And it's not just an animal welfare issue - lameness can cost the dairy industry up to $500 million a year, and individual farms between $50,000 and $100,000 a year.

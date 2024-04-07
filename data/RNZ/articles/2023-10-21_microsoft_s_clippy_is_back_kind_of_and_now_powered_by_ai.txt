@@ -1,0 +1,32 @@
+A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials.
+Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend.
+It can also draft emails, create word documents, spreadsheet graphs and Powerpoint presentations in moments.
+Microsoft says it hopes the tool will eliminate "drudgery" but some worry tech like this will replace workers.
+There are also concerns it could leave businesses dangerously reliant on AI-powered assistance.
+In its current form, it could also fall foul of new rules governing AI, for failing to make clear when content has not been made by humans.
+Both Europe's AI act and China's AI regulations state that people must know if they are interacting with artificial intelligence rather than humans.
+Microsoft 365 head Collette Stallbaumer said it was up to the individual using Copilot to clarify that.
+"It is a tool, and people have responsibility to use it responsibly," Stallbaumer said.
+"I might not be telling you, when I send you that response, that I used an AI assistant to help me generate it. But the human is always in the mix and always in control."
+However, the EU states that it is up to the firms which develop AI tools to ensure they are used responsibly.
+I was given an exclusive opportunity to try out Copilot, ahead of its wider launch.
+It uses the same tech which underpins ChatGPT, created by OpenAI - a company Microsoft has invested billions of dollars in.
+My demo was on the laptop of Derek Snyder, a Microsoft member of staff, because Copilot is embedded into an individual's account, with access to their own - or a company's own - data.
+Microsoft says the data is managed securely and will not be used to train the tech.
+"You only have access to data that you would otherwise be allowed to see," said Stallbaumer. "It respects data policies."
+My first impression of Copilot is that it will be a useful tool, but also a formidably competitive colleague for those who do office work - especially within companies looking to make savings.
+I watched it confidently summarise in a few seconds, a long chain of emails regarding a fictional product launch.
+It then suggested a brief response. We used a simple drop-down menu to make that response longer and more casual, and the Chatbot generated a warm reply, expressing admiration for the ideas proposed and declaring excitement at being involved in the project - although none of us had actually read any of it.
+We could then choose to edit the email before sending it, or select the AI-generated copy and send it in its entirety. There was no hint within the email that it contained content from Copilot.
+I then saw the tool generate a multiple-slide Powerpoint presentation in around 43 seconds, based on the contents of a Word document. It can use images embedded within the document, if there are any, or it can search its own royalty-free collection. It created a simple but effective presentation - and it also wrote a suggested narrative to read out alongside it.
+It did not understand my request to make the presentation more "colourful" and referred me back to manual Powerpoint tools.
+Finally, we looked at a Microsoft Teams meeting.
+Copilot identified themes and offered summaries of various threads which had run through the discussion. It could also summarise what one particular person had said if required, and in the event of a disagreement, it was able to offer, in a chart format, the pros and cons which had been debated. All of this took a few seconds.
+It has been programmed not to answer questions about the performance of individuals in meetings - such as who was the best speaker (or worst).
+I asked Snyder whether he thought anyone would actually bother attending meetings, once they realised that Copilot could save them the time and effort.
+"A lot of meetings might become webinars," he joked.
+The tech currently cannot differentiate between people who are on Teams but sitting together sharing one device, unless they verbally cue each other.
+Copilot will cost US$30 per month (NZ$51). It is internet-connected and does not work offline.
+Critics say this kind of tech is likely to lead to a huge disruption in admin-based jobs.
+Carissa Veliz, associate professor at Oxford University's Institute for Ethics in AI, said she was also concerned about people becoming overly dependent on such tools.
+"What happens if the tech fails, or it might be hacked? There might be a glitch, or they might institute new policies that you might not agree with. And then, if you're so hooked on the system that you feel that you can't do without it anymore, what happens then?" she said.

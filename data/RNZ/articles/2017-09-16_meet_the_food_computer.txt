@@ -1,0 +1,3 @@
+MIT Media Lab's Open Agriculture Initiative has developed them to enable the level and duration of UV light exposure to be precisely controlled and endlessly analysed, creating millions of data points that can be used to create even better climate recipes for the future.
+Already the researchers claim to be able to grow tastier basil by keeping light levels higher for longer.
+Risto Mikkulainen is one of those responsible for designing the AI powering these food computers.

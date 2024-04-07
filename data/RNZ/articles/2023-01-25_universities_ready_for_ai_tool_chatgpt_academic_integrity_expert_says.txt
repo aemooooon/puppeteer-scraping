@@ -1,0 +1,17 @@
+A new online tool created by Open AI, ChatGPT, can answer any question articulately - passing as being written by a human.
+There are concerns students will use it to write their assignments, with plagiarism detection software widely used by universities not yet picking up bot-written content.
+Universities are looking to address the issue by changing the way they teach and learn.
+Professor Catherine Moran, who chairs University New Zealand's committee of Deputy Vice-Chancellors Academic - which oversees collective responses to academic integrity issues - said there was an opportunity to ensure students were truly engaged with their learning.
+"There are a whole bunch of different ways we can look at assessing what our students know, what they've learned and how they use what they've learned.
+"For instance, if you wrote an essay and had to present it or take part in a debate about it, you know, you have to really engage with that material to be able to do that."
+Moran said she was not concerned about ChatGPT and other similar technology.
+"I think we have a challenge ahead of us, but universities of course have been responding to various challenges the last few years with the pandemic.
+"The sector is ready for it, people all across the universities, the academics have already been checking it, testing it, piloting it, and talking to their colleagues overseas.
+"People are ready for it, but it's certainly going to bring a different kind of challenge."
+Union of Students' Associations president Ellen Dixon said there was a balance to be struck, because the technology could be useful for some students, like those with a disability, or refugees.
+"Technology can be a tool for positive things and for good social change, particularly in education.
+"But it can also potentially be something that creates inequality and that is a concern that the students' associations are already bringing to me."
+Dixon wanted universities to develop a code of best practice that deals with the ethical dilemmas around the use of tools like Chat GPT - so they were not addressed on the fly.
+Tech commentator Peter Griffin said software used to pick up plagiarism in assignments, like Turnitin, saw this issue coming - and it was already upgrading it to detect bot-written work.
+"Fairly quickly, the universities and schools will be on top of that.
+"They will be building these AI detection tools into their plagiarism checkers so that will sort of knock that sort of thing on their head, but they'll also be looking more broadly at where they can use chat GPT and similar tools to the real benefit of students."

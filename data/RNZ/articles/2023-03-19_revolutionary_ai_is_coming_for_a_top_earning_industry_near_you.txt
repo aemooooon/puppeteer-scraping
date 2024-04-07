@@ -1,0 +1,57 @@
+That's the verdict experts gave Stuff this week as OpenAI released its latest ChatGPT version, amid fears the technology will claim traditional jobs.
+There is no doubt AI "will be as revolutionary as fire, electricity, or the Internet", says AI Professor Albert Bifet​, director of Waikato university's Artificial Intelligence Institute. "All areas will be affected."
+And it's not just the traditionally low paid work that can now be done by machines (like supermarket checkouts and self-service machines at restaurants).
+"ChatGPT has the potential to automate high-paying jobs before automating low-paying jobs. I think that's the surprising thing, because everybody was thinking, yeah, we're going to automate first the low paid jobs, they are the ones that are going to disappear. We were thinking only robotics.
+"But no, no, no - it's something new, it's revolutionary. It can do things that were not possible before. It is going to rethink everything. We can really automate most tasks and increase productivity."
+AI chatbot ChatGPT will open the way to new applications, as it is "generative"; using Reinforcement Learning from Human Feedback to accumulate knowledge.
+Once taught, ChatGPT can write letters, books, essays, training documents, proofread, and answer customer support questions.
+Ask it what jobs AI (or machine learning) can replace, it will tell you it is here "to augment and improve certain job roles".
+[LB
+As AI learns, it will make inroads into areas humans occupy.
+US magazine Business Insider has a long list of jobs which could be captured by AI tide: coders, programmers, software engineers, data analysts; advertising, content creation, technical writing and journalism.
+Also on the AI hit list: reading and analysing legal documents, market research analysts, teachers (ChatGPT is already teaching classes in the US), financial analysts and traders, and graphic designers.
+All can be done much faster with AI.
+But it can't do things that require a lot of critical thinking, Albert Bifet says.
+"I think it's very important ... it's not that AI is replacing humans, it is that augmented intelligence, these tools, can help us to improve how we do things."
+So fear not, workers in jobs that require empathy, emotional intelligence and critical thought. Like creatives (artists, writers, musicians, designers, choreographers, art directors), or people who work with others who have emotional needs, therapists, social workers, and teachers.
+While AI machines make brilliant chess players, reasoning, decision-making and problem-solving are hard to replicate, so lawyers, doctors, scientists, and firefighters can stand at ease.
+They also can't manage or be leaders, make decisions or have interpersonal skills or empathy - so we can also rule out mental health workers, nurses, clergy, and coaches.
+Physical skill combined with problem-solving is tough for a machine, so don't worry, tradies. Hands-on manipulation used by oral surgeons, makeup artists, and chiropractors is also out.
+Bifet urges people to embrace the technology and says if anything, AI will create new jobs - just like previous industrial revolutions: 1800s mechanisation, then alloys, lighter metals, plastics and new energy sources, thirdly digital computers.
+"I don't think we are going to eliminate jobs," says Bifet. "We are going to transform and create new ones. In say 10 years we're going to have new jobs, but it's very hard to imagine right now... they will certainly be leveraging AI tools.
+"We're going to see a lot of new products. New companies are going to appear because there is a new way to do things, a much more efficient way. The key to success for New Zealand is to invest in research in AI, so that we are not users of AI but developers of AI. Other countries are already aware of that."
+AI is attractive for employers. Swift at analysing data and patterns, it doesn't get tired or bored, doesn't need to take leave, or sick days, and can work 24/7 without complaining.
+But it gets things wrong, or has yet to be taught what is right. Generative AI, with reinforcement learning from human feedback, generates new outputs - so it's still learning.
+James Parr, chief executive of UK-based Trillium Technologies (running the AI Lab, FDL.ai), is at the AI forefront, using it for tasks such as exploring space for signs of life, mapping floods, and predicting the spread of bush fires.
+In 2022, it developed a machine to look at a molecular sample on an alien planet to determine whether or not it's "life, Jim, but not as we know it", the Kiwi ex-pat says.
+"AI is just fancy statistics. Most of us have nothing to fear regarding job losses. Unless you like taking meeting notes. But... like that fishing buddy with the tall stories, you can't quite trust everything it says. Being overly trusting of AI is actually the thing we need to be wary about."
+President of the Paris-based International Science Council, Kiwi Sir Peter Gluckman​ this month said AI had placed the world at a "tipping point", in which technology may be beyond our control, but Parr says the fuss is overblown.
+"It's a little bit like the people who thought we wouldn't be able to breathe if trains went above 25 miles an hour. In reality, it will just allow people to do things they're already doing, faster.
+"If you are a chef, you could take a photo of a meal, and the AI can write out a delicious sounding description in the style of a Michelin star restaurant - great for impressing dinner guests.
+"Generative AI will help you write that book you've always wanted to write. It allows you to make meeting notes, send a list of bullet points and actions to people on your Zoom meeting.
+"Soon, it will be able to control the apps you use - so you can spend less time buried in Excel macros or PowerPoint templates and more time solving problems that need human thought."
+Parr appears to be right about accuracy.
+Ask ChatGPT about yourself, and it proudly lists books you've never written, awards you've never won, and proclaims your wife owns a company she's never heard of.
+Auckland doctor Reza Jarral has pioneered virtual health in New Zealand, delivering healthcare over distance, while working on the ethics of using AI in the medical field, alongside the World Health Organisation.
+His CareHQ platform uses telemedicine and clinical informatics to help improve healthcare access, providing to those who have no access to a GP.
+Jarral says AI will likely change jobs in a way that is good for the human workforce.
+"Like every revolution before it, there'll be a shift in scope of work. Hopefully, society can bring displaced workforces on this journey, to deliver more rewarding, fulfilling work that's more equitable. But the drivers for capitalism don't necessarily incentivise that, so we'll see where it goes," he says.
+"Machine learning can now solve discrete problems reliably, but only in very specific and narrow boxes. You can't present it with broad problems, or change its data input from what it was trained on, then expect it to respond using general adaptive intelligence, like a human might … it will either underperform or break, and in healthcare that can cause serious harm.
+"[For example], you can train a classifier on one skin colour to detect cancerous skin lesions. If you apply it to a different skin colour that you've not trained it on, it will not detect abnormal skin lesions with acceptable accuracy."
+An emphasis on medical safety means Jarral can't see doctors being replaced.
+AI is low on emotional intelligence, hopeless at touch and feel tasks, less creative than humans (though American Pie songwriter Don McLean backs it to write a cracking pop song), yet, it is a powerful tool, with even universities starting to accept it.
+University of Sydney medical science students this week used ChatGPT to compose an essay, the university saying it needed to work with the technology, not fight it. Students were asked to read what the robot produced, edit its response, track their changes and submit a final draft for marking.
+It was intended to test students' ability to exercise judgement and be creative, skills that would be required in their professional lives, rather than simply collating information.
+Like Jarral, Trillium boss James Parr is vexed by ethical issues, saying AI is "ripe for exploitation by nefarious actors".
+"The problem of generative AI outputs delivered with authority, by a charming avatar, is a genuine conundrum for AI ethicists," Parr says.
+"Imagine if every touchpoint you have with a generative AI is slowly, subtly, imperceptibly, migrating you to another point of view (sometimes known as 'nudge theory')."
+On balance though, Parr, Jarral and Bifet all see AI as a powerful force for good.
+Parr hopes it will help better manage the planet as it heats up, and aid better decision-making.
+Jarral is keen to unlock the obvious benefits, and avoid some of the obvious pitfalls.
+"The reality is we are short of doctors and nurses. By 2030, 5 billion people in the world won't have access to basic standards of healthcare," he says. And we'll be about 13 million health care professionals short of where we need to be by 2035.
+"We need to explore automated tools that utilise telemedicine, alongside judicious ​machine learning to fill those gaps in a safe, reliable, responsible way.
+"There will always be a human in the loop for the safety reasons and also the medic-legal aspects, because you need to answer legal questions of who's responsible. In healthcare you would want a human in there to take overall ownership of care."
+Let's give ChatGPT the last word, by asking whether it is after my job.
+"While AI has made significant advancements in natural language processing and generation, it is unlikely to completely replace human journalists in the near future," ChatGPT tells Stuff.
+But, when is the near future?
+"Anywhere from a few years to several decades."

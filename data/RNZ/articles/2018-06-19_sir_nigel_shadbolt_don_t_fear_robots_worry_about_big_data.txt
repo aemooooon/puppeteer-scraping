@@ -1,0 +1,22 @@
+Sir Nigel Shadbolt a computer scientist at Oxford University has released a new book, The Digital Ape: How to Live (in Peace) with Smart Machines, which is a tip of the hat to a 1967 book by zoologist Desmond Morris, The Naked Ape.
+“And he reminded us we are, after all, descended from a line of primates and we should properly understand a lot of our behaviour, and ourselves, in terms of our biological ancestors.
+“We were very keen in this book to locate ourselves in what we think are the important questions of the age we are in, the digital world, so The Digital Ape.”
+The purpose of artificial intelligence has always been to understand human behaviour, he says.
+“To use computational models to understand something about the basis of our own intelligent behaviour.”
+Despite paranoia from parts of society about machines soon becoming so intelligent they can overtake humans, Shadbolt says that time is very far away, if possible at all.
+Machines already have super-human abilities, with machines programmed to outplay the world’s best chess players, he says.
+“They (devices such as Amazon Alexa) are good at what they do: they have a whole history of your preferences and what you like… and they can crunch away and have a reasonably good guess as to what you like … but that’s nothing compared to the breadth of general intelligence as we move from one task to another.”
+The most important question is about what controls this artificial intelligence – and that is data, Shadbolt says.
+“It is generated in colossal abundance now and it is the secret source of what drives the programmes and robots and systems we are interested in. We should be asking ourselves, ‘Who controls that information and what can they do with it?’”
+The “data deal”, he says, is “very skewed”. The control of information and how it is managed is almost entirely in the hands of companies and governments.
+“The problem at the moment, as consumers, we’re given very little visibility with that and very little choice and I think that’s where we need to have more of a dialogue with an informed populous and providers.”
+The smartphones millions of people carry around with them would have, just a few years ago, been regarded as super computers, he says.
+And that has accelerated the rates at which companies collect data while also providing them with a myriad more ways to do so.
+“These things contain billions of transistors, running incredibly fast operating algorithms that can do everything from recognising your face to recognising your voice.
+“So in a very real sense your smart phone is bringing the kinds of capabilities we’ve been talking about to us, but also in the sense you’re carrying this thing around that’s a fantastic way of collecting information about you, gathering your whole pattern of life.”
+Shadbolt is interested in how apps gather information. He and a team of researchers have been experimenting with one million apps they have downloaded from the Android Play store. They have looked at where data goes and if this is affected by swapping one app for another.
+“Should we care? Should we bother? Well we make the case in the book that this is a very important thing to get a hold on because we have a very poor understanding of the apps.”
+Although claiming the book is optimistic about the role of technology in society, it has changed his interaction with it, and not necessarily for the better.
+“It’s made me, in truth, rather more cautious.”
+Living in peace with these machines is about society developing rules, laws and norms about how we want these systems to control and interact with our lives, he says.
+Recently there have been discussions about digital data as a human right and how it is governed, shared and who owns it.

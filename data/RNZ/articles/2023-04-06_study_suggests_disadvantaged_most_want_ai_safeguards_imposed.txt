@@ -1,0 +1,9 @@
+The report, published in the journal AI and Ethics, is based on a survey of nearly 50,000 people in the longitudinal New Zealand Attitudes and Values Study.
+It is the first time attitudes towards AI has been studied in such a comprehensive way.
+The data revealed those with certain demographics and personality types are related to wanting tighter guard-rails on the technology.
+These included non-European, religious, single, and rural people, and parents.
+"These factors may collectively suggest that people from more disadvantaged backgrounds may be especially concerned about a lack of regulation around AI, especially as these effects emerge even while controlling for other factors such as education and job security," the report said.
+People with neurotic personality traits - who are anxious or fearful - as well as those with co-operative, trusting, and friendly traits also wanted more regulation.
+Report co-author Christoph Bartneck, who is an associate professor of computer science at the University of Canterbury, said the latter group might be motivated by a desire for regulation to achieve fairness out of a concern for others.
+The report said by addressing people's concerns, "we can potentially increase support for the adoption of AI in domains where it has the greatest potential to benefit humanity".
+"Developers need to be aware of the role that personality traits and demographic factors play when users directly interact with AI systems."

@@ -1,0 +1,15 @@
+That was the conclusion of a report by global research firm Gallop, commissioned by Amazon Web Services (AWS), which interviewed nearly 1500 workers and 374 employers across a broad range of industries to come up with the economic beneift of upskilling a digital workforce.
+"We're trying to use this report to help really drive the message that it's an imperative for organisations to invest in digital skills because of the return to their business and the requirements for innovation for companies these days," AWS country manager Tiffany Bloomquist said.
+"We want to ensure that companies understand that it is not an option to do nothing."
+Bloomquist said digital skills were essential to use emerging technologies like 5G, artificial intelligence and robotics.
+However, a number of other recent reports indicated the tech sector was already struggling to keep up with increasing demand for digital services, leaving some organisations unprepared to manage growing security risks.
+A report by cyber security awareness firm KnowBe4 found only 5 percent of 218 IT decision-makers surveyed were able to determine whether examples of phishing emails were real or fake.
+Still, only a third of decision-makers said they were concerned about phishing as a risk to their organisation.
+"Alarmingly, only four-in-ten (40 percent) IT decision-makers say they are confident they would know the steps they would need to take following a cyber incident or data breach in their organisation," KnowBe4's report said.
+Despite the considerable economic benefits associated with a tech-savvy workforce, talented and skilled workers were in short supply.
+"Seventy-seven percent of New Zealand employers surveyed reported that digital skills will be important for their business over the next five years, but 64 percent said it is challenging to find the talent they need," Bloomquist said.
+While the government had taken steps to ease immigration issues for skilled tech workers, the industry was still struggling to recruit staff.
+In response, AWS was working with other industry partners to address the shortfall with a training programme aimed at supporting workers entering mid-level cloud computing roles.
+Bloomquist said the skills shortage could be addressed with incremental training programmes that provided workers with micro certification.
+"Shorter term courses that actually equate to overall AWS solution architect certifications, or cloud practitioner certifications," she said.
+"These make learning easier for a variety of different employees that might have been challenged historically to find the time to actually get the right level of digital skills training.

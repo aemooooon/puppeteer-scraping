@@ -1,0 +1,18 @@
+'Synthetic media', 'fragmented realities' and 'malicious actors' are phrases creeping into everyday language, as artificial intelligence becomes a bigger part of our lives.
+And as the election gets closer, even AI fans are warning we could be drowning in so-called deepfakes, where true images, videos or audio tracks are manipulated to look real - but aren't.
+"Our ability to distinguish what is real from what is fake online is rapidly going to be eroded by the industrial use of synthetic technology," says Ben Reid, a daily user of AI and author of tech newsletter Memia.
+He believes the New Zealand election will be a test for the latest advances in AI technology, ahead of next year's US election.
+And people shouldn't wait for their governments to bring in tighter rules to control the use of AI - they should educate themselves on it, before it's too late, Reid says.
+"This technology is not going to go away. It's at its very earliest stages of absorption into society."
+Last year's protest at parliament, where misinformation and disinformation spread rapidly, is a taste of what people should expect in the next five months, says Reid, but the AI tools are now much more advanced.
+National's controversial use of AI for attack ads has fuelled debate about its use in political advertising and Reid says it's good the country's having that conversation in the lead-up to October's election.  
+Tools such as Dall-E, Stable Diffusion and Midjourney are able to create realistic images, with their systems fed by the millions of images that have been uploaded to the internet over time. With a few text prompts, the tools can produce something completely new.
+The tools are available for free, or a small subscription, and require very few skills to use. The fact that they are easy to use, and the information is easy to disseminate, is both worrying and exciting, says Reid.
+In the case of National's ad, certain prompt words - including "Fast and Furious 10 movie poster" - were put into Discord and the result was almost instant.
+Reid reckons the use of AI in this case is not much to worry about, but there is the potential for it to get out of control, if it is not properly policed.
+"It could go down the rabid US-style of political media where it is just 100 percent attack ads, very difficult to find any particular truth in those."
+                                
+Reid, who calls himself a tech futurist, says the dividends from AI throughout the economy will be massive, but governments around the world are struggling to keep up with developments.
+While there are regulations on political advertising, Reid says the question remains about what to do with bad faith actors using not just mainstream social media, but other platforms like Telegram.
+Hear more about this issue in the full podcast episode.
+Check out how to listen to and follow The Detail here.  

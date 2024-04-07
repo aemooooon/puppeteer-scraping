@@ -1,0 +1,4 @@
+The technology will map a patient's suspicious lesions and determine whether they are malignant or benign, and should be referred to a specialist.
+It's hoped the A.I could help reduce the workload for dermatologists and skin cancer doctors, of which there is a chronic shortage in New Zealand.
+At a population level, New Zealand has about half the number of specialists as Australia. Skin cancer is the country's most common cancer, and New Zealand has the world's highest death rate from melanoma.
+Getting a fast diagnosis is vital, as melanoma can be cured in 98 percent of cases if diagnosed early.

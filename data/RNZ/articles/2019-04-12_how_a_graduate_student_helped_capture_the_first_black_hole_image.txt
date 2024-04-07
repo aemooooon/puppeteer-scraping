@@ -1,0 +1,24 @@
+Katie Bouman led development of a computer program that made the breakthrough image possible.
+The remarkable photo, showing a halo of dust and gas 500 million trillion km from Earth, was released on Wednesday.
+For Dr Bouman, its creation was the realisation of an endeavour previously thought impossible.
+Excitedly bracing herself for the groundbreaking moment, Dr Bouman was pictured loading the image on her laptop.
+"Watching in disbelief as the first image I ever made of a black hole was in the process of being reconstructed," she wrote in the caption to the Facebook post.
+She started making the algorithm three years ago while she was a graduate student at the Massachusetts Institute of Technology (MIT).
+There, she led the project, assisted by a team from MIT's Computer Science and Artificial Intelligence Laboratory, the Harvard-Smithsonian Center for Astrophysics and the MIT Haystack Observatory.
+The black hole image, captured by the Event Horizon Telescope (EHT) - a network of eight linked telescopes - was rendered by Dr Bouman's algorithm.
+"When we saw it for the first time, we were all in disbelief. It was quite spectacular," she told BBC Radio 5 live.
+"We got really lucky with the weather... We got lucky in so many ways."
+In the hours after the photo's momentous release, Dr Bouman became an international sensation, with her name trending on Twitter.
+Dr Bouman was also hailed by MIT and the Smithsonian on social media.
+"Three years ago MIT grad student Katie Bouman led the creation of a new algorithm to produce the first-ever image of a black hole," MIT's Computer Science & Artificial Intelligence Lab wrote. "Today, that image was released."
+But Dr Bouman, now an assistant professor of computing and mathematical sciences at the California Institute of Technology, insisted the team that helped her deserves equal credit.
+The effort to capture the image, using telescopes in locations ranging from Antarctica to Chile, involved a team of more than 200 scientists.
+"No one of us could've done it alone," she told CNN. "It came together because of lots of different people from many different backgrounds."
+Put simply, Dr Bouman and others developed a series of algorithms that converted telescopic data into the historic photo shared by the world's media.
+In mathematics and computer science, an algorithm is a process or set of rules used to solve problems.
+No single telescope is powerful enough to capture the black hole, so a network of eight was set up to so do using a technique called interferometry.
+The data they captured was stored on hundreds of hard drives that were flown to central processing centres in Boston, US, and Bonn, Germany.
+Dr Bouman's method of processing this raw data was said to be instrumental in the creation of the striking image.
+She spearheaded a testing process whereby multiple algorithms with "different assumptions built into them" attempted to recover a photo from the data.
+The results of the algorithms were then analysed by four separate teams to build confidence in the veracity of their findings.
+"We're a melting pot of astronomers, physicists, mathematicians and engineers, and that's what it took to achieve something once thought impossible," Dr Bouman says.

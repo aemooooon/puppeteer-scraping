@@ -1,0 +1,9 @@
+"Regulators are still in the process of providing a clear set of rules governing its use," Jerome Pesenti, vice president of artificial intelligence at Facebook, wrote in a blog post.
+"Amid this ongoing uncertainty, we believe that limiting the use of facial recognition to a narrow set of use cases is appropriate."
+The removal of face recognition by the world's largest social media platform comes as the tech industry has faced a reckoning over the past few years over the ethics of using the technology.
+Critics say facial recognition technology - which is popular among retailers, hospitals and other businesses for security purposes - could compromise privacy, target marginalized groups and normalize intrusive surveillance.
+The news also comes as Facebook has been under intense scrutiny from regulators and lawmakers over user safety and a wide range of abuses on its platforms.
+The company, which last week renamed itself Meta Platforms Inc, said more than one-third of Facebook's daily active users have opted into the face recognition setting on the social media site, and the change will now delete the "facial recognition templates" of more than 1 billion people.
+The removal will roll out globally and is expected to be complete by December, a Facebook spokesperson said.
+Facebook added that its automatic alt text tool, which creates image descriptions for visually impaired people, will no longer include the names of people recognised in photos after the removal of face recognition, but will otherwise function normally.
+The technology will now be limited to certain services such as helping people gain access to their locked accounts or unlock a personal device, Facebook said in the blog post.

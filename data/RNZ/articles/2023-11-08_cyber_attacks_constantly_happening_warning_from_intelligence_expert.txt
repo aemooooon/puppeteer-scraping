@@ -1,0 +1,15 @@
+Security software firm Radware threat intelligence director Pascal Geenen said cyber attacks were becoming much more common, from elaborate crimes to more common low-level distributed denial-of-service (DDos) attacks, which were relatively simple to execute.
+"It's the easiest to perform as an attack because it's like a hit and run crime," he said, adding the software required to launch a DDos attack was readily available on the web.
+"You don't need to infiltrate the company and you don't need to leave software and traces that can trace back to you."
+He said artificial intelligence was making it easier for criminals to access the tools of the trade, helped along by the Russia and Ukraine war, which had created an army of IT hackers on both sides.
+"There's plenty of tools out there, and as I said the IT army of Ukraine, they started to make tools more sophisticated, improve the tools make them easier to install ... you tell them what kind of attack ... click the button and it will start attacking them."
+You could pay as little as $30 for an attack, he said.
+Geenan said New Zealand was better placed than many other countries to stop hackers from infiltrating its networks, with only a couple of connections to the outside world.
+However, he said that was not enough to stop cyber attacks.
+"It's dramatic. If you see the number of attacks that are happening, how ... and why attacks are happening. It's constantly happening."
+Geenan said the rapid acceleration to the cloud during the Covid-19 years had left some security gaps which were easy to exploit.
+He said the payoff for criminals made it worth it for them to find the weakest links to exploit.
+"If you look at the ransoms that were paid out, they were multiple millions, tens of millions of dollars, was not an exception."
+Geenan, who was in New Zealand at the invitation of Spark, said the risk needed to be widely understood for people to protect themselves.
+"Even if I paint a bleak picture, I'm not here to scare people.
+"People need to be aware of all this happening out there.

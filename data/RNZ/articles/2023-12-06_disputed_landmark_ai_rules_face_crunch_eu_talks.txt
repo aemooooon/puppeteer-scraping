@@ -1,0 +1,13 @@
+European Union ambitions to take a lead in landmark rules for artificial intelligence hang in the balance as member states and lawmakers meet on Wednesday to try to hammer out a deal on biometric surveillance and how to regulate systems like ChatGPT.
+If agreed, the EU's first-of-a-kind AI Act, which was proposed by the European Commission two years ago, could serve as the benchmark for countries seeking an alternative to the United States' light-touch approach and China's interim rules.
+Talks between EU members and lawmakers will start at 1400GMT and are expected to run into the early hours of Thursday, with the most likely outcome a provisional deal on principles but not crucial details, five people directly involved said.
+A final deal would then need to be agreed before legislation could be put in place, which could pave the way towards it becoming law before European parliamentary elections in June.
+But without a deal, the AI Act is likely to be shelved due to a lack of time, resulting in the 27-member bloc losing its first-mover advantage in regulating the technology.
+Alexandra van Huffelen, Dutch minister for digitalisation, told Reuters it was critical the EU finds a compromise, particularly on generative AI, by the end of the year.
+"The world is watching us: citizens, stakeholders, NGOs and the private sector want us to agree on a meaningful piece of legislation regarding AI, including GPAI," she said referring to general purpose AI systems, which have a wide range of uses.
+The proposed AI rules face conflicting EU demands.
+The two biggest are over the use of AI in biometric surveillance and foundation models, the generative AI such as Microsoft-backed OpenAI which trains on large sets of data to perform various tasks.
+EU lawmakers want to ban the use of AI in biometric surveillance, while governments want an exception for national security, defence and military purposes.
+A late proposal by France, Germany and Italy to let makers of generative AI models self-regulate added more uncertainty.
+EU ambassadors and lawmakers held separate preparatory meetings last week, but differences remain which could make it difficult to clinch a deal, said the people involved in the talks, who declined to be named because they are confidential.
+An official from one major EU country said whatever the meeting's outcome, there will still be a lot more work to do.

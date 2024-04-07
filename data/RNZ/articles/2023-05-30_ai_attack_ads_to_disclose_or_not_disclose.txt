@@ -1,0 +1,35 @@
+But advertisers are not so sure.
+Political parties themselves mostly said they had not used it, but had not committed to disclosure if they did - though mandated disclosure is coming in Europe, and may come in the US.
+National was the exception: it used the tool Midjourney to create ads about ram raids and Fast and Furious, without disclosure.
+Leader Christopher Luxon said it was no big deal. But lawmakers elsewhere might beg to differ.
+"You do have transparency being the number one principle," said Sydney lawyer Kim O'Connell, who compares countries' AI laws.
+She was talking about a bill just introduced by a US Democrat seeking to mandate disclosure of any use of AI in political ads.
+"The idea [is] that electoral campaigning in particular, because it's of such public importance in the democratic system, that that in particular should have real content, real people."
+China was much further ahead on AI laws, peculiar to its own authoritarian system.
+Western countries would not look to emulate those, but Europe's pioneering AI Act was another matter, O'Connell said.
+"All eyes are really watching what's happening in Europe because in that legislation, it has a hierarchy of AI uses, and it specifically calls out electoral uses, political uses, as being in the high-risk category."
+Among the many rules was a principle of transparency "that would require people using that type of AI to disclose to people that AI is being used".
+This applied not only to deep-fake images, but all AI-generated images, she said.
+Perhaps surprisingly, the Public Relations Institute of New Zealand, which represents a thousand PR firms, loved that idea.
+"We would definitely be saying, 'Yeah, you need to disclose that'," chairwoman Heather Claycomb said.
+"Why would you not want to disclose that? I think that's something that you need to ask yourself... whether it's a political party or not, is it because you are trying to instil fear or manipulate a message?"
+PR people were worried how AI might be used, and the institute was telling them to get a policy on it. Claycomb noted that one Auckland organisation she would not name flat-out refused to allow any use of it, but that most firms did not have a policy yet.
+"No matter if you're in a political party, a government organisation, a corporate, an agency, you need a policy to say, 'How are we going to use this as an organisation, where are the boundaries?'", Claycomb said.
+In the US, even the ad makers were nervous.
+The American Association of Political Consultants denounced deep fake political ads and barred any from getting any awards - though its main issue is with ads that portray real people.
+National's ads do not use deepfakes as such, though one copied a movie actor.
+The Association of New Zealand Advertisers took another tack. It said how ads were made was "irrelevant" - the content was everything.
+"Is it offensive, misleading? Can it be substantiated?", said association chief executive Lindsay Mouat by text.
+"Both humans and AI are capable of breaking the rules, or complying."
+The Advertising Standards Authority's code said ads must not mislead, confuse or abuse people's trust, and not use false representation.
+The authority's annual report, just out, does not mention AI.
+The test of the advertising code is yet to come for AI attack ads.
+At the electoral level, if there is to be any test, it will not come from the independent electoral review, because it has not been looking at AI, nor from the Electoral Commission.
+"We do not regulate the content of election advertisements, so do not have a position on the use of AI in election ads," the commission said.
+Its job was to make sure promoters - the party campaign people - put their names on all ads.
+But "we are acutely aware of the ongoing changes to the information environment and how rapidly technology is developing", it added.
+The Privacy Commissioner put out guidelines on AI use on Thursday, shortly after the National AI ads came to notice, without mentioning disclosure in political ads.
+His officer said Monday night that political parties faced the same responsibilities over handling information about identifiable individuals as other agencies.
+O'Connell said Australia might be even further behind than New Zealand, with just one deepfake ad in Queensland in 2020.
+"There's been very limited experience," she said. "Australia will need to get to this."
+Disclosure would be a "great first step", but "how specific does the disclosure have to be?

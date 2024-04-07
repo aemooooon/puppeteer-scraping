@@ -1,0 +1,21 @@
+The Talanoa Project is a pilot project that uses IBM's artificial intelligence virtual agent solution, Watson, to interact in real time in Samoan for public consultation and community engagement.
+Developed and designed by Beca, business director Matthew Ensor said it was about consulting with 'the silent majority' in the public on projects and community facilities.
+"We don't hear so much from the people where language is a barrier, where culturally there's no tradition of responding to public consultation.
+"We then created a conversational agent, it's like a chat-bot and what it does is it mimics the kind of conversation that you would have with a consultation expert," Mr Ensor said.
+"It will ask open questions about your thoughts on different things and really lets the person lead the conversation rather than a survey form where the questions are completely scripted."
+Steve O'Donnell from IBM New Zealand's Managing Partner for Global Business Services said this was the first time IBM Watson Assistant had been used for public consultation in New Zealand in a language other than English.
+"What we are seeing now is AI being able to scale down, and drive value in many industries," he said.
+"IBM Watson has already transformed the world of customer service, due largely to its ability to understand human sentiment and interact naturally with people and Tala is a promising first step towards that."
+The Talanoa Project, part funded by Callaghan Innovation, tested Tala among a few dozen Samoan speakers, asking them for their thoughts on their local community facilities.
+The focus group of Samoans ranged from 19-years of age to 77 being the oldest and included Samoan elders, law students, psychologists and sociologists.
+"It was overwhelmingly positive the response we got back from the Samoan community," Mr Ensor said.
+"We had a few people share that it was great to hear technology using their native language.
+"We had feedback from people saying they were culturally at ease, which they wouldn't have had if it were an English-speaking AI."
+However, there were cultural and technical challenges facing the researchers with Tala.
+"Initially we thought our biggest challenge with Tala would be getting the translation working in real time and being correct. If you have ever used Google translate, you'll know it's not that accurate," Mr Ensor said.
+"What we actually found was the challenge was more culturally specific.
+"It was trying to make sure Tala speak in a respectful way, and understanding the differences between formal Samoan and causal language."
+Mr Ensor said even though many responses in Samoan were translated into imperfect English, IBM Watson had the ability to understand these nuances sufficiently to continue a conversation smoothly.
+To develop Tala, Mr Ensor brought together a team of eight interns, with diverse experiences and backgrounds and drew on Beca's extensive expertise in communication and engagement with communities.
+Alongside the interns, over 500 Beca team members were also involved in training Tala, enabling the AI assistant to learn how to have a natural conversation with people in multiple languages on the phone and online.
+Mr Ensor said online consultation had become more important since Covid-19 restrictions, where tradition methods were no longer available.

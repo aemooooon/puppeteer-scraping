@@ -1,0 +1,59 @@
+
+“Artificial intelligence has moved forward at such dizzying speed over the last year it's rarely out of the news. And it's mostly bad news,” says Nikki Mandow in a new Newsroom podcast series (with the help of a commercial sponsor): AI - Harnessing The Speed Of Change
+
+One industry working out how to harness AI is the media - and the news media is wrestling with how it is already being harnessed by AI. 
+Generative AI products - such as Chat GPT, Google Bard and Microsoft’s BingChat can generate text, images and audio automatically in response to simple requests - and the most powerful of the applications are already crawling all over the news media for its input. 
+Google has done this for years to inform its online searches. But while Google’s algorithm gives searchers dozens of choices from the online information it has indexed, AI-powered search generative experience (SGE) responds to requests with a single summary that’s meant to be reliable and factual. 
+Earlier this year Gordon Crovitz, the founder of the US-based fake-news detection service Newsguard, told Mediawatch the chatbots are not that good at it yet.
+“AI models will create highly persuasive well written radio scripts or newspaper articles that are written beautifully with perfect grammar - and completely false. And the machines don't know the difference unless they've been trained. They end up repeating misinformation, The AI can get even worse as the developers think they're making it better,” he warned. 
+Last week The UK-based Guardian confirmed that it has prevented the Chat GPT-maker OpenAI from harvesting its content.
+CNN, Reuters, the Washington Post, Bloomberg, the New York Times are also reportedly blocking AI aps online
+But the same AI tools extracting useful stuff from news media can also be handy for them in gathering and publishing the news and producing it digitally. 
+Local subscriber service BusinessDesk already creates articles in seconds from basic info from the stock exchange. 
+But what else can AI do for  - and with - media content? 
+At the AI + Communication Symposium held at AUT this week, AUT’s senior lecturer in journalism Dr Merja Myllylahti  showed how the popular AI tools aren’t that great at giving you local news results yet.  
+“There were no links to RNZ, there were no links to the TVNZ, Newsroom.co.nz, The Spinoff, the Otago Daily Times or The Guardian which has a New Zealand section. So we have a situation where the search is throwing us news links for mostly just three news organisations. Google Bard most often linked to the sources, but the links go to the wrong sources or stories and random articles,” she said.  
+The ad industry is also adopting AI for content creation.
+AUT Lecturer Daniel Fastnedge - formerly an ad agency art director - showed how Open AI’s image modeller DALL-E2 could blend the image of a lion and a bat, mimicking a recent successful ad campaign for cars in South Africa. 
+While it was “better than photoshop on steroids” he said, it was probably bad news for other graphics specialists in the business.  
+“We can cut out third parties using this type of technology. We don't have to employ photographers that we would have previously to create a campaign. But I'm also going to be expected to do a job which would have taken a couple of days in a matter of 20 or 30 minutes. And that's going to increase stresses, Is that a viable and sustainable practice?” he asked. 
+That sort of creative power is also of interest to brands, who find themselves these days at the mercy of the precocious influencers who promote their products - but sometimes bring their brands into disrepute as well. 
+AUT’s Petra Theunissen showed us how corporates use AI to create flawless and scandal free virtual influencers.
+“Are they authentic? Are they transparent, because we don't know who actually creates these. Models will disappear. They won't have jobs anymore because this will be cheaper. They also don't have to go on a diet. They can eat burgers and never gain an ounce,” she said. 
+Similar things are happening in music these days with AI apps that can create new compositions. There's even an AI to fake the voice of Johnny Cash for cover versions.
+There’s stacks and that sort of stuff on TikTok and elsewhere already, but who owns it? Is it even really music and  - do we care? 
+“The AI algorithms, the AI software can take a lot of the grunt work that you need to do - for example, mixing, mastering that’s time consuming and quite routine. It'll write your press releases, all that sort of stuff which can be fairly tedious. But there's a kind of line here between what is labor and what is creativity,” said AUT senior lecturer in Communication Studies at the Peter Hall. 
+“There is this usual human fear that we will be supplanted - that AI will do things better than we can. Things like Boomy will generate bits of music, which maybe you can't, so I see it opening up, you know, a lot of creativity for people,” he says.
+“But there will also be the response that it won't be ‘real journalism’ or it won't be ‘real art’,” he says.  
+AI is already creating new music for which the creation and ownership is unclear. 
+“Someone on TikTok wrote a song and then used AI to create Drake’s vocals to sing the song. So it sounds like Drake singing this unknown person’s song which got millions of hits on TikTok. United, the record company, shut it down. But it's not quite clear on what kind of basis they did that,” he said. 
+“They didn't like it because Drake is one of their artists. But Drake didn't write the song or sing on it. Are they trying to copyright ‘the essence of Drake-ness?,” he said. 
+“As ever, corporate ownership of culture and art is going to make the real difference. Everyone's sitting around waiting for someone to take it to court to sort it  out - and then everyone else will fall in line,” he said. 
+But blurring virtuality and reality like this is not on for news. 
+AUT researcher Haley Jones has studied how technology is affecting news-gathering and journalistic practice here and now in New Zealand. 
+“We're looking at it from two sides of the coin  - from the way that audiences might use these tools to access journalism and also from the perspective of journalists using the tools to create news,” she told Mediawatch. 
+Jones studies how journalists use online search tools - most commonly Google - to find out how its algorithm-driven nature is changing journalism.
+“Journalists still draw from the full range of resources to gather news - making phone calls and conducting interviews and writing emails, going to locations and speaking to witnesses and attending press conferences. But . . . the algorithm is playing a crucial role in knowledge acquisition and dissemination for journalists,” she said. 
+Jones spent time in the Auckland RNZ newsroom looking over the shoulder of journalists how they worked. 
+“Journalism has always been shaped by technology. If you think about the invention of the telegraph, for example, that led to the introduction of the pyramid structure in journalism where the most important information is at the top of the story. It also came with a more simple language style as well, because of the cost-per-word nature of the technology,” she says. 
+“In the late 20th century the maturing of current affairs, television led to the cross-cut, interview style as well as a more sort of critical approach to reporting.
+“But the difference here is that algorithms behind the search tools have become an intermediary between journalists and their sources of news. And it's important to try and understand how these algorithms shape the new selection process because Google's a commercial entity, it doesn't operate to the same sort of civic responsibilities that the journalism industry operates to."
+“I think it would be really interesting to come back into a newsroom and observe how journalists are using Chat GPT and chatbots and technology like that in order to gather news."
+ 
+Peter Hoar says the music industry has proven pretty good at protecting its rights when new technologies have developed down the years. 
+But the AI chatbots scraping the internet for news and data are a big problem for the news media.
+“Back when the internet first came along, journalism gave away a lot of its intellectual property by putting journalism online for free. We're seeing a bit of a pushback and It's going to be very interesting to see how AI and journalism interact over the next five to 10 years or so. But there are for journalism to strike deals with the likes of Open AI to allow audiences to access their journalism, but in a way that's fair to them as well,” Haley Jones told Mediawatch.
+AUT communications lecturer Justin Matthews told the symposium on Wednesday that AI tools answering requesting information and answering questions could make news websites and apps redundant because people looking for answers won't be directed to them any more. 
+How can news organisations operating online adapt to having their content aggregated into summaries on demand?
+“These tools will still have to draw that information from somewhere. We'll have to see some kind of symbiotic relationship between these tools and journalism organisations,” Haley Jones said. 
+What might all this mean for the broadcasting of music? Radio networks today have a lot invested in their brands and their on air talent. It’s already possible to use US-based companies to set up and programme an entire networks with playlists on a server and even the branding for  stations. 
+“The radio industry as such has a lot of problems right now but the biggest one is audience trends. Even older people are starting to leave it because they've got the hang of streaming,” he says. 
+“There are AI radio stations happening in the US. I've listened to a few of them, and they're kind of experimental but they sound like commercial radio. And, if you're getting the music you want and you're getting a person saying the things you want to hear, then that's probably successful commercial radio,” he said. 
+“If a machine can do it, well, why should you care? A lot of processes in radio, the routine stuff will get sped up just amazingly. If you Chat GPT can write an essay, it can probably write a 30-second ad which you can then doctor,” he said. 
+“Commercial radio may need to think much harder about what it actually does and why it's doing it. It does provide really good things at the moment, but if these good things can be provided by software, well, why should we be bothered?” he said.
+In advertising and graphic design, some are speaking of AI applications as not merely tools - buut now a collaborator in the process.  
+Is it the same in music broadcasting and journalism.. 
+“It’s only collaboration in the sense of having a handy butler, who gives you the right thing at the right moment. Just, you know  . . . Jeeves,” Peter Hoar told Mediawatch. 
+“I think this is part of the problem, too, is the very language we use. We naturally just kind of grant this kind of intelligence and sentience to it, as we do with non- human animals as well. But a cockroach is more self aware than an AI,” he said.  
+“AI in the journalism space is still very limited as well. They're working to templates essentially at the moment. But as long as you're being transparent in journalism around the use of AI, that's all right,” said Haley Jones. 
+“It's kind of different with an art form, because a lot of the music we hear is fairly derivative, a pattern that works. I'll respect AI when it starts putting grit into things and when it starts making wayward decisions. Or when you turn to it for answers and it says: ‘Can't be bothered today’. Now we're dealing with something that we could possibly call intelligent,” said Peter Hoar.

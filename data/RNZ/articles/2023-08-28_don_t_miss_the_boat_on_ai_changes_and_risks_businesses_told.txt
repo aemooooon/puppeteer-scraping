@@ -1,0 +1,8 @@
+A survey of 200 businesses leaders commissioned by the technology company Datacom showed respondents were split on the uptake of artificial technology in the workplace - half have integrated some form of it at work and half have not - while six out of 10 said they did not feel well educated on the risks of AI to security.
+However sentiment towards AI was more favourable, with 47 percent of leaders saying there were in support of it, while 35 percent said they were keen to learn more.
+Datacom's group chief information officer Karl Wright said just over half of respondents have AI policies in place, but this likely overlooks the possibility that employee may already be using publicly available tools, like ChatGPT, on the job.
+"The use of AI needs to be carefully considered, monitored and governed with clear policies and guidelines in place to ensure the risk to business are minimised," Wright said.
+"It almost requires the same approach as cybersecurity - clear policies and procedures to minimise risk, employee and user training to ensure they understand the role they play in protecting data, and regular audits."
+The survey showed just 24 percent of respondents said they had legal guidelines in place for use of AI and just 13 percent had audit assurance.
+Datacom's associate director future and insights Tracey Cotter-Martin said businesses should have a good look at how AI could benefit their businesses.
+"How you apply AI and its purpose should be determined by your business goals," she said.

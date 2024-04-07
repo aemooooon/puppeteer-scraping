@@ -1,0 +1,15 @@
+A university lecturer believes artificial intelligence has the potential to personalise learning and provide students with in-depth feedback.
+AI-driven technology has been on the rise with open access tools such as ChatGPT, allowing people to ask the bot any question.
+Students have been able to use the technology to help them write assignments, with some universities introducing ways to detect bot-written work.
+Alex Sims, an associate professor in the Department of Commercial Law at the University of Auckland, said there are benefits that can come from AI tech within the classroom.
+"It can give much more individualised feedback; it can take a lot of time to give feedback with 300 assignments to mark.
+"What we have to do is give students a list of common mistakes, but the students don't think they've made those mistakes."
+Sims said academics have been able to use AI to tailor far richer comments for the students.
+Many assignments tend to test students' writing ability rather than how well they know the subject.
+Sims said assessments will start to see redesigns in the future moving away from essay writing which in the end will level the field for students.
+"I've taught students that have had dyslexia or English as a second language who know the answer but have trouble communicating getting lower marks.
+"Compared to someone else that doesn't know the content but can write it well, but now we have tools that can write even better than people."
+There have been courses implementing ChatGPT having students critique the answer given by bots, fact-checking the information.
+Sims said there are already academics embracing AI, but there will be many that are going to find the change difficult.
+"For a number of others it's very challenging, what they've learned all their lives has all changed which will be difficult."
+The plagiarism software Turnitin has now begun updating the tool with the ability to start checking work for AI-generated content.

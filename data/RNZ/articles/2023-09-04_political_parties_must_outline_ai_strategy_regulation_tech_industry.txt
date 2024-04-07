@@ -1,0 +1,31 @@
+New Zealanders have used the rapidly advancing technology to cheat on homework and spread disinformation online, but neither party has announced policies for how they would deal with it.
+Tech Users Association of New Zealand chief executive Craig Young said the next government must take action before the technology grows out of hand.
+"If you apply the standard government approach to managing AI, we won't keep up," he said. "You certainly can't do what you've done before which is take your time and develop something, you've got to do it on the fly."
+He said it didn't need to be perfect, but it needed to be timely.
+"We need a flexible [approach] and we need a government that's prepared to think on their feet when it comes to AI, not only in the way they use it but how they regulate it and the guard-rails they put on it," he said.
+AI tools like ChatGPT and Midjourney are being used to generate reams of text and millions of images.
+Young said he was excited by its potential, but the technology had a number of unsolved issues.
+"It might be used in areas we don't want it to be used, and then of course you get the privacy and data-integrity issues," he said.
+"As we use the tool and we input data, where's it being stored? Who's using it? What's it being used for?"
+Victoria University computer science lecturer Andrew Lensen said AI should be a high priority in 2023's election.
+"There's a lot of fear and anxiety in the population when they read about things like ChatGPT and how it's being used to replace jobs and how it's being used in education," he said.
+"I think we need to see more discourse and more policies being released by political parties with their views on AI and how it should be regulated."
+Several AI models collected data from the internet and their users, which Dr Lensen said raised privacy concerns. He said the next government might have to reassess the Privacy Act.
+"We have a Privacy Act, which is quite an old piece of law these days, and I would really like to see some of that law modernised for this new AI era," he said.
+"For example, should we be able to opt out of our data being used by companies in their AI models? I think that's going to be an important issue going forward."
+A survey of New Zealand businesses by IT company Datacom showed many supported some form of regulation. It found 82 percent of respondents agreed that the government should control its use of AI within the public sector.
+Datacom managing director Justin Gray said AI had a lot of advantages for businesses, as long as they could mitigate the risks.
+"We need to leverage this as a country if we're going to get the productivity improvements we need to reach our potential economically," he said.
+Many businesses were already using AI in some form or another, he said. "The decision has largely already been made, because of how pervasive Artificial Intelligence is within all the systems and platforms we use on a daily basis."
+Lensen said there was a lot of work to be done before the benefits of AI outweighed the risks. "There are risks, and I think it's a little naive to just hope that the benefits will outweigh the risks," he said.
+"I think we need to be more proactive and make more of a decision about what we think it should be used for, and which things we don't want to see AI be used [for], then we have the best shot of having the benefits outweigh those risks."
+He said bad actors would exploit the technology unless firm rules were in place.
+"Regulation is necessary," he said.
+"We live in a society driven by capitalism and so if we don't regulate we'll see these models being trained with people's data. Companies, and even government, will simply use data in the most advantageous way."
+Lensen said data was becoming increasingly commodified. "Data is the new natural gas or fossil fuels, if you will," he said.
+"Data-driven decision-making is how a lot of money is going to be made in the next 10 or 20 years, so I think it's something we really need to have a tight lid on."
+But Young said regulations could backfire if imposed haphazardly. "One thing you don't want to do is regulate something that's so fast-moving," he said.
+"Regulation gets out of date too quickly, and secondly you don't want to stifle innovation."
+Instead of forcing the genie back in the bottle, Young argued the risks could be mitigated by strengthening other laws.
+"What we've got to be doing is ensuring that our privacy and digital identity laws are strong enough to deal with what's coming down the track with AI."
+A spokesperson for Labour couldn't confirm whether AI regulations would be in the party's manifesto, but said current minister for the Digital Economy and Communications Ginny Anderson was watching the technology closely and engaging with industry leaders.

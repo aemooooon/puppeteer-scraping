@@ -1,0 +1,19 @@
+A legal team from Otago University is going to try to find the answers to these questions.
+Colin Gavaghan heads a research team that has just been paid $400,000 by the legal thinktank, the Law Foundation.
+His task is to find out how legal practice can evolve to deal with new technologies such as driverless cars, crime prediction software and even virtual lawyers themselves.
+Dr Gavaghan said when things went wrong with mechanised or automoted machinery, liability usually relates to either the manufacturer of the machine, or the user of the machine, getting something wrong.
+"What is different about artificial intelligence, or what has been referred to as smart robots, is that in a weird kind of way, they are making decisions for themselves.
+"They are capable of learning and they are capable of interacting in all kinds of complex ways with the environment, and that makes the whole chain of responsibility a bit more difficult to establish."
+Other forms of artificial intelligence (AI) also needed careful analysis.
+In some cases, algorithms had been developed that told police officers where crimes were likely to occur and even who was likely to commit them.
+"Predictions about danger and risk are important, and it makes sense that they are as accurate as possible," he said.
+"But there are possible downsides.
+"AI technologies have a veneer of objectivity, because people think machines can't be biased, but their parameters are set by humans. This could result in biases being overlooked or even reinforced.
+"Also, those parameters are often kept secret for commercial or other reasons, so it can be hard to assess the basis for some AI-based decisions."
+Dr Gavaghan said an American law firm claimed to have hired its first AI lawyer to research precedents and make recommendations in bankruptcy law.
+"Is the replacement of a human lawyer by an AI lawyer making the lawyer redundant, or more like replacing one lawyer with another one?
+"Some professions - lawyers, doctors, teachers - also have ethical and pastoral obligations. Are we confident that an AI worker will be able to perform those roles?"
+Dr Gavaghan suggested a couple of ideas that might work to contain these problems.
+One had been proposed by the European parliament and involved keeping a register of smart robots so they could be properly monitored.
+Another was to establish a rule of strict liability to make sure owners of robots were incentivised to ensure they had the money to pay for damages when robots go wrong.
+Alternatively, there could be some kind of national insurance scheme to fund AI disasters from a common pool of money.

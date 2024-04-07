@@ -1,0 +1,48 @@
+It shows a current reality of "obsolete" IT systems and myriad apps that can barely talk to each other, are vulnerable to "significant" cyber threats, and which doctors say are bad for staff efficiency and patient care.
+Now, a network of health specialists have put out an open letter.
+The Clinical Informatics Leadership Network is calling on the government for sustained investment in hospital IT - arguing that its Covid-19 pull-out-the-stops financing of contact tracing must be the catalyst.
+"Our large technological debt is hindering care for our patients," the network said in the letter to Director-General of Health Ashley Bloomfield.
+"We seek your endorsement of this call to action."
+The ministry said it was considering the letter.
+Its vision, as laid out on its website, jars with an IT reality where doctors often still rely on faxes (workers within the Covid-19 contact tracing system have told RNZ it has to rely on faxes at times too).
+"I would think every DHB has some sort of 'axe-the-fax' programme," the network's co-chair, Dr Ruth Large, of Waikato DHB, said.
+The ministry imagines by 2026 many people having medical implants that don't just keep tabs on their health, but share that data with an artificial intelligence assistant.
+In a cartoon on its website, construction worker Nikau lauds his diabetes-control implant, which constantly updates his watch and cellphone with his vital statistics, which are passed to an AI assistant to dish out medicines and inform his health team.
+"I can see all my readings ... along with all my other medical info ... it's good to know my docs and nurses can see it too cos I live pretty far away from a hospital," cartoon Nikau says.
+Another cartoon features a community nurse who monitors all her patients via their wearable devices, or by their fridge or coffee maker talking to the AI assistant.
+These cartoons date to 2017. The ministry has not told RNZ if this is still its vision.
+It was "most definitely not planning on implanting medical microchips in everyone's bodies", it said in a short statement.
+Elsewhere in its vision documents, the ministry stresses patients will be in control of their own data.
+The stocktake presents a contrasting IT picture.
+"The presence of legacy systems, incompatible devices and outdated infrastructure has created ongoing challenges for users to access and use patient and clinical information," it said.
+As for the hospital network security systems that safeguard data sharing: "These are outdated and not adequate to support the introduction of new systems and to manage the increased cyber security issues."
+Dr Ruth Large of Waikato DHB said seldom had the health system's IT woes been so clearly laid out, though clinicians had struggled with them for years.
+It was routine for IT to be treated as a drain on funds rather than as an asset for investment, she said.
+Hospital staff have spoken of this wearing them down and jeopardising care.
+Poor resourcing built up "their feelings of frustration and stress and self-identified burnout. Frequent themes were lack of clerical support, suboptimal IT support, inefficient electronic systems ...," said a 2016 report on burnout by the specialist DHB doctors' union.
+That pointed to something the stocktake paid scant attention to - the staff using the IT, Dr Large said.
+The network letter calls for funding to build a digitally capable workforce.
+The pandemic could be a catalyst.
+"The open letter is really agreeing with Dr Bloomfield, he said very clearly that we've made big steps over a short period of time with Covid," Dr Large said.
+"We've enabled all of these digital processes to happen. And arguably, that's because we've been able to break through some of the bureaucratic and regulatory processes."
+Wise investment required any hospital rebuilds to first factor in IT needs, she said.
+The existing hospital technology is a problem, and so is trust in how it is deployed.
+Massey University associate professor Anna Brown, who helped the Data Futures Partnership write the country's guidelines on ethical information use in 2017 and is poised to update them, said the test of trust was close at hand - the ministry's rollout of Covid-19 contact tracing technology.
+Its Covid Trace app has been criticised for not delivering many benefits, competing with other apps, and being late in delivery, while its development process was not transparent to the public.
+Yet the ministry had built up public trust too, over the course of combating the pandemic, Brown said.
+"The thing is it's very easy to erode trust, and it's much harder to build trust."
+Tracing technology was like any other technology the ministry might envisage using; the benefits, safeguards and effectiveness had to be made very clear.
+Not enough of that was going on, Brown said.
+"I want to know that the things in my body or on my body have been thought about.
+"That potential unintended consequences have been well responded to.
+"That the Ministry of Health is thinking about the best interests of me as a person, not just how the systems work."
+Its assurances on its website of patient control over data were not enough, she said.
+"Is taking people at their word enough?" Brown said.
+"I want evidence and I want to be able to access my data about me. I want to know that that is secure, that I can correct it or delete it or update it" and that data wouldn't be passed on to anyone else or sold, or hacked or leaked.
+That demanded public input as a product was developed, and regular public evaluation of it once it was launched.
+The partnership's guidelines gave agencies the right questions to look at, she said.
+However, the Ministry of Health had not had any engagement that she knew of, over those guidelines.
+RNZ inquiries show that ministry's consultation over its health technology vision has been limited in other ways:
+"There is really valuable voice and expectations of the people of New Zealand in these guidelines about what they want to be done for them and with them around data about them," Brown said.
+"If the Ministry of Health would engage with those processes that would be a positive step forward."
+Both Brown and Dr Large agreed that medical implants and AI could benefit patients if done right.

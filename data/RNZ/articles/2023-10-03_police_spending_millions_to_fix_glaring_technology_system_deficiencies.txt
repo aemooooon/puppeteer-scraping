@@ -1,0 +1,40 @@
+Despite an ICT assessment two years ago full of red flags - revealed in a new OIA - it has recently added visual analysis technology, powerful data-mining and new mapping to a system where it already holds over 10 million documents, seven million "person identities", and massive data scrapings from the dark web and regular internet, including people's social media data.
+The system also includes cellphone-hacking Cellebrite, among a long list of tech capabilities most recently updated in April.
+Police have repeatedly told the public all the data it and its big tech partners gather was with good reason, and handled with care.
+However, IBM looked across its ICT systems two years ago and reported back internally, in the latest review available from police under the OIA:
+And, worryingly for the invasive high-tech tools implemented before 2021:
+In fact, IBM rated eight out of 15 ICT categories as red - "best practices do not exist with the organisation" or had only just been started on - six rated orange ("partially exist"), and only one green.
+IBM was now helping to fix all this, via more than $11 million in IT contracts it has with police.
+The US tech giant also found systems were duplicated, performance measures and priorities were "ad hoc", and an overarching enterprise architecture was missing.
+There was little sign of proper strategising, which could get sticky politically, IBM warned: "Potential political fallout of not meeting 'Cloud first' all-of-government adoption if discovered by non-governing political parties," it said.
+The police IT system was perhaps unique in having enormous data pools, where it can be a life-and-death matter to be able to get hold of and analyse the data incredibly rapidly for frontline officers, as perhaps, a shooting goes down.
+However, till SearchX was built between March and September this year, the main data pools were siloed and did not share the likes of firearms and gang links; the whole ICT system was called "incomplete", "disjointed", "undefined", "unclear" and "inconsistent" by IBM.
+"Many business areas have their own 'shadow IT' for data management," it said.
+"Data managed by 'shadow IT' is invisible to the rest of the organisation and is highly likely to fall outside of data recording standards."
+Police data boss Dr Dan Wildy told RNZ in the OIA the assessment was about "surfacing how technology needed to be shaped to support future business initiatives and strategies".
+"It is not necessary nor sometimes possible for an organisation to target or achieve an optimised rating in each architectural domain," Wildy said.
+"The purpose is typically to demonstrate a starting point to identify gaps in key areas and to work towards continuous improvement in these areas."
+Police state elsewhere it was "using technology to support our mission to prevent crime and harm through exceptional policing".
+The OIA documents show the ICT team working well in some respects, but at sixes and sevens in others, and under huge pressure.
+"Projects [were] placed under pressure to deliver to timeframes they know they can't meet."
+This pressure led police early this year to rule out buying a whole new intelligence search tool - its documents mention options such as the controversial Gotham by Palantir, Azure Cognitive Search and Siren - because that would cause ICT more work. Instead, it expanded its IBM system and added new visual AI.
+Another of the options not pursued was Datawalk. The California company promotes tech that finds connections from individuals to phone numbers and call logs, vehicles, offences, "dealers", firearms and addresses, among other things.
+It was not clear just how far police have got with fixing all this.
+ICT fixes never come cheap, and in the New Zealand police's case, many go hand-in-hand with big US tech firms that have had great success expanding the law enforcement market at home and abroad.
+So far, a series of five upgrades, including to "stabilise" the core National Intelligence Application, have cost $31m - or 50 percent more than budget.
+Police spending on contractors and consultants of all types, including IT, almost doubled to $91m last year.
+One spur was its spending on six major projects including the Tactical Response Model, that aims to make frontline officers safer, in part due to SearchX.
+SearchX and a new visual analytics link the police databases for the first time, and scoop up data from their OSINT group (open-internet searchers).
+Police have refused to say what tech it uses to scrape the internet - "providing such information to criminals would only harm the community". One tool is likely to be from surveillance-for-hire firm Cobwebs, which like Cellebrite grew out of the hotbed of Israel's intelligence community.
+Around 2020, after police had launched an overhaul of its entire intelligence system, a review found it was so gappy and siloed that officers had virtually given up on it.
+"The intelligence function has lost relevance within some areas of police," it said, an OIA from 2021 showed.
+Police had to urgently upgrade it "to prevent a 9/11 moment", it added.
+This was compounded by the ICT flaws exposed by IBM - the systems were not working well (data got "dirty" too easily, IBM said, and police wasted time and money trying to build their own solutions) and nor were the intelligence tools.
+"It is necessary to look beyond our demand data, searching for additional context, nuance and information derived from the widest possible range of sources," Wildy said in 2021.
+Among the top priorities were to get "predictive analytics" to "deliver  precise and predictive targeting picture" of crime targets; and to get geospatial tools for "time and space pattern analysis".
+Police got that new tool this year, ArcGIS, from US company Esri that champions the use of mapping crime "hotspots".
+A police 2023 tech list said it did not produce hotspot maps, but in another place it said that it did.
+Esri, addressing ethics, says, "GIS [Geographical Information System] is increasingly bound to and supplied by information from big data streams, artificial intelligence, and models that the GIS analyst did not create themselves".
+Big tech firms have found a huge market with law enforcement globally for the likes of crime data-mining technologies and smart-maps, prompting pushback from the likes of the Tech Is Not Neutral campaign.
+Proponents argue data-driven policing can improve public safety; critics that it can erode civil liberties.
+A market analyst forecast the law enforcement software market to grow by 50 percent to about $50 billion in five years, with Asia-Pacific including New Zealand offering "major opportunities ... as the region has undergone significant political, social, and economic development over the past five years".

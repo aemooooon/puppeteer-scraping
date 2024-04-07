@@ -1,0 +1,13 @@
+Lincoln University is developing a computerised system with electronic sensors that can accurately count and analyse grapes to assess the number, size and distribution of grape bunches.
+Jaco Fourie from Lincoln Agritech said growers and wineries spent a lot of money trying to predict grape yield, and hired large numbers of workers to manually analyse the fruit.
+"What we're trying to do is develop an optical system that's based on artificial intelligence.
+"[It] uses imagery to automatically detect the grape bunches and count them.
+"We'll then feed this data into computer algorithms, which have been designed by the University of Canterbury, to predict grape yield at harvest time."
+Mr Fourie said estimating the yield as early as possible gave vineyards a better idea of how much wine would end up being produced.
+He said the new computerised system would change the way vineyards operated.
+"It would mean a reduction in manual labour, but it's not something that replaces manual labour, it's just something that makes their job easier.
+"The people that would normally be doing the manual sampling ... would now be instead capturing images and feeding the data through an algorithm and getting the results that way."
+He said this would make the job easier and the results more accurate. When asked if this would require the same number of workers as before he said it could be less.
+New data would be added to the system each year, he said.
+"Leading to continuous improvements in the model's accuracy, with the system's predictive power improving over time as more data is gathered under different conditions."
+Sauvignon Blanc was the main focus of the study and then the team would look at how much technology development was needed for Pinot Noir.

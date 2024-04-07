@@ -1,0 +1,52 @@
+Palantir has worked for spy agencies in the United States and New Zealand.
+It is now parlaying its data mining power for governments around the world desperate to track how the virus is spreading.
+RNZ asked the Health Ministry about Palantir after learning that the Government Communications Security Bureau (GCSB) has been advising the ministry about Covid-19; and because of Palantir's pandemic work in other countries.
+The advice from the GCSB is about contact tracing technology which is needed to speed up tracing so teams can find 80 percent of contacts of an infected person within three days.
+The bureau's advice was to ensure any technology brought in from overseas complied with privacy and security rules, the ministry said.
+*See all RNZ coverage of Covid-19
+The government has repeatedly said any tracing technology would be voluntary for people to choose to use.
+Late yesterday, the ministry confirmed to RNZ that it had had talks with Palantir.
+"The Ministry had a 30-minute meeting on 18 March to understand how Palantir was helping other countries manage their data for the Covid-19 response," the ministry said in a statement.
+"No decisions have been made as to whether or not we will proceed with their solution now or in the future."
+RNZ asked what kind of technology Palantir was offering New Zealand - whether it was contact tracing, which can be invasive, or higher-end data pattern processing to track the virus's spread.
+Two hours later, the ministry issued a second short statement, saying it had got an email from Palantir on Monday this week, as a follow-up to the March meeting.
+It had not responded to that email before Wednesday evening, it said.
+Then it added: "We don't have plans to and haven't used their services."
+RNZ has been asking for weeks which private companies the ministry is talking to about Covid-19 technology, but it has revealed little before now.
+Last night it said, "The ministry continues to explore a large number of offers from companies with innovative products, apps and devices which could help in our fight against Covid-19. "
+The tech industry has been calling for more transparency about what apps or tracking devices the government is looking at, and where it is getting its advice from, especially given growing concerns globally.
+For instance, Amnesty International said some governments are using apps to enforce compliance with quarantining or to track individuals.
+While public-private tech collaborations could be useful against the virus, many governments were turning to surveillance companies with "deeply worrying human rights records", said Amnesty, and went on to name just two: Palantir, and artificial intelligence pioneer Clearview AI.
+The leading data rights group Electronic Frontier Foundation of San Francisco is also urging close scrutiny of new relationships between governments and private companies.
+Privacy Commissioner John Edwards told Morning Report that concerns over Palantir having a place in the New Zealand health system hinged on what kind of product it was offering.
+"It depends what sort of product they are offering, and we simply don't have any detail. If the government was considering any particular technology option, it would be subjected to a thorough privacy impact assessment and we would be participating in that and providing advice on that and reviewing it. It would also need to be thoroughly security reviewed to ensure New Zealand security standards."
+The GCSB would help government with any security concerns, he said.
+"I hear concern being expressed about the role of GCSB for example, in assisting with some of these technologies, and they are described as a spy agency, which of course is true in the shorthand, but the director of the GCSB also holds the role as Government Chief Information Security Officer.
+"So they provide a really important service in securing New Zealand's online infrastructure and that doesn't involve any spying or espionage, it's simply making sure that technology has the current state-of-the art security settings. And I would expect a technology solution that was going to assist with Covid to be vetted by the GCSB."
+If a tracing app were introduced to New Zealand, there would be safeguards, he said.
+"Nobody is talking about a mandatory technology in terms of tracing apps. And what that means is people have to have confidence that it's safe, I'm talking to my counterparts all around the world, technologists, privacy commissioners and others who are designing standards, and sharing notes because so much is happening so quickly.
+"But it is important that we make sure that whatever technological responses to the crisis are proportionate and can be backed out once the legitimate need has passed."
+It's been widely reported including by the Wall Street Journal and Forbes that Palantir has built an anti-Covid web app that began running at the US Centers for Disease Control in late March.
+It looks very similar to the confirmed start-up in the UK of a Palantir platform called Foundry, set up to crunch anonymised data from the NHS - from hospitals, labs and so on - to predict where resources such as hospital beds will be needed.
+The UK government said Palantir was not in control of the data.
+"Foundry is built to protect data by design. A G-cloud data processing contract is in place. Palantir is a data processor, not a data controller, and cannot pass on or use the data for any wider purpose without the permission of NHS England," it said.
+In the US, Palantir's CDC project has, according to media reports, avoided controversy because it appears not to be ingesting information that could identify individuals.
+But Bloomberg reported that Palantir's pandemic pitch to governments in France, Germany, Switzerland and Austria included a tool called Gotham, best-known for helping intelligence agencies and the police track individuals.
+In New Zealand, Palantir and co-founder Peter Thiel have both been controversial.
+Two years ago, eerily prescient reports told how the Silicon Valley billionaire and his friends had begun buying property here - with central Otago a favourite - to use as boltholes in case of a global apocalypse.
+Thiel has been a close ally of US President Donald Trump.
+His citizenship here was fast tracked in 2011, though he had barely set foot in New Zealand. The previous government was forced to defend that.
+As for Palantir, the NZ Herald revealed the company's links to spy agencies the GCSB and SIS and the intelligence community, including multimillion-dollar defence contracts.
+In the US, Palantir's deep links to the CIA and National Security Agency have been widely reported on.
+Its systems have been used to plan immigration raids and to map family relationships in order to better target police surveillance.
+Just two days ago, the Wall Street Journal reported that Palantir got a jump on the virus, recalling its staff from abroad ahead of most companies.
+RNZ has approached Palantir for comment, and will keep trying to get more information on this from the Health Ministry.
+The GCSB told RNZ it was reviewing Covid-19 contact tracing tools to identify security risks and how to resolve those.
+"This work is not related in any way to the GCSB's intelligence gathering function," it said in a statement.
+The bureau's National Cyber Security Centre specialists would also help review any tracing tool's code and independent testing of it.
+"NCSC staff have a high level of technical expertise around application development and security.
+"It is in this capacity that they are helping review Covid-19 contact tracing tools."
+It reiterated that GCSB and the SIS - Security Intelligence Service - had a long-standing policy of not confirming suppliers or capabilities.
+The intelligence agencies were also assessing the international context of the pandemic against national security and intelligence priorities, the GCSB said.
+"Intelligence agencies have access to a significant amount of foreign intelligence, including from our international partners.
+"However, we cannot release details of intelligence we hold or briefings that are provided to government decision makers.

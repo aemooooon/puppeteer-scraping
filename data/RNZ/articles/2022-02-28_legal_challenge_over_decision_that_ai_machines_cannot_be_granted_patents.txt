@@ -1,0 +1,18 @@
+It is being led by University of Surrey law professor Ryan Abbott, who has been testing patent law around the world, including New Zealand, to see if an invention created by an artificial intelligence (AI) programme could receive a patent.
+The test case centres around a "creativity machine" or AI inventor programme, known as DABUS, which was developed by US-based physicist Stephen Thaler.
+Abbott approached Thaler about using the AI as the basis of the case and with a team of lawyers, all working pro bono, they filed patent applications in more than a dozen countries listing DABUS as the inventor of a beverage container it created.
+New Zealand's Assistant Commissioner of Patents rejected the initial application in January, ruling that the term "inventor" intrinsically refers to a natural person.
+Abbott confirmed to RNZ he was planning to appeal but he said this would depend on IPONZ waiving the requirement for its legal costs to be covered if the appeal failed.
+"This really has to do with the evolution of technology and the fact that AI is getting better at stepping into the shoes and behaving the way people do," Abbott said.
+Abbott said the test case was not about any sort of legal rights for machines, rather it was about trying to get a patent for "the inventive output from an AI" that lacks a traditional human inventor.
+Essentially, Abbott was arguing that a company that owns an inventive AI, which does not rely on a traditional human inventor, should own the patents.
+Some firms were already using AI programmes to discover new drugs or to find ways to repurpose materials but the companies that many of the lawyers on the case represent wanted greater clarity on patent ownership before investing further, he said.
+Abbott said putting a person's name down as the inventor instead of DABUS was not an option because in some jurisdictions it was a criminal offence to list the wrong person as the inventor and could render the patent as invalid or unenforceable.
+Recognising AI inventorship would encourage companies to develop more AI systems that could create inventions that would benefit society, which was the whole purpose of patent law, he said.
+"It won't be all beverage containers, some of it will be, hopefully, treatment for Covid-19 and new types of clean energy."
+To date, the only office to grant DABUS a patent was in South Africa.
+Applications in Europe, the United Kingdom and the United States had all been rejected, with patent offices saying DABUS could not be listed as an inventor because it was not a natural person.
+The application was declined in Australia but later overturned by the Federal Court in 2021 which said the country's patent act had no specific provision excluding AI systems as inventors.
+It was now subject of an appeal which is being closely watched by legal experts on both sides of the Tasman.
+Abbott was coy about whether its case in New Zealand would succeed.
+"Our [case] is particularly challenging because it requires a court to understand the importance of evolutions in technology and to be willing to look at the intent and goals of the patents acts.

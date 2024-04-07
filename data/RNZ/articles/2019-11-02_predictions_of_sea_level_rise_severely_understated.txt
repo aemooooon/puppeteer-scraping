@@ -1,0 +1,32 @@
+The research, published in the journal Nature Communications and conducted by the non-profit news organisation Climate Central, suggests that three times as many people as previously thought could be at risk of annual flooding by 2050.
+It's not that sea levels will rise higher or faster, it's that many parts of the world are in fact closer to sea level than the early calculations -  the land is lower.
+Dr Ben Strauss is chief scientist of Climate Central and he told Kim Hill existing data had given us too rosy a picture.
+"The reason for this large increase is that the global research community had been using a satellite-based data set for coastal elevations which greatly overestimates those elevations. And so we had a false sense of safety," Strauss says.
+Existing satellite data had a weakness, he says. 
+"The satellite would send a radar signal from orbit down to earth. And the footprint of that signal when it strikes, the earth had a diameter of around 30 meters.
+"And it would capture roof tops and tree tops as well as the ground. So, all of those different elevations would get blended into the signal returning to the satellite, so that a built-up city on a very flat low land would look rather like a hill because of all of those buildings."
+He says the climate researchers were aware land elevation data was poor, but not how bad it was.  He and his colleagues started looking at the problem when data they gathered using a different source showed much lower land levels. 
+They had spent several years looking at the exposure of populations and infrastructure in the United States to sea level rise using high accuracy, elevation data taken from LiDAR airplanes.
+"Basically, shooting laser rangefinder down at the ground at incredible densities, it’s very accurate and it's quite easy to identify buildings and trees and remove them, so that you capture the true ground elevation."
+Based on that project which was completed in 2014, they decided to do some global mapping, he says.
+"And so we used this data set that the whole research community was using, produced by NASA, on whose shoulders we stand. And quickly discovered that the maps and the numbers we were generating in the United States were very different than what we had been seeing with the more accurate airborne LiDAR data.
+"We recognised there was a big problem by mid-2014. And then we spent a couple of years looking for better data, waiting for better data. And eventually, we ran out of patience, and made the bet that we ourselves could build a model to improve global elevation data in coastal areas because ultimately, we really only cared about very simple areas, places that are basically flat."
+They used a version of AI make create land elevation data.   
+"This is a form of machine learning or artificial intelligence that is basically black box modelling. What we did was from our United States data, where we have very high accuracy elevation data for the whole coast, we treated that as ground truth.
+"And at random, we sampled 50 million data points, more than 50 million points and we had the true elevations at those points. We then matched those up against the readings from the satellite data set, so that we could see the error. And so that our model, the neural network system, could see the error. And then more than 20 other variables we fed into the computer and said, pretend you don't know what the ground truth is, use these 20 plus variables to build a model that matches the truth. And the computer was able to do that."
+The researchers further fine-tuned the model by feeding in data sets from different sources – the Australian coastline was one such data source, he says.
+The numbers were shocking, he says, but the population at risk could be higher still. The US and Australia still underestimate at-risk coastal populations and coastal populations continue to grow, Strauss says.
+Their predictions are also based on assumptions that carbon emissions will be cut in line with the Paris Agreement.
+One hundred million people are living on land below the high tideline, Strauss says.
+"That means they're being protected by coastal defences such as levees or dikes and that indicates that there is a potential to protect very large numbers of people.
+"So, in that sense, you might feel a little bit of relief things are not quite as bad as they seem. On the other hand, we have no assessment as to whether today's coastal defences will be sufficient for tomorrow's sea levels."
+On a brighter note, forewarned is forearmed Strauss says.
+"I feel with sea level rise, every decade of warning, every decade of head-start that we get, has the potential to save neighbourhoods or cities. It has the potential also to make the transition much less painful for places that we may not be able to defend."
+South Florida is on such undefendable place, he says.
+"The bedrock geology is made from fossilized corals that are full of holes. So even if you built levees and sea walls, the ocean would go underneath them and come up through the ground.
+"There's going to be no way to defend Miami and I expect Miami will be gone, basically by the end of the century, or not long past it."
+Other places that can be defended become nevertheless marginal, he says.
+"Even for those that can be defended, eventually will face the question of how deep a bowl we want to live inside.
+"New Orleans is a city that is already defended by levees, parts of New Orleans are below sea level today. And we saw what happened with Hurricane Katrina when those levee defences failed. The outcome was tragic, with more than 1000 people killed. So I do expect that we will see more relocations over the course of this century."
+Strauss hopes this data will be a catalyst for positive action, rather than despair.
+"Even as the threat from sea level rise is much greater than we thought it was, at the same time, that means that the benefit of cutting climate pollution is much greater than we thought it was. The amount of harm that we can avoid is greater. And so as policymakers wrestle with the benefit cost equation, this is an important thing to take into account."

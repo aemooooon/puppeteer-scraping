@@ -1,0 +1,43 @@
+Last Monday the Otago Daily Times revealed facial recognition technology was in use in supermarkets around the country.
+Under the headline: "the Rise of AI',' the ODT said a Dunedin man was mistakenly identified as a shoplifter at a New World supermarket. This revealed New Zealand’s largest supermarket company has rolled out facial recognition technology in the North Island.
+At which stores?
+"We cannot provide specific store detail," New World’s owner Foodstuffs told the ODT.
+Though there was specific store detail in George Block’s story.  It was in Dunedin’s Centre City New World where mechanic Daniel Ryan was taken aside and misidentified as a lawbreaker.
+The system in use was by a company called Auror - the name in the Harry Potter books for a highly-trained officers within the 'Department of Magical Law Enforcement'.
+This was just one of a series of stories in the news lately about artificial intelligence technology intertwined in our day-to-day lives.*
+The following day, Stuff reported a machine learning algorithm which predicts the likelihood a student will drop out of university is being trialed at universities in New Zealand and Australia.
+Those universities would be made public only after the trial period was complete, said the system’s makers - Christchurch-based Jade Software.  
+In both those cases, we wouldn't know about this without the reporters' revelations. 
+
+On Wednesday RNZ's Nine to Noon focused on companies in New Zealand offering health supplements online via an AI-driven system.
+ 
+The same day, under-fire Facebook released - for the first time  - details of the dodgy content it weeded out using AI and machine learning. BBC reporter Dave Lee later pointed out that Facebook didn't say how often the machines made the wrong decisions.
+But Google’s CEO was only too happy last week to reveal just how far the tech titan has got with AI-driven voice recognition. He startled journalists in the US when he demonstrated a feature called "Duplex" which can make phone calls to humans. 
+While tech nerds applauded, others debated whether this passed the so-called Turing test - proving a machine's ability to exhibit intelligent behavior indistinguishable from that of a human.
+Opinions were divided, but what’s clear is how widely AI technology is in use - and on the rise in New Zealand.
+Lately experts here have been trying to get that message across in the media. 
+Earlier this month an AI Forum report called Shaping a Future New Zealand reckoned we are now at a technological tipping point and every institution needs a plan to deal with AI - especially the government.
+New Zealand's need “to significantly advance mainstream AI awareness and understanding” is urgent, the report concluded, because "this will help reduce the negative impact of sensational media coverage and popular culture," it said.
+In the body of the report, the media are also identified as a part of the problem.
+"Media representations still focus on a dystopian worldview of super-intelligent robots intent on ruling people,"
+"International figures on job replacement as high as over 50 per cent provide sensational content for the media, they lack context," the report said.
+Last week media coverage was the topic of the Great AI Debate in Auckland  - which put experts in tech and media in front of an audience of journalists and editors.
+"The stories we were seeing across the media were saying 'the robots are going to take all our jobs," said Justin Flitter, founder of New Zealand.AI who chaired the debate.
+"We need to shift that discussion. There will always be a shift in the workforce. But while AI will take roles out, new jobs will be created too," he said. 
+Shaping a Future New Zealand reckoned robots aren’t coming for our jobs as fast or as aggressively as some news stories would have us believe. It estimated the actual proportion of job losses from AI may be as low as 10 per cent and that would play out over decades. 
+Anchali Anandanayagam is a principal at law firm Hudson Gavin Martin and specialises in tech, media and IP law.
+"What really came out in our debate was that unless you're involved in the tech industry, AI doesn't mean much. It's abstract. The average person reaches for the touchstones they know, like what's in popular media - Terminator, Bladerunner. That's not very helpful," she said.  
+She said it was not true that New Zealand businesses were pulling back from adopting AI for fear of aggravating public disquiet about the technology.
+"But all this technology requires the collection and use of a lot of data," she said.
+"There's a lot of noise around at the moment about data. Businesses are more wary and more aware of their responsibility to their customers over their data. Now they're taking a more cautious approach," she said. 
+The Accident Compensation Corporation (ACC) uses a computer-based predictive modelling system to help its case managers make decisions about claims. 
+The AI Forum report notes that concerns were raised in the media last year whether the tool could be biased or whether ACC used the tool to target clients. Questions were asked about how the system made its decisions and how a client might be able to appeal the computer based decision.
+
+The government's chief information officer had earlier told Stuff  he was not aware of government agencies using artificial intelligence.
+ACC said the tool was used to predict how long injury recovery might take. An individual client's return to work was ultimately determined by medical experts, not machines.
+"However, ACC did not explain how the system made decisions," the report said.
+In 2015, MSD abandoned plans to use predictive risk modelling for vulnerable children. 
+"Not on my watch. These are children, not lab rats," the minister in charge at the time, Anne Tolley, wrote on her briefing paper. 
+Isn't it a good thing the systems are brought to public attention in the news? 
+"Humans are innately biased. the AI systems they create going to reflect the basis of the data they train it with," said Justin Flitter. 
+But AI itself, he argues, is now capable of identifying bias. 

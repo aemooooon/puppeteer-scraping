@@ -1,0 +1,15 @@
+Partner that with an AI coach in your pocket who could communicate with you realistically and empathetically to keep an eye on your health - all this, outside of the doctor's office. 
+Auckland Bioengineering Institute director Merryn Tawhai is leading the project and told RNZ's Emile Donovan the new technology allows users to install an app on their phone or computer to help them understand how their choices contribute to managing their health. 
+It collects digital information about a person's day and the current condition of their body and uses predictive analysis to generate a 'digital twin' model to demonstrate how the choices made now could play out. 
+"It's a number of technologies that come together.
+"The app can combine all the data gathered from various methods such as smart watches or blood glucose monitors, and use predictive health models to help users make good decisions.
+"What if this individual were to follow different health trajectories, [think hard] exercise for a while, or have surgery? What are the likely outomes from those sorts of scenarios?"
+It could be useful for many different health conditions, including for people with diabetes, cardiovascular disease or to assist with mental health, Tawhai said.
+That data analysis and 'digital twin data', is then used by an artificial intelligence coach personalised to interact with the user to help guide them.
+Some of the 'digital people' technology used in the project comes from a company formed out of Auckland University, called Soul Machines, Tawhai said. 
+"Our [AI] health navigator Deanna can phone you ... Deanna will have a conversation with you that's informed by data from your wearables - so smart watches or a Fitbit, giving really important information about your heart rate and respiratory rate, and whether you've been doing your steps have you been actually doing some exercises.
+"So Deanna can then have a conversation about how active you're being, and the importance of staying active and why that's really important for managing cardiovascular disease and diabetes."
+Tawhai said the digital coach avatar programme was designed to be more sophisticated and constructive than simply nagging.
+"We've got some of our research working on emotion recognition - picking up when people are stressed, or feeling really low, then Deanna can respond to that and give the right kind of interaction, not necessarily nagging someone. 
+"So if you're somebody who responds better to positive reinforcement then Deanna can respond to you in that way." 
+That focus was also being put to use in a similar model being developed as a potential mental health coach, in a project focusing on young Māori men. 

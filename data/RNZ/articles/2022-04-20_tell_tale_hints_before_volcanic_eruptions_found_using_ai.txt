@@ -1,0 +1,12 @@
+Artificial intelligence algorithms were used to scan thousands of seismic recordings taken before 18 eruptions on six active volcanoes around the world, including Mount Ruapehu, Mount Tongariro and Whakaari Island.
+The findings have now been published in the Nature Communications journal.
+University of Canterbury geophysicist Dr Alberto Ardid used recordings of ground noises and shaking that were taken within three to four weeks of the 18 eruptions.
+The key discovery was a common peak in the 'displacement seismic amplitude ratio' (DSAR) in the days leading up to the eruptions. This signals a blockage occurring in the shallow part of a volcano, which then forms a seal or lid, trapping hot gas, building pressure, and sometimes triggering an explosion.
+The DSAR measure is a ratio comparing volcanic 'noise' 100 metres below ground to that at the surface.
+Ardid said the method applied well to 'wet volcanoes', which are those with hydrothermal systems beneath the crater, but was not as transferable to those without.
+He also said most of the time that these signs were identified by the AI the volcano did not erupt.
+"Probably 90 percent of the time when the seal forms and the pressure increases, probably the volcano just releases the energy passively ...
+"But sometimes the volcano is not as good at releasing the pressure in a passive way and there'll be an explosive event."
+Ardid hoped the findings would improve volcanic alert level systems that are used to manage human activity on and around volcanoes to save lives.
+As did Dr David Dempsey, a senior lecturer in civil and natural resources engineering at the University of Canterbury, who is a co-author on the journal article.
+He said the research was prompted by the 2019 Whakaari eruption, but it was "certainly not suggesting that there was any shortcoming in terms of these methods not being applied prior to the eruption, because they didn't exist".

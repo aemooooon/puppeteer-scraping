@@ -1,0 +1,31 @@
+The consumer data right (CDR) would allow individuals and companies to securely access and share data that was held about them with trusted third parties.
+The government announced earlier this month it had decided to establish a consumer data right in New Zealand. Legislation is expected some time next year, with agreement from Cabinet on a range of issues to be decided by the end of November 2021.
+Lawyer Andy Matthews said the CDR was about making it clear who owned the data.
+"It's really passing ownership or control of data from organisations that hold it about individuals and entities, back to the individuals and entities themselves."
+"So it's revolutionary in the sense that, until now, businesses have thought that - even though legally it might not be correct - that it's their data that they hold and is valuable about consumers."
+Auckland University associate professor Gehan Gunasekara said in addition to owning your data, the consumer data right (CDR) would allow consumers to do meaningful things with it.
+"People have a right to their data under the Privacy Act but this is different because it introduces the aspect of data portability, so in other words you can take your data in that machine readable form and transfer it to a competitor company, let's say who wants to offer you a cheaper rate."
+Companies like PocketSmith have been waiting years for a CDR.
+The product is a money-management tool, compatible with 14,000 banks, where consumers load their finance data into it and get insights and tools to make the most out of their money.
+"We've been around for 13 years now ... the [consumer data right] is something we've been waiting for, for literally 13 years," company CEO and co-founder Jason Leong said.
+"At the risk of being on a soapbox we're really staring down the barrel of significant income inequality and Covid-19 has exacerbated that.
+"And it's no secret that we've always have not had the benefit of a good financial education growing up so a significant proportion of us make poor decisions when it comes to money so we need better transparency, better insights, and better guidance on our finances."
+He said the risks of moving to a CDR outweighed the risks of leaving things the way they were.
+"A significant proportion of us are now priced out of the housing market and we've got to think of alternative ways of building a nest day and securing our futures so we need better control over how we spend, how we save and invest.
+"And while a CDR isn't the fix-all it will help people navigate what is the new financial reality."
+Akahu founder Josh Daniell said once consumers realised what products were out there, they would be onboard.
+Akahu works as an intermediary, passing data from one entity to another.
+"Consumers won't care much about these new rights until there are amazing new experiences that allow them to unlock their data.
+"Xero's a really good example because it would be a poor product if you couldn't link your bank account and you had to manually log into your bank account, download the CSV files, upload them to Xero every time I wanted to do some book-keeping."
+Gunasekara agreed a CDR was necessary but said there was still a lot to be worked through.
+"Just to give you an example of where the devil is in the detail - if I have banking data, it also has data about other people, people who have made payments to me, perhaps my spouse, other people who have joint information.
+"Now, how do we separate those things out... This is not going to be an easy area for the government to implement."
+He also explained the uncertainty around what would happen to data derived from the use of algorithms and artificial intelligence.
+"We're talking about enhanced or derived data, so algorithms can actually figure out things about us that we ourselves don't know [and] is that kind of data also going to be able to be transferred?
+"Banks and other agencies may be reluctant to share that information because that's their proprietary data and the second thing is if they are going to be forced to share that data, how do you know how accurate that data is?"
+He said issues including giving and withdrawing consent, implications for Māori and who would regulate the system would all need to be carefully consulted on.
+Commerce and Consumer Affairs Minister David Clark has proposed the CDR roll out sector-by-sector, with work currently underway to decide what might be the first cab off the rank.
+A Cabinet paper released earlier this month acknowledged the status quo had resulted in unsafe data sharing and high costs involved with accessing useable data.
+"Without government intervention, expansion of arrangements for consumers to share their data will be inhibited and continue to be slow, and security and privacy concerns are likely to grow. New Zealanders will miss out on opportunities and benefits that consumers in other countries will increasingly take for granted," the paper said.
+The paper went on to say the costs in setting up the framework would be high but were expected to be less than the costs incurred by the Australian government in setting up its CDR.
+"The Australian government recently announced A$111.3 million of new funding over two years to accelerate the implementation of the CDR into new sectors. This funding is in addition to the previous forecast of A$100 million over five years.

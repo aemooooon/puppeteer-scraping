@@ -1,0 +1,25 @@
+The measures are part of a national push to dramatically reduce long-standing failure rates, particularly among Māori and Pasifika students.
+This year University of Canterbury began using a new computer system it developed to spot struggling students before they failed papers or dropped out altogether.
+The university's deputy vice-chancellor academic, Catherine Moran, said it was using machine learning to monitor what students were doing in their courses.
+"We use machine learning, an artificial intelligence system, that pulls in all the data for the students as they're doing their work online," she said.
+"So for instance, whether they're watching a lecture, or whether they're doing a discussion with their classmates or whether they're reading the notes from their lectures. Everything on the learning management platform, that information all gets pulled into the AI machine and it creates a pattern of what the students are doing for each course.
+"If a student falls outside the expected amount, if they're not engaging at all, if they're not clicking on to their LEARN page, not looking at their notes, we can see that. That triggers an alert and the students get a text immediately."
+The text would remind students to log into their course, and if they did not within a couple of days, they would be sent a second text and university staff would follow up in person.
+The system flagged 1000 students this year and a mixture of text messages and personal contact got most of them back on track very quickly, she said.
+Twenty of the students needed intensive support or counselling, but Moran said even a single text message could make a huge difference to a student's prospects.
+"For some of them, they just weren't sure how to navigate some of the systems, they got a little bit lost around logging in, they didn't like their courses and so a few of them did actually come back and say 'well thanks, I had kind of given up'."
+The move from school to first-year study was a big change that many students found difficult.
+Nationally, about 20 percent of first year students dropped out and the university hoped it could dramatically reduce that.
+Waikato Institute of Technology was developing its own alert system to identify students who might need help.
+Its executive director of products and planning Warwick Pitts said it had already identified that personal factors played a big role in student success and during the lockdown had checked in with students every 10 days to find out how they were going.
+"We're asking students around how they're coping financially, what's their learning environment at home like, how are they balancing study and home commitments.
+"Those data points are then going to be plugged into the system to be able to give us that fuller version of what student need is, or risk, just beyond grades and are they attending classes."
+Pitts said the institute had also overhauled the way it provided support for students.
+Students no longer had to go to a special office to access academic support - instead those staff were based in classes with students.
+"We've also introduced a tuakana/teina model where students that have successfully completed the course come back and help coach and mentor other students during that semester. And we're seeing for those learners a 10 to 15 percent higher course completion rate."
+Tertiary Education Commission's deputy chief executive, learner success, Paora Ammunson said the institute's work was new and exciting.
+"It's building on the work that all tertiary providers will have done around understanding their students, but what we're doing for New Zealand now is taking that to a newer level and really deeply understanding what is driving attrition, and the times attrition that occurs and how we can intervene to stop that happening," he said.
+The commission was also supporting the University of Waikato, Te Wananga o Raukawa, and Manukau Institute of Technology to trial new ways of working with students.
+"This is a key part part of our wider New Zealand goals of supporting Māori achievement, Pasifika achievement, supporting the achievement of New Zealanders with disabilities," he said.
+The biggest disparity in the tertiary education system was in degree completion, where the gap between Māori and Pasifika students and other learners was about 16-18 percent, Ammunson said.
+It was clear that students who were the first in their families to do tertiary study needed more support right from the start of their enrolment, he said.

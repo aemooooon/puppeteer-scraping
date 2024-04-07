@@ -1,0 +1,25 @@
+The bot called Ᾱmio was created by three New Zealand doctors, Sanjeev Krishna, Canaan Aumua and Cole Rudolph, and is currently in English and Mandarin.
+Dr Aumua said the Samoan, Tongan and Fijian languages would be the first set of Pacific languages the team would explore for Ᾱmio.
+"There's also been some questions around the Cook Islands and Cook Island Māori because of how it would be an easy and nice transition between the two languages.
+"Then there are questions as to whether we extend it to the Pidgin language like Vanuatu and Papua New Guinea, but we are starting with the islands closer to New Zealand," he said.
+The bot was launched in February for communities in New Zealand and Australia and it had exchanged over 250,000 messages.
+Ᾱmio is self-funded by the trio's social enterprise 'ARK Health Discovery', which creates practical solutions to improve the health of vulnerable communities, including those in South Auckland and the Pacific Islands.
+Dr Aumua said it was important that everyone had equitable access to Covid-19 information.
+"To this day, New Zealand has always had Pacific and Māori communities marginalised and suffering the greatest burden of health inequity," he said.
+"And within that, access to health and access to health information, so the majority of the work we do is all about addressing health inequity."
+Dr Aumua explained there was a lot that needed to be done to get the bot speaking in Pacific languages.
+"Translation is the most important aspect of the bot.
+"I think most people would assume translation is as easy as punching it into Google, but as most Pacific people would know, the spectrum of languages and dialects that exist in one Pacific language vary so much, particularly in regards to the age of the individual," he said.
+Dr Aumua said the older Samoans would speak very traditionally, which was quite different to how New Zealand-born Samoan teenagers would use the language.
+"We are also noticing that people would use their native tongue mixed in with English, so Ᾱmio is having to deal with broken English or broken Fijian mixed with English in one sentence.
+The bot has never been done before for the Pacific.
+Ᾱmio uses publicly available information from the Ministry of Health and other official Covid-19 sources to help people determine if they need to be tested, find the nearest testing lab, receive the latest recommendations, and get updates on cases.
+Dr Aumua said Āmio utilised artificial intelligence and natural language prediction to help manage the intensity of the different conversations.
+"Ᾱmio can essentially interpret what you are trying to ask or what you are trying to get at inside the conversation in your Pacific language.
+"As well as that, we also account for specific things and specific dialects by making sure we highlight particular keywords as well as navigating menus, as we noticed not many people like to type their questions in, but prefer to tap buttons," Dr Aumua said.
+Head of Policy, Facebook New Zealand & Pacific Islands, Nick McDonnell said Ᾱmio was making a positive community impact, using Messenger to quickly reach many people.
+"We are pleased to be able to connect Ᾱmio's founders to communication tools and resources to enhance their public health work."
+Dr Aumua attested to the fact the bot was able to reach more people online during the lockdown.
+"At the height of the pandemic, we were seeing hundreds, if not, thousands of people using Ᾱmio a day.
+"As New Zealand consistently step-down alert levels, the nature of the queries we were getting from the bot has changed. Questions went from, where can I get tested? To then asking things such as what can I do in alert level one?"
+Katie Brown from Covid-19 All of Government Response said Ᾱmio was a useful tool as there was a real need for accurate, easy-to-access trusted information.

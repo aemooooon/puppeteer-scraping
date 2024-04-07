@@ -1,0 +1,38 @@
+Police first identified "potential security issues" with Chinese-made drones in July 2019, the answers to a series of questions in Parliament show.
+However, by then they had already approved a six-month drone trial, in June that year.
+This trial only deployed drones made by the company at the centre of the US controversy, Da-Jiang Innovations (DJI), and ended up selecting them for wider use.
+The US army grounded drones from DJI, the world's dominant drone maker, of Shenzhen, in 2017.
+In May 2019, the US Department of Homeland Security put out a video claiming the drones might be sending sensitive flight data to their manufacturers in China.
+DJI denies its drones can do this and told RNZ the repeated US claims were "falsehoods spread by our competitors".
+Police said they did do due diligence on DJI drones - but did not address RNZ's question of if they got this wrong.
+"The reality here is that it should have been done the other way around, because the police are dealing with sensitive information," said National Party police spokesperson Simeon Brown, who unearthed the information about the trial's timing with questions to Police Minister Poto Williams.
+In the 2019 trial, police districts were given the go-ahead to buy drones from any manufacturer they liked.
+In the end, the districts bought drones only from DJI.
+During the trial period, in August 2019, police got their first written expert advice about the security concerns around DJI and other unnamed "Chinese manufacturers".
+Police ran a risk workshop in August 2019 that "identified a number of risk controls".
+Brown has made an OIA request to find out more.
+"There needs to be some transparency around what are the specific concerns here from the police, and the report that they have heard around the security concerns.
+"They're using these drones as part of their operations. And that risk needs to be managed appropriately."
+The 2019 trial resulted in a mid-2020 report that found only drones made by DJI and Canadian company Aeryon could do what police wanted.
+Aeryon had "additional security features" but that "did not justify the exponentially higher cost" - it was 25-30 times more expensive.
+So police approved only four types of DJI drones for wider use.
+Police now own 26 drones.
+These did not connect to any network, so could not compromise their systems - "they are standalone devices," police told RNZ in a statement.
+Yet since 2019, police have been praising drones' potential to provide live video streaming to officers on the ground.
+They partnered in October 2019 with Vodafone on 5G technology, and in March 2020 signed a five-year, $40 million deal with the telco to upgrade police communications.
+Also in October 2019, police chief information officer Rob Cochrane was with Vodafone in Italy, watching ultra-high-definition drones that Vodafone said provided live streaming to "immediately detect threats and use face recognition to apprehend offenders".
+Police have stated they do not use facial recognition on drones.
+Three months later, in December 2019, Cochrane reportedly demonstrated a 5G-enabled drone streaming ultra-high definition video, and said this would be a boon for public safety by scanning the environment.
+In online marketing six months ago, Vodafone talked of police using drones to "control a crowd".
+Last June, police's Next Generation Critical Communications director told RNZ new technologies to be added would include streaming video for officers on the job.
+Police told RNZ in a statement yesterday that Rob Cochrane was quoted regarding "what police could potentially use 5G for in the future, not what we actually do use".
+As for using DJI, the answers from the minister shows police chose it because it was an industry leader, because Fire and Emergency and the Defence Force used its drones, and after checking with Australian police, who also use these drones.
+In September 2020, police introduced new policies to better control their trials and use of high-tech tools, such as drones and cellphone scourers, after controversy over a trial of artificial intelligence Facebook scouring in early 2020.
+"We know it is our duty to ensure that privacy, ethical, and human rights implications have been taken into account before deciding to pilot or introduce new technology capabilities," they said yesterday.
+Any future or enhanced drone capabilities would be considered by an external expert panel they had just set up.
+Drones are currently used for tactical surveillance in specific operations, and tracking fleeing offenders, but more often for an aerial view of traffic crashes or search and rescue operations, but not for routine surveillance, police said.
+However, "surveillance" is one of five work groups set up by police to look at drones, OIA documents show.
+The drone guidelines updated late last year instruct staff to check if the law allows for the drone surveillance they want, and then check whether they need a warrant.
+The guidelines also envisaged outside contractors doing drone surveillance as long as it was "under the supervision of a constable".
+Any footage contractors shoot is stored on a card and handed over to police.
+In December 2020, the drone-maker DJI was put on a US trade watchlist, accused of enabling human rights abuses in China via "high-technology surveillance".

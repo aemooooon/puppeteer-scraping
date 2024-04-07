@@ -1,0 +1,15 @@
+The centre has been launched in Otago and will explore policy options for managing the introduction of technologies, to maximise their benefits and minimise potential harms.
+Co-director of the centre, Professor James Maclaurin, said New Zealand's size sets it apart from other countries and it is important to have people acting in an advisory role.
+"Europe has just passed its general data protection regulations but it is a very big player so if they pass laws Facebook and Google really have to listen to them.
+"New Zealand is a different environment."
+He said New Zealand is more data driven than some countries, which can create problems of bias and profiling.
+"Recently, with Immigration New Zealand, it was pointed out they use an algorithm and there was an article asking; does this amount to profiling and are we being fair in the way we use data?"
+He added that in the United States, a biased algorithm was used to determine the offender life-cycle.
+African Americans had a much lower chance of getting out on parole and the algorithm contributed to making this even harder.
+There are other issues to be looked at, like the relationship between humans and AI.
+With autonomous vehicles, as an example, someone who is driving has a reaction of 0.6 of a second but for a monitor, this is around three seconds - a really big difference, he said.
+"Psychologically, the closest thing to it is trying to teach a teenager to drive, so it's a hard task."
+He said we need to think about in what circumstances it actually works well for humans to act as monitors.
+Ultimately, he believes the public needs to be involved in these discussions.
+"New Zealand needs to have a conversation about what sorts of things we would like artificial intelligence to be doing and how much advice we want to get as citizens about what AI is doing in the environment we find ourselves in."
+He said a lot of work needs to be done to update, or future-proof, current laws and to pass new laws.

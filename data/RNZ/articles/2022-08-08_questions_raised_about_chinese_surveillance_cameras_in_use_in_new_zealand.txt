@@ -1,0 +1,32 @@
+Thousands of Hikvision CCTV cameras are installed in the country at schools, businesses, councils and government agencies.
+A new move has begun by 60 lawmakers in the UK to ban sales of world-leading Hikvision cameras over allegations of human rights abuses in China.
+This followed reports of the US moving towards new sanctions on the Chinese state-controlled company.
+Hikvision is accused by critics here and abroad of helping Beijing monitor protesters, according to The New York Times, and oppress the Uyghur minority; the Washington Post Editorial Board said in May it was "about as complicit as it gets, with its cameras lining the walls of mosques and detention camps all over the Xinjiang region".
+Hikvision is now promoting big flat screen monitors for lessons in schools.
+It promotes its cameras in 150 countries as cutting edge; critics say one reason is that features such as artificial intelligence that can detect human emotion have been tested first on Uyghurs.
+Controversy has reared over their use in New Zealand since 2018, the same year the first US bans were imposed that have since effectively removed Hikvision from the US market.
+A security flaw making cameras susceptible to remote hijacking had to be fixed by Hikvision last year.
+The company has repeatedly denied the human rights claims or that its cameras are used for ethnic profiling.
+A Hikvision spokesperson said the sanctions in the US and claims in the UK were "unverified".
+"We did want to note that we are concerned that your research cites a Washington Post opinion piece, which is not grounded in news itself. Given this, it is hard for us to comment on the opinion put forth when it is not tied to current government action," they told RNZ.
+"Hikvision has faced political headwinds in the US and UK, despite the critical role that video security plays in the fight against crime and terrorism.
+"Any such decisions should be based on credible evidence and due process, instead of being driven by geopolitical agenda. Hikvision is compliant with the applicable rules and regulations of the countries we operate in and are subject to strict security requirements.
+"Hikvision takes all reports of human rights very seriously and recognises our responsibility for protecting people. We have been engaging with governments throughout the world to clarify misunderstandings about the company and address these concerns."
+Distributional promos say their use at Pukeahu National War Memorial Park was "to help protect a national treasure".
+Auckland Transport has hundreds of Hikvision cameras providing live feeds, but is not buying any more.
+"Although AT has previously installed Hikvision cameras across the network, we are no longer installing new models from this manufacturer," it told RNZ.
+It signed a new contract on 27 June with Clear Digital for VivoTech and Uniview camera, although it said it only replaced cameras when they reached the end of their life.
+Tauranga City Council has more than 700 of the cameras - 33 can read number plates (called automatic number plate recognition or ANPR) - according to an OIA response last October. It declined to talk to RNZ about them.
+Rotorua Lakes Council said in an OIA online response in February it has 106 Hikvision CCTV cameras in public spots, and Waka Kotahi owns another 18.
+RNZ asked if the council was OK with that given the human rights claims.
+It said it bought CCTV equipment through a third party.
+"As an organisation we'll need to look into this further," the council said.
+The supplier of Tauranga's CCTV system said its use of ANPR cameras had been "well received by local police" and that "with huge capacity from multiple hard drive bays [the NZTA transport operations centre] is able to retain months of real-time video footage".
+The Ministry of Business, Innovation and Employment said in 2018 it was considering an audit of its CCTV systems following the US move against Hikvision, which some observers say was linked to US-China trade battles. Stuff reported the ministry saying it halted an ad-hoc audit because it had no concerns.
+The Ministry of Business, Innovation and Employment said it used various brands of surveillance camera, though it had not bought any more Hikvision ones since 2017.
+The Hikvision cameras were not connected to its network "and therefore do not pose a security risk to our regulatory functions", workplace general manager Adrian Regnault said.
+It was going to update its CCTV in the coming year, after a review of security at ministry sites.
+"Any procurement that we undertake this year or next will include ensuring that the brands we choose meet the government's Protective Security Requirements," Regnault said.
+A major distributor of Hikvision in this country, Atlas Gentech, has its shareholding in the US related to Fortune 500 firm Anixter International.
+In Britain, the biometrics and surveillance camera commissioner wanted police and councils to consider the provider's human rights record but this was recently rejected by the government.
+The EU has no restrictions on their use by other than being banned in the EU parliament. Half of UK schools and three-quarters of councils use them.

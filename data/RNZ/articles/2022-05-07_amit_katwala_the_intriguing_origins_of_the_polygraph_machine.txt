@@ -1,0 +1,24 @@
+But as Amit Katwala describes in his new book, Tremors in the Blood: Murder, Obsession and the Birth of the Lie Detector, the flawed device soon grew too powerful for them to control.
+Katwala is a senior editor at Wired and writes about the collision between technology and culture.
+In the early 1920s, the polygraph device was invented in the United States by visionary police chief August Vollmer, police officer and scientist John Larson, and a teenager named Leonarde Keeler.
+Vollmer, also known as the father of modern policing, had commissioned Larson to develop a lie detector to put an end to the brutal police interrogation methods of the time.
+“The lie detector was meant to replace what they call the third-degree beating and torture of suspects but it actually really just became a psychological third-degree and this is one of the things that John Larson, who invented it, really came to believe by the end of his life,” Katwala tells Kim Hill.
+In Larson’s view, Keeler had turned the device into “a Frankenstein monster” when he let his desire for fame and fortune get the better of him and commercialised the device beyond its intentions, Katwala says.
+“Larson thought that Keeler had prostituted his machine and ruined his name and ruined the good scientific work he was trying to do.
+“Keeler was interested in selling machines, doing tests, he ended up running tests in department stores, selling the lie detector to banks and things like that.”
+“Larson ended up really hating Keeler and he spent most of the rest of his life trying to undo what he saw as the damage that Keeler had done but by then it was too late.”
+Katwala’s book explores how the lie detector failed to live up to its potential during the 1922 case of Henry Wilkens, who was acquitted of his wife’s murder thanks to a polygraph test, despite the evidence pointing to his guilt.
+On the other hand, he also looks at how a quick polygraph test, which broke all the device’s rules, resulted in the execution of Joseph Rappaport.
+The author argues the polygraph device is flawed because it makes generalisations.
+“While being caught stealing something might make one person’s pulse race, you can’t make that assumption for everyone.
+“There is no single tell-tale sign of lying that holds true for everyone all of the time. That’s the polygraph’s flaw, because you can’t tell if someone’s blood pressure is going up, if someone’s pulse is racing because they’re lying or because they’re anxious about being falsely accused.
+“There’s no way for an examiner to know that, so they simply can’t make that determination with a polygraph machine.”
+Instead of illuminating the truth, the polygraph has the power to pressure people into a confession, he says.
+“There’s some great stories from the ‘80s and ‘90s about how when they didn’t have a polygraph, some police forces in places like Detroit would use a photocopier machine and they were dealing with suspects who maybe had never seen a photocopying machine before.
+“So they placed the suspects hand on the photocopying machine and then they’d just get the machine to print out a piece of paper with ‘he’s lying’ written on it and that would be enough to get a confession out of them.”
+Although banned by US federal courts in the early 1920s, polygraphs are still used to get confessions before trials because that’s cheaper, Katwala says.
+“This is the other power of the polygraph; if you are a suspect in a crime and you get asked to take a polygraph test and you refuse, you look guilty. Often people are coerced into taking one if they really don’t want to for whatever reason.”
+Beyond the justice system, there was widespread use of the polygraph in the US, even at companies like McDonald’s, until it was banned for employers in 1998, he says.
+Nowadays, companies are using artificial intelligence to develop new types of lie detectors.
+Despite their inaccuracies, it hasn’t stopped law enforcement and governments snapping up the tools as a political prop to be seen as cracking down on crime, Katwala says.
+“We think that something with AI attached to it is bound to be all-seeing, all-knowing, all-powerful and I guess perhaps the point of the book is that this isn’t the case, this has never been the case.

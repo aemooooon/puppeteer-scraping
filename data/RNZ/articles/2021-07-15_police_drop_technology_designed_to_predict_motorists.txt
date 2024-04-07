@@ -1,0 +1,30 @@
+But on the same day that they released the landmark report, police told an expert panel - which had earlier warned them against the road policing algorithm - that they have now dumped it.
+The algorithm for use in roadside stops would have helped officers determine how to deal with a motorist.
+"The panel were very concerned about that one," panel chairperson Professor Colin Gavaghan, the New Zealand Law Foundation chair in law and emerging technologies, told RNZ.
+Its predictive policing powers could bring historic biases and inject them into future police decisions, he said.
+"I've been told by the police [today] that it's not going any further."
+The report identifies 10 algorithms is use or development that carry the most risk of, for instance, reinforcing biased policing.
+Its release is accompanied by a 53-page stocktake of police technological tools that is far more comprehensive than the snapshot of high-tech tools they put out last year.
+The report shows police have a host of algorithms in use or development, including one that helps them compile a list of the Top 5 highest risk offenders each day, nationally and per district.
+It has been used since 2017 but had not been properly updated, the report said.
+Gavaghan said that was not good enough.
+"It's important that the data that's informing these decisions is up-to-date as possible."
+Algorithms typically tap into police databases and learn using artificial intelligence.
+Another algorithm is used to assess the chances of a family violence perpetrator reoffending within two years.
+The report gives police a pass mark for their use of algorithms so far overall, for instance in not leaving it up to algorithms to make decisions, but having human oversight.
+However, it is unclear what data the Australian consultants based this assessment on as they give few details about where or how often algorithms have been deployed, and this assessment was not their main job, which was to identify algorithms, risks and ways of managing risks.
+The Gavaghan panel said a major "shortcoming" was the absence of algorithm-policing impacts on te ao Māori.
+The risks of law enforcement algorithms reinforcing racial biases is controversial worldwide, and has been targeted by BlackLivesMatter protesters.
+The report said police had been using the algorithms carefully but lacked formal monitoring and proper governance.
+The panel in its review of the report pointed out lots of processes, such as auditing and monitoring, and the criteria for assessing algorithms, were missing. It is now working with the police, which appointed the panel in March, on what to do next.
+Gavaghan said it was urgent that police involved Māori at the early stage in evaluating what algorithms might be needed.
+The report only refers to Māori once, saying: "What problem are you trying to address and is this understood from a Te Ao Māori perspective? Is it appropriate to use an algorithm for this?"
+The report also makes scant reference to algorithms used to scan people's social media - with only one reference, to its so-called OSINT team. Police previously refused to identify to RNZ what social-media search tools they are using.
+Gavaghan questioned how the report decided on how risky each algorithm was.
+In the low-risk category, it put an algorithm used to help identify if a crime in the "high-volume crme types" was solvable. Gavaghan said at first glance that might entail more than just low risk if the algorithm influenced if an investigation was even begun.
+The police are attempting to be more open than ever before about what technology they are using.
+New Zealand police say they have released a list of technology capabilities it uses which includes a range from equipment used by the Police Dive Squad, to speed cameras and 3D photogrammetry.
+"Policing by consent is at the core of all we do, and we want to reassure our communities that we have their best interests at heart," spokesperson Mark Evans said in a statement.
+"We are using technology to support our mission to prevent crime and harm through exceptional policing."
+He said police released a policy around the use of emergent technology last year, signed up to the Algorithm Charter for Aotearoa New Zealand and set up an independent expert panel to externally peer review the use of emergent technologies.
+Work is underway on a new framework to guide the future development of emergent technologies, and this includes the consideration of Te Ao Māori, he said.

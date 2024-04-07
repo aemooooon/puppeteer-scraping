@@ -1,0 +1,75 @@
+OIA documents show the Ministry of Business, Innovation and Employment has been using Cobwebs Technologies since 2019-20 to monitor all major platforms including Facebook, Instagram, WhatsApp and Twitter to detect threats and to covertly collect people's personal data, which can include "political information", "religious preference", banking, health and family relationships data.
+It delivers this to analysts in the MBIE Intelligence Unit (MIU), which is part of Immigration New Zealand.
+Read more: 
+Overseas, Cobwebs promotes itself as helping to catch terrorists, quell social unrest and expose threats.
+This type of spying, called "surveillance for hire" overseas, does not come under the same external oversight that the country's two dedicated spy agencies, the SIS and GCSB, do, from the independent Inspector-General of Intelligence and Security. The ministry has listed for RNZ lots of guidelines and internal controls it has.
+The heavily targeted, limited and controlled use of Cobwebs' powerful technology was "appropriate in light of the risks the tool is used to mitigate", the ministry told RNZ.
+It remains unclear just who is the target: The ministry refers repeatedly to a "specific" but undefined area and refers to foreign groups that are seeking to undermine its legislative duty to "stop" certain "behaviours".
+Its business case talks of "threat indicators and activities".
+The Privacy Commissioner this afternoon told RNZ it had had no input on the government's use of Cobwebs Technologies.
+"Our office has requested assurance from MBIE/Immigration NZ that the use of this firm and the personal information it collects is lawful, necessary and proportionate," the Office of the Privacy Commissioner said.
+"Collection of personal information should not be driven by the available technology, but a clear need to collect information in order to carry out the agency's lawful functions."
+Meta (formerly the Facebook company) in its 2021 investigation said it had "disabled" seven firms, including Cobwebs.
+"While these 'cyber mercenaries' often claim that their services only target criminals and terrorists, our months-long investigation concluded that targeting is, in fact, indiscriminate and includes journalists, dissidents, critics of authoritarian regimes, families of opposition members and human rights activists," Meta said.
+"This industry 'democratises' these threats, making them available to government and non-government groups that otherwise wouldn't have these capabilities to cause harm. They in effect exponentially increase the supply of threat actors in the world."
+It alerted the targets; shared its findings with security researchers, other platforms and policymakers; and issued cease and desist warnings, it said.
+Whether that filtered through to New Zealand is not clear.
+Asked by RNZ if it had any concerns about the accusations of trickery and unethical spying, the ministry did not address that, except to say, "Cobwebs does not provide MBIE with counterfeit accounts nor has it been asked to."
+Discussing the use of Cobwebs, Immigration Minister Michael Wood said it is one of the tools that Immigration New Zealand uses to "ensure the integrity of our system and to protect New Zealand effectively from people who might pose a risk to New Zealand."
+"Immigration New Zealand in the past year has processed around about 600,000 visas from people who want to come in and out of New Zealand.
+"We do need to be sure that people who are coming here are not going to pose a risk.
+"We do want to be able to screen for people who for example might be linked to international crime, child sexual exploitation, violent extremist movements and the like."
+They're [the tools are] used with a high degree of discretion not used in a wide ranging way.
+"The advice that I've received is that for the purposes of our use of this tool, fake accounts are not used. That is not a practice that has been engaged in, in terms of Immigration New Zealand's use of this tool.
+"I'm advised in a very controlled and targeted way.
+"It's not a tool that every immigration officer in New Zealand uses, it's used by very small group of people who are highly trained who know what the protocols are and have a particular focus on managing these risks for New Zealand."
+Meanwhile, Meta's report had said: "One of the primary means of collecting information on social media is the use of fake accounts. These inauthentic assets can be used to search and view people's profiles, Friends, Likes and other publicly available information, join Groups and Events, and follow or friend targets."
+The 2021 Meta report was an escalation in the Big Tech versus spyware battle that previously peaked in 2019, when Facebook joined Google and Apple in suing Israel's spyware firm NSO Group.
+NSO's Pegasus product is infamous for being able to crack encrypted cellphone communications better than anything and "extract vast amounts of data ... including text messages, call interceptions, passwords, locations, microphone and camera recordings, and information from apps".
+NSO has defended its practices, in January saying it sold Pegasus to only 40 out of 90 would-be buyers, and equating it to countries selling arms.
+The US government, too, has gone after NSO, to get Pegasus banned - but only after the FBI itself bought the tool.
+The Biden administration put NSO on its list of companies acting against US national security and foreign policy interests.
+The European Parliament is investigating the use of Pegasus and similar spyware, spurred on by media and other revelations about their own member states' spy agencies "abusing highly sophisticated spyware to surveil opposition figures, journalists, lawyers, and high-ranking state officials".
+Its inquiry's list of three dozen spyware companies or products covered in public reporting includes Cobwebs Technologies, and Cellebrite.
+New Zealand police use Cellebrite, dubbed by CNN as the FBI's "go-to phone hacker", deploying it against journalist Nicky Hager in 2014.
+Founded by Israeli intelligence alumni in 2015, Cobwebs regularly recruits from the Israeli Defence Force, recently snaring the ex-head of the IDF Central Command to set up a new crisis forecasting work - a centre "to be staffed 24 hours a day, enabling decision-makers to anticipate and manage future crises" like pandemics and terror attacks.
+Its machine learning and artificial intelligence-powered platform hoovers up Big Data off "all layers of the web and on all social media platforms and blogs". It offers services across counter-terrorism, national security, and crime, including people trafficking.
+RNZ first sought information about the local use of Cobwebs Technologies in mid-2021 but was blocked by police and MBIE, so appealed to the Ombudsman; that bore fruit this week - in a heavily blanked-out 55-page OIA release.
+Cobwebs told RNZ last year the 2019 Christchurch mosque attacks had spurred it to create a "dashboard" to map patterns of how major global attacks or crimes "can have negative local implications".
+"Cobwebs is constantly monitoring global crimes and terror events," it said.
+Police last year refused to name what companies they used to surveil social media.
+However, their response said they had engaged an unnamed data analytic provider to help with the mosque attack investigation and to "provide police responses" to the Royal Commission.
+Police only began monitoring social media properly several months after the mosque attacks, RNZ reporting has revealed.
+Police declined to comment for this report.
+Asked if police had trained on Cobwebs with its analysts, MBIE did not deny it but said "cross-agency training is not uncommon and joint training activities may contain sections or content tailored for each participant's context and responsibilities".
+MBIE's business case said: "[BLANK] procured and implemented this [Cobwebs] product in October, 2019 and are successfully utilising it.
+"The product is proven successful within United States agencies and others around the world."
+The documents show that up till Cobwebs was hired, the MBIE Intelligence Unit had been underpowered, relying on standard web search engines.
+"Standard search engines have limited capability," a business case said.
+"Most importantly, standard search engines are unable to access actively hidden (covert) digital content from [blank]" - this is likely a reference to the dark web.
+Another limit was the search engine ranked the results, not Immigration NZ.
+Also, it did not light up alerts on key words or names, and with the high volumes it was hard to discover what was relevant.
+The outdated approach also was unable to conceal an analyst's identity.
+Cobwebs was required to "conceal the digital footprints of [the] intelligence analyst".
+All information about the cost of its taxpayer-funded contract is blanked out.
+Unintended bias built into such technology is a known major risk but the ministry's Cobwebs privacy impact assessment has just one line on bias, about having a process for "creating and maintaining collection plans".
+The documents acknowledge the spying might net unreliable, second-hand information.
+Analysts were "professionally trained to query the veracity of the information" and would use NATO's so-called "Admiralty rating" that evaluates data on two grounds - source reliability and information credibility.
+The documents say the personal data "generally" won't be shared offshore, but then mentions possibly informing the Migration Five (M5) and Border Five (B5), which relates to the Five Country Conference for co-operation on migration and border security, between the US, Australia, Canada, New Zealand, and the UK.
+The ministry said the Cobwebs tool "is a significant capability".
+But the OIA documents refer to the plural: Two Cobwebs' "tools" and "both products".
+They scan across social media as well as in public records, government records, the Internet, and mass media (TV, radio, print), and "search on specific individuals, entities and organisations of interest".
+"Cobwebs Technologies has demonstrated their ability to successfully leverage social media platforms, such as [BLANK]," the business case said.
+"MIU will gather publicly available information ... without the knowledge of the person concerned."
+The data could be lawfully held for 25 years, it said, but it would "create a process" for identifying and disposing of unnecessary personal information earlier.
+Cobwebs offers at least "four products: One of those, its automated web investigations "identify new threats, reveal hidden data and complete an entire investigation within minutes", with "exclusive deep and dark web monitoring technology.
+The dark web, a hidden collective of internet sites it takes a specialised browser to access, is where hackers posted patient data stolen from New Zealand's Pinnacle Health in recent days.
+The ministry says over and again, in its OIA response and in a statement, that its Cobwebs operations are lawful, closely controlled and vital.
+It did a privacy assessment - released with redactions to RNZ - and does regular checks.
+The data handling rules it linked to in the OIA are in documents that predate the amendment of the Privacy Act in 2020.
+Its transparency statement allows it to use the spyware contractor. "Where information gathering requires specialist capability that we don't have within our organisation, we may engage a third party to collect information for us," it said.
+"Reporting [is] to a governance group that is not directly involved in the decision-making or the result of the investigation."
+The Privacy Commissioner and Ombudsman provide external oversight of how this is done, and how it operates - but usually they only respond to complaints.
+The European Parliament is grappling with how to introduce human right controls when governments buy spyware services.
+One interesting principle the ministry has around info gathering is that it should not spring surprises.
+"Would the general public, or other stakeholders, be surprised by the information-gathering activity?" its rulebook asks.

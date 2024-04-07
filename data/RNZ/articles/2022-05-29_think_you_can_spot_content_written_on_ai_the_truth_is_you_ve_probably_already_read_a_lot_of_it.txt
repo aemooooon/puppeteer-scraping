@@ -1,0 +1,112 @@
+Analysis - Two years ago this weekend, GPT-3 was introduced to the world and although you may not have heard of it there's a good chance you've read its work.
+Or you may have used a website that runs GPT-3 code, or even conversed with it through a chatbot or a character in a game.
+GPT-3 is an AI model - a type of artificial intelligence - and its applications have quietly trickled into our everyday lives over the past couple of years.
+In recent months, that trickle has picked up force: more and more applications are using AI like GPT-3, and these AI programmes are producing greater amounts of data, from words, to images, to code.
+A lot of the time, this happens in the background; we don't see what the AI has done, or we can't tell if it's any good.
+But there are some things that are easy for us to judge: writing is one of those.
+From student essays to content marketing, AI writing tools are doing what only a few years ago seemed impossible.
+In doing so, the technology is changing how we think about what has been considered a uniquely human activity.
+And we have no idea how the AI models are doing it.
+Danny Mahoney's workmate never leaves, sleeps, or takes a break.
+Day after day, the AI writing assistant churns out blog posts, reviews, company descriptions and the like for clients of Andro Media, Mahoney's digital marketing company in Melbourne.
+"Writers are expensive. And there's a limit to how much quality content a human can produce," Mahoney says.
+"You can get the same quality of content using AI tools. You just get it faster."
+How much faster? About three times, he estimates.
+He still has to check and edit the AI-generated text, but it's less work and he's cut his rates by half.
+"Every SEO [Search Engine Optimisation] agency that I've spoken with uses AI to some extent."
+In Perth, Sebastian Marks no longer bothers with content agencies at all.
+About a year ago, he saw an ad for an AI writing assistant and signed up.
+The AI tool now writes pretty much everything for his company, Moto Dynamics, which sells motorcycles and organises racing events.
+Its output includes employee bios, marketing copy, social media posts, and business proposals.
+"Once we'd started feeding data into it and teaching it how to work for us, it became more and more user-friendly," he says.
+"Now we use it essentially as an admin."
+The particular AI writing tool Mahoney uses is called ContentBot, which like many of its competitors was launched early last year.
+"It was very exciting," says Nick Duncan, the co-founder of ContentBot, speaking from Johannesburg.
+"There was a lot of word of word of mouth with this technology. It just sort of exploded."
+The trigger for this explosion was OpenAI's November 2021 decision to make its GPT-3 AI universally available for developers.
+It meant anyone could pay to access the AI tool, which had been introduced in May 2020 for a limited number of clients.
+Dozens of AI writing tools launched in early 2021.
+LongShot AI is only a year old, but claims to have 12,000 users around the world, including in Australia.
+"And there are other products that would have ten-fold the number of clients we have," says its co-founder, Ankur Pandey, speaking from Mumbai.
+"Revolutionary changes in AI happened in the fall of 2020. This whole field has completely skyrocketed."
+Companies like ContentBot and Longshot pay OpenAI for access to GPT-3: the rate of the most popular model (Davinci) is about $US0.06 per 750 words.
+In March 2021, GPT-3 was generating an average of 4.5 billion words per day.
+We don't know the current figure, but it would be much higher given the AI is being more widely used.
+"It's been a game changer," Duncan says.
+There are dozens of AI writing tools that advertise to students.
+Among them is Article Forge, a GPT-3 powered tool that claims its essays can pass the plagiarism checkers used by schools and universities.
+Demand for the product has increased five-fold in two years, chief executive officer Alex Cardinell says.
+"It's the demand for cheaper content with shorter turnaround times that requires less overall effort to produce.
+"People do not want AI, they want what AI can do for their business."
+Lucinda McKnight, a curriculum expert at Deakin University, confirms that students are early adopters of AI writing tools.
+"I can tell you without doubt that kids are very widely using these things, especially spinners on the internet."
+Spinners are automated tools that rephrase and rewrite content so it won't be flagged for plagiarism.
+"It can produce in a matter of seconds multiple different copies of the same thing, but worded differently."
+These developments are shifting ideas around student authorship. If it becomes impossible to distinguish AI writing from human, what's the point in trying to detect plagiarism?
+"We should be getting students to acknowledge how they've used AI as another kind of source for their writing," Dr McKnight says.
+"That is the way to move forwards, rather than to punish students for using them."
+When GPT-3 launched two years ago, word spread of its writing proficiency, but access was limited.
+Recently, OpenAI has thrown open the doors to anyone with a guest login, which takes a few minutes to acquire.
+Given the prompt "Write a news story about AI", the AI tool burped out three paragraphs. Here's the first:
+"The world is on the brink of a new era of intelligence. For the first time in history, artificial intelligence (AI) is about to surpass human intelligence. This momentous event is sure to change the course of history, and it is all thanks to the tireless work of AI researchers."
+In general, GPT-3 is remarkably good at stringing sentences together, though plays fast and loose with the facts.
+Asked to write about the 2022 Australian election, it claimed the vote would be held on 2 July (rather than 21 May).
+But it still managed to sound like it knew what it was talking about:
+"Whoever wins the election, it is sure to be a close and hard-fought contest. With the country facing challenges on many fronts, the next government will have its work cut out for it."
+Duncan says you "can't just let the AI write whatever it wants to write".
+"It's terrible at fact-checking. It actually makes up facts."
+He uses the tool as a creative prompt: the slog of writing from scratch is replaced by editing and fact-checking.
+"It helps you overcome the blank-page problem."
+Mahoney agrees.
+"If you produce content purely by an AI, it's very obvious that it's written by one.
+"It's either too wordy or just genuinely doesn't make sense."
+Watch two GPT-3 powered AIs talk about becoming human:
+But with proper guidance, GPT-3 (and other AI writing tools) can be good enough for standard professional writing tasks like work emails or content marketing, where speed is more important than style.
+"People who create content for marketing tend to use it every day," Longshot's Ankur Pandey says.
+"Most of the focus of this industry is content writers, content marketers and copywriters, because this is mission critical for them."
+Then there's coding: In November 2021, a third of the code on GitHub - a hosting platform for code - was being written with Copilot, a GPT-3 powered coding tool that had been launched five months earlier.
+US technological research and consulting firm Gartner predicts that by 2025, generative AI (like GPT-3) will account for 10 percent of all data produced, up from less than 1 percent today.
+That data includes everything from website code and chatbot platforms to image generation and marketing copy.
+"At the moment, content creation is mostly using generative AI to assist as part of the pipeline," says Anthony Mullen, research director for AI at Gartner.
+"I think that will persist for a while, but it does shift the emphasis more towards ideas, rather than craft.
+"Whether it is producing fully completed work or automating tasks in the creative process, generative AI will continue to reshape the creative industries.
+"This technology is a massive disruptor."
+Until recently, decent text generation AI seemed a long way away.
+Progress in natural language processing (NLP), or the ability of a computer programme to understand human language, appeared to be getting bogged down in the complexity of the task.
+Then, in 2017, a series of rapid advancements culminated in a new kind of AI model.
+In traditional machine learning, a programmer teaches a computer to, for instance, recognise if an image does or does not contain a dog.
+In deep learning, the computer is provided with a set of training data - eg images tagged dog or not dog - that it uses to create a feature set for dogs.
+With this set, it creates a model that can then predict whether untagged images do or do not contain a dog.
+These deep learning models are the technology behind, for instance, the computer vision that's used in driverless cars.
+While working on ways to improve Google Translate, researchers at the company stumbled upon a deep learning model that proved to be good at predicting what word should come next in a sentence.
+Called Transformer, it's like a supercharged version of text messaging auto-complete.
+"Transformer is a very, very good statistical guesser," says Alan Thompson, an independent AI researcher and consultant.
+"It wants to know what is coming next in your sentence or phrase or piece of language, or in some cases, piece of music or image or whatever else you've fed to the Transformer."
+At the same time, in parallel to Google, an Australian tech entrepreneur and data scientist, Jeremy Howard, was finding new ways to train deep learning models on large datasets.
+Professor Howard, who would go on to become an honorary professor at the University of Queensland, had moved to San Francisco six years earlier, from Melbourne.
+He proposed feeding Transformer a big chunk of text data and seeing what happened.
+"So in 2018, the OpenAI team actually took Professor Jeremy Howard's advice and fed the original GPT with a whole bunch of book data into this Transformer model," Dr Thompson says.
+"And they watched as it was able to complete sentences seemingly out of nowhere."
+Transformer is the basis for GPT (which stands for Generative Pre-trained Transformer), as well as other current language models.
+Professor Howard's contribution is widely recognised in Silicon Valley, but not so much in Australia, to which he recently returned.
+"In Australia, people will ask what do you do and I'll be like, 'I'm a professor in AI'. And they say, 'Oh well, how about the footy?'" he says.
+"It's very, very different."
+The short answer is that, beyond a certain point, we don't know.
+AI like GPT-3 are known as "black boxes", meaning it's impossible to know the internal process of computation.
+The AI has trained itself to do a task, but how it actually performs that task is largely a mystery.
+"We've given it this training data and we've let it kind of macerate that data for months, which is the equivalent of many human years, or decades even," Dr Thompson says.
+"And it can do things that it shouldn't be able to do. It taught itself coding and programming. It can write new programmes that haven't existed."
+As you might guess, this inability to understand exactly how the technology works is a problem for driverless cars, which rely on AI to make life-and-death decisions.
+Meanwhile, new and more powerful AIs are being unveiled almost every week.
+"I documented one coming out every three to four days in March through April," Dr Thompson says.
+"We've now got 30, 40, 50 different large language models [like GPT-3], and sometimes they're being released weekly."
+GPT-4 is expected to be unveiled within months.
+This week, Google's DeepMind released its most impressive AI yet, called Gato, which is designed to be good at lots of tasks.
+Its makers describe it as a precursor to an Artificial General Intelligence (AGI), which is a long-anticipated AI that can understand or learn any intellectual task that a human being can.
+In theory, potentially any human occupation could be replaced by an AGI.
+"We used to say that artificial general intelligence and the replacement of humans would be like 2045," Dr Thompson says.
+"I'm seeing the beginnings of AGI right now."
+AI tools performing creative human tasks is no longer the stuff of science fiction, or something that will happen in 10 years' time.
+For Danny Mahoney in Melbourne, it's already begun.
+"I think people really underestimate how useful it is at this point," he says.
+"Anybody who spends any significant amount of time on the internet is reading AI content without even realising."

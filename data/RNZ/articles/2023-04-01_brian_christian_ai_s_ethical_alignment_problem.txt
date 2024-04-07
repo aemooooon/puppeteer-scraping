@@ -1,0 +1,1 @@
+Computer scientist and author Brian Christian writes about one of the fundamental problems of AI development in his book The Alignment Problem: how do we ensure machine learning systems represent the best human values rather than magnify the worst?

@@ -1,0 +1,28 @@
+The VivaCity sensors, which use artificial intelligence, were designed to track the flow of traffic, cyclists and pedestrians and monitor how roads are being used.
+The council said the data they would collect would include counts of different types of road users - including cars, trucks, bicycles, scooters, buses and pedestrians - as well as paths of travel, and travel speeds.
+It said the 24/7 monitoring would enable council to make more accurate assessments of how people were moving through the city and making use of cycleways, and monitor in real time the impact of changes made to the transport network.
+VivaCity co-founder and chief operations officer Peter Mildon said many historical methods of traffic counting were not able to continuously monitor traffic, which often meant they did not see the full picture.
+He said with the VivaCity sensors, they could track the flow of each type of road user and see where the infrastructure was - or was not - working.
+"In the United Kingdom, where a cycle lane had been put in and there was a petition from the car lobby to have it taken back out again ... the data from one of our sensors actually proved that the cyclists using the cycle lane outnumbered the signatories of the petition."
+The sensors' continuous monitoring would allow the council to understand how factors such as seasons or major events changed how people used the city's infrastructure, Mildon said.
+Council digital innovation team leader Julia McMaster said that meant they could measure and adjust traffic management in real time, rather than just hearing complaints about it later.
+McMaster said the council's previous system predominantly relied on manual counting.
+She said existing expenditure was being repurposed for the sensors and no additional funding was being used.
+There was already a big focus on walking and cycling in Wellington, said the council's manager of street transformation, Paul Barker, and using the sensors would help reinforce and improve the work they were already doing.
+In the United Kingdom, VivaCity sensors were also used to monitor social distancing during 2020.
+Mildon said the technology was designed to track any change in behaviour in an anonymised way.
+But he said the company was not offering the social distancing technology to the council.
+"This is not CCTV, it's not spying on anybody, it's just producing anonymous data on how many people walk down the street versus how many cars drove down the street."
+Mildon said the sensors had a camera and a graphics processing unit (GPU) processor in them.
+"But all of the processing happens in the device, so the video feed's not leaving the device. This is really important from a data privacy and protection perspective."
+He said there was also no facial or licence plate recognition software.
+Council transport and infrastructure manager Brad Singh said the council would predominantly use the technology to understand the impact infrastructure changes were having across the city.
+"We don't see it being used for anything else."
+The data would be used by council groups including transport and infrastructure, bike network planning, community services, the waterfront team, the behaviour change team, and Let's Get Wellington Moving, it said.
+The project had also been through a privacy impact assessment and had been reviewed by the Office of the Privacy Commissioner.
+Mildon said VivaCity was also working on a road safety project with Waka Kotahi.
+"So, looking at gathering data on near-misses and unsafe interactions and then looking at whether low-cost interventions [would be] able to make a dent into that, or whether some of the higher-cost interventions are required to make roads safer."
+That project would involve a smaller amount of sensors than those being used in Wellington being spread out across the nation, he said.
+Modal filters could also be added to make streets safer, particularly around schools, and air quality sensors could be used in conjunction with the sensors to show how air quality affected active transport traffic flow.
+In Wellington, the sensors would cover the area from Johnsonville to Karori, through to Miramar and Island Bay.
+McMaster said the first sensors would be rolled out in September and October. Another set would be rolled out ahead of the annual March count to ensure data consistency.
