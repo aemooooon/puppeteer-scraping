@@ -1,0 +1,3 @@
+The ancient Chinese board game Go has afforded new insight into how and how expertise develops.
+Using thousands of records of professional and amateur matches of Go, the data were replayed using artificial neural networks.
+The findings improve understanding of how experts rapidly evaluate a situation and narrow choices down to the best option, and may help to develop more flexible artificial intelligences.

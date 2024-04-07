@@ -1,0 +1,32 @@
+It is almost a year since ChatGPT burst onto the scene, fuelling great excitement as well as concern about what it might mean for education.
+The changes keep coming. Earlier in the year, MyAI was embedded into social media platform Snapchat. This is a chatbot powered by ChatGPT, which encourages teens to ask anything - from gift suggestions for friends to questions about homework.
+Meanwhile, Microsoft is rolling out “Copilot” on its systems, billed as an “everyday AI companion” . This follows the introduction of “Bing Chat”, an AI-enhanced assistant to accompany the Bing search tool.
+All of a sudden, generative artificial intelligence – which can create new content such as text and images – has become accessible to everyone, including young people.
+We are researchers with a background in digital technology and are highly enthusiastic about the potential for AI. However, there are risks as well as benefits. Here are three things parents can keep in mind as they navigate AI technology with their kids.
+Artificial intelligence itself is not new – chatbots and generative AI have been around since the 1960s.
+But over the past year there has been a rapid expansion in the size of AI databases, huge financial investments into these technologies, more innovative code, and enhanced accessibility and usability.
+Parents may be naturally hesitant about AI. Many schools have considered banning some AI uses, amid claims it would lead to cheating and undermine academic integrity.
+But AI is not going to go away, and will only become more widely used in our lives. The sooner young people learn to use this technology, the more informed they can be about how to use it wisely and productively.
+If you are a parent, it is important to learn about and try these technologies for yourself so you can help your child navigate a world with AI. Start by logging in to a free generative AI tool, and experiment together by asking the bot some questions and reflecting on the answers.
+
+      High school students are using a ChatGPT-style app in an Australia-first trial
+Generative AI can do amazing things – like generate images or write stories – but it does not reflect on what it’s writing. It will string text together in a way that makes sense but not “read between the lines”.
+Generative AI cannot evaluate the credibility of sources, nor can it always find authoritative information to back up claims. The generative AI software is also trained on data from a specific time so recent events may not be included.
+So children need to learn that although it looks similar to other writing, such as in a book or article, the text has been pieced together by computer code. This means every word, sentence and claim should be treated with scepticism.
+You can use this as an opportunity to help your children develop critical thinking skills.
+Go to a free AI art generator with your school-age child and put in some searches. Then ask your child questions such as, “What kinds of people are shown? What kinds are missing? Do you see any stereotypes? Can you see any biases?”.
+
+      TV can be educational but social media likely harms mental health: what 70 years of research tells us about children and screens
+Chatbots are computer programs designed to simulate conversations as if they were another human.
+For example, there were more than ten million Replika users as of 2022. Replika is a chatbot billed as a companion who cares. It acts like a friend but relationships with the chatbot can become romantic or sexual.
+In many chatbot applications such as this, there may be no moderation or human checks on inappropriate content. So be aware if your child spending a long time with AI “friends”.
+If left unaccompanied, these types of applications could feed into a child’s curiosity and potentially manipulate them into unethical and harmful situations, like highly personal conversations with a bot.
+Make it clear to your children that generative AI is machine, not a human. It does not share your ideals, beliefs, culture or religion. It presents text and language based on models and algorithms. It is not something to argue with, take lessons from, or be used to reinforce your values.
+The code may also be manually edited to inhibit certain viewpoints or stances on topics.
+
+      Young Australians increasingly get news from social media, but many don't understand algorithms
+With all the focus on text, be sure to remind your children images and video are also part of the generative AI landscape. Children may be careful about what text they enter online but careless with uploading images.
+Their photos and facial image become available to AI when uploaded, which makes it harder to protect their identity. For example, ChatGPT now has image capabilities you can include in your conversations with the chatbot. Discuss privacy with your child, and be sure to mention that any data uploaded to the internet can be stored, scanned and processed by AI.
+AI can be a powerful learning and engagement tool, and the developments in this field are highly exciting. With open conversations and some oversight, the possibilities of children greatly benefiting from this technology are endless.
+
+      'Please do not assume the worst of us': students know AI is here to stay and want unis to teach them how to use it

@@ -1,0 +1,27 @@
+Artificial intelligence developer DeepMind has just announced its latest milestone: a bot called AlphaStar that plays the popular real-time strategy game StarCraft II at Grandmaster level.
+This isn’t the first time a bot has outplayed humans in a strategy war game. In 1981, a program called Eurisko, developed by artificial intelligence (AI) pioneer Doug Lenat, won the US championship of Traveller, a highly complex strategy war game in which players design a fleet of 100 ships. Eurisko was consequently made an honorary Admiral in the Traveller navy.
+The following year, the tournament rules were overhauled in an attempt to thwart computers. But Eurisko triumphed for a second successive year. With officials threatening to abolish the tournament if a computer won again, Lenat retired his program.
+
+      If machines can beat us at games, does it make them more intelligent than us?
+DeepMind’s PR department would have you believe that StarCraft “has emerged by consensus as the next grand challenge (in computer games)” and “has been a grand challenge for AI researchers for over 15 years”.
+In the most recent StarCraft computer game tournament, only four entries came from academic or industrial research labs. The nine other bots involved were written by lone individuals outside the mainstream of AI research.
+In fact, the 42 authors of DeepMind’s paper, published today in Nature, greatly outnumber the rest of the world building bots for StarCraft. Without wishing to take anything away from an impressive feat of collaborative engineering, if you throw enough resources at a problem, success is all but assured.
+Unlike recent successes with computer chess and Go, AlphaStar didn’t learn to outwit humans simply by playing against itself. Rather, it learned by imitating the best bits from nearly a million games played by top-ranked human players.
+
+      Google’s new Go-playing AI learns fast, and even thrashed its former self
+Without this input, AlphaStar was beaten convincingly by 19 out of 20 human players on the StarCraft game server. AlphaStar also played anonymously on that server so that humans couldn’t exploit any weaknesses that might have been uncovered in earlier games.
+AlphaStar did beat Grzegorz “MaNa” Komincz, one of the world’s top professional StarCraft players, in December last year. But this was a version of AlphaStar with much faster reflexes than any human, and unlimited vision of the playing board (unlike human players who can only see a portion of it at any one time). This was hardly a level playing field.
+Nevertheless, StarCraft does have some features that makes AlphaStar an impressive advance, if not truly a breakthrough. Unlike chess or Go, players in StarCraft have imperfect information about the state of play, and the set of possible actions you can make at any point is much larger. And StarCraft unfolds in real time and requires long-term planning.
+This raises the question of whether, in the future, we will see robots not just fighting wars but planning them too. Actually, we already have both.
+Despite the many warnings raised by AI researchers such as myself – as well as by founders of AI and robotics companies, Nobel Peace Laureates, and church leaders – fully autonomous weapons, also known as “killer robots”, have been developed and will soon be used.
+In 2020, Turkey will deploy kamikaze drones on its border with Syria. These drones will use computer vision to identify, track and kill people without human intervention.
+This is a terrible development. Computers do not have the moral capability to decide who lives or dies. They have neither empathy nor compassion. “Killer robots” will change the very nature of conflict for the worse.
+As for “robot generals”, computers have been helping generals plan war for decades.
+In Desert Storm, during the Gulf War of the early 1990s, AI scheduling tools were used to plan the buildup of forces in the Middle East prior to conflict. A US general told me shortly afterwards that the amount of money saved by doing this was equivalent to everything that had been spent on AI research until then.
+Computers have also been used extensively by generals to war-game potential strategies. But just as we wouldn’t entrust all battlefield decisions to a single soldier, handing over the full responsibilities of a general to a computer would be a step too far.
+Machines cannot be held accountable for their decisions. Only humans can be. This is a cornerstone of international humanitarian law.
+Nevertheless, to cut through the fog of war and deal with the vast amount of information flowing back from the front, generals will increasingly rely on computer support in their decision-making.
+If this results in fewer civilian deaths, less friendly fire, and more respect for international humanitarian law, we should welcome such computer assistance. But the buck needs to stop with humans, not machines.
+Here’s a final question to ponder. If tech companies like Google really don’t want us to worry about computers taking over, why are they building bots to win virtual wars rather than concentrating on, say, more peaceful e-sports? With all due respect to sports fans, the stakes would be much lower.
+
+      Robots will be FIFA champions  – if they keep their eyes on the ball

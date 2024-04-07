@@ -1,0 +1,31 @@
+Debates about AI often characterise it as a technology that has come to compete with human intelligence. Indeed, one of the most widely pronounced fears is that AI may achieve human-like intelligence and render humans obsolete in the process.
+However, one of the world’s top AI scientists is now describing AI as a new form of intelligence – one that poses unique risks, and will therefore require unique solutions.
+Geoffrey Hinton, a leading AI scientist and winner of the 2018 Turing Award, just stepped down from his role at Google to warn the world about the dangers of AI. He follows in the steps of more than 1,000 technology leaders who signed an open letter calling for a global halt on the development of advanced AI for at least six months.
+Hinton’s argument is nuanced. While he does think AI has the capacity to become smarter than humans, he also proposes it should be thought of as an altogether different form of intelligence to our own.
+Although experts have been raising red flags for months, Hinton’s decision to voice his concerns is significant.
+Dubbed the “godfather of AI”, he has helped pioneer many of the methods underlying the modern AI systems we see today. His early work on neural networks led to him being one of three individuals awarded the 2018 Turing Award. And one of his students, Ilya Sutskever, went on to become co-founder of OpenAI, the organisation behind ChatGPT.
+When Hinton speaks, the AI world listens. And if we’re to seriously consider his framing of AI as an intelligent non-human entity, one could argue we’ve been thinking about it all wrong.
+On one hand, large language model-based tools such as ChatGPT produce text that’s very similar to what humans write. ChatGPT even makes stuff up, or “hallucinates”, which Hinton points out is something humans do as well. But we risk being reductive when we consider such similarities a basis for comparing AI intelligence with human intelligence.
+We can find a useful analogy in the invention of artificial flight. For thousands of years, humans tried to fly by imitating birds: flapping their arms with some contraption mimicking feathers. This didn’t work. Eventually, we realised fixed wings create uplift, using a different principle, and this heralded the invention of flight.
+Planes are no better or worse than birds; they are different. They do different things and face different risks.
+AI (and computation, for that matter) is a similar story. Large language models such as GPT-3 are comparable to human intelligence in many ways, but work differently. ChatGPT crunches vast swathes of text to predict the next word in a sentence. Humans take a different approach to forming sentences. Both are impressive.
+
+      I tried the Replika AI companion and can see why users are falling hard. The app raises serious ethical questions
+Both AI experts and non-experts have long drawn a link between AI and human intelligence – not to mention the tendency to anthropomorphise AI. But AI is fundamentally different to us in several ways. As Hinton explains:
+AI outperforms humans on many tasks, including any task that relies on assembling patterns and information gleaned from large datasets. Humans are sluggishly slow in comparison, and have less than a fraction of AI’s memory.
+Yet humans have the upper hand on some fronts. We make up for our poor memory and slow processing speed by using common sense and logic. We can quickly and easily learn how the world works, and use this knowledge to predict the likelihood of events. AI still struggles with this (although researchers are working on it).
+Humans are also very energy-efficient, whereas AI requires powerful computers (especially for learning) that use orders of magnitude more energy than us. As Hinton puts it:
+If AI is fundamentally a different intelligence to ours, then it follows that we can’t (or shouldn’t) compare it to ourselves.
+A new intelligence presents new dangers to society and will require a paradigm shift in the way we talk about and manage AI systems. In particular, we may need to reassess the way we think about guarding against the risks of AI.
+One of the basic questions that has dominated these debates is how to define AI. After all, AI is not binary; intelligence exists on a spectrum, and the spectrum for human intelligence may be very different from that for machine intelligence.
+This very point was the downfall of one of the earliest attempts to regulate AI back in 2017 in New York, when auditors couldn’t agree on which systems should be classified as AI. Defining AI when designing regulation is very challenging.
+So perhaps we should focus less on defining AI in a binary fashion, and more on the specific consequences of AI-driven actions.
+The speed of AI uptake in industries has taken everyone by surprise, and some experts are worried about the future of work.
+This week, IBM CEO Arvind Krishna announced the company could be replacing some 7,800 back-office jobs with AI in the next five years. We’ll need to adapt how we manage AI as it becomes increasingly deployed for tasks once completed by humans.
+More worryingly, AI’s ability to generate fake text, images and video is leading us into a new age of information manipulation. Our current methods of dealing with human-generated misinformation won’t be enough to address it.
+
+      AI could take your job, but it can also help you score a new one with these simple tips
+Hinton is also worried about the dangers of AI-driven autonomous weapons, and how bad actors may leverage them to commit all forms of atrocity.
+These are just some examples of how AI – and specifically, different characteristics of AI – can bring risk to the human world. To regulate AI productively and proactively, we need to consider these specific characteristics, and not apply recipes designed for human intelligence.
+The good news is humans have learnt to manage potentially harmful technologies before, and AI is no different.
+If you’d like to hear more about the issues discussed in this article, check out the CSIRO’s Everyday AI podcast.

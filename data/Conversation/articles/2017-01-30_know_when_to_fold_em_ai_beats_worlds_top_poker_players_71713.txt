@@ -1,0 +1,30 @@
+If you were about to start playing a game of online poker, you might want to think again. Humankind has just been beaten at yet another game, this time Heads-Up No-Limit Texas Hold’em poker. This is a milestone moment for artificial intelligence (AI).
+The first game that humans lost to machines was backgammon. In 1979, the world backgammon champion was beaten by Hans Berliner’s BKG 9.8 program.
+In 1997, Gary Kasparov who was the reigning world chess champion lost to IBM’s Deep Blue program. Kasparov remarked that he could “smell” a new form of intelligence across the table from him.
+Other games have since fallen to the machines: Checkers, Othello, Scrabble,the general knowledge quiz Jeopardy!, even the classic arcade game Pong.
+Most recently, the ancient Chinese board game of Go fell to the machines. In March last year, one of the leading Go players on the planet, Lee Sedol, was beaten 4-1 by Google’s AlphaGo program.
+And to rub our faces in it, over the Christmas break, AlphaGo anonymously played dozens of the world’s leading Go players online and won convincingly.
+Go has been described as the Mount Everest of board games. It is far more complex than chess or many other games. However, it is less of a challenge than poker.
+Like the real world, poker is a game of uncertainty. Players don’t know what cards the other players have. Or what cards will be dealt in the future. In a game like chess or Go, by comparison, all the players can see the board. Everyone has complete information. This makes Chess and Go much easier to program than poker.
+Poker also requires understanding the psychology of the other players. Are they bluffing? Should you fold? Should you bluff?
+Finally poker involves betting. When should you bet? What should you bet? This again adds to the challenge of writing a poker program that plays as well as or better than humans.
+Over the last three weeks, four of the top poker players have been locked in an exhausting 120,000 game match at the Rivers Casino in Pittsburgh.
+Their opponent is Carnegie Mellon University’s Libratus program, written by my colleague Professor Tuomas Sandholm and his PhD student Noam Brown.
+Libratus is set to win the tournament later today, finishing ahead of the humans with more than US$1 million (A$1.32m) of notional winnings. The pros can be consoled by sharing out the actual US$200,000 (A$265,000) prize pot.
+In order to reduce the influence of sheer luck on the result, the tournament used duplicate hands. This means that two decks of identically shuffled cards are used to two separate tables. On one table, a human player is simultaneously dealt their hand, call it hand A, and the AI is dealt hand B. On the other table (situated in another room), the AI player is dealt hand A and human player dealt hand B.
+This means that even if one player receives an unusual number of lucky hands, then this will be mirrored for the other player in the duplicate game.
+This also explains why so many games have been played. The end result is that we can say with statistical confidence that Libratus is better than the human players.
+The details of how Libratus plays are still secret. But we can make some educated guesses based on the Carnegie Mellon University team’s previous work.
+Perhaps most interesting is that the victory depends more on Good Old Fashioned AI (GOFAI) than on the currently fashionable deep learning processes.
+Like IBM’s Deep Blue in chess, Libratus used a lot of brute force calculation as to how to play best. We know it calls upon Pittsburgh’s Supercomputing Centre to play out every end game.
+And each night, Libratus uses this supercomputer to refine its strategy. In case you think this is unfair on the humans, the pros also get together at night after each match to compare performance and plan for the next day.
+Libratus also takes advantage of game theory, the branch of mathematics made famous by the movie A Beautiful Mind about John Nash. Libratus looks to play strategic moves that cannot be bettered whatever its opponent does.
+Poker is still not solved. Libratus only plays the two player version of Heads-Up No-Limit Texas Hold’em poker. Adding more players increases the complexity greatly. So it will be a few years yet before computers can play well against four or more players.
+But this is another example of how in narrow focused domains AI is starting to take over from humans: reading mammograms, transcribing Chinese, beating human pilots in dogfights… the list increases almost weekly.
+Not surprisingly, many people are wondering where this all ends. Will computers eventually take over all the jobs?
+A widely reported study from the University of Oxford in 2013 estimated that 47% of jobs in the US were at risk from automation in the next two decades.
+There were several limitations in the Oxford study. Ironically, one was that it automated the task of predicting which jobs were under risk. The study used machine learning and a small training set of 70 hand labelled jobs to predict which of over 700 professions was under risk.
+This is where you can help. I am calling on the wisdom of the crowd to see if we can make a better prediction. Please take a few minutes to complete our survey. At the end, you can nominate a charity to receive a donation in recognition of your time and effort.
+Even before the results of our survey are in, its clear that some jobs such as taxi driver, truck driver, radiographer and now poker pro are under threat. Of course, technology will also create other new jobs. But whether as many get created or destroyed remains an interesting open question.
+To keep ahead of the bots, humans will need to play to their strengths like creativity and emotional intelligence. We also should look to augment rather than replace humans. Together humans and machines can outperform machines or humans alone. The best chess player today is a human working with a computer.
+Together, we can be super-human.

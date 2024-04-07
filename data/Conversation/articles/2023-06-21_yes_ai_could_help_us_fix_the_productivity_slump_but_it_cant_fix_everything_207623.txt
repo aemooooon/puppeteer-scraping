@@ -1,0 +1,28 @@
+Our nation is experiencing its lowest productivity growth in 60 years, according to the Committee for the Economic Development of Australia. And this downturn is reflected across most advanced economies worldwide.
+So it’s not surprising some see the rise of artificial intelligence (AI) as productivity’s saviour. Media articles herald a new era of high productivity enabled by AI, and particularly by generative AI tools such as ChatGPT and DALL-E.
+Similarly, the world’s top journals are filled with accounts of how AI has enabled transformative leaps in research. Machine learning has been used, for example, to predict the shape of proteins from DNA information, or to control the shape of super-heated plasma in a nuclear fusion reaction. One team at CSIRO designed an AI-based autonomous system that can manufacture and test 12,000 solar cell designs within 24 hours.
+Does that mean we can flick the switch, leave it on auto, and go to the beach? Not quite.
+
+      Don't blame workers for falling productivity: they're not holding it back
+As much as the above examples provide hope, they also distract from the many AI applications that haven’t quite worked. These are the cases, often not captured in journals and media, where using AI has been costly and time-consuming and failed to generate the desired result.
+In 2021, the AI community had to pause when 62 published studies that used machine learning to diagnose COVID-19 from chest scans were found to be unreliable and unusable in clinical settings, mostly due to problems with the input data. It was a stark reminder AI is fallible.
+That’s not to say AI can’t be used to boost productivity – just that it isn’t an off-the-shelf panacea to our productivity woes. AI can’t magically fix problems related to inefficient processes, poor governance and bad culture.
+If you drop advanced AI into a dumb organisation, it won’t make it smart. It will just help the organisation do dumb stuff more efficiently (in other words, quicker). This will hardly lead to a productivity gain.
+One recent study by the US National Bureau of Economic Research found a 14% increase in productivity among customer service agents who used an AI tool to help guide conversations. In Australia, Westpac says AI has provided a 46% productivity increase for its software engineers, with no loss in quality of work.
+In many ways these examples aren’t surprising. It’s obvious AI can boost productivity when used effectively; Google Maps is clearly better at getting someone from A to B than an old road atlas.
+So what’s common among the situations where AI performs well?
+Successful applications of AI tend to be characterised by a clear need and function for the AI system. They are well integrated within the business or organisation’s broader processes, and do not interfere with employees’ other tasks.
+They also tend to have high-quality, fit-for-purpose and curated datasets used to train the algorithms, and are applied safely and in accordance with ethics principles.
+However, it’s difficult to achieve AI productivity benefits across an entire organisation, let alone an entire economy. Many organisations still struggle with much more basic digital transformation.
+Consulting firm Deloitte estimates 70% of organisations’ digital transformation efforts fail. Perhaps the real solution to the productivity dilemma lies less in using AI, and more in managing the organisational inefficiencies associated with adopting new technology.
+Modern offices are chock-a-block with pointless emails, unnecessary meetings and bureaucratic processes that sap workers’ energy and motivation.  Research has established that productivity decreases when workers face this onslaught of busywork and distractions.
+It’s unlikely AI will solve this. The currency of the modern day is attention; an AI that’s built to shield us from unnecessary busywork may end up nagging us. We may even see a future where AI tools designed to shield us from distraction are competing with AI tools designed to distract us.
+University of Leeds economist Stuart Mills points out that if tools such as ChatGPT merely automate bureaucratic inefficiencies, they won’t raise productivity at all.
+We once asked a friend, a senior manager in a global engineering company, if he uses ChatGPT for his work. “Oh yes,” he exclaimed enthusiastically.
+“I use it for generating all those reports management keeps asking me for. I know no one will ever read it, so it doesn’t need to be high quality.”
+It seems very likely AI will improve productivity at a societal level in the long run, and some of these improvements may be transformative.
+As of September 2022, research found 5.7% of all peer-reviewed research published worldwide was on the topic of AI – up from 3.1% in 2017, and 1.2% in 2000.
+It’s clear innovators everywhere are exploring how AI can supercharge their productivity – and perhaps help them make discoveries. We can expect effective solutions that genuinely solve problems will self-select and organically rise to the top.
+Successful AI implementation requires understanding the context within which the technology is being applied. It requires picking up the correct tool for the task at hand, and using it in the correct way. And even before that, it requires working through issues of process, governance, culture and ethics.
+
+      AI could take your job, but it can also help you score a new one with these simple tips

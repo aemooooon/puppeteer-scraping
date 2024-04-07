@@ -1,0 +1,29 @@
+Imagine being the most qualified person for a job and not getting a call-back or not being selected for an interview.
+As recruitment decisions shift from being based on assessing applicants’ traditional CVs to relying on information gleaned from technology, there is a risk qualified candidates will be filtered out because of their class, background or disability.
+And perhaps even more worryingly, in some instances people may never know.
+Employers are increasingly using technology to make, or assist with, recruitment decisions. Woolworths, Qantas and Afterpay have been reported to use bots to interview candidates while Hilton Australasia requires some applicants to create a TikTok video.
+Other tools being used in modern day hiring include contextual recruitment systems, asynchronous video interviewing, gamification and social media.
+In my new book, I expose how some new recruitment technologies create unprecedented risks to equality in the workplace, with potential for discrimination.
+Contextual recruitment systems is an algorithm used by a number of major employers, including law firms Allens Linklaters and Herbert Smith Freehills. It mines the demographic data of job candidates in an attempt to develop diverse workplaces. It helps recruiters identify so-called “hidden gems” from less privileged areas.
+However, the algorithm can only assess data that is publicly available or volunteered. So it may not get an accurate picture of candidates who are in reality - as opposed to on paper - disadvantaged.
+Instead, it may simply favour the stand out performers in settings it determines are less fortunate, to the detriment of those whose disadvantage cannot be measured by an algorithm.
+
+      A survey of over 17,000 people indicates only half of us are willing to trust AI at work
+Human resources company HireVue’s asynchronous video interviewing tool, which uses AI to automate job interviews, is now being used by more than a hundred employers including Telstra.
+Using the tool, prospective employers produce pre-recorded videos with questions for job applicants.  Candidates can watch the video and then respond in their own time.
+But this interviewing tool may disadvantage job candidates whose manner of speech and choice of words is associated with the working class. This is because the algorithm might favour candidates with cultivated language skills from professional households.
+Then there is the increasing popularity of gamification, which involves filtering job candidates based on the results they get from playing online games. A number of employers, including ANZ, use this technique as part of the recruiting process.
+But there are medical conditions which may affect a person’s ability to complete online games. For example, in the Pymetrics lengths game candidates are shown two similar images which have very subtle differences (for example, one picture of a cat with a short moustache and one picture of a cat with a long moustache). Candidates are asked to press a certain key on their keyboard when they see a particular cat.
+This may test for attention to detail as it is intended to do, but it also disadvantages people with disabilities which may hinder their visual perception or their physical or mental reaction speeds.
+Given many people with invisible disabilities are unlikely to identify as disabled and to ask for reasonable adjustments, they are unlikely to speak up in this new digitalised environment.
+For some job seekers disability and class may also intersect to compound their disadvantage. It’s worth considering whether being able to spot subtle differences in a cat’s moustache is relevant to some jobs such as being a lawyer, accountant or banker (as opposed to a pilot or bus driver).
+
+      Israel's AI can produce 100 bombing targets a day in Gaza. Is this the future of war?
+Social media is also increasingly used by employers to screen or “cybervet” job candidates, enabling both public and private profiles to be screened. In some cases, cybervetting is tantamount to having an employer visit your home to assess your family or determine if you’re a right “cultural fit” before they decide to interview or hire you.
+Through cybervetting employers can access “digitised indicators” of a person’s class, social background and family. This makes them vulnerable to powerful cognitive biases which may lead them to discriminate.
+Using technology has many benefits, including automation to produce time and cost savings, but it may also come with a very human cost.
+Employers need to take care the technology they are using to automate recruitment decisions does not also create risks of discrimination based on protected attributes.
+Many of these technologies are touted on paper to reduce human bias and improve diversity in workplaces. But in practice they may have the opposite effect and create barriers to employment based on “social origin”, disability and age, or at the synergy of these attributes.
+This may have scope to irreparably change the composition of our future professional workforce and favour the richer, more cultivated, more able and younger. This would see us move backwards, not forward, in our efforts for workplace equality.
+
+      A year of ChatGPT: 5 ways the AI marvel has changed the world

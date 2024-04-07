@@ -1,0 +1,29 @@
+All of my favourite engineers have either abandoned the profession or are dedicating their lives to changing it for the better. The most heroic engineer I know never built a bridge or patented a gizmo. He completed a stint in consulting, moved on to Engineers Without Borders, then founded an organization dedicated to promoting technological stewardship in the engineering community.
+What all these engineers have in common, besides collaborating with me on a nationwide grant proposal to transform engineering education, is disenchantment. They are disillusioned not only by an ethically suspect tech industry, but also by the education system that feeds this machine.
+It’s this very same disenchantment that fuels the remarkable Alphabet Workers Union, an ethics-focused, grassroots organization that has sprung up in Silicon Valley to represent Google employees.
+
+As a philosopher of technology, I understand that engineers have an inordinate amount of power and responsibility over the way daily lives are shaped. This applies as much to engineers in the automotive sector as it does to those in the digital attention economy.
+In Radical Technologies: The Design of Everyday Life, urbanist Adam Greenfield observes:
+Engineers are not ignorant of their power to shape the world, but innovation often comes before a consideration of consequences.
+Consider the ceremonious distribution of iron rings at the secretive “ritual of the calling,” which asks newly minted engineers to “not henceforward suffer or pass, or be privy to the passing of, bad workmanship or faulty material.”
+But it’s one thing to gravely assume responsibility for workmanship and quite another to accept the potential consequences brought about by that work.
+This distinction is what’s at stake in the fight of a handful of intrepid Googlers to form a union. As the Alphabet Workers Union mission statement puts it:
+Obviously, this ethical startup at Alphabet is not your dad’s Canadian Auto Workers Union.
+It’s a minority union affiliated with the Communications Workers of America. While this small coalition can’t bargain for benefits, it can provide a legitimate voice to expose controversial developments in the tech industry and take action against them.
+The Alphabet Workers Union may also protect whistleblowers like Meredith Whittaker and Timnit Gebru from employer retaliation. Whittaker, who helmed Google’s Open Research Group, sounded alarm bells about the company’s handling of sexual misconduct complaints. Gebru, an AI specialist, was fired for refusing to retract an academic paper on large language models and then raised concerns about the company’s treatment of racialized employees.
+Truth be told, the Alphabet Workers Union is more of a social activist group than a union, and it conjures none of the patriarchal undertones that accompany older, well-established labour unions. As Isaac Clarencia, a site reliability engineer at Google and one of the union’s first members, put it in a Fast Company interview, what’s at issue is “having to work on something that I’m not ethically OK with.”
+That doesn’t mean that the union is unconcerned with the precarious situation of marginalized employees — including racialized workers, female victims of sexual harassment and disposable contract workers. But its focus is largely on social rather than financial well-being.
+
+In an op-ed in the New York Times, software engineers Parul Koul and Chewy Shaw pulled no punches:
+The Alphabet Workers Union is ultimately fighting against engineering in its current big tech manifestation.
+I have witnessed the same disenchantment among engineering students at the University of Waterloo, located in the heart of Canada’s tech sector.
+Their curriculum provides minimal training in ethics, and they are shuttled between multiple short-term co-operative education (co-op) positions where whistleblowing could cost them a golden ticket to a career in big tech.
+The co-op stints are the hallmark of the university’s engineering program, but they also place students under an inordinate amount of stress as they compete against one another for brass ring jobs at tech companies. There are no summers off and no time for intellectual exploration in this career-oriented program.
+What’s more, besides one mandatory course on societal issues, there are very few opportunities for ethically curious engineers to consider the broader impacts of their chosen discipline. This is a program built to pump out ravenous tech workers, not responsible engineers, let alone critical thinkers.
+
+      STEAM not STEM: Why scientists need arts training
+I realize that not all engineering programs are alike, and software engineering is a unicorn of sorts within the discipline, but there are generally very few opportunities in engineering education to develop intellectual diversity.
+While the Canadian Engineering Accreditation Board requires “ethics and equity” as part of engineering education, that responsibility falls mainly on the shoulders of individual instructors, who are also locked into the curricular assembly line and have no time or incentive to squeeze ethics into their courses.
+Instructors aren’t trained to deliver on this topic — which is most often their response when the issue is broached. Teaching ethics is not their job, just as taking responsibility for the social impacts of new technology is apparently not the job of engineers.
+But the “it’s not my job” platitude is outdated and the members of the new Alphabet union seem to be championing a more progressive agenda.
+The union is making clear that changes must be put in place, both in education and on the job, to allow engineers to start taking responsibility for the broader social outcomes of their work.

@@ -1,0 +1,27 @@
+Artificial intelligence (AI) is no longer the stuff of science fiction. In the form of machine learning tools and decision-making algorithms, it’s all around us. AI determines what news you get served up on the internet. It plays a key role in online matchmaking, which is now the way most romantic couples get together. It will tell you how to get to your next meeting, and what time to leave home so you’re not late.
+AI often appears both omniscient and neutral, but on closer inspection we find AI learns from and adopts human biases. As a result, algorithms replicate familiar forms of discrimination but hide them in a “black box” that makes seemingly objective decisions.
+
+      Algorithms workers can't see are increasingly pulling the management strings
+For many workers, such as delivery drivers, AI has replaced human managers. Algorithms tell them what to do, evaluate their performance and decide whether to fire them.
+But as the use of AI grows and its drawbacks become more clear, workers in the very companies that make the tools of algorithmic management are beginning to push back.
+One of the most familiar forms of AI is the Google algorithm, and the order in which it presents search results. Google has an 88% market share of internet searches, and the Google homepage is the most visited page on the entire internet. How it determines its search results is hugely influential but completely opaque to users.
+Earlier this month, one of Google’s lead researchers on AI ethics and bias, Timnit Gebru, abruptly left the company. Gebru says she was fired after an internal email sent to colleagues about racial discrimination and toxic work conditions at Google, while senior management maintains Gebru resigned over the publication of a research paper.
+
+
+Gebru’s departure came after she put her name to a paper flagging the risk of bias in large language models (the kind used by Google). The paper argued such language models could hurt marginalised communities.
+Gebru has previously shown that facial recognition technology was highly inaccurate for Black people.
+Google’s response rapidly stirred unrest among Google’s workforce, with many of Gebru’s colleagues supporting her account of events.
+Further annoying Gebru’s coworkers and academic sympathisers was the perceived attempt to muzzle unwelcome research findings, compromising the perception of any research published by in-house researchers.
+Here are a few examples of how algorithms can recycle and reinforce existing prejudices:
+
+      From robodebt to racism: what can go wrong when governments let algorithms make the decisions
+Human systems have checks and balances and higher authorities that can be appealed to when there is an apparent error. Algorithmic decisions often do not.
+In our research forthcoming in the journal Organization my colleagues and I found that this lack of a right of appeal, or even a pathway to appeal, reinforces forms of power and control in workplaces.
+So AI, an influential tool of the world’s largest corporations, appears to systematically disadvantage minorities and economically marginalised people. What can be done?
+The protest initiated and led by Google’s own employees may yet bring about change inside the company. Internal discontent at the online giant did get results two years ago, when protest over the kid-glove treatment of executives facing complaints of sexual misconduct led to a change in the company’s policy.
+
+      The Google walkout is a watershed moment in 21st century labour activism
+Outsiders are also beginning to take more of an interest. The European Union’s General Data Protection Regulation (GDPR), which has boosted privacy standards since 2018, taught regulators around the world that the black box of algorithmic decision-making can indeed be prised open.
+The G7 group of leading economies recently set up a Global Partnership on Artificial Intelligence to drive discussion around regulatory solutions to these problems, but it is still in its infancy.
+As an industrial relations issue, the use of AI in hiring and management needs to be brought into the scope of collective bargaining agreements. Current workplace grievance procedures may allow human decisions to be appealed to a higher authority, but will be inadequate when the decisions are not made by humans – and people in authority may not even know how the AI arrived at its conclusions.
+Until internal protests or outside intervention start to impact on the way AI is designed, we will continue to rely on self-regulation. Given the events of the past week, this may not inspire a great deal of confidence.

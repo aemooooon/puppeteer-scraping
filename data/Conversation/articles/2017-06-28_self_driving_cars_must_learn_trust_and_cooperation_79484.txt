@@ -1,0 +1,22 @@
+Self-driving vehicles will not only need to “see” the world, they’ll need to communicate and work together.
+Cars will rely on cameras, sensors and artificial intelligence (AI) to recognise and respond to road and traffic conditions, but sensing is most effective for objects and movement in the immediate vicinity of the vehicle.
+Not everything important in a car’s environment will be caught by the vehicle’s camera. Another vehicle approaching at high speed on a collision trajectory might not be visible until it’s too late.
+This is why vehicle-to-vehicle communication is undergoing rapid development. Our research shows that cars will need to be able to chat and cooperate on the road, although the technical and ethical challenges are considerable.
+Applications for vehicle-to-vehicle communication range from vehicles driving together in a platoon, to safety messages about nearby emergency vehicles. Vehicles could alert each other to avoid intersection collisions or share notifications about pedestrians and bicycles.
+These potential communications are described in the Society of Automotive Engineers’ DSRC Message Set Dictionary, which specifies standardised vehicle-to-vehicle communication messages for all cars.
+This type of communication builds on the popular IEEE 802.11 Wi-Fi standard, creating a potential “internet of vehicles”.
+In the near future, cars will not only be 4G-connected but also linked by peer-to-peer networks once within range using the Dedicated Short Range Communications (DSRC) standard.
+From as far as several hundred metres away, vehicles could exchange messages with one another or receive information from roadside units (RSUs) about nearby  incidents or hazardous road conditions.
+A high level of AI seems required for such vehicles, not only to self-drive from A to B, but also to react intelligently to messages received. Vehicles will need to plan, reason, strategise and adapt in the light of information received in real time and to carry out cooperative behaviours.
+For example, a group of autonomous vehicles might avoid a route together because of computed risks, or a vehicle could decide to drop someone off earlier due to messages received, anticipating congestion ahead.
+Further applications of vehicle-to-vehicle communication are still being researched, including how to implement cooperative behaviour.
+Our study shows how vehicles near each other at junctions could share route information and cooperate on their travel routes to decrease congestion.
+For example, vehicles approaching a fork in the road could calculate, based on estimated road conditions, that instead of all taking a right turn into the same road segment while leaving the other road empty, it would be faster for all if half the vehicles took a right turn and the others took a left.
+This means that instead of a large number of vehicles jamming a route along the path of shortest distance, some vehicles could also take advantage of longer but lighter traffic paths. Vehicles may travel a longer distance but get to their destinations earlier.
+MIT studies have also suggested that vehicles coordinating routes could lead to an overall reduction in congestion.
+Vehicles could also cooperate to resolve parking garage bottlenecks and exchange information to help other cars find parking spaces. Our study shows this can reduce time-to-park for vehicles.
+Is there a need to standardise cooperative behaviours or even standardise the way autonomous vehicles respond to vehicle-to-vehicle messages? This remains an open issue.
+There are challenges relating to vehicles being able to trust messages from other vehicles. Also needed are cooperation mechanisms that disincentivise non-cooperative behaviours and ensure that vehicles do not cooperate maliciously.
+While seemingly far-fetched, it is not inconceivable that autonomous vehicles might form coalitions to deceive other vehicles.
+For example, a coalition of cars could spread false messages about a certain area of a large car park to con other vehicles into avoiding that area, thereby leaving parking spaces for coalition cars. Two autonomous vehicles could cooperate, taking turns to park at a particular spot and making it hard for any other vehicle ever to park there.
+Autonomous vehicles that can ethically cooperate with each other and with humans remain an exciting yet challenging prospect.

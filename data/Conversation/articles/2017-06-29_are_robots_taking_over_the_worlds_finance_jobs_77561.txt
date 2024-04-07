@@ -1,0 +1,35 @@
+The year is 2030. You’re in a business school lecture hall, where just a handful of students are attending a finance class.
+The dismal turnout has nothing to with professorial style, school ranking or subject matter. Students simply aren’t enrolled, because there are no jobs out there for finance majors.
+Today, finance, accounting, management and economics  are among universities’ most popular subjects worldwide, particularly at graduate level, due to high employability. But that’s changing.
+According to consulting firm Opimas, in years to come it will become harder and harder for universities to sell their business-related degrees. Research shows that 230,000 jobs in the sector could disappear by 2025, filled by “artificial intelligence agents”.
+Are robo-advisers the future of finance?
+Many market analysts believe so.
+Investments in automated portfolios rose 210% between 2014 and 2015, according to the research firm Aite Group.
+Robots have already taken over Wall Street, as hundreds of financial analysts are being replaced with software or robo-advisors.
+In the US, claims a 2013 paper by two Oxford academics, 47% percent of jobs are at “high risk” of being automated within the next 20 years – 54% of lost jobs will be in finance.
+This is not just an American phenomenon. Indian banks, too, have reported a 7% decline in head count for two quarters in a row due to the introduction of robots in the workplace.
+Perhaps this is unsurprising. After all, the banking and finance industry is principally built on processing information, and some of its key operations, like passbook updating or cash deposit, are already highly digitised.
+Now, banks and financial institutions are rapidly adopting a new generation of Artificial Intelligence-enabled technology (AI) to automate financial tasks usually carried out by humans, like operations, wealth management, algorithmic trading and risk management.
+For instance, JP Morgan’s Contract Intelligence, or COIN, program, which runs on a machine learning system, helped the bank shorten the time it takes to review loan documents and decrease the number of loan-servicing mistakes.
+Such is the growing dominance of AI in the banking sector that, Accenture predicts, within the next three years it will become the primary way banks interact with their customers. AI would enable more simple user interfaces, their 2017 report notes, which would help banks create a more human-like customer experience.
+Customers at Royal Bank of Scotland and NatWest, for instance, may soon be interacting with customers with the help of a virtual chatbot named Luvo.
+Luvo, which was designed using IBM Watson technology, can understand and learn from human interactions, ultimately making the flesh-and-blood workforce redundant.
+Meanwhile, HDFC, one of India’s largest private-sector banks, has launched Eva. India’s first AI-based banking chatbot can assimilate knowledge from thousands of sources and provide answers in simple language in less than 0.4 seconds. At HFDC Eva joins Ira, the bank’s first humanoid branch assistant.
+AI has also made inroads in the investment industry, where, many financial analysts say, a sophisticated trading machine capable of learning and thinking will eventually make today’s most advanced and complex investment algorithms look primitive.
+Advisory bots are allowing companies to evaluate deals, investments, and strategy in a fraction of the time it takes today’s quantitative analysts to do so using traditional statistical tools.
+Former Barclays head Antony Jenkins, who called the disruptive automation of banking sector an “Uber moment”, predicts that technology will make fully half of all bank branches and financial-services employees across the globe redundant within ten years.
+Goodbye, human fund managers.
+Universities are now revising their educational blueprint to adapt to this technological disruption in the finance job market.
+Both Standford University and Georgetown University business schools are planning to offer so-called “fintech” in their MBA programmes, hoping to teach students how to become masters of financial technology.
+And the Wales-based Wrexham Glyndwr University has announced the launch of the UK’s first undergraduate degree in fintech.
+But fintech is so new and diverse that academics are having difficulty to construct a syllabus for Financial Technology 101, let alone more advanced topics on AI. The lack of academic textbooks and expert professors are additional challenges.
+Still, it is not clear that AI and automation will actually prove advantageous for banks.
+Too much reliance on AI could backfire if financial institutions lose the human touch most customers favour.
+There are other risks, too. Robo-advisers are cheap and save time when creating a simple investment portfolio, but they may struggle to take the correct precautionary measures when markets become volatile, especially when thousands, maybe millions, of machines are all trying to do the same thing while operating at great speed.
+In August 2012, robo stock traders at Knight Capital Group went on a spending spree and  lost $440 million in just 45 minutes.
+High expectations for the performance of these well-programmed robo-traders could also cause chaos in the key trading centres around the world.
+There is no single algorithm that can combine multiple volatile variables with a multidimensional economic forecasting model that works for all investors. Expecting that could prove a potentially fatal error for financial markets.
+And how will investors be protected when robots make the wrong decision? According to the rulings of the US Securities and Exchange Commission (SEC), robo-advisers require registration in the same way human investment advisers do. They are also subject to the rules of the Investment Advisers Act.
+But it is difficult to apply to robots the financial regulations designed to govern human behaviour.
+The SEC’s rules, created to protect the investors, require that advisers adhere to a fiduciary standard by which they unconditionally put the client’s best interests ahead of their own. Concerned US regulators have asked whether it is practical for robots to follow rules when their decisions and recommendations are generated not by ratiocination but by algorithms.
+This conundrum demonstrates one fact clearly: it is hard to completely replace humans. There will always be demand for a real live person to act as check when and if our robots go rogue.

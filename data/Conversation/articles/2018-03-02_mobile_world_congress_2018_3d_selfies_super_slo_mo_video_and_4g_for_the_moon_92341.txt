@@ -1,0 +1,26 @@
+The biggest mobile showcase of the year – the Mobile World Congress (MWC) – wrapped up in Barcelona yesterday, where some 2,300 exhibitors revealed their latest products and technologies.
+Hardware manufacturers, such as Samsung and Google, showcased new smartphones, apps and features. While the conference arm of MWC brought experts together to discuss how enterprise solutions in networking, messaging, Internet-of-things (IoT) and artificial intelligence (AI) could be applied to industries like agriculture, manufacturing and health.
+
+      Here's what Australia's cellular network scene could look like by 2020
+Nokia is focusing on building the cheapest and simplest phones for users who do not need the dozens of features offered by the flagship smartphones. The company announced five new phones, including the new Nokia 1 – which runs on Android Go and retails for US$85.
+But one of Nokia’s most talked about products at MWC was its retro offering. The company is re-releasing a banana-yellow version of the 8110 featured in the original Matrix film.
+
+Nokia also announced that it’s partnering with Vodafone to develop a space-grade 4G network weighing less than a bag of sugar. The endeavour is part of what is anticipated to be the first privately-funded Moon landing.
+It involves using 4G technology to connect two Audi lunar quattro rovers – delivered to the Moon via SpaceX – to a base station. Nokia says the technology will enable “the first live-streaming of HD video from the Moon’s surface to a global audience”.
+Sony launched its new Xperia XZ2, which offers the best design of any of the phones that Sony has introduced in years. The XZ2’s camera offers 4K video recording, but its missing headphone jack has sparked outrage among fans.
+One cool feature is the addition of Sony’s 3D scanning capability to the XZ2’s front-facing camera so users can create 3D selfies.
+
+Samsung unveiled its new Galaxy S9 and S9+ – more or less a rebrand of the S8 with some enhancements on the camera. That includes dual optical image stabilisation for creating quality images in low light, and double the frame rate of the S8’s super slow motion video function.
+
+      Your mobile phone can give away your location, even if you tell it not to
+The Galaxy S9 and Galaxy 9+ use a new modem that allows users to download at speed of up to 1.2 gigabits per second, providing an enhanced surfing and streaming experience. The fingerprint sensor on the S9+ is now underneath the camera for a better user experience, and the new speakers in S9+ are louder than the S8+.
+Samsung is also pushing its new artificial intelligence-powered virtual assistant Bixby 2.0, and has introduced a new feature that creates an animated emoji of your face.
+
+Ericsson, Huawei, ZTE, Telstra and many others players are on the run to make 5G a reality. 5G is the next generation in wireless mobile data connectivity. It will run on higher frequency signals than 4G, providing higher capacity and lower latency (the time is takes to complete a function) compared to 4G. Users are likely to see a boost for video streaming and multi-player video games.
+More importantly, the technology is required as the backbone for a massive explosion in the IoT industry, which is anticipated to number around 20 billion devices by 2020. That includes smart home appliances, driverless cars and a wide variety of consumer equipment.
+
+      Explainer: what is 5G?
+The first specification of the 5G standard was announced late last year by 3GPP — the organisation that governs cellular standards. Since then, vendors have started shipping 5G compliant network equipment. Technology research company Gartner expects it will take more time before we start to see commercial 5G networks. According to its recent report, only 3% of the world’s service providers will launch 5G commercially by 2020.
+At MWC, Telstra announced its plan to roll out 5G in collaboration with Ericsson and Intel in Australia’s major cities in 2019. The plan includes deploying, this year, more than 1,000 small cells in metro areas to increase capacity, and 4G and 5G integration trials. Earlier this year, Telstra announced its 5G Innovation Centre on the Gold Coast, where the telco will trial different usage cases for smart cities and smart homes.
+At MWC this year, we didn’t see really surprising breakthroughs on the hardware side, and companies seemed to be more focused on the end user and enterprise applications.
+Looking ahead, all the big companies are working on new sensors and wearable technologies, especially in the health domain. Both Apple and Samsung have made it a priority to develop consumer-grade sensors that can measure blood pressure. There’s also likely to be a continued focus on improving user experience in AI-powered applications, such as virtual assistants and camera apps.

@@ -1,0 +1,32 @@
+Blue-tongue lizards and sulphur-crested cockatoos are among the native animals frequently smuggled overseas.
+While the number of live animals seized by the Australian Government has tripled since 2017, the full scale of the problem eludes us as authorities don’t often know where and how wildlife is trafficked. Now, we can add a new technology to Australia’s arsenal against this cruel and inhumane industry.
+Our research, published today, shows the potential for new technology to detect illegal wildlife in luggage or mail. This technology uses artificial intelligence to recognise the shapes of animals when scanned at international frontlines such as airports and mail centres.
+Exotic species are also smuggled into the country, such as snakes, turtles and fish. This could disrupt Australia’s multi-billion dollar agricultural industries by introducing pests and diseases, and could also threaten fragile native ecosystems.
+Wildlife trafficking is driven by several factors, including purported medicinal purposes, animals having ornamental value or for the illegal pet trade.
+It can have fatal consequences, as it usually involves transporting individual animals in tight or cramped environments. This often results in the animals becoming stressed, dehydrated and dying.
+Some people have even tried to use chip packets to smuggle Australian wildlife.
+
+      Conservation activists suing Indonesian zoo could inspire global action on endangered species trade
+Traffickers often transport several individuals in one go, in the hope one animal makes it alive.
+We don’t know the complete picture of which animals are being trafficked, how they’re trafficked or even when it’s occurring. But examples from seized cases in Australia suggest traffickers highly prize Aussie reptiles and birds.
+For example, shingleback lizards, a type of blue-tongue lizard, are considered one of Australia’s most trafficked species.
+Apart from being cruel and inhumane, wildlife trafficking can also facilitate the introduction of alien species into new environments.
+This brings significant biosecurity risks. For example, zoonosis (diseases jumping from a non-human animal to a human) involves people handling stressed, wild animals. Exotic species can also disrupt natural ecosystems, as we’ve famously seen with the damage wrought by cane toads in northern Australia.
+Unregulated wildlife entering the country may also harbour new diseases or destructive parasites. This could damage agricultural industries and potentially raise the prices of our fruit and vegetables.
+
+      To lock out foot-and-mouth disease, Australia must help our neighbour countries bolster their biosecurity
+Our new research documents a variety of wildlife species, which have been scanned using state-of-the-art technology to help build computer algorithms using “Real Time Tomography”.
+Real Time Tomography is an imaging technique that uses a series of x-rays to scan an item (such as a lizard). It then produces a three dimensional image of the animal which, in turn, is used to develop algorithms. For example, mail and luggage can be scanned at the airport and, if wildlife are enclosed, the algorithms will alert operators of their presence.
+Our study scanned known species of trafficked Australian animals to create an image reference library. A total of 294 scans from 13 species of lizards, birds and fish were used to develop initial wildlife algorithms, with a detection rate of 82%, and a false alarm rate at just 1.6%.
+This research is the first to document the use of 3D X-ray CT security scan technology for wildlife protection within the peer-reviewed scientific literature. It’s also the first to report results for the detection of reptiles, birds and fish within such scans.
+The detection tool is designed to complement existing detection measures of Australian Border Force, biosecurity officers and detection dogs, which remain crucial in our fight against wildlife crime.
+The tools currently helping to detect and restrict wildlife trafficking mainly rely on human detection methods.
+This includes cyber-crime investigations or Australian Border Force and biosecurity officers manually searching bags. Biosecurity detector dogs patrolling airports are also useful, as are smartphone reporting apps such as the Wildlife Witness App.
+Also crucial are efforts to dismantle illegal trade networks at the source. This is by understanding and reducing consumer demand for wildlife and wildlife products, providing alternate livelihoods for would-be poachers, and enforcing stronger governance and monitoring.
+Seized animals can be used as evidence to identify traffickers, with previous cases resulting in successful prosecution by environmental investigators. For example, a former rugby league player has been jailed for four years after getting caught trying to smuggle a variety of animals in and out of Australia.
+
+      Elephant ivory: DNA analysis offers clearest insight yet into illegal trafficking networks
+All these measures help fight wildlife trafficking, but there’s no single solution to predict when and where the events will likely take place.
+Wildlife traffickers may adapt their behaviours frequently to avoid being detected. As a result, innovative and adaptive solutions, such as our new technology, are vital to support existing detection techniques.
+Any effort to stamp out this terrible activity is a step in the right direction, and the potential for 3D detection enables us to adapt and evolve with how traffickers may change their behaviours.
+We would like to acknowledge Dr Phoebe Meagher from the Taronga Conservation Society Australia for her contribution to this research and article.

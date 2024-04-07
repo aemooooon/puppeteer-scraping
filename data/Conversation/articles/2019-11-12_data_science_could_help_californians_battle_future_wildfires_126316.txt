@@ -1,0 +1,26 @@
+A major wildfire spread through Colorado, and I spent long hours locating shelters, identifying evacuation routes and piecing together satellite imagery.
+As the Fourmile Canyon Fire devastated areas to the west of Boulder, ultimately destroying 169 homes and causing US$217 million in damage, my biggest concerns were ensuring that people could safely evacuate and first responders had the best chance of keeping the fire at bay.
+The oddest thing about that September 7, 2010?
+I spent it sitting comfortably in my home in Bloomington, Indiana, a thousand miles away from the action.
+I was a volunteer, trying to help fire victims. I had created a webpage to aggregate data about the fire, including the location of shelters and the latest predictions of fire spread. I shared it on Twitter in the hope that someone would find it useful; according to the usage statistics, over 40,000 people did.
+Today, researchers like myself are finding transformative new ways to use data and computational methods – what we call data science – to help planners, leaders and first responders tackle disasters like wildfires from afar.
+The kind of work I do is increasingly necessary.
+As I write this, wildfires are threatening homes across California. Vast areas are without electricity, due to the power company PG&E taking extreme measures to prevent downed power lines from igniting new fires, cutting off power to more than 2 million people.
+Fueled by strong winds and dry conditions, these fires are a product of climate change.
+It’s not just California where crisis is the new normal. Areas hit by hurricanes in 2017, such as Puerto Rico and the U.S. Virgin Islands, are still struggling to recover. Here in the Midwest, we are dealing with unprecedented floods every year, caused by extreme rainfalls driven by climate change.
+Federal aid agencies like FEMA just can’t scale their response fast enough to meet the needs of disaster response and recovery at the level of annual disaster that Americans now face.
+Even if world leaders take concrete steps to reduce carbon emissions, everyone on the planet is going to be confronting tough consequences for decades to come.
+
+But I am optimistic. A whole world of new possibilities have been opened up by an explosion of data. Artificial intelligence lets computers predict and find insights from that data.
+Governmental and nongovernmental organizations are starting to recognize these possibilities. For example, in 2015, FEMA appointed a chief data officer to “free the data” within the organization.
+This year, I helped found the Crisis Technologies Innovation Lab at Indiana University, specifically to harness the power of data, technology and artificial intelligence to respond to and prepare for the impacts of climate change.
+Through a grant from the federal Economic Development Administration, we are building tools to help federal agencies like FEMA as well as local planners learn how to rebuild communities devastated by wildfires or hurricanes.
+By analyzing historical disaster information, publicly available census data and predictive models of risk and resilience, our tools will be able to identify and prioritize key decisions, like what kinds of infrastructure investments to make.
+We are also partnering directly with first responders to create new kinds of disaster visualizations that fuse together thousands of data points about weather, current conditions, power outages and traffic conditions in real time. Only recently have such capabilities become possible in the field due to improvements in public safety communications infrastructure, such as FirstNet.
+We hope that this will help the incident commanders and emergency managers make more informed decisions in high-stress situations.
+Other researchers are already demonstrating the power of technology to help in wildfires and other disasters, including using drones to send back streaming video from the air; using artificial intelligence to predict the impact of disasters at a hyper-local level; and tracking the changes in air quality during wildfires much more accurately using sensors.
+The research we all are doing demonstrates ways that the powerful capabilities of data science and artificial intelligence could help planners, first responders and governments adapt to the huge challenges of climate change.
+But there are barriers to overcome. Climate change and disasters are complex and difficult to model precisely.
+What’s more, disaster response technology has to be specifically designed for high-stress, difficult environments. It has to be physically robust, able to operate in adverse environments with broken infrastructure. We need safe spaces to test and innovate new capabilities in simulated environments where failure does not result in real deaths.
+My hope is that many more data and technology researchers will consider redirecting their research to the urgent problems of climate change.
+[ You’re smart and curious about the world. So are The Conversation’s authors and editors. You can get our highlights each weekend. ]

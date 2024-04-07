@@ -1,0 +1,24 @@
+As more commercial precincts develop, we see more shopping trolleys abandoned far away from the shops they belong to. Programs are in place to tackle this issue but  haven’t solved the problem. We need a more sophisticated multi-pronged approach, including smart use of technology, to limit the number of abandoned trolleys and their impact.
+Many councils have declared war on abandoned trolleys. A recent clean-up operation by four Western Sydney councils collected 550 trolleys in a day, Local Government NSW  reported.
+
+      To end share-bike dumping, focus on how to change people's behaviour
+These wayward trolleys are not only making the streets and public spaces untidy, but also have negative social and environmental impacts. Trolleys left on the street or kerbside create safety risks for motorists, cyclists and pedestrians. Dumped trolleys can clog rivers, drains, creeks and culverts, which can contribute to flash flooding during extreme weather events.
+Recovering trolleys is time-consuming and sometimes risky depending on the location. Collection often involves  a significant cost to councils and commercial businesses.
+Due to its complexity this is not a “one size fits all” type of problem. A good starting point is the adoption of tougher policies and regulations by state and local governments.
+These policies typically target the trolley owners, the retailers, making them accountable for their property and forcing them to be part of the solution. As a result, some supermarkets have encouraged customers to return trolleys after use by introducing coin-operated trolley locks or by offering rewards for returning lost trolleys.
+Recent campaigns have also promoted responsible use of trolleys, with the message that abandoning a trolley is an act of littering or illegal dumping, which is subject to fines. This echoes policies already in place for share bikes and scooters.
+However, Local Government NSW (LGNSW) President Linda Scott recently said:
+The NSW government is now considering giving councils stronger powers. This could include the power to fine retailers that fail to collect abandoned or impounded trolleys.
+To reduce the number of abandoned trolleys in an area, we first need to know where they are. Involving the local community is a good way to get that information. Councils and retailers can create dedicated channels to report lost trolleys via phone numbers, social media and smartphone applications.
+A good example of a community engagement tool is Trolley Tracker. It’s a platform  that includes online forms, a phone number and an app to report abandoned trolleys. This information goes to councils, retailers and collection contractors. Trolley Tracker has received reports of almost 3 million abandoned trolleys since its inception.
+Research into understanding why trolleys are not returned would also allow councils and commercial businesses to create data-driven solutions.
+Smart devices can be fitted to trolleys to ensure they do not leave the shopping precinct. These devices use geofencing, a location-based service that triggers an action or an alert when the device leaves a defined geographical area. The location of the device can be determined via GPS, WiFi, or any other wireless technology.
+Geofencing follows the trolley in real time, making recovery easier. The device will send an alert when the trolley leaves its defined area.
+These devices can also trigger a wheel-locking mechanism that activates automatically to stop trolleys being taken from the shopping precinct. This system has been implemented, for instance, in Ipswich and Cairns, Queensland.
+Ipswich City Council fines retailers that fail to install wheel locks. “Today abandoned trolleys are a rare sight in Ipswich,” says the LGNSW, which is pushing for the system to be adopted in NSW.
+Over the past decade, computer vision and artificial intelligence (AI) algorithms have progressed very rapidly. AI can now be trained to detect specific objects such as trolleys in images and video.
+
+      AI can help in crime prevention, but we still need a human in charge
+This trained algorithm could be deployed in the existing CCTV infrastructure of the council or the shopping centre. This would speed up the detection and collection of abandoned trolleys. While this approach has the benefit of using existing CCTV networks, the footage is limited to the field of view of the fixed cameras.
+This limitation could be overcome by having councils collaborate with their garbage trucks. Indeed, these trucks are packed with cameras monitoring their surroundings at all times. As the trucks regularly patrol the whole road network, it is an easy fix to embed the AI in these trucks for monitoring and locating abandoned trolleys.
+Through a mix of complementary solutions including policies, community engagement, smart tracking technologies and AI, it is possible to reduce the number of abandoned trolleys.

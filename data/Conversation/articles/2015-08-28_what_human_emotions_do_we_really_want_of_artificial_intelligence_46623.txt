@@ -1,0 +1,28 @@
+Forget the Turing and Lovelace tests on artificial intelligence: I want to see a robot pass the Frampton Test.
+Let me explain why rock legend Peter Frampton enters the debate on AI.
+For many centuries, much thought was given to what distinguishes humans from animals. These days thoughts turn to what distinguishes humans from machines.
+The British code breaker and computing pioneer, Alan Turing, proposed “the imitation game” (also known as the Turing test) as a way to evaluate whether a machine can do something we humans love to do: have a good conversation.
+If a human judge cannot consistently distinguish a machine from another human by conversation alone, the machine is deemed to have passed the Turing Test.
+Initially, Turing proposed to consider whether machines can think, but realised that, thoughtful as we may be, humans don’t really have a clear definition of what thinking is.
+Maybe it says something of another human quality – deviousness – that the Turing Test came to encourage computer programmers to devise machines to trick the human judges, rather than embody sufficient intelligence to hold a realistic conversation.
+This trickery climaxed on June 7, 2014, when Eugene Goostman convinced about a third of the judges in the Turing Test competition at the Royal Society that “he” was a 13-year-old Ukrainian schoolboy.
+Eugene was a chatbot: a computer program designed to chat with humans. Or, chat with other chatbots, for somewhat surreal effect (see the video, below).
+And critics were quick to point out the artificial setting in which this deception occurred.
+Chatbots like Eugene led researchers to throw down a more challenging gauntlet to machines: be creative!
+In 2001, researchers Selmer Bringsjord, Paul Bello and David Ferrucci proposed the Lovelace Test – named after 19th century mathematician and programmer Ada, Countess of Lovelace – that asked for a computer to create something, such as a story or poem.
+Computer generated poems and stories have been around for a while, but to pass the Lovelace Test, the person who designed the program must not be able to account for how it produces its creative works.
+Mark Riedl, from the School of Interactive Computing at Georgia Tech, has since proposed an upgrade (Lovelace 2.0) that scores a computer in a series of progressively more demanding creative challenges.
+This is how he describes being creative:
+Challenging as Lovelace 2.0 may be, it’s argued that we should not place creativity above other human qualities.
+This (very creative) insight from Dr Jared Donovan arose in a panel discussion with roboticist Associate Professor Michael Milford and choreographer Prof Kim Vincs at Robotronica 2015 earlier this month.
+Amid all the recent warnings that AI could one day lead to the end of humankind, the panel’s aim was to discuss the current state of creativity and robots. Discussion led to questions about the sort of emotions we would want intelligent machines to express.
+Empathy – the ability to understand and share feelings of another – was top of the list of desirable human qualities that day, perhaps because it goes beyond mere recognition (“I see you are angry”) and demands a response that demonstrates an appreciation of emotional impact.
+Hence, I propose the Frampton Test, after the critical question posed by rock legend Peter Frampton in the 1973 song “Do you feel like we do?”
+True, this is slightly tongue in cheek, but I imagine that to pass the Frampton Test an artificial system would have to give a convincing and emotionally appropriate response to a situation that would arouse feelings in most humans. I say most because our species has a spread of emotional intelligence levels.
+Noting that others have explored this territory and that the field of “affective computing” strives to imbue machines with the ability to simulate empathy, it is still fascinating to contemplate the implications of emotional machines.
+This July, AI and robotics researchers released an open letter on the peril of autonomous weapons. If machines could have even a shred of empathy, would we fear these developments in the same way?
+This reminds us, too, that human emotions are not all positive: hate, anger, resentment and so on. Perhaps we should be more grateful that the machines in our lives don’t display these feelings. (Can you imagine a grumpy Siri?)
+Still, there are contexts where our nobler emotions would be welcome: sympathy and understanding in health care for instance.
+As with all questions worthy of serious consideration, the Robotronica panellists did not resolve whether robots could perhaps one day be creative, or whether indeed we would want that to pass.
+As for machine emotion, I think the Frampton Test will be even longer in the passing. At the moment the strongest emotions I see around robots are those of their creators.
+Acknowledgement: This article were inspired by discussion and debate at the Robotronica 2015 panel session The Lovelace Test: Can Robots be Creative? and I gratefully acknowledge the creative insights of panellists Dr Jared Donovan (QUT), Associate Professor Michael Milford (QUT) and Professor Kim Vincs (Deakin).

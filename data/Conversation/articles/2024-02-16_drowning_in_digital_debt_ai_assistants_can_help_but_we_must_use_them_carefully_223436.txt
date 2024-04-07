@@ -1,0 +1,31 @@
+In recent days, the “right to disconnect” has entered Australia’s legislative agenda. It refers to employees’ rights to refuse unreasonable after-hours contact from their employer.
+In a work landscape where employees are constantly available after hours thanks to smartphones and portable devices, and employers are competing in global markets and operating on tight deadlines, concerns about disconnecting from work are valid on both sides.
+Artificial intelligence (AI) assistants in the workplace are touted as a potential solution to this “availability creep”. But they may not be the silver bullet, despite what big tech wants us to think.
+
+      Flexibility makes us happier, with 3 clear trends emerging in post-pandemic hybrid work
+“Digital debt”, a term introduced by Microsoft in its work trend index, fittingly describes the vast volume of communication and coordination tasks that minimally contribute to workplace productivity.
+The index surveyed 31,000 full-time knowledge workers – people who work with ideas, rather than goods – in 31 countries, including Australia, the United States, the United Kingdom, South Korea and others.
+It reveals that 57% of the average workday is spent on communications and 68% of respondents couldn’t find uninterrupted blocks of time to focus during the workday.
+The origins of digital debt can be traced back to the “productivity paradox” from the late 20th century, where increasing technology investments had led to decreasing workplace productivity.
+This paradox has re-emerged (and been renamed) mainly due to the abundance of data that organisations and employees have to manage in the current market.
+For communication alone, most employees are having to manage one or two email addresses, calls and chats on Zoom, Slack or Teams channels, WhatsApp and LinkedIn messaging, and multiple diaries to synchronise meetings. This is easily more than 1,000 data points every day.
+Left unattended, digital debt accrues “interest”, with damaging effects on both employee and employer. This is the tipping point at which the boundary between work and personal life blurs, and the after-dinner compulsion to tidy up the inbox sets in.
+Microsoft – OpenAI’s partner of choice for scaling up its industry-leading AI tech – has somewhat conveniently used the same work trend report to position its AI assistant, Microsoft Copilot, as the bona fide solution to digital debt.
+There are obvious financial gains for big tech providing AI tools. But the capabilities of these AI assistants are fittingly at the intersection of digital debt, the deluge of data, and the right to disconnect. So, they warrant further investigation.
+In the broadest sense, generative AI (think ChatGPT) produces new and meaningful content in response to prompts from a human operator. AI assistants generalise this capability for goal-oriented complex tasks. There’s no shortage of these subscription-based services now, including Copilot, Google’s Gemini, Amazon Q, Anthropic’s Claude and others.
+An AI assistant can summarise all new emails, detect and prioritise those requiring a response, draft responses and highlight gaps that require human input. Then, the assistant can send the emails off and schedule meetings for subsequent chats.
+Among other knowledge work tasks, an AI assistant can also draft and revise text for various documents, generate graphs from data in spreadsheets, or generate images for text-heavy presentation slides.
+Unfortunately, early user feedback on the technical performance of AI assistants is lacklustre.
+This is primarily because of how generative AI is trained. By learning from past data and not through lived experiences, it lacks factual knowledge of the world. This means it can’t validate the outcomes of the tasks completed.
+Therefore, the human using the AI must “peer review” all of the assistant’s output to avoid potential errors and misrepresentations.
+In most workplaces where we are expected to “do more with less”, such needy AI assistants would create an additional layer of work. It could also easily get overlooked when time pressures kick in.
+
+      AI and the future of work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers
+It is no secret AI also has an ethics problem, and this extends to AI assistants.
+The mediocre attitude of big tech AI providers towards transparency and governance, as demonstrated by the sacking and rehiring of the CEO of Open AI, as well as Microsoft’s layoff of its ethics team, are further reasons to be wary of the much-hyped opportunities of generative AI.
+There are efforts to regulate AI based on the risks it poses, but the challenge is that the risk itself is dynamic.
+For example, menial office tasks could go horribly wrong if politically sensitive, tone deaf or workplace-inappropriate content is produced and circulated by an AI.
+Given that large AI models are likely to continue training on live data, organisations must protect their confidential and sensitive information through stringent governance and classification protocols.
+In summary, AI assistants can help ease our digital debt and provide after-hours business continuity. This could chart a course towards a right-to-disconnect landscape that is agreeable to everyone.
+But this course is riddled with challenges. They include organisational readiness, AI literacy skills, AI governance, accountability framework, mandatory peer review and cost-effective subscriptions.
+Against the mounting digital debt and deficit of work-life balance, our investment in AI must be measured and responsible, to ensure the returns are sustainable.

@@ -1,0 +1,31 @@
+The worlds of pop culture and advanced imaging technology intersected recently when Kim Kardashian promoted a commercial whole-body magnetic resonance imaging (MRI) service on social media as a tool to detect cancer and aneurysms.
+The post attracted criticism from members of the medical community, who expressed concern about the lack of evidence for widespread use of this technology in people who are disease free.
+Despite these concerns, the information provided by whole-body MRI scanning for mapping anatomy and function has great potential for helping us understand how changes in the brain and body are associated with health outcomes over the human lifespan.
+
+
+Whole-body MRI scanning has been available for a decade or more. MRI uses strong magnetic fields to coax a signal from water molecules. Given our body is approximately 60% water by volume, MRI scans can be used to generate images over the length of our body. In a clinical setting, scans are then studied by radiologists who look for potential abnormalities.
+Recent technical improvements mean detailed images of the body from head to toe can now be obtained in less than half an hour. This technique has been primarily used for cancer detection.
+In Australia, whole-body MRI was recently added to the Medicare Benefits Schedule for people with a high genetic risk of cancer.
+Despite the usefulness of whole-body MRI for cancer detection for high-risk people, there are concerns around widespread use of this technology in the general population without appropriate oversight by trained medical practitioners.
+
+      The science of medical imaging: magnetic resonance imaging (MRI)
+If an abnormality is detected in an otherwise healthy person, the significance of the abnormality is often unclear and treatment options may be limited. Anatomy can vary significantly between people and there is no guarantee an unusual imaging finding has negative implications for an individual, particularly if the person does not have any symptoms of poor health.
+The anxiety and potentially invasive investigations triggered by an MRI finding may have a negative effect on the person’s overall wellbeing. In many cases, the stress may outweigh the health value of the discovery.
+The scans are not cheap either. The whole-body MRI offered by Prenuvo in the United States and promoted by Kardashian costs almost A$4,000.
+Despite these concerns, it is highly likely whole-body imaging will add to our understanding of how changes in the body contribute to healthy ageing and the development of disease.
+
+      Low- and middle-income countries struggle to provide health care to some, while others get too much medicine
+One potential application of whole-body MRI is to inform our understanding of the interactions between the brain and the rest of the body.
+A multitude of studies demonstrate how the health of our brain and other organs are intimately linked. Body systems that interact with the brain include the gut and heart. The brain also partners with our musculoskeletal system and fat distribution in the body.
+A number of Australian studies have used MRI to investigate brain-body connections, including work from the Personality and Total Health (PATH) Through Life study that shows optimal blood pressure is linked with healthy brain ageing.
+University of Melbourne research published earlier this year shows a number of chronic diseases are associated with accelerated ageing of the brain and other organs. The study used artificial intelligence to predict the age of participants based on assessments of brain and body structure and function, and found an increased gap between a subject’s brain or body age and their chronological age was associated with a range of poor health outcomes. They further identified networks of advanced ageing patterns that spread from affected organs into other body systems.
+The latter study is notable because it used data from the UK Biobank, a large-scale population study collecting health information from half a million participants aged 40 and over, including MRI scans of the brain, heart and abdomen in 100,000 subjects.
+
+      AI can help detect breast cancer. But we don't yet know if it can improve survival rates
+Other large prospective imaging studies include the Adolescent Brain Cognitive Development (ABCD) study which uses brain imaging and other assessments to track the development of more than 10,000 children in the United States beginning at age nine, and the German Rhineland study with a planned enrolment of 30,000 participants aged 30 or older.
+A substantial number of people who will participate in these studies are healthy. Over time, some of the study participants will develop health issues. So these studies offer a unique opportunity to use imaging to identify markers for poor health outcomes. Investigation could lead to ways to prevent these issues.
+One of the key challenges in these large-scale imaging studies is how to identify relevant changes on MRI scans. The standard approach of using a radiologist to visually review scans does not scale when studies recruit thousands of participants. Artificial intelligence methods are very well suited to the task of tagging brain and body structures on MRI scans, and one important use of these large studies is to develop AI-based image labelling.
+An Australian-based study of similar scale would have the potential to deliver similar benefits for our population. And such large-scale research could help develop an evidence base to support or debunk the use of advanced technologies such as whole-body MRI scans for helping people maintain good health and identifying health issues as early as possible.
+For the time being, more research is needed to fully explore the potential of whole-body MRI scanning. Meanwhile, there is a growing demand for a personalised approach to health care. And once something shows up in our social media feed it can be surprising how soon it’s widely available.
+
+      'Brain fingerprinting' of adolescents might be able to predict mental health problems down the line

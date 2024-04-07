@@ -1,0 +1,38 @@
+The release of OpenAI’s ChatGPT chatbot has given us a glimpse into the future of teaching and learning alongside artificial intelligence.
+Educators immediately pointed out the chatbot’s ability to generate meaningful responses to questions from assessments and exams. And it’s often not possible to attribute these responses to a particular source – making it difficult to detect plagiarism.
+Concerns didn’t go unnoticed. Shortly after ChatGPT’s release, OpenAI announced it was developing a “digital watermark” to embed into the chatbot’s responses. This kind of watermark is embedded as a digital signal that can identify the content as being AI-generated, and which (in theory) should be difficult to remove.
+But as experts have pointed it, people will likely find workarounds. And it won’t be long before other AI models just as capable as ChatGPT pop up. What will this mean for our educational spaces?
+It’s safe to say we can expect some challenging years ahead.
+
+      The ChatGPT chatbot is blowing people away with its writing skills. An expert explains why it's so impressive
+ChatGPT is powered by GPT3, a large language model (LLM) trained on an enormous amount of text data — about 500 billion words to be precise. Large language models work by predicting the next most-likely word when given a list of input words (usually phrased as a question).
+The model is trained using many billions of parameters that can represent the complexity of the world. By inputting real-world data, the algorithm readjusts its parameters until it can produce human-like responses to a range of questions. For example:
+Although it’s not foolproof, ChatGPT’s capabilities both shock and inspire. It can write songs, programming code, and simulate entire job interview sessions. It even passed the Amazon Web Services Certified Cloud Practitioner exam, which typically takes 2-6 months to prepare for.
+
+
+Perhaps what’s most alarming is the technology is still in its early stages. The millions of users exploring ChatGPT’s uses are simultaneously providing more data for OpenAI to improve the chatbot.
+The next version of the model, GPT4, will have about 100 trillion parameters – about 500 times more than GPT3. This is approaching the number of neural connections in the human brain.
+
+      Everyone's having a field day with ChatGPT – but nobody knows how it actually works
+The power of AI systems is placing a huge question mark over our education and assessment practices.
+Assessment in schools and universities is mostly based on students providing some product of their learning to be marked, often an essay or written assignment. With AI models, these “products” can be produced to a higher standard, in less time and with very little effort from a student.
+In other words, the product a student provides may no longer provide genuine evidence of their achievement of the course outcomes.
+And it’s not just a problem for written assessments. A study published in February showed OpenAI’s GPT3 language model significantly outperformed most students in introductory programming courses. According to the authors, this raises “an emergent existential threat to the teaching and learning of introductory programming”.
+The model can also generate screenplays and theatre scripts, while AI image generators such as DALL-E can produce high-quality art.
+
+      AI art is everywhere right now. Even experts don't know what it will mean
+Moving forward, we’ll need to think of ways AI can be used to support teaching and learning, rather than disrupt it. Here are three ways to do this.
+1. Integrate AI into classrooms and lecture halls
+History has shown time and again that educational institutions can adapt to new technologies. In the 1970s the rise of portable calculators had maths educators concerned about the future of their subject – but it’s safe to say maths survived.
+Just as Wikipedia and Google didn’t spell the end of assessments, neither will AI. 
+In fact, new technologes lead to novel and innovative ways of doing work. The same will apply to learning and teaching with AI.
+Rather than being a tool to prohibit, AI models should be meaningfully integrated into teaching and learning.
+2. Judge students on critical thought
+One thing an AI model can’t emulate is the process of learning, and the mental aerobics this involves.
+The design of assessments could shift from assessing just the final product, to assessing the entire process that led a student to it. The focus is then placed squarely on a student’s critical thinking, creativity and problem-solving skills.
+Students could freely use AI to complete the task and still be marked on their own merit.
+3. Assess things that matter
+Instead of switching to in-class examination to prohibit the use of AI (which some may be tempted to do), educators can design assessments that focus on what students need to know to be successful in the future. AI, it seems, will be one of these things.
+AI models will increasingly have uses across sectors as the technology is scaled up. If students will use AI in their future workplaces, why not test them on it now?
+Vladimir Lenin, leader of Russia’s 1917 Bolshevik Revolution, supposedly said:
+This statement has come to roost in the field of artificial intelligence. AI is forcing us to rethink education. But if we embrace it, it could empower students and teachers.

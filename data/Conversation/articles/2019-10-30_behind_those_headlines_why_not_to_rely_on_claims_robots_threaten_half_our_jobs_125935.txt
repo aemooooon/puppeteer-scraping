@@ -1,0 +1,46 @@
+Should we believe headlines claiming nearly half of all jobs will be lost to robots and artificial intelligence?
+We think not, and in a newly released study we explain why.
+Headlines trumpeting massive job losses have been in abundance for five or so years.
+Even The Conversation has had its had its share.
+Most come from a common source.
+It is a single study, conducted in 2013 by Oxford University’s Carl Benedict Frey and Michael Osborne.
+This study lies behind the claim that 47% of jobs in the United States were at “high risk” of automation over the next ten or so years.
+Google Scholar says it has been cited more than 4,300 times, a figure that doesn’t count newspaper headlines.
+The major predictions of job losses due to automation in Australia are based directly on its findings. Commentaries about the future of work in Australia have also drawn extensively on the study.
+In Australia and elsewhere the study’s predictions have led to calls for a Universal Basic Income and for a “work guarantee” that would allocate the smaller number of jobs fairly.
+Our new research paper concludes the former study’s predictions are not well-founded.
+It has two weaknesses.
+First, the method used to make predictions has major flaws.
+Second, the predictions have not fared well when compared to actual changes in employment in the United States in the time since they were made.
+The study authors asked a group of machine learning experts to identify jobs from a long list that could be automated.
+The experts concluded that half of the jobs on the list could be done by robotics and artificial intelligence in the near future.
+What’s wrong with that?
+While those interviewed were experts in machine learning, they were not experts in the many jobs they considered. They were simply asked to look at a short text description of each job along with a list of tasks associated with it.
+Some of their predictions might make sense, such as most driving-related jobs being at risk.
+
+      Driverless cars: once they're on the road, human drivers should be banned
+Those jobs seem unlikely to vanish entirely in the next decade; but given recent developments in driverless cars, their demise might not be far away.
+But other predictions are harder to understand, such as the claim the jobs of accountants, marketing specialists and claims investigators are at risk over the next decade or so.
+Standard descriptions of the tasks undertaken by accountants include interpretation of information about accounting records and organisational performance. Interpretation is usually regarded as outside the scope of work that can be done by artificial intelligence.
+The work of accountants may well change with advances in artificial intelligence, but it is unlikely to be lost.
+Equally troubling, we show the study’s predictions are inconsistent with the study authors’ views about how robots and artificial intelligence will affect jobs.
+The authors write that recent advances in robotics are still struggling with the challenge of manipulating small objects. Yet their study ends up predicting many jobs that require this sort of manipulation are at high risk of being lost in ten to 15 years.
+Keep in mind the authors did not themselves claim all the jobs they identified would be lost. Instead, they claimed it would become technologically feasible to replace them.
+Unfortunately, that was a distinction almost entirely lost in the headlines – which portrayed the study’s predictions as forecasts of what would happen.
+
+      Machines on the march threaten almost half of modern jobs
+But replacing workers with machines requires more than having the machines available.
+It requires investment in new (and likely very expensive) technologies. It requires governments to permit their use (as with driverless cars). And it requires workers be trained in their installation and maintenance.
+The study was initially published in 2013, six years ago, so it is possible to evaluate the predictions that were made by comparing them against actual changes in employment.
+When we do this, we find the predictions don’t add anything to our understanding of actual employment changes in the United States.
+Economists already had developed a well-grounded and empirically supported framework for understanding the effect of technological change on employment.
+
+      Why we are still convinced robots will take our jobs despite the evidence
+That framework is built on the concept robots and computers are very good at undertaking tasks that are routine, not so good at less routine tasks.
+It has performed well in explaining employment in Australia and internationally and did so in the US between 2013 to 2018.
+Our calcuations show this framework better explains what happened to the number of people in jobs by occupation in the US from 2013 to 2018 than the study’s predictions.
+Note that we did not examine whether the study correctly forecast what would happen (that would have been a big ask), merely whether its framework produced better forecasts than or added value to the existing framework. It did neither.
+Routine jobs will indeed dwindle as machines replace workers, but other jobs are likely to flourish. One occupation that stands out is personal care. Classified by the study as at high risk of automation, employment in it in the US has nearly doubled since the study was published.
+Reality is often more complex (and interesting) than headlines.
+For a more believable account of what is likely to happen we suggest a paper from the leading labour economist in the field, David Autor.
+Its title: Why Are There Still So Many Jobs? The History and Future of Workplace Automation.

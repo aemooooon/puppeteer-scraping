@@ -1,0 +1,27 @@
+There’s no doubt generative AI’s ability to rapidly produce new texts, images and audio is shaking up creative jobs.
+In the long-running Writers Guild of America strike, a central sticking point has been the guild’s demand that AI be used only as a research tool and not a replacement for its members. For many creative types, it seems harder to earn a living with AI around.
+At the same time, however, AI tools are often seen as a springboard to next-level human creativity. Technologies such as Anthropic’s chatbot Claude and OpenAI’s ChatGPT and Dall-E 3 offer a seductive creative experience.
+Will these tools help us survive and thrive as a creative species? Or are they the death knell of creativity as we know it?
+
+      3 ways AI is transforming music
+In her book The Creative Mind, cognitive science expert Margaret Boden distinguishes between two types of human creativity.
+Psychological or personal (p-type) creativity happens when an individual thinks something for the first time – even if others have thought it separately before. One example is a child realising water can take any shape.
+Essentially, p-type creativity is learning something useful and, in the process, synchronising our thoughts with others.
+Historical creativity (h-type), on the other hand, happens when an individual thinks something that has never been thought before. One example would be Archimedes’s “eureka” moment in the bath, which supposedly led to him discovering the law of buoyancy.
+The more someone’s creativity subsequently affects other people’s thinking, the more momentous and enduring we consider their legacy.
+This is why Wandjina rock art in the Kimberley, Homer’s Iliad, Pablo Picasso’s Guernica, Frank Lloyd Wright’s Fallingwater house and Albert Einstein’s Annus Mirabilis papers are all considered exceptional works left behind by exceptional humans. They are important because they continue to shape our thinking.
+AI obviously has the potential to promote both p-type and h-type creativity. It can lead us to insights about biology, history and mathematics, and help us create texts and images that may be useful or thought-provoking.
+But there is one key difference between human creativity and AI-driven creativity: the latter doesn’t stem from the evolutionary clash of mind and world.
+AI models don’t contain reality. They rely on the complex statistical abstraction of digital data. This limits their real-world creative significance and their capacity to produce “eureka” moments.
+To differentiate AI-driven creativity from old-fashioned creativity, I have proposed a new term: generic, or g-type, creativity. It formalises the fact that while AI models are capable of provoking new thought, they are limited by the underlying data they have been trained on.
+
+      AI art is everywhere right now. Even experts don't know what it will mean
+We can expect an explosion in g-type creativity in our future. The danger here is that our increasing use of AI could make us think too much alike, leading to a decrease in cognitive diversity and an increase in cultural tightness.
+In this scenario, societies would become more rigid in the norms they enforce, and less tolerant of deviations from the status quo. At a population level this would be a creativity killer.
+The threat isn’t just AI-generated movies, TV, books and art. In the future, the homes we live in, the cars we drive (or won’t have to drive) and our shared public spaces will all be shaped by AI. We may see our thinking become homogenised under the pressure of increasingly similar environments and experiences.
+This sameness further put us at risk of a generic spiral. AI models are trained on content we create. So the more we use AI for g-type creativity, the more generic our content will become – and since this will be used to further train AI, the more generic AI outputs will become.
+While this might be useful for certain specialist tasks – such as consistently interpreting law – it’s worrying to contemplate the kind of Orwellian political economy a generic spiral might give rise to.
+Balancing and reconciling human creativity with AI isn’t as simple as going for regular walks in nature – although that will probably help.
+Generative AI may well be a transformative technology to rival the printing press or steam engine. Such juggernauts are difficult to resist; we collectively get swept up in the change, uncertainty and alienation they foment.
+Some of the best minds of our generation are already abandoning other pursuits to try their luck at building and using advanced AI models.
+Our best chance to remain truly creative is to protect and privilege the human over the artificial. Intellectual property law is key. Any further moves towards legal personhood for AI – such as allowing AI a “fair use” right to train itself on copyrighted material, or have copyright applied to AI outputs – will erode our creative system and risk a generic spiral in human creativity.

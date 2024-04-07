@@ -1,0 +1,31 @@
+Since ChatGPT was released, many commentators are sounding the alarm about an artificial intelligence (AI) takeover, suggesting that professors will soon be out of a job, or that the student essay is dead.
+This is reactionary and misguided. ChatGPT, by its very nature, cannot do the kinds of things we ought to want student essays to do.
+ChatGPT does not, and cannot, like other AI, give a damn: In the words of philosopher John Haugeland, AI cannot possibly give a damn, as nothing matters to it.
+ChatGPT does, however, pose a unique set of challenges and opportunities when it comes to education and assessment — some of which ChatGPT has not so much created as brought to light with new urgency.
+Beyond existing shortcuts facilitated by online tools that predate ChatGPT, students and educators may have lost sight of some of the skills and values that essay writing is meant to develop — namely, judgment and giving a damn.
+Does this require educators to stop to think about — and potentially change — some of our teaching and assessment practices? Absolutely.
+Does ChatGPT signal the death of critical thinking? Quite the opposite.
+Let’s first consider the landscape before ChatGPT arrived on the scene. Online textual summaries and ready-made analyses offering shortcuts to actual reading and understanding have been readily accessible.
+Essay mills are easy to find, and as The Washington Post reports, “online tests have also meant a booming business for companies that sell homework and test answers, including Chegg and Course Hero.”
+There will always be students who use these shortcuts. Teachers and administrators will do their best to catch them, but some will inevitably get away with it.
+A genuinely novel feature of ChatGPT, however, is the speed and ease with which students can take shortcuts to bypass the difficult processes of reading, understanding, thinking and writing.
+Before, students may have had to browse multiple websites or shared cloud documents and piece together their findings. Now, a series of prompts from their smartphone will do.
+But why should speed and ease be the change that make a difference? The efficiency with which students can now cheat does not warrant claims about the death of the student essay.
+These problems have been around since long before the arrival of ChatGPT. They’re just harder to ignore now.
+What about the essays that ChatGPT produces?
+Yes, ChatGPT can often cogently answer straightforward essay prompts, but these essays show no regard for understanding, judgment or truth. When we asked ChatGPT to explain itself to a group of philosophy students, it readily admits “it doesn’t have any understanding of the world, beliefs or moral values.”
+
+      Unlike with academics and reporters, you can't check when ChatGPT's telling the truth
+This had led some commentators to suggest ChatGPT is a “bullshitter” in the philosophical sense of that term: According to the philosopher Harry Frankfurt, whereas a liar must to some extent be responding to the truth, the bullshitter has no regard for truth or falsity — their “eye is not on the facts at all.”
+The bullshitter merely makes things up as they see fit, to suit their purposes.
+It is tempting to see ChatGPT in this light, but this doesn’t go far enough. True, ChatGPT has no regard for the truth. How could it?
+It’s not just that ChatGPT is a bullshitter with no regard for the truth, but that it has no regard for anything.
+Philosopher Evan Selinger puts this well:
+This is why ChatGPT, by its very nature, cannot do the kinds of things that we ought to want student essays to do. The “essays” it produces have no regard for the truth, demonstrate no understanding and have not even a hint of caring about what is said.
+What ought we want a student essay to do? What writing skills are valuable for students to develop? There are many plausible answers, all of which will vary from classroom to classroom.
+But overall, a compelling answer is captured by what Brian Cantwell Smith, a philosopher of artificial intelligence, calls judgment    — a form of thought that is deliberative, open-minded, grounded by caring and responsible action and context appropriate.
+Judgment requires the agent to be normatively situated within a world — in other words, to care about itself in relation to the people and things around it.
+As Cantwell Smith writes:
+That is, understanding and judgment require giving a damn — and this is what teachers and our society at large ought to want student essays to reflect.
+As Cantwell Smith asks: “can articulating a conception of judgment provide us with inspiration on how we might use the advent of AI to raise the standards on what it is to be human?”
+What we have argued here suggests the answer is a clear and unequivocal yes.

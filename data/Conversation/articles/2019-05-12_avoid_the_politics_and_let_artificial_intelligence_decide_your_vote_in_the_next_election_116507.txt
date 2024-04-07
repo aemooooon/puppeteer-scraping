@@ -1,0 +1,38 @@
+If trust in our politicians is at an all time low, maybe it’s time to reconsider how we elect them in the first place.
+Can artificial intelligence (AI) help with our voting decisions?
+Music and video streaming services already suggest songs, movies or TV shows that we will probably enjoy. Online shopping sites helpfully suggest other products we might like to buy. All this is based on what we’ve already watched, listened to or bought.
+
+      When AI meets your shopping experience it knows what you buy – and what you ought to buy
+So why not have a similar system to suggest whom we should vote for?
+With preferential voting, political parties and candidates already issue how-to-vote cards. But what if an AI service could create a personalised how-to-vote card for each and every one of us?
+Some of us are “rusted on” voters who back the same party, come what may, while others are “swinging voters” who compare options before making a choice.
+Politicians tend to focus on the latter during election campaigns, as they know these voters may well decide their fate.
+Politicians may have different beliefs, values and policy proposals. But if we analyse their persuasion techniques, there are striking similarities in the way in which politicians try to persuade us to vote for them.
+They talk of “objective evidence” and warn voters about the “real cost” of their opponent’s policies.
+Yet research shows we tend to overrate the persuasiveness of “hip-pocket” warnings and underestimate the impact of party identification.
+When it comes to debating politics, we may try to find a rational or logical argument based on expertise to silence our opponent.
+Or we may resort to the argument that our opponent will be the one who ends up having to pay for their misguided beliefs.
+But it’s these kinds of arguments (about money or logic) that prove remarkably ineffective. What is more likely to win over swinging voters are appeals that arouse emotion (particularly fear) and tribal sentiments (“us-them thinking”).
+US social psychologist Jonathan Haidt says we tend to accept new information more readily if it aligns with our deeply held beliefs and values, while Australian psychologist Katharine Greenaway and colleagues say we find information useful and trustworthy if it’s presented to us by someone we regard as “one of us”.
+So is there a better way for us voters to determine whom we should be voting for? Is there a way to take values, emotions and tribalism out of the equation? That’s where AI comes in.
+Political parties have the same problem that faces retailers, hotels, banks and many other businesses, in that the public is constantly bombarded with too much marketing noise and far too many messages.
+To solve this problem of selling, business has turned to AI.
+When booking accommodation on a hotel website, you may find yourself in a conversation with an AI chatbot. Based on the information you provide, the chatbot may suggest activities or persuade you to upgrade your room, book a hire car, or even get a massage.
+Call your bank, telco or other service provider and you most likely interact with an AI voice assistant: “In a few words, please tell us the reason for your call.”
+Retailers are capturing and analysing your purchase data to develop personalised offers, and using AI to influence and predict what you are about to buy next.
+Supermarkets such as the UK-based Tesco, US giant Walmart, and even Woolworths in Australia are investing heavily in this area.
+
+      When AI meets your shopping experience it knows what you buy – and what you ought to buy
+Given voters are more likely to respond positively to a political message if it resonates with them, political parties try to target voters with relevant messages. To do that, they too employ AI.
+In the same way businesses use retargeting strategies to persuade us to buy or act, politicians now do the same.
+Retargeting is the activity of tracking a person’s online activity. It includes what they comment on, what sites they visit, the products they research, and what articles they “like”.
+Using this information, a politician can then send a customised message.
+If politicians are using AI to try to persuade us how to vote, why not flip this around and give us the AI tools needed to help us decide how to vote?
+Some media companies already have online questionnaires – such as the ABC’s Vote Compass and News Corp’s How should I vote? – that try to predict your political leaning.
+While this may be a useful tool for some, you still need to follow political news and current affairs to make sense of many of the questions. So tools like these appear targeted at the already politically engaged.
+
+      To protect us from the risks of advanced artificial intelligence, we need to act now
+What if there was a tool that did not ask you anything but instead you gave it access to your digital footprint. This could be your browsing history, your shopping habits, your location data, and even your social media activity. In fact, anything that showed how you lived, but on your terms.
+Unfortunately, no such tool exists yet, as far as we are aware.
+But why should the politicians have the AI and not you, the voter? Surely it’s only a matter of time before such a tool is available to us.
+Who knows what it might say about you? It might even change the mind of a “rusted on” voter. Now that would be something new for political parties to consider.

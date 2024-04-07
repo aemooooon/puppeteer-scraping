@@ -1,0 +1,33 @@
+It was once thought physical labour jobs would be the most at risk from the rise of artificial intelligence. But recent advances suggest we can expect disruption across a vast range of sectors, including knowledge-based industries.
+We certainly need to have conversations about how AI will change the future of work. But perhaps we should also look beyond fear and ask how it might bring opportunity.
+It’s expected that within five years AI will have replaced some 85 million jobs with 97 million new ones.
+Many people will need to secure new opportunities to survive the shift towards an AI-based economy. If you’re considering competing in the AI-powered jobs market, now is the time to get ahead of the curve.
+Here are five ways AI can help you do so.
+
+      Text-to-audio generation is here. One of the next big AI disruptions could be in the music industry
+Experts say the majority of vacant positions aren’t formally advertised, and instead reside in what’s called the “hidden job market”. This means your networks are incredibly valuable.
+This week LinkedIn released an AI-powered conversation starter tool called Collaborative Articles, which is expected to help users demonstrate their expertise and connect with others in their field.
+There are also AI tools that can help you amplify the power of your networks through integration with LinkedIn. For instance, the paid tool Clay uses data sourced from your contacts’ social media accounts to identify shared interests, and makes suggestions for ways to re-engage with contacts.
+It can also use location data to suggest opportunities for “chance encounters” which, although potentially a bit creepy, could be worthwhile.
+Other paid AI tools that integrate with your LinkedIn profile include Taplio and Engage AI.
+AI tools can help you write CVs and cover letters that highlight your skills while also being tailored to the role you’re applying for.
+Tools for writing resumes and cover letters, such as the paid application Rezi, typically integrate with LinkedIn. They let you import your work and education history, and generate customised job applications based on an advertised position’s description and the name of the hiring company.
+Other similar tools include Jasper and Resume Worded.
+To ensure spelling and grammar errors don’t hold your career back, you can run your CV and cover letter through tools such as QuillBot or Writer – while ChatGPT can help you improve word choices and phrasing.
+Preparing for an interview can be stressful if you’re not sure which questions might be asked.
+Although it’s not advisable to get ChatGPT to write your entire job application for you, there’s no reason you can’t use the conversational AI chatbot to help you prepare for a job interview.
+For instance, you could try the following prompt:
+ChatGPT will then generate a list of potential interview questions based on the job title and company name you provided.
+You could also try:
+You can even refine the outputs by including more information, such as the key skills and capabilities listed in the job selection criteria. Use these outputs to practise your responses and build your confidence going into the interview.
+If you’re ready to turn the page on your current job, you can ask ChatGPT to help you write a resignation letter that will keep your professional relationships intact long after you’ve left.
+Here’s a prompt you could use:
+Of course, you should amend the output to properly reflect your intentions – but ChatGPT provides a great starting point.
+ChatGPT can also provide an encouraging nudge towards what is arguably one of the most daunting tasks when trying to climb the career ladder: asking for a promotion or raise. For this, you might try the following:
+AI has already led to increased automation in many industries, including manufacturing, logistics and customer service. This makes sense: machines can perform routine and repetitive tasks more efficiently and cost-effectively.
+However, not all jobs are easily replaceable by AI. Job seekers of the future will need to identify and showcase their unique humanness: those traits that are harder for AI to replicate, such as empathy, transparency, creativity, authenticity and the ability to cultivate trust through positivity and consistency.
+For now, the advantages of leveraging AI are comparable to a road race where only a few competitors are driving cars while everyone else is pedalling a bicycle.
+But this window of opportunity will narrow as AI tools become mass market products. Just as everyone traded in their Nokia 8210s for smartphones, soon the AI playing field will level and the first-mover advantage will be lost.
+Even if AI itself doesn’t replace you in your workplace, another person who knows how to use it could soon be your main competitor.
+
+      What's the secret to making sure AI doesn't steal your job? Work with it, not against it

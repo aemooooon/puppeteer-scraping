@@ -1,0 +1,33 @@
+On November 30 2022, OpenAI launched the AI chatbot ChatGPT, making the latest generation of AI technologies widely available. In the few months since then, we have seen Italy ban ChatGPT over privacy concerns, leading technology luminaries calling for a pause on AI systems development, and even prominent researchers saying we should be prepared to launch airstrikes on data centres associated with rogue AI.
+The rapid deployment of AI and its potential impacts on human society and economies is now clearly in the spotlight.
+What will AI mean for productivity and economic growth? Will it usher in an age of automated luxury for all, or simply intensify existing inequalities? And what does it mean for the role of humans?
+Economists have been studying these questions for many years. My colleague Yixiao Zhou and I surveyed their results in 2021, and found we are still a long way from definitive answers.
+Over the past half-century or so, workers around the world have been getting a smaller fraction of their country’s total income.
+At the same time, growth in productivity – how much output can be produced with a given amount of inputs such as labour and materials – has slowed down. This period has also seen huge developments in the creation and implementation of information technologies and automation.
+
+      The internet has done a lot, but so far little for economic growth
+Better technology is supposed to increase productivity. The apparent failure of the computer revolution to deliver these gains is a puzzle economists call the Solow paradox.
+Will AI rescue global productivity from its long slump? And if so, who will reap the gains? Many people are curious about these questions.
+While consulting firms have often painted AI as an economic panacea, policymakers are more concerned about potential job losses. Economists, perhaps unsurprisingly, take a more cautious view.
+Perhaps the single greatest source of caution is the huge uncertainty around the future trajectory of AI technology.
+Compared to previous technological leaps – such as railways, motorised transport and, more recently, the gradual integration of computers into all aspects of our lives – AI can spread much faster. And it can do this with much lower capital investment.
+This is because the application of AI is largely a revolution in software. Much of the infrastructure it requires, such as computing devices, networks and cloud services, is already in place. There is no need for the slow process of building out a physical railway or broadband network – you can use ChatGPT and the rapidly proliferating horde of similar software right now from your phone.
+It is also relatively cheap to make use of AI, which greatly decreases the barriers to entry. This links to another major uncertainty around AI: the scope and domain of the impacts.
+AI seems likely to radically change the way we do things in many areas, from education and privacy to the structure of global trade. AI may not just change discrete elements of the economy but rather its broader structure.
+Adequate modelling of such complex and radical change would be challenging in the extreme, and nobody has yet done it. Yet without such modelling, economists cannot provide clear statements about likely impacts on the economy overall.
+Although economists have different opinions on the impact of AI, there is general agreement among economic studies that AI will increase inequality.
+One possible example of this could be a further shift in the advantage from labour to capital, weakening labour institutions along the way.  At the same time, it may also reduce tax bases, weakening the government’s capacity for redistribution.
+Most empirical studies find that AI technology will not reduce overall employment. However, it is likely to reduce the relative amount of income going to low-skilled labour, which will increase inequality across society.
+
+      The benefits of job automation are not likely to be shared equally
+Moreover, AI-induced productivity growth would cause employment redistribution and trade restructuring, which would tend to further increase inequality both within countries and between them.
+As a consequence, controlling the rate at which AI technology is adopted is likely to slow down the pace of societal and economic restructuring. This will provide a longer window for adjustment between relative losers and beneficiaries.
+In the face of the rise of robotics and AI, there is possibility for governments to alleviate income inequality and its negative impacts with policies that aim to reduce inequality of opportunity.
+The famous economist Jeffrey Sachs once said
+But what does that mean, exactly? At least in economic terms?
+In traditional economic modelling, humans are often synonymous with “labour”, and also being an optimising agent at the same time. If machines can not only perform labour, but also make decisions and even create ideas, what’s left for humans?
+The rise of AI challenges economists to develop more complex representations of humans and the “economic agents” which inhabit their models.
+As American economists David Parkes and Michael Wellman have noted, a world of AI agents may actually behave more like economic theory than the human world does. Compared to humans, AIs “better respect idealised assumptions of rationality than people, interacting through novel rules and incentive systems quite distinct from those tailored for people”.
+Importantly, having a better concept of what is “human” in economics should also help us think through what new characteristics AI will bring into an economy.
+Will AI bring us some kind of fundamentally new production technology, or will it tinker with existing production technologies? Is AI simply a substitute for labour or human capital, or is it an independent economic agent in the economic system?
+Answering these questions is vital for economists – and for understanding how the world will change in the coming years.

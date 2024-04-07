@@ -1,0 +1,68 @@
+From steam power and electricity to computers and the internet, technological advancements have always disrupted labor markets, pushing out some jobs while creating others. Artificial intelligence remains something of a misnomer – the smartest computer systems still don’t actually know anything – but the technology has reached an inflection point where it’s poised to affect new classes of jobs: artists and knowledge workers.
+Specifically, the emergence of large language models – AI systems that are trained on vast amounts of text – means computers can now produce human-sounding written language and convert descriptive phrases into realistic images. The Conversation asked five artificial intelligence researchers to discuss how large language models are likely to affect artists and knowledge workers. And, as our experts noted, the technology is far from perfect, which raises a host of issues – from misinformation to plagiarism – that affect human workers.
+To jump ahead to each response, here’s a list of each:
+
+Creativity for all – but loss of skills?
+Potential inaccuracies, biases and plagiarism
+With humans surpassed, niche and ‘handmade’ jobs will remain
+Old jobs will go, new jobs will emerge
+Leaps in technology lead to new skills
+
+
+
+Lynne Parker, Associate Vice Chancellor, University of Tennessee
+Large language models are making creativity and knowledge work accessible to all. Everyone with an internet connection can now use tools like ChatGPT or DALL-E 2 to express themselves and make sense of huge stores of information by, for example, producing text summaries.
+Especially notable is the depth of humanlike expertise large language models display. In just minutes, novices can create illustrations for their business presentations, generate marketing pitches, get ideas to overcome writer’s block, or generate new computer code to perform specified functions, all at a level of quality typically attributed to human experts.
+These new AI tools can’t read minds, of course. A new, yet simpler, kind of human creativity is needed in the form of text prompts to get the results the human user is seeking. Through iterative prompting – an example of human-AI collaboration – the AI system generates successive rounds of outputs until the human writing the prompts is satisfied with the results. For example, the (human) winner of the recent Colorado State Fair competition in the digital artist category, who used an AI-powered tool, demonstrated creativity, but not of the sort that requires brushes and an eye for color and texture.
+While there are significant benefits to opening the world of creativity and knowledge work to everyone, these new AI tools also have downsides. First, they could accelerate the loss of important human skills that will remain important in the coming years, especially writing skills. Educational institutes need to craft and enforce policies on allowable uses of large language models to ensure fair play and desirable learning outcomes.
+Second, these AI tools raise questions around intellectual property protections. While human creators are regularly inspired by existing artifacts in the world, including architecture and the writings, music and paintings of others, there are unanswered questions on the proper and fair use by large language models of copyrighted or open-source training examples. Ongoing lawsuits are now debating this issue, which may have implications for the future design and use of large language models.
+As society navigates the implications of these new AI tools, the public seems ready to embrace them. The chatbot ChatGPT went viral quickly, as did image generator Dall-E mini and others. This suggests a huge untapped potential for creativity, and the importance of making creative and knowledge work accessible to all.
+
+
+
+Daniel Acuña, Associate Professor of Computer Science, University of Colorado Boulder
+I am a regular user of GitHub Copilot, a tool for helping people write computer code, and I’ve spent countless hours playing with ChatGPT and similar tools for AI-generated text. In my experience, these tools are good at exploring ideas that I haven’t thought about before.
+I’ve been impressed by the models’ capacity to translate my instructions into coherent text or code. They are useful for discovering new ways to improve the flow of my ideas, or creating solutions with software packages that I didn’t know existed. Once I see what these tools generate, I can evaluate their quality and edit heavily. Overall, I think they raise the bar on what is considered creative.
+But I have several reservations.
+One set of problems is their inaccuracies – small and big. With Copilot and ChatGPT, I am constantly looking for whether ideas are too shallow – for example, text without much substance or inefficient code, or output that is just plain wrong, such as wrong analogies or conclusions, or code that doesn’t run. If users are not critical of what these tools produce, the tools are potentially harmful.
+Recently, Meta shut down its Galactica large language model for scientific text because it made up “facts” but sounded very confident. The concern was that it could pollute the internet with confident-sounding falsehoods.
+Another problem is biases. Language models can learn from the data’s biases and replicate them. These biases are hard to see in text generation but very clear in image generation models. Researchers at OpenAI, creators of ChatGPT, have been relatively careful about what the model will respond to, but users routinely find ways around these guardrails.
+
+
+Another problem is plagiarism. Recent research has shown that image generation tools often plagiarize the work of others. Does the same happen with ChatGPT? I believe that we don’t know. The tool might be paraphrasing its training data – an advanced form of plagiarism. Work in my lab shows that text plagiarism detection tools are far behind when it comes to detecting paraphrasing.
+These tools are in their infancy, given their potential. For now, I believe there are solutions to their current limitations. For example, tools could fact-check generated text against knowledge bases, use updated methods to detect and remove biases from large language models, and run results through more sophisticated plagiarism detection tools.
+
+
+
+Kentaro Toyama, Professor of Community Information, University of Michigan
+We human beings love to believe in our specialness, but science and technology have repeatedly proved this conviction wrong. People once thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things.
+Meanwhile, technology has quashed, one by one, claims that cognitive tasks require a human brain. The first adding machine was invented in 1623. This past year, a computer-generated work won an art contest. I believe that the singularity – the moment when computers meet and exceed human intelligence – is on the horizon.
+How will human intelligence and creativity be valued when machines become smarter and more creative than the brightest people? There will likely be a continuum. In some domains, people still value humans doing things, even if a computer can do it better. It’s been a quarter of a century since IBM’s Deep Blue beat world champion Garry Kasparov, but human chess – with all its drama – hasn’t gone away.
+In other domains, human skill will seem costly and extraneous. Take illustration, for example. For the most part, readers don’t care whether the graphic accompanying a magazine article was drawn by a person or a computer – they just want it to be relevant, new and perhaps entertaining. If a computer can draw well, do readers care whether the credit line says Mary Chen or System X? Illustrators would, but readers might not even notice.
+And, of course, this question isn’t black or white. Many fields will be a hybrid, where some Homo sapiens find a lucky niche, but most of the work is done by computers. Think manufacturing – much of it today is accomplished by robots, but some people oversee the machines, and there remains a market for handmade products.
+If history is any guide, it’s almost certain that advances in AI will cause more jobs to vanish, that creative-class people with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new mega-rich. If there’s a silver lining, it might be that when even more people are without a decent livelihood, people might muster the political will to contain runaway inequality.
+
+
+
+Mark Finlayson, Associate Professor of Computer Science, Florida International University
+Large language models are sophisticated sequence completion machines: Give one a sequence of words (“I would like to eat an …”) and it will return likely completions (“… apple.”). Large language models like ChatGPT that have been trained on record-breaking numbers of words (trillions) have surprised many, including many AI researchers, with how realistic, extensive, flexible and context-sensitive their completions are.
+Like any powerful new technology that automates a skill – in this case, the generation of coherent, albeit somewhat generic, text – it will affect those who offer that skill in the marketplace. To conceive of what might happen, it is useful to recall the impact of the introduction of word processing programs in the early 1980s. Certain jobs like typist almost completely disappeared. But, on the upside, anyone with a personal computer was able to generate well-typeset documents with ease, broadly increasing productivity.
+Further, new jobs and skills appeared that were previously unimagined, like the oft-included resume item MS Office. And the market for high-end document production remained, becoming much more capable, sophisticated and specialized.
+I think this same pattern will almost certainly hold for large language models: There will no longer be a need for you to ask other people to draft coherent, generic text. On the other hand, large language models will enable new ways of working, and also lead to new and as yet unimagined jobs.
+To see this, consider just three aspects where large language models fall short. First, it can take quite a bit of (human) cleverness to craft a prompt that gets the desired output. Minor changes in the prompt can result in a major change in the output.
+Second, large language models can generate inappropriate or nonsensical output without warning.
+Third, as far as AI researchers can tell, large language models have no abstract, general understanding of what is true or false, if something is right or wrong, and what is just common sense. Notably, they cannot do relatively simple math. This means that their output can unexpectedly be misleading, biased, logically faulty or just plain false.
+These failings are opportunities for creative and knowledge workers. For much content creation, even for general audiences, people will still need the judgment of human creative and knowledge workers to prompt, guide, collate, curate, edit and especially augment machines’ output. Many types of specialized and highly technical language will remain out of reach of machines for the foreseeable future. And there will be new types of work – for example, those who will make a business out of fine-tuning in-house large language models to generate certain specialized types of text to serve particular markets.
+In sum, although large language models certainly portend disruption for creative and knowledge workers, there are still many valuable opportunities in the offing for those willing to adapt to and integrate these powerful new tools.
+
+
+
+Casey Greene, Professor of Biomedical Informatics, University of Colorado Anschutz Medical Campus
+Technology changes the nature of work, and knowledge work is no different. The past two decades have seen biology and medicine undergoing transformation by rapidly advancing molecular characterization, such as fast, inexpensive DNA sequencing, and the digitization of medicine in the form of apps, telemedicine and data analysis.
+Some steps in technology feel larger than others. Yahoo deployed human curators to index emerging content during the dawn of the World Wide Web. The advent of algorithms that used information embedded in the linking patterns of the web to prioritize results radically altered the landscape of search, transforming how people gather information today.
+The release of OpenAI’s ChatGPT indicates another leap. ChatGPT wraps a state-of-the-art large language model tuned for chat into a highly usable interface. It puts a decade of rapid progress in artificial intelligence at people’s fingertips. This tool can write passable cover letters and instruct users on addressing common problems in user-selected language styles.
+
+
+Just as the skills for finding information on the internet changed with the advent of Google, the skills necessary to draw the best output from language models will center on creating prompts and prompt templates that produce desired outputs.
+For the cover letter example, multiple prompts are possible. “Write a cover letter for a job” would produce a more generic output than “Write a cover letter for a position as a data entry specialist.” The user could craft even more specific prompts by pasting portions of the job description, resume and specific instructions – for example, “highlight attention to detail.”
+As with many technological advances, how people interact with the world will change in the era of widely accessible AI models. The question is whether society will use this moment to advance equity or exacerbate disparities.

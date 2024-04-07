@@ -1,0 +1,45 @@
+Each fall, I begin my course on the intersection of music and artificial intelligence by asking my students if they’re concerned about AI’s role in composing or producing music.
+So far, the question has always elicited a resounding “yes.”
+Their fears can be summed up in a sentence: AI will create a world where music is plentiful, but musicians get cast aside.
+In the upcoming semester, I’m anticipating a discussion about Paul McCartney, who in June 2023 announced that he and a team of audio engineers had used machine learning to uncover a “lost” vocal track of John Lennon by separating the instruments from a demo recording.
+But resurrecting the voices of long-dead artists is just the tip of the iceberg in terms of what’s possible – and what’s already being done.
+In an interview, McCartney admitted that AI represents a “scary” but “exciting” future for music. To me, his mix of consternation and exhilaration is spot on.
+Here are three ways AI is changing the way music gets made – each of which could threaten human musicians in various ways:
+Many programs can already generate music with a simple prompt from the user, such as “Electronic Dance with a Warehouse Groove.”
+Fully generative apps train AI models on extensive databases of existing music. This enables them to learn musical structures, harmonies, melodies, rhythms, dynamics, timbres and form, and generate new content that stylistically matches the material in the database.
+There are many examples of these kinds of apps. But the most successful ones, like Boomy, allow nonmusicians to generate music and then post the AI-generated results on Spotify to earn money. Spotify recently removed many of these Boomy-generated tracks, claiming that this would protect human artists’ rights and royalties.
+The two companies quickly came to an agreement that allowed Boomy to re-upload the tracks. But the algorithms powering these apps still have a troubling ability to infringe upon existing copyright, which might go unnoticed to most users. After all, basing new music on a data set of existing music is bound to cause noticeable similarities between the music in the data set and the generated content.
+Furthermore, streaming services like Spotify and Amazon Music are naturally incentivized to develop their own AI music-generation technology. Spotify, for instance, pays 70% of the revenue of each stream to the artist who created it. If the company could generate that music with its own algorithms, it could cut human artists out of the equation altogether.
+Over time, this could mean more money for giant streaming services, less money for musicians – and a less human approach to making music.
+Machine-learning-enabled apps that help musicians balance all of the instruments and clean up the audio in a song – what’s known as mixing and mastering – are valuable tools for those who lack the experience, skill or resources to pull off professional-sounding tracks.
+Over the past decade, AI’s integration into music production has revolutionized how music is mixed and mastered. AI-driven apps like Landr, Cryo Mix and iZotope’s Neutron can automatically analyze tracks, balance audio levels and remove noise.
+These technologies streamline the production process, allowing musicians and producers to focus on the creative aspects of their work and leave some of the technical drudgery to AI.
+While these apps undoubtedly take some work away from professional mixers and producers, they also allow professionals to quickly complete less lucrative jobs, such as mixing or mastering for a local band, and focus on high-paying commissions that require more finesse. These apps also allow musicians to produce more professional-sounding work without involving an audio engineer they can’t afford.
+Using “tone transfer” algorithms via apps like Mawf, musicians can transform the sound of one instrument into another.
+Thai musician and engineer Yaboi Hanoi’s song “Enter Demons & Gods,” which won the third international AI Song Contest in 2022, was unique in that it was influenced not only by Thai mythology, but also by the sounds of native Thai musical instruments, which have a non-Western system of intonation. One of the most technically exciting aspects of Yaboi Hanoi’s entry was the reproduction of a traditional Thai woodwind instrument – the pi nai – which was resynthesized to perform the track.
+A variant of this technology lies at the core of the Vocaloid voice synthesis software, which allows users to produce convincingly human vocal tracks with swappable voices.
+Unsavory applications of this technique are popping up outside of the musical realm. For example, AI voice swapping has been used to scam people out of money.
+But musicians and producers can already use it to realistically reproduce the sound of any instrument or voice imaginable. The downside, of course, is that this technology can rob instrumentalists of the opportunity to perform on a recorded track.
+00:00
+    00:14
+    CC BY
+  
+  
+    
+  
+
+
+  Listen
+  Using tone transfer, a singer's voice is turned into the sound of a trumpet.
+
+
+  
+    Download
+    
+    MP3 / 289 KB
+While I applaud Yaboi Hanoi’s victory, I have to wonder if it will encourage musicians to use AI to fake a cultural connection where none exists.
+In 2021, Capitol Music Group made headlines by signing an “AI rapper” that had been given the avatar of a Black male cyborg, but which was really the work of Factory New non-Black software engineers. The backlash was swift, with the record label roundly excoriated for blatant cultural appropriation.
+But AI musical cultural appropriation is easier to stumble into than you might think. With the extraordinary size of songs and samples that comprise the data sets used by apps like Boomy – see the open source “Million Song Dataset” for a sense of the scale – there’s a good chance that a user may unwittingly upload a newly generated track that pulls from a culture that isn’t their own, or cribs from an artist in a way that too closely mimics the original. Worse still, it won’t always be clear who is to blame for the offense, and current U.S. copyright laws are contradictory and woefully inadequate to the task of regulating these issues.
+These are all topics that have come up in my own class, which has allowed me to at least inform my students of the dangers of unchecked AI and how to best avoid these pitfalls.
+At the same time, at the end of each fall semester, I’ll again ask my students if they’re concerned about an AI takeover of music. At that point, and with a whole semester’s experience investigating these technologies, most of them say they’re excited to see how the technology will evolve and where the field will go.
+Some dark possibilities do lie ahead for humanity and AI. Still, at least in the realm of musical AI, there is cause for some optimism – assuming the pitfalls are avoided.

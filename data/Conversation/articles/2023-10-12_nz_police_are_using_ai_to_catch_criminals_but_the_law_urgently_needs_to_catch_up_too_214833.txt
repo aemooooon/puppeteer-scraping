@@ -1,0 +1,38 @@
+The use of artificial intelligence (AI) by New Zealand police is putting the spotlight on policing tactics in the 21st century.
+A recent Official Information Act request by Radio New Zealand revealed the use of SearchX, an AI tool that can draw connections between suspects and their wider networks.
+SearchX works by instantly finding connections between people, locations, criminal charges and other factors likely to increase the risk of harm to officers.
+Police say SearchX is at the heart of a NZ$200 million front-line safety programme, primarily developed after the death of police constable Matthew Hunt in West Auckland in 2020, as well as other recent gun violence.
+But the use of SearchX and other AI programmes raises questions about the invasive nature of the technology, inherent biases and whether New Zealand’s current legal framework will be enough to protect the rights of everyone.
+
+At this stage, New Zealanders only have a limited view of the AI programmes being used by the police. While some the programmes are public, others are being kept under wraps.
+Police have acknowledged using Cellebrite, a controversial phone hacker technology. This programme extracts personal data from iPhones and Android mobiles and can access more than 50 social media platforms, including Instagram and Facebook.
+
+      AI profiling: the social and moral hazards of 'predictive' policing
+The police have also acknowledged using BriefCam, which aggregates video footage, including facial recognition and vehicle licence plates.
+Briefcam allows police to focus on and track a person or vehicle of interest. Police claim Briefcam can reduce the time analysing CCTV footage from three months to two hours.
+Other AI tools such as Clearview AI – which takes photographs from publicly accessible social media sites to identify a person – were tested by police before being abandoned.
+The use of Clearview was particularly controversial as it was trialled without the clearance of the police leadership team or the Privacy Commissioner.
+The promise of AI is that it can predict and prevent crime. But there are also concerns over the use of these tools by police.
+Cellebrite and Briefcam are highly intrusive programmes. They enable law enforcement to access and analyse personal data without people realising, much less providing consent.
+But under current legislation, the use of both programmes by police is legal.
+The Privacy Act 2020 allows government agencies – including police – to collect, withhold, use or disclose personal information in a way that would otherwise breach the act, where necessary for the “maintenance of the law”.
+Privacy is not the only issue being raised by the use of these programmes. There is a tendency to assume decisions made by AI are more accurate than humans – particularly as tasks become more difficult.
+This bias in favour of AI decisions means investigations may harden towards the AI-identified perpetrator rather than other suspects.
+Some of the mistakes can be tied to biases in the algorithms. In the past decade, scholars have begun to document the negative impacts of AI on people with low incomes and the working class, particularly in the justice system.
+
+      Australian police are using the Clearview AI facial recognition system with no accountability
+Research has shown ethnic minorities are more likely to be misidentified by facial recognition software.
+AI’s use in predictive policing is also an issue as AI can be fed data from over-policed neighbourhoods, which fails to record crime occurring in other neighbourhoods.
+The bias is compounded further as AI increasingly directs police patrols and other surveillance onto these already over-policed neighbourhoods.
+This is not just a problem overseas. Analyses of the New Zealand government’s use of AI have raised a number of concerns, such as the issue of transparency and privacy, as well as how to manage “dirty data” – data with human biases already baked in before it is entered into AI programmes.
+There is no legal framework for the use of AI in New Zealand, much less for the police use of it. This lack of regulation is not unique, though. Europe’s long awaited AI law still hasn’t been implemented.
+That said, New Zealand Police is a signatory to the Australia New Zealand Police Artificial Intelligence Principles. These establish guidelines around transparency, proportionality and justifiability, human oversight, explainability, fairness, reliability, accountability, privacy and security.
+The Algorithm Charter for Aotearoa New Zealand covers the ethical and responsible use of AI by government agencies.
+
+      AI could be a force for good – but we're currently heading for a darker future
+Under the principles, police are meant to continuously monitor, test and develop AI systems and ensure data are relevant and contemporary. Under the charter, police must have a point of contact for public inquiries and a channel for challenging or appealing decisions made by AI.
+But these are both voluntary codes, leaving significant gaps for legal accountability and police antipathy.
+And it’s not looking good so far. Police have failed to implement one of the first – and most basic – steps of the charter: to establish a point of inquiry for people who are concerned by the use of AI.
+There is no special page on the police website dealing with the use of AI, nor is there anything on the main feedback page specifically mentioning the topic.
+In the absence of a clear legal framework, with an independent body monitoring the police’s actions and enforcing the law, New Zealanders are left relying on police to monitor themselves.
+AI is barely on the radar ahead of the 2023 election. But as it becomes more pervasive across government agencies, New Zealand must follow Europe’s lead and enact AI regulation to ensure police use of AI doesn’t cause more problems than it solves.

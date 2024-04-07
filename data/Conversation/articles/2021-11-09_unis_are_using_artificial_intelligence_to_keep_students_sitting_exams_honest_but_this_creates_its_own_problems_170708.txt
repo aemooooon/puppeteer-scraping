@@ -1,0 +1,39 @@
+Universities are increasingly using computer programs to supervise university students sitting their exams. Is this the future of testing?
+Due to the pandemic, institutions worldwide have rapidly adopted exam software like Examplify, ExamSoft and ProctorU.
+Proctoring technology allows exam-takers to be monitored off-campus. They can sit exams in their homes, instead of a person having to watch them in a traditional exam room. Some programs simply enable a person to supervise students remotely.
+More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct.
+Our recent research paper explored the ethics of automated proctoring. We found the promise of the software alluring, but it carries substantial risks.
+
+      Online exam monitoring is now common in Australian universities — but is it here to stay?
+Some educational institutions claim proctoring technologies are needed to prevent cheating. Some other institutions and students are concerned about hidden dangers.
+Indeed, students have launched protests, petitions and lawsuits. They condemn online proctoring as discriminatory and intrusive, with overtones of Big Brother. Some proctoring companies have responded with attempts to stifle protest, which include suing their critics.
+Automated proctoring programs offer tools for examiners to prevent cheating. The programs can capture system information, block web access and analyse keyboard strokes. They can also commandeer computer cameras and microphones to record exam-takers and their surroundings.
+Some programs use AI to “flag” suspicious behaviour. Facial recognition algorithms check to make sure the student is still seated and no one else has entered the room. The programs also identify whispering, atypical typing, unusual movements and other behaviours that could suggest cheating.
+After the program “flags” an incident, examiners can investigate further by viewing stored video and audio and questioning the student.
+Automated proctoring software purports to reduce cheating in remotely administered exams — a necessity during the pandemic. Fair exams protect the value of qualifications and signal that academic honesty matters. They are a key part of certification requirements for professional fields like medicine and law.
+Cheating is unfair to honest students. If left unchecked, it increases incentives for these students to cheat.
+The companies selling proctoring software claim their tools prevent cheating and improve exam fairness for everyone — but our work calls that into question.
+Security
+We evaluated the software and found simple technical tricks can bypass many of the anti-cheating protections. This finding suggests the tools may provide only limited benefits.
+Requiring students to install software with such powerful control over a computer is a security risk. In some cases the software surreptitiously remains even after students uninstall it.
+Access
+Some students may lack access to the right devices and the fast internet connections the software requires. This leads to technical issues that cause stress and disadvantage. In one incident, 41% of students experienced technical problems.
+Privacy
+Online proctoring creates privacy issues. Video capture means examiners can see into students’ homes and scrutinise their faces without being noticed. Such intimate monitoring, which is recorded for potential repeat viewings, distinguishes it from traditional in-person exam supervision.
+Fairness and bias
+Proctoring software raises significant fairness concerns. Facial recognition algorithms in the software we evaluated are not always accurate.
+A forthcoming paper by one of us found the algorithms used by the major US-based manufacturers do not identify darker-skinned faces as accurately as lighter-skinned faces. The resulting hidden discrimination may add to societal biases. Others have reported similar concerns in proctoring software and in facial recognition technology generally.
+
+      Why facial recognition algorithms can't be perfectly fair
+Also of concern, the proctoring algorithms may falsely flag atypical eye or head movements in exam-takers. This could lead to unwarranted suspicions about students who are not neuro-typical or who have idiosyncratic exam-sitting styles. Even without automated proctoring, exams are already stressful events that affect our behaviour.
+Investigating baseless suspicions
+Educational institutions can often choose which automated functions to use or reject. Proctoring companies may insist AI-generated “flags” are not proof of academic dishonesty but only reasons to investigate possible cheating at the institution’s discretion.
+However, merely investigating and questioning a student can itself be unfair and traumatic when based on spurious machine-generated suspicions.
+Surveillance culture
+Finally, automated exam monitoring may set a broader precedent. Public concerns about surveillance and automated decision-making are growing. We should be cautious when introducing potentially harmful technologies, especially when these are imposed without our genuine consent.
+
+      Online exam monitoring can invade privacy and erode trust at universities
+It’s important to find ways to fairly administer exams remotely. We will not always be able to replace exams with other assessments.
+Nonetheless, institutions using automated proctoring software need to be accountable. This means being transparent with students about how the technology works and what can happen to student data.
+Examiners could also offer meaningful alternatives such as in-person exam-sitting options. Offering alternatives is fundamental to informed consent.
+While proctoring tools seemingly offer a panacea, institutions must carefully weigh the risks inherent in the technology.

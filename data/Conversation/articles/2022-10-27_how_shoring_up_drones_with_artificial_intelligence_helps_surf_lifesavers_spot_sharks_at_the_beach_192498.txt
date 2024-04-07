@@ -1,0 +1,35 @@
+Australian surf lifesavers are increasingly using drones to spot sharks at the beach before they get too close to swimmers. But just how reliable are they?
+Discerning whether that dark splodge in the water is a shark or just, say, seaweed isn’t always straightforward and, in reasonable conditions, drone pilots generally make the right call only 60% of the time. While this has implications for public safety, it can also lead to unnecessary beach closures and public alarm.
+Engineers are trying to boost the accuracy of these shark-spotting drones with artificial intelligence (AI). While they show great promise in the lab, AI systems are notoriously difficult to get right in the real world, so remain out of reach for surf lifesavers. And importantly, overconfidence in such software can have serious consequences.
+With these challenges in mind, our team set out to build the most robust shark detector possible and test it in real-world conditions. By using masses of data, we created a highly reliable mobile app for surf lifesavers that could not only improve beach safety, but help monitor the health of Australian coastlines.
+The New South Wales government has invested more than A$85 million in shark mitigation measures over the next four years. Of all approaches on offer, a 2020 survey showed drone-based shark surveillance is the public’s preferred method to protect beach-goers.
+The state government has been trialling drones as shark-spotting tools since 2016, and with Surf Life Saving NSW since 2018. Trained surf lifesaving pilots fly the drone over the ocean at a height of 60 metres, watching the live video feed on portable screens for the shape of sharks swimming under the surface.
+
+      Lifeguards with drones keep us (and sharks) safe, and beach-goers agree
+Identifying sharks by carefully analysing the video footage in good conditions seems easy. But water clarity, sea glitter (sea-surface reflection), animal depth, pilot experience and fatigue all reduce the reliability of real-time detection to a predicted average of 60%. This reliability falls further when conditions are turbid.
+Pilots also need to confidently identify the species of shark and tell the difference between dangerous and non-dangerous animals, such as rays, which are often misidentified.
+AI-driven computer vision has been touted as an ideal tool to virtually “tag” sharks and other animals in the video footage streamed from the drones, and to help identify whether a species nearing the beach is cause for concern.
+Early results from previous AI-enhanced shark-spotting systems have suggested the problem has been solved, as these systems report detection accuracies of over 90%.
+But scaling these systems to make a real-world difference across NSW beaches has been challenging.
+AI systems are trained to locate and identify species using large collections of example images and perform remarkably well when processing familiar scenes in the real world.
+However, problems quickly arise when they encounter conditions not well represented in the training data. As any regular ocean swimmer can tell you, every beach is different – the lighting, weather and water conditions can change dramatically across days and seasons.
+
+      740,000km of fishing line and 14 billion hooks: we reveal just how much fishing gear is lost at sea each year
+Animals can also frequently change their position in the water column, which means their visible characteristics (such as their outline) changes, too.
+All this variation makes it crucial for training data to cover the full gamut of conditions, or that AI systems be flexible enough to track the changes over time. Such challenges have been recognised for years, giving rise to the new discipline of “machine learning operations”.
+Essentially, machine learning operations explicitly recognises that AI-driven software requires regular updates to maintain its effectiveness.
+We aimed to overcome these challenges with a new shark detector mobile app. We gathered a huge dataset of drone footage, and shark experts then spent weeks inspecting the videos, carefully tracking and labelling sharks and other marine fauna in the hours of footage.
+Using this new dataset, we trained a machine learning model to recognise ten types of marine life, including different species of dangerous sharks such as great white and whaler sharks.
+And then we embedded this model into a new mobile app that can highlight sharks in live drone footage and predict the species. We worked closely with the NSW government and Surf Lifesaving NSW to trial this app on five beaches during summer 2020.
+Our AI shark detector did quite well. It identified dangerous sharks on a frame-by-frame basis 80% of the time, in realistic conditions.
+We deliberately went out of our way to make our tests difficult by challenging the AI to run on unseen data taken at different times of year, or from different-looking beaches. These critical tests on “external data” are often omitted in AI research.
+A more detailed analysis turned up common-sense limitations: white, whaler and bull sharks are difficult to tell apart because they look similar, while small animals (such as turtles and rays) are harder to detect in general.
+Spurious detections (like mistaking seaweed as a shark) are a real concern for beach managers, but we found the AI could easily be “tuned” to eliminate these by showing it empty ocean scenes of each beach.
+In the short term, AI is now mature enough to be deployed in drone-based shark-spotting operations across Australian beaches. But, unlike regular software, it will need to be monitored and updated frequently to maintain its high reliability of detecting dangerous sharks.
+An added bonus is that such a machine learning system for spotting sharks would also continually collect valuable ecological data on the health of our coastline and marine fauna.
+In the longer term, getting the AI to look at how sharks swim and using new AI technology that learns on-the-fly will make AI shark detection even more reliable and easy to deploy.
+The NSW government has new drone trials for the coming summer, testing the usefulness of efficient long-range flights that can cover more beaches.
+AI can play a key role in making these flights more effective, enabling greater reliability in drone surveillance, and may eventually lead to fully-automated shark-spotting operations and trusted automatic alerts.
+
+      Sleeping fish? From sharks to salmon, guppies to groupers, here's how they grab a snooze
+The authors acknowledge the substantial contributions from Dr Andrew Colefax and Dr Andrew Walsh at Sci-eye.

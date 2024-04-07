@@ -1,0 +1,23 @@
+If the popular media are to be believed, artificial intelligence (AI) is coming to steal your job and threaten life as we know it. If we do not prepare now, we may face a future where AI runs free and dominates humans in society.
+The AI revolution is indeed underway. To ensure you are prepared to make it through the times ahead, we’ve created a handy survival guide for you.
+The first step in every conflict is knowing your target. It is crucial to acknowledge that AI is not in the future; it is already here.
+You are most likely using it on a daily basis. AI is the magic glue behind the ranking of your Facebook timeline, how Netflix knows what to suggest you watch next, and how Google predicts where you are headed when you jump in your car.
+AI is not a new concept. It was born in the summer of 1956, when a group of pioneers came together with a dream to build machines as intelligent as humans. AI encompasses disciplines such as machine learning, which can find patterns in data and learn to predict phenomena, as well as computer vision, speech processing and robotics.
+The main technique behind the current hype around deep learning is artificial neural networks. Inspired by models of the brain, these mathematical systems work by mapping inputs to a set of outputs based on features of the thing being examined. In computer vision, for example, a feature is a pattern of pixels that provides information about an object.
+Most commonly, the supervised learning approach requires the computer to “learn” these associations by training on big data sets labelled by humans. What began with classifying cat videos has now extended to applications such as driving autonomous vehicles.
+With this knowledge, we can start to understand where AI is optimally positioned to take over. Have a look around you and take note of tasks that require huge amounts of data processing.
+For example, no human would or could look through everyone’s click patterns on Google to figure out what someone wants.
+Even the more advanced capabilities that AI has demonstrated in winning AlphaGo, video games and, most recently, poker rely on training on thousands and thousands of trials.
+Essentially, AI is particularly good at any task that requires an enormous amount of repetitive processing. If this sounds like your job, it might be time to start thinking of a survival plan.
+To evaluate your “automation risk”, type in your job on this site to find out what researchers have calculated for your field. Even if you’re not worried, have a look. The prepared person stays ahead.
+You now have two choices:
+Your first option is to fight back. This may be your natural reaction and, as in during the industrial revolution, you would not be alone in wanting to oppose the change.
+The fact that common AI relies on pattern recognition means that you can sabotage the way it processes data quite easily. But pose too much of a threat and Arnold Schwarzenegger may go back to try and kill you as an infant.
+The nature of the human race is that we will always strive towards the next advancement. Resisting change out of fear of its disadvantages may work in the short term but will only make you more likely to be left behind in the future.
+The far superior strategy is to form a treaty. Accept that AI will increasingly become a part of society and look for possibilities to collaborate. There is a huge potential for AI to assist in places where humans fall short, precisely because of the processing power.
+Companies are already using AI to aid clinicians in medical diagnosis, personalise customer experiences and create agricultural methods that reduce the cost to the environment.
+Some are even developing this relationship one step further with integrated systems that merge the human brain with AI.
+Be ready to upskill where possible. AI can learn very well but it cannot learn flexibly (yet). You can. There are new jobs now available that did not exist five years ago.
+If you allow AI to do the grit work, this can create opportunity to embrace the attributes that humans excel at, namely creativity, social intelligence and manipulation.
+As with every big change, there are fears about new technology like AI. Ultimately, the way to survive the AI revolution is to embrace the partnership. Understand the potential that AI has to improve the world around you and look for those opportunities to implement positive change.
+If you prepare yourself, you may find the AI revolution allows you not only to survive but to be an even better version of your human self.

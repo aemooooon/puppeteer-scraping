@@ -1,0 +1,41 @@
+Universities and schools have entered a new phase in how they need to address academic integrity as our society navigates a second era of digital technologies, which include publicly available generative artificial intelligence (AI) like ChatGPT.
+Such platforms allow students to generate novel text for written assignments.
+While many worry these advanced AI technologies are ushering in a new age of plagiarism and cheating, these technologies also introduce opportunities for educators to rethink assessment practices and engage students in deeper and more meaningful learning that can promote critical thinking skills.
+We believe the emergence of ChatGPT creates an opportunity for schools and post-secondary institutions to reform traditional approaches to assessing students that rely heavily on testing and written tasks focused on students’ recall, remembering and basic synthesis of content.
+Estimates of cheating vary widely across national contexts and sectors.
+Sarah Elaine Eaton, an expert who studies academic integrity, cautions cheating may be under-reported: she has estimated that at Canadian universities, 70,000 students buy cheating services every year.
+How the recent launch of ChatGPT by OpenAI will impact cheating in both compulsory and higher education settings is unknown, but how this evolves may depend on whether or not institutions retain or reform traditional assessment practices.
+The ability of popular plagiarism detection tools to identify cheating using ChatGPT to generate assignments remains a challenge.
+A recent study, not yet peer reviewed, found that 50 essays generated using ChatGPT produced sophisticated texts that were able to evade the traditional plagiarism check software.
+Given that ChatGPT reached an estimated 100 million monthly active users in January, just two months after its launch, it is understandable why some have argued AI applications such as ChatGPT will spur enormous changes in  contemporary schooling.
+Not surprisingly, there are opposing views on how to respond to ChatGPT and other AI language models.
+Some argue educators should embrace AI as a valuable technological tool, provided applications are cited correctly.
+Others believe more resources and training are required so  educators are better able to catch instances of cheating.
+Still others, such as New York City’s Department of Education, have resorted to blocking AI applications such as ChatGPT from devices and networks.
+The figure below depicts three critical elements of a forward-thinking assessment system. Although each element could be elaborated, our focus is in offering educators a series of strategies that will allow them to maintain academic standards and promote authentic learning and assessment in the face of current and future AI applications.
+Teachers and university professors have relied heavily on “one and done” essay assignments for decades. Essentially, a student is assigned or asked to pick a generic essay topic from a list and submit their final assignment on a specific date.
+Such assignments are particularly susceptible to new AI applications, as well as contract cheating — whereby a student buys a completed essay. Educators now need to rethink such assignments. Here are some strategies.
+1. Consider ways to incorporate AI in valid assessment.
+It’s not useful or practical for institutions to outright ban AI and applications like ChatGPT.
+AI has already been incorporated into some university classrooms. We believe AI technologies must be selectively integrated so that students are able to reflect on appropriate uses and connect their reflections to learning competencies.
+For example, Paul Fyfe, an English professor who teaches about how humans interact with data describes a “pedagogical experiment” in which he required students to take content from text-generating AI software and weave this content into their final essay.
+Students were then asked to confront the availability of AI as a writing tool and reflect on the ethical use and evaluation of language modes.
+2. Engage students in setting learning goals.
+Ensuring students understand how they will be graded is key to any good assessment system.
+Inviting students to collaboratively establish learning goals and criteria for the task, with consideration for the role of AI software, would help students to evaluate and judge appropriate contexts in which AI can work as a learning tool.
+
+      Unlike with academics and reporters, you can't check when ChatGPT's telling the truth
+3. Require students to submit drafts for feedback.
+Although students should still complete essay assignments, research into academic integrity policy in response to generative AI suggests students should be required to submit drafts of their work for review and feedback. Apart from helping to detect plagiarism, this kind of “formative assessment” practice is positive for guiding student learning.
+Feedback can be offered by the teacher or by students themselves. Peer- and self-feedback can serve to critically evaluate work in progress (or work generated by AI software).
+4. Grade subcomponents of the task.
+Students could receive a grade for each subcomponent — including their involvement in feedback processes. They would also be evaluated in relation to how well they incorporated and attended to the specific feedback provided.
+The assignment becomes bigger than a final essay, it becomes a product of learning, where students’ ideas are evaluated from development to final submission.
+5. Move to more authentic assessments or include performance elements.
+Good assessment practice involves an educator observing student learning across multiple contexts.
+For example, educators can invite students to present their work, discuss an essay in a conference format or share a video articulation or an artistic representation. The aim here is to encourage students to share their learning through an alternative format. An important question to ask is whether or not you need the essay component at all? Is there a more authentic way to effectively assess student learning?
+Authentic assessments are those that relate content to context. When students are asked to do this, they must apply knowledge in more practical settings, often making AI tools less helpful.
+For help in rethinking assessment practices towards more authentic and alternative approaches, educators can consider taking the free course, Transforming Assessment: Strategies for Higher Education.
+Collectively, these suggestions may be more time-consuming, particularly in larger undergraduate classes.
+But they do provide greater learning and synergy between forms of assessment that benefit students: formative assessment to guide teaching and learning, and “summative assessment,” primarily used for grading and evaluation purposes.
+AI is here and here to stay, and we must embrace it as part of our learning environment. Incorporating AI into how we assess student learning will yield more reliable assessment processes and valid and valued assessment outcomes.

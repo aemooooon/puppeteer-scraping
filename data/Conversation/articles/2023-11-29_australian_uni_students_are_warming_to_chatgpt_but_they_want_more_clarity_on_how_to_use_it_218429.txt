@@ -1,0 +1,32 @@
+ChatGPT is one year old today. Depending on who you ask, this technology either spells great doom or great opportunity for education.
+With ChatGPT capable of passing graduate-level exams, there have been calls for universities to drastically change assessments, amid concerns it will lead to cheating and students disengaging with their studies.
+Some academics and students have also expressed enthusiasm at the potential for generative AI to cut down their workloads and help with learning.
+But what has happened on the ground?
+We have been tracking the use of AI in Australian universities this year. We did a survey on the first half of 2023. Now we release data from semester two.
+Across the year, we have asked 154 students and 89 academics about their use of AI via an online survey. Of this group, 81 students and 60 academics from Australian universities completed the survey during the second half of the year (June to November).
+At the start of the year, just over half of students had tried or used generative AI. In the second half of the year, this had climbed to 82% of students and some of these were were using it in the context of university learning (25%) or assessment (28%).
+In some cases, it was suggested or required for assessments, but for most students using it in this way, this was self-directed (85%).
+Perhaps as a result of this increased use, students appear to be far more “sold” on this technology now than earlier in the year. Only 30% of first-semester students agreed generative AI would help them learn, 67% of second-semester students agreed with this.
+Students reported applying generative AI in lots of ways, including summarising dense and long pieces of text, generating ideas/brainstorming, or to help “test” their own learning (for example, by generating a quiz about a learning topic). One student wrote they use it
+Another said it is “another pair of eyes” to help them proofread and edit their work.
+
+
+
+      AI is now accessible to everyone: 3 things parents should teach their kids
+Students also appear to be very aware of the limitations of generative AI. As one respondent wrote:
+Students consistently noted issues with accuracy. These include “AI hallucinations” (when a tool generates nonsense or something false or misleading), biases and specific limitations. Students also noted generative AI technology is still developing capabilities when it comes to solving and checking complex maths and coding problems.
+Since the start of 2023, students have been more confident than academics in their knowledge of AI’s limitations (63% students, 39% academics), this confidence has only grown for students (88%) while academics have barely changed (46%).
+This is interesting, given universities have been encouraging academics to support students to understand AI’s limitations.
+While universities have scrambled to provide overarching policies, students who are using this technology want more specific, practical examples of what they are allowed to do with it.
+In the second semester, few students considered the use of generative AI in assessment as “cheating” (22% compared to 72% in first semester). However, many students commented the rules for what is “ethical” versus what is “cheating” are still unclear. One student told us:
+Academics in our survey agreed with this sentiment, calling on universities to develop clear guidelines around the use of generative AI.
+Students and academics both indicated they felt some universities had put the brakes on generative AI use. For those institutions allowing it, they felt the technology was not being incorporated meaningfully or obviously into teaching and learning. As one academic told us:
+Students also advised their universities to “embrace it”, “discuss it openly” and noted:
+
+      'Please do not assume the worst of us': students know AI is here to stay and want unis to teach them how to use it
+A growing concern for students is the potential for an uneven AI playing field. Some platforms, including ChatGPT, offer both free and paid models, with the latter being more advanced.
+As the Group of Eight (who represent Australia’s top research universities) has noted, there is a potential for “disparities in educational outcomes” with this technology – depending on who is able to afford a subscription and who is not.
+This is an issue that universities must grapple with as they look towards the future.
+Meanwhile, advances in this technology keep coming and will keep redefining the educational landscape. Universities will need to plan and manage how generative AI is used across many different disciplines.
+Important considerations include how generative AI could be used to optimise teaching and learning, opportunities for innovations in curriculum, assessment and research and potential uses for technology to support inclusion.
+Correction: an earlier version of this article reported incorrect figures for academics’ confidence in their knowledge of AI’s limitations. These have since been updated.

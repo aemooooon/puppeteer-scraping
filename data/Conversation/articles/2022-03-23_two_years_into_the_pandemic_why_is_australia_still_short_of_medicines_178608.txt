@@ -1,0 +1,33 @@
+This might be a familiar scene. You pop into your local pharmacy to fill a script and you’re told your regular medicine is out of stock. When will it be in? Sorry, we don’t have a date. But I’ll ring up your GP to see if she can authorise an alternative.
+This is a common conversation more than two years into the pandemic. So why, when our borders are open and planes are arriving from overseas with medicines on board, do we still have medicine shortages?
+This may be surprising, but medicine shortages have been an ongoing issue in Australia. The pandemic only made it more visible.
+For my PhD research, I looked at Australia’s pharmaceutical supply chain – the process of how medicines get from manufacturers to wholesalers and then to pharmacies.
+I interviewed 20 supply-chain experts from 15 Australian and multinational companies. Here’s what I found, and what we could be doing better.
+
+      I've heard COVID is leading to medicine shortages. What can I do if my medicine is out of stock?
+The Therapeutic Goods Administration database lists shortages of 263 medicines, with a critical shortage of 27 of them. Shortages of 65 more medicines are expected. The list is updated daily.
+
+
+However, the pandemic is not the root cause of medicine shortages. So 
+border openings will not solve the problem.
+Even before the pandemic, we were regularly seeing medicine shortages at similar levels.
+The pharmaceutical industry is fundamentally different from other industries. Developing medicines is an extremely lengthy process, with no guarantee of success. Some 90% of candidate drugs don’t complete clinical trials. Of those that do, not all make it to market.
+Some drugs are also “personalised” so they are better targeted to an individual patient’s needs. This means small quantities of tailored drugs may be needed.
+So organisations, such as drug manufacturers, wholesalers and hospitals, mainly rely on historical data to plan the production and distribution of medicines.
+However, Australia’s pharmaceutical supply chain is highly fragmented. There’s little coordination or data sharing among manufacturers, wholesalers and pharmacies. This leads to poor communication and incomplete or inaccurate information.
+For instance, manufacturers may have little or no access to pharmacy data and stock levels. So, they cannot adequately plan for medicine production, which can take from several months to a year.
+Australia also accounts for only 2% of the world’s drug market, a small one for 
+multinational pharmaceutical manufacturers. So their domestic suppliers generally keep a low stock due to short expiry dates and profit margins.
+The slightest disruption, such as disease outbreaks or natural disasters, can easily spike demands and cause a shortage. Pandemic-related supply chain disruptions only make the existing challenges worse.
+
+      Supermarket shortages are different this time: how to respond and avoid panic
+If a medicine is in short supply, there may be an alternative option a doctor can prescribe. But substituting medicines can lead to side effects, longer recovery times, longer stays in hospitals, and increased health-care costs.
+Some pharmacies and wholesalers overstock their warehouses if they anticipate a shortage. But that is costly and medicines might expire before they are used. These are only short-term solutions.
+So we need a system-wide and nationally coordinated approach among supply chain partners and the government to reduce the risk of medicine shortages.
+We could do this using artificial intelligence technologies such as “big data analytics” and sharing data across the pharmaceutical supply chain.
+Big data analytics can store and analyse a large array of data in different formats, from different sources, in real time. This would create an integrated database for all pharmaceutical supply-chain partners to have access to. This would allow all partners to monitor and predict demand in real time.
+For example, a pharmacist would be able to access a centralised database on their computer and check the current stock level and availability of a medicine in other pharmacies, or even manufacturers and distributors. This could even help predict medicine shortages way before they occur.
+For this to work, Australian pharmaceutical organisations need both robust IT and a skilled workforce that knows how to analyse and use the data. While this might be practical and affordable for pharmaceutical companies, this might not be the case for hospital or community pharmacies.
+So governments would need to support pharmacies and other smaller players – technically, financially, and with appropriate policies and regulations – to make sure they could access and use the data.
+The current pandemic may be adding additional stresses to an already stretched supply chain. But future pandemics and natural disasters, such as floods and bushfires, will also worsen medicine shortages.
+So we need to start planning now to create a resilient pharmaceutical supply chain that predicts medicine shortages and responds quickly.

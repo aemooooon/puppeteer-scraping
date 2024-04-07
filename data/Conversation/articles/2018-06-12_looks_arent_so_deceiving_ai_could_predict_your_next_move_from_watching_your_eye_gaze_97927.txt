@@ -1,0 +1,27 @@
+Our eyes often betray our intentions. Think of poker players hiding their “tells” behind sunglasses or goalkeepers monitoring the gaze of the striker to predict where they’ll shoot.
+In sports, board games, and card games, players can see each other, which creates an additional layer of social gameplay based on gaze, body language and other nonverbal signals.
+Digital games completely lack these signals. Even when we play against others, there are few means of conveying implicit information without words.
+
+      What eye tracking tells us about the way we watch films
+However, the recent increase in the availability of commercial eye trackers may change this. Eye trackers use an infra-red camera and infra-red LEDs to estimate where the user is looking on the screen. Nowadays, it is possible to buy accurate and robust eye trackers for as little as A$125.
+Eye trackers are also sold built into laptops and VR headsets, opening up many opportunities for incorporating eye tracking into video games. In a recent review article, we offered a catalogue of the wide range of game mechanics made possible by eye tracking.
+This paved the way for us to investigate how social signals emitted by our eyes can be incorporated into games against other players and artificial intelligence.
+To explore this, we used the digital version of the board game Ticket to Ride. In the game, players must build  tracks between specific cities on the board. However, because opponents might block your way, you must do your best to keep your intentions hidden.
+In a tabletop setting, if you are not careful, your opponent might figure out your plan based on how you look at the board. For example, imagine that your goal is to build a route between Santa Fe and Seattle. Our natural tendency is to look back and forth between those cities, considering alternative routes and the resources that you have in the cards in your hands.
+
+      A sixth sense? How we can tell that eyes are watching us
+In our recent paper, we found that when humans can see where their opponents are looking, they can infer some of their goals – but only if that opponent does not know that their eyes are being monitored. Otherwise, they start employing different strategies to try to deceive their opponent, including looking at a decoy route or looking all over the board.
+We wanted to see if a game AI could use this information to better predict the future moves of other players, building upon previous models of intention recognition in AI.
+Most game AIs use the player’s actions to predict what they may do next. For example, in the figure below on the left, imagine a player is claiming routes to go from Sante Fe to some unknown destination on the map. The AI’s task is to determine which city is the destination.
+When at Santa Fe, all of the possible destinations are equally likely. After getting to Denver, it becomes less likely that they want to go to Oklahoma City, because they could have taken a much more direct route. If they then travel from Denver to Helena, then Salt Lake city becomes much less likely, and Oklahoma City even less.
+In our model, we augmented this basic model to also consider where this player is looking.
+The idea is simple: if the player is looking at a certain route, the more likely the player will try to claim that route. As an example, consider the right side of the figure. After going to Denver, our eye-tracking system knows that the player has been looking at the route between Seattle and Helena, while ignoring other parts of the map. This tells us that it is more likely that they take this route and end up in Seattle.
+Our AI increases the relative likelihood of this action, while decreasing others. As such, its prediction is that the next move will be to Helena, rather than to Salt Lake City. You can read more about the specifics in our paper.
+We evaluated how well our AI could predict the next move in 20 Ticket To Ride two-player games. We measured the accuracy of our predictions and how early in the game they could be made.
+
+      Eye tracking is the next frontier of human-computer interaction
+The results show that the basic model of intention recognition correctly predicted the next move 23% of the time. However, when we added gaze to the mix, the accuracy more than doubled, increasing to 55%.
+Further, the gaze model was able to predict the correct destination city earlier than the basic model, with the AI that used gaze recognising intentions a minute and a half earlier than the one without gaze. These results demonstrate that using gaze can be used to predict action much better and faster than just using past actions alone.
+Recent unpublished results show that the gaze model also works if the person being observed knows that they are being observed. We have found that the deception strategies that players employ to make it more difficult for other players to determine their intentions do not fool AIs as well as they fool humans.
+This idea can be applied in contexts other than games. For example, collaborative assembly between robots and humans in a factory.
+In these scenarios, a person’s gaze will naturally lead to earlier and more accurate prediction by the robot, potentially increasing safety and leading to better coordination.

@@ -1,0 +1,28 @@
+Imagine this: a novel virus is rapidly breaking out nationwide, resulting in an epidemic. The government introduces vaccination mandates and a choice of different vaccines is available.
+But not everyone is getting the same vaccine. When you sign up for vaccination, you are sent a vial with instructions to send a sample of your saliva to the nearest laboratory. Just a few hours later you receive a message telling you which vaccine you should get. Your neighbour also signed up for vaccination. But their vaccine is different from yours.
+Both of you are now vaccinated and protected, although each of you received your vaccines depending on “who you are”. Your genetics, age, gender, and myriad of other factors are captured in a “model” that predicts and determines the best option to protect you from the virus.
+It all sounds a bit like science fiction. But since the decoding of the human genome in 2003, we have entered the age of precision prevention.
+New Zealand has a long-standing newborn screening programme. This includes genome sequencing machines available nationwide and a genetic health service. Programmes such as these open up the possibilities of public health genomics and precision public health for everyone.
+The further expansion of these programmes, as well as the expansion of the use of artificial intelligence and machine learning to enable a shift to more personalised preventive care, will change how public health care is delivered.
+At the same time, these developments raise wider concerns over individual choice versus the greater good, personal privacy, and who is responsible for the protection of New Zealanders and their health information.
+
+Think of precision prevention (also known as personalised prevention) as public health action tailored to the individual rather than broader groups of society.
+This targeted healthcare is achieved by balancing a range of variables (including your genes, life history and environment) with your risks (including everything that changes within you as you grow older).
+While advances in genomics are making precision prevention possible, machine learning algorithms fuelled by our personal data have made it closer to a reality.
+
+      It's 2030, and precision medicine has changed health care – this is what it looks like
+We generate data about ourselves every day – via social media, smartwatches and other wearable devices – helping to train algorithms to match medical prevention measures with individuals.
+Combine all of these with AI-driven predictive modelling, and you have a system that can predict the current and future state of your health with an eerie level of accuracy, and help you take steps to prevent disease.
+The Prime Minister’s Chief Science Advisor recently published a report mapping out the landscape of artificial intelligence and machine learning in New Zealand over the next five years.
+While the report authors didn’t specifically reference “precision prevention”, they did include examples of this approach, such as computer vision augmented mammography.
+But as the report suggests, adoption tends to fall behind the pace of innovation in AI. Te Whatu Ora–Health New Zealand has also not approved emerging large language models and generative artificial intelligence tools as safe and effective for use in healthcare.
+This means generative AI-driven precision prevention practices, such as conversational AI for public health messaging, may have to wait before they can be deemed safe to use.
+There is much to be excited about the prospects of the use of artificial intelligence and machine learning in ushering in a new age of precision prevention and preventive health. But at the same time, we must temper this with caution.
+Artificial intelligence and machine learning may increase access and utilisation of healthcare by lowering barriers to medical knowledge and reducing human bias. But government and medical agencies need to reduce barriers related to digital literacy and access to online platforms.
+For those with limited access to online resources or who have limited digital literacy, the already existent inequity of access to care and health could worsen.
+Artificial intelligence also has a significant environmental impact. One study found several common large AI models can emit over 270,000 tonnes of carbon dioxide during their life cycle.
+
+      These scientists are using DNA to target new drugs for your genes – Medicine made for you part 1
+Finally, technology is a shifting landscape. Proponents of precision healthcare must be careful with children and marginalised communities and their access to resources. Maintaining privacy and choice is essential – everyone should be in a position to control what they share with the AI agents.
+In the end, each of us is different, and we all have our different needs for our health and for our lives. Moving more people to preventive care through precision healthcare will reduce the financial burden on the health system.
+But as the report from the prime minister’s chief science officer emphasises, machine learning algorithms are a nascent field. We need more public education and awareness before the technology becomes part of our everyday lives.

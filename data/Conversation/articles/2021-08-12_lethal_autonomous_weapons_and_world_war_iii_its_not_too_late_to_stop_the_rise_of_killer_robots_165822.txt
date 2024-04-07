@@ -1,0 +1,25 @@
+Last year, according to a United Nations report published in March, Libyan government forces hunted down rebel forces using “lethal autonomous weapons systems” that were “programmed to attack targets without requiring data connectivity between the operator and the munition”. The deadly drones were Turkish-made quadcopters about the size of a dinner plate, capable of delivering a warhead weighing a kilogram or so.
+Artificial intelligence researchers like me have been warning of the advent of such lethal autonomous weapons systems, which can make life-or-death decisions without human intervention, for years. A recent episode of 4 Corners reviewed this and many other risks posed by developments in AI.
+Around 50 countries are meeting at the UN offices in Geneva this week in the latest attempt to hammer out a treaty to prevent the proliferation of these killer devices. History shows such treaties are needed, and that they can work.
+Scientists are pretty good at warning of the dangers facing the planet. Unfortunately, society is less good at paying attention.
+In August 1945, the United States dropped atomic bombs on the Japanese cities of Hiroshima and Nagasaki, killing up to 200,000 civilians. Japan surrendered days later. The second world war was over, and the Cold War began.
+
+      World politics explainer: The atomic bombings of Hiroshima and Nagasaki
+The world still lives today under the threat of nuclear destruction. On a dozen or so occasions since then, we have come within minutes of all-out nuclear war.
+Well before the first test of a nuclear bomb, many scientists working on the Manhattan Project were concerned about such a future. A secret petition was sent to President Harry S. Truman in July 1945. It accurately predicted the future:
+Billions of dollars have since been spent on nuclear arsenals that maintain the threat of mutually assured destruction, the “continuous danger of sudden annihilation” that the physicists warned about in July 1945.
+Six years ago, thousands of my colleagues issued a similar warning about a new threat. Only this time, the petition wasn’t secret. The world wasn’t at war. And the technologies weren’t being developed in secret. Nevertheless, they pose a similar threat to global stability.
+
+      Open letter: we must stop killer robots before they are built
+The threat comes this time from artificial intelligence, and in particular the development of lethal autonomous weapons: weapons that can identify, track and destroy targets without human intervention. The media often like to call them “killer robots”.
+Our open letter to the UN carried a stark warning.
+
+      World's deadliest inventor: Mikhail Kalashnikov and his AK-47
+Strategically, autonomous weapons are a military dream. They let a military scale its operations unhindered by manpower constraints. One programmer can command hundreds of autonomous weapons. An army can take on the riskiest of missions without endangering its own soldiers.
+There are many reasons, however, why the military’s dream of lethal autonomous weapons will turn into a nightmare. First and foremost, there is a strong moral argument against killer robots. We give up an essential part of our humanity if we hand to a machine the decision of whether a person should live or die.
+Beyond the moral arguments, there are many technical and legal reasons to be concerned about killer robots. One of the strongest is that they will revolutionise warfare. Autonomous weapons will be weapons of immense destruction.
+Previously, if you wanted to do harm, you had to have an army of soldiers to wage war. You had to persuade this army to follow your orders. You had to train them, feed them and pay them. Now just one programmer could control hundreds of weapons.
+In some ways lethal autonomous weapons are even more troubling than nuclear weapons. To build a nuclear bomb requires considerable technical sophistication. You need the resources of a nation state, skilled physicists and engineers, and access to scarce raw materials such as uranium and plutonium. As a result, nuclear weapons have not proliferated greatly.
+Autonomous weapons require none of this, and if produced they will likely become cheap and plentiful. They will be perfect weapons of terror.
+Can you imagine how terrifying it will be to be chased by a swarm of autonomous drones? Can you imagine such drones in the hands of terrorists and rogue states with no qualms about turning them on civilians? They will be an ideal weapon with which to suppress a civilian population. Unlike humans, they will not hesitate to commit atrocities, even genocide.
+We stand at a crossroads on this issue. It needs to be seen as morally unacceptable for machines to decide who lives and who dies. And for the diplomats at the UN to negotiate a treaty limiting their use, just as we have treaties to limit chemical, biological and other weapons. In this way, we may be able to save ourselves and our children from this terrible future.

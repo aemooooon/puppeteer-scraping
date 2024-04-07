@@ -1,0 +1,27 @@
+Four tiger sharks have now been captured and killed following two separate attacks off the coast of North Queensland last week. Despite being relatively rare, shark attacks – or the threat of attacks – not only disrupt recreational beach activities, but can affect associated tourist industries.
+Shark nets are a common solution to preventing shark attacks on Australian beaches, but they pose dangers to marine ecosystems.
+
+      Not just nets: how to stop shark attacks without killing sharks
+Seeking a cost-effective way to monitor beach safety over large areas, we have developed a system called SharkSpotter. It combines artificial intelligence (AI), computing power, and drone technology to identify and alert lifesavers to sharks near swimmers.
+SharkSpotter was named the national AI or Machine Learning Innovation of the Year at the Australian Information industry Association (AIIA) annual iAwards this month.
+The project is a collaboration between the University of Technology Sydney and The Ripper Group, which is pioneering the use of drones – called “Westpac Little Ripper Lifesavers” – in the search and rescue movement in Australia.
+SharkSpotter can detect sharks and other potential threats using real-time aerial imagery. The system analyses streaming video from a camera attached to a drone (an unmanned aerial vehicle, or UAV) to monitor beaches for sharks, issue alerts, and conduct rescues.
+Developed using machine learning techniques known as “deep learning”, the SharkSpotter system receives streaming imagery from the drone camera and attempts to identify all objects in the scene. Once valid objects are detected, they are put into one of 16 categories: shark, whale, dolphin, rays, different types of boats, surfers, and swimmers.
+
+      A guide to using drones to study wildlife: first, do no harm
+If a shark is detected, SharkSpotter provides both a visual indication on the computer screen and an audible alert to the operator. The operator verifies the alert and sends text messages from the SharkSpotter system to the Surf Life Savers for further action.
+In an emergency, the drone is equipped with a lifesaving flotation pod together with an electronic shark repellent that can be dropped into the water in cases where swimmers are in severe distress, trapped in a rip, or if there are sharks close by.
+The development of SharkSpotter involved several stages.
+Among the most time-consuming tasks was collecting and annotating the necessary data. The data were collected by The Ripper Group by flying a drone with a camera attached to it above different Australian beaches.
+We then manually annotated each video to indicate the specific location of sharks and other objects. The video frames and the annotations were then used to train the deep learning algorithm to correctly identify and classify objects.
+These advanced machine learning techniques significantly improve aerial detection to more than 90% accuracy. That’s much better than conventional techniques such as helicopters with human spotters (17.1%) and fixed-wing aircraft spotters (12.5%).
+
+      How drones can help fight the war on shark attacks
+We tested the system at different Australian beaches to determine the varying parameters, such as camera resolution, height above sea level (which can affect the vision clarity of drones), speed and flight duration.
+After successful trials and fine-tuning of the system, SharkSpotter was used across a dozen popular beaches in New South Wales and Queensland last summer.
+The system was developed to help Surf Life Savers monitor the beach more effectively – as opposed to replacing them – and has been received positively by end-users and communities alike, according to a survey conducted by The Ripper Group.
+In January 2018, the Westpac Little Ripper Lifesaver was used to rescue two young swimmers caught in a rip at Lennox Head, NSW.
+The drone flew down the beach some 800 metres from the lifeguard station, and a lifesaving flotation pod was dropped from the drone. The complete rescue operation took 70 seconds.
+We believe SharkSpotter is a win-win for both marine life and beachgoers. From a technology perspective, it has demonstrated how to detect moving objects in a complex, dynamic marine environment from a fast-moving drone.
+This unique technology combines dynamic video image processing AI and advanced drone technology to creatively address the global challenge of ensuring safe beaches, protecting marine environments, and enhancing tourism.
+The authors would like to acknowledge the contributions of Dr Paul Scully Power, co-founder of The Ripper Group, who partnered in the development of SharkSpotter.

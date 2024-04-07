@@ -1,0 +1,23 @@
+Care to guess what is the world’s fastest growing industry? Health care? Biotech? Energy? Nope. According to a recent report, it’s robotics.
+And those robots are slowly but surely putting people out of work. Recent research at the University of Oxford suggests that nearly half of all jobs are at risk from automation.
+Ironically this research used some advanced machine learning techniques to estimate which professions were most at risk of being automated in the next 20 years. Even the task of estimating which jobs are most at risk is being automated!
+So what are the jobs most at risk? One was telemarketer. Now this might sound like a great thing. Fewer people will interrupt your dinner trying to sell you cable TV. Unfortunately robotic telemarketers will make it even easier and cheaper for organisations with something to sell to call you.
+Another job at risk was tax agent. Again, who will be sad that they no longer have to see their tax agent once a year? Rather, we’ll have our computer file our tax automatically.
+A third job at risk was cook. Cook! Sure, robots will make great chefs. Even in a fancy restaurant, the challenge is to turn out the same dish repeatedly. And robots are great at repetition.
+A fourth job identified by the report at risk is real estate broker. Again, few of us are probably going to be too sad about this.
+Of course, historically, whenever jobs get destroyed by new technology, other jobs get created. Computer typesetting has put a lot of printers out of work. But we now have loads of new jobs enabled by computer typesetting like web designer and ebook publisher.
+In the past, new technologies have tended to create more jobs than they have destroyed. As a consequence, despite populations increasing across the world, most of us still manage to find employment. But it’s much less certain that this will be true for the information revolution currently underway.
+In the past, new technologies cost a lot. And it took a lot of effort to put them to use. Steam engines were neither cheap nor easy to put into the factory of old. But computer software can be reproduced at almost no cost. And computer hardware just gets cheaper and cheaper.
+In response to these concerns, a recent report from PwC has recommended we should future proof Australian jobs by growing skills in science, technology, engineering and maths (STEM).
+STEM jobs were some of the most future proof jobs identified by the researchers at the University of Oxford. But they weren’t the most safe jobs. In fact, some of the activities machines are best at are the kinds of tasks done by people in STEM.
+One of the safest jobs, on the other hand, was social worker. People skills is one area in which robots are most challenged. Another very safe job was physician.
+Sure, we’ll all consult Dr Google (or Dr Watson) more and more often. But we’ll still want to get a “proper” opinion from a real, highly trained doctor.
+A third very safe job was teacher. Again, it’s back to people skills.
+There are several arguments for why we do need to invest more in STEM education.
+First, it leads to some of the safest jobs. Second, STEM is likely to help grow the economy. Third, STEM will drive innovation and productivity, both of which are desperately needed by Australia to compete in the 21st century. And as a person working in STEM education, I agree with these arguments, and would welcome more focus on STEM.
+However, there are also arguments that we need to invest more in the humanities.
+First, STEM needs people people: interface designers; creative types, etc. It’s not just geeks that are needed in the internet and smartphone enabled future of tomorrow.
+Second, STEM isn’t for everyone, and there are many even safer jobs beyond STEM.
+Third, if robots are going to reduce how much we work, the humanities will help us fill time that we are not working in constructive ways.
+Wouldn’t that be great? If the 21st century became famous for an explosion in great works of art, paintings that changed the way we see the world, symphonies that make us weep, and plays that touch the soul? Robots might one day be able to help make such art, too.
+The Oxford report estimated only a 4% chance that fine artists will be automated in the next 20 years, and 2% for a composer. But even then, we can still appreciate such art and everybody wins.

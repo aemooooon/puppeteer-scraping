@@ -1,0 +1,43 @@
+I’m a geek. And as a geek, I love my tech toys. But over time I’ve noticed toys are becoming harder to understand.
+Some modern toys resemble advanced devices. There are flying toys, walking toys, and roving toys. A number of these require “configuring” or “connecting”.
+The line between toy, gadget and professional device is blurrier than ever, as manufacturers churn out products including drones for kids and plush toys with hidden nanny cams.
+
+      Looking for a high-tech gift for a young child? Think playgrounds, not playpens
+With such a variety of sophisticated, and sometimes over-engineered products, it’s clear manufacturers have upped their game.
+But why is this happening?
+Toys these days seem to be designed with two major components in mind. It’s all about the smarts and rapid manufacture.
+In modern toys, we see a considerable level of programmed intelligence. This can be used to control the toy’s actions, or have it respond to input to provide real time feedback and interaction – making it appear “smarter”.
+This is all made possible by the falling price of technology.
+Once upon a time, placing a microcontroller (a single chip microprocessor) inside a toy was simply uneconomical.
+These days, they’ll only set you back a few dollars and allow significant computing power.
+Microcontrollers are often WiFi and Bluetooth enabled, too. This allows “connected” toys to access a wide range of internet services, or be controlled by a smartphone.
+Another boon for toy manufacturers has been the rise of prototype technologies, including 3D modelling, 3D printing, and low cost CNC (computer numerical control) milling.
+These technologies allow the advanced modelling of toys, which can help design them to be “tougher”.
+
+      Not child’s play: The serious innovation behind toy making
+They also allow manufacturers to move beyond simple (outer) case designs and towards advanced multi-material devices, where the case of the toy forms an active part of the toy’s function.
+Examples of this include hand grips (found on console controls and toys including Nerf Blasters), advanced surface textures, and internal structures which support shock absorption to protect internal components, such as wheel suspensions in toy cars.
+Many recent advancements in toys are there to appease our admiration of automatons, or self operating machines.
+The idea that an inanimate object is transcending its static world, or is “thinking”, is one of the magical elements that prompts us to attach emotions to toys.
+And manufacturers know this, with some toys designed specifically to drive emotional attachment. My favourite example of this is roaming robots, such as the artificially intelligent Anki Vector.
+With sensors and internet connectivity, the Vector drives around and interacts with its environment, as well as you. It’s even integrated with Amazon Alexa.
+Another sophisticated toy is Sony’s Aibo. This robot pet shows how advanced robotics, microelectronics, actuators (which allow movement), sensors, and programming can be used to create a unique toy experience with emotional investment.
+Toy manufacturers are also leveraging the rise of smartphones and portable computing.
+Quadcopters (or drones) and other similar devices often don’t need to include their own display in the remote control, as video can be beamed to an attached device.
+Some toys even use smartphones as the only control interface (used to control the toy), usually via an app, saving manufacturers from having to provide what is arguably the most expensive part of the toy.
+This means a smartphone becomes an inherent requirement, without which the toy can’t be used.
+It would be incredibly disappointing to buy a cool, new toy - only to realise you don’t own the very expensive device required to use it.
+While spying may be the last thing you consider when buying a toy, there have been several reports of talking dolls recording in-home conversations.
+There are similar concerns with smart-home assistants such as Amazon Alexa, Google Assistant and Apple’s Siri, which store your voice recordings in the cloud.
+These concerns might also be warranted with toys such as the Vector, and Aibo.
+In fact, anything that has a microphone, camera or wireless connectivity can be considered a privacy concern.
+
+      Just like HAL, your voice assistant isn't working for you even if it feels like it is
+We’ve established toys are becoming more sophisticated, but does that mean they’re getting better?
+Various reports indicate in 2020, artificial intelligence (AI) and machine learning will continue to be pervasive in our lives.
+This means buying toys could become an even trickier task than it currently is. There are some factors shoppers can consider.
+On the top of my list of concerns is the type and number of batteries a toy requires, and how to charge them.
+If a device has in-built lithium batteries, can they be easily replaced? And if the toy is designed for outdoors, can it cope with the heat? Most lithium-ion batteries degrade quickly in hot environments.
+And does the device require an additional screen or smartphone?
+It’s also worth being wary of what personal details are required to sign-up for a service associated with a toy - and if the toy can still function if its manufacturer should cease to exist, or the company should go bust.
+And, as always, if you’re considering an advanced, “connected” toy, make sure to prioritise your security and privacy.

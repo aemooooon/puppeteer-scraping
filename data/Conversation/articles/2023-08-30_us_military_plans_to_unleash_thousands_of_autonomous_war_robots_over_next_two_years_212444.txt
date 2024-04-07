@@ -1,0 +1,32 @@
+The United States military plans to start using thousands of autonomous weapons systems in the next two years in a bid to counter China’s growing power, US Deputy Secretary of Defense Kathleen Hicks announced in a speech on Monday.
+The so-called Replicator initiative aims to work with defence and other tech companies to produce high volumes of affordable systems for all branches of the military.
+Military systems capable of various degrees of independent operation have become increasingly common over the past decade or so. But the scale and scope of the US announcement makes clear the future of conflict has changed: the age of warfighting robots is upon us.
+Over the past decade, there has been considerable development of advanced robotic systems for military purposes. Many of these have been based on modifying commercial technology, which itself has become more capable, cheaper and more widely available.
+More recently, the focus has shifted onto experimenting with how to best use these in combat. Russia’s war in Ukraine has demonstrated that the technology is ready for real-world deployment.
+
+      Ukraine war: drones are changing the conflict – both on the frontline and beyond
+Loitering munitions, a form of robot air vehicle, have been widely used to find and attack armoured vehicles and artillery. Ukrainian naval attack drones have paralysed Russia’s Black Sea fleet, forcing their crewed warships to stay in port.
+Military robots are an idea whose time has come.
+In her speech, Hicks talked of a perceived urgent need to change how wars are fought. She declared, in somewhat impenetrable Pentagon-speak, that the new Replicator program would
+Decoding this, “autonomous” means a robot that can carry out complex military missions without human intervention.
+“Attritable” means the robot is cheap enough that it can be placed at risk and lost if the mission is of high priority. Such a robot is not quite designed to be disposable, but it would be reasonably affordable so many can be bought and combat losses replaced.
+Finally, “multiple domains” means robots on land, at sea, in the air and in space. In short, robots everywhere for all kinds of tasks.
+For the US military, Russia is an “acute threat” but China is the “pacing challenge” against which to benchmark its military capabilities.
+China’s People’s Liberation Army is seen as having a significant advantage in terms of “mass”: it has more people, more tanks, more ships, more missiles and so on. The US may have better-quality equipment, but China wins on quantity.
+By quickly building thousands of “attritable autonomous systems”, the Replicator program will now give the US the numbers considered necessary to win future major wars.
+The imagined future war of most concern is a hypothetical battle for Taiwan, which some postulate could soon begin. Recent tabletop wargames have suggested large swarms of robots could be the decisive element for the US in defeating any major Chinese invasion.
+However, Replicator is also looking further ahead, and aims to institutionalise mass production of robots for the long term. Hicks argues:
+One great concern about autonomous systems is whether their use can conform to the laws of armed conflict.
+Optimists argue robots can be carefully programmed to follow rules, and in the heat and confusion of combat they may even obey better than humans.
+Pessimists counter by noting not all situations can be foreseen, and robots may well misunderstand and attack when they should not. They have a point.
+Among earlier autonomous military systems, the Phalanx close-in point defence gun and the Patriot surface-to-air missile have both misperformed.
+
+      AI researchers should not retreat from battlefield robots, they should engage them head-on
+Used only once in combat, during the first Gulf War in 1991, the Phalanx fired at a chaff decoy cloud rather than countering the attacking anti-ship missile. The more modern Patriot has proven effective in shooting down attacking ballistic missiles, but also twice shot down friendly aircraft during the second Gulf War in 2003, killing their human crews.
+Clever design may overcome such problems in future autonomous systems. However, Hicks promised a “responsible and ethical approach to AI and autonomous systems” in her speech – which suggests any system able to kill targets will still need formal authorisation from a human to do so.
+The US may be the first nation to field large numbers of autonomous systems, but other countries will be close behind. China is an obvious candidate, with great strength in both artificial intelligence and combat drone production.
+However, because much of the technology behind autonomous military drones has been developed for civilian purposes, it is widely available and relatively cheap. Autonomous military systems are not just for the great powers, but could also soon be fielded by many middle and smaller powers.
+Libya and Israel, among others, have reportedly deployed autonomous weapons, and Turkish-made drones have proved important in the Ukraine war.
+Australia is another country keenly interested in the possibilities of autonomous weapons. The Australian Defence Force is today building the MQ-28 Ghostbat autonomous fast jet air vehicle, robot mechanised armoured vehicles, robot logistic trucks and robot submarines, and is already using the Bluebottle robot sailboat for maritime border surveillance in the Timor Sea.
+And in a move that foreshadowed the Replicator initiative, the Australian government last month called for local companies to suggest how they might build very large numbers of military aerial drones in-country in the next few years.
+At least one Australian company, SYPAQ, is already on the move, sending a number of its cheap, cardboard-bodied drones to bolster Ukraine’s defences.

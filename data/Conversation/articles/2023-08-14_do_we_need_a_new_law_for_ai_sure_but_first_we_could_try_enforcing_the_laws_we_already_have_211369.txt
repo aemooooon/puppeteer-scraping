@@ -1,0 +1,28 @@
+Regulation was once a dirty word in tech companies around the world. They argued that if people wanted better smartphones and flying cars, we had to look past dusty old laws dreamed up in the pre-internet era.
+But something profound is afoot. First a whisper, and now a roar: the law is back.
+Ed Husic, Australia’s federal minister responsible for tech policy, is leading a once-in-a-generation review of Australian law, asking Australians how our law should change for the AI era. He recently told the ABC, “I think the era of self-regulation is over.”
+Sure, there were caveats. Husic made clear that regulation for AI should focus on “high-risk elements” and “getting the balance right”. But the rhetorical shift was unmistakable: if we had allowed the creation of some kind of digital wild west, it must end.
+One moment might sum up the dawn of this new era. On May 16, Sam Altman – chief executive of OpenAI, the company responsible for ChatGPT – declared in the US Congress, “regulation of AI is essential”.
+On its face, this seems like a stunning transformation. Less than a decade ago, Facebook’s motto was “move fast and break things”. When its founder, Mark Zuckerberg, uttered those words he spoke for a generation of Silicon Valley tech bros who saw the law as a handbrake on innovation.
+Reform is urgent, and so we need to seize this moment. But first we should ask why the tech world has suddenly become enamoured with regulation.
+One explanation is tech leaders can see that, without more effective regulation, the threats associated with AI could overshadow its positive potential.
+
+We have recently had tragic reminders of the value of regulation. Think of OceanGate, the company behind the Titanic-seeking submersible that disintegrated earlier this year, killing everyone on board. OceanGate avoided safety certification because “bringing an outside entity up to speed on every innovation before it is put into real-world testing is anathema to rapid innovation”.
+Maybe there has been a genuine change of heart: tech companies certainly know their products can harm as well as help. But something else is also at play. When tech companies call for governments to make laws for AI, there is an unstated premise: currently, there are no laws that apply to AI.
+But this is plain wrong.
+Our current laws make clear that no matter what form of technology is used, you cannot engage in deceptive or negligent behaviour.
+Say you advise people on choosing the best health insurance policy, for example. It doesn’t matter whether you base your advice on an abacus or the most sophisticated form of AI, it’s equally unlawful to take secret commissions or provide negligent advice.
+
+      Calls to regulate AI are growing louder. But how exactly do you regulate a technology like this?
+A significant part of the problem in the AI era is not the content of our law, but the fact it is not consistently enforced when it comes to the development and use of AI. This means regulators, courts, lawyers and the community sector need to up their game to ensure human rights and consumer protections are being enforced effectively for AI.
+This will be a big job. In our submission to the government’s AI review, we at the University of Technology Sydney Human Technology Institute call for the creation of an AI Commissioner – an independent expert advisor to government and the private sector. This body would cut through the hype and white noise, and give clear advice to regulators and to businesses on how to use AI within the letter and spirit of the law.
+Australia has experienced a period of extreme policy lethargy on the AI front. While the European Union, North America and several countries in Asia (including China) have been creating legal guardrails, Australia has been slow to act.
+In this context, the review of regulation for AI is crucial. We shouldn’t mindlessly copy other jurisdictions, but our law should ensure parity of protection for Australians.
+This means the Australian parliament should adopt a legal framework that is suitable for our political and legal system. If this means departing from the EU draft AI Act, all well and good, but our law must protect Australians from the risks of AI at least as effectively as people are protected in Europe.
+
+      EU approves draft law to regulate AI – here's how it will work
+Personal information is the fuel for AI, so the starting point should be to update our privacy law. The Attorney-General’s Department has published a review that would modernise our privacy law, but we are yet to see any commitment for change.
+Reform is particularly urgent for high-risk uses of AI, such as facial recognition technology. A series of investigations by CHOICE has shown companies are increasingly using this tech in shopping centres, sports stadiums and in the workplace – without proper protection against unfairness or mass surveillance.
+There are clear reform solutions that enable safe use of facial recognition, but we need political leadership.
+Government must also set a good example. The Robodebt Royal Commission showed in harrowing detail how the federal government’s automated system of recovering debts in the welfare system went horribly wrong, with enormous and widespread harm to the community.
+The lesson from this experience isn’t that we should throw out all the computers. But it does show we need clear, strong guardrails that ensure government leads the way in using AI safely and responsibly.

@@ -1,0 +1,32 @@
+I teach managing technological innovation in Simon Fraser University’s Management of Technology MBA program. Thanks to the explosion of generative artificial intelligence, I’m rewriting my 2023 syllabus and assignments.
+No matter our industry or field, we should regularly review our tools and workflows. New tools, like AI, are excellent triggers for this assessment. Sorting out how best to adjust our work, as per the values and existing norms of different fields, takes a systematic approach.
+My research examines how companies can adjust how they use talent, technology and technique to hit work targets and stay aligned with the times — what I’ve called thinking in 5T.
+Educators in MBA programs, who are concerned with building students’ professional capacities, can also use this lens to support the critical thinking that students need. We can help students consider how and when to use AI in their academic and professional lives.
+ChatGPT, DALL-E and Writesonic are examples of publicly available generative AI. These are “generative” in that humans provide a prompt and the AI outputs text or images based on machine learning.
+I didn’t think to mention generative AI in my September 2022 syllabus. Class discussions included my expectation that students would use Grammarly or other proofreading tools to support their professional writing.
+We discussed different citation styles for business writing and how incorrectly citing sources can negatively affect one’s career.
+Some students asked whether Grammarly’s more sophisticated ability to rewrite sentences was a problem. I said, no, it’s an innovation course and we should use the tools we have.
+The 5T framework is my modernized presentation of sociotechnical systems theory — a theory describing how workers and leaders must manage social and technical aspects of work to achieve performance and well-being.
+Thinking in 5T means you set a target and then consider:
+Research suggests that people who are more systems savvy have a greater ability to see the connections across these different domains and construct synergies appropriate for their work.
+Thinking in 5T means you never expect a “silver bullet” change to work: for example, just blocking ChatGPT on an organization’s network with no other adjustments. Instead, you look to manage all aspects of your human and technological variables.
+My target is for my students to improve their ability to identify and evaluate existing innovations and create valuable new ones.
+To date, my syllabus has said “your final submission must be your individual work and words,” but now I will need to clarify what this means.
+I agree with Kevin Kelly of Wired that asking ChatGPT how to do things — in technical terms, writing AI prompts — requires work and expertise. We also need to be careful consumers of what the generative AI produce.
+Generative AI are often wrong. Both students of innovation and business professionals will need to understand how the tools generate responses to assure factual answers and correct references.
+
+      Unlike with academics and reporters, you can't check when ChatGPT's telling the truth
+Beyond fact-checking, my students must use critical thinking and show they can apply course concepts. As I teach innovation skills, we can cover how to engage with ChatGPT and other generative AI effectively.
+My innovation students create personalized templates that allow them to take course concepts, apply them in the real world and improve the application of these concepts throughout their careers. How might students write an AI prompt for ChatGPT to help them use design thinking in their work?
+An effective ChatGPT prompt would be: “Create a playbook to support design thinking. Include alternatives for expert versus novice team members and teams working virtually versus face to face.”
+Such a prompt guides ChatGPT to return a response drawing on both the social and technical aspects of work — the thinking in 5T approach from my course.
+While academic discussions are ongoing about the ethical and knowledge implications of using generative AI, academic integrity does provide some firm boundaries.
+
+      Unlike with academics and reporters, you can't check when ChatGPT's telling the truth
+For example, at Simon Fraser University, students must demonstrate “a commitment not to engage in or tolerate acts of falsification, misrepresentation or deception.”
+In my course, the notion of “individual work” must change.
+I’ll be adjusting the assignments and requiring an appendix describing the toolkit and practices students use. Using AI is not cheating in my course, but misrepresenting your sources is.
+The AI will get better, and there will be more of them. Guidelines in work and education need to keep pace and be thoughtfully aligned to how knowledge is constructed in different fields.
+We’re learning that some journals won’t accept AI as credited authors. Other publishers have announced that while you can’t list ChatGPT as an author, AI tools can be used in some stages of preparation, as long as you disclose this in the manuscript.
+We need the various manuals of style to update their rules to include work generated by an AI. Given the pace of AI change, writers may need to highlight the specific versions of the AI they use (much as the APA Style requests dates for Wikipedia articles).
+I like an approach some photographers use: share your tools and critical settings.

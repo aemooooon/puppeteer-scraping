@@ -1,0 +1,30 @@
+After a month of sometimes deadly demonstrations against inequality, Chile may be making its way toward peace.
+A coalition of parties from across the political spectrum says it will support a constitutional referendum next year to decide whether and how Chile’s 1980 Constitution should be changed in response to protester demands.
+
+      Estallido social en Chile: discursos de Piñera bajo la lupa de la inteligencia artificial
+Chile’s protest movement, which killed about 23 people, according to the attorney general’s office, began on Oct. 18, 2019 with mass fare evasions on the Santiago Metro after an increase of 30 Chilean pesos – about US$0.04 – on the price of rush hour tickets.
+On that day, which ended with 20 subway stations and more than 15 buses set aflame across the capital, President Sebastián Piñera made his first crisis-time speech to the Chilean people: He decreed a state of emergency in Santiago.
+Over the next week, Piñera would make a series of speeches aimed – unsuccessfully,  it turns out – at quelling the crisis.
+Demonstrations, looting and fires occurred in various cities after the transit uprising in Santiago, resulting in curfews being declared across the country on Oct. 19. Chile’s Armed Forces took to the streets to try to restore order and to prevent – during certain hours – free movement through the streets.
+That day, President Piñera announced that he would suspend the rise in transit fares. Still, the violence continued. On Oct. 20, the first protest-related deaths were reported in Chile, and human rights organizations began to denounce abuse of authority.
+That night, in a press conference at a military base, Piñera made what would be come to be notorious statement: “We are at war against a powerful enemy,” he said.
+This bellicose message triggered a powerful citizen reaction. Across Chile, people took to the streets and social media in peacful protest, declaring “#noestamosenguerra” –  #wearenotatwar.
+This negative response, coupled with protester demands to combat Chile’s extreme inequality, forced Piñera to radically change his tone.
+On Tuesday, Oct. 22, the Chilean president made his fourth speech in as many days. First, he apologized to the country for his previous speech. Then, he announced a series of short-term measures to combat inequality.
+Javier Mansilla and Claudio Manríquez, industrial civil engineers at Chile’s Universidad del Bío-Bío, conducted an analysis of Piñera’s speeches during the first week of the Chilean crisis.
+Feeding transcript of subtitles from videos of Piñera’s speeches posted on YouTube into an artificial intelligence system developed from mathematical algorithms and computer science models specialized in feeling analysis, they studied the presidential messages from Friday Oct. 18, Saturday Oct. 19 , Sunday Oct. 20 and Tuesday Oct. 22.
+The aim, says Manríquez, who is also a data scientist at the digital data processing company Krino, was to understand “how different phrases from different speeches were interrelated.”
+“This study allows us to understand the position of the president and the attitude he takes in different situations, without having to listen to each speech,” adds Mansilla, CEO and founder of Krino.
+To study the feelings reflected in Pinera’s presidential speeches, Mansilla and Manríquez referred to Robert Plutchik’s Wheel of Emotions – a model of emotional intelligence discipline that defines eight basic emotions – fear, surprise, sadness, disgust, anger, hope, joy and acceptance. These, in turn, combine to develop various more advanced emotions.
+They found that Piñera’s words expressed more optimism when he asked for forgiveness and announced measures to combat inequality, in his fourth speech, but demonstrated a significant degree of fear in his first speech, declaring the state of emergency.
+The AI-based emotions analysis also allowed the researchers to distinguish words with positive connotation - such as “rights” and “freedoms” - from those with negative connotation, such as “war” and “violence.”
+On balance, Piñera’s four speeches were more positive than negative – a perhaps surprising finding, given what is now clear about the depth of Chile’s crisis.
+In his Oct. 20 speech, however, when Chile’s president declared, “We are at war,” just 23.7% of his words had a positive connotation. That speech – coupled with a WhatsApp audio recording of Piñera’s wife describing the scene in Chile as an “alien invasion” – suggest that Chile’s leadership had the wrong analysis of the crisis gripping the country.
+Using artificial intelligence to process huge quantities of raw data is not new.
+AI systems have been used to catch jaywalkers, develop Chinese miitary intelligence, continuously improve cybersecurity and train machines to replace human workers.
+But using an AI system to analyze the otherwise indecipherable emotions behind official speeches is a novel technique, the Chilean researchers say.
+“It is an opportunity, through interviews and unstructured verbal surveys, to know how the person feels about a specific topic, identifying their emotions and tone of voice,” says Claudio Manríquez.
+Manríquez and Mansilla see studies like theirs, which allow the processing and interpretation of a speech without needing to watch it completely, as an boon for political communication.
+“It is no longer necessary to look in the mirror to know what emotions we’re transmitting,” Mansilla says, adding that the technology could also allow people to “make quick decisions, such as knowing if I should invest in the stock market, according to the feelings detected in a presidential speech.”
+Restoring peace in Chile after a month-long political crisis will surely be a long process, with many more presidential speeches to come. Perhaps AI analysis of his emotions and feelings can help Piñera better lead the recovery.
+[ Expertise in your inbox. Sign up for The Conversation’s newsletter – in Spanish or English – and get a digest of academic takes on today’s news, every day. ]

@@ -1,0 +1,2 @@
+Research into the cognition of babies and small children may help scientists program computers to think and learn more like humans.
+Even very young children are capable of testing hypotheses, detecting statistical patterns and reaching conclusions while adapting to change and uncertainty. By translating these cognitive processes and behaviours into computational models, scientists hope to significantly improve the ability of artificial intelligence to perform complex tasks like language learning and analysis of causal relationships.

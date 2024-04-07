@@ -1,0 +1,38 @@
+Artificial intelligence-based (AI) programs are quickly improving at writing convincingly on many topics, for virtually no cost. It’s likely in a few years they’ll be churning out C-grade worthy essays for students.
+We could try to ban them, but this software is highly accessible. It would be a losing battle.
+Long-form writing, especially essay writing, remains one of the best ways to teach critical analysis. Teachers rely on this mode of assessment to gauge students’ understanding of a topic.
+Thus, we need to find ways to help students of all disciplines thrive alongside advanced automation and smart systems, rather than resist them. This involves training students to work with AI tools, rather than banning them.
+In February 2019, GPT-2, an AI-powered text generating system was released by OpenAI. Those interested can try the system themselves by following these instructions, or experiment with Talk to Transformer, an online tool made using GPT-2.
+The idea behind GPT-2 is similar to the predictive text function on a smartphone. A machine learning system was given 8 million web pages, and told to look at blocks of text to predict what word would come next.
+The system compared its guess with the actual text to “learn”. This was repeated billions of times, resulting in the GPT-2 software.
+
+      From Twitterbots to VR: 10 of the best examples of digital literature
+Often within minutes, GPT-2 can generate texts that look like they were written by a human. They’re grammatically correct, thematically coherent, engaging and even informative.
+I gave GPT-2 this prompt: “The global system of
+university ranking has recently…”. Here are some sentences it generated:
+There are several signs of a non-human hand at work, notably the repetition of “increasingly irrelevant”. There’s also the matter that no such OECD report exists. It was dreamt up by the machine.
+That said, with a few revisions, the text could probably pass as being authored by a human.
+There are a number of systems similar to GPT-2, including Google’s BERT, ERNIE2.0, XLNet and Facebook’s RoBERTa. But GPT-2 has caught on with tinkerers across the web – lauded for its power and ease of use in generating new texts.
+GPT-2 comes in forms that let anyone use it easily, even without a powerful computer. Such tools are a looming problem for schools and universities.
+In an experiment, I fed the system 188 student papers on Keith Basso’s book Wisdom Sits in Places, written for an anthropology course I teach. GPT-2 “learned” for about thirty minutes, after which it generated some paragraphs.
+One begins:
+The text reads like an essay. It’s divided into four paragraphs and describes what appears to be examples from the book.
+
+      Technology and regulation must work in concert to combat hate speech online
+I would have failed the text as is. The writing isn’t perfect, and in places the writer seems to lose their train of thought. However, with slight human revision, an essay worthy of a C would be within reach.
+People are already experimenting with GPT-2 for poetry, text-based role-playing games, and plays written in a Shakespearean style. Worryingly, it can also produce endless streams of fake news.
+What can institutions do about such “plagiarised” work flooding their classrooms?
+One response would be to ban AI tools. Leaders of 40 universities in the UK have taken this approach against essay mills, pushing to make them illegal. Essay mills are run by people who charge students a fee in exchange for completing their work.
+But it’s unclear how such a ban could be enforced once AI software is as easy to access as Candy Crush. Institutions could look to existing rules against academic misconduct, but accurate detection becomes a problem. As AI-generated texts get better, how will we prove (without watching them) that a student did or didn’t write a text themselves?
+We can’t, so we should take a page from cyborg chess play, where players embrace chess-playing computers to become better themselves.
+Rather than pretending AI doesn’t exist, it might be time to train people to write with AI.
+Most good writers don’t write in isolation; they talk and revise their work with others. Also, 90% of writing is revision, which means the ideas and arguments in a text change and develop as a writer reads and edits their own work.
+Thus, systems such as GPT-2 could be used as a first-draft machine, taking a student’s raw research notes and turning them into a text they can expand on and revise.
+In this model, teachers would evaluate a work, not just on the basis of the final product, but on a student’s ability to use text-generating tools.
+Powerful AI tools could help us analyse and communicate complex ideas.
+All of the above prompts a question we need to consider if we’re to live in an AI-friendly world: why do we teach students to write at all?
+One major reason is many jobs rely on being able to write. So, when teaching writing, we need to think about the social and economic implications of a type of text.
+Much of today’s media landscape, for instance, runs on the continuous production and circulation of blog posts, tweets, listicles, marketing reports, slide presentations, and e-mails.
+While computer writing might never be as original, provocative, or insightful as the work of a skilled human, it will quickly become good enough for such writing jobs, and AIs won’t need health insurance or holidays.
+If we teach students to write things a computer can, then we’re training them for jobs a computer can do, for cheaper.
+Educators need to think creatively about the skills we give our students. In this context, we can treat AI as an enemy, or we can embrace it as a partner that helps us learn more, work smarter, and faster.

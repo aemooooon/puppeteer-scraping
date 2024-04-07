@@ -1,0 +1,38 @@
+In the search for extraterrestrial intelligence (SETI), we’ve often looked for signs of intelligence, technology and communication that are similar to our own.
+But as astronomer and SETI trailblazer Jill Tarter points out, that approach means searching for detectable technosignatures, like radio transmissions, not searching for intelligence.
+Now scientists are considering whether artificial intelligence (AI) could help us search for alien intelligence in ways we haven’t even thought of yet.
+As we think about extraterrestrial intelligence it’s helpful to remember humans are not the only intelligent life on Earth.
+Chimpanzees have culture and use tools, spiders process information with webs, cetaceans have dialects, crows understand analogies and beavers are great engineers. Non-human intelligence, language, culture and technology are all around us.
+Alien intelligence could look like an octopus, an ant, a dolphin or a machine  — or be radically different from anything on Earth.
+We often imagine extraterrestrial life relative to our ideas about difference, but those ideas aren’t even universal on Earth and are unlikely to be universal across interstellar space.
+If some of us have only recently recognized non-human intelligence on Earth, what could we be missing when we imagine extraterrestrial life?
+In early 2018, astronomers, neuroscientists, anthropologists, AI researchers, historians and others gathered for a “Decoding Alien Intelligence” workshop at the SETI Institute in Silicon Valley. Astrobiologist Nathalie Cabrol organized the workshop around her 2016 paper “Alien mindscapes,” where she calls for a new SETI road map and a long-term vision for “the search for life as we do not know it.”
+In her paper, Cabrol asks how SETI can move past “looking for other versions of ourselves” and think “outside of our own brains” to imagine truly different extraterrestrial intelligence.
+Silicon Valley is famous for valuing “disruptive” thinking and this culture intersects with SETI research. Ever since the U.S. government stopped funding SETI in the mid-1990s, Silicon Valley ideas, technology and funding have been increasingly important.
+For example, the SETI Institute’s Allen Telescope Array is named after Microsoft co-founder Paul Allen, who contributed over US$25 million to the project. And, in 2015, technology investor Yuri Milner announced Breakthrough Listen, a 10-year US$100 million SETI initiative.
+Now, the SETI Institute, NASA, Intel, IBM and other partners are tackling space science problems through an AI research and development program called the Frontier Development Lab.
+
+      Why I believe we’ll find aliens – leading expert on search for intelligent extra-terrestrial life
+Lucianne Walkowicz, the Astrobiology Chair at the Library of Congress, described one AI-based method as “signal agnostic searching” at Breakthrough Discuss in 2017.
+Walkowicz explained that this means using machine learning methods to look at any set of data without predetermined categories and instead let that data cluster into their “natural categories.” The software then lets us know what stands out as outliers. These outliers could then be the target of additional investigations.
+It turns out that SETI researchers think AI might be useful in their work because they believe machine learning is good at spotting difference.
+But its success depends on how we   — and the AI we create  — conceptualize the idea of difference.
+Thinking outside our brains also means thinking outside our scientific, social and cultural systems. But how can we do that?
+AI has been used to look for simulations of what researchers imagine alien radio signals might look like, but now SETI researchers hope it can find things we aren’t yet looking for.
+Graham Mackintosh, an AI consultant at the SETI Institute workshop, said extraterrestrials might be doing things we can’t even imagine, using technologies so different we don’t even think to look for them. AI, he proposed, might be able to do that advanced thinking for us.
+We may not be able to make ourselves smarter, but perhaps, Mackintosh suggested, we can make machines that are smarter for us.
+In a keynote at this year’s Breakthrough Discuss conference, astrophysicist Martin Rees shared a similar hope, that AI could lead to “intelligence which surpasses humans as much as we intellectually surpass slime mould.”
+If we met extraterrestrial slime mould, what could we assume about its intelligence? One challenge of SETI is that we don’t know the limits of life or intelligence, so we need to be open to all possible forms of difference.
+We might find intelligence in forms that Euro-American science has historically disregarded: Microbial communities, insects or other complex systems like the symbiotic plant-fungus relationships in mycorrhizal networks that learn from experience.
+Intelligence might appear in atmospheres or geology at a planetary scale, or as astrophysical phenomena. What appears to be a background process in the universe, or just part of what we think of as nature, could turn out to be intelligence.
+Consider that the largest living thing on Earth may be an Armillaria ostoyae fungus in Eastern Oregon’s Blue Mountains, which extends to 10 square kilometres and is between 2,000 and 9,000 years old.
+While this fungus may not be what most people think of as intelligence, it reminds us to think about the unexpected when searching for life and intelligence, and of what we might be missing right under our feet.
+Thinking differently about intelligence means understanding that anything we encounter could be first contact with intelligent life. This might include our first encounter with artificial general intelligence (AGI), also called Strong AI, something closer to the sentient computer HAL 9000 from 2001: A Space Odyssey or Data from Star Trek: The Next Generation.
+As we work with machine learning to expand the SETI search, we also need social sciences to understand how our ideas shape the future of AI   — and how AI will shape the future of our ideas.
+To avoid a human-centred point of view in SETI we need to consider how we encode ideas about difference into AI and how that shapes the outcomes. This is vital for finding and recognizing intelligence as we don’t yet know it.
+Some of the methods used in anthropology can help us identify ideas about difference that we’ve naturalized   — concepts so familiar they seem invisible, like the divides many still see between nature and culture or biology and technology, for example.
+Recent research on algorithms reveals how our naturalized ideas shape the technology we create and how we use it. And Microsoft’s infamous AI chat bot Tay reminds us the AI we create can easily reflect the worst of those ideas.
+
+      Teaching chatbots how to do the right thing
+We may never entirely stop building bias into search engines and search strategies for SETI, or coding it into AI. But through collaborations between scientists and social scientists we can think critically about how we conceptualize difference.
+A critical, interdisciplinary approach will help us understand how our ideas about difference impact lives, research and possibilities for the future both here on Earth and beyond.

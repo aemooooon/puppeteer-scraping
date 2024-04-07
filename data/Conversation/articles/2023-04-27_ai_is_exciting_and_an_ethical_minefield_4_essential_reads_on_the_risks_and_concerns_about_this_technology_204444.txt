@@ -1,0 +1,25 @@
+If you’re like me, you’ve spent a lot of time over the past few months trying to figure out what this AI thing is all about. Large-language models, generative AI, algorithmic bias – it’s a lot for the less tech-savvy of us to sort out, trying to make sense of the myriad headlines about artificial intelligence swirling about.
+But understanding how AI works is just part of the dilemma. As a society, we’re also confronting concerns about its social, psychological and ethical effects. Here we spotlight articles about the deeper questions the AI revolution raises about bias and inequality, the learning process, its impact on jobs, and even the artistic process.
+When a company rushes software to market, it often accrues “technical debt”: the cost of having to fix bugs after a program is released, instead of ironing them out beforehand.
+There are examples of this in AI as companies race ahead to compete with each other. More alarming, though, is “ethical debt,” when development teams haven’t considered possible social or ethical harms – how AI could replace human jobs, for example, or when algorithms end up reinforcing biases.
+Casey Fiesler, a technology ethics expert at the University of Colorado Boulder, wrote that she’s “a technology optimist who thinks and prepares like a pessimist”: someone who puts in time speculating about what might go wrong.
+That kind of speculation is an especially useful skill for technologists trying to envision consequences that might not impact them, Fiesler explained, but that could hurt “marginalized groups that are underrepresented” in tech fields. When it comes to ethical debt, she noted, “the people who incur it are rarely the people who pay for it in the end.”
+
+      AI has social consequences, but who pays the price? Tech companies' problem with 'ethical debt'
+AI programs’ abilities can give the impression that they are sentient, but they’re not, explained Nir Eisikovits, director of the Applied Ethics Center at the University of Massachusetts Boston. “ChatGPT and similar technologies are sophisticated sentence completion applications – nothing more, nothing less,” he wrote.
+But saying AI isn’t conscious doesn’t mean it’s harmless.
+“To me,” Eisikovits explained, “the pressing question is not whether machines are sentient but why it is so easy for us to imagine that they are.” Humans easily project human features onto just about anything, including technology. That tendency to anthropomorphize “points to real risks of psychological entanglement with technology,” according to Eisikovits, who studies AI’s impact on how people understand themselves.
+Considering how many people talk to their pets and cars, it shouldn’t be a surprise that chatbots can come to mean so much to people who engage with them. The next steps, though, are “strong guardrails” to prevent programs from taking advantage of that emotional connection.
+
+      AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it
+From the start, ChatGPT fueled parents’ and teachers’ fears about cheating. How could educators – or college admissions officers, for that matter – figure out if an essay was written by a human or a chatbot?
+But AI sparks more fundamental questions about writing, according to Naomi Baron, an American University linguist who studies technology’s effects on language. AI’s potential threat to writing isn’t just about honesty, but about the ability to think itself.
+Baron pointed to novelist Flannery O'Connor’s remark that “I write because I don’t know what I think until I read what I say.” In other words, writing isn’t just a way to put your thoughts on paper; it’s a process to help sort out your thoughts in the first place.
+AI text generation can be a handy tool, Baron wrote, but “there’s a slippery slope between collaboration and encroachment.” As we wade into a world of more and more AI, it’s key to remember that “crafting written work should be a journey, not just a destination.”
+
+      How ChatGPT robs students of motivation to write and think for themselves
+Generative AI programs don’t just produce text, but also complex images – which have even captured a prize or two. In theory, allowing AI to do nitty-gritty execution might free up human artists’ big-picture creativity.
+Not so fast, said Eisikovits and Alec Stubbs, who is also a philosopher at the University of Massachusetts Boston. The finished object viewers appreciate is just part of the process we call “art.” For creator and appreciator alike, what makes art valuable is “the work of making something real and working through its details”: the struggle to turn ideas into something we can see.
+
+      ChatGPT, DALL-E 2 and the collapse of the creative process
+Editor’s note: This story is a roundup of articles from The Conversation’s archives.

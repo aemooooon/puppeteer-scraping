@@ -1,0 +1,40 @@
+This week, US writer Benji Smith took down his controversial website, Prosecraft, roughly a day after a social media storm erupted, with authors – who had just begun to discover the site – furious about their work being used without their consent.
+Prosecraft requires an algorithm to crawl through millions of words of text to produce an analysis of the language. It drew on “more than 25,000 books” to allow authors to compare their text to writers they admire.
+Prosecraft offered an analysis by highlighting the “vividness” of the prose and providing a statistical analysis of the arrangement of words and phrases, the word count, and a basic rundown of the story arc. Its related site, Shaxpir, offers paid subscriptions.
+“I hate to break it to anyone thinking of paying for this kind of service, but there’s a limit to what data can teach you about writing,” said Celeste Ng, who helped spread the word to affected authors including Stephen King, Lauren Groff and Jodi Picoult.
+She continued: “you get better at it by reading & writing & thinking more. Not by faux data analysis.”
+
+
+Smith believed Prosecraft could help uncover the intricacies of the writing techniques of famous authors that their otherwise dense prose might obscure. His logic is not entirely dissimilar to that of baseball manager Billy Beane in Moneyball: statistical analysis reveals patterns most people miss, or experts only get close to through intuition.
+Smith’s Shaxpir site remains up and running. Authors are calling for him to take that down, too. And some, such as Australian author Holden Sheppard, whose young adult novel The Brink was used by Prosecraft, are asking Smith to “delete the data you mined from us”.
+Taking down Prosecraft, Smith posted a statement.
+“Since I was only publishing summary statistics, and small snippets from the text of those books, I believed I was honoring the spirit of the Fair Use doctrine, which doesn’t require the consent of the original author,” his statement says.
+“Since I never shared the text that I acquired by crawling the internet, I believed that I was in compliance with the relevant laws.”
+But what do the relevant laws say?
+
+      Explainer: what is 'fair dealing' and when can you copy without permission?
+By Smith’s own admission, Prosecraft uses more than 25,000 books. None of this would be possible without a “shadow library”: the Achilles’ heel of AI technologies.
+A new term in the language of copyright law, “shadow library” has evolved from a growing body of legal disputes between businesses based on artificial intelligence and published human authors.
+In copyright terms, the copying of a book so it can be stored in a shadow library is an act of infringement.
+The trouble is, it would hardly be worthwhile for an individual author to sue over the copying of their book. Yet, thousands of authors suing the creator of a shadow library is a different question altogether. This is particularly true if the creator of the shadow library is a small business.
+Herein lies the point of controversy around copyright law and AI.
+
+
+If a person undertakes the act of copying a book to place it in a shadow library, this amounts to an act of copyright infringement.
+However, if the AI technology they have developed then trawls through that shadow library to produce many different forms of language analysis, this is not likely to be an infringement of copyright: almost all the relevant laws contemplate human actions.
+The opening line of the infringement provisions of the US Copyright Act reads, “Anyone who violates any of the exclusive rights of the copyright owner …” (Emphasis added.) Further references within section 501 of the US Copyright Act also make the assumption of human action and human agency quite plain.
+Australia’s copyright laws operate on a very similar basis.
+The point of difference between US and Australian law most likely exists around fair use and fair dealing. Fair use is an open-ended exception where the use of a copyright work is considered against four factors. Among these is the purpose of the use. In contrast, fair dealing is confined to specific purposes: such as parody or satire, reporting the new, and criticism or review.
+This is relevant because, while the analysis created by AI might be beyond the remit of copyright law, the decision to display that analysis on a website or to provide it as a service is very much done by a human being.
+Therein lies the importance of exceptions to copyright ownership.
+The US has the fair use doctrine. Contained within fair use is the principle of “transformative use”. The more the use of a copyrighted work transforms it (rather than outright reproduces it), the more likely it is to be considered fair use.
+This logic favours Prosecraft and Shaxpir, even where the analysis displayed on those sites includes snippets of text from other authors. The key issue is that the purpose of the use is very different from that of the original author. Rather than being written to entertain, the snippet and analysis are provided in order to deconstruct technique.
+
+      Two authors are suing OpenAI for training ChatGPT with their books. Could they win?
+Australia amended its laws after the Australia-US Free Trade Agreement, to mirror some of the principles of US copyright law.
+The famous US case of Campbell vs Acuff-Rose, in which 2-Live Crew’s transformative fair use parody of Roy Orbison’s song Pretty Woman established that a commercial parody can qualify as fair use, was no doubt considered.
+In amending its laws, Australia legislated that parody or satire could form the basis of a fair dealing exception. A specific transformative use exception was not created.
+So, it is significantly less clear as to whether the use contemplated by Prosecraft or Shaxpir would be considered fair dealing in Australia.
+Australia has either missed a trick or dodged a bullet by failing to include transformative use as a fair dealing exception. It depends where you stand in the ongoing conflict between AI tech and human authors. But Australia’s laws are less AI-friendly than the US.
+For the moment, published human authors are banking on the idea that if they can knock out the shadow library, they can hobble the reach of AI tech.
+That might work against a small player such as Smith – but whether it would hold up against a larger commercial enterprise is less clear.

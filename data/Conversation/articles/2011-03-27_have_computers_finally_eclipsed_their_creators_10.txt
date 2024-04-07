@@ -1,0 +1,52 @@
+In February this year, game shows got that little bit harder. And at the same time, artificial intelligence took another step towards the ultimate goal of creating and perhaps exceeding human-level intelligence.
+Jeopardy! is a long running and somewhat back-to-front American quiz show in which contestants are presented with trivia clues in the form of answers, and must reply in the form of a question.
+Host: “Tickets aren’t needed for this ‘event’, a black hole’s boundary from which matter can’t escape.”
+Watson: “What is event horizon?”
+Host: “Wanted for killing Sir Danvers Carew; appearance – pale and dwarfish; seems to have a split personality.”
+Watson: “Who is Hyde?”
+Host: “Even a broken one of these on your wall is right twice a day.”
+Watson: “What is clock?”
+In case you didn’t see the news, Watson is a computer assembled by IBM at their research lab in New York State. It is a behemoth of 90 servers with 2880 cores and 16 Terabytes of RAM.
+Watson was named in honour of IBM’s founder, T.J. Watson. However, befitting the word play found in many of the questions, the name also hints at Sherlock Holmes’ capable assistant, Dr Watson.
+Watson’s two competitors in this Man versus Computer match were no slouches. First up was Brad Rutter. Brad is the biggest all-time money winner on Jeopardy! with over US$3 million in prize money.
+Also competing was Ken Jennings, holder of the longest winning streak on the show. In 2004, Ken won 74 games in a row before being knocked from his pedestal.
+Despite this formidable competition, Watson easily won the US$1 million prize over three days of competition. Chalk up another loss to humanity.
+This isn’t the first time computer has beaten man. Famously, the former World Chess Champion Gary Kasparov was beaten by IBM’s Big Blue computer in 1997.
+But there have been other, perhaps less well known, examples before these two momentous and IBM-centered events.
+In 1979, Hans Berliner’s BKG program from Carnegie Mellon University beat Luigi Villa at backgammon. It thereby became the first computer program ever to defeat a world champion in any game.
+In 1996, the Chinook program, written by a team from the University of Alberta, won the Man vs. Machine World Checkers Championship beating the Grandmaster checkers player, Don Lafferty.
+Arguably Chinook’s greater triumph was against Marion Tinsley who is often considered to be the greatest checkers player ever. Tinsely never lost a World Championship match, and lost only seven games in his entire 45 year career, two of them to Chinook.
+In their final match, Tinsely and Chinook were drawn but Tinsely had to withdraw due to ill health, and died shortly after.
+Sadly we shall never know if Chinook would have gone on to draw or win. But the outcome is now somewhat immaterial as the University of Alberta team have improved their program to the point that it plays perfectly.
+They exhaustively showed that their program could never be defeated. “Exhaustive” is the correct term here since it required years of computation on more than 200 computers to explore all the possible games.
+More recently, in 2006, the program Quackle defeated former World Champion David Boys at Scrabble in a Human-Computer Showdown in Toronto.
+Boys is reported to have remarked that losing to a machine is still better than being a machine. However, that sounds like sour grapes to me.
+Man’s defeats have not been limited to games and game shows. Man has started to lose out to computers in many other areas.
+Computers are replacing humans in making decisions in many businesses. For example, Visa, Mastercard and American Express all use artificial intelligence programs called neural networks to detect millions of dollars in credit card fraud.
+There are many other examples from the mainstream to the esoteric where computers are performing equally or better than humans. In 2008, a team of Swiss, Hungarian and French researchers demonstrated that machine-learning algorithms were better at classifying dog barks than human animal lovers.
+Computers have even started to impact on creative activities. One small example is found in my own research.
+In 2002, the HR computer program written by Simon Colton, a PhD student I was supervising, invented a new type of number. The properties of this number have since been explored by human mathematicians.
+However, computers still have a long way to go. Watson made a few mistakes en route to victory, many of which provide insight into the inner workings of its algorithms.
+Host: “Its largest airport was named for a World War II hero; its second largest, for a World War II battle.”
+Watson: “What is Toronto???”
+The question was in the category “US cities”. As Rutler and Jennings knew, the correct answer is Chicago, home to O’Hare and Midway airports.
+The multiple question marks signify Watson’s doubt about the answer. Toronto has Pearson International Airport, and a number of Pearsons fought bravely in various wars.
+To add to the confusion there are US cities called Toronto in Illinois, Indiana, Iowa Kansas, Missouri, Ohio and South Dakota. This mistake illustrates that Watson doesn’t work with black and white, 0 or 1. It calculates probabilities.
+In fact, one of the most interesting aspects of Watson was how it used these probabilities to play strategically, deciding when to answer and how much to bet.
+If you’re feeling a little depressed, don’t worry. Man is still well ahead of computers under many measures.
+The human brain consumes only around 20 watts of power. This is a big burden for a member of the animal kingdom (and demonstrates the value we get from being smart). But it is miniscule compared to the 350,000 watts used by Watson.
+Per watt, man is still well ahead and computers remain very poor at some of the tasks that we take for granted. Seeing danger ahead on a windy and dark road, understanding a conversation in a noisy cocktail party, telling funny jokes, falling hopelessly in love.
+Watson does tell us that artificial intelligence is making great advances in areas such as natural language understanding (getting computers to understand text) and probabilistic reasoning (getting computers to deal with uncertainty).
+Beating game show contestants is not perhaps of immense value to mankind. In fact, you might be a little disappointed that computers are taking away another of life’s pleasures.
+But the same technologies can and will be put to many other practical uses.
+They can help doctors understand the vast medical literature and diagnose better. They can help lawyers understand the vast literature in case law and reduce the cost of seeking justice.
+And you and I will see similar technology in search engines very soon. In fact, try out this query in Google today: “What is the population of Australia?”. Google understands the question and links directly to some tagged data and a graph showing the growth in the number of people in this lucky country.
+Of course, you might worry where this will all end. Are machines going to take over man? Unfortunately, science fiction here is already science fact.
+Computers are in control of many parts of our lives. And there are a few cases where computers have made life and (more importantly) death decisions.
+In 2007, a software bug led to an automated anti-aircraft cannon killing nine South African soldiers and injuring 14 others. In his 2005 book The Singularity is Near, the futurist Ray Kurzwell predicted that artificial intelligence would approach a technological singularity in around 40 years.
+He argues that computers will reach and then quickly exceed the intelligence of humans, and that progress will “snowball” as computers redesign themselves and exploit their many technical advantages. The movie of Ray’s book is coming to a theatre near you soon.
+Fortunately, I do not share Ray’s concerns. There are several problems with his argument.
+There is, for instance, no reason to suppose that there is much special in exceeding human intelligence. Let me give an analogy.
+Airplanes have exceeded birds at flying quickly but you won’t be flying any faster today than you did a decade ago. If you excuse the terrible pun, the speed of flying has stalled.
+In addition, there are various fundamental laws that may limit computers, such as the speed of light. Indeed, chip designers are already struggling to keep up with past rates of improvement. Nevertheless I predict that there are many exciting advances still to come from artificial intelligence.
+Finally,  if you want to have a go at beating Watson yourself, try out the interactive web site.

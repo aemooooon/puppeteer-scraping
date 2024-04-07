@@ -1,0 +1,37 @@
+Artificial intelligence (AI) is seemingly everywhere. Right now, generative AI in particular – tools like Midjourney, ChatGPT, Gemini (previously Bard) and others – is at the peak of hype.
+But as an academic discipline, AI has been around for much longer than just the last couple of years. When it comes to real-world applications, many have stayed hidden or relatively unknown. These AI tools are much less glossy than fantasy-image generators – yet they are also ubiquitous.
+As various AI technologies continue to progress, we’ll only see an increase of AI use in various industries. This includes healthcare and consumer tech, but also more concerning uses, such as warfare. Here’s a rundown of some of the wide-ranging AI applications you may be less familiar with.
+
+      2023 was the year of generative AI. What can we expect in 2024?
+Various AI systems are already being used in the health field, both to improve patient outcomes and to advance health research.
+One of the strengths of computer programs powered by artificial intelligence is their ability to sift through and analyse truly enormous data sets in a fraction of the time it would take a human – or even a team of humans – to accomplish.
+For example, AI is helping researchers comb through vast genetic data libraries. By analysing large data sets, geneticists can home in on genes that could contribute to various diseases, which in turn will help develop new diagnostic tests.
+AI is also helping to speed up the search for medical treatments. Selecting and testing treatments for a particular disease can take ages, so leveraging AI’s ability to comb through data can be helpful here, too.
+For example, United States-based non-profit Every Cure is using AI algorithms to search through medical databases to match up existing medications with illnesses they might potentially work for. This approach promises to save significant time and resources.
+
+      Artificial intelligence is already in our hospitals. 5 questions people want answered
+Outside of medical research, other fields not directly related to computer science are also benefiting from AI.
+At CERN, home of the Large Hadron Collider, a recently developed advanced AI algorithm is helping physicists tackle some of the most challenging aspects of analysing the particle data generated in their experiments.
+Last year, astronomers used an AI algorithm for the first time to identify a “potentially hazardous” asteroid – a space rock that might one day collide with Earth. This algorithm will be a core part of the operations of the Vera C. Rubin Observatory currently under construction in Chile.
+
+      Why dangerous asteroids heading to Earth are so hard to detect
+One major area of our lives that uses largely “hidden” AI is transportation. Millions of flights and train trips are coordinated by AI all over the world. These AI systems are meant to optimise schedules to reduce costs and maximise efficiency.
+Artificial intelligence can also manage real-time road traffic by analysing traffic patterns, volume and other factors, and then adjusting traffic lights and signals accordingly. Navigation apps like Google Maps also use AI optimisation algorithms to find the best path in their navigation systems.
+AI is also present in various everyday items. Robot vacuum cleaners use AI software to process all their sensor inputs and deftly navigate our homes.
+The most cutting-edge cars use AI in their suspension systems so passengers can enjoy a smooth ride.
+Of course, there is also no shortage of more quirky AI applications. A few years ago, UK-based brewery startup IntelligentX used AI to make custom beers for its customers. Other breweries are also using AI to help them optimise beer production.
+And Meet the Ganimals is a “collaborative social experiment” from the MIT Media Lab, which uses generative AI technologies to come up with new species that have never existed before.
+
+      Snapchat's 'creepy' AI blunder reminds us that chatbots aren't people. But as the lines blur, the risks grow
+On a less lighthearted note, AI also has many applications in defence. In the wrong hands, some of these uses can be terrifying.
+For example, some experts have warned AI can aid the creation of bioweapons. This could happen through gene sequencing, helping non-experts easily produce risky pathogens such as novel viruses.
+Where active warfare is taking place, military powers can design warfare scenarios and plans using AI. If a power uses such tools without applying ethical considerations or even deploys autonomous AI-powered weapons, it could have catastrophic consequences.
+
+      What killer robots mean for the future of war
+AI has been used in missile guidance systems to maximise the effectiveness of a military’s operations. It can also be used to detect covertly operating submarines.
+In addition, AI can be used to predict and identify the activities and movements of terrorist groups. This way, intelligence agencies can come up with preventive measures. Since these types of AI systems have complex structures, they require high-processing power to get real-time insights.
+Much has also been said about how generative AI is supercharging people’s abilities to produce fake news and disinformation. This has the potential to affect the democratic process and sway the outcomes of elections.
+AI is present in our lives in so many ways, it is nearly impossible to keep track. Its myriad applications will affect us all.
+This is why ethical and responsible use of AI, along with well-designed regulation, is more important than ever. This way we can reap the many benefits of AI while making sure we stay ahead of the risks.
+
+      Australia plans to regulate 'high-risk' AI. Here's how to do that successfully

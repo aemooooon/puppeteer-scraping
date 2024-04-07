@@ -1,0 +1,27 @@
+The recent viral “deepfake” video of Mark Zuckerberg declaring, “whoever controls the data controls the world” was not a particularly convincing imitation of the Facebook CEO, but it was spectacularly successful at focusing attention on the threat of digital media manipulation.
+While photographic fakes have been around since the dawn of photography, the more recent use of deep learning artificial intelligence techniques (the “deep” in deepfakes) is leading to the creation of increasingly credible computer simulations.
+
+The Zuckerberg video attracted online attention both because it featured the tech wunderkind who is partially responsible for flooding the world with fake news, and because it highlighted the technology that will surely make the problem worse.
+
+
+      Detecting 'deepfake' videos in the blink of an eye
+We have seen the pain and tragedy that viral falsehoods can cause, from the harassment of parents who lost children in the Sandy Hook shooting, to mob murders in India and elsewhere.
+Deepfakes, we worry, will only worsen the problem. What if they are used to falsely implicate someone in a murder? To provide fake orders to troops on the battlefield? Or to incite armed conflict?
+We might describe such events as the “false positives” of deep fakery: events that seemed to happen, but didn’t. On the other hand, there are the “false negatives”: events that did happen, but which run the risk of being dismissed as just another fake.
+Think of US President Donald Trump’s claim that the voice on the notorious Access Hollywood tape, in which he boasts about groping women, was not his own. Trump has made a political speciality out of asking people not to believe their eyes or ears. He misled people about the size of the audience at his inauguration, and said he didn’t call Meghan Markle “nasty” in an interview when he did.
+This strategy works by calling into question any and all mediated evidence. That is, anything we do not experience directly ourselves, and even much of what we do to the extent that it is not shared by others.
+What is at issue is our ability to communicate truths to one another and to generate a consensus around them. These stakes are high indeed, since democracy relies on the efficacy of speaking truth to power. If, as The Guardian put it, “deepfakes are where truth goes to die”, then they threaten to take public accountability down with them.
+
+      AI can now create fake porn, making revenge porn even more complicated
+Because the problem seems to be a technological one, it’s tempting to cast about for technological, rather than social or political, solutions. Typically, these proposed solutions take the form of enhanced verification, which entails increasingly comprehensive surveillance.
+One idea is to have every camera automatically tag images with a unique digital signature. This would enable images to be traced back to the device that took them, and, in the case of networked devices, to its user or owner. One commentator has described this as “a surveillance state’s dream”.
+Or we might imagine a world in which the built environment is permeated with multiple cameras, constantly capturing and constructing a “shared” reality that can be used to debunk fake videos as they emerge. This would be not just the dream of a surveillance state, but its fantasy realised.
+The fact that such solutions are not only dystopian, but also fail to effectively address the problem (since signatures can be faked, and the “official” version of reality can be dismissed as yet another fake), does not make us any less likely to be pursue them.
+The additional flaw of such solutions is they assume people and platforms circulating fake information will defer to the truth when confronted with it.
+
+      Deepfake videos could destroy trust in society – here’s how to restore it
+We know social media platforms, until they are held accountable for verifying the information they circulate, have an incentive to promote whatever gets the most attention, regardless of its authenticity. We’re more reluctant to admit the same is true of people.
+In the online attention economy, it’s not just the platforms that benefit from circulating sensational disinformation, it’s also the people who use them.
+Consider the case of the London-based Islamic journalist Hussein Kesvani. Kesvani recounts the time he tracked down a Twitter troll named “True Brit” who had been peppering him with Islamophobic comments and memes. After establishing a regular online conversation with his online antagonist, Kesvani was able to land a face-to-face interview with him.
+He asked True Brit why he was willing to circulate demonstrably false facts, claims, and mislabelled and misleading images. True Brit shrugged off the question, saying, “You don’t know what’s true or not these days, anyway”. He didn’t care about literal truth, only about the “deeper” emotional truth of the images, which he felt confirmed his prejudices.
+Strategies of verification may be useful for ramping up surveillance society, but they will have little purchase on the True Brits of the world who are willing to embrace and circulate deepfakes because they believe their lies contain deeper truths. The problem lies not just in the technology, but in the degraded version of civic life upon which social media platforms thrive.

@@ -1,0 +1,26 @@
+Suicide is a growing public health concern. In Canada, 4,000 lives are claimed by suicide each year   — that is 10 lives per day.
+For every one of these suicide deaths, there are five people hospitalized following self-injury, 25 to 30 suicide attempts and seven to 10 people affected by each tragedy, according to analysis by the Public Health Agency of Canada.
+Suicide rates are highest among certain groups   — such as Indigenous peoples, immigrants and refugees, prisoners and the lesbian, gay, bisexual, transgender, intersex (LGBTI) community   — and are on the rise.
+The impacts of suicide are felt widely. The Toronto Transit Commission (TTC) recently reported an increase in transit suicides at the end of 2017, with eight attempts in December alone, and a corresponding rise in rates of stress leave by TTC employees, due to the toll this took on staff.
+Could artificial intelligence (AI), or intelligence demonstrated by machines, possibly help to prevent these deaths?
+As researchers in psychiatry, in the Canadian Biomarker Integration Network for Depression, we are collecting clinical and biological data during treatment interventions for people with major depression. We are exploring early clues to changes in behaviour and mood states using mobile health technologies.
+One of our goals is to identify early predictors of relapse, and increased risk of suicidal behaviour.
+Here we review other promising applications of AI to suicide prevention, and draw attention to the barriers within this field.
+Early in 2018, the Public Health Agency of Canada announced a pilot project with Advanced Symbolics, an Ottawa-based AI company which successfully predicted Brexit, Trump’s presidency and results of the 2015 Canadian election.
+The project will research and predict regional suicide rates by examining patterns in Canadian social media posts including suicide-related content, although user identity will not be collected.
+The program will not isolate high risk cases or intervene at the individual level. Instead, findings will be used to inform mental health resource planning.
+In 2011, Facebook developed a manual suicide reporting system where users could upload screenshots of suicide content for review.
+In 2015, the system allowed users to “flag” concerning content, which would prompt Facebook staff to review the post and respond with supportive resources.
+Due to the tool’s success, Facebook has begun expanding their AI capabilities to automatically detect suicide-related content, and alert local emergency responders. There are also more language options, and an extension into Instagram.
+AI has been used in healthcare since the 1990s to improve disease detection and various indices of wellness.
+Within mental health, AI has enhanced the speed and accuracy of diagnosis, and applied “decision trees” to guide treatment selection.
+A new approach to “therapy” involves conversational bots (or chatbots) which are computer programs designed to simulate human-like conversation using voice or text responses.
+Chatbots can deliver psychological interventions for depression and anxiety based on cognitive behavioural therapy (CBT). Since chatbots uniquely respond to presented dialogue, they can tailor interventions to a patient’s emotional state and clinical needs. These models are considered quite user-friendly, and the user-adapted responses of the chatbot itself have been well reviewed.
+Similar technology is being added to smartphones to allow voice assistants, like the iPhone’s Siri, to recognize and respond to user mental health concerns with appropriate information and supportive resources. However, this technology is not considered reliable and is still in its preliminary stages. Other smartphone applications even use games to improve mental health-care education.
+AI technology has also been integrated into suicide management to improve patient care in other areas. AI assessment tools have been shown to predict short-term suicide risk and make treatment recommendations that are as good as clinicians. The tools are also well-regarded by patients.
+Current evaluation and management of suicide risk is still highly subjective. To improve outcomes, more objective AI strategies are needed. Promising applications include suicide risk prediction and clinical management.
+Suicide is influenced by a variety of psychosocial, biological, environmental, economic and cultural factors. AI can be used to explore the association between these factors and suicide outcomes.
+AI can also model the combined effect of multiple factors on suicide, and use these models to predict individual risk.
+As an example, researchers from Vanderbilt University recently designed an AI model that predicted suicide risk, using electronic health records, with 84 to 92 per cent accuracy within one week of a suicide event and 80 to 86 per cent within two years.
+As the field of suicide prevention using artificial intelligence advances, there are several potential barriers to be addressed:
+Overall, AI technology is here to stay in many aspects of health care, including suicide screening and intervention delivery.

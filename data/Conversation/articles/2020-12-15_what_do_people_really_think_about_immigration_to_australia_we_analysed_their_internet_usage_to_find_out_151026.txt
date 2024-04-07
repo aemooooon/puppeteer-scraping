@@ -1,0 +1,40 @@
+Many opinion polls on migration in Australia have limited sample sizes, such as the Essential poll, which often interviews around 1,000 people.
+This is small when you consider there are over 215 languages other than English spoken in Australia. Running a survey, even a multi-lingual one, will only ever capture so much variation and complexity.
+I have recently conducted a study with Elisa Choy, founder of Maven Data, an AI-powered strategic market research company, to gauge public sentiment toward migration. To do this, we used a much larger data pool — all open-access internet sources across the globe.
+Our aim was to find out what Australians think about migration through an analysis of how people engaged with all publicly available online sources on this topic. This includes what they searched for on Google, what they read and how they discussed the topic with others on blogs, social media and online comments.
+Our study included both Australian and foreign websites, as Australians often consume overseas English-language media.
+We found Australians overall have a neutral view towards migration — in that they are neither strongly opposed or in favour of it. But from their internet usage, we can tell they are highly engaged on the topic.
+As part of our research, we also sought to gauge what potential migrants around the world think about Australia as a destination, using the same research method in countries where most migrants come from.
+Surprisingly, we found a high degree of interest in Australia in only one country - India. In other countries, such as China, there was relatively low online engagement on Australian immigration. However, with China, this could have been the result of state control of the media.
+
+      Australia's jobs and migration policies are not making the best use of qualified migrants
+Traditional opinion polling relies on weighted samples of a population that are usually benchmarked against statistics sourced from a census or other large demographic surveys.
+Another downfall of polling is that it seeks to elicit people’s opinions through interviews or surveys, which are inherently biased and do not always reflect respondents’ actual beliefs or behaviour.
+These traditional methods can underestimate how much human behaviour is driven by emotion and unconscious bias, which people may try to hide when answering a poll. This is particularly true with contentious issues like religion, politics and migration.
+In contrast, when people engage with content online, there is no scope to lie, even to themselves. This provides the opportunity for a new type of data-driven, predictive, opinion research — without bias.
+In our study, we searched and extracted all the online content we could find related to immigration — everything available through open-sourced websites, blogs and social media.
+Using advanced analytics, Maven Data can measure the intensity of people’s emotions on a topic to predict both their actual beliefs and future behaviour. The researchers do this by analysing the specific websites people visit — including Google, media and government websites, blogs and social media. They then measure the emotional tone of these sources and people’s engagement with them using an algorithm.
+The company has a proven track record, too. Choy successfully predicted the winners of The Voice in 2019 and 2020, MasterChef Australia in 2020 and seven of the nine battleground states in the 2020 US presidential election.
+In our analysis, we found Australians are engaging heavily with government websites in particular, as well as media websites and social media. They are highly engaged on this topic and watching closely at how the government plans to act.
+Further, much of Australians’ interest in this subject is focused on “gaining facts” rather than forming or reinforcing opinions, which means the government has the power to shape opinion on this issue in the future.
+Based on this, we would classify immigration as a “timeless” topic in AI terminology, meaning it is of enduring interest and deeply relevant to Australians.
+
+      We need to restart immigration quickly to drive economic growth. Here's one way to do it safely
+We then analysed what the world thinks about Australia as an immigration destination.
+To do this, we looked at how people in Australia’s major migration source countries engaged with not just Australian and other English-language media, but also Chinese, Indian, Arabic, Vietnamese and Spanish online information sources.
+
+      Why Canada's immigration system has been a success, and what Australia can learn from it
+The short story is that the world is largely neutral on Australia as a major migration destination at the moment.
+Chinese speakers were generally not engaged with Australia as a potential destination. However, when they did look at information about Australia online, it was centred on the country’s healthcare system, management of COVID-19 and the government’s relationship with China.
+Spanish speakers were more interested in the US as a potential immigration destination (despite high levels of COVID-19 cases). This is a key finding, as Spanish speakers are a potential source of increasing migration for Australia given population growth in Latin America.
+Indians, on the other hand, were highly interested in Australia as a migration destination. For Indians, the central concerns were related to visas to Australia (including the Global Talent Visa), Australia’s COVID-19 recovery, opportunities for migrants and how migration agents worked.
+Key online sources that Indians looked to for information included major media outlets like the ABC, Guardian and Sydney Morning Herald, as well as government websites and Y-Axis Australia (an immigration agency).
+Given India was the largest source country of immigrants to Australia in 2018–19, these findings should be of great interest to government.
+
+Our research tells us Australians are actively watching the government’s next move on migration and expecting it to demonstrate leadership in this area.
+When we considered the global views of potential migrants, we can see Australia is perhaps no longer seen as the key destination it once was and immigration may not rebound as expected or hoped after the pandemic.
+In 2019, the OECD ranked Australia as the top immigration destination in terms of attracting and retaining “high talent” migrants — highly educated workers, entrepreneurs and university students — but we may now face tough competition from other countries, such as Canada.
+Another finding from our research is that migrants overseas are often reliant on translations of government websites for information rather than official Australian government websites in English.
+This means there is scope for the government to translate its online immigration sources into other languages to reach more potential migrants.
+Our findings should be particularly relevant to sectors reliant on immigration, such as the tertiary education, retail, hospitality, health and IT sectors, as we come out of the COVID-19 crisis.
+Elisa Choy, founder of Maven Data, conducted the data analysis for this article. We would also like to thank Dr Lucia Sorbera, Chair of Arabic Studies at the University of Sydney, for her assistance with translation of our coding frame into Arabic.

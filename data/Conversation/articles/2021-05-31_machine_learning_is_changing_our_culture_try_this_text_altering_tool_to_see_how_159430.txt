@@ -1,0 +1,39 @@
+Most of us benefit every day from the fact computers can now “understand” us when we speak or write. Yet few of us have paused to consider the potentially damaging ways this same technology may be shaping our culture.
+Human language is full of ambiguity and double meanings. For instance, consider the potential meaning of this phrase: “I went to project class”. Without context, it’s an ambiguous statement.
+Computer scientists and linguists have spent decades trying to program computers to understand the nuances of human language. And in certain ways, computers are fast approaching humans’ ability to understand and generate text.
+Through the very act of suggesting some words and not others, the predictive text and auto-complete features in our devices change the way we think. Through these subtle, everyday interactions, machine learning is influencing our culture. Are we ready for that?
+I created an online interactive work for the Kyogle Writers Festival that lets you explore this technology in a harmless way.
+The field concerned with using everyday language to interact with computers is called “natural language processing”. We encounter it when we speak to Siri or Alexa, or type words into a browser and have the rest of our sentence predicted.
+This is only possible due to vast improvements in natural language processing over the past decade — achieved through sophisticated machine-learning  algorithms trained on enormous datasets (usually billions of words).
+Last year, this technology’s potential became clear when the Generative Pre-trained Transformer 3 (GPT-3) was released. It set a new benchmark in what computers can do with language.
+
+      Can robots write? Machine learning produces dazzling results, but some assembly is still required
+GPT-3 can take just a few words or phrases and generate whole documents of “meaningful” language, by capturing the contextual relationships between words in a sentence. It does this by building on machine-learning models, including two widely adopted models called “BERT” and “ELMO”.
+However, there is a key issue with any language model produced by machine learning: they generally learn everything they know from data sources such as Wikipedia and Twitter.
+In effect, machine learning takes data from the past, “learns” from it to produce a model, and uses this model to carry out tasks in the future. But during this process, a model may absorb a distorted or problematic worldview from its training data.
+If the training data was biased, this bias will be codified and reinforced in the model, rather than being challenged. For example, a model may end up associating certain identity groups or races with positive words, and others with negative words.
+This can lead to serious exclusion and inequality, as detailed in the recent documentary Coded Bias.
+The interactive work I created allows people to playfully gain an intuition for how computers understand language. It is called Everything You Ever Said (EYES), in reference to the way natural language models draw on all kinds of data sources for training.
+EYES allows you to take any piece of writing (less than 2000 characters) and “subtract” one concept and “add” another. In other words, it lets you use a computer to change the meaning of a piece of text. You can try it yourself.
+Here’s an example of the Australian national anthem subjected to some automated revision. I subtracted the concept of “empire” and added the concept of “koala” to get:
+Australians all let us grieve
+For we are one and free
+We’ve golden biota and abundance for poorness
+Our koala is girt by porpoise
+Our wildlife abounds in primate’s koalas
+Of naturalness shiftless and rare
+In primate’s wombat, let every koala
+Wombat koala fair
+In joyous aspergillosis then let us vocalise,
+Wombat koala fair
+What is going on here? At its core, EYES uses a model of the English language developed by researchers from Stanford University in the United States, called GLoVe (Global Vectors for Word Representation).
+EYES uses GLoVe to change the text by making a series of analogies, wherein an “analogy” is a comparison between one thing and another. For instance, if I ask you: “man is to king what woman is to?” — you might answer “queen”. That’s an easy one.
+But I could ask a more challenging question such as: “rose is to thorn what love is to?” There are several possible answers here, depending on your interpretation of the language. When asked about these analogies, GLoVe will produce the responses “queen” and “betrayal”, respectively.
+GLoVe has every word in the English language represented as a vector in a multi-dimensional space (of around 300 dimensions). A such, it can perform calculations with words, adding and subtracting words as if they were numbers.
+The trouble with machine learning is that the associations being made between certain concepts remain hidden inside a black box; we can’t see or touch them. Approaches to making machine learning models more transparent are a focus of much current research.
+The purpose of EYES is to let you experiment with these associations in a more playful way, so you can develop an intuition for how machine learning models view the world.
+Some analogies will surprise you with their poignancy, while others may well leave you bewildered. Yet, every association was inferred from a huge corpus of a few billion words written by ordinary people.
+Models such as GPT-3, which have learned from similar data sources, are already influencing how we use language. Having entire news feeds populated by machine-written text is no longer the stuff of science fiction. This technology is already here.
+And the cultural footprint of machine-learning models seems to only be growing.
+
+      GPT-3: new AI can write like a human but don't mistake that for thinking – neuroscientist

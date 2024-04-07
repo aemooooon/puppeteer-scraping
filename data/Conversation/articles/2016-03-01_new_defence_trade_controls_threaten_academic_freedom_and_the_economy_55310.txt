@@ -1,0 +1,46 @@
+A new round of trade controls will come into effect in Australia next month and they could have a far reaching impact on the way academics do their work, and may end up hurting the economy.
+The Defence Trade Controls Act (DTCA) goes into effect on April 2, 2016, and it applies to all Australians, including those now living overseas.
+The DTCA brings in a new regime of Department of Defence (DoD) oversight for both military “goods”, meaning new scientific ideas and means of application, and “dual-use goods”, which are innovations that may have some military use.
+This has severe implications for Australian work on encryption, a key enabler for the rapidly growing internet economy. Less well appreciated is that the 361 pages of the Defence and Strategic Goods List (DSGL), defining the law’s scope, covers many other key innovation areas:
+Included is all software directly necessary to implementing such technology. Excluded is everything that is already in the public domain.
+All these areas of research, innovation, education come under the control of DoD on April 2 via its Defence Export Controls Office (DECO).
+The DTCA introduces a permit regime for any “intangible supply” (especially electronic communication) of new ideas in DSGL areas. Researchers and innovators who communicate any new idea overseas without permission face ten years in prison and A$400,000 fines.
+In other words, if you deal in new ideas in any of these areas, and you do not apply for a DoD permit, you are putting yourself at serious legal risk.
+The DSGL is clearly difficult to maintain. For example, it refers to integrated circuits running at 40 MHz or above, which were state of the art around 25 years ago. Recently Daniel Mathews pointed out that the DSGL controls encryption using only 512 bits, also long obsolete.
+Ambiguity bedevils the legislation. The precise scope is literally impossible to pin down. Consider artificial intelligence (AI). Since almost any AI can be used to improve robotic performance, AI might be covered. However, AI is covered only if it is to enable DSGL technology. So, for example, a deep learning algorithm would not be covered.
+Suppose, however, that the deep learning program were subsequently applied specifically to improve combat robot performance. DECO could retrospectively deem research leading to that controlled and some prior communications to be criminal acts.
+This also illustrates a lack of clarity in the demarcation between the DSGL military list and dual-use list. These ambiguities put every researcher across the DSGL spectrum at risk.
+The Amendment Act (2015), negotiated by former Chief Scientist Ian Chubb, mitigates some consequences, exempting oral communications and publication of dual-use research.
+Unfortunately, much scientific communication is neither for publication nor oral. Almost all projects involve emailing someone overseas. Often they involve overseas visits presenting at seminars or unpublished conferences.
+These worries are serious: current DECO advice states, for example, that if your laptop has DSGL information then “you will need an export permit […] even if you have no intention of providing the DSGL technology to anyone while overseas”.
+Only a tiny minority of dual-use research projects will be able to safely avoid applying for DoD permits.
+The DoD may, of course, grant a permit. A granted permit gives DECO the right to search your premises (home or work) and copy any documentation found.
+This right applies to proprietary research as much as public research.
+It’s a fair surmise that multinationals will not wear the unimpeded provision of their IP to DoD and so will move their research projects overseas, rather than use international collaborations, as they have done.
+Smaller companies will either move overseas entirely or shut down. Indeed, I am aware of cases where both have already occurred in Australia in anticipation of the law.
+Obtaining prior approval for each project (or even communication) will put an end to a lot of research activity in Australia, directing researchers, students, innovation and almost all subsequent economic activity elsewhere.
+This is a bleak prospect for “Innovation Australia”.
+As part of the Wassenaar Arrangement, both the UK and US have related laws. You might expect them to match up with Australian law, but they don’t.
+Both the UK and the US provide protections for public research and education, for which there are no similar protections in the Australian law. The UK Export Control Act of 2002 (Section 8) states:
+This protects ordinary scientific research activities at public institutions, regardless of publication. Seminars, overseas visits and educational activities are clearly covered.
+These sensible goals are achieved without sacrificing legitimate security objectives, since Ministerial intervention is specifically provided for in the (unquoted) conclusion of Section 8.
+US protections can be found in various parts of their International Traffic in Arms Regulations (ITAR). Fundamental research is specifically protected, defined as “basic and applied research in science and engineering where the resulting information is ordinarily published and shared broadly within the scientific community”. Here and elsewhere US law protects fundamental research and public education.
+The DSGL exempts only basic research, defined as “experimental or theoretical work undertaken principally to acquire new knowledge […] not primarily directed towards a specific practical aim or objective”.
+While this leaves some freedom to do science, projects funded by the Australian Research Council, the National Health and Medical Research Council, CSIRO, the Defence Science and Technology Group and Centres of Excellence around Australia need statements claiming practical impact.
+There is no such thing as cutting-edge technology that does not have a practical aim.
+I suggest the following revisions be made and that enforcement be deferred until that time (while noting they do not fully address the unintended consequences of the DTCA for industry):
+1) That the clauses of the UK Export Control Act (2002), Section 8, including a), b) and c) be added to the DTCA so as to protect fundamental research and the communications necessary to scientific research. Ministerial intervention can be explicitly provided for in cases of explicitly military research covered by Part 1 of the DSGL or when there is a specific security concern raised by dual-use research.
+2) That the permit regime should protect the intellectual property of researchers. In particular, IP should be explicitly acknowledged as remaining with the prior owner. Any copies made of research documents, designs or anything else to which IP is attached shall be destroyed as soon as the investigative purposes for which they were made have been satisfied.
+A Defence Report article has just been published, voicing similar concerns.
+I have also authored an open letter to the Prime Minister Malcolm Turnbull, which you can read below, or add your support to here.
+To The Honourable Prime Minister Malcolm Turnbull,
+We are concerned about the likely adverse impacts of the Defence Trade Controls Act (DTCA), 2012, and the Amendment Act of 2015, scheduled to go into effect on 2 April 2016.
+These Acts put at risk fundamental research and education in science and technology in Australia.
+Despite years of review and consultation, many of the most pressing problems raised remain unaddressed. Researchers and educators are about to be put at explicit legal risk of imprisonment and heavy fines for doing nothing more than teaching and engaging in research as they have freely done for decades.
+As Geoffrey Robertson QC said recently, the DTCA is “so sloppily drafted that it is a real threat to academic research which has no sensible connection to military technology. There should, at the very least, be an exemption from criminal penalty for those who are engaged in legitimate education or research exchanges.”
+The DTCA is supposed to bring Australia into line with the UK and US treatment of military and “dual-use” research, that is, civilian research that might be put to military purposes. However, both UK and US law have safeguards for fundamental research and education, which the Australian law omits.
+US law (ITAR 120.11) explicitly protects fundamental research, i.e., “basic and applied research in science and engineering where the resulting information is ordinarily published and shared broadly within the scientific community.”
+UK law (Export Control Act, Section 8) likewise protects “the communication of information in the ordinary course of scientific research.”
+If the Australian government is to foster an “ideas boom”, it should be rewarding innovative research in science and technology, not stifling it with legal risks.
+We request that the Australian law exempt fundamental research and public education, bringing it into accord with UK and US law, before irreparable damage is done to science, technology and education in Australia.
+Sincerely Yours,

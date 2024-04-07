@@ -1,0 +1,34 @@
+There’s no shortage of dire warnings about the dangers of artificial intelligence these days.
+Modern prophets, such as physicist Stephen Hawking and investor Elon Musk, foretell the imminent decline of humanity. With the advent of artificial general intelligence and self-designed intelligent programs, new and more intelligent AI will appear, rapidly creating ever smarter machines that will, eventually, surpass us.
+When we reach this so-called AI singularity, our minds and bodies will be obsolete. Humans may merge with machines and continue to evolve as cyborgs.
+Is this really what we have to look forward to?
+Not really, no.
+AI, a scientific discipline rooted in computer science, mathematics, psychology, and neuroscience, aims to create machines that mimic human cognitive functions such as learning and problem-solving.
+Since the 1950s, it has captured the public’s imagination. But, historically speaking, AI’s successes have often been followed by disappointments – caused, in large part, by the inflated predictions of technological visionaries.
+In the 1960s, one of the founders of the AI field, Herbert Simon, predicted that “machines will be capable, within twenty years, of doing any work a man can do.” (He said nothing about women.)
+Marvin Minsky, a neural network pioneer, was more direct, “within a generation,” he said, “… the problem of creating ‘artificial intelligence’ will substantially be solved”.
+But it turns out that Niels Bohr, the early 20th century Danish physicist, was right when he (reportedly) quipped that, “Prediction is very difficult, especially about the future.”
+Today, AI’s capabilities include speech recognition, superior performance at strategic games such as chess and Go, self-driving cars, and revealing patterns embedded in complex data.
+These talents have hardly rendered humans irrelevant.
+But AI is advancing. The most recent AI euphoria was sparked in 2009 by much faster learning of deep neural networks.
+Artificial intelligence consists of large collections of connected computational units called artificial neurons, loosely analogous to the neurons in our brains. To train this network to “think”, scientists provide it with many solved examples of a given problem.
+Suppose we have a collection of medical-tissue images, each coupled with a diagnosis of cancer or no-cancer. We would pass each image through the network, asking the connected “neurons” to compute the probability of cancer.
+We then compare the network’s responses with the correct answers, adjusting connections between “neurons” with each failed match. We repeat the process, fine-tuning all along, until most responses match the correct answers.
+Eventually, this neural network will be ready to do what a pathologist normally does: examine images of tissue to predict cancer.
+This is not unlike how a child learns to play a musical instrument: she practices and repeats a tune until perfection. The knowledge is stored in the neural network, but it is not easy to explain the mechanics.
+Networks with many layers of “neurons” (therefore the name “deep” neural networks) only became practical when researchers started using many parallel processors on graphical chips for their training.
+Another condition for the success of deep learning is the large sets of solved examples. Mining the internet, social networks and Wikipedia, researchers have created large collections of images and text, enabling machines to classify images, recognise speech, and translate language.
+Already, deep neural networks are performing these tasks nearly as well as humans.
+But their good performance is limited to certain tasks.
+Scientists have seen no improvement in AI’s understanding of what images and text actually mean. If we showed a Snoopy cartoon to a trained deep network, it could recognise the shapes and objects – a dog here, a boy there – but would not decipher its significance (or see the humour).
+We also use neural networks to suggest better writing styles to children. Our tools suggest improvement in form, spelling, and grammar reasonably well, but are helpless when it comes to logical structure, reasoning, and the flow of ideas.
+Current models do not even understand the simple compositions of 11-year-old schoolchildren.
+AI’s performance is also restricted by the amount of available data. In my own AI research, for example, I apply deep neural networks to medical diagnostics, which has sometimes resulted in slightly better diagnoses than in the past, but nothing dramatic.
+In part, this is because we do not have large collections of patients’ data to feed the machine. But the data hospitals currently collect cannot capture the complex psychophysical interactions causing illnesses like coronary heart disease, migraines or cancer.
+So, fear not, humans. Febrile predictions of AI singularity aside, we’re in no immediate danger of becoming irrelevant.
+AI’s capabilities drive science fiction novels and movies and fuel interesting philosophical debates, but we have yet to build a single self-improving program capable of general artificial intelligence, and there’s no indication that intelligence could be infinite.
+Deep neural networks will, however, indubitably automate many jobs. AI will take our jobs, jeopardising the existence of manual labourers, medical diagnosticians, and perhaps, someday, to my regret, computer science professors.
+Robots are already conquering Wall Street. Research shows that “artificial intelligence agents” could lead some 230,000 finance jobs to disappear by 2025.
+In the wrong hands, artificial intelligence can also cause serious danger. New computer viruses can detect undecided voters and bombard them with tailored news to swing elections.
+Already, the United States, China, and Russia are investing in autonomous weapons using AI in drones, battle vehicles, and fighting robots, leading to a dangerous arms race.
+Now that’s something we should probably be nervous about.

@@ -1,0 +1,31 @@
+The use of artificial intelligence (AI) and other automated decision-making tools in recruitment is on the rise among Australian organisations. However, research shows these tools may be unreliable and discriminatory, and in some cases rely on discredited science.
+At present, Australia has no specific laws to regulate how these tools operate or how organisations may use them.
+The closest thing we have is new guidance for employers in the public sector, issued by the Merit Protection Commissioner after overturning several automated promotion decisions.
+The commissioner reviews promotion decisions in the Australian public sector to make sure they are lawful, fair and reasonable. In the 2021-22 financial year, Commissioner Linda Waugh overturned 11 promotion decisions made by government agency Services Australia in a single recruitment round.
+These decisions were made using a new automated process that required applicants to pass through a sequence of AI assessments, including psychometric testing, questionnaires and self-recorded video responses. The commissioner found this process, which involved no human decision-making or review, led to meritorious applicants missing out on promotions.
+
+      Algorithms can decide your marks, your work prospects and your financial security. How do you know they're fair?
+The commissioner has now issued guidance material for Australian government departments on how to choose and use AI recruitment tools.
+This is the first official guidance given to employers in Australia. It warns that not all AI recruitment tools on the market here have been thoroughly tested, nor are they guaranteed to be completely unbiased.
+AI tools are used to automate or assist recruiters with sourcing, screening and onboarding job applicants. By one estimate, more than 250 commercial AI recruitment tools are available in Australia, including CV screening and video assessment.
+A recent survey by researchers at Monash University and the Diversity Council of Australia found one in three Australian organisations have used AI in recruitment recently.
+The use of AI recruitment tools is a “high risk” activity. By affecting decisions related to employment, these tools may impact the human rights of job seekers and risk locking disadvantaged groups out of employment opportunities.
+Australia has no specific legislation regulating the use of these tools. Australia’s Department of Industry has published AI Ethics Principles, but these are not legally binding. Existing laws, such as the Privacy Act and anti-discrimination legislation, are in urgent need of reform.
+AI recruitment tools involve new and developing technologies. They may be unreliable and there are well-publicised examples of discrimination against historically disadvantaged groups.
+AI recruitment tools may discriminate against these groups when their members are missing from the datasets on which AI is trained, or when discriminatory structures, practices or attitudes are transmitted to these tools in their development or deployment.
+There is currently no standard test that identifies when an AI recruitment tool is discriminatory. Further, as these tools are often made outside Australia, they are not attuned to Australian law or demographics. For example, it is very likely training datasets do not include Australia’s First Nations peoples.
+AI recruitment tools used by and on behalf of employers in Australia lack adequate safeguards.
+Human rights risk and impact assessments are not required prior to deployment.  Monitoring and evaluation once they are in use may not occur. Job seekers lack meaningful opportunities to provide input on their use.
+While the vendors of these tools may conduct internal testing and auditing, the results are often not publicly available. Independent external auditing is rare.
+Job seekers are at a considerable disadvantage when employers use these tools.  They may be invisible and inscrutable, and they are changing hiring practices in ways that are not well understood.
+Job seekers have no legal right to be told when AI is used to assess them in the hiring process. Nor are they required to be given an explanation of how an AI recruitment tool will assess them.
+
+      Artificial intelligence can deepen social inequality. Here are 5 ways to help prevent this
+My research has found this is particularly problematic for job seekers with disabilities. For example, job seekers with low vision or limited manual dexterity may not know they will be assessed on the speed of their responses until it is too late.
+Job seekers in Australia also lack the protection available to their counterparts in the European Union, who have the right not to be subjected to a fully automated recruitment decision.
+The use of video assessment tools, like those used by Services Australia, is particularly concerning. Many of these AI tools rely on facial analysis, which uses facial features and movements to infer behavioural, emotional and character traits.
+This type of analysis has been scientifically discredited.
+One prominent vendor, HireVue, ceased the use of facial analysis in its AI tool after a formal complaint in the United States.
+The Services Australia example highlights the urgent need for a regulatory response. The Australian government is currently consulting on the regulation of AI and automated decision-making.
+We can hope that new regulations will address the many issues with the use of AI tools in recruitment. Until legal protections are in place, it might be best to hold off on the use of these tools to screen job seekers.
+Correction: an earlier version of this article suggested HireVue was forced to stop using facial analysis as a result of a complaint filed against them. This has been amended.

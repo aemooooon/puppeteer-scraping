@@ -1,0 +1,24 @@
+Artificial systems such as homecare robots or driver-assistance technology are becoming more common, and it’s timely to investigate whether people or algorithms are better at reading emotions, particularly given the added challenge brought on by face coverings.
+In our recent study, we compared how face masks or sunglasses affect our ability to determine different emotions compared with the accuracy of artificial systems.
+We presented images of emotional facial expressions and added two different types of masks — the full mask used by frontline workers and a recently introduced mask with a transparent window to allow lip reading.
+Our findings show algorithms and people both struggle when faces are partially obscured. But artificial systems are more likely to misinterpret emotions in unusual ways.
+Artificial systems performed significantly better than people in recognising emotions when the face was not covered — 98.48% compared to 82.72% for seven different types of emotion.
+But depending on the type of covering, the accuracy for both people and artificial systems varied. For instance, sunglasses obscured fear for people while partial masks helped both people and artificial systems to identify happiness correctly.
+
+      AI is increasingly being used to identify emotions – here's what's at stake
+Importantly, people classified unknown expressions mainly as neutral, but artificial systems were less systematic. They often incorrectly selected anger for images obscured with a full mask, and either anger, happiness, neutral, or surprise for partially masked expressions.
+Our ability to recognise emotion uses the visual system of the brain to interpret what we see. We even have an area of the brain specialised for face recognition, known as the fusiform face area, which helps interpret information revealed by people’s faces.
+Together with the context of a particular situation (social interaction, speech and body movement) and our understanding of past behaviours and sympathy towards our own feelings, we can decode how people feel.
+A system of facial action units has been proposed for decoding emotions based on facial cues. It includes units such as “the cheek raiser” and “the lip corner puller”, which are both considered part of an expression of happiness.
+In contrast, artificial systems analyse pixels from images of a face when categorising emotions. They pass pixel intensity values through a network of filters mimicking the human visual system.
+The finding that artificial systems misclassify emotions from partially obscured faces is important. It could lead to unexpected behaviours of robots interacting with people wearing face masks.
+Imagine if they misclassify a negative emotion, such as anger or sadness, as a positive emotional expression. The artificial systems would try to interact with a person taking actions on the misguided interpretation they are happy. This could have detrimental effects for the safety of these artificial systems and interacting humans.
+Our research reiterates that algorithms are susceptible to biases in their judgement. For instance, the performance of artificial systems is greatly affected when it comes to categorising emotion from natural images. Even just the sun’s angle or shade can influence outcomes.
+Algorithms can also be racially biased. As previous studies have found, even a small change to the colour of the image, which has nothing to do with emotional expressions, can lead to a drop in performance of algorithms used in artificial systems.
+
+      Face masks and facial recognition will both be common in the future. How will they co-exist?
+As if that wasn’t enough of a problem, even small visual perturbations, imperceptible to the human eye, can cause these systems to misidentify an input as something else.
+Some of these misclassification issues can be addressed. For instance, algorithms can be designed to consider emotion-related features such as the shape of the mouth, rather than gleaning information from the colour and intensity of pixels.
+Another way to address this is by changing the training data characteristics — oversampling the training data so that algorithms mimic human behaviour better and make less extreme mistakes when they do misclassify an expression.
+But overall, the performance of these systems drops when interpreting images in real-world situations when faces are partially covered.
+Although robots may claim higher than human accuracy in emotion recognition for static images of completely visible faces, in real-world situations that we experience every day, their performance is still not human-like.

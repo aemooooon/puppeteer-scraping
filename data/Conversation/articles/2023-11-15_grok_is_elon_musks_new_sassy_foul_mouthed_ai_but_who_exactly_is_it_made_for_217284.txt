@@ -1,0 +1,31 @@
+On November 4, X owner Elon Musk unveiled his new AI chatbot Grok: a sarcastic ChatGPT alternative supposedly “modelled” after The Hitchhiker’s Guide to the Galaxy, one of Musk’s favourite books.
+The verb Grok means “to understand intuitively or by empathy, to establish rapport with”. Science-fiction writer Robert Heinlein first coined the term, which is now used by people in the computer science industry.
+According to xAI, another company in Musk’s diversified technology portfolio, Grok “is designed to answer questions with a bit of wit and has a rebellious streak, so please don’t use it if you hate humour!”
+
+Grok is built on a large language model (LLM) in much the same way as OpenAI’s ChatGPT, and is being positioned as a potential rival.
+Although Grok isn’t available to the general public yet, the beta version has been released to a small group of testers and some of X’s Premium+ subscribers. However, Musk said access would be granted according to the length of the Premium+ membership, which suggests new subscribers will have to wait.
+If you’re impatient, a number of Grok’s “witty” interjections have made their way to X feeds. What stands out the most is just how foulmouthed the chatbot is programmed to be.
+
+Is there any benefit to having a chatbot of this nature? And why might have Musk taken this approach?
+Musk has tweeted a number of his interactions with Grok, which has provided no shortage of snarky responses. Several other early adopters have also shared their experiences.
+
+While some of Grok’s answers seem as good as other chatbots’ outputs, some are poorer. For example, one user reported Grok was unable to provide a news summary and analysis when asked about the United States’ off-year elections on November 7. Instead, it went through recent tweets on the topic.
+This may be because Grok is still an early beta product. It had reportedly been through about two months of training at the time it was launched.
+Although Grok is meant to be modelled after Douglas Adams’ 1979 satirical novel The Hitchhiker’s Guide to the Galaxy, critics have been quick to point out there’s little similarity between the chatbot and the characters and humour that made Adams’ book a worldwide success.
+Nevertheless, Grok stands out for a number of reasons. Its essence lies in a perpetual satire and jest, which users are invited to relish.
+It’s also willing to, as xAI put it, “answer spicy questions that are rejected by most other AI systems”. This trait has proven to be effective in making Grok go viral.
+Early posts from users show it enthusiastically engaging in conversations about sex, drugs and religion, which other chatbots such as Microsoft’s Bing and Google’s Bard would refuse to do.
+
+It’s not clear how Grok’s style will affect its practical use. While it does slightly outperform ChatGPT 3.5 on mathematical and multiple-choice knowledge tests, there don’t seem to be examples of how it would perform when asked to write a professional report or email, wherein humour would be inappropriate.
+Grok has real-time and direct access to posts on X, along with standard training datasets. In other words, its responses are based on the content of a platform that has been heavily criticised for enabling hate speech and being poorly moderated since Musk’s takeover last year.
+Since AI chatbots are largely reflective of the quality of their training data (and additional human feedback training), Grok could end up adopting the myriad biases and problematic traits inherent in X’s content. This would lead to safety risks, including the spread of harmful ideas and misinformation, a concern that’s commonly cited by experts calling for AI regulation.
+While ChatGPT now has real-time access to the internet, it also trains on a separate dataset called Common Crawl. This allows developers to have more control of what goes in the chatbot’s “brain”.
+According to xAI:
+But this could also mean much less filtering of the content that goes into and comes out of Grok.
+Controversially, Grok was launched just days after the AI Safety Summit at Bletchley Park in the United Kingdom, where 27 countries signed the Bletchley declaration towards mitigating the risks of AI.
+Musk also participated in the summit. In fact, just hours before his flight to the UK, he spoke about how AI might pose an existential risk to humanity if it becomes “accidentally anti-human”.
+Yet, a few days after discussing these risks and taking part in an AI summit, Musk releases an AI tool that disregards all the premises of safety engraved in the Bletchley declaration.
+However, he may not see it that way. In an interview with Joe Rogan, Musk said he bought X (then Twitter) to fight the “woke mind virus” and “extinctionists” who “view humanity as a plague on the surface of the Earth”.
+Training Grok to be politically correct, he said, is the risk itself – and this is why he wanted to develop a chatbot that says what it “thinks” (or rather, what the average user thinks).
+That would make Grok the AI chatbot version of the “average Joe” on X. It’s hard to say whether, in the grand scheme of things, the majority of people need or even want such a tool. But we should certainly consider the safety risks it may pose.
+In the meantime, at least Grok has a more comprehensive answer to the meaning of life than “42”.

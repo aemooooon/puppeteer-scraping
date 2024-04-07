@@ -1,0 +1,33 @@
+Many of the technological advances predicted in Star Trek’s fictional universe have become reality, such as the mobile communicator and hand-held tablet computers.
+Others, such as tractor beams and warp drives, are still a work in progress. But what of the Holodeck?
+The Holodeck first appeared in The Practical Joker, a 1974 episode of the Star Trek animated series. It was depicted as a recreation room containing a simulated, alternative version of reality. It featured heavily in The Next Generation series and in the 1996 film First Contact.
+Anyone entering the Holodeck could interact with “solid” props and characters in any scenario based on whatever parameters they programmed.
+These programs are not unlike the narrative-driven, cinematic videogames we have today, such as Grand Theft Auto, Red Dead Redemption or The Witcher.
+The Holodeck was a narrative device that allowed Star Trek’s writers to experiment with philosophical questions in settings not available in a typical sci-fi context.
+It inspired several generations of computer scientists who spearheaded research in artificial intelligence, computer graphics and human-computer interaction.
+The convergence of these research areas has given rise to other forms of reality on the path to the construction of a real Holodeck.
+In virtual reality (VR) we are fully immersed in a synthetic, “virtual” version of reality, experienced through dedicated VR headsets such as the Oculus Rift or the HTC Vive.
+A typical example of VR is an immersive war game that puts a user in charge of a Roman army as Caesar, battling Vercingetorix’s Gaul troops at Alesia.
+But VR has a major drawback for some applications. Being isolated from the real world, it’s not easy to engage in social interaction or physical movement in a way that feels natural to most people.
+Augmented reality (AR) blends synthetic, virtual objects with the view of our physical reality. In AR, we can interact with virtual humans inhabiting our physical space or we can work with our children, for example, to build virtual LEGO houses on real tables in our own living rooms.
+Headsets are available that allow us to create AR in our office or lounge rooms, such as the Microsoft Hololens or the Meta.
+But AR headsets still suffer from several technical limitations, such as a reduced field of view. The software that lets the virtual and real worlds interact believably and naturally still needs work.
+Real-world Holodeck programs would also need the technology to sense human actions. This would provide useful information that the virtual personas inhabiting the Holodeck programs would use to anticipate our human intentions.
+Progress here has been fast and constant, with great improvements in speech recognition and language translation, such as Apple’s Siri, Google’s Assistant and Microsoft’s Cortana.
+We now take almost for granted the ability to search for information with speech or to command our mobiles to schedule meetings and appointments. Other devices, originally conceived for entertainment applications, can track human gestures or even their full body posture.
+For example, Microsoft Kinect can track a human body, and the technology is now included in the Hololens as its gesture-recognition component.
+Lots of other sensing devices are now commonplace in mobile devices, such as accelerometers, gyroscopes, magnetometers, and temperature and pressure sensors.
+The general trend is towards giving humans the ability to communicate using a combination of their body and their voice via hands-free or wearable user interfaces.
+The key ingredient for Holodeck programs in the real world is the ability to equip virtual characters with sophisticated forms of artificial intelligence (AI).
+AI and machine learning – the art of teaching a machine how to learn to perform a complex task – have seen advances in areas such as automated game playing, autonomous car driving and drone control, and deep learning.
+These advances, while noteworthy, do not necessarily show strong progress towards general forms of artificial intelligence (AGI) exhibited by humans.
+It has been argued that defining or providing general human intelligence may prove a very elusive problem for a long time, or indeed forever.
+Fortunately, a restricted version of a Holodeck program may only require a slightly weaker, not fully general form of intelligence. This was exemplified by androids in the popular TV series reboot of Westworld.
+The good news is that this may shorten the time needed to realise the hypothetical Holodeck programs. The bad news is that such a feat is still beyond us at this stage, although recent progress in machine learning will likely help us close the gap faster.
+The question is then whether we shall ever be able to reach the level of sophistication in AR and AI needed to build a Holodeck? And if so, when?
+Making predictions on such matters is not trivial, but I am inclined to think that current advances in VR and AR technologies will provide us with the required sophisticated headsets within the next five to ten years.
+The question then is also whether we shall ever be able to achieve AR using alternative forms of projections that remove the need for a headset altogether.
+This may be possible, eventually, but it would be irrelevant if headsets could be miniaturised and potentially implanted into human eyes, similar to what was suggested in other sci-fi classics such as Neuromancer or Snow Crash, and recently advocated by transhumanists.
+The recent predictions about breakthroughs in general artificial intelligence by experts seem to converge around a date around 2040. This would put the sort of AI required for Holodeck characters somewhat earlier than that.
+So I believe that one day humans will be able to experience some form of Holodeck similar to what was envisaged in Star Trek.
+To paraphrase Star Teek’s infamous Borg alien race, I will say that resistance to this technological progress is futile and it will be assimilated, one day.

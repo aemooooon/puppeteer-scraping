@@ -1,0 +1,32 @@
+Anyone who has travelled by air in the past ten years will know how stressful airports can be.
+You didn’t leave home as early as you should have. In the mad rush to get to your gate, the security screening seems to slow everything down. And to add insult to injury, you’re met with the finicky request: “laptops out of bags, please”.
+But what does your laptop have to do with security?
+Airport security changed dramatically after the terrorist attacks in the US on September 11 2001. Before 9/11, you could pass through security with a carry-on bag full of everything you might need for your holiday, including a knife with a four-inch blade. Indeed, that’s how the 9/11 attackers brought their weapons on board.
+After 9/11, screening processes around the world changed overnight. In the US, private security contractors being paid a minimum wage were swapped out for a federalised program with highly trained security personnel. Anything that could be considered a weapon was confiscated.
+Around the world, travellers were suddenly required to remove their shoes, belts and outerwear, and take out their phones, laptops, liquids and anything else that could be used as part of an improvised explosive device.
+This lasted for several years. Eventually, more advanced screening methods were developed to effectively identify certain threats. Today, some countries don’t require you to remove your shoes when passing through security.
+So why must you still take your laptop out?
+The machine your bags and devices pass through is an X-ray machine.
+The main reason you have to remove your laptop from your bag is because its battery and other mechanical components are too dense for X-rays to penetrate  effectively – especially if the scanning system is old. The same goes for power cords and other devices such as tablets and cameras.
+With these items in your bag, security officials can’t use the screened image to determine whether a risk is present. They’ll have to flag the bag for a physical search, which slows everything down. It’s easier if all devices are removed in the first place.
+A laptop inside a bag can also shield other items from view that may be dangerous. Scanning it separately reveals its internal components on the screen. In some cases you might be asked to turn it on to prove it’s an actual working computer.
+With newer multi-view scanning technology, security officials can view the bag from multiple angles to discern whether something is being covered up, or made to look like something else. For instance, people have tried to mix gun parts with other components in an effort to pass checked baggage screening.
+Some airports have upgraded 3D scanning that allows travellers to pass their bags through security without having to remove their laptops. If you’re not asked to take out your laptop, it’s probably because one of these more expensive systems is being used.
+Nonetheless, amping up the technology won’t remove the lag caused by airport screenings. Ultimately, the reason these are a major choke point is because of the speed at which staff scan the imagery (which dictates the speed of the conveyor belt).
+Unless we find a way to automate the entire process and run it with minimal human supervision, you can expect delays.
+But your bags aren’t the only thing getting scanned at airport security. You are too!
+The tall frame you walk through is a metal detector. Its purpose is to uncover any weapons or other illegal objects that may be concealed under your clothes. Airport metal detectors use non-ionising radiation, which means they don’t emit X-rays.
+The larger body scanners, on the other hand, are a type of X-ray machine. These can be active or passive, or a combination of both.
+Passive scanners simply detect the natural radiation emitted by your body and any objects that might be concealed. Active scanners emit low-energy radiation to create a scan of your body, which can then be analysed.
+The kind of machine you walk through will depend on where in the world you are. For instance, one type of active body scanner that emits X-rays in what’s called “backscatter technology” was once used widely in the US, but is no longer used. It’s also banned in Australia and the European Union, where only non-ionising technology can be used.
+Another type of scanner emits lower-energy millimetre waves, instead of X-rays, to image the passenger. Millimetre wave frequencies are considered to be non-ionising radiation.
+
+      Air travel exposes you to radiation – how much health risk comes with it?
+AI seems to be all around us lately, and our airports are no exception. Advancements in AI systems stand to transform the future of airport security.
+For now, human reviewers are required to identify potential threats in scanned images. However, what if an advanced AI was trained to do this using a database of images? It would do so in a fraction of the time.
+
+      What's the safest seat on a plane? We asked an aviation expert
+Some airports are already using advanced computed tomography (CT) scanners to produce high-definition 3D imagery. In the future, this technology could be further enhanced by AI to detect threats at a much faster rate.
+Hypothetically, CT scans could also be used for both humans and their baggage. Could this allow travellers to walk through a body scanner while carrying their bags? Possibly.
+Until then, you should probably try your best to leave the house on time.
+Correction: this article previously said X-ray backscatter technology is widely used in US airports, when in fact it is no longer used.

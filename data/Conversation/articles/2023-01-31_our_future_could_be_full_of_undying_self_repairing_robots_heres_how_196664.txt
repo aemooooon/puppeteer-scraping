@@ -1,0 +1,20 @@
+With generative artificial intelligence (AI) systems such as ChatGPT and StableDiffusion being the talk of the town right now, it might feel like we’ve taken a giant leap closer to a sci-fi reality where AIs are physical entities all around us.
+Indeed, computer-based AI appears to be advancing at an unprecedented rate. But the rate of advancement in robotics – which we could think of as the potential physical embodiment of AI – is slow.
+Could it be that future AI systems will need robotic “bodies” to interact with the world? If so, will nightmarish ideas like the self-repairing, shape-shifting T-1000 robot from the Terminator 2 movie come to fruition? And could a robot be created that could “live” forever?
+Biological lifeforms like ourselves need energy to operate. We get ours via a combination of food, water, and oxygen. The majority of plants also need access to light to grow.
+By the same token, an everlasting robot needs an ongoing energy supply. Currently, electrical power dominates energy supply in the world of robotics. Most robots are powered by the chemistry of batteries.
+An alternative battery type has been proposed that uses nuclear waste and ultra-thin diamonds at its core. The inventors, a San Francisco startup called Nano Diamond Battery, claim a possible battery life of tens of thousands of years. Very small robots would be an ideal user of such batteries.
+But a more likely long-term solution for powering robots may involve different chemistry – and even biology. In 2021, scientists from the Berkeley Lab and UMAss Amherst in the US demonstrated tiny nanobots could get their energy from chemicals in the liquid they swim in.
+The researchers are now working out how to scale up this idea to larger robots that can work on solid surfaces.
+Of course, an undying robot might still need occasional repairs.
+Ideally, a robot would repair itself if possible. In 2019, a Japanese research group demonstrated a research robot called PR2 tightening its own screw using a screwdriver. This is like self-surgery! However, such a technique would only work if non-critical components needed repair.
+Other research groups are exploring how soft robots can self-heal when damaged. A group in Belgium showed how a robot they developed recovered after being stabbed six times in one of its legs. It stopped for a few minutes until its skin healed itself, and then walked off.
+Another unusual concept for repair is to use other things a robot might find in the environment to replace its broken part.
+Last year, scientists reported how dead spiders can be used as robot grippers. This form of robotics is known as “necrobotics”. The idea is to use dead animals as ready-made mechanical devices and attach them to robots to become part of the robot.
+From all these recent developments, it’s quite clear that in principle, a single robot may be able to live forever. But there is a very long way to go.
+Most of the proposed solutions to the energy, repair and replication problems have only been demonstrated in the lab, in very controlled conditions and generally at tiny scales.
+The ultimate solution may be one of large colonies or swarms of tiny robots who share a common brain, or mind. After all, this is exactly how many species of insects have evolved.
+The concept of the “mind” of an ant colony has been pondered for decades. Research published in 2019 showed ant colonies themselves have a form of memory that is not contained within any of the ants.
+This idea aligns very well with one day having massive clusters of robots that could use this trick to replace individual robots when needed, but keep the cluster “alive” indefinitely.
+Ultimately, the scary robot scenarios outlined in countless science fiction books and movies are unlikely to suddenly develop without anyone noticing.
+Engineering ultra-reliable hardware is extremely difficult, especially with complex systems. There are currently no engineered products that can last forever, or even for hundreds of years. If we do ever invent an undying robot, we’ll also have the chance to build in some safeguards.

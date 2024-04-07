@@ -1,0 +1,29 @@
+I woke up on Friday morning a pawn in a Kafka-esque story. Except I hadn’t been transformed into a chess piece but was a diplomatic pawn, a small player in a much larger international story. I read the news that I and 119 other “prominent” Australians were banned from travelling to Russia “indefinitely”.
+The Russian sanctions were a response to Western sanctions and the “spreading of false information about Russia”. The Russian Foreign Ministry announced 121 people had been sanctioned but, in a beautifully Russian bureaucratic bungle, Air Vice-Marshal Darren Goldie was banned twice, making it just 120 of us on the list.
+As usual, I was the second person in my family to know. My wife had woken before me and was listening to the news. “Russia has banned a bunch more Australians,” she told me. “Bet you’re on the list.”
+The rest of the list was made up of journalists, business people, army officials, politicians and the odd academic like myself. What unites us is our outspoken criticism of Russia’s actions in Ukraine.
+This is one club of which I am proud to be a member.
+And rather than silence the critics, Russia’s actions only give our concerns more exposure. After all, you wouldn’t be reading this if Russia hadn’t banned me.
+I have a number of Russian friends and colleagues that I am saddened now not to be able to visit. I was at a conference in Moscow a few years ago and had a great time. I promised then to return to see the delights of St Petersburg.
+And I always imagined one day I’d follow Paul Theroux’s footsteps on the trans-Siberian express. But it seems I will now only ever read about such adventures from the comfort of my armchair.
+This brings me to my outspoken criticism of Russia’s actions in Ukraine.
+At the start of last week, I had the pleasure to speak about artificial intelligence (AI) at DevFest Ukraine, an online charity event put on by the tech community that raised over US$100,000 for those impacted by Russia’s invasion. And, in acknowledging the ownership of the land on which I was speaking, I acknowledged the ownership of all lands illegally occupied including those in Ukraine.
+But I am sure it was another act that was the cause of my sanction: casting doubt on Russia’s claims about AI. In April, I was interviewed for a story about Russian weaponry in the Australian – and as the author is the only tech journalist who made the Russian list, I’m confident that article is to blame.
+I can just imagine the Russian official in some non-descript office in bowels of the Foreign Ministry reading the Australian and pulling out the file to which my name was added.
+The article reported my significant concerns about Russia’s use of the “smart” AI-enabled POM-3 anti-personnel mine in Ukraine.
+Such mines are banned by the 1997 Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines (informally known as the Ottawa Treaty or the Anti-Personnel Mine Ban Convention). Russia is not a party to this treaty but 164 states are parties to it, including Australia and every country in Europe including Ukraine.
+The POM-3 is a particularly barbaric mine, designed to cause maximum damage to humans. It’s a descendant of the German “Bouncing Betty” mine used in World War II.
+When the mine is triggered, an expelling charge projects the warhead roughly one metre above ground level, at which point the warhead detonates. The warhead is packed with toothed rings designed to harm vital organs in a target’s body many metres away.
+The mine is triggered by a seismic sensor that detects approaching footsteps.
+Russia claims the mine is equipped with AI that can recognise friendly soldiers, thus minimising the risk of collateral damage.
+This is an absurd claim. The footsteps of Ukrainian and Russian soldiers will produce the same seismic footprint. No AI can tell them apart.
+Russia’s wild claim illustrates a worrying trend where states will say weapons use “AI” to target combatants rather than civilians. Handing over battlefield decision-making to AI is a hugely dangerous proposition.
+
+      Lethal autonomous weapons and World War III: it's not too late to stop the rise of 'killer robots'
+And this is just one the many dangers of AI in warfare. Others include the lowering of the barriers to war, and the development of new weapons of mass destruction.
+Fortunately, it’s not too late to regulate this space. Indeed, the increasing use of hi-tech drones in the conflict in Ukraine has been a wake-up call to militaries around the world that technologies like this are fundamentally changing how we fight wars.
+Discussions are moving slowly at the United Nations to limit the use of lethal autonomous weapons.
+
+      UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research
+Australia has an opportunity to take leadership in this area. Australia has long been at the forefront of international efforts to combat the spread of chemical and biological weapons but has taken a back seat in the diplomatic efforts around autonomous weapons.
+It’s time we took up the cause of regulating weapons that use AI to identify, track and target humans. I could then get back to reading about the wonderful history of Russia from my armchair.

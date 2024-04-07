@@ -1,0 +1,28 @@
+Psychology and other “helping professions” such as counselling and social work are often regarded as quintessentially human domains. Unlike workers in manual or routine jobs, psychologists generally see no threat to their career from advances in machine learning and artificial intelligence.
+Economists largely agree. One of the most wide-ranging and influential surveys of the future of employment, by Oxford economists Carl Benedikt Frey and Michael Osborne, rated the probability that psychology could be automated in the near future at a mere 0.43%. This work was initially carried out in 2013 and expanded upon in 2019.
+We are behavourial scientists studying organisational behaviour, and one of us (Ben Morrison) is also a registered psychologist. Our analysis over the past four years shows the idea psychology cannot be automated is now out of date.
+Psychology already makes use of many automated tools, and even without significant advances in AI we foresee significant impacts in the very near future.
+Previous projections assumed the work of a psychologist requires extensive empathic and intuitive skills. These are unlikely to be replicated by machines any time soon.
+However, we argue the typical psychologist’s job has four primary components: assessment, formulation, intervention, and evaluation of outcome. Each component can already be automated to some extent.
+Much of the work of the helping professional does not require empathy or intuition. Psychology has essentially laid the groundwork for the replication of human practice by a machine.
+Nearly four years ago, we published an article in the bulletin of the Australian Psychological Society, asking how AI and other advanced technologies would disrupt the helping professions. We were conservative in our predictions, but even so we suggested significant potential impacts on employment and education.
+We were not arguing that so-called “strong” AI would emerge to replace humanity. We simply showed how the kind of narrow AI that currently exists (and is steadily improving) could invade the job territory of the helping professions.
+A range of AI-driven mental health apps are already available, such as Cogniant and Woebot. Several such products adopt cognitive behavioural therapy (CBT) procedures, widely considered the “gold standard” of intervention for many psychological conditions.
+These programs typically use artificially intelligent conversational agents, or chatbots, to provide a form of talking therapy that helps users manage their own mental health. Research on the technology has already shown great promise.
+Our concern about the future was not, however, shared among members of the helping professions. Still, we continue to present our case widely.
+Four years later, we believe the impacts of this technology may arrive even sooner than we thought. Three things in particular may drive this acceleration.
+The first is the rapid progress in automated systems that can replicate (and sometimes exceed) human decision-making capacities. The development of deep learning algorithms and the emergence of advanced predictive analytic systems threaten the relevance of professionals. With access to big data in the psychological and related literature, AI systems can be used to assess and intervene with clients.
+The second factor is an emerging “tsunami” of AI impacts warned of by economists. Developments in information technology have not yet been reflected in widespread productivity gains, but as Canadian researchers Ajay Agrawal, Joshua Gans and Avi Goldfarb have argued, it’s likely AI predictive ability will soon be a superior alternative to human judgement in many areas. This may trigger a significant restructuring of the employment market.
+
+      Coronavirus has boosted telehealth care in mental health, so let's keep it up
+The third factor is the COVID-19 pandemic. Demand for mental health services increased dramatically, with crisis services such as Lifeline and Beyond Blue reporting 15-20% more contacts in 2020 than in 2019. Pandemic-related mental illness is not expected to peak until mid 2021.
+At the same time, in-person care was often ruled out – in late April 2020, half of Medicare-funded mental health services were delivered remotely.  Meditation and mindfulness apps like Headspace and Calm also saw downloads soar.
+This provides further evidence that clients will readily engage in technology-mediated forms of therapy. At the very least, the improved efficiencies will increase the number of clients that can be managed by a single human psychologist.
+Given all this, how many human psychologists will the society of the very near future require? It’s a difficult question to answer.
+As we have seen, it’s almost certain the work of psychologists can be replaced in large part by AI. Does this mean human psychologists should be replaced by AI?
+Many of us may feel uncomfortable with this idea. However, we have a moral obligation to use the treatment that gives the best outcomes for patients. If an AI-based solution is found to be more effective, reliable and cost-effective, it should be adopted.
+Governments and healthcare organisations are likely to have to address these issues in the near future. There will be impact upon the employment and training and education of professionals.
+The professions need to be an integral part of the response. We urge psychology and related allied health professions to take a lead and not wilfully ignore the trends.
+We recommend three concrete actions to improve the situation:
+
+      5 ways to get mental health help without having to talk on the phone

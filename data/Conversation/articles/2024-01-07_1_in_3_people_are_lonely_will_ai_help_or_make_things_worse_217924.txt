@@ -1,0 +1,26 @@
+ChatGPT has repeatedly made headlines since its release late last year, with various scholars and professionals exploring its potential applications in both work and education settings. However, one area receiving less attention is the tool’s usefulness as a conversationalist and – dare we say – as a potential friend.
+Some chatbots have left an unsettling impression. Microsoft’s Bing chatbot alarmed users earlier this year when it threatened and attempted to blackmail them.
+
+
+Yet pop culture has long conjured visions of autonomous systems living with us as social companions, whether that’s Rosie the robot from The Jetsons, or the super-intelligent AI, Samantha, from the 2013 movie Her. Will we develop similar emotional attachments to new and upcoming chatbots? And is this healthy?
+While generative AI itself is relatively new, the fields of belonging and human-computer interaction have been explored reasonably well, with results that may surprise you.
+Our latest research shows that, at a time when 1 in 3 Australians are experiencing loneliness, there may be space for AI to fill gaps in our social lives. That’s assuming we don’t use it to replace people.
+As far back as the popularisation of the internet, scholars have been discussing how AI might serve to replace or supplement human relationships.
+When social media became popular about a decade later, interest in this space exploded. The 2021 Nobel Prize-winning book Klara and the Sun explores how humans and life-like machines might form meaningful relationships.
+And with increasing interest came increasing concern, borne of evidence that belonging (and therefore loneliness) can be impacted by technology use. In some studies, the overuse of technology (gaming, internet, mobile and social media) has been linked to higher social anxiety and loneliness. But other research suggests the effects depend greatly on who is using the technology and how often they use it.
+Research has also found some online roleplaying game players seem to experience less loneliness online than in the real world – and that people who feel a sense of belonging on a gaming platform are more likely to continue to use it.
+All of this suggests technology use can have a positive impact on loneliness, that it does have the potential to replace human support, and that the more an individuals uses it the more tempting it becomes.
+Then again, this evidence is from tools designed with a specific purpose (for instance, a game’s purpose is to entertain) and not tools designed to support human connection (such as AI “therapy” tools).
+As researchers in the fields of technology, leadership and psychology, we wanted to investigate how ChatGPT might influence people’s feelings of loneliness and supportedness. Importantly, does it have a net positive benefit for users’ wellbeing and belonging?
+To study this, we asked 387 participants about their usage of AI, as well as their general experience of social connection and support. We found that:
+
+      I tried the Replika AI companion and can see why users are falling hard. The app raises serious ethical questions
+Overall our results indicate that social support can come from either humans or AI – and that working with AI can indeed help people.
+But since human social support was the largest predictor of lower loneliness, it seems likely that underlying feelings of loneliness can only be addressed by human connection. In simple terms, entirely replacing in-person friendships with robot friendships could actually lead to greater loneliness.
+Having said that, we also found participants who felt socially supported by AI seemed to experience similar effects on their wellbeing as those supported by humans. This is consistent with the previous research into online gaming mentioned above. So while making friends with AI may not combat loneliness, it can still help us feel connected, which is better than nothing.
+
+      AI can already diagnose depression better than a doctor and tell you which treatment is best
+Our research suggests social support from AI can be positive, but it doesn’t provide all the benefits of social support from other people – especially when it comes to loneliness.
+When used in moderation, a relationship with an AI bot could provide positive functional and emotional benefits. But the key is understanding that although it might make you feel supported, it’s unlikely to help you build enough of a sense of belonging to stop you from feeling lonely.
+So make sure to also get out and make real human connections. These provide an innate sense of belonging that (for now) even the most advanced AI can’t match.
+Acknowlegement: the authors would like to acknowledge Bianca Pani for her contributions to the research discussed in this article.

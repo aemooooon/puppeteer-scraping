@@ -1,0 +1,32 @@
+In 2002, the sci-fi thriller Minority Report gave us a fictionalised glimpse of life in 2054.
+Initially, the movie evokes a perfect utopian society where artificial intelligence (AI) is blended with surveillance technology for the wellbeing of humanity. The AI supposedly prevents crime using the predictions from three precogs that visualise murders before they happen and allow police to act on the information.
+“The precogs are never wrong. But occasionally, they do disagree,” says the movie’s lead scientist. These disagreements result in minority reports – accounts of alternate futures, often where the crime doesn’t actually occur.
+But these reports are conveniently disposed of, and as the story unfolds, innocent lives are put at stake.
+Ultimately, the film shows us a future where the predictions made by AI are inherently unreliable and ineffective.
+Now Minority Report may be fiction, but the fast-evolving technology of AI isn’t. And although there are no psychics involved in the real world, the film highlights a key challenge for AI and algorithms: what if they produce false or doubtful results? And what if these results have irreversible consequences?
+
+      Artificial intelligence researchers must learn ethics
+Industry and government authorities already maintain and analyse large collections of interrelated data sets containing personal information.
+Insurance companies now collate health data and track driving behaviours to personalise insurance fees. Law enforcement use driver’s licence photos to identify potential criminals and shopping centres analyse people’s facial features to better target advertising.
+While collecting personal information to tailor an individual service may seem harmless, these data sets are typically analysed by “black box” algorithms, where the logic and justification of the predictions are opaque.
+Plus, it’s very difficult to know whether a prediction is based on incorrect data, data that has been collected illegally or unethically, or data that contains erroneous assumptions.
+
+      The future of artificial intelligence: two experts disagree
+What if a traffic camera incorrectly detects you speeding and automatically triggers a licence cancellation? What if a surveillance camera mistakes a handshake for a drug deal? What if an algorithm assumes you look similar to a wanted criminal?
+Imagine having no control over an algorithm that wrongfully decides you’re ineligible for a university degree.
+Even if the underlying data is accurate, the opacity of AI processes make it difficult to redress algorithmic bias, as is found in some AI systems that are sexist, racist, or discriminate against the poor.
+How do you appeal against bad decisions if the underlying data or the rationale for the decision is unavailable?
+One response is to create explainable AI – which is part of an ongoing research program led by University of Melbourne Associate Professor Tim Miller – where the underlying justification of an AI decision is explained in a manner that can be easily understood by everyone.
+Another response is to create human-computer interfaces that are open about the assumptions made by AI. Clear, open and transparent representations of AI capabilities can contribute to a broader discussion of its possible societal impacts and more informed debate about the ethical implications of human-tracking technologies.
+In order to stimulate this discussion, we created Biometric Mirror.
+Biometric Mirror is an interactive application that takes your photo and analyses it to identify your demographic and personality characteristics. These include traits such as your level of attractiveness, aggression, emotional stability and even your “weirdness”.
+The AI uses an open data set of thousands of facial images and crowd-sourced evaluations – where a large pool of people have previously rated the perceived personality traits for each of those faces. The AI uses this data set to compare your photo to the crowd-sourced data set.
+Biometric Mirror then assesses and displays your individual personality traits. One of your traits is then chosen – say, your level of responsibility – and Biometric Mirror asks you to imagine that this information is now being shared with someone, like your insurer or future employer.
+Biometric Mirror can be confronting. It starkly demonstrates the possible consequences of AI and algorithmic bias, and it encourages us reflect on a landscape where government and business increasingly rely on AI to inform their decisions.
+Despite its appearance, Biometric Mirror is not a tool for psychological analysis – it only calculates the estimated public perception of personality traits based on facial appearance. So, it wouldn’t be appropriate to draw meaningful conclusions about psychological states.
+It is a research tool that helps us to understand how people’s attitudes change as more of their data is revealed. A series of participant interviews go further to reveal people’s ethical, social and cultural concerns.
+
+      AI can help in crime prevention, but we still need a human in charge
+The discussion around ethical use of AI is ongoing, but there’s an urgent need for the public to be involved in the debate about these issues. Our study aims to provoke challenging questions about the boundaries of AI. By encouraging debate about privacy and mass surveillance, this discussion will contribute to a better understanding of the ethics that sit behind AI.
+Although Minority Report is just a movie, here in the real world, Biometric Mirror aims to raise awareness about the social implications of unrestricted AI – so a fictional dystopian future doesn’t become a dark reality.
+This article was co-published with Pursuit. Biometric Mirror will be open to the public at the University of Melbourne’s Eastern Resource Centre in Parkville from July 24 onwards. It will also be part of Science Gallery Melbourne’s PERFECTION exhibition at the Melbourne School of Design’s Dulux Gallery and at the State Library of Victoria forecourt.

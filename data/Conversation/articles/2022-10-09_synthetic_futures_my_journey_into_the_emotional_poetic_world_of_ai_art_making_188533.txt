@@ -1,0 +1,33 @@
+Generative art making is flourishing. Algorithms that turn text prompts into images, such as DALL-E and Stable Diffusion, are emerging as viable creative tools. And they’re fuelling much debate about their artistic legitimacy and potential to pinch our jobs.
+The sudden leap in fidelity of artificial intelligence (AI) art production has been made possible by advances in deep learning technologies, in particular natural language processing and generative adversarial networks.
+In essence, a user can input a text description and the algorithm auto-translates this into a cohesive image.
+MidJourney – or MJ as it is known to its passionate users – is perhaps the most seductive technology for its painterly output and poetic interactions. The charm begins from the very first moment, with the command line prompt “/imagine”.
+
+      Give this AI a few words of description and it produces a stunning image – but is it art?
+MidJourney founder David Holz has said users find their text-to-image interactions to be a “deeply emotional experience” with the potential for it to be therapeutic. He said:
+MidJourney plays with genre and form, using existing principles that have long informed media arts practice, such as non-linearity, repetition and remix, to exploit the archive.
+Holz has suggested the algorithm’s purpose is to “augment our imagination”.
+My first image requests were whimsical queries, nocturnal flights of fancy, gentle tentative casts into the virtual spirit world.
+As it turns out, my melancholic prompts were unnervingly well-suited to the algorithm’s default aesthetic.
+Magic lurks within the algorithm too. Ilya Sutskever, co-founder and chief scientist at OpenAI, describes the process as “transcendent beauty as a service”.
+Artist and theorist Lev Manovich has poetically described his interactions with MidJourney as akin to working with a “memory machine”.
+The recognition it is a service but also a metaphysical experience is a new way of thinking about tools of automation.
+The technical process can be an imprecise science in which slippages and overlaps are inevitable. As Manovich recognises, MidJourney remixes:
+The MidJourney Bot is hosted on the social platform Discord creating an intoxicating cascade of generative screen works.
+It is an inherently communal experience. The image stream also functions as a site of shared creation. If another user’s composition catches your eye, you can co-opt their prompt – or the image itself – and refine it according to your own aesthetic preferences.
+This collaborative remixing is what makes the MidJourney Discord channel as much a social experiment as a scientific one.
+My research into the darkening aesthetics of digital media means I am somewhat predisposed to spotting dystopian visions. The MidJourney Discord channel is certainly a seductive rabbit hole for voyeurs of destruction.
+Ghastly cyborg futures and post-nuclear wastelands would seem to be de rigueur for the AI prompt engineer. I regularly see prompts citing the retro-futurist nightmares of artists such as HR Giger and Zdzisław Beksiński and the cinematic tendencies of David Lynch and Andrei Tarkovsky.
+As Bowie crooned on the cyber-noir album Outside, itself a chronicle of art world depravity: “there is no hell, like an old hell”.
+Users are also finding ways to apply the technology in a moving image context. Notable efforts include a generative fashion demo, morphing amoebas narrated by a synthetic David Attenborough, Fabian Stelzer’s crowdsourced narrative SALT_VERSE and Drew Medina’s mesmerising fractal film Monsters.
+The most meaningful assemblage I have come across is Gabriele Dente’s SOLAR (the history of humanity drawn by machines), accompanied by a manifesto highlighting the associated ethical and industrial implications of neural networks.
+Digital tools have long been enablers of speed, dexterity and adaptability for designers and artists. Studio professionals in the MJ community are already finding efficiencies in their workflows.
+A startlingly beautiful example of the possibilities for design and concept ideation come from architect and designer Cesare Battelli.
+His series “space-kangaroo” is evocative of a mode of conceptual design thinking that blends aesthetics, functionality and fantasy.
+Eryk Salvaggio has described the technology of the more photo-realistic aspirations of the DALL-E platform as “a kind of spirit photography” conjuring images replete with the ghosts and markings of past technologies: the fading image, the decaying medium and the corrosive chemical reaction.
+This ability of reconstituting the past and embellishing the outcome with techniques of capture and display and procedural degradation makes MidJourney especially fertile ground for “authentic” gestures of the fabulous and the fake.
+How much this sudden uptick of synthetic media will contribute to the glut of misinformation online however is uncertain. How does the visual historical record accommodate its synthetic mirror?
+We should also consider the evolutionary implications for language and computation. With the democratisation of AI assistants, the field of human computer interaction is evolving rapidly as are the inherent entanglements.
+And so, tonight as the city sleeps I watch the feed and dream along with the machine. I punch in another text prompt and wait impatiently for my MidJourney Bot to conjure its response. All the while I’m wondering as to the reach of the text into the algorithm’s code, and to what extent it is, bit by bit, re-coding me?
+
+      AI art is everywhere right now. Even experts don't know what it will mean

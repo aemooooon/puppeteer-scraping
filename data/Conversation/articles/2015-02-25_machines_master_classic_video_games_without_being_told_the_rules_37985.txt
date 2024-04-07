@@ -1,0 +1,30 @@
+Think you’re good at classic arcade games such as Space Invaders, Breakout and Pong? Think again.
+In a groundbreaking paper published today in Nature, a team of researchers led
+by DeepMind co-founder Demis Hassabis reported developing a deep neural network that was able to learn to play such games at an expert level.
+What makes this achievement all the more impressive is that the program was not given any background knowledge about the games. It just had access to the score and the pixels on the screen.
+It didn’t know about bats, balls, lasers or any of the other things we humans need to know about in order to play the games.
+But by playing lots and lots of games many times over, the computer learnt first how to play, and then how to play well.
+This is the latest in a series of breakthroughs in deep learning, one of the hottest topics today in artificial intelligence (AI).
+Actually, DeepMind isn’t the first such success at playing games. Twenty years ago a computer program known as TD-Gammon learnt to play backgammon at a super-human level also using a neural network.
+But TD-Gammon never did so well at similar games such as chess, Go or checkers (draughts).
+In a few years time, though, you’re likely to see such deep learning in your Google search results. Early last year, inspired by results like these, Google bought DeepMind for a reported UK£500 million.
+Many other technology companies are spending big in this space.
+Baidu, the “Chinese Google”, set up the Institute of Deep Learning and hired experts such as Stanford University professor Andrew Ng.
+Facebook has set up its Artificial Intelligence Research Lab which is led by another deep learning expert, Yann LeCun.
+And more recently Twitter acquired Madbits, another deep learning startup.
+Geoffrey Hinton is one of the pioneers in this area, and is another recent Google hire. In an inspiring keynote talk at last month’s annual meeting of the Association for the Advancement of Artificial Intelligence, he outlined three main reasons for these recent breakthroughs
+First, lots of Central Processing Units (CPUs). These are not the sort of neural networks you can train at home. It takes thousands of CPUs to train the many layers of these networks. This requires some serious computing power.
+In fact, a lot of progress is being made using the raw horse power of Graphics Processing Units (GPUs), the super fast chips that power graphics engines in the very same arcade games.
+Second, lots of data. The deep neural network plays the arcade game millions of times.
+Third, a couple of nifty tricks for speeding up the learning such as training a collection of networks rather than a single one. Think the wisdom of crowds.
+Despite all the excitement though about deep learning technologies there are some limitations over what it can do.
+Deep learning appears to be good for low level tasks that we do without much thinking. Recognising a cat in a picture, understanding some speech on the phone or playing an arcade game like an expert.
+These are all tasks we have “compiled” down into our own marvellous neural networks.
+Cutting through the hype, it’s much less clear if deep learning will be so good at high level reasoning. This includes proving difficult mathematical theorems, optimising a complex supply chain or scheduling all the planes in an airline.
+Deep learning is sure to turn up in a browser or smartphone near you before too long. We will see products such as a super smart Siri  that simplifies your life by predicting your next desire.
+But I suspect there will eventually be a deep learning backlash in a few years time when we run into the limitations of this technology. Especially if more deep learning startups sell for hundreds of millions of dollars. It will be hard to meet the expectations that all these dollars entail.
+Nevertheless, deep learning looks set to be another piece of the AI jigsaw. Putting these and other pieces together will see much of what we humans do replicated by computers.
+If you want to hear more about the future of AI, I invite you to the Next Big Thing Summit in Melbourne on April 21, 2015. This is part of the two-day CONNECT conference taking place in the Victorian capital.
+Along with AI experts such as Sebastian Thrun and Rodney Brooks, I will be trying to predict where all of this is taking us.
+And if you’re feeling nostaglic and want to try your hand out at one of these games, go to Google Images and search for “atari breakout” (or follow this link). You’ll get a browser version of the Atari classic to play.
+And once you’re an expert at Breakout, you might want to head to Atari’s arcade website.

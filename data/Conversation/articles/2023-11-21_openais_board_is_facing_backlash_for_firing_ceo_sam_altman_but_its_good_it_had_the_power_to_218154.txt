@@ -1,0 +1,35 @@
+The sudden removal of OpenAI CEO Sam Altman on Friday was met with shock and disapproval by the company’s employees. More than 90% signed a letter threatening to leave OpenAI if the board didn’t resign and reinstate Altman – who has since apparently been poached by Microsoft, along with a number of other key former staff.
+The OpenAI employees had faith in Altman. They believed in his vision and they did not like that the board could dismiss him so easily.
+Is their upset justified? Did the board overstep its bounds? Or did it exercise a necessary check on power?
+
+
+
+      Who is Sam Altman, OpenAI's wunderkind ex-CEO – and why was he fired?
+The idea of a “genius founder” lies at the heart of Silicon Valley culture.
+Steve Jobs, Elon Musk, Mark Zuckerberg, Sergey Brin and Larry Page are not known as privileged men who managed to build successful businesses through a combination of hard work, smart decision-making and luck.
+Rather, they are celebrated as geniuses, wunderkinds, perhaps even maniacs – but always brilliant. Men who accomplished feats no one else could, because of their innate genius.
+A captivating founder narrative has become almost a prerequisite for any tech startup in Silicon Valley. It makes a company easier to sell and also structures power within the organisation.
+Throughout human history, founder mythologies have been used to explain, justify and sustain hierarchies of power. From heroes to deities to founding fathers, the founder myth provides a way to understand the current distribution of power and to unite around a figurehead.
+What happened this week at OpenAI was a challenge to the natural order of things in Silicon Valley.
+It’s quite remarkable a superstar “genius founder” such as Sam Altman wasn’t safeguarded by a company structure that could prevent his ousting. Tech company founders often create intricate structures to entrench themselves in their companies.
+For instance, when Google restructured into Alphabet, it created three share classes: one with standard voting rights, another with ten times the voting rights for the founders, and a third class without voting rights, mainly for employees.
+This structure ensured founders Larry Page and Sergey Brin would remain in control of the company over the long term, while also providing them the financial benefit of owning shares in a highly profitable, publicly listed company.
+OpenAI’s corporate structure, in contrast, made its CEO and co-founder more susceptible to losing control. Initially established as a non-profit, OpenAI has a unique structure. The main corporate entity is OpenAI Inc, a non-profit that is overseen by the board of directors.
+To attract investors, OpenAI also has a for-profit subsidiary called OpenAI Global – which Microsoft has famously invested about US$13 billion (A$19.7 billion) into.
+Although Altman had a seat on the OpenAI board, he held no equity in OpenAI Global under this structure. As CEO he was also accountable to the other board members. This type of corporate structure is highly unusual for a Silicon Valley venture.
+The board voted Altman out from his position as CEO based on an internal investigation which, it claimed, indicated Altman had not been “consistently candid in his communications with the board” – causing them to lose trust in his leadership.
+
+
+Whether the board of OpenAI was right to remove Altman remains to be seen. At the time of my writing this, the board hasn’t elaborated on its decision, nor has it released details about its internal investigation.
+However, regardless of the specifics and the emotional impact Altman’s ousting has had on OpenAI’s employees, this move could represent a victory for corporate accountability.
+For every revered founding genius, there are examples of founders who betrayed the trust of their employees and investors. Take the disgraced Theranos founder Elizabeth Holmes, or former WeWork CEO Adam Neumann, or Nikola founder Trevor Milton who was convicted of fraud last year, and Sam Bankman-Fried, the once-lauded FTX founder convicted of fraud more recently.
+
+      Sam Bankman-Fried convicted for massive FTX fraud, in stark reminder of risks of crypto trading
+Silicon Valley urgently needs more accountability, because too many tech entrepreneurs work at an intersection of risk, hype and boundary-pushing.
+Meanwhile, the technologies these companies are producing are having profound impacts on our societies. Silicon Valley tech companies control global communication systems, run private marketplaces and are increasingly offering advanced digital systems that seek to transform how we learn, work and socialise.
+The power these companies wield has prompted regulator Lina Khan to focus on addressing big tech’s market power during her tenure as chair of the United States Federal Trade Commission.
+Khan and others have argued it’s problematic for these companies to have the capacity to globally transform societies with minimal transparency and accountability. Khan’s task is especially urgent since companies such as Microsoft, Meta (previously Facebook) and Amazon have a track record of buying out other innovators who attempt to compete.
+We can expect Khan will be paying close attention to the competitive effects of Microsoft potentially poaching some of OpenAI’s main talent.
+In an age of AI and big tech, we need far less blind faith in leaders and far more public oversight. From this point of view, one could argue OpenAI’s somewhat odd company structure is something we ought to want more of if our priority is the collective good.
+
+      Our neurodata can reveal our most private selves. As brain implants become common, how will it be protected?

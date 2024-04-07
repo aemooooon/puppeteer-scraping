@@ -1,0 +1,38 @@
+Generative artificial intelligence (AI) has been in the news, most recently concerning the Hollywood actors’ strike about the potential impact of AI in filmmaking.
+Another story involved AI being used to replicate the voice of the Canadian rapper Drake in a track that went viral.
+These stories raise questions about performers’ rights, and also lead people to wonder: will AI replace artists?
+These questions are also germane given recent advances in generative artificial intelligence 
+trained on a vast amount of existing images that have been used to create new images based only on user-provided prompts.
+
+      Two authors are suing OpenAI for training ChatGPT with their books. Could they win?
+I am a composer who has used creative AI in my music and sound practice for almost two decades. My creative practice and research has focused upon the potential for a collaborative relationship between artists and AI. From my perspective, while we are in a time of disruption where many artists will need to renegotiate terms of their labour in a new technological context, there are also opportunities for different forms of collaboration.
+AI-generated high-quality images range from concept art for video games to photorealistic works.
+Examples of generative AI visual art include fantastical images:
+Works can also mimic the style of existing artists.
+The freely available online systems used to create the above images are examples of the progress made in artificial intelligence being used to generate novel material. Perhaps the biggest advance is these systems’ ease of use: they are readily usable and accessible to the general public.
+On one hand, the answer to whether AI will replace artists is no.
+Generative AI is a powerful tool that can expand the possibilities of art making and will still require the guiding hand of a human artist. As with any new technology, some creative processes will become both easier and less time-consuming with AI.
+For example, an artist interested in generating visual imagery can suggest a prompt and the AI produces it immediately. Instead of taking hours or days to experiment with an idea, it may take minutes or even seconds.
+The current image-producing systems still require human interaction through both a text prompt and the curation of its output, itself an artistic act.
+On the other hand, these limitations will soon be overcome: human-provided prompts can easily be replaced by generated prompts (which some systems already allow for).
+Research into creative AI has already produced systems that can evaluate their own output through aesthetic judgements (rather than only mimicing its data set).
+As such, there is the very real potential that an endless supply of fully AI-produced artwork will constitute much of the imagery we see online and flood the market.
+For many practising artists there are reasons to hope.
+Creative AI can allow some artists greater time and energy to explore artistic avenues, thereby producing not just more art, but potentially more paradigm-shifting art.
+Artist and scholar Philip Galanter, who explores art theory bridging the gap between the cultures of science and the humanities, has defined “generative art” as “any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art.”
+Generative art-making practices have been around for decades (arguably much longer). Human interaction with these systems can produce truly stunning work.
+
+Current systems can only produce mashups of existing data. While the output may be novel in that a given output may never have existed previously, its esthetic value may be limited.
+The music industry has been driven by style-replicating processes for decades, in which an artist may produce a genuinely novel work and then others fill the available space around it with variations of that work’s style. It takes true creativity to produce something outside the existing paradigm and AI is nowhere near that stage.
+However, it won’t be long before those producers merely creating the same formulaic songs will be in direct competition with AIs that can do so much more efficiently.
+The generative AI used to recreate Drake’s voice was trained on many copyrighted songs featuring his voice. In such cases, music industry figures argue 
+this broke copyright law. In this case, an artist used AI as a tool to create something new; it is doubtful anyone would argue it was the AI itself that was being creative. 
+Apart from the legal and ethical question of using his voice, Drake can be considered as being replaced labour.
+In the case of Hollywood actors in danger of having their likenesses reproduced in a similar fashion by an AI, it will be directors and producers that are the creative artists, and the actors the displaced labour.
+In my own work, I have never viewed AI as replacing anyone. Instead, I consider it an alternate creative voice trained on my own esthetics. I have gone out of my way to continue to work with human artists who interact with my systems.
+My latest album places the musebots, my creative AI, before my own name, but still clearly credits the individual musicians with which I   — and my AI system — collaborated.
+In this work, the AI generated the entire composition, including selecting all the individual sounds. My role (after the musebots were coded) was to listen to the final work and decide whether I should ask my human musical collaborators to play with it.
+We are on the precipice of systems being able to generate entire songs. Many of the roadblocks to such generation have been, or are close to being, solved.
+This includes successfully separating the different elements of a song — the melody, the bass, the beat — to allow them to be analyzed individually. Given this information, AI can then begin to understand how music is put together structurally, a major step beyond the current generative models that use simplistic building block methods for creating data.
+But like the image-generating systems, AI music will be a mashup of what is already out there. It will require the collaboration of human artists to point it in novel directions and determine whether the output is even worthwhile.
+AI will not replace artists in the future; instead, they will be needed more than ever.

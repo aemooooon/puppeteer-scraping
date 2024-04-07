@@ -1,0 +1,31 @@
+On March 16, Baidu unveiled China’s latest rival to OpenAI’s ChatGPT – ERNIE Bot (short for “Enhanced Representation through kNowledge IntEgration”). The “multi-modal” AI-powered chatbot can generate text, images, audio and video from a text prompt.
+However, ERNIE was poorly received by the public. Baidu’s Hong Kong-listed shares fell by 10% during the press conference, and the beta test is only open to a group of organisations approved by the company.
+ERNIE Bot will not be a Chinese substitute for ChatGPT, but that might be how the Chinese state wants it. As earlier efforts to make Chinese AI chatbots have shown, the Chinese Communist Party prefers to maintain strict censorship rules and government steering of research – even at the cost of innovation.
+ChatGPT is not directly accessible in China due to the country’s protectionist approach to digital sovereignty. Chinese data are confined within China, and information that conflicts with government propaganda is censored.
+Chinese tech companies including Baidu and Tencent prohibit third-party developers from plugging ChatGPT into their services.
+However, the prominence of ChatGPT created a booming illicit market. Until a crackdown, ChatGPT logins were sold on the ecommerce platform Taobao, and video tutorials were published on Chinese social media to demonstrate the abilities of the chatbot.
+Baidu isn’t the first or only tech company in China trialling a generative AI chatbot.
+In March 2017, Tencent launched two social chatbots, called XiaoIce and BabyQ, on the WeChat and QQ messaging apps respectively.
+XiaoIce was developed by Microsoft, while BabyQ was created by a Beijing-based AI company called Turing Robot. Within months, the two chatbots were taken down to be attuned according to China’s censorship rules.
+BabyQ never came back, but Microsoft’s XiaoIce returned and has been providing AI companionship services to millions of users on major platforms including WeChat, QQ and Weibo.
+China’s government would be on the defensive if China adopted only AI chatbots developed overseas. As chatbots run on human feedback, it would be impossible to prevent transnational flows of data and the political interests of the Chinese Communist Party may be threatened.
+Since 2015, during the administration of former premier Li Keqiang, the Made in China 2025 scheme has endeavoured to bolster the country’s technological capacities. AI is a major focus.
+Since February 2023, Chinese tech companies across AI, food delivery, e-commerce and gaming have scrambled to catch up with OpenAI and provide their own ChatGPT-like products to the market.
+Beijing’s Municipal Bureau of Economy and Information Technology is supporting this ambition, but only for some leading tech companies.
+We can expect China will witness the short-term proliferation of versions of ChatGPT services, many of which will vanish or be acquired by big tech companies.
+Smaller companies, with little support from the government, are unlikely to be able to afford the costs of censorship.
+A small startup called YuanYu launched China’s first ChatGPT-style bot in January. Dubbed ChatYuan, the bot ran as a “mini-program” inside WeChat. It was suspended within weeks after users posted screengrabs of its answers to political questions online.
+However, Chinese users are still interested in large language models based on the Han Chinese linguistic system.
+ERNIE Bot, for example, claims to be more culturally savvy than ChatGPT, with a better understanding of Chinese histories, classical literature, and dialects.
+Beijing has tightened its governance of the tech industry since a crackdown in 2021.
+One upside for industry is a secure flow of funding and talent support. The flip side is that resources are steered towards technologies that serve Beijing’s immediate interests in domestic governance and military defence.
+
+      China's big tech problem: even in a state-managed economy, digital companies grow too powerful
+China’s ChatGPT imitators are more likely to be designed to benefit enterprises than individuals. For tech giants, the objective is to form a “full AI stack” by integrating generative AI products into every level of their business, from search engines and apps to industrial processes, digital devices, urban infrastructure and cloud computing.
+AI-driven chatbots can also lead to adverse outcomes. Alongside the universal concerns around job security, copyright and academic integrity, in China there are also extra risks of emotional surveillance and disinformation.
+Chatbots can identify users’ emotional status through conversations. This emotion-reading ability extends the power of big data and AI to invade people’s privacy.
+
+      China's 'surveillance creep': how big data COVID monitoring could be used to control people post-pandemic
+In China, such emotional surveillance could further establish “emotional authoritarianism”. Any sentiments that could threaten the leadership of the Chinese Communist Party, even if not directly stated, have the potential to attract punishment for the user.
+AI-powered chatbots and search engines are also likely to legitimise Chinese state-organised propaganda and disinformation. Users will come to trust and depend on these services, but their inputs, outputs and internal processes will be heavily censored.
+Chinese politics and leadership will not be up for discussion. When it comes to controversial events or histories, only the perspectives of the Chinese Communist Party will be presented.

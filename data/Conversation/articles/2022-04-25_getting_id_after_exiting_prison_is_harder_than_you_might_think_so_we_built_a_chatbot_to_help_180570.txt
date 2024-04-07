@@ -1,0 +1,33 @@
+Getting out of prison is often assumed to be cause for celebration and a new beginning. However, many women exiting prison face profound disadvantage, isolation, poor mental and physical health and struggle finding housing.
+Further complicating return to civil society is the fact some women are released from prison without formal identification.
+We worked alongside members of a not-for-profit group called Seeds of Affinity – all women with lived experience of prison – to consider how a technology-based solution may ease the transition from prison to community life.
+We then developed a prototype messenger chatbot that helps women in South Australia through the steps involved in acquiring ID after exiting prison.
+Formal identification is necessary to create a bank account and to enable Centrelink payments. Neither entity accepts prison paperwork as formal ID, so a piece of official ID is crucial.
+While it is possible for support workers in the prison to organise ID prior to a woman’s release, often this does not happen.
+Getting ID post-release is especially difficult if a woman has never had a driver’s license or passport, and is even more complicated if she was born interstate.
+Getting a proof of age card – through, in the South Australian context, Service SA – is not easy either. It requires a copy of a birth certificate, which can set you back A$50 and can take weeks. The process can be highly confusing, as this flow chart outlining the process shows.
+Some women exit prison without stable friendship and family networks on which they can rely to help them through this Kafkaesque process, or may not have access to the internet or phone data. They often need workers like Linda to help them.
+As researchers, we are interested in the ways technology can be leveraged to address social problems and promote social change.
+In our pilot project, we partnered with Seeds of Affinity in South Australia.
+Guided by their ethos of “leaving no women behind”, this organisation provides caring and judgement-free support to criminalised women.
+This is important because many models of service available to criminalised women are rarely helpful or nurturing, and often add to women’s distress. This leaves many criminalised women reluctant to trust others.
+In our co-design workshops, women with lived experience of prison shared glimpses into their first few weeks following their release from prison.
+Every setback a woman faces when negotiating demands after release significantly impacts on upon her mental health; it can lead some women to believe it would be easier to give up and return to prison.
+The cost to keep a person in prison varies across states in Australia, but ranges between A$294 - $559 per day. This money would be better spent in the community. Any intervention is worthwhile if it helps women navigate post-release demands, creates a sense of achievement and steers them away from “giving up” and returning to prison.
+
+      Number of women on remand in Victoria soars due to outdated bail laws
+Before working with Seeds of Affinity women, we had envisaged an app as being the the best tech-based tool to use.
+But after analysing how they engaged with technology, we identified Facebook’s Messenger service as the best solution.
+We developed a prototype messenger chatbot named “Lindabot” - named after Seeds of Affinity’s community coordinator, Linda Fisk.
+We did this because we saw that it was the way information and support was delivered that mattered most to criminalised women seeking help.
+For this reason, our “Lindabot” prototype does not just provide information. Instead, we have programmed it to use positive, nurturing language based upon the approach used by Seeds of Affinity volunteers.
+To evaluate our prototype, we took Lindabot back to the women for testing and feedback.
+Encouragingly, they found it easy to navigate the familiar tech platform of Messenger. Women also responded positively to being actively involved in designing an intervention.
+As one participant said:
+Lindabot is still at the prototype stage. However, the development process has shown us more possibilities for Lindabot to help criminalised women meet other needs.
+We fully acknowledge technology-based solutions cannot replace human interaction, or undo the harms of imprisonment.
+But technology-based solutions informed by end-user’s experiences have the potential to enhance and support the work of human service workers (like Linda).
+That leaves them more time for advocacy and the face-to-face work needed to support women to transition out of the criminal justice system.
+Seeds of Affinity community coordinator, Linda Fisk, contributed to this article.
+
+      Women in prison: histories of trauma and abuse highlight the need for specialised care

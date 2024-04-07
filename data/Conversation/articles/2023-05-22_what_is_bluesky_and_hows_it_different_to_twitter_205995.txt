@@ -1,0 +1,31 @@
+Amid management changes at Twitter, discontented users are exploring an alternative social media platform called Bluesky. According to media reports, downloads of the Bluesky app surged more than 600% in April.
+Initially conceived by Twitter co-founder Jack Dorsey in 2019 as a complementary project aimed to improve Twitter user experience, Bluesky transitioned into a standalone project in early 2022, and its iOS app was released in February this year followed by an Android version in April.
+Visually, Bluesky looks similar to Twitter. The timeline is called the “skyline” and tweets are “skeets”. It has two main differences that drive its popularity – decentralisation and invite-only access.
+
+Decentralisation was a driving force behind Dorsey’s creation of Bluesky. So what does that mean and how’s this app different to Twitter?
+
+      What is Mastodon, the 'Twitter alternative' people are flocking to? Here's everything you need to know
+Dorsey is a big proponent of decentralised control and cryptocurrency. He believes centralised platforms like Twitter cannot address issues such as enforcement of policies to address abuse and misinformation, and the proprietary algorithms are not meeting user needs.
+
+Twitter uses an AI-powered, centrally managed algorithm to moderate what content the user is exposed to.
+On Bluesky, however, users have control over the algorithm that selects what they are exposed to. As Wired magazine explained:
+Bluesky calls this concept a “composable, customizable marketplace of algorithms that lets you take control of how you spend your attention.”
+
+In addition to giving users more control over what kind of content they see, Bluesky has plans to “decentralise” control of social media even further. If all goes well, Bluesky itself will just be the first of many interconnected social networks running on the same basic principles.
+Bluesky is based on what it calls the AT protocol, a network that allows servers to communicate with each other. This means that, hypothetically, you could move your account between different social networks that also use the AT protocol without losing your content and followers.
+It’s worth noting this is all a bit theoretical for now; this functionality can’t be used yet.
+But it is designed to eventually address the concerns of social media influencers who fear losing their audience due to platform rule changes or when choosing to move to a different platform.
+Another distinguishing factor of Bluesky is that, for now anyway, it is invitation-only.
+Most social media platforms, including Twitter, allow users to register freely. Bluesky, however, requires an invitation code. Existing users receive invitation codes fortnightly.
+Despite at least 360,000 Bluesky app downloads, it’s been reported there are only 70,000 users. Media reported earlier this month there were a staggering 1.9 million people on the waitlist.
+With so many people curious to get in, the Bluesky invites became a hot commodity. You can find them on eBay between A$50 and $200; some listings were asking much more.
+The invitation-only design ensures steady user growth, avoiding a rapid influx of users followed by a sudden loss of interest.
+And potential new users who patiently wait for an invitation are already familiar with Bluesky. Flooding other social media platforms with requests for invitation codes creates extra interest, too.
+Every new Bluesky user knows at least one existing user. It ensures users have something in common to post about.
+It would seem Bluesky’s creators aimed to selectively bring in like-minded individuals from the start, rather than attempting to retrospectively eliminate problematic users.
+Thanks to a great deal of user control over the content they see, and a small and selective user base so far, many report they’ve found a friendly atmosphere and good vibes on Bluesky.
+Others say it feels almost like a group chat. Bluesky has particularly resonated with marginalised communities, especially transgender people, who may feel safer there expressing themselves than on other social media sites.
+As we’ve all seen, social media sites come and go.
+Social media site Mastodon experienced explosive user growth in November last year, reaching 2.6 million users within weeks, only to decline to 1.2 million within a couple of months.
+Decentralised moderation challenges on Mastodon have resulted in what some users have described as a “stuffy” culture. This, coupled with the complicated interface and the hard to grasp concept of “belonging” to a server, may have affected its chance of lasting success.
+Unlike Mastodon, Bluesky has a simple and straightforward interface. To remain relevant in the long term, Bluesky must strike a delicate balance between curbing hate speech and trolls while maintaining engaging content and discussions. All while being more captivating than your inner-circle group chats.

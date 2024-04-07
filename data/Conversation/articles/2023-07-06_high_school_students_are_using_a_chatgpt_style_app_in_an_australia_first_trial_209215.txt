@@ -1,0 +1,23 @@
+The South Australian government has announced a trial of AI technologies in eight public high schools.
+This is the first trial of its kind in Australia.
+“Edchat”, an AI chatbot similar to ChatGPT but designed for educational use, has been developed by the state’s education department and Microsoft.
+The eight-week trial will explore the use of AI to support student learning and understand the benefits and risks of these new technologies. After this, the government will decide whether to adopt the tool for other schools.
+ChatGPT can be used by those 13 and over with parents’ consent.
+But after ChatGPT arrived at the end of 2022, South Australia has been the only Australian state that has not banned generative AI tools in public schools.
+In May, the Western Australia government lifted the AI ban for teachers in public schools.
+But in private schools, the use of AI has been more widespread, raising the fear of the digital divide between public and private schools.
+Attempts to limit or ban the use of AI technologies are also inherently problematic. A June 2023 survey by YouthInsight showed 70% of 14–17-year-old Australians have used ChatGPT – 59% used it for schoolwork or study, and 42% for completing school assignments.
+Trying to restrict use translates to students using this in more informal and unsupervised spaces. A ban means students do not receive supervised support to learn how to best use these technologies for their education and future work lives.
+The SA school trial will examine the benefits and challenges of using AI tools to support student learning.
+Edchat is specifically designed for educational use, meaning its responses will take students’ learning in mind. While ChatGPT or Google Bard would simply answer a student’s question, Edchat does not necessarily respond in this way. Instead, it provides an appropriate hint or suggestion or will ask the student a counter question, in the same way a good tutor would support their students.
+EdChat will available to students 24/7, providing them support both inside and outside classrooms.
+Because Edchat is provided by the government, its usage data will be available for further examination. So it will be possible to understand how students interact with AI tools, what questions they ask, where and when they use the system, and so on. Much of the current AI discussion is based on speculation, but this trial will provide the first real world data to answer these questions.
+This trial will attract much attention and will be closely monitored by other governments who are also grappling with similar questions around the use of AI in schools.
+
+The key question at the moment is whether AI has net positive or negative effects on student learning.
+There are highly opposing views on the use of AI in education. Some experts argue it will reduce students’ ability to write and think critically. Others see it as a valuable tool for improving student motivation and engagement, boosting their confidence, and unleashing their creative potential. The SA trial will start to provide concrete evidence of AI’s impact on student learning.
+But to be really useful, the trial should also provide evidence of effective teaching practices using AI. Anecdotally, we are hearing teachers have had positive experiences with AI technologies, such as generating examples tailored to students interests, feedback on student’s writing, and supporting the development of critical thinking and idea generation. The SA trial can start to provide much stronger evidence of what is effective AI classroom practice.
+Finally, the trial should provide evidence of constructive AI-enabled assessment. Current assessment practices focus on evaluating or measuring learning products (such as essays) rather than assessing the processes of learning (how and what students learn). It is important to address concerns the use AI tools can undermine assessment if students rely on automated assistance from tools such as ChatGPT to write their essay for them.
+In this context, the trial should showcase a reimagined approach to current assessment practices. One that embraces the use of AI while ensuring the rigour of evidence that can be used to demonstrate student learning outcomes.
+
+      The rise of ChatGPT shows why we need a clearer approach to technology in schools

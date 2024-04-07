@@ -1,0 +1,32 @@
+Information is a valuable commodity. And thanks to technology, there are millions of terabytes of it online.
+Artificial intelligence (AI) tools such as ChatGPT are now managing this information on our behalf – collating it, summarising it, and presenting it back to us.
+But this “outsourcing” of information management to AI – convenient as it is – comes with consequences. It can influence not only what we think, but potentially also how we think.
+What happens in a world where AI algorithms decide what information is perpetuated, and what is left by the wayside?
+Generative AI tools are built on models trained on hundreds of gigabytes of preexisting data. From these data they learn how to autonomously create text, images, audio and video content, and can respond to user queries by patching together the “most likely” answer.
+ChatGPT is used by millions of people, despite having been publicly released less than a year ago. In June, the addition of custom responses made the already-impressive chatbot even more useful. This feature lets users save customised instructions explaining what they are using the bot for and how they would like it to respond.
+This is one of several examples of “personalised AI”: a category of AI tools that generate content to suit the specific needs and preferences of the user.
+Another example is Meta’s recently launched virtual assistant, Meta AI. This chatbot can have conversations, generate images and perform tasks across Meta’s platforms including WhatsApp, Messenger and Instagram.
+Artificial intelligence researcher and co-founder of DeepMind, Mustafa Suleyman, describes personalised AI as being more of a relationship than a technology:
+But these technologies are also controversial, with concerns raised over data ownership, bias and misinformation.
+Tech companies are trying to find ways to combat these issues. For instance, Google has added source links to AI-generated search summaries produced by its Search Generative Experience (SGE) tool, which came under fire earlier this year for offering up inaccurate and problematic responses.
+
+How will generative AI tools – and especially those personalised to us – change how we think?
+To understand this, let’s revisit the early 1990s when the internet first came into our lives. People could suddenly access information about pretty much anything, whether that was banking, baking, teaching or travelling.
+Nearly 30 years on, studies have shown how being connected to this global “hive mind” has changed our cognition, memory and creativity.
+For instance, having instantaneous access to the equivalent of 305.5 billion pages of information has increased people’s meta-knowledge – that is, their knowledge about knowledge. One impact of this is the “Google effect”: a phenomenon in which online search increases our ability to find information, but reduces our memory of what that information was.
+On one hand, offloading our thinking to search engines has been shown to free up our mental reserves for problem solving and creative thinking. On the other, online information retrieval has been associated with increased distractibility and dependency.
+Research also shows online searching – regardless of the quantity or quality of information retrieved – increases our cognitive self-esteem. In other words, it increases our belief in our own “smarts”.
+Couple this with the fact that questioning information is effortful – and that the more we trust our search engine, the less we critically engage with its results – and you can see why having access to unprecedented amounts of information is not necessarily making us wiser.
+
+      Both humans and AI hallucinate — but not in the same way
+Today’s generative AI tools go a lot further than just presenting us with search results. They locate the information for us, evaluate it, synthesise it and present it back to us.
+What might the implications of this be? Without pushing for human-led quality control, the outlook isn’t promising.
+Generative AI’s ability to produce responses that feel familiar, objective and engaging means it leaves us more vulnerable to cognitive biases.
+The automation bias, for instance, is the human tendency to overestimate the integrity of machine-sourced information. And the mere exposure effect is when we’re more likely to trust information that is presented as familiar or personal.
+Research on social media can help us understand the impact of such biases. In one 2016 study, Facebook users reported feeling more “in the know” based on the quantity of news content posted online – and not how much of it they actually read.
+We also know that “filter bubbles” created by social media algorithms – wherein our feeds are filtered according to our interests — limit the diversity of the content we’re exposed to.
+This process of information narrowing has been shown to increase ideological polarisation by reducing people’s propensity to consider alternative perspectives. It’s also been shown to increase our likelihood of being exposed to fake news.
+Generative AI is, without a doubt, a revolutionary force with the potential to do great things for society. It could reshape our education system by providing personalised content, change our work practices by expediting writing and information analysis, and push the frontiers of scientific discovery.
+It even has the potential to positively alter our relationships by helping us communicate and connect with others and can, at times, function as a form of synthetic companionship.
+But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking.
+Ultimately, we’ll need to understand both our own and AI’s strengths and weaknesses to ensure these “thinking” companions help us create the future we want – and not the one that happens to be at the top of the list.

@@ -1,0 +1,32 @@
+It’s no secret the trail of data we leave online can reveal intimate details about our lives. And there are myriad people whose job it is to collect and sift through this, often with a goal to engage in targeted advertising.
+Another use for the field of “social network analysis” could eventually be to help prosecutors in criminal courts make sense of huge amounts of digital evidence, collected both online and from devices offline.
+This would be particularly useful in trials with several defendants, saving courts precious time and money. Criminal networks can use online spaces such as dark web marketplaces to organise crime and reach more victims and clients.
+Transaction patterns, messages and page visits are all clues that can help unpack such a network.
+Social network analysis involves using advanced computer software to explore segments of patterns that recur in social interactions, online and offline. It offers scholars a broad perspective on the world of human relations.
+This form of analysis doesn’t just look at who you’re friends with on Instagram – it looks at which decisions you make as an individual, which you make in a group and how these layers of choices influence your world.
+
+      Your social networks and the secret story of metadata
+In its simplest form, these social networks can be presented in graphs. There are “nodes” (which represent people) connected by lines or “edges”. An edge could represent a phone call, message or meeting.
+Look at the graph of the real network of the Al-Qaeda terrorists involved in the September 11 attack. Can you figure out who the most “connected” terrorist is?
+This information is often expressed in mathematical form, too. These numbers offer information about the dynamics of a group and the specific role of each individual within.
+Social network analysis is particularly effective in helping investigators understand covert criminal networks, whether this is a biker gang, group of cyber criminals or members of the Sicilian Mafia. It can reveal details such as:
+A judge in a preliminary hearing could consult a graph like the one above to help decide whether there is a case to be made against each member.
+Mathematical metrics could further filter out individuals for which there is enough evidence to prosecute. This would also help judges reach fairer decisions on jail terms or acquittals.
+Due to time, money and human resource restrictions, often not all evidence from investigations is used in criminal court proceedings.
+Social network analysis would greatly benefit prosecutors in criminal trials involving an excess of digital evidence, which continues to grow alongside general online data.
+In Australia, any electronic device seized by authorities must be evaluated in court. Western Australia’s police force processes over 2.8 terabytes of data (2,800 GB) for every case it investigates.
+In the 2008 trial of Bell Group v Westpac Banking Corporation, digital evidence extended the final judgement enormously to about 2,500 pages.
+Similarly, a 2016 civil case in Victoria, McConnell Dowell Constructors v Santam and Others, required counsel to go through 1.4 million documents in electronic format. This would have taken about 583 weeks.
+The Supreme Court allowed (for the first time) a technology-assisted review to isolate the most “relevant” documents.
+But this didn’t help the court understand how the various documents were linked, which would only be possible through social network analysis.
+Moreover, large criminal investigations are often broken into multiple trials. While this is economical and maximises resources, it’s inherently risky because evidence can be evaluated differently depending on the court.
+This is why the largest and most expensive Mafia trial in history, the 1986 Maxiprocesso trial, was heard by only one court and jury. The initial trial involved 349 hearings over almost two years.
+In hindsight, discussions surrounding evidence in the trial could have been shortened had social network analysis been available at the time.
+In any criminal investigation, there’s also potential for bias from investigating officers. This bias can introduce errors into the evidence pool, which may not be picked up during a trial, and subsequently distort any analysis conducted.
+Of course, social network analysis isn’t perfect. While it can tell us how an individual interacts with a syndicate, it can’t guide us as to whether that person should be considered separate to the main network or not. This remains the judge’s decision.
+There are also limitations to how online networks can be investigated. Often, important data is stored outside police jurisdiction, or requires a search warrant from law enforcement before it can be accessed (such as with Facebook).
+Other times, data that’s crucial for an investigation may be hosted on an encrypted service such as WhatsApp, or may be hard to trace if it was uploaded anonymously or under a fake persona.
+
+      Facebook's push for end-to-end encryption is good news for user privacy, as well as terrorists and paedophiles
+Still, social network analyses could prove to be an invaluable support tool to help judges and jurors assess the value of evidence.
+If both have a detailed and holistic understanding of the case, this will help ensure the right people are convicted — as quickly as possible and with the sentencing deserved.

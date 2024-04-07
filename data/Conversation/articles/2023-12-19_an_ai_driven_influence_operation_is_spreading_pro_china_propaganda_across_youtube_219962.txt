@@ -1,0 +1,28 @@
+A recent investigation from the Australian Strategic Policy Institute (ASPI) has revealed an extensive network of YouTube channels promoting pro-Chinese and anti-US public opinion in the English-speaking world.
+The operation is well-coordinated, using generative AI to rapidly produce and publish content, while deftly exploiting YouTube’s algorithmic recommendation system.
+Operation “Shadow Play” involves a network of at least 30 YouTube channels with about 730,000 subscribers. At the time of writing this article the channels had some 4,500 videos between them, with about 120 million views.
+According to ASPI, the channels gained audiences by using AI algorithms to cross-promote each other’s content, thereby boosting visibility. This is concerning as it allows state messaging to cross borders with plausible deniability.
+The network of videos also featured an AI avatar created by British artificial intelligence company Synthesia, according to the report, as well as other AI-generated entities and voiceovers.
+While it’s not clear who is behind the operation, investigators say the controller is likely Mandarin-speaking. After profiling the behaviour, they concluded it doesn’t match that of any known state actor in the business of online influence operations. Instead, they suggest it might be a commercial entity operating under some degree of state direction.
+These findings double as the latest evidence that advanced influence operations are evolving faster than defensive measures.
+One clear parallel between the Shadow Play operation and other influence campaigns is the use of coordinated networks of inauthentic social media accounts, and pages amplifying the messaging.
+For example, in 2020 Facebook took down a network of more than 300 Facebook accounts, pages and Instagram accounts that were being run from China and posting content about the US election and COVID pandemic. As was the case with Shadow Play, these assets worked together to spread content and make it appear more popular than it was.
+
+      Scams, deepfake porn and romance bots: advanced AI is exciting, but incredibly dangerous in criminals' hands
+The current disclosure requirements around sponsored content have some glaring gaps when it comes to addressing cross-border influence campaigns. Most Australian consumer protection and advertising regulation focuses on commercial sponsorships rather than geopolitical conflicts of interest.
+Platforms such as YouTube prohibit deceptive practices in their stated rules. However, identifying and enforcing violations is difficult with foreign state-affiliated accounts that conceal who is pulling their strings.
+Determining what is propaganda, as opposed to free speech, raises difficult ethical questions around censorship and political opinions. Ideally, transparency measures shouldn’t unduly restrict protected speech. But viewers still deserve to understand an influencer’s incentives and potential biases.
+Possible measures could include clear disclosures when content is affiliated directly or indirectly with a foreign government, as well as making affiliation and location data more visible on channels.
+As technologies become more sophisticated, it’s becoming harder to discern what agenda or conflict of interest may be shaping the content of a video.
+Discerning viewers can gain some insight by looking into the creator(s) behind the content. Do they provide information on who they are, where they’re based and their background? A lack of clarity may signal an attempt to obscure their identity.
+You can also assess the tone and goal of the content. Does it seem to be driven by a specific ideological argument? What is the poster’s ultimate aim: are they just trying to get clicks, or are they persuading you into believing their viewpoint?
+Check for credibility signals, such as what other established sources say about this creator or their claims. When something seems dubious, rely on authoritative journalists and fact-checkers.
+And make sure not to consume too much content from any single creator. Get your information from reliable sources across the political spectrum so you can take an informed stance.
+The advancement of AI could exponentially amplify the reach and precision of coordinated influence operations if ethical safeguards aren’t implemented. At its most extreme, the unrestricted spread of AI propaganda could undermine truth and manipulate real-world events.
+Propaganda campaigns may not stop at trying to shape narratives and opinions. They could also be used to generate hyper-realistic text, audio and image content aimed at radicalising individuals. This could greatly destabilise our societies.
+We’re already seeing the precursors of what could become AI psy-ops with the ability to spoof identities, surveil citizens en masse, and automate disinformation production.
+Without applying an ethics or oversight framework to content moderation and recommendation algorithms, social platforms could effectively act as misinformation mega-amplifiers optimised for watch-time, regardless of the consequences.
+Over time, this may erode social cohesion, upend elections, incite violence and even undermine our democratic institutions. And unless we move quickly, the pace of malicious innovation may outstrip any regulatory measures.
+It’s more important than ever to establish external oversight to make sure social media platforms work for the greater good, and not just short-term profit.
+
+      Facebook's algorithms fueled massive foreign propaganda campaigns during the 2020 election – here's how algorithms can manipulate you

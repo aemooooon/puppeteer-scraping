@@ -1,0 +1,36 @@
+Artificial intelligence and machine learning are predicted to be part of the next industrial revolution and could help business and industry save billions of dollars by the next decade.
+The tech giants Google, Facebook, Apple, IBM and others are applying artificial intelligence to all sorts of data.
+Machine learning methods are being used in areas such as translating language almost in real time, and even to identify images of cats on the internet.
+So why haven’t we seen artificial intelligence used to the same extent in healthcare?
+Radiologists still rely on visual inspection of magnetic resonance imaging (MRI) or X-ray scans – although IBM and others are working on this issue – and doctors have no access to AI for guiding and supporting their diagnoses.
+Machine learning technologies have been around for decades, and a relatively recent technique called deep learning keeps pushing the limit of what machines can do. Deep learning networks comprise neuron-like units into hierarchical layers, which can recognise patterns in data.
+This is done by iteratively presenting data along with the correct answer to the network until its internal parameters, the weights linking the artificial neurons, are optimised. If the training data capture the variability of the real-world, the network is able to generalise well and provide the correct answer when presented with unseen data.
+So the learning stage requires very large data sets of cases along with the corresponding answers. Millions of records, and billions of computations are needed to update the network parameters, often done on a supercomputer for days or weeks.
+Here lies the problems with healthcare: data sets are not yet big enough and the correct answers to be learned are often ambiguous or even unknown.
+The functions of the human body, its anatomy and variability, are very complex. The complexity is even greater because diseases are often triggered or modulated by genetic background, which is unique to each individual and so hard to be trained on.
+Adding to this, specific challenges to medical data exist. These include the difficulty to measure precisely and accurately any biological processes introducing unwanted variations.
+Other challenges include the presence of multiple diseases (co-morbidity) in a patient, which can often confound predictions. Lifestyle and environmental factors also play important roles but are seldom available.
+The result is that medical data sets need to be extremely large.
+This is being addressed across the world with increasingly large research initiatives. Examples include Biobank in the United Kingdom, which aims to scan 100,000 participants.
+Others include the Alzheimer’s Disease Neuroimaging Initiative (ADNI) in the United States and the Australian Imaging, Biomarkers and Lifestyle Study of Ageing (AIBL), tracking more than a thousand subjects over a decade.
+Government initiatives are also emerging such as the American Cancer Moonshot program. The aim is to “build a national cancer data ecosystem” so researchers, clinicians and patients can contribute data with the aim to “facilitate efficient data analysis”. Similarly, the Australian Genomics Health Alliance aims at pooling and sharing genomic information.
+Eventually the electronic medical record systems that are being deployed across the world should provide extensive high quality data sets. Beyond the expected gain in efficiency, the potential to mine population wide clinical data using machine learning is tremendous. Some companies such as Google are eagerly trying to access those data.
+Complex medical decisions are often made by a team of specialists reaching consensus rather than certainty.
+Radiologists might disagree slightly when interpreting a scan where blurring and only very subtle features can be observed. Inferring a diagnosis from measurement with errors and when the disease is modulated by unknown genes often relies on implicit know-how and experience rather than explicit facts.
+Sometimes the true answer cannot be obtained at all. For example, measuring the size of a structure from a brain MRI cannot be validated, even at autopsy, since post-mortem tissues change in their composition and size after death.
+So a machine can learn that a photo contains a cat because users have labelled with certainty thousands of pictures through social media platforms, or told Google how to recognise doodles.
+It is a much more difficult task to measure the size of a brain structure from an MRI because no one knows the answer and only consensus from several experts can be assembled at best, and at a great cost.
+Several technologies are emerging to address this issue. Complex mathematical models including probabilities such as Bayesian approaches can learn under uncertainty.
+Unsupervised methods can recognise patterns in data without the need for what the actual answers are, albeit with challenging interpretation of the results.
+Another approach is transfer learning, whereby a machine can learn from large, different, but relevant, data sets for which the training answers are known.
+Medical applications of deep learning have already been very successful. They often come first at competitions during scientific meetings where data sets are made available and the evaluation of submitted results revealed during the conference.
+At CSIRO we have been developing CapAIBL (Computational Analysis of PET from AIBL) to analyse 3D images of brain positron emission tomography (PET).
+Using a database with many scans from healthy individuals and patients with Alzheimer’s disease, the method is able to learn pattern characteristics of the disease. It can then identify that signature from unseen individual’s scan. The clinical report generated allows doctors to diagnose the disease faster and with more confidence.
+In the case (above), CapAIBL technology was applied to amyloid plaque imaging in a patient with Alzheimer’s disease. Red indicates higher amyloid deposition in the brain, a sign of Alzheimer’s.
+Probably the most challenging issue is about understanding causation. Analysing retrospective data is prone to learning spurious correlation and missing the underlying cause for diseases or effect of treatments.
+Traditionally, randomised clinical trials provide evidence on the superiority of different options, but they don’t benefit yet from the potential of artificial intelligence.
+New designs such as platform clinical trials might address this in the future, and could pave the way of how machine learning technologies could learn evidence rather than just association.
+So large medical data sets are being assembled. New technologies to overcome the lack of certainty are being developed. Novel ways to establish causation are emerging.
+This area is moving fast and tremendous potential exists for improving efficiency and health. Indeed many ventures are trying to capitalise on this.
+Startups such as Enlitic, large firms such as IBM, or even small businesses such as Resonance Health, are promising to revolutionise health.
+Impressive progress is being made but many challenges still exist.

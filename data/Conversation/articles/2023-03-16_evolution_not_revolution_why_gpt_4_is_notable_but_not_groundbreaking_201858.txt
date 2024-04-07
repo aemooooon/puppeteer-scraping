@@ -1,0 +1,30 @@
+OpenAI, the artificial intelligence (AI) research company behind ChatGPT and the DALL-E 2 art generator, has unveiled the highly anticipated GPT-4 model. Excitingly, the company also made it immediately available to the public through a paid service.
+GPT-4 is a large language model (LLM), a neural network trained on massive amounts of data to understand and generate text. It’s the successor to GPT-3.5, the model behind ChatGPT.
+The GPT-4 model introduces a range of enhancements over its predecessors. These include more creativity, more advanced reasoning, stronger performance across multiple languages, the ability to accept visual input, and the capacity to handle significantly more text.
+More powerful than the wildly popular ChatGPT, GPT-4 is bound to inspire an in-depth exploration of its capabilities and further accelerate the adoption of generative AI.
+Among many results highlighted by OpenAI, what immediately stands out is GPT-4’s performance on a range of standardised tests. For example, GPT-4 scores among the top 10% in a simulated US bar exam, whereas GPT-3.5 scores in the bottom 10%.
+GPT-4 also outperforms GPT-3.5 on a range of writing, reasoning and coding tasks. The following examples illustrate how GPT-4 displays more reliable commonsense reasoning than GPT-3.5.
+Another significant development is that GPT-4 is multimodal, unlike previous GPT models. This means it accepts both text and image inputs.
+Samples provided by OpenAI reveal GPT-4 is capable of interpreting images, explaining visual humour and providing reasoning based on visual inputs. Such skills are beyond the scope of previous models.
+This ability to “see” could provide GPT-4 a more comprehensive picture of how the world works – just as humans acquire enhanced knowledge through observation. This is thought to be an important ingredient for developing sophisticated AI that could bridge the gap between current models and human-level intelligence.
+In fact, GPT-4 isn’t the first language model with these capabilities. A few weeks ago, Microsoft released Kosmos-1, a language model that accepts visual inputs the same way GPT-4 does. Google also recently expanded its PaLM language model to be able to take in image data and sensor data collected from robots. Multimodality is a growing trend in AI research.
+GPT-4 can take in and generate up to 25,000 words of text, which is much more than ChatGPT’s limit of about 3,000 words.
+It can handle more complex and detailed prompts, and generate more extensive pieces of writing. This allows for richer storytelling, more in-depth analysis, summaries of long pieces of text and deeper conversational interactions.
+In the example below, I gave the new ChatGPT (which uses GPT-4) the entire Wikipedia article about artificial intelligence and asked it a specific question, which it answered accurately.
+Even though the GPT-4 technical report controversially provides no details about how the model was developed, all signs indicate it’s essentially a scaled-up version of GPT-3.5 with safety improvements. In other words, it’s not a new paradigm in AI research.
+OpenAI has itself said GPT-4 is subject to the same limitations as previous language models, such as being prone to reasoning errors and biases, and making up false information.
+That said, OpenAI’s results on GPT-4 suggest it’s at least more reliable than previous GPT models.
+OpenAI used human feedback to fine-tune GPT-4 to produce more helpful and less problematic outputs. GPT-4 is much better at declining inappropriate requests and avoiding harmful content when compared to the initial ChatGPT release.
+Its arrival will continue a crucial debate among critics. That being whether alternative approaches are required to fundamentally solve issues of truthfulness and reliability, or whether throwing more data and resources at language models will eventually do the job.
+One could argue GPT-4 represents only an incremental improvement over its predecessors in many practical scenarios. Results showed human judges preferred GPT-4 outputs over the most advanced variant of GPT-3.5 only about 61% of the time.
+GPT-4 also shows no improvement over GPT-3.5 in some tests, including English language and art history exams.
+Soon after GPT-4’s launch, Microsoft revealed its highly controversial Bing chatbot was running on GPT-4 all along. The announcement confirmed speculation by commentators who noticed it was more powerful than ChatGPT.
+This means Bing provides an alternative way to leverage GPT-4, since it’s a search engine rather than just a chatbot.
+
+      Gaslighting, love bombing and narcissism: why is Microsoft's Bing AI so unhinged?
+However, as anyone looped in on AI news knows, Bing started to go a bit crazy. But I don’t think the new ChatGPT will follow since it seems to have been heavily fine-tuned using human feedback.
+In its technical report, OpenAI shows how GPT-4 can indeed go completely off the rails without this human feedback training.
+
+
+One notable aspect of GPT-4’s release has been that, in addition to Bing, it’s already being used by companies and organisations such as Duolingo, Khan Academy, Morgan Stanley, Stripe and the Icelandic government to build new services and tools.
+Its commercial deployment will further heat up competition between major AI labs, and fuel investors’ appetite for generative technologies.

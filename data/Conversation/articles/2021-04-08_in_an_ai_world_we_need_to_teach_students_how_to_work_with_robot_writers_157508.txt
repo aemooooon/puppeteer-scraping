@@ -1,0 +1,25 @@
+Robots are writing more of what we read on the internet. And artificial intelligence (AI) writing tools are becoming freely available for anyone, including students, to use.
+In a period of rapid change, there are enormous ethical implications for post-human authorship — in which humans and machines collaborate. The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others.
+AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was written by humans. In September, 2020 GPT-3 wrote an entire essay in The Guardian to convince people not to fear artificial intelligence.
+
+AI does this through what’s called natural language processing and generation. This involves converting human language to computer commands and vice versa. To do this, machine algorithms study millions of text samples, words, sentences and paragraphs humans use to gain a general understanding of the context of human language. Then machines use that knowledge to put together text.
+As recently as 2019, this kind of technology seemed a long way off. But today, it is readily available.
+For example, the free Zyro content generator provides text for websites. I can select the categories “Health and Living” and “Personal Trainer” (I happen to be one, as well as an academic). In two seconds, the following text appears:
+This sums me up (despite the program knowing nothing about me) and would be fine for my website, if I had one. I have the option to generate more responses, and in two seconds, the program offers:
+While this is repetitive and Zyro does not notice the apparent error in the last sentence, these issues would be easy to correct. Text, even for niche purposes, can now be generated in a few clicks.
+There are other digital tools such as paraphrasers and rewriters that can generate up to 1,000 articles from a single seed article, each of them substantially unique. Quillbot and WordAI, for instance, can rapidly rewrite text and make it difficult to detect plagiarism. WordAI boasts “unlimited human quality content at your fingertips”.
+So what does this mean for education, writing, and society?
+Of course, there’s the issue of cheating on essays and other assignments. School and university leaders need to have difficult conversations about what constitutes “authorship” and “editorship” in the post-human age. We are all (already) writing with machines, even just via spelling and grammar checkers.
+Tools such as Turnitin — originally developed for detecting plagiarism — are already using more sophisticated means of determining who wrote a text by recognising a human author’s unique “fingerprint”. Part of this involves electronically checking a submitted piece of work against a student’s previous work.
+Many student writers are already using AI writing tools. Perhaps, rather than banning or seeking to expose machine collaboration, it should be welcomed as “co-creativity”. Learning to write with machines is an important aspect of the workplace “writing” students will be doing in the future.
+
+      OK computer: to prevent students cheating with AI text-generators, we should bring them into the classroom
+AI writers work lightning fast. They can write in multiple languages and can provide images, create metadata, headlines, landing pages, Instagram ads, content ideas, expansions of bullet points and search-engine optimised text, all in seconds. Students need to exploit these machine capabilities, as writers for digital platforms and audiences.
+Perhaps assessment should focus more on students’ capacities to use these tools skilfully instead of, or at least in addition to, pursuing “pure” human writing.
+Yet the question of fairness remains. Students who can access better AI writers (more “natural”, with more features) will be able to produce and edit better text.
+Better AI writers are more expensive and are available on monthly plans or high one-off payments wealthy families can afford. This will exacerbate inequality in schooling, unless schools themselves provide excellent AI writers to all.
+We will need protocols for who gets credit for a piece of writing. We will need to know who gets cited. We need to know who is legally liable for content and potential harm it may create. We need transparent systems for identifying, verifying and quantifying human content.
+
+      When does getting help on an assignment turn into cheating?
+And most importantly of all, we need to ask whether the use of AI writing tools is fair to all students.
+For those who are new to the notion of AI writing, it is worthwhile playing and experimenting with the free tools available online, to better understand what “creation” means in our robot future.

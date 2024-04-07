@@ -1,0 +1,32 @@
+Artificial intelligence (AI) seems to be everywhere these days, and healthcare is no exception.
+There are computer vision tools that can detect suspicious skin lesions as well as a specialist dermatologist can. Other tools can predict coronary artery disease from scans. There are also data-driven robots that guide minimally-invasive surgery.
+To precisely diagnose diseases and guide treatment choices, AI is used to analyse patients’ genomic and molecular data. For instance, machine learning has been applied to detect Alzheimer’s disease and to help choose the best antidepressant medication for patients with major depression.
+Deep learning methods have been used to model electronic health record data to predict health outcomes for patients and provide early estimates of treatment cost.
+
+      AI to Z: all the terms you need to know to keep up in the AI hype age
+With new language-based generative AI technologies like ChatGPT, the clinical world is abuzz with talk of chatbots for answering patient questions, helping doctors take better notes, and even explaining a diagnosis to a concerned grandchild.
+There is no doubt that in terms of patient health, workflows and system efficiency, AI will benefit the health system.
+But there are legitimate concerns about the accuracy of such tools, including how well they work in new settings (such as a different country or even a different hospital from where they were created), and whether they “hallucinate” – or make things up.
+In our recent article in the Medical Journal of Australia, we argue using AI effectively in healthcare will require retraining of the workforce, retooling health services, and transforming workflows.
+Critically, we also need to collect evidence AI tools are “medical grade” before we use them on patients.
+Many claims made by the developers of medical AI may lack appropriate scientific rigour and evaluations of AI tools may suffer from a high risk of bias. This means the tests run to ensure their accuracy are too narrow.
+AI tools can make errors, or stop working when the application context changes. Conversational agents such as chatbots may produce misleading medical information that may delay patients seeking care. They may also make inappropriate recommendations.
+All this means we need standards for the AI tools that impact diagnosis and treatment of patients. Clinicians should be given training on how to critically assess AI applications to understand their readiness for routine care.
+We should expect to be able to replicate the results from one context to another, under real-world conditions. For example, a tool developed using historical data from a hospital in New York should be carefully trialled with live patient data in Broome before we trust it.
+Randomised controlled trials of AI tools, where these differences are controlled for, would represent a gold standard of evidence for their use.
+
+      AI has potential to revolutionise health care – but we must first confront the risk of algorithmic bias
+It is important to carefully examine how AI tools are embedded into workflows to support clinical decisions. The benefits and risks of a tool will depend on precisely how the human clinician and the tool work together.
+There’s a view that all we need to do in Australia is adopt the best of what is produced internationally, and that we don’t need deep sovereign capabilities.
+Perhaps we can rely on the regulation of AI tools under way through the European Union’s AI Act, or the United States Food and Drug Administration’s processes for assessing Software as a Medical Device.
+Nothing is further from the truth.
+AI requires local customisation to support local practices, and to reflect diverse populations or health service differences. We don’t want to just export our clinical datasets and import back the models built with them without adapting to our contexts and workflows. We need to monitor the clinical deployments of AI tools into our settings.
+Without some degree of algorithmic sovereignty – the capability to produce or modify AI in Australia – the nation is exposed to new risks and the benefits of the technology will be limited.
+
+      How should Australia capitalise on AI while reducing its risks? It's time to have your say
+The Australian Alliance for Artificial Intelligence in Healthcare has produced a roadmap for future development.
+It identifies gaps in Australia’s capability to translate AI into effective and safe clinical services and provides guidance on key issues such as workforce, industry capability, implementation, regulation, and cybersecurity.
+These recommendations offer a path toward an AI-enabled Australian healthcare system capable of delivering personalised and patient-focused healthcare, safely and ethically.
+The plan also envisages a vibrant AI industry sector that creates jobs and exports to the world, working side by side with an AI-aware workforce and AI-savvy consumers.
+AI has the potential to transform medicine. It can do so by harnessing computational power to discern subtle patterns in complex data spanning biology, images, sensory and experiential data, and more.
+With care and strategic investment, innovations in AI will surely benefit clinicians and patients alike. Now is the time to act to ensure Australia is well-placed to benefit from one of the most significant industrial revolutions of our time.

@@ -1,0 +1,29 @@
+Generative AI is having a moment. ChatGPT and art generators such as DALL-E 2, Stable Diffusion and Midjourney have proven their potential, and now millions are wracking their brains over how to get their outputs to look something like the vision in their head.
+This is the goal of prompt engineering: the skill of crafting an input to deliver a desired result from generative AI.
+Despite being trained on more data and computational resources than ever before, generative AI models have limitations. For instance, they’re not trained to produce content aligned with goals such as truth, insight, reliability and originality.
+They also lack common sense and a fundamental understanding of the world, which means they can generate flawed (and even nonsensical) content.
+As such, prompt engineering is essential for unlocking generative AI’s capabilities. And luckily it isn’t a technical skill. It’s mostly about trial and error, and keeping a few things in mind.
+
+      AI art is everywhere right now. Even experts don't know what it will mean
+First, let’s use ChatGPT to illustrate how prompt engineering can be used for text outputs. If it’s used effectively, ChatGPT can generate essays, computer code, business plans, cover letters, poetry, jokes, and more.
+Since it’s a chatbot, you may be inclined to engage with it conversationally. But this isn’t the best approach if you want tailored results. Instead, adopt the mindset that you’re programming the machine to perform a writing task for you.
+Create a content brief similar to what you might give a hired professional writer. The key is to provide as much context as possible and use specific and detailed language. You can include information about:
+If you want a longer piece, you can generate it in steps. Start with the first few paragraphs and ask ChatGPT to continue in the next prompt. If you’re unsatisfied with a specific portion, you can ask for it to be rewritten according to new instructions.
+But remember: no matter how much you tinker with your prompts, ChatGPT is subject to inaccuracies and making things up. So don’t take anything at face value. In the example below, the output mentions a “report” that doesn’t exist. It probably included this because my prompt asked it to use only reliable sources.
+Midjourney is one of the most popular tools for art generation, and one of the easiest for beginners. So let’s use it for our next example.
+Unlike for text generation, elaborate prompts aren’t necessarily better for image generation. The following example shows how a basic prompt combined with a style keyword is enough to create a variety of interesting images. Your style keyword may refer to a genre, art movement, technique, artist or specific work.
+The following images were based on the prompt leopard on tree followed by different style keywords. These were (from the top left clockwise) synthwave, hyperrealist, expressionist and in the style of Zena Holloway. Holloway is a British photographer known for capturing her subjects in ethereal and somewhat surreal scenes, most often underwater.
+You can also add keywords relating to:
+With Midjourney, you can even use certain specific commands for different features, including ––ar or ––aspect to set the aspect ratio,
+––no to omit certain objects, and ––c to produce more “unusual” results. This command accepts values between 0-100 after it, where the default is 0 and 100 leads to the most unusual result.
+You can also use ––s or ––stylize to generate more artistic images (at the expense of following the prompt less closely).
+The following example applies some of these ideas to create a fantasy image with a dreamlike and futuristic look. The prompt used here was dreamy futuristic cityscape, beautiful, clouds, interesting colors, cinematic lighting, 8k, 4k ––ar 7:4 ––c 25 ––no windows.
+Midjourney accepts multiple prompts for one image if you use a double colon. This can lead to results such as the image below, where I provided separate prompts for the owl and plants. The full prompt was oil painting of an ethereal owl :: flowers, colors :: abstract :: wisdom ––ar 7:4.
+A more advanced type of prompting is to include an image as part of the prompt. Midjourney will then take the style of that image into account when generating a new one.
+A good way to find inspiration and ideas is to explore the Midjourney gallery and style libraries.
+As generative AI models enter everyday life, prompting skills are likely to become more in-demand, especially from employers looking to get results using AI generators.
+Some commentators are asking if becoming a “prompt engineer” may be a way for professionals such as designers, software engineers and content writers to save their jobs from automation, by integrating generative AI into their work. Others have suggested prompt engineering will itself be a career.
+It’s hard to predict what role prompt engineering will play as AI models advance.
+But it’s almost a given that more sophisticated generators will be able to handle more complex requests, inviting users to stretch their creativity. They will likely also have a better grasp of our preferences, reducing the need for tinkering.
+
+      No, the Lensa AI app technically isn’t stealing artists' work – but it will majorly shake up the art world

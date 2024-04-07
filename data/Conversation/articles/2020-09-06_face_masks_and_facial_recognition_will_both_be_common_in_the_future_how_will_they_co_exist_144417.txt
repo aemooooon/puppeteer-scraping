@@ -1,0 +1,31 @@
+It’s surprising how quickly public opinion can change. Winding the clocks back 12 months, many of us would have looked at a masked individual in public with suspicion.
+Now, some countries have enshrined face mask use in law. They’ve also been made compulsory in Victoria and are recommended in several other states.
+One consequence of this is that facial recognition systems in place for security and crime prevention may no longer be able to fulfil their purpose. In Australia, most agencies are silent about the use of facial recognition.
+But documents leaked earlier this year revealed Australian Federal Police and state police in Queensland, Victoria and South Australia all use Clearview AI, a commercial facial recognition platform. New South Wales police also admitted using a biometrics tool called PhotoTrac.
+
+      Your face is part of Australia's 'national security weapon': should you be concerned?
+Facial recognition involves using computing to identify human faces in images or videos, and then measuring specific facial characteristics. This can include the distance between eyes, and the relative positions of the nose, chin and mouth.
+This information is combined to create a facial signature, or profile. When used for individual recognition – such as to unlock your phone – an image from the camera is compared to a recorded profile. This process of facial “verification” is relatively simple.
+However, when facial recognition is used to identify faces in a crowd, it requires a significant database of profiles against which to compare the main image.
+These profiles can be legally collected by enrolling large numbers of users into systems. But they’re sometimes collected through covert means.
+As facial signatures are based on mathematical models of the relative positions of facial features, anything that reduced the visibility of key characteristics (such as the nose, mouth and chin) interferes with facial recognition.
+There are already many ways to evade or interfere with facial recognition technologies. Some of these evolved from techniques designed to evade number plate recognition systems.
+Although the coronavirus pandemic has escalated concerns around the evasion of facial recognition systems, leaked US documents show these discussions taking place back in 2018 and 2019, too.
+And while the debate on the use and legality of facial recognition continues, the focus has recently shifted to the challenges presented by mask-wearing in public.
+On this front, the US National Institute of Standards and Technology (NIST) coordinated a major research project to evaluate how masks impacted the performance of various facial recognition systems used across the globe.
+Its report, published in July, found some algorithms struggled to correctly identify mask-wearing individuals up to 50% of the time. This was a significant error rate compared to when the same algorithms analysed unmasked faces.
+Some algorithms even struggled to locate a face when a mask was covering too much of it.
+There are currently no usable photo data sets of mask-wearing people that can be used to train and evaluate facial recognition systems.
+The NIST study addressed this problem by superimposing masks (of various colours, sizes and positions) over images of faces, as seen here:
+
+While this may not be a realistic portrayal of a person wearing a mask, it’s effective enough to study the effects of mask-wearing on facial recognition systems.
+It’s possible images of real masked people would allow more details to be extracted to improve recognition systems – perhaps by estimating the nose’s position based on visible protrusions in the mask.
+Many facial recognition technology vendors are already preparing for a future where mask use will continue, or even increase. One US company offers masks with customers’ faces printed on them, so they can unlock their smartphones without having to remove it.
+Even before the coronavirus pandemic, masks were a common defence against air pollution and viral infection in countries including China and Japan.
+
+      I've always wondered: why many people in Asian countries wear masks, and whether they work
+Political activists also wear masks to evade detection on the streets. Both the Hong Kong and Black Lives Matter protests have reinforced protesters’ desire to dodge facial recognition by authorities and government agencies.
+As experts forecast a future with more pandemics, rising levels of air pollution, persisting authoritarian regimes and a projected increase in bushfires producing dangerous smoke – it’s likely mask-wearing will become the norm for at least a proportion of us.
+Facial recognition systems will need to adapt. Detection will be based on features that remain visible such as the eyes, eyebrows, hairline and general shape of the face.
+Such technologies are already under development. Several suppliers are offering upgrades and solutions that claim to deliver reliable results with mask-wearing subjects.
+For those who oppose the use of facial recognition and wish to go undetected, a plain mask may suffice for now. But in the future they might have to consider alternatives, such as a mask printed with a fake computer-generated face.

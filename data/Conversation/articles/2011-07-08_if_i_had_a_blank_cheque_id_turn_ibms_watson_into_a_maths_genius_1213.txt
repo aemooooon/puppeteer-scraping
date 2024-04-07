@@ -1,0 +1,33 @@
+Welcome to the second instalment of If I had a blank cheque … a series in which leading researchers reveal what they could (and would) do in their discipline if money were no object.
+Today we hear from Jon “Doctor Pi” Borwein, Laureate Professor of Mathematics at the University of Newcastle.
+Project: Recalibrate Watson to solve maths problems
+Cost: $500 million
+Timeframe: Five years
+Mathematics has many grand challenge problems, but none that can potentially be settled by pouring in more money – unlike the case of the Large Hadron Collider, the Square Kilometre Array or other such projects.
+Maths is a different beast. But, of course, you’re offering me unlimited, free dosh, so I should really think of something.
+In his famous 1900 speech The Problems of Mathematics David Hilbert listed 23 problems that set the stage for 20th century mathematics.
+It was a speech full of optimism for mathematics in the coming century and Hilbert felt open (or unsolved) problems were a sign of vitality:
+“The great importance of definite problems for the progress of mathematical science in general … is undeniable … [for] as long as a branch of knowledge supplies a surplus of such problems, it maintains its vitality … every mathematician certainly shares … the conviction that every mathematical problem is necessarily capable of strict resolution … we hear within ourselves the constant cry: There is the problem, seek the solution. You can find it through pure thought …”
+Hilbert’s problems included the continuum hypothesis, the “well-ordering” of the reals, Goldbach’s conjecture, the transcendence of powers of algebraic numbers, the Riemann hypothesis, the extension of Dirichlet’s principle and many more.
+Many were solved in subsequent decades, and each time it was a major event for mathematics.
+The Riemann hypothesis (which deals with the distribution of prime numbers) remains on a list of seven “third millennium” problems.
+For the solution of each millennium problem, the Clay Mathematics Institute offers – in the spirit of the times – a one million dollar prize.
+This prize has already been awarded and refused by Perelman for resolving the Poincaré conjecture. The solution also merited Science’s Breakthrough of the Year, the first time mathematics had been so honoured.
+Certainly, given unlimited moolah, learned groups could be gathered to attack each problem and assisted in various material ways. But targeted research in mathematics has even less history of success than in the other sciences … which is saying something.
+Doron Zeilberger famously said that the Riemann hypothesis is the only piece of mathematics whose proof (i.e. certainty of knowledge) merits $10 billion being spent.
+As John McCarthy wrote in Science in 1997:
+“In 1965 the Russian mathematician Alexander Konrod said ‘Chess is the Drosophila [a type of fruit fly] of artificial intelligence.
+"But computer chess has developed as genetics might have if the geneticists had concentrated their efforts, starting in 1910, on breeding racing Drosophila. We would have some science, but mainly we would have very fast fruit flies.”
+Unfortunately, the so-called “curse of exponentiality” – whereby the more difficult a problem becomes, the challenge of solving it increases exponentially – pervades all computing, and especially mathematics.
+As a result, many problems – such as Ramsey’s Theorem – will likely be impossible to solve by computer brute force, regardless of advances in technology.
+But, of course, I must get to the point. You’re offering me a blank cheque, so what would I do? A holiday in Greece for two? No, not this time. Here’s my manifesto:
+Google has transformed mathematical life (as it has with all aspects of life) but is not very good at answering mathematical questions – even if one knows precisely the question to ask and it involves no symbols.
+In February, IBM’s Watson computer walloped the best human Jeopardy players in one of the most impressive displays of natural language competence by a machine.
+I would pour money into developing an enhanced Watson for mathematics and would acquire the whole corpus of maths for its database.
+Maths ages very well and I am certain we would discover a treasure trove. Since it’s hard to tell where maths ends and physics, computer science and other subjects begin, I would be catholic in my acquisitions.
+Since I am as rich as Croesus and can buy my way out of trouble, I will not suffer the same court challenges Google Books has faced.
+I should also pay to develop a comprehensive computation and publishing system with features that allow one to manipulate mathematics while reading it and which ensures published mathematics is rich and multi-textured, allowing for reading at a variety of levels.
+Since I am still in a spending mood, I would endow a mathematical research institute with great collaboration tools for roughly each ten million people on Earth.
+Such institutes have greatly enhanced research in the countries that can afford and chose to fund them.
+Content with my work, I would then rest.
+Are you an academic or researcher? What could you do with unlimited funds? Contact The Conversation.

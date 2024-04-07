@@ -1,0 +1,42 @@
+In 2023, artificial intelligence (AI) truly entered our daily lives. The latest data shows four in five teenagers in the United Kingdom are using generative AI tools. About two-thirds of Australian employees report using generative AI for work.
+At first, many people used these tools because they were curious about generative AI or wanted to be entertained. Now, people ask generative AI for help with studies, for advice, or use it to find or synthesise information. Other uses include getting help coding and making images, videos, or audio.
+So-called “prompt whisperers” or prompt engineers offer guides on not just designing the best AI prompts, but even how to blend different AI services to achieve fantastical outputs.
+AI uses and functions have also shifted over the past 12 months as technological development, regulation and social factors have shaped what’s possible. Here’s where we’re at, and what might come in 2024.
+
+      AI to Z: all the terms you need to know to keep up in the AI hype age
+Generative AI made waves early in the year when it was used to enter and even win photography competitions, and tested for its ability to pass school exams.
+ChatGPT, the chatbot that’s become a household name, reached a user base of 100 million by February – about four times the size of Australia’s population.
+Some musicians used AI voice cloning to create synthetic music that sounds like popular artists, such as Eminem. Google launched its chatbot, Bard. Microsoft integrated AI into Bing search. Snapchat launched MyAI, a ChatGPT-powered tool that allows users to ask questions and receive suggestions.
+GPT-4, the latest iteration of the AI that powers ChatGPT, launched in March. This release brought new features, such as analysing documents or longer pieces of text.
+Also in March, corporate giants like Coca-Cola began generating ads partly through AI, while Levi’s said it would use AI for creating virtual models. The now-infamous image of the Pope wearing a white Balenciaga puffer jacket went viral. A cohort of tech evangelists also called for an AI development pause.
+
+      The Pope Francis puffer coat was fake – here’s a history of real papal fashion
+Amazon began integrating generative AI tools into its products and services in April. Meanwhile, Japan ruled there would be no no copyright restrictions for training generative AI in the country.
+In the United States, screenwriters went on strike in May, demanding a ban of AI-generated scripts. Another AI-generated image, allegedly of the Pentagon on fire, went viral.
+In July, worshippers experienced some of the first religious services led by AI.
+In August, two months after AI-generated summaries became available in Zoom, the company faced intense scrutiny for changes to its terms of service around consumer data and AI. The company later clarified its policy and pledged not to use customers’ data without consent to train AI.
+In September, voice and image functionalities came to ChatGPT for paid users. Adobe began integrating generative AI into its applications like Illustrator and Photoshop.
+By December, we saw an increased shift to “Edge AI”, where AI processes are handled locally, on devices themselves, rather than in the cloud, which has benefits in contexts when privacy and security are paramount. Meanwhile, the EU announced the world’s first “AI Law”.
+
+      AI: the world is finally starting to regulate artificial intelligence – what to expect from US, EU and China's new laws
+Given the whirlwind of AI developments in the past 12 months, we’re likely to see more incremental changes in the next year and beyond.
+In particular, we expect to see changes in these four areas.
+Increased bundling of AI services and functions
+ChatGTP was initially just a chatbot that could generate text. Now, it can generate text, images and audio. Google’s Bard can now interface among Gmail, Docs and Drive, and complete tasks across these services.
+By bundling generative AI into existing services and combining functions, companies will try to maintain their market share and make AI services more intuitive, accessible and useful.
+At the same time, bundled services make users more vulnerable when inevitable data breaches happen.
+Higher quality, more realistic generations
+Earlier this year, AI struggled with rendering human hands and limbs. By now, AI generators have markedly improved on these tasks.
+At the same time, research has found how biased many AI generators can be.
+Some developers have created models with diversity and inclusivity in mind. Companies will likely see a benefit in providing services that reflect the diversity of their customer bases.
+Growing calls for transparency and media standards
+Various news platforms have been slammed in 2023 for producing AI-generated content without transparently communicating this.
+AI-generated images of world leaders and other newsworthy events abound on social media, with high potential to mislead and deceive.
+Media industry standards that transparently and consistently denote when AI has been used to create or augment content will need to be developed to improve public trust.
+Expansion of sovereign AI capacity
+In these early days, many have been content playfully exploring AI’s possibilities. However, as these AI tools begin to unlock rapid advancements across all sectors of our society, more fine-grained control over who governs these foundational technologies will become increasingly important.
+In 2024, we will likely see future-focused leaders incentivising the development of their sovereign capabilities through increased research and development funding, training programs and other investments.
+For the rest of us, whether you’re using generative AI for fun, work, or school, understanding the strengths and limitations of the technology is essential for using it in responsible, respectful and productive ways.
+Similarly, understanding how others – from governments to doctors – are increasingly using AI in ways that affect you, is equally important.
+
+      Artificial intelligence is already in our hospitals. 5 questions people want answered

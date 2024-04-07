@@ -1,0 +1,32 @@
+Artificial intelligence (AI) is poised to revolutionise the way we diagnose and treat illness. It could be particularly helpful for depression because it could make more accurate diagnoses and determine which treatments are more likely to work.
+Some 20% of us will have depression at least once in our lifetimes. Around the world, 
+300 million people are currently experiencing depression, with 1.5 million Australians likely to be depressed at any one time. Because of this, depression has been described by the World Health Organization as the single biggest contributor to ill health around the world.
+So how exactly could AI help?
+
+      Depression isn't just sadness – it's often a loss of pleasure
+Despite its frequency, depression is difficult to diagnose. So hard, in fact, that general practitioners accurately detect depression in less than half of cases.
+This is because there is no one test for depression: doctors use self-reported symptoms, questionnaires and clinical observations to make a diagnosis. But symptoms of depression are not the same for everyone. Some people may sleep more, others sleep less; some people lack energy and interest in activities, while others may feel sad or irritable.
+For those who are accurately diagnosed with depression, there are a range of treatment options including talk therapy, medications and lifestyle change. However, response to treatment is different for each person, and we have no way to know ahead of time which treatments will work and which won’t.
+AI trains computers to think like humans, with a particular focus on three human-like behaviours: learning, reasoning and self-correction (to fine-tune and improve performance over time). One branch of AI is machine learning, the goal of which is to train computers to learn, find patterns in data and make data-informed predictions without guidance from humans.
+In recent years there has been a surge in research applying AI to illnesses like depression, which can be difficult to diagnose and treat.
+Scientists have compared ChatGPT diagnoses and medical recommendations to those of real-life doctors with surprising results. When given information on fictional patients of varied depression severity, sex and socioeconomic status, ChatGPT mostly recommended talk therapy. In contrast, doctors recommended antidepressants.
+US, British and Australian guidelines recommend talk therapy as the first treatment option ahead of medication.
+This suggests ChatGPT may be more likely to follow clinical guidelines, whereas GPs may have a tendency to overprescribe antidepressants.
+ChatGPT is also less influenced by sex and socioeconomic biases, while doctors are statistically more likely to prescribe antidepressants to men, especially those in blue-collar jobs.
+Depression affects specific parts of the brain. My research has shown that the areas of the brain affected by depression are extremely similar in different people. So much so, we can predict whether someone has depression or not with more than 80% accuracy just by looking at these brain structures on MRI scans.
+Other research using advanced AI models has supported this finding, suggesting brain structure may be a helpful direction for AI-based diagnosis.
+Studies using magnetic resonance imaging (MRI) data on brain function at rest can also predict depression correctly more than 80% of the time.
+However, combining functional and structural information from MRI gives the best accuracy, correctly predicting depression in over 93% of cases. This suggests using multiple brain imaging techniques for AI to detect depression may be the most viable way forward.
+MRI-based AI tools are currently only used for research purposes. But as MRI scans become cheaper, faster and more portable, it’s likely this kind of technology will soon be part of your doctor’s toolkit, helping them to improve diagnosis and enhance patient care.
+
+      Transcranial magnetic stimulation can treat depression. Developing research suggests it could also help autism, ADHD and OCD
+While MRI-based AI applications are promising, a simpler and easier method of detecting depression may be at hand, quite literally.
+Wearable devices like smart watches are being investigated for their ability to detect and predict depression. Smart watches are especially helpful because they can collect a wide variety of data including heart rate, step counts, metabolic rate, sleep data and social interaction.
+A recent review of all studies done so far on using wearables to assess depression found depression was correctly predicted 70–89% of the time. Since they are commonly used and worn around the clock, this research suggests wearable devices could provide unique data that might otherwise be hard to collect.
+There are some drawbacks, however, including the substantial cost of smart devices which may be inaccessible to many. Others include the questioned ability of smart devices to detect biological data in people of colour and the lack of diversity in study populations.
+Studies have also turned to social media to detect depression. Using AI, scientists have predicted the presence and severity of depression from the language of our posts and community memberships on social media platforms. The specific words that were used predicted depression with up to 90% success rates in both English and Arabic. Depression has also been successfully detected in its early stages from the emojis we use.
+Several studies have found antidepressant treatment response could be predicted with more than 70% accuracy from electronic health records alone. This could provide doctors with more accurate evidence when prescribing medication-based treatments.
+Combining data from people in trials for antidepressants, scientists have predicted whether taking medications will help specific patients go into remission from depression.
+AI shows substantial promise in the diagnosis and management of depression, however recent findings require validation before they can be relied upon as diagnostic tools. Until then, MRI scans, wearables and social media may be helpful to assist doctors diagnose and treat depression.
+
+      Netflix psychiatrist Phil Stutz says 85% of early therapy gains are down to lifestyle changes. Is he right?

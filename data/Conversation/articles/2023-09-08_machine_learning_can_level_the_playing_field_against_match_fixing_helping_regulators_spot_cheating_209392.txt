@@ -1,0 +1,28 @@
+On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there’s no doubt cheating in sport is a problem authorities struggle to combat.
+Our new machine learning model could be a game changer when it comes to detecting questionable behaviour and unusual outcomes – especially the practice of match fixing.
+Currently, the act of altering match outcomes for personal or team gain is largely picked up through abnormalities in sports betting markets. When bookmakers notice unusual odds or changes in the betting line, they alert regulators.
+But this approach is limited and often fails to identify all match fixing, particularly in less popular sports or leagues. Here is where machine learning can help.
+Essentially a subset of artificial intelligence (AI), machine learning acts as a digital probe: mining sports data, revealing hidden patterns, and flagging unusual events. Machines can delve into team performance and unexpected fluctuations, exploring all facets of sports events.
+As part of our research, we introduced the concept of “anomalous match identification”, which involved identifying irregular outcomes in games, no matter what the underlying causes might be.
+There could be various factors at play, from strategic losses for future advantage – such as the practice of “tanking” in the US National Basketball league (NBA) – to marketing tactics to boost ticket sales, or just a day of poor performance.
+Our research model allows us to flag unusual game results and turn them over to regulators for deeper investigation. By leveraging machine learning, we can spot abnormal matches by comparing our predictions with the actual game results.
+
+      Why the police should use machine learning – but very carefully
+When we discuss anomalies in sports, we’re talking about matches that stand out from the norm.
+While match fixing – deliberate manipulation of results for gain – is one possible explanation for unusual game results, it’s not the only one. Recognising the many reasons behind unusual match results can also help improve our understanding of the complexities of sports.
+In the face of an unusual or unexpected result, spectators and officials may ask themselves: was this the result of an unforeseen strategy or are there other influences at play?
+Our research methodology involved training machine learning algorithms to discover patterns between specific past events and subsequent game results.
+Once these relationships are established, the algorithms can forecast likely future match outcomes. The discrepancies between these predictions and the actual results can flag potentially abnormal matches.
+To test our model, we looked at whether there were any out-of-the-ordinary matches in the 2022 NBA playoffs. We built models using data from 2004 to 2020 to forecast match outcomes and then compared what the machine predicted with actual game results.
+We found several anomalies in the 2022 playoffs, particularly in a series of games between the Phoenix Suns and Dallas Mavericks. In their seven matches against each other in May 2022, Dallas won four games and Phoenix won three.
+
+      Who will win the 2023 Rugby World Cup? This algorithm uses 10,000 simulations to rank the contenders
+According to the data, the anomalies in the 2022 playoffs included a 0.0000064 probability of the Suns and Mavericks actually playing against each other in the semi-final series of NBA’s Western Conference – which includes 15 teams.
+We also identified several players with performances during the playoffs that were particularly abnormal based on the data from their previous games.
+This is not to say there was any match fixing involved. Rather, our results flag games and players that could then be followed up by regulators if match fixing was a concern –  which it was not, this was simply an example to test the model.
+This approach to spotting anomalies within a series of matches can be applied across many sports.
+Scrutinising a significant number of anomalies can offer valuable insights into unusual match events, helping regulatory bodies and sports organisations conduct thorough investigations and uphold fair competition.
+Though our study concentrates on specific sports, the principles and techniques can expand to other arenas.
+The study shows that machine learning can be utilised to help safeguard the integrity of sports competitions, and to assist regulatory bodies, sports organisations and law enforcement agencies maintain fairness and public trust.
+But as we embrace the potential of machine learning, we must also navigate the ethical implications and ensure its transparent use.
+The future of sports may well see artificial intelligence become the fans’ ally, helping ensure a level playing field where talent excels, and spectators revel in the authenticity of sporting events.

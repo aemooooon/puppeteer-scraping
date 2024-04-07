@@ -1,0 +1,31 @@
+Artificial Intelligence chatbots are everywhere. They have captured the public imagination and that of countless Silicon Valley inventors and investors since the arrival of ChatGPT about a year ago.
+The stunning human-like abilities of conversational AI - a form of artificial intelligence that enables computers to process and generate human language - have sparked widespread optimism about their potential to transform workplaces and increase productivity.
+In what may be a world first, a UK school has appointed an AI chatbot as a “principal headteacher” to support its headmaster. While little is known about the nature of the AI behind it, the chatbot is meant to advise staff on issues such as helping pupils with ADHD and writing school policies.
+But, before deploying chatbots in the workplace, it is crucial to understand what they are, how they work and how to use them responsibly.
+Much has been written about the astounding abilities of generative AI, and its sometimes surprising ability to get things wrong.
+For example, an AI chatbot can craft a persuasive scholarly argument but, to use chatbot terminology, can “hallucinate” the list of references or get simple facts wrong. To understand why hallucinations occur it is important to understand how these chatbots work.
+At their core, AI chatbots are powered by large language models (LLMs), large neural networks trained on massive datasets of text (what we lovingly call “the Internet”).
+Importantly, LLMs do not store any data or knowledge in any traditional sense. Rather, when they are built (or “trained”) they encode, in large statistical structures, sophisticated content or language patterns contained in the training data.
+Simply speaking, text is turned into numbers, or probabilities.
+
+      The ChatGPT chatbot is blowing people away with its writing skills. An expert explains why it's so impressive
+When in use, LLMs no longer have access to this training data. So when we ask it a question, the response is generated from scratch, every time. Technically, everything is “hallucinated”. When AI chatbots get things right, it is because much of human knowledge is patterned and embedded in language, not because “it knows”.
+By design, AI chatbots cannot produce definitive factual answers. They are probabilistic, not deterministic systems, and therefore cannot be relied on as authoritative sources of knowledge. But their ability to recognise linguistic patterns makes them excel at helping humans with tasks that involve text generation or enhancement.
+Writing persuasive arguments follows certain patterned regularities, whereas factual answers cannot reliably be generated from probabilistic patterns.
+Don’t think of your AI chatbot as an omniscient artificial brain, but as a gifted graduate student assigned to be your personal work assistant.
+Like an eager grad student, they work tirelessly and mostly competently on assigned tasks. However, they are also a little bit cocky. Always overconfident, they might  take risky shortcuts and provide answers that sound good but lack any factual grounding.
+It is wise always to verify chatbot outputs, much as you would double-check a grad student’s work.
+Because of their probabilistic foundation they don’t comprehend your question with any human understanding. But in the right roles, when used appropriately, chatbots greatly augment productivity on language-related tasks.
+The three levels of chatbot capability can be summed up using the acronym ACE - assisting, creating, exploring.
+
+      The US just issued the world’s strongest action yet on regulating AI. Here’s what to expect
+What do we know about the use of AI chatbots in the workplace so far? Some initial studies point to significant productivity gains.
+A pilot project at Westpac found a 46% productivity gain in software coding tasks, with no drop in quality. The experiment compared groups of developers using AI chatbots for a range of programming tasks with a control group that did not.
+A study by global management company Boston Consulting Group also reported significant improvements.
+In a controlled experiment, consultants used AI chatbots to problem-solve and develop new product ideas, which involved both analytical work and persuasive writing. Those who worked with the chatbot finished 12.2% more tasks, 25.1% more quickly, and at 40% higher quality, than those who didn’t.
+In yet another case, an AI chatbot is reportedly being used by a US software company to help write proposals for clients. It scours thousands of internal files for relevant information to generate a suitable response, saving the company time.
+These cases give glimpses into the future of AI chatbots, where companies fine-tune generative AI models with their own data or documents, using them for specialist roles such as coders, consultants or call-centre workers.
+Many workers are worried AI will be used to automate their work. But given the probabilistic nature of the technology, and its inherent lack of reliability, we do not see automation as the most likely area of application.
+AI chatbots might not be coming for your job after all, but they are certainly coming for your job description. AI fluency, the skill to understand and work with AI will soon become essential, similar to working with PCs.
+Finally, you might ask, did we let a chatbot write this article? Of course we didn’t. Did we use one in writing it? Of course we did, much like we used a computer, and not a typewriter.
+_The Conversation requires authors to disclose if they have used AI in the preparation of an article. Articles that use AI for fact-finding or idea generation will generally not be accepted.“

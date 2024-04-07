@@ -1,0 +1,39 @@
+Staying competitive in the finance sector is vital, with many companies moving quickly to adopt artificial intelligence (AI) to reduce costs and streamline operations.
+But two companies recently came unstuck when the United States Securities and Exchange Commission (SEC) accused them of exaggerating their use of AI, marking the world’s first significant move in combating so-called “AI washing”.
+Delphia (USA) Inc and Global Predictions Inc, boasted about using AI for designing investment strategies, but the SEC found their claims to be unsubstantiated.
+There’s much speculation around AI, especially with generative technology app ChatGPT shaking things up. But amid all the hype, AI washing is becoming more common.
+As well as exaggerating or misrepresenting their AI capabilities, companies may inflate the abilities of AI algorithms or create the illusion AI plays a more significant role than it actually does.
+Incorporating AI into business operations has many benefits. It can streamline processes, quickly break down and analyse complex data to speed up decision-making, and help organisations stay ahead in a rapidly evolving and competitive market.
+Promoting its use of AI helps portray a company as high-tech and cutting-edge, even if the reality doesn’t check out.
+
+      The 'digital divide' is already hurting people's quality of life. Will AI make it better or worse?
+The practice of AI washing isn’t totally new. It follows the same idea as greenwashing, where companies pretend to be eco-friendly to attract investors and consumers.
+It involves dressing up ordinary tech with fancy AI buzzwords such as “machine learning”, “neural networks”, “deep learning” and “natural language” processing to seem more innovative than they actually are.
+AI washing flourishes in finance and investment because of the industry’s high-stakes, intense competition and the seductive appeal of technology-driven solutions.
+AI’s algorithms can analyse extensive datasets, enhance predictability and uncover hidden patterns in financial data. And AI’s real-time processing capabilities enable dynamic adaptation to market changes.
+The complexity of financial products provides room for firms to conceal the reality behind flashy AI claims. And the lack of regulation exacerbates the problem.
+Despite AI’s impressive capabilities, it’s not without its drawbacks, including ethical concerns, susceptibility to cyber attacks and manipulation, and the lack of transparency in how AI algorithms arrive at decisions or predictions.
+
+      80% of Australians think AI risk is a global priority. The government needs to step up
+Supporters of AI-related investments range from novice retail investors to seasoned institutional players.
+Such interest has led to venture capital firms allocating more capital to AI startups last year than they did previously.
+But without clear guidelines, firms can exploit loopholes and mislead investors.
+This lack of oversight erodes trust and credibility in the industry. AI washing may also stifle innovation. If investors are skeptical about AI, they’re less likely to invest in legitimate AI-powered solutions. This can slow down the development of truly groundbreaking technologies.
+It is crucial to deal with AI washing, echoing the cautionary tale of the dot-com bubble. Much like the exaggerated promises and speculative fervor surrounding internet companies which led to market turbulence and investor scepticism in the late 1990s, the hype surrounding AI capabilities in finance poses similar risks.
+AI washing could lead investors to pour money into AI-related ventures without fully understanding the risks or potential limitations, ultimately exposing them to financial losses when the bubble bursts.
+The European Union AI Act is the first regulation in the world to govern the use, development, disclosure and oversight of AI. But in Australia there are no specific laws. Regulation currently falls under the Corporations Act.
+ASIC is currently considering ways to regulate AI, including formulating penalties for AI washing.
+Holding companies accountable for accurate information about technology applications helps maintain the integrity of financial markets and ensures fairness for investors.
+So, how can you, as an investor or consumer, avoid falling victim to AI washing? Here are some tips:
+1. Verify registration status and credentials
+Before buying or investing in anything claiming AI capabilities, verify the investment company’s registration status and credentials by looking them up on the professional register. Ensure they have no disciplinary [history] by checking the Australian Securities and Investment Commission register.
+2. Be cautious with AI-focused investments
+Investing in AI-driven companies may seem promising, but be wary of companies that tout their “revolutionary” or “industry-leading” AI without providing specifics. What exactly makes their AI revolutionary? What problems does it solve? Companies that rely on empty buzzwords without concrete details are probably exaggerating their capabilities.
+3. Boost your knowledge
+Get a grasp of AI and machine learning basics. Learn common AI techniques and terms used in finance. There are a large number of free resources online for beginners.
+4. Ask questions
+Do not solely rely on AI-generated information for investment decisions. AI-generated data may be based on inaccurate or biased. Ask financial advisors and companies about their specific AI implementation. What kind of data are they using? How are their algorithms trained? What are the limitations of their technology?
+5. Be sceptical of high returns with little to no risk
+Be sceptical of financial products promising high returns with minimal risk, especially those claiming AI-powered success. This tactic is a common red flag for AI washing. Don’t rely solely on a company’s claims – conduct independent research by following the financial news or checking regulatory filings of companies before investing.
+
+      Who will write the rules for AI? How nations are racing to regulate artificial intelligence

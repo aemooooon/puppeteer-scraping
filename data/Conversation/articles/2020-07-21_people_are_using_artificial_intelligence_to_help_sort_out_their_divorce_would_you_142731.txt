@@ -1,0 +1,29 @@
+An online app called Amica is now using artificial intelligence to help separating couples make parenting arrangements and divide their assets.
+For many people, the coronavirus pandemic has put even the strongest of relationships to the test. A May survey conducted by Relationships Australia found 42% of 739 respondents experienced a negative change in their relationship with their partner under lockdown restrictions.
+There has also been a surge in the number of couples seeking separation advice. The Australian government has backed the use of Amica for those in such circumstances. The chatbot uses artificial intelligence (AI) to make suggestions for how splitting couples can divide their money and property based on their circumstances.
+But although such tools offer advantages such as convenience and reduced emotional distress, their applications remain limited. And over-relying on them could be a slippery slope.
+
+      Coronavirus: how the pandemic has exposed AI’s limitations
+According to Amica’s website, it “considers legal principles and applies them to your circumstances”. In other words, the software draws on mass data (collected and embedded by its designers) from similar past cases to make suggestions to users.
+Amica demonstrates AI’s potential in solving legal problems in family disputes. Interestingly, it’s not the only tool of this kind in the legal field. There are a range of AI-powered family legal services used in Australia, including Penda and Adieu.
+Penda aims to help victims of family violence by providing free legal and safety information. Its AI chatbot provides online legal advice and information without requiring a face-to-face meeting with a lawyer.
+Adieu enables couples to achieve amicable financial and parenting agreements via its AI chatbot component “Lumi”, which can refer couples to mediators, counsellors, lawyers or financial advisers if required. Lumi also has a one-click disclosure tool designed to save time and money by using AI to analyse the financial records of both users.
+Australia’s family law system is overburdened, resulting in long delays for families in the court system. Court proceedings are also expensive, and complex family law cases can cost each party more than A$200,000.
+AI tools such as Amica and Adieu enable couples to resolve problems themselves and avoid the slow and expensive court process. This is especially true for couples who have commenced or are considering the separation process now, amid coronavirus restrictions.
+Our evaluation of Adieu involved reviewing literature on justice apps and interviewing professionals including mediators, lawyers and financial advisers. We also surveyed 37 Adieu users to find out who would use such an app and how comfortable people were with them.
+We found by giving couples dominion over the separation process, they were less likely to be emotionally stressed. Although our survey sample was relatively small, 76% of participants reported not feeling emotional distress. Of those who did, most said this was the result of existing circumstances.
+One participant said:
+Despite a number of advantages, AI tools for settling legal disputes (much like many other AI tools) come with setbacks.
+For instance, they’re not helpful in many cases. Amica’s designers highlight the platform is only suitable for “amicable” separating couples with no complex situations involved, such as family violence. This is because at its current development level, AI-powered chatbots can only generate a relatively simple response from the information they’re given.
+According to a 2016 survey by the Australian Bureau of Statistics, around 5.8 million Australians had experienced physical or emotional abuse from a partner.
+
+      Does your AI discriminate?
+Further, Australian courts are required to consider each child’s best interests when deciding on a family case. There are legitimate concerns that parenting and financial suggestions from AI-powered tools may ignore the needs of children, and only reflect the interests of parents.
+There are also concerns around the use of AI in legal family cases more generally. For example, access to online platforms requires a certain amount of digital literacy and accessibility.
+This disadvantages people without access to the internet, a smartphone or computer. Also, people may not have the technological skills needed to use apps such as Amica or Adieu.
+Apart from family disputes, AI has also been controversially used in criminal cases for sentencing purpose. The COMPAS tool has come under fire on numerous occasions for its use in the US. Its risk assessment algorithms supposedly predict how likely a criminal is to reoffend.
+Australia’s robodebt saga also showed how AI can contribute to problematic administrative decision making. In that debacle, welfare payments made on the basis of self-reported fortnightly income were cross-referenced against an estimated income, taken as an average of annual earnings reported to the Australian Tax Office. This was then used to auto-generate debt notices without human checks.
+
+      From robodebt to racism: what can go wrong when governments let algorithms make the decisions
+It’s clear AI comes with the potential for embedded bias. As the use of AI-powered technology continues for matters traditionally handled in the courts, a government strategy such as the European Commission’s AI White Paper is needed to address the general challenges.
+Along with this, an ethical framework with input from Australia’s legal industry should underpin AI use in the legal sector.

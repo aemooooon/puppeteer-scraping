@@ -1,0 +1,31 @@
+The world missed the boat with social media. It fuelled misinformation, fake news, and polarisation. We saw the harms too late, once they had already started to have a substantive impact on society.
+With artificial intelligence – especially generative AI – we’re earlier to the party. Not a day goes by without a new deepfake, open letter, product release or interview raising the public’s concern.
+Responding to this, the Australian government has just released two important documents. One is a report commissioned by the National Science and Technology Council (NSTC) on the opportunities and risks posed by generative AI, and the other is a consultation paper asking for input on possible regulatory and policy responses to those risks.
+I was one of the external reviewers of the NSTC report. I’ve read both documents carefully so you don’t have to. Here’s what you need to know.
+
+      No, AI probably won’t kill us all – and there’s more to this fear campaign than meets the eye
+With AI, we see a multi-trillion dollar industry coming into existence before our eyes – and Australia could be well-placed to profit.
+In the last few months, two local unicorns (billion dollar companies) pivoted to AI. Online graphic design company Canva introduced its “magic” AI tools to generate and edit content, and software development company Atlassian introduced “Atlassian intelligence” – a new virtual teammate to help with tasks such as summarising meetings and answering questions.
+These are just two examples. We see many other opportunities across industry, government, education and health.
+AI tools to predict early signs of Parkinson’s disease? Tick. AI tools to predict when solar storms will hit? Tick. Checkout-free, grab-and-go shopping, courtesy of AI? Tick.
+The list of ways AI can improve our lives seems endless.
+The NSTC report outlines the most obvious risks: job displacement, misinformation and polarisation, wealth concentration and regulatory misalignment.
+For example, are entry level lawyers going to be replaced by robots? Are we going to drown in a sea of deepfakes and computer generated tweets? Will big tech companies capture even more wealth? And how can little old Australia have a say on global changes?
+The Australian government’s consultation paper looks at how different nations are responding to these challenges. This includes the US, which is adopting a light touch approach with voluntary codes and standards; the UK, which looks to empower existing sector-specific regulators; and Europe’s forthcoming AI Act, which is one of the first AI-specific regulations.
+Europe’s approach is worth watching if their previous data protection law – the General Data Protection Regulation (GDPR) – is anything to go by. The GDPR has become somewhat viral; 17 countries outside of Europe now have similar privacy laws.
+We can expect the European Union’s AI Act to set a similar precedent on how to regulate AI.
+Indeed, the Australian government’s consultation paper specifically asks if we should adopt a similar risk and audit-based approach as the AI Act. The Act outlaws high-risk AI applications, such as AI-driven social scoring systems (like the system in use in China) and real-time remote biometric identification systems used by law enforcement in public spaces. It allows other riskier applications only after suitable safety audits.
+China stands somewhat apart as far as regulating AI goes. It proposes to implement very strict rules, which would require AI-generated content to reflect the “core value of socialism”, “respect social morality and public order”, and not “subvert state power”, “undermine national unity” or encourage “violence, extremism, terrorism or discrimination”.
+In addition, AI tools will need to go through a “security review” before release, and verify users’ identities and track usage.
+It seems unlikely Australia will have the appetite for such strict state control over AI. Nonetheless, China’s approach reinforces how powerful AI is going to be, and how important it is to get right.
+
+      How AI and other technologies are already disrupting the workplace
+As the government’s consultation paper notes, AI is already subject to existing rules. These include general regulations (such as privacy and consumer protection laws that apply across industries) and sector-specific regulations (such as those that apply to financial services or therapeutic goods).
+One of the major goals of the consultation is to decide whether to strengthen these rules or, as the EU has done, to introduce specific AI risk-based regulation – or perhaps some mixture of these two approaches.
+Government itself is a (potential) major user of AI and therefore has a big role to play in setting regulation standards. For example, procurement rules used by government can become de facto rules across other industries.
+The biggest risk, in my view, is that Australia misses this opportunity.
+A few weeks ago, when the UK government announced its approach to deal with the risks of AI, it also announced an additional £1 billion of investment in AI, alongside the several billion pounds already committed.
+We’ve not seen any such ambition from the Australian government.
+The technologies that gave us the iPhone, the internet, GPS, and wifi came about because of government investment in fundamental research and training for scientists and engineers. They didn’t come into existence because of venture funding in Silicon Valley.
+We’re still waiting to see the government invest millions (or even billions) of dollars in fundamental research, and in the scientists and engineers that will allow Australia to compete in the AI race. There is still everything to play for.
+AI is going to touch everyone’s lives, so I strongly encourage you to have your say. You only have eight weeks to do so.

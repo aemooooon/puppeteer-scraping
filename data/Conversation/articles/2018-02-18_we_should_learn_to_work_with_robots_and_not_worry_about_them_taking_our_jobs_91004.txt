@@ -1,0 +1,29 @@
+We have all heard the dire predictions about robots coming to steal our jobs. Some would even have us believe these silicon bogeymen are coming to kill us. It plays straight into people’s darkest fears about technology.
+When futurists talk about things that haven’t happened yet, they are free to parade educated guesses as fact. But before we take their word for it, we might remember the old adage:
+In a recent article, the MIT Technology Review tabulated the results of “every study we could find on what automation will do to jobs”. The results show that the expected impacts depend on what you measure.
+
+      We need robots that can improvise, but it's not easy to teach them right from wrong
+Of the 19 reports considered in the review, there was enormous variation. Some predicted that a few million jobs would be replaced, while others spoke portentously of tens or hundreds of millions over similar time frames. Some were decidedly upbeat, others quite gloomy.
+One futurist went so far as to forecast that a billion jobs will be lost to automation by 2022. Contrast this with the more sober prediction from the research and advisory group Gartner of 1.8 million jobs lost by 2020, but with 2.3 million created in the same period – a net increase of 500,000 over the next two years.
+Why such a big difference? In truth, no one knows how many jobs will be lost and found in the age of Artificial Intelligence (AI). The situation is too complex for simple answers.
+Variations in predictions can be likened to the parable of the five blind men encountering an elephant. By touching different parts of the elephant’s body, each came to a different conclusion as to what the beast is.
+Worries about the impact of technology on society have a long history.
+In the 18th and 19th centuries, the rapid expansion of disruptive technologies during the Industrial Revolution gave rise to the same anxieties as those being expressed today.
+Trades were automated to produce greater economies of scale, but job losses were more than offset by the new jobs subsequently created. Meanwhile, trades like pottery, weaving and metalwork that were “lost” to automation 200 years ago are still being done by skilled craftspeople today.
+More recently, when personal computers found their way onto people’s desks in the 1980s, the typing pool became redundant. I recall the lamentations then of the newspapers, TV and talkback radio.
+But in time, the overall number of jobs went up because of the new jobs created in the fledgling IT industry. Today there are dozens of technology job categories, none of which existed in the typing pool days – jobs in computer hardware, programming, content production, web design, security, big data, sales and marketing, and artificial intelligence to name a few.
+And the former typists? Their skills were in more demand than ever, because keyboards are still the way humans communicate with computers.
+AI is often spoken of as a separate entity from people, and sometimes seen as a dangerous adversary. The reality is that it is merely a tool created by humans – it only does what we tell it to do and nothing more.
+What we have is “narrow AI”, only suited to very particular tasks. Autonomous “general AI” that is superior to the spectrum of human intelligence is many decades away.
+The “narrow AI” GPS on my smartphone is much better at navigating than I am. It extends my ability to go places almost miraculously. But there’s no reason to feel threatened. It is only smarter than me in that one ability. And it is not at all likely to say “I’m sorry Dave, I’m afraid I can’t do that” like Hal refusing to open the pod bay doors in film 2001: A Space Odyssey.
+Likewise, AI can greatly improve people’s competence in the workplace. In the first recorded case of an AI saving someone’s life, it was the combination of human doctors and a diagnostic AI that succeeded where the human doctors alone had failed.
+The obvious advantages of enhancing human intelligence with AI have given rise to the hybrid known as a modern centaur.
+The concept was illustrated by chess grandmaster Garry Kasparov, who observed that the best players are not computers alone, but human intelligence augmented with AI.
+Historically, fears about technology have largely proven unfounded, at least in terms of the benefits outweighing the harm, if not in other ways. Our challenge is to maximise the benefits and minimise the harm.
+What skills will we need for future employment? These would be the same skills that humans have always excelled at – critical thinking and problem solving, good communication and teamwork, leadership, initiative, creativity. And of course, the willingness to leverage the current technology.
+
+      Will technology take your job? New analysis says more of us are safer than we thought, but not all
+Futurists tend to assume that if a job can be automated, it will be automated. But that is certainly not true.
+AI will automate some jobs, particularly the dirty, dull or dangerous ones that people don’t want to do – everything from sewer reconnaissance to repetitive factory work. Manual welding, for example, can produce highly toxic fumes – a prime candidate for automation.
+But some jobs will always be done by people and the reasons can vary greatly, from economic, social and nostalgic reasons, to the fact that some jobs are simply not practical for robots to do.
+When I go to the doctor, I want a human sitting across from me. I don’t want a holographic doctor who demands to know the nature of my medical emergency.

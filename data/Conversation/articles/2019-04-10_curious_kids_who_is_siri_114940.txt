@@ -1,0 +1,20 @@
+Curious Kids is a series by The Conversation, which gives children of all ages the chance to have their questions about the world answered by experts. All questions are welcome: you or an adult can send them – along with your name, age and town or city where you live – to curiouskids@theconversation.com. We won’t be able to answer every question, but we’ll do our best.
+Thanks for the question, Miles. The first thing to know is that Siri is not a “who” – Siri is a “what”. Siri is a “virtual assistant” which you can control with your voice.
+Siri is “virtual” because it is not a real person, and an “assistant” because it can help you out by doing tasks like reading text messages, playing music, taking photos or reminding you when it’s your friend’s birthday.
+Siri is part of the computer program, called an “operating system”, which makes Apple devices – like iPhones, computers, watches and iPads – work. By the way, a computer program is a set of written instructions that tells a computer what to do.
+When you speak to Siri, it will respond and speak back to you. Siri understands all of what you say – not just a few words – because it has a special program, designed to do just that.
+You wake Siri up by saying “Hey Siri” to an Apple device. A speech recogniser program in the device listens for these words and uses another program to check that the words are actually “Hey Siri”, and not any other sounds from nearby.
+When that happens, Siri will wake up, collect your voice command and change it into a file of data, which the device can understand.
+Most of the program that makes up Siri is not on your device, but on the cloud. No, not the ones in the sky – the cloud is a network of computers and programs, accessed through the internet.
+So, Siri will send the file with your command in it to the cloud. There, Siri will use Apple’s main computers to access a database of questions and answers, search the internet or connect with apps, so that it can carry out the task you asked it to do.
+Once it has done this, it sends the results and actions back to your Apple device. Siri then tells you the answer, or lets you know that it has done what you asked.
+All this can happen because Siri uses artificial intelligence. Artificial intelligence programs help computers and devices do complex tasks, without humans having to write every step into the program.
+Artificial intelligence programs can work out what to do for themselves, and learn as they work. That’s why Siri gets better at understanding your voice, and what you might want, the more you talk to it.
+Siri’s original voice is believed to belong to a real person called Susan Bennet. Susan recorded her voice to help build the technology that Siri uses to recognise your voice.
+The people working at Apple will not say whether they used Susan’s voice for Siri – but we do know that in newer versions of Siri hundreds of different voices were used  to make the new female voice.
+People often ask why virtual assistants always have female voices. They think this makes it seem like only women, and not men, can be personal assistants and helpers – or that women are always the assistants and not the bosses.
+Of course we know this is not true – dads, grandads, brothers and uncles can be very helpful too and women can be bosses! The people who created Siri realised this was unfair, and you can now change Siri’s voice to sound like a man.
+Siri is named after the company that invented the voice recognition technology it uses, which was called Siri Inc. Apple kept the name when it bought Siri Inc.
+Siri was launched in 2011, and was the very first voice virtual assistant but others, such as Cortana by Microsoft and Amazon’s Alexa came quickly after.
+Soon we will see more virtual assistants in our homes doing jobs for us. Just remember though, they are not people or friends – just very clever, speaking computer programs.
+More Curious Kids articles, written by academic experts:

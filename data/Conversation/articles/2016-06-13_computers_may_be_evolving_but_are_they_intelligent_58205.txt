@@ -1,0 +1,27 @@
+The final in our Computing turns 60 series, to mark the 60th anniversary of the first computer in an Australian university, looks at how intelligent the technology has become.
+The term “artificial intelligence” (AI) was first used back in 1956 to describe the title of a workshop of scientists at Dartmouth, an Ivy League college in the United States.
+At that pioneering workshop, attendees discussed how computers would soon perform all human activities requiring intelligence, including playing chess and other games, composing great music and translating text from one language to another language. These pioneers were wildly optimistic, though their aspirations were unsurprising.
+Trying to build intelligent machines has long been a human preoccupation, both with calculating machines and in literature. Early computers from the 1940s were commonly described as electronic brains and thinking machines.
+The father of computer science, Britain’s Alan Turing, was in no doubt that computers would one day think. His landmark 1950 article introduced the Turing test, a challenge to see if an intelligent machine could convince a human that it wasn’t in fact a machine.
+Research into AI from the 1950s through to the 1970s focused on writing programs for computers to perform tasks that required human intelligence. An early example was the American computer game pioneer Arthur Samuels’ program for playing checkers. The program improved by analysing winning positions, and rapidly learned to play checkers much better than Samuels.
+But what worked for checkers failed to produce good programs for more complicated games such as chess and go.
+Another early AI research project tackled introductory calculus problems, specifically symbolic integration. Several years later, symbolic integration became a solved problem and programs for it were no longer labelled as AI.
+In contrast to checkers and integration, programs undertaking language translation and speech recognition made little progress. No method emerged that could effectively use the processing power of computers of the time.
+Interest in AI surged in the 1980s through expert systems. Success was reported with programs performing medical diagnosis, analysing geological maps for minerals, and configuring computer orders, for example.
+Though useful for narrowly defined problems, the expert systems were neither robust nor general, and required detailed knowledge from experts to develop. The programs did not display general intelligence.
+After a surge of AI start up activity, commercial and research interest in AI receded in the 1990s.
+In the meantime, as computer processing power grew, computer speech recognition and language processing by computers improved considerably. New algorithms were developed that focused on statistical modelling techniques rather than emulating human processes.
+Progress has continued with voice-controlled personal assistants such as Apple’s Siri and Ok Google. And translation software can give the gist of an article.
+But no one believes that the computer truly understands language at present, despite the considerable developments in areas such as chat-bots. There are definite limits to what Siri and Ok Google can process, and translations lack subtle context.
+Another task considered a challenge for AI in the 1970s was face recognition. Programs then were hopeless.
+Today, by contrast, Facebook can identify people from several tags. And camera software recognises faces well. But it is advanced statistical methods rather than intelligence that helps.
+In task after task, after detailed analysis, we are able to develop general algorithms that are efficiently implemented on the computer, rather than the computer learning for itself.
+In chess and, very recently in go, computer programs have beaten champion human players. The feat is impressive and clever techniques have been used, without leading to general intelligent capability.
+Admittedly, champion chess players are not necessarily champion go players. Perhaps being expert in one type of problem solving is not a good marker of intelligence.
+The final example to consider before looking to the future is Watson, developed by IBM. Watson famously defeated human champions in the television game show Jeopardy.
+IBM is now applying it Watson technology with claims it will make accurate medical diagnoses by reading all medical research reports.
+I am uncomfortable with Watson making medical decisions. I am happy it can correlate evidence, but that is a long way from understanding a medical condition and making a diagnosis.
+Similarly, there have been claims a computer will improve teaching by matching student errors to known mistakes and misconceptions. But it takes an insightful teacher to understand what is happening with children and what is motivating them, and that is lacking for the moment.
+There are many areas in which human judgement should remain in force, such as legal decisions and launching military weapons.
+Advances in computing over the past 60 years have hugely increased the tasks computers can perform, that were thought to involve intelligence. But I believe we have a long way to go before we create a computer that can match human intelligence.
+On the other hand, I am comfortable with autonomous cars for driving from one place to another. Let us keep working on making computers better and more useful, and not worry about trying to replace us.

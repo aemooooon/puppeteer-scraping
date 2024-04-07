@@ -1,0 +1,28 @@
+The need for businesses to adapt to the workplace demands of the COVID-19 pandemic has accelerated the adoption of digital technologies, with clear implications for jobs and workers.
+But just how much employees worry about the threat of automation – and how real those fears are – can have implications for workplaces beyond the technological change itself.
+Our new research examined how employees feel about the introduction of “robotic process automation” (RPA) to the workplace. We also looked at how the willingness to embrace these new technologies influenced employees’ assessment of the software bots and their work.
+RPA refers to software that interacts with different applications, such as a payroll system or a website, in the same way a human would.
+Software robots – the so-called worker bees of RPA – can conduct mundane, repetitive and rule-based tasks such as transferring, entering and extracting data, accounting reconciliation, and automated email query processing. And they can do it at a fraction of the cost of employing real people.
+
+Unsurprisingly, organisations have embraced RPA for its cost and productivity benefits, but it’s not without its challenges. As RPA interacts with various applications, for example, it can “break” when one of the underlying systems is upgraded and the user interface changes.
+RPA is also a double-edged sword for employees. On the one hand, with mundane and repetitive tasks outsourced to software robots, workers can focus on more complex tasks that require “soft” skills, empathy and decision-making capabilities.
+
+      Companies are mitigating labour shortages with automation — and this could drastically impact workers
+On the other, some feel threatened by the software robots because they are generally more productive, make fewer errors and don’t cost as much as human employees.
+Employees can also end up having to do additional tasks, picking up the work that used to be completed by the staff replaced by RPA. Paradoxically, fewer human employees can lead to an increased workload rather than the expected decrease.
+Similarly, as employees shift from a mix of mundane and complex tasks to mainly complex ones, the variety in their work is reduced. This can lead to feeling alienated at work, or a sense they lack control over their role.
+
+These various perspectives on automation were clear in our research. We interviewed employees and automation team members at a financial institution in New Zealand about their perceptions and responses to RPA and software robots.
+We found that reactions to RPA are influenced by what employees imagined would be the consequences of software robots on their jobs. In turn, this influenced their collaboration with the automation team, their attitude towards change in their tasks and work processes, and ultimately their interactions with software robots – including how they judged the bots’ performance.
+Perceptions and responses to RPA can be categorised by employees’ views of software robots as either burdens and threats, tools, teammates or innovative enablers.
+Those who considered software robots as a burden and threat before they were introduced tended to have a negative view of their experience with RPA. They were concerned about job security, had negative reactions to having greater responsibility added to their workload, and were dissatisfied with the robots’ performance.
+
+      Can machines invent things without human help? These AI examples show the answer is ‘yes’
+At the opposite end of the spectrum, those who viewed software robots as enablers of innovation saw the opportunities of RPA and the benefits of using robots to improve work quality.
+Some eagerly accepted the robots as team members, even giving them human names and joking that the bot was taking a sick day when it stopped working. This group also appreciated the reduction in their own workloads through RPA.
+Little surprise, then, that employees who view software robots as innovative enablers or teammates tended to collaborate closely with the automation team to find the best way to integrate robots and improve their performance.
+
+      Brain-computer interfaces could allow soldiers to control weapons with their thoughts and turn off their fear – but the ethics of neurotechnology lags behind the science
+In the middle ground, employees who viewed software robots as tools tended to be accepting, but remained sceptical about changes to their workloads and robot performance. They were reluctant to offer full cooperation with the automation team to configure robots’ tasks that would have consequences for their own roles.
+Some level of automation is inevitable for businesses. To harness the benefits of RPA without alienating staff, organisations should communicate clearly and often, debunking the myths of robots and their capabilities early to avoid unnecessary misunderstandings by employees.
+Employers should take the time to understand how different employees feel about the introduction of automation initiatives. And they should consider incorporating employees’ ideas to increase the overall benefits of automation.

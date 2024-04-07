@@ -1,0 +1,24 @@
+If you’re one of the 1.2 million Australians with communication disability or among the 44% of Australian adults with low literacy, you may soon find helpful, automated communication assistance online.
+The chat bot ChatGPT – based on GTP3, a large language model – is a disruptive technology designed to “provide human-like responses” to user input. It is a form of artificial intelligence (AI), boosted by machine learning, is used by more than one million people and is impressing educators.
+It responds to the user’s questions and commands, and can draw upon its billions of words to process and generate text, appearing informative and knowledgeable.
+Described somewhat poetically as producing “fluent bullshit”, its unchecked outputs may be plausible enough to score a pass mark on assignments and tests, while bypassing plagiarism detection software.
+If it becomes accessible for everyone, AI of this type could do more than disrupt exams. It could help people with communication disability and others who struggle with text, and could also significantly enhance rate of communication. People using speech generating devices are often limited to laboriously entering a mere 10 words per minute with word prediction only increasing that to 12-18 words per minute.
+
+      The ChatGPT chatbot is blowing people away with its writing skills. An expert explains why it's so impressive
+There are many types of communication disability impacting a person’s ability to speak, understand, or write.
+Impairments of speech, language and social communication are associated with a wide range of conditions including cerebral palsy, stroke, traumatic brain injury, and motor neurone disease. Communication disabilities can impact the clarity of your speech and what you can say, your ability to understand others or express yourself, and your skills in reading and writing.
+A communication disability can mean you need to economise on what you say, as each word takes more effort and time to produce or write. If you have limited literacy, you’ll need text simplified to make sense of it. You’re also more likely to encounter more barriers to completing training, getting a job, forming relationships, managing your own health and life decisions, and participating in social networks.
+AI like ChatGPT can help pull information together in a neat text, and it can turn written text into a summary for readers with low literacy.
+We already know that AI assistants like “Alexa” and “Siri” can help people with intellectual disability and speech impairments to communicate and speech-recognition software is improving.
+But ChatGPT looks like it will be more inclusive of diversity by being able to understand poorly written commands, or sentences with several grammar or spelling errors. It can reportedly “read” poorly structured input, re-write and improve imperfect writing, and simplify complex texts into simpler summaries for early-stage readers. ChatGPT could be considered an “assistive technology” if it assists people with communication disability to get their message across more efficiently or effectively.
+
+      The dawn of AI has come, and its implications for education couldn't be more significant
+As a qualified lawyer and a person with cerebral palsy and no speech, co-author Fiona Given relies on assistive communication technologies, including augmentative and alternative communication speech-generating devices. Fiona says:
+Having tested the system, Fiona says ChatGPT could be particularly useful in adding the polite parts of emails and letters.
+AI technologies like ChatGPT may help people with communication disability to:
+Given its potential for text-based assistance, it is important to know if people with communication disability will be able to access chatbots like ChatGPT.
+We don’t know how many of the one million users testing the ChatGPT system now have problems with literacy, written expression, or spelling. But so far it looks like a game changer to help people produce texts with little or less effort.
+The experiences of people with communication disability in using AI like ChatGPT are vital in the future co-design of assistive technologies. We need to know more about their views on acceptability, usability, and authenticity of the messages produced. With a screen reader, the ChatGPT output could become the user’s “voice”. So being able to check, edit, and confirm or reject AI writing is vital. Any incremental improvements to chat bots, that take into account what helps and hinders access and inclusion, are important if people with communication disability are going to benefit from advancements in AI.
+
+
+      From glasses to mobility scooters, 'assistive technology' isn't always high-tech. A WHO roadmap could help 2 million Australians get theirs

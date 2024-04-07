@@ -1,0 +1,20 @@
+The world is infatuated with artificial intelligence (AI), and for good reason. AI systems can process vast quantities of data in a seemingly superhuman way.
+However, current AI systems rely on computers running complex algorithms based on artificial neural networks. These use huge amounts of energy, and use even more energy if you are trying to work with data that changes in real time.
+We are working on a completely new approach to “machine intelligence”. Instead of using artificial neural network software, we have developed a physical neural network in hardware that operates much more efficiently.
+Our neural networks, made from silver nanowires, can learn on the fly to recognise handwritten numbers and memorise strings of digits. Our results are published in a new paper in Nature Communications, conducted with colleagues from the University of Sydney and the University of California, Los Angeles.
+Using nanotechnology, we made networks of silver nanowires about one thousandth the width of a human hair. These nanowires naturally form a random network, much like the pile of sticks in a game of pick-up sticks.
+The nanowires’ network structure looks a lot like the network of neurons in our brains. Our research is part of a field called neuromorphic computing, which aims to emulate the brain-like functionality of neurons and synapses in hardware.
+Our nanowire networks display brain-like behaviours in response to electrical signals. External electrical signals cause changes in how electricity is transmitted at the points where nanowires intersect, which is similar to how biological synapses work.
+There can be tens of thousands of synapse-like intersections in a typical nanowire network, which means the network can efficiently process and transmit information carried by electrical signals.
+In our study, we show that because nanowire networks can respond to signals that change in time, they can be used for online machine learning.
+In conventional machine learning, data is fed into the system and processed in batches. In the online learning approach, we can introduce data to the system as a continuous stream in time.
+With each new piece of data, the system learns and adapts in real time. It demonstrates “on the fly” learning, which we humans are good at but current AI systems are not.
+
+      Networks of silver nanowires seem to learn and remember, much like our brains
+The online learning approach enabled by our nanowire network is more efficient than conventional batch-based learning in AI applications.
+In batch learning, a significant amount of memory is needed to process large datasets, and the system often needs to go through the same data multiple times to learn. This not only demands high computational resources but also consumes more energy overall.
+Our online approach requires less memory as data is processed continuously. Moreover, our network learns from each data sample only once, significantly reducing energy use and making the process highly efficient.
+We tested the nanowire network with a benchmark image recognition task using the MNIST dataset of handwritten digits.
+The greyscale pixel values in the images were converted to electrical signals and fed into the network. After each digit sample, the network learned and refined its ability to recognise the patterns, displaying real-time learning.
+Using the same learning method, we also tested the nanowire network with a memory task involving patterns of digits, much like the process of remembering a phone number. The network demonstrated an ability to remember previous digits in the pattern.
+Overall, these tasks demonstrate the network’s potential for emulating brain-like learning and memory. Our work has so far only scratched the surface of what neuromorphic nanowire networks can do.

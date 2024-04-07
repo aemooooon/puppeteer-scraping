@@ -1,0 +1,34 @@
+Every day we are likely to interact with some form of artificial intelligence (AI). It works behind the scenes in everything from social media and traffic navigation apps to product recommendations and virtual assistants.
+AI systems can perform tasks or make predictions, recommendations or decisions that would usually require human intelligence. Their objectives are set by humans but the systems act without explicit human instructions.
+As AI plays a greater role in our lives both at work and at home, questions arise. How willing are we to trust AI systems? And what are our expectations for how AI should be deployed and managed?
+To find out, we surveyed a nationally representative sample of more than 2,500 Australians in June and July 2020. Our report, produced with KPMG and led by Nicole Gillespie, shows Australians on the whole don’t know a lot about how AI is used, have little trust in AI systems, and believe it should be carefully regulated.
+Trust is central to the widespread acceptance and adoption of AI. However, our research suggests the Australian public is ambivalent about trusting AI systems.
+Nearly half of our respondents (45%) are unwilling to share their information or data with an AI system. Two in five (40%) are unwilling to rely on recommendations or other output of an AI system.
+
+Further, many Australians are not convinced about the trustworthiness of AI systems, but more are likely to perceive AI as competent than to be designed with integrity and humanity.
+Despite this, Australians generally accept (42%) or tolerate AI (28%), but few approve (16%) or embrace (7%) it.
+When it comes to developing and using AI systems, our respondents had the most confidence in Australian universities, research institutions and defence organisations to do so in the public interest. (More than 81% were at least moderately confident.)
+Australians have least confidence in commercial organisations to develop and use AI (37% no or low confidence). This may be due to the fact that most (76%) believe commercial organisations use AI for financial gain rather than societal benefit.
+
+These findings suggest an opportunity for businesses to partner with more trusted entities, such as universities and research institutions, to ensure that AI is developed and deployed in an ethical and trustworthy way that protects human rights. They also suggest businesses need to think further about how they can use AI in ways that create positive outcomes for stakeholders and society more broadly.
+
+      Your questions answered on artificial intelligence
+Overwhelmingly (96%), Australians expect AI to be regulated and most expect external, independent oversight. Most Australians (over 68%) have moderate to high confidence in the federal government and regulatory agencies to regulate and govern AI in the best interests of the public.
+However, the current regulation and laws fall short of community expectations.
+Our findings show the strongest driver of trust in AI is the belief that the current regulations and laws are sufficient to make the use of AI safe. However, most Australians either disagree (45%) or are ambivalent (20%) that this is the case.
+
+These findings highlight the need to strengthen the regulatory and legal framework governing AI in Australia, and to communicate this to the public, to help them feel comfortable with the use of AI.
+What do Australians expect when AI systems are deployed? Most of our respondents (more than 83%) have clear expectations of the principles and practices they expect organisations to uphold in the design, development and use of AI systems in order to be trusted.
+These include:
+
+      Will we ever agree to just one set of rules on the ethical development of artificial intelligence?
+Most Australians (more than 70%) would also be more willing to use AI systems if there were assurance mechanisms in place to bolster standards and oversight. These include independent AI ethics reviews, AI ethics certifications, national standards for AI explainability and transparency, and AI codes of conduct.
+Organisations can build trust and make consumers more willing to use AI systems, when they are appropriate, by clearly supporting and implementing ethical practices, oversight and accountability.
+Most Australians (61%) report having a low understanding of AI, including low awareness of how and when it is used. For example, even though 78% of Australians report using social media, almost two in three (59%) were unaware that social media apps use AI. Only 51% report even hearing or reading about AI in the past year. This low awareness and understanding is a problem given how much AI is being used in our daily lives.
+
+The good news is most Australians (86%) want to know more about AI. When we consider these factors together, there is a need and an appetite for a public literacy program in AI.
+One model for this comes from Finland, where a government-backed course in AI literacy aims to teach more than 5 million EU citizens. More than 530,000 students have enrolled in the course so far.
+
+Overall, our findings suggest public trust in AI systems can be improved by strengthening the regulatory framework for governing AI, living up to Australians’ expectations of trustworthy AI, and strengthening Australia’s AI literacy.
+
+      Your questions answered on artificial intelligence

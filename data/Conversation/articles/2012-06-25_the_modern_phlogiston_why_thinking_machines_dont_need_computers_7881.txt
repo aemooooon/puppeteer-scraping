@@ -1,0 +1,36 @@
+In the late 1700s, French scientist Antoine  Lavoisier proved that the mechanism behind burning is oxidation. Lavoisier’s discovery killed off an eternity of dogma involving a non-existent substance called phlogiston. The facts spoke for Lavoisier, but phlogiston did not go quietly or quickly.
+I find myself in a kind-of modern version of the phlogiston story with my research into artificial general intelligence. I swim against the tide of the received view – that is, a position that is taken for granted without apparent need for criticism.
+Allow me to set the scene with a story.
+It’s 100,000 BCE. Your dinner is the cooling dead thing at your feet. You have fire back at camp. You have no clue what fire is, but you know it makes food edible.
+Fast forward.
+It’s the early 20th century and you are one of the Wright brothers. Inspired by birds, you think you can make a contraption fly. You experiment with shapes in a makeshift wind tunnel and find that certain shapes drag less and lift more. Eventually you fly a few feet.
+Fast forward.
+A hundred years later, you are a trainee pilot doing touch-and-go landings in a simulator. A physics model of flight is in the computers running the simulator. Just for fun you stall your jetliner over a shopping mall.
+As you leave the simulator, having flown 16,384 km and gone nowhere, you remind yourself that flight and the computed physics of flight are not the same thing and that, thankfully, no shoppers died when a plane crashed through the mall.
+My point?
+No-one needed or assumed a theory of combustion prior to cooking dinner with it. We cooked dinner and then we eventually developed a theory of combustion.
+Likewise, we flew and then figured out the detailed physics of flight. Historically, empirical scientific knowledge grows in this way.
+In addition, modern computing gives unprecedented power to examine physics models of the natural world. But no matter how accurate the model, if someone told you the computed model and the natural world were literally the same thing, you’d be right to question their background assumptions.
+If there was no difference between a computed physics model of fire and fire, the computer should burst into flames. If there was no difference between a computed model of flight and flight, the computer should fly. These things don’t happen and nobody expects them to.
+Well, almost nobody.
+There is a specialised science called artificial general intelligence (AGI). This isn’t artificial intelligence (AI), but AGI.
+The difference? AI solves specific problems. Deep Blue – which was built to play chess – and Watson – which was built to win games of Jeopardy! – are examples of AI. By contrast, an AGI is a modeller of the unknown: a very different prospect.
+Quite simply, AGI is about building “thinking machines” – general-purpose systems with intelligence comparable to that of the human mind.
+Worldwide, without exception, the solution for AGI is the computer. In AGI, for the first time in history, a computed model of a natural phenomenon (you, the reader) is expected to be literally indistinguishable from the natural original. At best, based on the fire and flight examples, this expectation is without precedent in science.
+This misdirection has made lots of good AI but has failed to make AGI non-stop since the 1950s. With this chronic failure, why has nobody built artificial (inorganic) brain tissue using the actual physics of cognition?
+Neuroscience says this would involve an intricate dance between old-fashioned telephone-exchange signalling (known as action potentials) and a more modern cell-phone-like communication called  electromagnetic field coupling.
+The materials used in this process are the same used in the semiconductor chip industry. The difference is in the chip architecture, packaging and interconnections.
+Sure, it’s complicated, but as an engineer/neuroscientist I can build these things and put them in a body of some sort. Like fire and flight, I can build the AGI using inorganic brain tissue and then learn about how (if) it works. Like the Wright Brothers’ early flights it will stumble and fall. But learning about cognition shall ensue and then I can build AGI with the physics of cognition. And then I know what I can compute with a model and what I can’t.
+Sounds like a normal scientific approach to the problem, doesn’t it?
+Try suggesting it to other researchers and research-funding providers.
+Amid the fervent protests, AGI developers using computers profoundly confuse the map with the territory. You can point out the misdirection until you turn blue. They do not want to know.
+Still confused? Well, if AGI were flight, the story would run something like this:
+You want to fly from Melbourne to London. You build a flight simulator, get in, fly to London, get out of the simulator, and you are still in Melbourne! Undeterred, you build another flight simulator only to get the same result. And again, and again, and again.
+Some 60 years pass and brilliant flight simulators litter the science landscape, but flight still eludes you. At no stage does it occur to you that the physics of flight is missing.
+Get the picture?
+In this way, millions of dollars are spent every year chasing the AGI rainbow with computers. Billions more are in the pipeline. The amount of funding, past and planned, for AGI using actual brain physics?
+Zero.
+Call me picky, but does this seem a little unbalanced, under-justified and, well, just plain odd?
+The essential brain-tissue physics itself, insofar as it relates to AGI and fully understanding brain dynamics, is spectacularly under-explored for no sound reason. The mother of all low-hanging fruit awaits the end of nothing more than 17th-century thinking.
+Have a look for yourself – there are email forums (e.g. Fabric of Reality) full of this mindset.
+Me? I’d rather just build the artificial brain tissue and fix it scientifically like Lavoisier did.

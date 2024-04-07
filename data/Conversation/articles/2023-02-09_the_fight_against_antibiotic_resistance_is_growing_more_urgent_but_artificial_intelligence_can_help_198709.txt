@@ -1,0 +1,27 @@
+Since the discovery of penicillin in the late 1920s, antibiotics have “revolutionized medicine and saved millions of lives.” Unfortunately, the effectiveness of antibiotics is now threatened by the increase of antibiotic-resistant bacteria globally.
+Antibiotic-resistant infections cause the deaths of up to 1.2 million people annually, making them one of the leading causes of death.
+There are several factors contributing to this crisis of resistance to antibiotics. These include overusing and misusing antibiotics in treatments. In addition, pharmaceutical companies are over-regulated and disincentivized from developing new drugs.
+The World Health Organization estimates that 10 million people will die from such infections by the year 2050.
+
+      Jeff Beck dies of bacterial meningitis – what you need to know about the disease
+The impacts of antibiotic-resistant infections are wide-ranging. In the absence of effective prevention and treatment for bacterial infections, medical procedures such as organ transplants, chemotherapy and caesarean sections become far riskier. That’s because the severity of bacteria-related infections is increasing and untreated infections can cause a variety of health problems.
+Antibiotics treat illnesses by attacking the bacteria that cause them by destroying them or preventing them from reproducing.
+The discovery of new antibiotics has the potential to save millions of lives. The last discovery of a novel class of antibiotics was in 1984. But it’s not easy to find a truly new antibiotic: only one out of every 15 antibiotics that enter pre-clinical development reach patients.
+Developing a new drug is a costly, and often lengthy process. Also, the process of bringing novel drugs to the market and making them accessible presents formidable challenges.
+This is where artificial intelligence (AI) comes into play, because it allows researchers to quickly and accurately design and assess potential drugs.
+There has been an explosion in research in recent years in the use of AI for drug design and discovery. AI can identify new antibiotics that are structurally distinct from currently available ones and effective against a range of bacteria.
+In order to discover more effective antibiotics, we need to understand the structural basis of resistance, and this understanding enables rational design principles. Developing effective second-generation antibiotics often involves optimizing first-generation drugs.
+In drug development, a significant amount of money is spent developing and evaluating each generation of compounds. Researchers can use AI tools to teach computers themselves to find quick and cheap ways of discovering such novel medications.
+Artificial intelligence is already showing promising results in finding new antibiotics. In 2019, researchers used a deep learning approach to identify the wide-spectrum antibiotic Halicin. Halicin had previously failed clinical trials as a treatment for diabetes, but AI suggested a different application.
+
+Given the early identification of such a potentially strong antibiotic using artificial intelligence, a large number of such broad-spectrum antibiotics that could be effective against a range of bacteria might be identified. These drugs still need to undergo clinical trials.
+Researchers at the U.S. National Institutes of Health harnessed AI’s predictive power to demonstrate AI’s potential to accelerate the process of selecting future antibiotics.
+AI can be trained to screen and discover new drugs much faster — our lab at Concordia University is using this approach to identify antibiotics that would target bacterial RNA.
+Researchers design an algorithm that uses data from databases like ZINC (a collection of commercially available chemicals that can be used for virtual screening) to figure out how molecules and their properties relate. The AI models extract information from the database to analyze their patterns.
+The models created by the algorithm are trained on pre-existing data. AI can rapidly sift through huge amounts of data to understand important patterns in the content or structure of a molecule.
+We have seen the potential of current models to correctly predict how bacterial proteins and anti-bacterial agents would interact. But in order to maximize AI’s predictive capabilities, further refinement will still be required.
+Researchers haven’t yet explored the full potential of AI models. With further developments, like increased computing power, AI can become an important tool in science. The development of AI in drug discovery research, as well as finding new antibiotics to treat bacterial infections is a work in progress.
+The ability of artificial intelligence to predict and accurately identify leads has shown promising results.
+Even when powered by powerful AI approaches, finding new drugs will not be easy. We need to understand that AI is a tool that contributes to research by identifying or predicting an outcome of a research question.
+AI is implemented in a number of industries today, and is already changing the world. But it’s not a replacement for a scientist or doctor. AI can help the researcher to enhance or fast-track the process of drug discovery.
+Even though we still have a way to go before we can fully utilize this method, there is no doubt that AI will significantly change how drugs are discovered and developed.

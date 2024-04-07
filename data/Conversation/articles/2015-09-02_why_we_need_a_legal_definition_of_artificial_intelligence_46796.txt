@@ -1,0 +1,24 @@
+When we talk about artificial intelligence (AI) – which we have done lot recently, including my outline on The Conversation of liability and regulation issues – what do we actually mean?
+AI experts and philosophers are beavering away on the issue. But having a usable definition of AI – and soon – is vital for regulation and governance because laws and policies simply will not operate without one.
+This definition problem crops up in all regulatory contexts, from ensuring truthful use of the term “AI” in product advertising right through to establishing how next-generation automated weapons systems (AWSs) are treated under the laws of war.
+True, we may eventually need more than one definition (just as “goodwill” means different things in different contexts). But we have to start somewhere so, in the absence of a regulatory definition at the moment, let’s get the ball rolling.
+For regulatory purposes, “artificial” is, hopefully, the easy bit. It can simply mean “not occurring in nature or not occurring in the same form in nature”. Here, the alternative given after the “or” allows for the possible future use of modified biological materials.
+This, then, leaves the knottier problem of “intelligence”.
+From a philosophical perspective, “intelligence” is a vast minefield, especially if treated as including one or more of “consciousness”, “thought”, “free will” and “mind”. Although traceable back to at least Aristotle’s time, profound arguments on these Big Four concepts still swirl around us.
+In 2014, seeking to move matters forward, Dmitry Volkov, a Russian technology billionaire, convened a summit on board a yacht of leading philosophers, including Daniel Dennett, Paul Churchland and David Chalmers.
+Perhaps unsurprisingly, no consensus was reached, and Chalmers suggested that it was unlikely to emerge within the next century.
+Fortunately for would-be regulators, though, the philosophical arguments might be sidestepped, at least for a while. Let’s take a step back and ask what a regulator’s immediate interest is here?
+I would say that it is the work products of AI scientists and engineers, and any public welfare or safety risks that might arise from those products.
+Logically, then, it is the way that the majority of AI scientists and engineers treat “intelligence” that is of most immediate concern.
+Until the mid 2000s, there was a tendency in the AI community to contrast artificial intelligence with human intelligence, an action that merely passed the buck to psychologists.
+In November 2007, John McCarthy, an AI pioneer at Stanford University, addressed this issue:
+It was partly because of this difficulty that much research effort had been redirected from artificial general intelligence (AGI) to artificial narrow intelligence (ANI).
+But just after McCarthy wrote this, a general “human-independent” definition of “intelligence” emerged. Alongside the formalisation of a universal algorithmic entity called “AIXI”, Marcus Hutter (now at ANU) and Shane Legg (now at Google DeepMind) proposed the following informal definition to supersede those that they had previously catalogued:
+This informal definition signposts things that a regulator could manage, establishing and applying objective measures of ability (as defined) of an entity in one or more environments (as defined). The core focus on achievement of goals also elegantly covers other intelligence-related concepts such as learning, planning and problem solving.
+But many hurdles remain.
+First, the informal definition may not be directly usable for regulatory purposes because of AIXI’s own underlying constraints. One constraint, often emphasised by Hutter, is that AIXI can only be “approximated” in a computer because of time and space limitations.
+Another constraint is that AIXI lacks a “self-model” (but a recently proposed variant called “reflective AIXI” may change that).
+Second, for testing and certification purposes, regulators have to be able to treat intelligence as something divisible into many sub-abilities (such as movement, communication, etc.). But this may cut across any definition based on general intelligence.
+From a consumer perspective, this is ultimately all a question of drawing the line between a system defined as displaying actual AI, as opposed to being just another programmable box.
+If we can jump all the hurdles, there will be no time for quiet satisfaction. Even without the Big Four, increasingly capable and ubiquitous AI systems will have a huge effect on society over the coming decades, not least for the future of employment.
+But if the Big Four do ever (seem to) show up in AI systems, we can safely say that we’ll need not just a yacht of philosophers, but an entire regatta.

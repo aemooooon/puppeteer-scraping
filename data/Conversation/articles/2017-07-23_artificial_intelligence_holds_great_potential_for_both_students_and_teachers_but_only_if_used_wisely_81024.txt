@@ -1,0 +1,22 @@
+Artificial intelligence (AI) enables Siri to recognise your question, Google to correct your spelling, and tools such as Kinect to track you as you move around the room.
+Data big and small have come to education, from creating online platforms to increasing standardised assessments. But how can AI help us use and improve it?
+Researchers in AI in education have been investigating how the two intersect for several decades. While it’s tempting to think that the primary dream for AI in education is to reduce marking load – a prospect made real through automated essay scoring – the breadth of applications goes beyond this.
+For example, researchers in AI in education have:
+These are new approaches to learning that rely heavily on students engaging with new kinds of technology. But researchers in AI, and related fields such as learning analytics, are also thinking about how AI can provide more effective feedback to students and teachers.
+One perspective is that researchers should worry less about making AI ever more intelligent, instead exploring the potential that relatively “stupid” (automated) tutors might have to amplify human intelligence.
+So, rather than focusing solely on building more intelligent AI to take humans out of the loop, we should focus just as much on intelligence amplification — or, going back to its intellectual roots, intelligence augmentation. This is the use of technology – including AI – to provide people with information that helps them make better decisions and learn more effectively.
+This approach combines computing sciences with human sciences. It takes seriously the need for technology to be integrated into everyday life.
+Keeping people in the loop is particularly important when the stakes are high, and AI is far from perfect. So, for instance, rather than focusing on automating the grading of student essays, some researchers are focusing on how they can provide intelligent feedback to students that helps them better assess their own writing.
+And while some are considering if they can replace nurses with robots, we are seeking to design better feedback to help them become high-performance nursing teams.
+But for the use of AI to be sustainable, education also needs a second kind of change: what we teach.
+To be active citizens, students need a sound understanding of AI, and a critical approach to assessing the implications of the “datafication” of our lives – from the use of Facebook data to influence voting, to Google DeepMind’s access to medical data.
+Students also need the skills to manage this complexity, to work collaboratively and to innovate in a changing environment. These are qualities that could perhaps be amplified through effective use of AI.
+The potential is not only for education to be more efficient, but to think about how we teach: to keep revolution in sight, alongside evolution.
+Another response to AI’s perceived threat is to harness the technologies that will automate some forms of work, to cultivate those higher-order qualities that make humans distinctive from machines.
+Amid growing concerns about the pervasive role of algorithms in society, we must understand what “algorithmic accountability” means in education.
+Consider, for example, the potential for “predictive analytics” in flexi-pricing degrees based on a course-completion risk-rating built on online study habit data. Or the possibility of embedding existing human biases into university offers, or educational chatbots that seek to discern your needs.
+If AI delivers benefits only to students who have access to specific technologies, then inevitably this has the potential to marginalise some groups.
+Significant work is under way to clarify how ethics and privacy principles can underpin the use of AI and data analytics in education. Intelligence amplification helps counteract these concerns by keeping people in the loop.
+A further concern is AI’s potential to result in a de-skilling or redundancy of teachers. This could possibly fuel a two-tier system where differing levels of educational support are provided.
+The future of learning with AI, and other technologies, should be targeted not only at learning subject content, but also at cultivating curiosity, creativity and resilience.
+The ethical development of such innovations will require both teachers and students to have a robust understanding of how to work with data and AI to support their participation in society and across the professions.

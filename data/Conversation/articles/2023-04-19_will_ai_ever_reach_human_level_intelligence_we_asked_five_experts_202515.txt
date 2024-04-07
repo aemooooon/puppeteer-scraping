@@ -1,0 +1,15 @@
+Artificial intelligence has changed form in recent years.
+What started in the public eye as a burgeoning field with promising (yet largely benign) applications, has snowballed into a more than US$100 billion industry where the heavy hitters – Microsoft, Google and OpenAI, to name a few – seem intent on out-competing one another.
+The result has been increasingly sophisticated large language models, often released in haste and without adequate testing and oversight.
+These models can do much of what a human can, and in many cases do it better. They can beat us at advanced strategy games, generate incredible art, diagnose cancers and compose music.
+
+      Text-to-audio generation is here. One of the next big AI disruptions could be in the music industry
+There’s no doubt AI systems appear to be “intelligent” to some extent. But could they ever be as intelligent as humans?
+There’s a term for this: artificial general intelligence (AGI). Although it’s a broad concept, for simplicity you can think of AGI as the point at which AI acquires human-like generalised cognitive capabilities. In other words, it’s the point where AI can tackle any intellectual task a human can.
+AGI isn’t here yet; current AI models are held back by a lack of certain human traits such as true creativity and emotional awareness.
+We asked five experts if they think AI will ever reach AGI, and five out of five said yes.
+But there are subtle differences in how they approach the question. From their responses, more questions emerge. When might we achieve AGI? Will it go on to surpass humans? And what constitutes “intelligence”, anyway?
+Here are their detailed responses:
+
+
+      Calls to regulate AI are growing louder. But how exactly do you regulate a technology like this?

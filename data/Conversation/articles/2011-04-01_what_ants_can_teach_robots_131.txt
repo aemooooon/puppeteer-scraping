@@ -1,0 +1,20 @@
+Can an ant’s strategy for moving around be useful for building robots with autonomous navigation?
+Working with experts in the field of artificial intelligence, we have just begun to explore this possibility.
+For ants, as with other insects that live in complex societies, the ability to navigate effectively is essential for the survival of the species.
+My research team at Macquarie University has been looking at the red honey ant Melophorus bagoti, which is found over vast tracts of Central Australia.
+Ants, as with the majority of insects, can keep track of the straight-line distance and direction to their home as they travel.
+To a certain degree, this involves ants adding up each step they take, all the while charting the direction they’ve travelled, so that a “home vector” can be maintained. This process does not rely on visual cues and is known as “path integration”.
+But they don’t rely solely on path integration because certain errors routinely accumulate as they travel – errors that can’t be corrected, that get worse as the journey continues.
+The upshot? Ants also learn to use surrounding visual cues.
+As humans, with sophisticated eyes at the front of our heads, it makes sense to look for specific landmarks, remember them, and use them for navigation.
+But ants, with much poorer eyes that view a wide swathe of the panorama, seem to take in their entire surrounds.
+Red honey ants need only an outline of the skyline, a record of how prominent objects standing on Earth are, to find their way around.
+As part of our research, we reproduced the skyline surrounding a feeder with black cloth and found the ants followed this.
+We captured individual ants after they’d grabbed a bit of cookie and were on their way “home”, and plonked them in the middle of the cloth silhouette of the skyline.
+The ants headed off in the direction that would have led them home had the skyline been real.
+For the ant, this skyline silhouette was as good as a compass.
+Our research so far, and the collaborative discussions we’ve had with the appropriate experts, seems to suggest this type of skyline navigation could be used in artificial intelligence.
+Because their somewhat simplified mode of navigation (when compared with humans) removes the need for detailed visual cues, ants could inspire autonomous navigation in robots.
+An obstacle to this type of navigation thus far has been the difficulty, from a robot’s point of view, of interpreting, and therefore traversing, visually-cluttered landscapes. Think about a city park; think about the average office.
+Using these real-life techniques to create artificial intelligence, a process known as “biomimicry”, has real potential for engineers.
+Creatures such as ants might be small and simple but there is plenty we can learn from our small-brained distant cousins.

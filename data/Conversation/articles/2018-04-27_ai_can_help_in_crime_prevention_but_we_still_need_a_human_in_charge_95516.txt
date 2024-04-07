@@ -1,0 +1,34 @@
+Imagine you live in a smart city that knows your face and follows your every move – the places you go, the people you see, and all of the things you do along the way.
+Over time, autonomous artificial intelligence (AI) builds a profile that reports on how likely you are to commit a crime. When that risk is high, the police take pre-emptive action. Welcome to hyper-surveillance and the next generation of predictive policing.
+Both India and China are currently implementing this level of surveillance to bring down crime rates and detect terrorists before they strike.
+Japan is also looking at predictive systems ahead of the 2020 Tokyo Olympics. London and elsewhere in the United Kingdom have been using similar technology for some time.
+It might already be happening in the city where you live.
+
+      Friend or foe? Just look at the way a person moves
+Pervasive, real-time surveillance like this is possible because more powerful, number-crunching computers can process the torrents of face recognition and gait analysis data coming from thousands of video cameras, all coordinated by advanced AI that can make sense of it all.
+Not too long ago, we relied on eagle-eyed police patrols to ensure public safety. That was when we lived in small enough communities where people knew each other by sight.
+But as cities continued to grow, becoming too large for the police officer alone, closed circuit television (CCTV), face recognition and earlier generation predictive systems came into use.
+Opinion is divided on the ethics of predictive policing.
+Privacy advocates and civil libertarians have concerns, if not objections, to this level of surveillance – fearing that it could become an instrument of discrimination.
+Meanwhile, public safety and counter-terrorism advocates argue that predictive technology has great potential to thwart terrorist attacks and other threats to public safety.
+Both arguments have force and validity, so the question is where exactly do we draw the line between the public interest and individual freedom?
+The answer will differ case by case. Each jurisdiction must negotiate the answer taking account of all stakeholder concerns.
+Since terrorists attacked in the United States on September 11, 2001 the degree of surveillance and search in airports has increased dramatically.
+In time, the travelling public came to accept the situation as being in their own best interests and that of their fellow passengers.
+It is generally accepted that you have a right to privacy in your own home. When you close the front door, you can reasonably expect that no-one is looking and listening.
+The exception is when you are at home but engaged in criminal activity that threatens the community. This is where we draw the line in this case between individual rights and the greater good.
+But when you go outside, anyone can look at you if they wish. They might also overhear the conversation you’re having. There’s no right to privacy from the public gaze, and never has been.
+But looking is different to making predictions - and the uncomfortable truth is that predictive policing technology has the potential to be used as a tool of oppression. Managing this risk in an open, democratic society is certainly a challenge, but not an insurmountable one with checks and balances.
+Given the overall experience of predictive policing, it appears there is a strong case for its continued use.
+In Australia, for example, 15 terror attacks were reportedly thwarted in the past three years through police work supported by computer algorithms.
+The question is, how do we minimise the risks to an acceptable level?
+The short answer is to establish a legal framework that guarantees ethical transparency in any AI predictive policing methods, including how the algorithms are put together.
+It would also rigorously ensure the data fed into predictive systems is accurate and unbiased. As with any computer system, the output is only as good as the input – garbage in, garbage out, as the saying goes.
+This is necessary to address ongoing concerns about inherent bias in predictive systems.
+It has been observed that not all police forces are created equal. In the United States there are no less than 12,000 local police forces. There are bound to be differences, reflected in the quality of leadership and the availability of resources.
+Policing is not perfect and human officers do not get it right all the time.
+
+      Close up: the government's facial recognition plan could reveal more than just your identity
+But when it comes to AI in policing, I believe there should always be a place in law enforcement for the finely honed instincts of an experienced human officer tempered by a system of checks and balances.
+The technology should always be subordinate to the human, taking the role of decision support helper.
+That way, when the era of hyper-surveillance arrives in your home town, it will be an accountable human, not a machine – however intelligent it may be – who decides whether a person represents a serious risk to public safety.

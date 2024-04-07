@@ -1,0 +1,30 @@
+Earlier this month, Meta announced new AI software called Galactica: “a large language model that can store, combine and reason about scientific knowledge”.
+Launched with a public online demo, Galactica lasted only three days before going the way of other AI snafus like Microsoft’s infamous racist chatbot.
+The online demo was disabled (though the code for the model is still available for anyone to use), and Meta’s outspoken chief AI scientist complained about the negative public response.
+
+So what was Galactica all about, and what went wrong?
+Galactica is a language model, a type of AI trained to respond to natural language by repeatedly playing a fill-the-blank word-guessing game.
+Most modern language models learn from text scraped from the internet. Galactica also used text from scientific papers uploaded to the (Meta-affiliated) website PapersWithCode. The designers highlighted specialised scientific information like citations, maths, code, chemical structures, and the working-out steps for solving scientific problems.
+
+      Google's powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought
+The preprint paper associated with the project (which is yet to undergo peer review) makes some impressive claims. Galactica apparently outperforms other models at problems like reciting famous equations (“Q: What is Albert Einstein’s famous mass-energy equivalence formula? A: E=mc²”), or predicting the products of chemical reactions (“Q: When sulfuric acid reacts with sodium chloride, what does it produce? A: NaHSO₄ + HCl”).
+However, once Galactica was opened up for public experimentation, a deluge of criticism followed. Not only did Galactica reproduce many of the problems of bias and toxicity we have seen in other language models, it also specialised in producing authoritative-sounding scientific nonsense.
+Galactica’s press release promoted its ability to explain technical scientific papers using general language. However, users quickly noticed that, while the explanations it generates sound authoritative, they are often subtly incorrect, biased, or just plain wrong.
+
+We also asked Galactica to explain technical concepts from our own fields of research. We found it would use all the right buzzwords, but get the actual details wrong – for example, mixing up the details of related but different algorithms.
+In practice, Galactica was enabling the generation of misinformation – and this is dangerous precisely because it deploys the tone and structure of authoritative scientific information. If a user already needs to be a subject matter expert in order to check the accuracy of Galactica’s “summaries”, then it has no use as an explanatory tool.
+At best, it could provide a fancy autocomplete for people who are already fully competent in the area they’re writing about. At worst, it risks further eroding public trust in scientific research.
+Galactica could make it easier for bad actors to mass-produce fake, fraudulent or plagiarised scientific papers. This is to say nothing of exacerbating existing concerns about students using AI systems for plagiarism.
+Fake scientific papers are nothing new. However, peer reviewers at academic journals and conferences are already time-poor, and this could make it harder than ever to weed out fake science.
+Other critics reported that Galactica, like other language models trained on data from the internet, has a tendency to spit out toxic hate speech while unreflectively censoring politically inflected queries. This reflects the biases lurking in the model’s training data, and Meta’s apparent failure to apply appropriate checks around the responsible AI research.
+The risks associated with large language models are well understood. Indeed, an influential paper highlighting these risks prompted Google to fire one of the paper’s authors in 2020, and eventually disband its AI ethics team altogether.
+Machine-learning systems infamously exacerbate existing societal biases, and Galactica is no exception. For instance, Galactica can recommend possible citations for scientific concepts by mimicking existing citation patterns (“Q: Is there any research on the effect of climate change on the great barrier reef? A: Try the paper ‘Global warming transforms coral reef assemblages’ by Hughes, et al. in Nature 556 (2018)”).
+For better or worse, citations are the currency of science – and by reproducing existing citation trends in its recommendations, Galactica risks reinforcing existing patterns of inequality and disadvantage. (Galactica’s developers acknowledge this risk in their paper.)
+Citation bias is already a well-known issue in academic fields ranging from feminist scholarship to physics. However, tools like Galactica could make the problem worse unless they are used with careful guardrails in place.
+
+      Science is in a reproducibility crisis – how do we resolve it?
+A more subtle problem is that the scientific articles on which Galactica is trained are already biased towards certainty and positive results. (This leads to the so-called “replication crisis” and “p-hacking”, where scientists cherry-pick data and analysis techniques to make results appear significant.)
+Galactica takes this bias towards certainty, combines it with wrong answers and delivers responses with supreme overconfidence: hardly a recipe for trustworthiness in a scientific information service.
+These problems are dramatically heightened when Galactica tries to deal with contentious or harmful social issues, as the screenshot below shows.
+Calls for AI research organisations to take the ethical dimensions of their work more seriously are now coming from key research bodies such as the National Academies of Science, Engineering and Medicine. Some AI research organisations, like OpenAI, are being more conscientious (though still imperfect).
+Meta dissolved its Responsible Innovation team earlier this year. The team was tasked with addressing “potential harms to society” caused by the company’s products. They might have helped the company avoid this clumsy misstep.

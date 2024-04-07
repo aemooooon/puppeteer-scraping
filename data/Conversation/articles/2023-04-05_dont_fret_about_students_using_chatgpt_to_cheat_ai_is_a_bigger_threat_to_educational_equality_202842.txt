@@ -1,0 +1,26 @@
+Schools and universities are panicking about artificial intelligence (AI) and cheating. But AI presents far more significant threats to equity in education.
+Fears of cheating typically arise from concerns about fairness. How is it fair that one student spends weeks labouring over an essay, while another asks ChatGPT to write the same thing in just a few minutes? Fretting about giving each student a “fair go” is essential to maintaining the idea of New Zealand as an egalitarian country.
+
+But as with the myth of the “American dream”, the egalitarian narrative of New Zealand masks more pernicious inequities like structural racism and the housing crisis, both of which have an outsized – and decidedly unfair – influence on today’s students.
+These persistent inequities dwarf the threat of cheating with AI. Instead of excessive hand wringing about cheating, educators would benefit from preparing for AI’s other inequities, all of which are showcased in OpenAI’s latest large language model (LLM): GPT-4.
+GPT-4, which has refined guardrails and more parameters than ChatGPT, is touted as safer and more accurate than its predecessors. But there’s a catch. GPT-4 costs US$20 per month.
+For some, that price will be inconsequential. But for those whose budgets have been squeezed thin by skyrocketing inflation, it may be a deal breaker. The democratising potential of AI technology is here, but only if you can afford it.
+This digital divide puts students and educational institutions in two camps. Those with enough resources to enjoy the benefits of AI tools. And those without the same financial flexibility who get left behind.
+It may seem small now, but as the cost of AI tools increases, this digital divide could widen into an immense gulf. This should worry educators who have long been concerned about the ways unequal access to learning technologies creates inequity among students.
+
+      Evolution not revolution: why GPT-4 is notable, but not groundbreaking
+AI tools also perpetuate the global dominance of English at the expense of other languages, especially oral and Indigenous languages. I recently spoke with a Microsoft executive who called these other languages “edge cases” – a term used to describe uncommon cases that cause problems for computer code.
+But Indigenous languages are only a “problem” for AI tools because large language models learn from online data sets with little Indigenous content and an overwhelming amount of English content.
+
+The dominance of English content online is not an accident. English rules the internet because centuries of British colonisation and American cultural imperialism have made English the lingua franca of global capitalism, education and internet discourse. From this perspective, other languages aren’t inferior to English; they just don’t make as much money as English language content.
+But Māori speakers are rightly wary of attempts to commodify their language. Too often, the commercialisation of Indigenous knowledge fails to benefit Indigenous people. That’s why it’s essential for Indigenous communities to maintain control over their own information, an idea known as Indigenous data sovereignty.
+
+      A growing number of non-Māori New Zealanders are embracing learning te reo – but there's more to it than language
+Without Indigenous data sovereignty, these billion-dollar tech companies could extract value from these so-called edge cases and then later decide to stop investing in them.
+For educators, these threats are important because AI tools will soon be incorporated in Microsoft Office, search engines and other learning platforms.
+At Massey University, where I teach, students can submit assignments in te reo Māori or in English. But if the AI writing tools compose better in English than in Māori, then they put Māori language learners at a disadvantage. And if Māori language students are forced to use tools that compromise Indigenous data sovereignty, that’s a problem too.
+Although it’s tempting to ban AI in education – as some schools and academic journals and even some countries have already done – this too augments existing inequities. People with disabilities can benefit from communicating with AI tools. But like laptop bans from previous eras, AI bans deny students with disabilities access to important learning technologies.
+Banning AI will also disadvantage multilingual students who may struggle to write in English. AI tools can help multilingual students learn important English language genres, structures, prose styles and grammar – all skills that contribute to social mobility. But banning AI penalises these multilingual students.
+
+      ChatGPT is the push higher education needs to rethink assessment
+Instead of banning AI, educators would be better off modifying their curricula, pedagogies and assessments for the AI tools that will soon become ubiquitous. But revisions like these take more time and resources, something school teachers and university educators have both been striking for recently. Teaching institutions must be prepared to invest not only in AI tools but also in the educators who are essential in helping students think critically about using them.

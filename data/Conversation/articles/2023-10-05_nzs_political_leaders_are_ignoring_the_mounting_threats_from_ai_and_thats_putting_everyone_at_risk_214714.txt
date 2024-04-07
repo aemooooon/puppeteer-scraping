@@ -1,0 +1,32 @@
+As the 2023 election campaign enters its final days, there is an elephant in the room that politicians seem keen to ignore: the rise of Artificial Intelligence (AI) and what it will mean for New Zealand’s economy, politics and society.
+Developments over the past year, such as ChatGPT and Midjourney, have AI experts worried about the deeper consequences of these digital tools.
+And they’re not alone. Global market research firm Ipsos found 63% of New Zealanders were nervous about AI, even though only 35% understand  where it’s being used.
+As a society, we rely on the government to take the lead on important issues like this. But there has been barely a peep on the topic from those seeking election this year. That relative silence should concern everyone.
+During a recent election debate, the leaders of both major political parties were asked if AI was a threat to humanity. Labour’s Chris Hipkins said “potentially”, while National’s Christopher Luxon said “there are good and bad parts”.
+The leaders were also asked about a potential tax on AI to support workers who will eventually lose their jobs to this kind of technology. Hipkins said he was “not sure how to do that”, and Luxon said he thought “we are a long way from that”.
+But we’re not.
+In May 2023, 4,000 jobs were lost to AI in the United States alone. Global business consulting firm McKinsey has said 12 million American workers will need to switch jobs by 2030 as a consequence of generative AI – artificial intelligence capable of generating text, images and other media.
+
+      Artificial Intelligence should benefit society, not create threats
+But AI will have wider societal implications than its impact on jobs. Over the past two decades, social media has contributed to a rise in misinformation, disinformation and political polarisation. New and more human-like AI bots – software programmed to complete repetitive tasks automatically – will make these threats even more pervasive, and more difficult to combat.
+The use of AI in health, government, employment and other contexts has the potential to reinforce existing biases and prejudices, leading to inequitable outcomes.
+This is especially true in Aotearoa, where AI models trained on Westernised data are ignorant of Māori tikanga and data sovereignty. AI is also putting minority languages at risk by defaulting to English
+
+The New Zealand government has been enthusiastic in using AI across the public service – from optimal scheduling of public hospital beds to helping decide whether an offender should be released from prison. But local lawmakers have been falling behind the rest of the world when it comes to regulating the technology.
+The European Union’s AI Act is expected to pass into law by the end of 2023. This legislation is complex, but at its core it will classify AI tools into different categories of risk (from banned uses to no risk), with corresponding legislative requirements for deployment and monitoring.
+The Union’s data privacy laws may also provide citizens with the “right to an explanation” on decisions made by AI systems.
+Canada has announced a voluntary code of conduct with six core principles for organisations to follow when developing safe and responsible generative AI systems.
+Even in the US – considered the centre of AI innovation – individual states are passing laws addressing the perceived threats of AI. At the federal level, the senate judiciary has held hearings on the regulation of AI.
+
+      We need to prepare for the public safety hazards posed by artificial intelligence
+There may be (small) signs of progress at home. In July, the office of the Prime Minister’s Chief Science Adviser released an article about New Zealand’s current response to AI and the challenges around regulation.
+Labour’s recently released election manifesto mentions AI twice in its 74 pages, with a promise of a “just transition” for AI-affected workers. But the manifesto doesn’t describe what this transition would look like.
+National’s “Boosting the Tech Sector” policy document states that a new “minister of technology” will ensure AI is used “safely and ethically” – without detailing what this means or how it will be enforced.
+The Green Party’s digital policy provides overarching principles for regulating digital technology, such as social responsibility (reducing inequality) and honouring Te Tiriti. Again, however, the policy does not specifically address AI.
+The other parties do not appear to have readily available technology policies on their websites.
+Clearly, there is a way to go on policy development. New Zealand needs stronger data privacy laws recognising data is a taonga (treasure), and which require informed consent for use in AI training and processing.
+Well-resourced, specialised policing that can investigate the use of deepfakes for identity theft and revenge porn are also needed.
+And there needs to be regulation on what is and isn’t allowed to be automated with AI. For example, should the government automate benefit eligibility decisions or should the justice system use AI for low-level sentencing?
+Economically, how can the profits of AI applications that use local data be kept within New Zealand? In the absence of a clear, homegrown AI strategy, Aotearoa will miss out on the opportunity to foster AI that benefits everyone.
+Without active government regulation, New Zealanders and their political system could be vulnerable to manipulation by malign foreign interests.
+The country needs to invest in its workforce to meet the changes being wrought by AI, and embrace Māori-driven AI research that establishes New Zealand as a creator of technologies that work for its people, not against them.

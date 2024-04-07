@@ -1,0 +1,65 @@
+Google recently unveiled its latest talking AI, called Duplex. Duplex sounds like a real person, complete with pauses, “umms” and “ahhs”.
+The tech giant says it can talk to people on the phone to make appointments and check business opening hours.
+00:00
+    00:57
+    
+  
+  
+    
+  
+
+
+  Listen
+  Duplex scheduling a hair salon appointment
+
+
+  
+    Download
+    
+    MP3 / 445 KB
+In recorded conversations that were played at the Google unveiling, it conversed seamlessly with the humans on the receiving end, who seemed totally unaware that they were not talking with another person.
+00:00
+    00:51
+    
+  
+  
+    
+  
+
+
+  Listen
+  Duplex calling a restaurant
+
+
+  
+    Download
+    
+    MP3 / 399 KB
+These calls left the technology-oriented audience at the Google show gasping and cheering. In one example, the AI even understood when the person it was talking to got mixed up, and was able to continue following the conversation and respond appropriately when it was told it didn’t need to make a booking.
+
+      Finkel: overcoming our mistrust of robots in our homes and workplaces
+If you’ve used any of the currently available voice assistants, such as Google Home, Apple’s Siri or Amazon Echo, this flexibility might surprise you. These assistants are notoriously difficult to use for anything other than the standard requests such as to phone a contact, play a song, do a simple web search, or set a reminder.
+When we speak to these current-generation assistants, we are always aware that we are talking to an AI and we often tailor what we say accordingly, in a way that we hope maximises our chances of making it work.
+But the people talking to Duplex had no idea. They hesitated, backtracked, skipped words, and even changed facts partway through a sentence. Duplex didn’t miss a beat. It really seemed to understand what was going on.
+
+      Smart speakers could be the tipping point for home automation
+So has the future arrived earlier than anyone expected? Is the world about to be full of online (and on-phone) AI assistants chatting happily and doing everything for us? Or worse, will we suddenly be surrounded by intelligent AIs with their own thoughts and ideas that may or may not include us humans?
+The answer is a definite “no”. To understand why, it helps to take a quick look under the hood at what drives an AI such as this one.
+This is what the Duplex AI system looks like.
+The system takes “input” (shown on the left) which is the voice of the person it is talking to on the phone. The voice goes through automatic speech recognition (ASR) and gets converted into text (written words). The ASR is itself an advanced AI system, but of a type that is already in common use in existing voice assistants.
+The text is then scanned to determine the type of sentence it is (such as a greeting, a statement, a question or an instruction) and extract any important information. The key information then becomes part of the Context, which is extra input that keeps the system up to date with what has been said so far in the conversation.
+The text from the ASR and the Context is then sent to the heart of Duplex, which is called an Artificial Neural Network (ANN).
+In the diagram above, the ANN is shown by the circles and the lines connecting them. ANNs are loosely modelled on our brains, which have billions of neurons connected together into enormous networks.
+ANNs are much simpler than our brains though. The only thing that this one tries to do is match the input words with an appropriate response. The ANN learns by being shown transcripts of thousands of conversations of people making bookings for restaurants.
+With enough examples, it learns what kinds of input sentences to expect from the person it is talking to, and what kinds of responses to give for each one.
+The text response that the ANN generates is then sent to a text-to-speech (TTS) synthesizer, which converts it into spoken words which are then played to the person on the phone.
+Once again, this TTS synthesizer is an advanced AI – in this case it is more advanced than the one on your phone, because it sounds almost indistinguishable from any normal voice.
+That’s all there is to it. Despite it being state-of-the-art, the heart of the system is really just a text matching process. But you might ask – if it’s so simple, why couldn’t we do it before?
+The fact is that human language, and most other things in the real world, are too variable and disorderly to be handled well by normal computers, but this sort of problem is perfect for AI.
+Note that the output produced by the AI depends entirely on the conversations it was shown while it was learning.
+This means that different AIs need to be trained to make bookings of different types – so, for example, one AI can book restaurants and another can book hair appointments.
+
+      The future of artificial intelligence: two experts disagree
+This is necessary because the types of questions and responses can vary so much for different types of bookings. This is also how Duplex can be so much better than the general voice assistants, which need to handle many types of requests.
+So now it should be apparent that we are not going to be having casual conversations with our AI assistants any time soon. In fact, all of our current AIs are really nothing more than pattern matchers (in this case, matching patterns of text). They don’t understand what they hear, or what they look at, or what they say.
+Pattern matching is one thing our brains do, but they also do so much more. The key to creating more powerful AI may be to unlock more of the secrets of the brain. Do we want to? Well, that’s another question.

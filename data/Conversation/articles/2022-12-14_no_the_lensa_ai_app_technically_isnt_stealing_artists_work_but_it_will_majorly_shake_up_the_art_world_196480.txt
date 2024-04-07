@@ -1,0 +1,28 @@
+The Lensa photo and video editing app has shot into social media prominence in recent weeks, after adding a feature that lets you generate stunning digital portraits of yourself in contemporary art styles. It does that for just a small fee and the effort of uploading 10 to 20 different photographs of yourself.
+
+
+2022 has been the year text-to-media AI technology left the labs and started colonising our visual culture, and Lensa may be the slickest commercial application of that technology to date.
+It has lit a fire among social media influencers looking to stand out – and a different kind of fire among the art community. Australian artist Kim Leutwyler told the Guardian she recognised the styles of particular artists – including her own style – in Lensa’s portraits.
+Since Midjourney, OpenAI’s Dall-E and the CompVis group’s Stable Diffusion burst onto the scene earlier this year, the ease with which individual artists’ styles can be emulated has sounded warning bells. Artists feel their intellectual property – and perhaps a bit of their soul – has been compromised. But has it?
+Well, not as far as existing copyright law sees it.
+
+
+Text-to-media AI is inherently very complicated, but it is possible for us non-computer-scientists to understand conceptually.
+To really grasp the positives and negatives of Lensa, it’s worth taking a couple of steps back to understand how artists’ individual styles can find their way into, and out of, the black boxes that power systems like Lensa.
+Lensa is essentially a streamlined and customised front-end for the freely available Stable Diffusion deep learning model. It’s so named because it uses a system called latent diffusion to power its creative output.
+The word “latent” is key here. In data science a latent variable is a quality that can’t be measured directly, but can be be inferred from things that can be measured.
+When Stable Diffusion was being built, machine-learning algorithms were fed a large number of image-text pairs, and they taught themselves billions of different ways these images and captions could be connected.
+This formed a complex knowledge base, none of which is directly intelligible to humans. We might see “modernism” or “thick ink” in its outputs, but Stable Diffusion sees a universe of numbers and connections. And all of this derives from complex mathematics involving the numbers generated from the original image-text pairs.
+Because the system ingested both descriptions and image data, it lets us plot a course through the enormous sea of possible outputs by typing in meaningful prompts.
+Take the image below as an example. The text prompt included the terms “digital art” and “artstation” – a site that’s home to many contemporary digital artists. During its training, Stable Diffusion learnt to associate these words with certain qualities it identified in the various artworks it was trained on. The result is an image that would fit well on ArtStation.
+So if Stable Diffusion is a text-to-image system where we navigate through different possibilities, then Lensa seems quite different since it takes in images, not words. That’s because one of Lensa’s biggest innovations is streamlining the process of textual inversion.
+Lensa takes user-supplied photos and injects them into Stable Diffusion’s existing knowledge base, teaching the system how to “capture” the user’s features so it can then stylise them. While this can be done in the regular Stable Diffusion, it’s far from a streamlined process.
+Although you can’t push the images on Lensa in any particular desired direction, the trade-off is a wide variety of options that are almost always impressive. These images borrow ideas from other artists’ work, but do not contain any actual snippets of their work.
+The Australian Arts Law Centre makes it clear that while individual artworks are subject to copyright, the stylistic elements and ideas behind them are not. Similarly, the Dave Grossman Designs Inc. v Bortin case in the US established that copyright law does not apply to an art style.
+Nonetheless, the fact that art styles and techniques are now transferable in this way is immensely disruptive and extremely upsetting for artists. As technologies like Lensa becomes more mainstream and artists feel increasingly ripped-off, there may be pressure for legislation to adapt to it.
+For artists who work on small-scale jobs, such as creating digital illustrations for influencers or other web enterprises, the future looks challenging.
+However, while it is easy to make an artwork that looks good using AI, it’s still difficult to create a very specific work, with a specific subject and context. So regardless of how apps like Lensa shake up the way art is made, the personality of the artist remains an important context for their work.
+It may be that artists themselves will need to borrow a page from the influencer’s handbook and invest more effort in publicising themselves.
+It’s early days, and it’s going to be a tumultuous decade for producers and consumers of art. But one thing is for sure: the genie is out of the bottle.
+
+      AI can produce prize-winning art, but it still can't compete with human creativity

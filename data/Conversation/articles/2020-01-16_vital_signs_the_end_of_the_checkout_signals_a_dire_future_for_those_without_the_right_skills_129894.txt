@@ -1,0 +1,35 @@
+There has already been a fair number of jobs lost to automation over recent decades – from factory workers to bank tellers.
+In the coming decade we might see radically larger numbers of jobs lost to automation, thanks to advances in machine learning and other technologies.
+Two areas are transport and retail.
+In transport, tech company TuSimple has for months been testing autonomous trucks for UPS (the world’s largest delivery company). The trucks, hauling freight between Phoenix and Tucson, Arizona, still have a human behind the wheel for safety, but it’s only a matter of time before they become redundant.
+In supermarkets, meanwhile, the shift from checkout operators to self-service will be soon be followed by eliminating the checkout system – and attendants – entirely.
+This week a senior executive with Australian supermarket giant Coles said the clocking was ticking on checkouts:
+Given the concentration of the Australian grocery industry – with Coles, Woolworths, Aldi and IGA having about 80% market share – this could happen in a lot of outlets in a short space of time.
+
+      When AI meets your shopping experience it knows what you buy – and what you ought to buy
+The technology for this already exists. Amazon has been trialling its  “no-checkout” Amazon Go technology at more than 20 Amazon-owned convenience stores in major US cities. Customers can walk into an Amazon Go store, “swipe in” with the app on their phone, pick up what they want and then simply walk out.
+How it works exactly only Amazon knows, but it seems to involve sensors that identify what you’ve picked and artificial intelligence calculating what you’re likely to pick up based on previous purchases. Those who have used it say it works remarkably well.
+In time the spread of such technology could wipe out more than 150,000 cashier jobs remaining in Australia.
+And that’s just one sector of the economy.
+
+      The economics of self-service checkouts
+The argument against worrying about automation is that it’s always easier to identify the jobs likely to be lost than the new ones that will emerge.
+There’s some truth to this. Who knew in 1995, for example, that “social media manager” would be a job 20 years later?
+It’s also true the invention of the printing press and the mechanical plough destroyed jobs. But they also created more, as have many other innovations over the past 200 years.
+But there are two reasons to be concerned – reasons I explore in a forthcoming book with co-author Rosalind Dixon.
+The first is that this time really looks to be different in terms of scale. It has been estimated up to 14% of jobs in OECD countries are highly subject to automation, and a further 32% could face significant changes to how they are carried out.
+The second is the jobs created by automation might not be suited to the people who lose their jobs. The cashier replaced by an automated checkout is unlikely to be qualified to work on the artificial intelligence technology that created it.
+This has been true in the past to a degree, but a factory labourer who lost their job could at least move into the services sector. They were not be paid as well – a very real issue – but at least they could find another job without signficant reskilling.
+
+      The benefits of job automation are not likely to be shared equally
+This time around there is reason to believe the skills of those who prosper from automation are going to be very different to those who lose.
+The distributional implications of this are large and important.
+When a new technology increases the size of the overall economic pie, it is better to embrace it and try to take care of those who lose out.
+That involves, if they have trouble finding a new job, doing more than ensuring they have an income.
+As former US vice-president Joe Biden has recalled his father telling him:
+That means the proper response to automation has to be serious retraining to give people the skills to get a new job.
+If that is not enough, it may mean the government providing jobs.
+This kind of jobs guarantee is being talked about by mainstream economists and centrist politicians for the first time since the 1930s, when it formed a key part of the US government’s New Deal response to the Great Depression through the Works Progress Administration.
+If the automation of the 2020s turns out to be a “robocalypse” of self-driving cars, automated baristas and AI-driven professional services, it might indeed be needed.
+As US baseball great Yogi Bera said: “It’s hard to make predictions, especially about the future.” But we’ve seen enough evidence of an automation revolution driven by machine learning and big data to know we need to be prepared.
+That means thinking now about a range of policies to provide people with work but not give up on the power of markets.

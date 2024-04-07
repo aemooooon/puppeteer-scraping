@@ -1,0 +1,75 @@
+Writers have been using AI tools for years – from Microsoft Word’s spellcheck (which often makes unwanted corrections) to the passive-aggressive Grammarly. But ChatGPT is different.
+ChatGPT’s natural language processing enables a dialogue, much like a conversation – albeit with a slightly odd acquaintance. And it can generate vast amounts of copy, quickly, in response to queries posed in ordinary, everyday language. This suggests, at least superficially, it can do some of the work a book editor does.
+We are professional editors, with extensive experience in the Australian book publishing industry, who wanted to know how ChatGPT would perform when compared to a human editor. To find out, we decided to ask it to edit a short story that had already been worked on by human editors – and we compared the results.
+The story we chose, The Ninch (written by Rose), had gone through three separate rounds of editing, with four human editors (and a typesetter).
+The first version had been rejected by literary journal Overland, but its fiction editor Claire Corbett had given generous feedback. The next version received detailed advice from freelance editor Nicola Redhouse, a judge of the Big Issue fiction edition (which had shortlisted the story). Finally, the piece found a home at another literary journal, Meanjin, where deputy editor Tess Smurthwaite incorporated comments from the issue’s freelance editor and also their typesetter in her correspondence.
+We had a wealth of human feedback to compare ChatGPT’s recommendations with.
+We used a standard, free ChatGPT generative AI tool for our edits, which we conducted as separate series of prompts designed to assess the scope and success of AI as an editorial tool.
+We wanted to see if ChatGPT could develop and fine tune this unpublished work – and if so, whether it would do it in a way that resembled current editorial practice. By comparing it with human examples, we tried to determine where and at what stage in the process ChatGPT might be most successful as an editorial tool.
+
+      Authors are resisting AI with petitions and lawsuits. But they have an advantage: we read to form relationships with writers
+The story includes expressive descriptions, poetic imagery, strong symbolism and a subtle subtext. It explores themes of motherhood, nature, and hints at deeper mysteries.
+We chose it because we believe the literary genre, with its play and experimentation, poetry and lyricism, offers rich pickings for complex editorial conversations. (And because we knew we could get permission from all participants in the process to share their feedback.)
+In the story, a mother reflects on her untamed, sea-loving child. Supernatural possibilities are hinted at before the tale turns closer to home, ending with the mother revealing her own divergent nature – and looping back to offer more meaning to the title:
+We started with a simple, general prompt, assuming the least amount of editorial guidance from the author. (Authors submitting stories to magazines and journals generally don’t give human editors a detailed, prescriptive brief.)
+Our initial prompt for all three examples was: “Hi ChatGPT, could I please ask for your editorial suggestions on my short story, which I’d like to submit for publication in a literary journal?”
+Responding to the first version of the story, ChatGPT provided a summary of key themes (motherhood, connection to nature, the mysteries of the ocean) and made a list of editorial suggestions.
+Interestingly, ChatGPT did not pick up that the story was now published and attributed to an author. Raising questions about its ability, or inclination, to identify plagiarism. Nor did it define the genre, which is one of the first assessments an editor makes.
+ChatGPT’s suggestions were: to add more description of the coastal setting, provide more physical description of the characters, break up long paragraphs to make the piece more reader-friendly, add more dialogue for characterisation and insight, make the sentences shorter, reveal more inner thoughts of the characters, expand on the symbolism, show don’t tell, incorporate foreshadowing earlier, and provide resolution rather than ending on a mystery.
+All good, if stock standard, advice.
+ChatGPT also suggested reconsidering the title – clearly not making the connection between mother and daughter’s ocean affinity and their webbed toes – and reading the story aloud to help identify awkward phrasing, pacing and structure.
+While this wasn’t particularly helpful feedback, it was not technically wrong.
+ChatGPT picked up on the major themes and main characters. And the advice for more foreshadowing, dialogue and description, along with shorter paragraphs and an alternative ending, was generally sound.
+In fact, it echoed the usual feedback you’d get from a creative writing workshop, or the kind of advice offered in books on the writing craft.
+They are the sort of suggestions an editor might write in response to almost any text – not particularly specific to this story, or to our stated aim of submitting it to a literary publication.
+Next, we provided a second prompt, responding to ChatGPT’s initial feedback – attempting to emulate the back-and-forth discussions that are a key part of the editorial process.
+We asked ChatGPT to take a more practical, interventionist approach and rework the text in line with its own editorial suggestions:
+That’s where things fell apart.
+ChatGPT offered a radically shorter, changed story. The atmospheric descriptions, evocative imagery and nods towards (unspoken) mystery were replaced with unsubtle phrases – which Rose swears she would never have written, or signed off on.
+Lines added included: “my daughter has always been an enigma to me”, “little did I know” and “a sense of unease washed over me”. Later in the story, this phrasing was clumsily suggested a second time: “relief washed over me”.
+The author’s unique descriptions were changed to familiar cliches: “rugged beauty”, “roar of the ocean”, “unbreakable bond”. ChatGPT also changed the text from Australian English (which all Australian publications require) to US spelling and style (“realization”, “mom”).
+In summary, a story where a mother sees her daughter as a “southern selkie going home” (phrasing that hints at a speculative subtext) on a rocky outcrop and really sees her (in all possible, playful senses of that word) was changed to a fishing tale, where a (definitely human) girl arrives home holding up, we kid you not, “a shiny fish”.
+It became hard to give credence to any of ChatGPT’s advice.
+Esteemed editor Bruce Sims once advised it’s not an editor’s job to fix things; it’s an editor’s job to point out what needs fixing. But if you are asked to be a hands-on editor, your revisions must be an improvement on the original – not just different. And certainly not worse.
+It is our industry’s maxim, too, to first do no harm. Not only did ChatGPT not improve Rose’s story, it made it worse.
+
+      Two authors are suing OpenAI for training ChatGPT with their books. Could they win?
+ChatGPT’s edit did not come close to the calibre of insight and editorial know-how offered by Overland editor Claire Corbett. Some examples:
+Freelance editor Nicola, who has a personal relationship with Rose, went even further in her exchange (in response to the next draft, where Rose had attempted to address the issues Claire identified). She pushed Rose to work and rework the last sentence until they both felt the language lock in and land.
+Originally, the final sentence read: “Ready to make my slower way back to the house, retracing – overwriting – any sign of my own less-than more-than normal prints.”
+The final version is: “Ready to make my slower way back to the house, retracing, overwriting, any sign of my own less-than, more-than, normal prints.” With the addition of a final standalone line: “I have seen what I wanted to see: her, me, free.”
+Claire and Nicola’s feedback show how an editor is a story’s ideal reader. A good editor can guide the author through problems with point of view and emotional dynamics – going beyond the simple mechanics of grammar, sentence length and the number of adjectives.
+In other words, they demonstrate something we call editorial intelligence.
+Editorial intelligence is akin to emotional intelligence. It incorporates intellectual, creative and emotional capital – all gained from lived experience, complemented by technical skills and industry expertise, applied through the prism of human understanding.
+Skills include confident conviction, based on deep accumulated knowledge, meticulous research, cultural mediation and social skills. (After all, the author doesn’t have to do what we say – ours is a persuasive profession.)
+Next, we submitted a revised draft that had addressed Claire’s suggestions and incorporated the conversations with Nicola.
+This draft was submitted with the same initial prompt: “Hi ChatGPT, could I please ask for your editorial suggestions on my short story, which I’d like to submit for publication in a literary journal?”
+ChatGPT responded with a summary of themes and editorial suggestions very similar to what it had offered in the first round. Again, it didn’t pick up that the story had already been published, nor did it clearly identify the genre.
+For the follow-up, we asked specifically for an edit that corrected any issues with tense, spelling and punctuation.
+It was a laborious process: the 2,500-word piece had to be submitted in chunks of 300–500 words and the revised sections manually combined.
+However, these simpler editorial tasks were clearly more in ChatGPT’s ballpark. When we created a document (in Microsoft Word) that compared the original and AI-edited versions, the flagged changes appeared very much like a human editor’s tracked changes.
+But ChatGPT’s changes revealed its own writing preferences, which didn’t allow for artistic play and experimentation. For example, it reinstated prepositions like “in”, “at”, “of” and “to”, which slowed down the reading and reduced the creativity of the piece – and altered the writing style.
+This makes sense when you know the datasets that drive ChatGPT mean it explicitly works toward the word most likely to come next. (This might be directed differently in the future, towards more creative, and less stable or predictable models.)
+
+      'The entire industry is based on hunches': is Australian publishing an art, a science or a gamble?
+In the third and final round of the experiment, we submitted the draft that had been accepted by Meanjin.
+The process kicked off with the same initial prompt: “Hi ChatGPT, could I please ask for your editorial suggestions on my short story, which I’d like to submit for publication in a literary journal?”
+Again, ChatGPT offered its rote list of editorial suggestions. (Was this even editing?)
+This time, we followed up with separate prompts for each element we wanted ChatGPT to review: title, pacing, imagery/description.
+ChatGPT came back with suggestions for how to revise specific parts of the text, but the suggestions were once again formulaic. There was no attempt to offer – or support – any decision to go against familiar tropes.
+Many of ChatGPT’s suggestions – much like the machine rewrites earlier – were heavy-handed. The alternative titles, like “Seaside Solitude” and “Coastal Connection”, used cringeworthy alliteration.
+In contrast, Meanjin’s editor Tess Smurthwaite – on behalf of herself, copyeditor Richard McGregor, and typesetter Patrick Cannon – offered light revisions:
+Sometimes editorial expertise shows itself in not changing a text. Different isn’t necessarily good. It takes an expert to recognise when a story is working just fine. If it ain’t broke, don’t fix it.
+It also takes a certain kind of aerial, bird’s-eye view to notice when the way type is set creates ambiguities in the text. Typesetters really are akin to editors.
+So, ChatGPT can give credible-sounding editorial feedback. But we recommend editors and authors don’t ask it to give individual assessments or expert interventions any time soon.
+A major problem that emerged early in this experiment involved ethics: ChatGPT did not ask for or verify the authorship of our story. A journal or magazine would ask an author to confirm a text is their own original work at some stage in the process: either at submission or contract stage.
+A freelance editor would likely use other questions to determine the same answer – and in the process of asking about the author’s plans for publication, they would also determine the author’s own stylistic preferences.
+Human editors demonstrate their credentials through their work history, and keep their experience up-to-date with professional training and qualifications.
+What might the ethics be, we wonder, of giving the same recommendations to every author asking for editing advice? You might be disgruntled to receive generic feedback if you expect or have paid for for individual engagement.
+As we’ve seen, when writing challenges expected conventions, AI struggles to respond. Its primary function is to appropriate, amalgamate and regurgitate – which is not enough when it comes to editing literary fiction.
+Literary writing aims to – and often does – convey so much more than what the words on screen explicitly say. Literary writers strive for evocative, original prose that draws upon subtext and calls up undercurrents, making the most of nuance and implication to create imagined realities and invent unreal worlds.
+At this stage of ChatGPT’s development, literally following the advice of its editing tools to edit literary fiction is likely to make it worse, not better.
+In Rose’s case, her oceanic allegory about difference, with a nod to the supernatural, was turned into a story about a fish.
+This experiment shows how AI and human editors could work together. AI suggestions can be scrutinised – and integrated or dismissed – by authors or editors during the creative process.
+And while many of its suggestions were not that useful, AI efficiently identified issues with tense, spelling and punctuation (within an overly narrow interpretation of these rules).
+Without human editorial intelligence, ChatGPT does more harm than help. But when used by human editors, it’s like any other tool – as good, or bad, as the tradesperson who wields it.

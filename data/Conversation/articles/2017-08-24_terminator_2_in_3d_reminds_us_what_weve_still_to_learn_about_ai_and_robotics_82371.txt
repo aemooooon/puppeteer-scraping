@@ -1,0 +1,44 @@
+The classic science fiction action film Terminator 2: Judgment Day has ticked over its 25th anniversary. To celebrate, director James Cameron went one step further than remastering the original 1991 version and has re-released the film in 4K 3D, in cinemas now.
+
+T2 tells the story of two cyborgs sent back in time from the future, one (the T800, “living tissue over metal endoskeleton”, in Arnold Schwarzenegger’s most iconic role) to protect the future leader of the human resistance; the other (the T1000, a more advanced, shapeshifting liquid metal model) sent to terminate him.
+In this 1995 timeline, the boy is a ten-year-old John Connor (Edward Furlong), protected by his mother Sarah Connor (Linda Hamilton), who has toughened up a lot since being the target of a failed time-travel assassination in the first Terminator film (a “pre-emptive” abortion since John was not yet born at that time).
+
+      Science fiction helps us deal with science fact: a lesson from Terminator's killer robots
+But how plausible are the physics and science behind some of the film’s incredible scenes, and what light does modern artificial intelligence and robotics research shed on the film, 25 years on?
+There will be spoilers, so if you haven’t seen the film already, go see it in cinemas this week - and then make sure that you’ll be back here to read on.
+When a near-indestructible cyborg is hellbent on killing you and you’re in the United States of America, there’s only one way to defend yourself: with guns. T2 is filled with amazing action scenes where these metal monsters go toe to toe with each other and the humans that get in their way.
+Director James Cameron referred to Arnold’s T800 Terminator model as a sort of Panzer Tank, in contrast to the liquid metal T1000 being more like a sleek Porsche.
+Like any military tank, Terminators would potentially be vulnerable to sheer momentum transfer knocking them off their feet, even if bullets weren’t able to damage their endoskeleton directly. This is very different to humans, to whom bullets often do most of their damage via energy transfer rather than momentum transfer.
+The T800 first gets shot at the shopping mall by the T1000, who unloads a magazine of 9x19mm handgun ammunition into Arnie’s back. With a muzzle velocity of about 380m/s and a bullet weight of 7.45 grams, each bullet has a maximum momentum P of:
+Assuming that all the momentum is transferred to the T800, it will change the momentum of the T800 by a certain amount: we can call this “Delta P” or “DP” for short. We can then work out what velocity each bullet would normally impart, which we’ll refer to as “Delta V”, or “DV” for short.
+First we need a weight for the T800, which is never stated. But it can ride a motorcycle fine - so we can guesstimate a weight of 200kg:
+So each bullet would only impart a miniscule amount of velocity change to the T800 - so it being able to shrug them off effortlessly is entirely reasonable.
+Verdict: plausible.
+Later in the film, an entire police and SWAT team unloads on Arnold and he appears to get shaken around a bit more. Let’s repeat the calculation, for a team of ten shooters each emptying a 30-round AR-15 magazine firing 5.56x45 4gram bullets at a muzzle velocity of 975 m/s. We’ll do the calculation as if he gets hit by ten bullets at a time:
+So:
+In terms of relative effect, that’s more than an order of magnitude more than the lone handgun, so the T800 being knocked around a bit by the combined fire is reasonable.
+Verdict: plausible.
+Sarah Connor manages to knock the T1000 back a sizeable amount with single shotgun blasts in the final showdown at the steel mill. We don’t need to perform any calculations to show this is implausible. For each shot Sarah Connor should feel the same momentum effects as the T1000 that is struck.
+While she has the benefit of being braced for the shot, it’s still unlikely the T1000 would be knocked through the air an entire metre, unless it weighed much much less than a human. This also happens in the first T800 vs T1000 showdown, where single shots from Arnie’s shotgun throw the T1000 all over the place.
+Verdict: implausible.
+
+Early in the film, a young John Connor is shown supporting himself by cracking ATM PIN codes using an early portable computer (an Atari Portfolio).
+
+He appears to use a brute force attack, trying all possible PIN combinations. Even on that early 1990s computer tech, the number of combinations required is quite small. Each digit has ten possibilities, and there are four digits:
+The computer appears to zip through the possibilities quickly, so it’s plausible that all 10,000 combinations could be tried in a few seconds (assuming his hack was also stopping any “lock out” security mechanism which stopped you after a few incorrect tries).
+Verdict: plausible.
+One of the deleted scenes in Terminator 2 involved John and Sarah Connor deciding to reboot the T800’s Central Processing Unit (CPU) to enable it to learn and hence give them a fighting chance against the T1000.
+
+This scene is highly relevant to the technological revolution that deep learning has caused over the past five years, where major advances in artificial intelligence have been made using large neural networks that learn about the world.
+The ability of robots and AIs to learn from real world experience has been critical to many recent developments.
+Verdict: highly plausible.
+The backstory to T2 is that a human-created artificial intelligence called Skynet starts learning at an amazing rate. Humans panic, try to shut it down, and it reacts by launching nukes at Russia, which in turn launches its own nukes back.
+In the ensuing nuclear aftermath, Skynet builds an army of killer cyborgs and flying Hunter-Killer robots to enslave the remnants of humanity.
+Setting appropriate boundaries for intelligent, autonomous systems is a part of Trusted Autonomous Systems research, which is a big focus of effort in today’s push towards increasingly autonomous defence systems.
+It’s possible Skynet was reacting exactly as it should have, based on how it was set up, to defend against all attacks. Today’s military planners must be careful to fully understand the potential unintended consequences of all the performance goals they set for their high tech autonomous systems.
+Verdict: highly plausible, designers must very carefully set objectives for AI systems.
+Terminator 2: Judgement Day is a classic sci-fi action film filled with action that often but not always pays heed to the laws of physics. Its re-release in 4K 3D takes what is already a visually impressive film and ramps it up another notch.
+
+      We're close to banning nuclear weapons – killer robots must be next
+But it is in T2’s addressing of key concepts that are incredibly important today - artificial intelligence, the importance of learning, the ability of a machine to learn the value of human life and the danger of unintended technological consequences, that it particularly shines.
+While it will always be a part of film history, its legacy is perhaps increasingly becoming its use as a focal point for almost all discussion about robotics, artificial intelligence and their role in humanity’s future. And for that, it gets an A+ for scientific importance.

@@ -1,0 +1,31 @@
+Recognising faces is essential for how we interact in complex societies, and is often thought to be an ability that requires the sophistication of the large human brain.
+But new evidence we published in Frontiers in Psychology shows that insects such as the honeybee (Apis mellifera) and the European wasp (Vespula vulgaris) use visual processing mechanisms that are similar to humans’, which enables reliable face recognition.
+
+      Bees join an elite group of species that understands the concept of zero as a number
+This is despite the tiny size of the insects’ brains. They contain fewer than one million brain cells, compared with the 86,000 million that make up a human brain.
+Understanding what size of brain can enable complex tasks to be efficiently solved is certainly interesting, but also has practical implications. It allows us to understand how large brains may have evolved, and how to think about designing artificial intelligence (AI) that might mirror the efficiency of biological brains.
+We are really good at recognising familiar faces. Think of the situation of meeting a friend at a train station where there are hundreds of people passing, all moving in different directions. Suddenly, a glimpse of a familiar face in the distance means we’ve found the right person.
+This seems effortless, but AI solutions often struggle to recognise faces in complex situations.
+Our expertise at recognising faces is largely based on “holistic processing” – the gluing together of different facial features to provide superior recognition. This is thought to be a sophisticated cognitive process that develops with experience at viewing faces. Once we are familiar with a face, the different features – like eyes, nose, mouth and ears – are processed together as a “gestalt” (a unit that incorporates all elements) to allow us to reliably recognise individuals.
+Interestingly, while holistic processing is most typically used for recognising faces, when we become experts in other visual tasks – like being a judge at dog shows or collecting classic cars – then our brain also employs holistic processing to enable superior recognition abilities in those areas too.
+Holistic processing may therefore be a general principle for recognising important objects. This is useful more broadly, because it means that holistic processing could be of value for developing improved AI solutions, such as for fast and accurate identification of invasive plants in the rapidly growing AgTech industry.
+We were interested to know how general the principle of holistic processing might be in different animals, so my colleagues and I set about testing how insects might solve facial recognition tasks.
+The honeybee is a very accessible animal for understanding visual processing. Individual bees can be trained to learn complex problems in return for collecting a sweet sugary reward. Recently we developed methods for testing wasps in the same way.
+
+      Which square is bigger? Honeybees see visual illusions like humans do
+Our existing research shows that honeybees and wasps can learn to recognise human faces.
+Other evidence – from a US research group – shows that paper wasps (Polistes fuscatus) can very reliably learn the faces of other paper wasps, and appear to have evolved specialised brain mechanisms for wasp face processing.
+What was missing was an understanding of whether this took place in insects
+due to simple interpretation of individual facial features, or using more complex “whole picture”  interpretation – holistic face processing – as happens in humans.
+We decided to test the possibility of holistic face processing in both the honeybee and the European wasp, using trained individuals to complete testing with manipulated faces.
+Two very useful tests already exist for establishing that human subjects use holistic face processing: these are the part-whole effect, and the composite-face effect.
+The part-whole effect reveals that when face features like eyes, nose or mouth are perceived in isolation, it’s harder to recognise a face compared to when these features are viewed in the context of a full face.
+The composite-face effect refers to the large drop in performance accuracy when correct inner face features – like eyes, nose and mouth – are viewed in the context of incorrect outer features.
+In human processing of familiar faces, the different elemental features are glued together into a gestalt to enable improved face recognition accuracy.
+When we used these principles to test the insects, both the bees and wasps were able to learn achromatic (black and white) images of human faces.
+Both the bees and wasps were then were given four additional separate tests. The results showed that despite these respective insects having no evolutionary reason for processing human faces, their brains learn reliable recognition by creating holistic representations of the complex images. They put features together to recognise a specific human face.
+We now know that insects’ small brains can reliably recognise at least a limited number of faces. This suggests that in humans, the advantage of our big brain may be the very large number of individuals we can remember.
+
+      Robots can learn a lot from nature if they want to 'see' the world
+This new information helps us understand how very sophisticated face processing expertise may have been possible to evolve in humans and other primates.
+The evidence that holistic processing is used by different animals for a variety of complex visual problems suggests this may be useful approach to explore for developing AI solutions for reliable recognition.

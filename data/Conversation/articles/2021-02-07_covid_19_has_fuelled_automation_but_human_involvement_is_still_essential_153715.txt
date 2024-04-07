@@ -1,0 +1,14 @@
+The COVID-19 pandemic has disrupted the way we work and interact with machines — and people — in the workplace. The surge in remote working brought on by the pandemic has magnified the need for unmanned work operations. More automation, however, does not always make the workplace more efficient.
+Industries that have heavily relied on manual operations, like warehouses or meat packers, are now introducing more automated or tele-operated systems. Unlike traditional, manually operated machines, in tele-operation the human operator sits in a remote location away from the machine they control.
+Despite some of the unquestionable benefits of automation, however, these trends are in part an attempt to address the high rates of COVID-19 among factory workers.
+Despite some of the unquestionable benefits of automation, however, simply adopting a technology-driven approach aimed at replacing all manual operations with robots is not a viable fix.
+For decades, what’s known as human factors, a discipline at the intersection of cognitive science, engineering and kinesiology, has investigated the human-machine interaction in the workplace, with the goal of understanding the benefits and unintended consequences of automation. Among the phenomena being investigated is what’s known as the paradox of automation.
+The paradox of automation — also known as the paradox of technology — occurs when introducing automated system will add to, not reduce, the workload and responsibilities of the human operator.
+This is because automated systems often require more knowledge, human supervision and intervention from the human operator whenever something goes wrong.
+Case in point is airport security screening. This industry has undergone an automation revolution for many decades now. Yet data shows that the failure rate in this industry is still as high as 95 per cent. Why?
+The answer to this question is less about the technology, and more about the fact that system developers too often ignore or overlook the human factor.
+In other words, a technology-centred approach is adopted over a human-centred one.
+Ignoring or undervaluing human factors in automation does not only make systems impossible to use but, more importantly, hinders safety.
+A solution to this is developing systems that help automate manually intensive operations, as well as account for known boundaries in human cognition like the inability to multi-task effectively or sustain attention on a given task for long periods of times.
+Like many other innovations borne out of challenging times in human history, the push for more automation and tele-operation triggered by the COVID-19 pandemic must come with the promise of more efficient and safer workplace operations.
+But instead of fully and solely relying on what’s technologically possible, system developers must put human beings at the centre of designing automation instead of relegating them to its periphery.

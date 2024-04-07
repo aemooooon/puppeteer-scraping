@@ -1,0 +1,25 @@
+In the largest study of its kind, scientists have discovered that a blood test detecting specific proteins could predict dementia up to 15 years before a person receives an official diagnosis.
+The researchers found 11 proteins that have a remarkable 90% accuracy in predicting future dementia.
+Dementia is the UK’s biggest killer. Over 900,000 people in the UK are living with the memory-robbing condition, yet less than two-thirds of people receive a formal diagnosis. Diagnosing dementia is tricky and relies on various methods.
+These include lumbar punctures (to look for certain telltale proteins in the cerebrospinal fluid), PET scans and memory tests. These methods are invasive, time-consuming and expensive, putting a heavy burden on the NHS. This means that many people are only diagnosed when they have memory and cognitive problems. By this point, the dementia may have been progressing for years and any support or health plan may be too late.
+Those with undiagnosed dementia, and their families, cannot attend clinical trials, have an organised healthcare plan or access essential support. So improving dementia diagnosis would provide earlier support and give patients a longer, healthier and more prosperous life.
+In this latest study, researchers at the University of Warwick in England and Fudan University in China examined blood samples from 52,645 healthy volunteers from the UK Biobank genetic database between 2006 and 2010. Over the ten- to 15-year follow-up period, around 1,400 developed dementia.
+The researchers used artificial intelligence and machine learning to analyse 1,463 proteins in the blood. They identified 11 proteins associated with dementia, of which four could predict dementia up to 15 years before a clinical diagnosis.
+When combining this data with more regular risk factors of age, sex, education and genetics, the dementia prediction rate was around 90%.
+These proteins found in the plasma (the liquid component of blood) are biological markers for the changes that occur in dementia sufferers over a decade before clinical symptoms first appear. They act as warning signs of the disease.
+The four proteins most strongly associated with all-cause dementia, Alzheimer’s disease (accounting for 70% of all dementias) and vascular dementia (accounting for 20%) are GFAP, NEFL, GDF15 and LTBP2.
+Scientists showed GFAP to be the best “biomarker” for predicting dementia. GFAP’s function is to support nerve cells called astrocytes.
+A symptom of Alzheimer’s disease is inflammation, and this causes astrocytes to make a lot of GFAP. Consequently, people with dementia display increased inflammation, resulting in higher levels of GFAP, making it a prominent biomarker.
+The study showed that people with higher GFAP were more than twice as likely to develop dementia as people with low levels. Smaller studies have also identified GFAP to be a potential marker for dementia.
+
+      Do one in six Indians over 59 really have a mild brain disorder, as a new study suggests?
+NEFL is the second protein that is most strongly associated with dementia risk. This protein relates to nerve fibre damage. Combining NEFL or GFAP with demographic data and cognitive tests significantly improves the accuracy of dementia prediction.
+Proteins GD15 and LTBP2, both involved in inflammation, cell growth and death, and cellular stress, are also strongly linked to increased dementia risk.
+But despite the study’s discovery, other scientists warn that the new biomarkers require further validation before they can be used as a screening tool.
+Other initiatives are also promoting the adoption of blood tests as a widespread screening method in diagnosing dementia, including the Blood Biomarker Challenge, a five-year project aiming to use NHS blood tests to diagnose diseases that lead to dementia by looking at traces of brain proteins leaked into the bloodstream.
+The exciting advent of new dementia drugs such as lecanemab and donanemab, not yet approved for use in the UK, has the potential to slow the progression of Alzheimer’s disease.
+Patients seeking lecanemab or donanemab treatment would require an early-stage diagnosis of Alzheimer’s disease. Alzheimer’s Research UK estimates that only 2% of patients undergo such diagnostic testing.
+The study shows that blood tests are an effective way to detect dementia early by identifying specific proteins, providing the patient with the best possible opportunity to receive life-changing treatment.
+Early diagnosis of dementia would result in a more effective treatment. A simple blood test has the potential to replace the costly, time-consuming and invasive tests currently used for dementia patients, ultimately improving the quality of many lives.
+
+      Playing a musical instrument or singing in a choir may boost your brain – new study

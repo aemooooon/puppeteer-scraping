@@ -1,0 +1,35 @@
+It’s a new day not very far in the future. You wake up; your wristwatch has recorded how long you’ve slept, and monitored your heartbeat and breathing. You drive to work; car sensors track your speed and braking. You pick up some breakfast on your way, paying electronically; the transaction and the calorie content of your meal are recorded.
+Then you have a car accident. You phone your insurance company. Your call is answered immediately. The voice on the other end knows your name and amiably chats to you about your pet cat and how your favourite football team did on the weekend.
+You’re talking to a chat-bot. The reason it “knows” so much about you is because the insurance company is using artificial intelligence to scrape information about you from social media. It knows a lot more besides, because you’ve agreed to let it monitor your personal devices in exchange for cheaper insurance premiums.
+This isn’t science fiction. More than three-quarters of insurance executives believe artificial intelligence will revolutionise the industry within a few years. By 2030, according to McKinsey futurists, artificial intelligence will mean your car and life insurance premiums could change based on whether you decide to take one route or another.
+It will be sold to you on the promise of more personalised service, faster claims processing and lower premiums – and it will deliver on those promises, for the most part.
+But there are ethical risks too – data privacy and discrimination among them. An  insurance company might use your data to figure out how much you would be willing to pay for cover. It might sell the information to a third party. The AI might decide you pose a greater risk because of your age, sex, income or ethnicity.
+Though the insurance industry in general has an unenviable reputation for taking people’s money then refusing to pay, it is a highly competitive sector. The less agile will probably not survive against competitors using AI to stay profitable while lowering their premiums.
+To offer lower premiums, an insurer needs to know an individual is, in fact, a lower risk. The enabling technology is the internet of things, the  collective name for the billions of internet-connected sensors embedded in all manner of objects we use every day. They are in phones, watches, cars, fitness trackers, home assistants and many other things. Collectively they form an “ecosystem” of sensors.
+Data collected over time allow the insurer to make an individually tailored risk profile based on a person’s actual behaviour, a practice known as behavioural policy pricing.
+To lower your house and contents insurance, the insurance company will patch into the AI hub that runs your “smart home” through its ecosystem of sensors.
+If there is a pattern of burglaries in the neighbourhood, the home hub will know, because it is connected to the insurer’s network. Locks and alarms can be primed and police called at the first sign of trouble. To manage the risk of fire, sensors will monitor heat, humidity and detect smoke. If the stove gets left on, the home hub will turn it off before it becomes a problem.
+To calculate lower car insurance premiums, your insurance company may want to monitor the way you drive and maintain your car.
+Health insurance premiums may require giving the insurer access to your medical records and wearing a fitness tracker.
+
+      An insurance discount for your fitness data is a bad deal in the long run
+A new industry sector will emerge. Specialist companies that deploy IoT sensors and gather the data will partner with insurers to form a new business ecosystem. The whole industry will shift from purely reactive insurance to proactive, risk-minimising cover.
+It all sounds quite positive. But there are also broader risks in the narrow pursuit of minimising insurance risk.
+One very clear danger is the problem of profiling – being judged a higher or lower insurance risk because you belong to a particular demographic group.
+AI can now differentiate risk into hundreds of factors. Algorithms scan these factors to identify clusters of previously unrecognised risk. They can also deduce clusters on their own.
+But these conclusions may unintentionally discriminate. There are already many examples where AI algorithms have inadvertently amplified stereotypes.
+The case of predictive policing in Durham, England, illustrates the problem. Police there developed an algorithm to better predict the risk posed by people charged with an offence should they be granted bail. What it did was discriminate against poorer people on the basis of where they lived.
+There is also the prospect of more individualised discrimination.
+Already quite well known is the problem of genetic discrimination – the risk of a health or life insurer increasing premiums or even denying cover for certain conditions based on what your DNA reveals about your genetic disposition to certain conditions.
+
+      Australians can be denied life insurance based on genetic test results, and there is little protection
+AI opens up a whole new area of personalised discrimination, based on what it can glean from your behaviours and preferences.
+For one thing, the plethora of data potentially available to AI can tell an insurer a lot about your spending habits. Where do you shop? What do you buy? When do you spend? Do you seek out bargains or pay full price?
+Knowing all this will help an insurance company estimate if it can get away with charging you top price.
+Some in the industry argue that this is just how markets operate, but when it is facilitated by unprecedented access to personal information, it becomes a highly questionable practice.
+An insurer might also be tempted to use the data for purposes other than assessing risk. Given its value, the data might be sold to third parties for various purposes to offset the cost of collecting it. Advertisers, marketers, lobbyists and political parties are all insatiably hungry for detailed demographic data.
+
+      What are tech companies doing about ethical use of data? Not much
+Contrary to what people might think, this data is not the property of the person it relates to. It is owned by whoever paid for it. Consumers must be legally protected against their data being used for other purposes without their informed consent.
+With any powerful new technology there are benefits and risks. The benefits should be made clear and the risks managed down to an acceptable level. There is of course irony in having to manage the risk of managing risk.
+Insurance companies have a job to do to ensure customers can trust there is far more upside than downside in AI. They will need to adopt transparently fair, if not benevolent, practices that contribute to the greater good. It has to be about more than profit.

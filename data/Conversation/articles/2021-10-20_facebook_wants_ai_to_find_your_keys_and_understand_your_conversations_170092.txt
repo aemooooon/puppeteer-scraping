@@ -1,0 +1,27 @@
+Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys.
+The Ego4D project provides a huge collection of first-person video and related data, plus a set of challenges for researchers to teach computers to understand the data and gather useful information from it.
+In September, the social media giant launched a line of “smart glasses” called Ray-Ban Stories, which carry a digital camera and other features. Much like the Google Glass project, which met mixed reviews in 2013, this one has prompted complaints of privacy invasion.
+The Ego4D project aims to develop software that will make smart glasses far more useful, but may in the process enable far greater breaches of privacy.
+
+      Ray-Ban Stories let you wear Facebook on your face. But why would you want to?
+Facebook describes the heart of the project as
+The “Ego” in Ego4D means egocentric (or “first-person” video), while “4D” stands for the three dimensions of space plus one more: time. In essence, Ego4D seeks to combine photos, video, geographical information and other data to build a model of the user’s world.
+There are two components: a large dataset of first-person photos and videos, and a “benchmark suite” consisting of five challenging tasks that can be used to compare different AI models or algorithms with each other. These benchmarks involve analysing first-person video to remember past events, create diary entries, understand interactions with objects and people, and forecast future events.
+The dataset includes more than 3,000 hours of first-person video from 855 participants going about everyday tasks, captured with a variety of devices including GoPro cameras and augmented reality (AR) glasses. The videos cover activities at home, in the workplace, and hundreds of social settings.
+Although this is not the first such video dataset to be introduced to the research community, it is 20 times larger than publicly available datasets. It includes video, audio, 3D mesh scans of the environment, eye gaze, stereo, and synchronized multi-camera views of the same event.
+
+Most of the recorded footage is unscripted or “in the wild”. The data is also quite diverse as it was collected from 74 locations across nine countries, and those capturing the data have various backgrounds, ages and genders.
+Commonly, computer vision models are trained and tested on annotated images and videos for a specific task. Facebook argues that current AI datasets and models represent a third-person or a “spectator” view, resulting in limited visual perception. Understanding first-person video will help design robots that better engage with their surroundings.
+Furthermore, Facebook argues egocentric vision can potentially transform how we use virtual and augmented reality devices such as glasses and headsets. If we can develop AI models that understand the world from a first-person viewpoint, just like humans do, VR and AR devices may become as valuable as our smartphones.
+Facebook has also developed five benchmark challenges as part of the Ego4D project. The challenges aim to build better understanding of video materials to develop useful AI assistants. The benchmarks focus on understanding first person perception. The benchmarks are described as follows:
+Obviously there are significant concerns regarding privacy. If this technology is paired with smart glasses constantly recording and analysing the environment, the result could be constant tracking and logging (via facial recognition) of people moving around in public.
+
+      Face masks and facial recognition will both be common in the future. How will they co-exist?
+While the above may sound dramatic, similar technology has already been trialled in China, and the potential dangers have been explored by journalists.
+Facebook says it will maintain high ethical and privacy standards for the data gathered for the project, including consent of participants, independent reviews, and de-identifying data where possible.
+As such, Facebook says the data was captured in a “controlled environment with informed consent”, and in public spaces “faces and other PII [personally identifing information] are blurred”.
+But despite these reassurances (and noting this is only a trial), there are concerns over the future of smart-glasses technology coupled with the power of a social media giant whose intentions have not always been aligned to their users.
+
+      Artificial intelligence in Australia needs to get ethical, so we have a plan
+The ImageNet dataset, a huge collection of tagged images, has helped computers learn to analyse and describe images over the past decade or more. Will Ego4D do the same for first-person video?
+We may get an idea next year. Facebook has invited the research community to participate in the Ego4D competition in June 2022, and pit their algorithms against the benchmark challenges to see if we can find those keys at last.

@@ -1,0 +1,32 @@
+Human communication goes beyond words. It is complex, rich in nuances and frequently includes non-verbal signs. Yet despite our technological limitations it is not impossible for some aspects of communication to be emulated by a machine with surprising effect.
+This has been part of the challenge in developing Harlie (Human and Robot Language Interaction Experiment), a smartphone chatbot app developed by researchers at the CSIRO and University of Queensland.
+It’s primarily aimed at people who may have trouble conversing including those with neurological conditions such as Parkinson’s disease and dementia, or even autism.
+The following dialog excerpt took place between a human who has autism, let’s call him Chris (pseudonym), and Harlie.
+But Harlie, like all other artificial intelligent (AI) programs, has no concept of community groups, wood work or anything else for that matter. That is to say it has no sentience.
+And alas, sentient chatbots are seemingly light years beyond our reach. But is sentience needed to convey ideas, feelings and activities?
+To some degree no.
+Chatbot programmers or botmasters develop and maintain a large repository of responses to the plethora of input statements that could be made by the user.
+The way most modern chatbots operate is illustrated in this figure.
+Phrases that could be uttered by a human are grouped together to form branches. At the end of the branch, is the leaf, or a a piece of code that is executed by the machine.
+This code could simply be respond with “Hi human” or it could be a machine learning algorithm determining the appropriate response based on current semantics and context.
+This is where the exciting research is happening.
+New branches are added continuously through conversations and feedback with potential customers as Harlie does, or self-learning as was seen in the disastrous example of Microsoft’s social media chatbot Tay, which was shutdown within a day of going live earlier this year after declaring, among other controversial tweets, that “Hitler was right”.
+A more successful use AI was revealed earlier this month in the US. Students actually studying artificial intelligence at Georgia Institute of Technology discovered “Jill”, one of the teaching assistants responding to their emails regarding a course, was actually a computer powered by IBM’s Watson analytics system.
+Jill’s responses were simply based on the answers to questions that previous students had asked about the course. As the college points out, students tend to ask the same questions over and over and after some initial tinkering Jill was able to answer students with about 97% certainty.
+Attempts to create a convincing conversation with a machine have been going on for decades.
+The first chatbot was called ELIZA. Developed in 1966, the  program was created by Joseph Weizenbaum at MIT. This program was unparalleled because for the first time a machine could seemingly converse with a human.
+ELIZA emulated a psychotherapist’s responses to would-be patients in replies generated for typed text-only conversations.
+By identifying key words and phrases ELIZA was able to respond with surprising intelligibility and insight. In fact, it was so highly personified by some users that they would spend hours conversing and refused to share conversation records with researchers.
+This phenomenon become known as the ELIZA effect. An excerpt of a famous ELIZA transcript that was published in 1966 between Eliza and a young woman is given below.
+Since ELIZA, computer power has increased at an exponential rate, but how far have we come towards a next generation of chatbots? Voice recognition is now an accepted part of smartphone technology with Google Now and Apple’s Siri. But what about developments in actual conversations with AI?
+An annual AI competition is held where human judges speak to different chatbots whose developers are seeking the coveted Loebner prize and the deadline for entries this year is Friday July 1. The winner is determined by judges who determine the most human-like chatbot.
+A prominent entry and winner in 2013 was the Mitsuku  chatbot which was designed for more general typed conversation.
+The Mitsuku website provides a Turing test to gauge humans perceptions of the chatbot.
+The human user is either connected to a real human or Mitsuku. Results show, on average, 12% of people thought that were talking to a human when in fact they were talking to a machine.
+Here is a dialog excerpt from Mitsuku showing her seemingly wit:
+Last year’s winner of the Loebner prize was called Rose and it is possible to have a spoken conversation with the chatbot on some web browsers. She too can be quite witty, and talkative too.
+Microsoft’s CEO, Satya Nadella said at an event in March that chatbots will have, “as profound an impact as previous shifts we’ve had”. Much like the shift that occurred with the introduction of the graphical user interface, the web browser or touchscreen.
+But there are numerous challenges ahead and building a convincing chatbot requires enormous amounts of data and time.
+Microsoft’s Tay showed us the dangers of using shortcuts by crowd sourcing unchecked new branches into Tay’s brain.
+In contrast the Mitsuku developer has taken the long road and constantly refined Mitsuku’s digital brain since 2004.
+Nevertheless, the possibility of Harlie helping users who struggle with communication, Mitsuku providing a convincing partner, suggests talking machines may go beyond current smartphone use in making hotel bookings and providing us with directions, and become something much more in the next generation.

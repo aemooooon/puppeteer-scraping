@@ -1,0 +1,41 @@
+Artificial intelligence (AI) is already being used in health care. AI can look for patterns in medical images to help diagnose disease. It can help predict who in a hospital ward might deteriorate. It can rapidly summarise medical research papers to help doctors stay up-to-date with the latest evidence.
+These are examples of AI making or shaping decisions health professionals previously made. More applications are being developed.
+But what do consumers think of using AI in health care? And how should their answers shape how it’s used in the future?
+
+      AI is already being used in healthcare. But not all of it is 'medical grade'
+AI systems are trained to look for patterns in large amounts of data. Based on these patterns, AI systems can make recommendations, suggest diagnoses, or initiate actions. They can potentially continually learn, becoming  better at tasks over time.
+If we draw together international evidence, including our own and that of others, it seems most consumers accept the potential value of AI in health care.
+This value could include, for example, increasing the accuracy of diagnoses or improving access to care. At present, these are largely potential, rather than proven, benefits.
+But consumers say their acceptance is conditional. They still have  serious concerns.
+1. Does the AI work?
+A baseline expectation is AI tools should work well. Often, consumers say AI should be at least as good as a human doctor at the tasks it performs. They say we should not use AI if it will lead to more incorrect diagnoses or medical errors.
+
+      AI chatbots are still far from replacing human therapists
+2. Who’s responsible if AI gets it wrong?
+Consumers also worry that if AI systems generate decisions – such as  diagnoses or treatment plans – without human input, it may be unclear who is responsible for errors. So people often want clinicians to remain responsible for the final decisions, and for protecting patients from harms.
+
+      Who will write the rules for AI? How nations are racing to regulate artificial intelligence
+3. Will AI make health care less fair?
+If health services are already discriminatory, AI systems can learn these patterns from data and repeat or worsen the discrimination. So AI used in health care can make health inequities worse. In our studies consumers said this is not OK.
+
+4. Will AI dehumanise health care?
+Consumers are concerned AI will take the “human” elements out of health care, consistently saying AI tools should support rather than replace  doctors. Often, this is because AI is perceived to lack important human traits, such as empathy. Consumers say the communication skills, care and touch of a health professional are especially important when feeling vulnerable.
+
+      Chatbots for medical advice: three ways to avoid misleading information
+5. Will AI de-skill our health workers?
+Consumers value human clinicians and their expertise. In our research with women about AI in breast screening, women were concerned about the potential effect on radiologists’ skills and expertise. Women saw this expertise as a precious shared resource: too much dependence on AI tools, and this resource might be lost.
+
+The Australian health-care system cannot focus only on the technical elements of AI tools. Social and ethical considerations, including high-quality engagement with consumers and communities, are essential to shape AI use in health care.
+Communities need opportunities to develop digital health literacy: digital skills to access reliable, trustworthy health information, services and resources.
+Respectful engagement with Aboriginal and Torres Strait Islander communities must be central. This includes upholding Indigenous data sovereignty, which the Australian Institute of Aboriginal and Torres Strait Islander Studies describes as:
+This includes any use of data to create AI.
+This critically important consumer and community engagement needs to take place before managers design (more) AI into health systems, before regulators create guidance for how AI should and shouldn’t be used, and before clinicians consider buying a new AI tool for their practice.
+We’re making some progress. Earlier this year, we ran a citizens’ jury on AI in health care. We supported 30 diverse Australians, from every state and territory, to spend three weeks learning about AI in health care, and developing recommendations for policymakers.
+Their recommendations, which will be published in an upcoming issue of the Medical Journal of Australia, have informed a recently released national roadmap for using AI in health care.
+
+      Worried about AI? You might have AI-nxiety – here's how to cope
+Health professionals also need to be upskilled and supported to use AI in health care. They need to learn to be critical users of digital health tools, including understanding their pros and cons.
+Our analysis of safety events reported to the Food and Drug Administration shows the most serious harms reported to the US regulator came not from a faulty device, but from the way consumers and clinicians used the device.
+We also need to consider when health professionals should tell patients an AI tool is being used in their care, and when health workers should seek informed consent for that use.
+Lastly, people involved in every stage of developing and using AI need to get accustomed to asking themselves: do consumers and communities agree this is a justified use of AI?
+Only then will we have the AI-enabled health-care system consumers actually want.

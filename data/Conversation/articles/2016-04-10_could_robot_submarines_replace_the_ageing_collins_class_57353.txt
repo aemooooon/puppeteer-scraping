@@ -1,0 +1,23 @@
+The decision to replace Australia’s submarines has been stalled for too long by politicians afraid of the bad media about “dud subs” the Collins class got last century.
+Collins class subs deserved criticism in the 1990s. They did not meet Royal Australian Navy (RAN) specifications. But in this century, after much effort, they came good. Though they are expensive, Collins class boats have “sunk” US Navy attack submarines, destroyers and aircraft carriers in exercises.
+Now that the Collins class is up for replacement, we have an opportunity to reevaluate our requirements and see what technology might meet them. And just as drones are replacing crewed aircraft in many roles, some military thinkers assume the future of naval war will be increasingly autonomous.
+The advantages of autonomy in submarines are similar to those of autonomy in aircraft. Taking the pilot out of the plane means you don’t have to provide oxygen, worry about g-forces or provide bathrooms and meals for long trips.
+Taking 40 sailors and 20 torpedoes out of a submarine will do wonders for its range and stealth. Autonomous submarines could be a far cheaper option to meet the RAN’s intelligence, surveillance and reconnaissance (ISR) requirements than crewed submarines.
+Submarines do more than sink ships. Naval war is rare but ISR never stops. Before sinking the enemy you must find them and know what they look like. ISR was the original role of drones and remains their primary role today.
+Last month, Boeing unveiled a prototype autonomous submarine with long range and high endurance. It has a modular design and could perhaps be adapted to meet RAN ISR requirements.
+Thus, rather than buy 12 crewed submarines to replace the Collins class, perhaps the project could be split into meeting the ISR requirement with autonomous submarines that can interoperate with a smaller number of crewed submarines that sink the enemy.
+Future submarines might even be “carriers” for autonomous and semi-autonomous UAVs (unmanned aerial vehicles) and UUVs (unmanned undersea vehicles).
+However, while there may be a role for autonomous submarines in the future of naval warfare, there are some significant limitations to what they can achieve today and in the foreseeable future.
+Most of today’s autonomous submarines have short ranges and are designed for very specific missions, such as mine sweeping. They are not designed to sail from Perth to Singapore or Hong Kong, sneak up on enemy ships and submarines and sink them with torpedoes.
+Also, while drone aircraft can be controlled from a remote location, telepiloting is not an option for a long range sub at depth.
+The very low frequency radio transceivers in Western Australia used by the Pentagon to signal “boomers” (nuclear-powered, nuclear-armed submarines) in the Indian Ocean have very low transmission rates: only a few hundred bytes per second.
+You cannot telepilot a submarine lying below a thermocline in Asian waters from Canberra like you can telepilot a drone flying in Afghanistan with high-bandwidth satellite links from Nevada.
+Contemporary telepiloted semi-autonomous submarines are controlled by physical tethers, basically waterproof network cables, when they dive. This limits range to a few kilometres.
+To consider autonomy in the role of sinking the enemy, the RAN would likely want an “ethical governor” to skipper the submarines. This involves a machine making life and death decisions: a “Terminator” as captain so to speak.
+This would present a policy challenge for government and a trust issue for the RAN. It would certainly attract protest and raise accountability questions.
+On the other hand, at periscope depth, you can telepilot a submarine. To help solve the chronic recruitment problems of the Collins class, the RAN connected them to the internet. If you have a satellite “dongle on the periscope” so the crew can email their loved ones, then theoretically you can telepilot the submarine as well.
+That said, if you are sneaking up on an enemy sub and are deep below the waves, you can’t.
+Even if you can telepilot, radio emissions directing the sub’s actions above the waves might give away its position to the enemy. Telepiloting is just not as stealthy as radio silence. And stealth is critical to a submarine in war.
+Telepiloting also exposes the sub to the operational risks of cyberwarfare and jamming.
+There is great technological and political risk in the Future Submarine Project. I don’t think robot submarines can replace crewed submarines but they can augment them and, for some missions, shift risk from vital human crews to more expendable machines.
+Ordering nothing but crewed submarines in 2016 might be a bad naval investment.

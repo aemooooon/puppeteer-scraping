@@ -1,0 +1,37 @@
+I was surprised to hear that a robot named Sophia was granted citizenship by the Kingdom of Saudi Arabia.
+The announcement last week followed the Kingdom’s commitment of US$500 billion to build a new city powered by robotics and renewables.
+One of the most honourable concepts for a human being, to be a citizen and all that brings with it, has been given to a machine. As a professor who works daily on making AI and autonomous systems more trustworthy, I don’t believe human society is ready yet for citizen robots.
+
+      How to make robots that we can trust
+To grant a robot citizenship is a declaration of trust in a technology that I believe is not yet trustworthy. It brings social and ethical concerns that we as humans are not yet ready to manage.
+Sophia is a robot developed by the Hong Kong-based company Hanson Robotics. Sophia has a female face that can display emotions. Sophia speaks English. Sophia makes jokes. You could have a reasonably intelligent conversation with Sophia.
+Sophia’s creator is Dr David Hanson, a 2007 PhD graduate from the University of Texas.
+Sophia is reminiscent of “Johnny 5”, the first robot to become a US citizen in the 1986 movie Short Circuit. But Johnny 5 was a mere idea, something dreamt up by comic science fiction writers S. S. Wilson and Brent Maddock.
+Did the writers imagine that in around 30 years their fiction would become a reality?
+
+Citizenship – in my opinion, the most honourable status a country grants for its people – is facing an existential risk.
+As a researcher who advocates for designing autonomous systems that are trustworthy, I know the technology is not ready yet.
+We have many challenges that we need to overcome before we can truly trust these systems. For example, we don’t yet have reliable mechanisms to assure us that these intelligent systems will always behave ethically and in accordance with our moral values, or to protect us against them taking a wrong action with catastrophic consequences.
+Here are three reasons I think it is a premature decision to grant Sophia citizenship.
+
+Citizenship is granted to a unique identity.
+Each of us, humans I mean, possesses a unique signature that distinguishes us from any other human. When we get through customs without talking to a human, our identity is automatically established using an image of our face, iris and fingerprint. My PhD student establishes human identity by analysing humans’ brain waves.
+
+      We all need to forget, even robots
+What gives Sophia her identity? Her MAC address? A barcode, a unique skin mark, an audio mark in her voice, an electromagnetic signature similar to human brain waves?
+These and other technological identity management protocols are all possible, but they do not establish Sophia’s identity – they can only establish hardware identity. What then is Sophia’s identity?
+To me, identity is a multidimensional construct. It sits at the intersection of who we are biologically, cognitively, and as defined by every experience, culture, and environment we encountered. It’s not clear where Sophia fits in this description.
+
+For the purposes of this article, let’s assume that Sophia the citizen robot is able to vote. But who is making the decision on voting day – Sophia or the manufacturer?
+Presumably also Sophia the citizen is “liable” to pay income taxes because Sophia has a legal identity independent of its creator, the company.
+Sophia must also have the right for equal protection similar to other citizens by law.
+Consider this hypothetical scenario: a policeman sees Sophia and a woman each being attacked by a person. That policeman can only protect one of them: who should it be? Is it right if the policeman chooses Sophia because Sophia walks on wheels and has no skills for self-defence?
+
+      Artificial intelligence researchers must learn ethics
+Today, the artificial intelligence (AI) community is still debating what principles should govern the design and use of AI, let alone what the laws should be.
+The most recent list proposes 23 principles known as the Asilomar AI Principles. Examples of these include: Failure Transparency (ascertaining the cause if an AI system causes harm); Value Alignment (aligning the AI system’s goals with human values); and Recursive Self-Improvement (subjecting AI systems with abilities to self-replicate to strict safety and control measures).
+
+Let’s talk about relationships and reproduction.
+As a citizen, will Sophia, the humanoid emotional robot, be allowed to “marry” or “breed” if Sophia chooses to? Students from North Dakota State University have taken steps to create a robot that self-replicates using 3D printing technologies.
+If more robots join Sophia as citizens of the world, perhaps they too could claim their rights to self-replicate into other robots. These robots would also become citizens. With no resource constraints on how many children each of these robots could have, they could easily exceed the human population of a nation.
+As voting citizens, these robots could create societal change. Laws might change, and suddenly humans could find themselves in a place they hadn’t imagined.

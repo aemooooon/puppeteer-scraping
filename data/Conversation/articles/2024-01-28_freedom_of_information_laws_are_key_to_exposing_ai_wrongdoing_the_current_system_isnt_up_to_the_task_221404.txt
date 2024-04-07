@@ -1,0 +1,27 @@
+There’s been much discussion about how artificial intelligence (AI) will affect every part of our society, from school assignments to the music industry.
+But while policymakers continue to debate how best to regulate AI, there’s a question that’s received little attention: how ready are our freedom of information laws to deal with new technology?
+Freedom of information laws are important because they help keep governments accountable and transparent. Without them, key wrongdoings can remain secret.
+As technology continues to evolve rapidly, it’s time for a fundamental rethink of Australia’s freedom of information regime to make it fit for purpose for 2024 and beyond.
+
+      Australia plans to regulate 'high-risk' AI. Here's how to do that successfully
+You may be wondering what freedom of information (FOI) laws have to do with AI and automation. A good example of how the two work together is the recent Horizon scandal in the United Kingdom.
+This scandal occurred when a computer accounting system called Horizon incorrectly identified shortfalls in the finances of post offices across the UK. The UK Post Office authority prosecuted 700 post office masters as a result of the system’s findings. Some went to prison for fraud and theft, and many others were financially ruined.
+It has been described as “possibly the largest miscarriage of justice in UK history”.
+Importantly, campaigners in the UK made extensive use of FOI to obtain information about the system. For instance, a request by leading campaigner led to the disclosure of a Post Office document that used offensive and racist terms to categorise sub-postmasters under investigation.
+Another FOI request found that government authorities were told of possible problems with the system back in May 2013.
+This debacle should serve as a reminder to Australia of the implications of using AI and automation in government systems.
+It should also cause us to question whether our laws are fit to deal with the particular challenges of technology, especially as Australia’s transparency laws are more restrictive than those in the UK. There is no absolute exemption for cabinet documents in the UK.
+
+      Frank and far-reaching: Senate report recommends shake-up of the way freedom of information is handled
+Regulation of AI in Australia has been in the news recently due to the release of the government’s interim response to the responsible AI consultation.
+While this is an important initiative, comparatively little attention has been given to the need to update some of our key transparency mechanisms.
+For instance, the government has refused to implement an important recommendation from the 2023 Robodebt Royal Commission report. This recommended that the cabinet exemption (the provision that allows cabinet documents to be exempt from disclosure) in the Freedom of Information Act be repealed.
+
+Despite saying it “accepts or accepts in principle all 56 recommendations” of the report, the government didn’t formally accept the freedom of information recommendation. In its response, it said this was due to the need to protect cabinet confidentiality, collective responsibility and the giving of “frank and fearless advice from Ministers and senior public servants”.
+The royal commission report also noted that affected people and advocacy groups faced significant difficulties in obtaining information about the operation of the Robodebt scheme, including via the Freedom of Information Act. These findings are significant because the over-classification of government information was one reason Robodebt was allowed to continue with impunity for so long.
+The increasing use of automation and AI in government requires greater openness with the public. To achieve a balance between transparency and cabinet confidentiality, our paper recommends the following changes:
+But we are also calling for a much larger review and modernisation of the Freedom of Information Act.
+
+      Australians are concerned about AI. Is the federal government doing enough to mitigate risks?
+The laws were passed in 1982, when hard copy documents were the norm and government online processes were in their infancy. Although it has been subject to some minor amendments since then, it has not yet been subject to a major overhaul to recognise the enormous technological advances that have occurred.
+As we and others previously argued in a 2020 paper on technology and the law, future reforms should include expanding the scope of the Act to allow for greater openness and reducing the exemptions for trade secrets (to allow for disclosure of the commercial information used for automated technologies). We have also suggested that governmental agencies should be obliged to be more proactive in disclosing the details of the automated technologies they have used. This will assist in making our FOI regime fit for purpose - in 2024 and beyond.

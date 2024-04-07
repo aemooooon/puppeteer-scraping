@@ -9,14 +9,19 @@ const baseUrl = "https://www.bbc.com";
 const extractArticle = async (item) => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    page.on('response', async response => {
+    page.on("response", async (response) => {
         const status = response.status();
         if (status === 429) {
-            console.log('Server returned 429 - Too Many Requests');
+            console.log("Server returned 429 - Too Many Requests");
             await sleep(3000);
         }
     });
-    await page.goto(baseUrl + item.path, { waitUntil: "networkidle2" }, { waitUntil: "domcontentloaded" }, { timeout: 180000 });
+    await page.goto(
+        baseUrl + item.path,
+        { waitUntil: "networkidle2" },
+        { waitUntil: "domcontentloaded" },
+        { timeout: 180000 }
+    );
     const articleContent = await page.$$eval("main.app>section>p", (elements) => {
         return elements
             .slice(0, -1)

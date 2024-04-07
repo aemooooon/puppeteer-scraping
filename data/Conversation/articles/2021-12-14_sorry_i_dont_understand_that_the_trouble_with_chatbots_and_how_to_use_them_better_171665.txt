@@ -1,0 +1,31 @@
+Hands up if you’ve ever cursed, mocked or yelled at a chatbot. No surprise if you have. Those automated “helpers” – supposedly designed to make customer service smarter, faster and more efficient – can certainly be a source of frustration for sentient beings.
+Interactions with chatbots have become increasingly common in our daily lives. But when asking for information or trying to solve a problem, we’re often annoyed when the chatbot either can’t understand or misinterprets our inquiry.
+Even worse is when it advises us to contact the call centre or visit a web page, which defeats the purpose of using chatbots in the first place.
+There are two main reasons for negative user experiences. First, organisations often present the chatbot as too “human”, leading to unrealistic expectations about the chatbot’s ability to understand human language, including nuanced questions and commands.
+Second, many chatbots are rule-based and have a narrow knowledge base, which means grammatical and syntactical errors can throw them off and complex questions often can’t be answered, disappointing customers.
+Although it’s easy to blame the chatbot for a miserable experience, we need to realise that, just as it takes two hands to clap, it takes both chatbot and customer to create a satisfactory interaction.
+While previous studies have focused mainly on the chatbot, including why companies implement them and the design cues that characterise them, there hasn’t been much consideration of the customer’s role in these interactions.
+
+      AI shop assistants: get ready for a world where you can't tell humans and chatbots apart
+In our latest research, we put the spotlight on how customers deal with chatbots and suggest ways to improve the experience.
+We find that to create constructive, meaningful engagement with a chatbot, the actions and reactions of the customer and a willingness to make it work are as important as the chatbot’s own functionality.
+We identified six distinct types of human-chatbot interactions: socialising, collaborating, challenging, accommodating, committing, and redirecting.
+These vary depending on who is driving the conversation (the chatbot or the customer), how “real” they perceive each other to be, their social cues, and the customer’s effort.
+In the case of socialising, the chatbot tries to entertain the customer – for example, by telling jokes or trying to cheer them up if they detect a bad mood.
+
+      Do chatbots have a role to play in suicide prevention?
+Collaborating interactions are those conversations where both the chatbot and the customer work together on the customer’s needs, such as booking a flight or understanding the root cause of a problem and identifying solutions.
+Both socialising and collaborating interactions involve smooth exchanges between the chatbot and customer and mostly lead to positive outcomes.
+Accommodating interactions are ones where the customer is in the driver’s seat, helping the chatbot understand their needs by changing the way they phrase the question or statement, repeating their request or clarifying their intent.
+On the flip side, a committing interaction sees the chatbot more engaged than the customer, trying to provide an answer to a question or solving a customer’s problem.
+In those cases, chatbots often ask follow-up questions and provide additional information that might be relevant. These two types of interactions, however, often leave customers without the required information.
+
+      Banking with a chatbot: a battle between convenience and security
+In some cases, people see the novelty of chatbots as an open invitation to challenge them and see when it breaks. This type of interaction usually leads nowhere, since most chatbots aren’t trained for off-topic questions such as “do you want to marry me?” or “what is the meaning of life?”.
+Lastly, when redirecting a customer, chatbots act more like a navigator, pointing to alternative information sources such as the company’s website, and don’t directly respond to inquiries. These interactions are very short and may not be an ideal outcome for the customer.
+Based on our research, we provide three tips for your next encounter with a chatbot:
+
+      We invited an AI to debate its own ethics in the Oxford Union – what it said was startling
+The introduction of chatbots has redefined the way customers, employees and technology interact, and we encourage organisations to take a holistic view of their customer service systems when redesigning them.
+Careful consideration should be given to the changing role of customer service employees who need to work with chatbots. Additionally, we recommend organisations:
+The authors acknowledge the contribution of Thai Ha Nguyen in the preparation of this article and the original journal article on which it is based.

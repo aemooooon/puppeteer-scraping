@@ -1,0 +1,37 @@
+Artificial intelligence (AI) relies on its creators for training, otherwise known as “machine learning.” Machine learning is the process by which the machine generates its intelligence through outside input.
+But its behaviour is determined by the information it is provided. And at the moment, AI is a white male dominated field.
+How can we ensure the evolution of AI doesn’t further encroach on Indigenous rights and data sovereignty?
+AI has the ability to generate art, and anyone can “create” Indigenous art using this machine. Even before AI, Aboriginal art has widely been appropriated and reproduced without attribution or acknowledgement, particularly for tourism industries.
+And this could worsen with people now being able to generate art through AI. This is an issue not just experienced by Indigenous people, with many artists affected by their art styles being misappropriated.
+Indigenous art is embedded with history and connects to culture and Country. AI-created Indigenous art would lack this. There are also implications for financial gain bypassing Indigenous artists and going to the producers of the technology.
+Including Indigenous people in creating AI or deciding what AI can learn, could help minimise exploitation of Indigenous artists and their art.
+
+      AI can reinforce discrimination — but used correctly it could make hiring more inclusive
+In Australia there is a long history of collecting data about Aboriginal and Torres Strait Islander people. But there has been little data collected for or with Aboriginal and Torres Strait Islander people. Aboriginal scholars Maggie Walter and Jacon Prehn write of this in the context of the growing Indigenous Data Sovereignty movement.
+Indigenous Data Sovereignty is concerned with the rights of Indigenous peoples to own, control, access and possess their own data, and decide who to give it to. Globally, Indigenous peoples are pushing for formal agreements on Indigenous Data Sovereignty.
+
+Many Indigenous people are concerned with how the data involving our knowledges and cultural practices is being used. This has resulted in some Indigenous lawyers finding ways to integrate intellectual property with cultural rights.
+Māori scholar Karaitiana Taiuru says:
+
+Indigenous people are already collaborating on research that draws on Indigenous knowledges and involves AI.
+In the wetlands of Kakadu, rangers are using AI and Indigenous knowledges to care for Country.
+A weed called para grass is having a negative impact on magpie geese, which have been in decline. While the Kakadu rangers are doing their best to control the issue, the sheer size of the area (two million hectares), makes this difficult.
+Collecting and analysing information about magpie geese and the impact of para grass using drones is having a positive influence on goose numbers.
+Projects like these are vital given the loss of biodiversity around the globe that is causing species extinctions and ecosystem loss at alarming rates. As a result of this collaboration thousands of magpie geese are returning to Country to roost.
+This project involves Traditional land owners (collectively known as Bininj in the north of Kakadu National Park and Mungguy in the south) working with rangers and researchers to help protect the environment and preserve biodiversity.
+By working with Traditional Owners, monitoring systems were able to be programmed with geographically-specific knowledge, not otherwise recorded, reflecting the connection of Indigenous people with the land. This collaboration highlights the need to ensure Indigenous-led approaches.
+In another example, in Sanikiluaq, an Inuit community in Nunavut, Canada, a project called PolArtic uses scientific data with Indigenous knowledges to assess the location of, and manage, fisheries.
+Changing climate patterns are affecting the availability of fish, and this is another example where Indigenous knowledges are providing solutions for biodiversity issues caused by the global climate crisis.
+
+Indigital is an Indigenous-owned profit-for-purpose company founded by Dharug, Cabrogal innovator Mikaela Jade. Jade has worked with traditional owners of Kakadu to use augmented reality to tell their stories on Country.
+
+Indigital is also providing pathways for mob who are keen to learn more about digital technologies and combine them with their knowledges.
+
+      How should Australia capitalise on AI while reducing its risks? It's time to have your say
+Although AI is a powerful tool, it is limited by the data which inform it. The success of the above projects is because AI was informed by Indigenous knowledges, provided by Indigenous knowledge holders who have a long held ancestral relationship with the land, animals and environment.
+Research indicates AI is a white male-dominated industry. A global study found 12% of professionals across all levels were female, with only 4% being people of colour. Indigenous participation was not noted.
+In early June, the Australian government’s Safe and Responsible AI in Australia discussion paper found racial and gender biases evident in AI. Racial biases occurred, the paper found, in situations such as where AI had been used to predict criminal behaviour.
+The purpose of the study was to seek feedback on how to lessen potential risks of harm from AI. Advisory groups and consultation processes were raised as possibilities to address this, but not explored in any real depth.
+Indigenous knowledges have a lot to offer in the development of new technologies including AI. Art is part of our cultures, ceremonies, and identity. AI-generated art presents the risk of mass reproduction without Indigenous input or ownership, and misrepresentation of culture.
+
+The federal government needs to consider Indigenous Knowledges informing the machine learning informing AI, supporting data sovereignty. There is an opportunity for Australia to become a global leader in pursuing technology advancement ethically.

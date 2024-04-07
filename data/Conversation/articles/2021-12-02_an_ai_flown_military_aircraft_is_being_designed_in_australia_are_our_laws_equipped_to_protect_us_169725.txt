@@ -1,0 +1,35 @@
+In September, Boeing announced it would design and build a new military aircraft in Queensland, a first in Australia for over 50 years.
+The “Loyal Wingman” is an uncrewed craft that flies in teams with other crewed and uncrewed aircraft to provide surveillance and reconnaissance support to a mission. But it could also be fitted with weapons. It completed its first test flight in March and plans are to have the production facility up and running in just a few years.
+Although a lot of defence forces have used uncrewed aircraft (including drones) for a long time, they have primarily been remotely piloted from the ground. The test of the Loyal Wingman involved pre-programmed flying with human oversight.
+However, the Loyal Wingman is ultimately being designed to use artificial intelligence to complete flights without real-time human oversight.
+This raises questions of whether our laws are adequate to protect us from a host of concerns involving health, safety and data collection when autonomous aircraft systems are in the skies.
+
+Defence forces around the world are investing heavily in these types of artificial intelligence technologies.
+Unlike remotely piloted systems that require sizeable teams on the ground, these craft can be deployed in large numbers by small teams. This could exponentially increase the size of a country’s air force – an invaluable thing.
+Further, these uncrewed aircraft are a fraction of the cost of one flown by a human crew. So, while they are not designed to be disposable (they still cost a few million dollars each), they are ultimately expendable in return for the right military advantage.
+Although current spending on autonomous projects in Australia is small in relation to the overall defence budget, it is increasing.
+Defence leaders are increasingly becoming aware of both the opportunities these systems present to the Australian Defence Force (ADF), as well as the challenges posed by other militaries exploiting them.
+The Loyal Wingman test flight took place at the remote South Australian Woomera Range Complex. The new drone test facility at Cloncurry, Queensland, will also likely host test flights in the future. That facility is specifically designed to support the testing of new autonomous military technologies.
+But what happens when the crafts need to move beyond these specially equipped facilities in remote areas? What does this mean for everyday Australians?
+Occasionally, we see tanks and other military vehicles on our roads. We see warships in our ports and hear fighter jets in our skies. We know that while these military vehicles have a war-fighting role, they also need to exist safely in our communities. This allows the ADF to train with them or move them between military bases, as well as to training or conflict zones.
+
+There are a number of legal considerations for the design and deployment of any uncrewed autonomous military aircraft in our skies. These include privacy, noise, occupational health and safety, the environment and public liability.
+For instance, our defence aviation safety regulations, set by the Defence Aviation Safety Authority in the Department of Defence, would need to be amended to allow these types of craft to be flown over Australia (currently only remotely piloted craft can be) and to determine whether they could be weaponised.
+Although amending the regulations is a relatively simple process – they are updated every six months – such a significant policy shift cannot be undertaken lightly or without consideration of the wider implications of allowing autonomous devices in our skies.
+
+      The self-driving trolley problem: how will future AI systems make the most ethical choices for all of us?
+Then there’s the personal data these craft could inadvertently collect through their surveillance and reconnaissance sensors while in the sky.
+The Australian privacy principles outlined in the Privacy Act 1988 cover incidentally collected information such as this. Although this is also an issue for crewed aircraft, the sheer volume of data that could potentially be collected from a large number of uncrewed, autonomous aircraft rings alarms bells.
+This could require the ADF to report data breaches to those whose information is collected, and even pay compensation.
+There are also environmental concerns, such as the possibility of an uncrewed autonomous aircraft unintentionally starting a bushfire on the ground.
+In Germany, strict aviation rules contributed to the abandonment of one very expensive, autonomous, military drone project because the craft could not obtain clearance to fly in civil aviation airspace due to safety concerns.
+
+Australia is only starting to consider these issues. For example, a current project is working on new standards for designing, testing and operating autonomous aircraft safely in the skies. This is primarily focused on commercial drones, but could set best practices for all autonomous craft.
+The military is not always covered by the same rules as the rest of us. There are lots of exclusions for ADF members from the general application of Australian laws.
+This means military vehicles and technologies can be excluded from certain government inquiries. For example, the recent federal government review into aircraft noise did not cover military drones.
+
+      Six ways robots are used today that you probably didn't know about
+New civilian technologies in Australian skies have already faced a host of questions. For example, the Google Wing delivery drone designers have had to take measures to deal with noise concerns (and swooping ravens)) in the Brisbane and Canberra suburbs where they are currently operating. Safety concerns have also had to be carefully considered.
+The law is constantly being updated to keep pace with technology. For instance, a court recently set an important precedent by ruling that artificial intelligence systems can be legally recognised as an inventor in patent applications.
+It’s not unreasonable to imagine circumstances could require a change to some defence safety aviation rules to allow for greater use of artificial intelligence in our skies.
+Over the coming years, much thought will need to go into ensuring the ADF can safely and effectively get their autonomous craft to the starting line in a way that is workable under the Australian legal system and for the Australian public.

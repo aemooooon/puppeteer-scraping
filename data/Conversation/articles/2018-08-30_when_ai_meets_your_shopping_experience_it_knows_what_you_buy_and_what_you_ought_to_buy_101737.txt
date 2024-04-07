@@ -1,0 +1,46 @@
+Whether you do your shopping online or in store, your retail experience is the latest battleground for the artificial intelligence (AI) and machine learning revolution.
+Major Australian retailers have begun to realise that they have a lot to gain from getting their AI strategy right, with one currently recruiting for a Head of AI and Machine Learning supported by a team of data scientists.
+
+      Ethics by numbers: how to build machine learning that cares
+The newly developed Woolworths division WooliesX aims to bring together a diverse group of teams, including technology, customer digital experience, e-commerce, financial services and digital customer experience.
+To understand the opportunities and threats for all major retailers, it’s useful to understand why artificial intelligence is back on the agenda. Two crucial things have changed since the initial forays into AI decades ago: data and computing power.
+Computing power is easy to see. The smartphone in your hand has millions of times more computational power than the bulky computers of decades ago. Companies have access to almost unlimited computing power with which to train their AI algorithms.
+The other critical ingredient is the scale and richness of data available, especially in retail.
+Artificial intelligence systems – especially learning techniques such as machine learning – thrive on large, rich data sets. When fed appropriately with this data, these systems discover trends, patterns, and correlations that no human analyst could ever hope to discover manually.
+These machine learning approaches automate data analysis, enabling users to create a model that can then make useful predictions about other similar data.
+The rapidity of AI deployment in different fields depends on a few critical factors: retail is particularly suitable for a few reasons.
+The first is the ability to test and measure. With appropriate safeguards, retail giants can deploy AI and test and measure consumer response. They can also directly measure the effect on their bottom line fairly quickly.
+The second is the relatively small consequences of a mistake. An AI agent landing a passenger aircraft cannot afford to make a mistake because it might kill  people. An AI agent deployed in retail that makes millions of decisions every day can afford to make some mistakes, as long as the overall effect is positive.
+Some smart robot technology is already happening in retail with Nuro.AI partnering with grocery behemoth Kroger to deliver groceries to customers’ doorsteps in the United States.
+But many of the most significant changes will come from deployment of AI rather than physical robots or autonomous vehicles. Let’s go through a few AI-based scenarios that will transform your retail experience.
+AI can detect underlying patterns in your shopping behaviour from the products you buy and the way in which you buy them.
+This could be your regular purchases of rice from the supermarket, sporadic purchases of wine from the liquor store, and Friday night binges on ice cream at the local convenience store.
+Whereas inventory and sales database systems simply track purchases of individual products, with sufficient data, machine learning systems can predict your regular habits. It knows you like cooking risotto every Monday night, but also your more complex behaviour like the occasional ice cream binge.
+At a larger scale, analysis of the behaviour of millions of consumers would enable supermarkets to predict how many Australian families cook risotto every week. This would inform inventory management systems, automatically optimising stocks of Arborio rice, for example, for stores with lots of risotto consumers.
+This information would then be shared with friendly suppliers, enabling more efficient inventory management and lean logistics.
+Traditional loyalty scheme databases like FlyBuys enabled supermarkets to identify your frequency of purchase of a particular product – such as you buying Arborio rice once a week – and then send an offer to a group of consumers who were identified as “about to buy Arborio rice”.
+New marketing techniques will move beyond promoting sales to customers who are already likely to buy that product anyway. Instead, machine learning recommenders will promote garlic bread, tiramisu or other personalised product recommendations that data from thousands of other consumers has suggested often go together.
+Efficient marketing means less discounting, and more profit.
+The pricing challenge for supermarkets involves applying the right price and the right promotion to the right product.
+Retail pricing optimisation is a complex undertaking, requiring data analysis at a granular level for each customer, product and transaction.
+To be effective, endless factors need to be examined, like how sales are impacted by changing price points over time, seasonality, weather and competitors’ promotions.
+A well-crafted machine learning program can factor in all of these variations, combining them with additional details such as purchase histories, product preferences and more to develop deep insights and pricing tailored to maximise revenue and profit.
+Historically, customer feedback was attained via feedback cards, filled out and placed in a suggestions box. This feedback had to be read and acted upon.
+As social media increased, it became a platform to express feedback publicly. Accordingly, retailers turned to social media scraping software in order to respond, resolve and engage customers in conversation.
+Moving forward, machine learning will play a role in this context. Machine learning and AI systems will enable for the first time bulk analysis of multiple sources of messy, unstructured data, such as customer recorded verbal comments or video data.
+
+      Angry social media posts are never a good idea. How to keep them in check
+Australian retailers lose an estimated A$4.5 billion annually in stock losses. The growth in self-service registers is contributing to those losses.
+Machine learning systems have the ability to effortlessly scan millions of images, enabling smart, camera-equipped point of sale (POS) systems to detect the different varieties of fruits and vegetables shoppers place on register scales.
+Over time, systems will also get better at detecting all the products sold at a store, including a task called fine-grained classification, enabling it to tell the difference between a Valencia and Navel orange. Hence there would be no more “mistakes” in entering potatoes when you are actually buying peaches.
+In the longer term, POS systems may disappear completely, as in the case of the Amazon Go store.
+
+      The economics of self-service checkouts
+Machine learning systems are rapidly getting better at translating your natural voice into grocery lists.
+Digital assistants such as Google Duplex may soon create shopping lists and place orders for you, with French retailer Carrefour and US giant Walmart already partnering with Google.
+As you move through life stages you get older, occasionally get unwell, you may get married, perhaps have kids, or change careers. As life circumstances and spending habits of a customer change, models will automatically adjust, as they already do in areas like fraud detection.
+
+      Location and voice technology are the future of retail
+The current reactive system involves waiting for a customer to start buying nappies, for example, to then identify that customer as having just started a family, before following up with appropriate product recommendations.
+Instead, machine learning algorithms may model behaviour, such as the purchases of folate vitamins and bio oils, then predict when offers should be sent.
+This shift from reactive to predictive marketing could change the way you shop, bringing you suggestions you perhaps never even considered, all possible because of AI-related opportunities for both retailers and their customers.

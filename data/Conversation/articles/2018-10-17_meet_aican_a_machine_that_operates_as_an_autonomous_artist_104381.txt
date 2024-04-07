@@ -1,0 +1,35 @@
+Leer en español.
+When artificial intelligence has been used to create works of art, a human artist has always exerted a significant element of control over the creative process.
+But what if a machine were programmed to create art on its own, with little to no human involvement? What if it were the primary creative force in the process? And if it were to create something novel, engaging and moving, who should get credit for this work?
+At Rutgers’ Art & AI Lab, we created AICAN, a program that could be thought of as a nearly autonomous artist that has learned existing styles and aesthetics and can generate innovate images of its own.
+People genuinely like AICAN’s work, and can’t distinguish it from that of human artists. Its pieces have been exhibited worldwide, and one even recently sold for $16,000 at an auction.
+When designing the algorithm, we adhered to a theory proposed by psychologist Colin Martindale.
+He hypothesized that many artists will seek to make their works appealing by rejecting existing forms, subjects and styles that the public has become accustomed to. Artists seem to intuitively understand that they’re more likely to arouse viewers and capture their attention by doing something new.
+In other words, novelty reigns.
+So when programming AICAN, we used an algorithm called the “creative adversarial network,” which compels AICAN to contend with two opposing forces. On one end, it tries to learn the aesthetics of existing works of art. On the other, it will be penalized if, when creating a work of its own, it too closely emulates an established style.
+At the same time, AICAN adheres to what Martindale calls the “least effort” principle, in which he argues that too much novelty will turn off viewers.
+This ensures that the art generated will be novel but won’t depart too much from what’s considered acceptable. Ideally, it will create something new that builds off what already exists.
+As for our role, we don’t select specific images to “teach” AICAN a certain aesthetic or style, as many artists who create AI art will do.
+Instead, we’ve fed the algorithm 80,000 images that represent the Western art canon over the previous five centuries. It’s somewhat like an artist taking an art history survey course, with no particular focus on a style or genre.
+At the click of a button, the machine can create an image that can then be printed. The works will often surprise us in their range, sophistication and variation.
+Using our prior work on quantifying creativity, AICAN can judge how creative its individual pieces are. Since it has also learned the titles used by artists and art historians in the past, the algorithm can even give names to the works it generates. It named one “Orgy”; it called another “The Beach at Pourville.”
+The algorithm favors generating more abstract works than figurative ones. Our research on how the machine is able to understand the evolution of art history could offer an explanation. Because it’s tasked with creating something new, AICAN is likely building off more recent trends in art history, like abstract art, which came into vogue in the 20th century.
+There was still the question of how people would respond to AICAN’s work.
+To test this, we showed subjects AICAN images and works created by human artists that were showcased at Art Basel, an annual fair that features cutting-edge contemporary art. We asked the participants whether each was made by a machine or an artist.
+We found that humans couldn’t tell the difference: Seventy-five percent of the time, they thought the AICAN-generated images had been produced by a human artist.
+They didn’t simply have a tough time distinguishing between the two. They genuinely enjoyed the computer-generated art, using words like “having visual structure,” “inspiring” and “communicative” when describing AICAN’s work.
+Beginning in October 2017, we started exhibiting AICAN’s work at venues in Frankfurt, Los Angles, New York City and San Francisco, with a different set of images for each show.
+At the exhibitions, we heard one question, time and again: Who’s the artist?
+As a scientist, I created the algorithm, but I have no control over what the machine will generate.
+The machine chooses the style, the subject, the composition, the colors and the texture. Yes, I set the framework, but the algorithm is fully at the helm when it comes to the elements and the principles of the art it generates.
+For this reason, in the all exhibitions where the art was shown, I gave credit solely to the algorithm – “AICAN” – for each artwork. At Miami’s Art Basel this December, eight pieces, also credited to AICAN, will be shown.
+The first artwork that was offered for sale from the AICAN collection, which AICAN titled “St. George Killing the Dragon,” was sold for $16,000 at an auction in New York in November 2017. (Most of the proceeds went to fund research at Rutgers and the Institut des Hautes Etudes Scientifiques in France.)
+Still, there’s something missing in AICAN’s artistic process.
+The algorithm might create appealing images. But it lives in an isolated creative space that lacks social context.
+Human artists, on the other hand, are inspired by people, places and politics. They make art to tell stories and make sense of the world.
+AICAN lacks any of that. It can, however, generate artwork that human curators can then ground in our society and connect to what’s happening around us. That’s just what we did with “Alternative Facts: The Multi Faces of Untruth,” a title we gave to a series of portraits generated by AICAN that struck us with its timely serendipity.
+Of course, just because machines can almost autonomously produce art, it doesn’t mean they will replace artists. It simply means that artists will have an additional creative tool at their disposal, one they could even collaborate with.
+I often compare AI art to photography. When photography was first invented in the early 19th century, it wasn’t considered art – after all, a machine was doing much of the work.
+The tastemakers resisted, but eventually relented: A century later, photography became an established fine art genre. Today, photographs are exhibited in museums and auctioned off at astronomical prices.
+I have no doubt that art produced by artificial intelligence will go down the same path.
+To read “When the Line Between Machine and Artist Becomes Blurred,” the first part of this two-part series on AI art, click here.

@@ -1,0 +1,23 @@
+The question of whether technology is good or bad depends on how it’s developed and used. Nowhere is that more topical than in technolgies using artificial intelligence.
+When developed and used appropriately, artificial intelligence (AI) has the potential to transform the way we live, work, communicate and travel.
+New AI-enabled medical technologies are being developed to improve patient care. There are persuasive indications that autonomous vehicles will improve safety and reduce the road toll. Machine learning and automation are streamlining workflows and allowing us to work smarter.
+
+      To protect us from the risks of advanced artificial intelligence, we need to act now
+Around the world, AI-enabled technology is increasingly being adopted by individuals, governments, organisations and institutions. But along with the vast potential to improve our quality of life, comes a risk to our basic human rights and freedoms.
+Appropriate oversight, guidance and understanding of the way AI is used and developed in Australia must be prioritised.
+AI gone wild may conjure images of The Terminator and Ex Machina movies, but it is much simpler, fundamental issues that need to be addressed at present, such as:
+That’s why, in partnership with government and industry, we’ve developed an ethics framework for AI in Australia. The aim is to catalyse the discussion around how AI should be used and developed in Australia.
+The ethical framework looks at various case studies from around the world to discuss how AI has been used in the past and the impacts that it has had. The case studies help us understand where things went wrong and how to avoid repeating past mistakes.
+We also looked at what was being done around the world to address ethical concerns about AI development and use.
+Based on the core issues and impacts of AI, eight principles were identified to support the ethical use and development of AI in Australia.
+In addition to the core principles various toolkit items are identified in the framework that could be used to help support these principles. These include impact assessments, ongoing monitoring and public consultation.
+But principles and ethical goals can only go so far. At some point we will need to get to work on deciding how we are going to implement and achieve them.
+There are various complexities to consider when discussing the ethical use and development of AI. The vast reach of the technology has potential to impact every facet of our lives.
+AI applications are already in use across households, businesses and governments, most Australians are already being impacted by them.
+There is a pressing need to examine the effects that AI has on the vulnerable and on minority groups, making sure we protect these individuals and communities from bias, discrimination and exploitation. (Remember Tay, the racist chatbot?)
+There is also the fact that AI used in Australia will often be developed in other countries, so how do we ensure it adheres to Australian standards and expectations?
+The framework explores these issues and forms some of Australia’s first steps on the journey towards the positive development and use of AI. But true progress needs input from stakeholders across government, business, academia and broader society.
+
+      Careful how you treat today's AI: it might take revenge in the future
+That’s why ethical framework discussion paper is now open to public comment. You have until May 31, 2019, to have your say in Australia’s digital future.
+With a proactive approach to the ethical development of AI, Australia can do more than just mitigate against any risks. If we can build AI for a fairer go, we can secure a competitive advantage as well as safeguard the rights of Australians.

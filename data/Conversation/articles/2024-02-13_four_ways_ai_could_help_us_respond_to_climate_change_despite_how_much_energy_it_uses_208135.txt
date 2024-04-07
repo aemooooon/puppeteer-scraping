@@ -1,0 +1,22 @@
+Advanced AI systems are coming under increasing critcism for how much energy they use. But it’s important to remember that AI could also contribute in various ways to our response to climate change.
+Climate change can be broken down into several smaller problems that must be addressed as part of an overarching strategy for adapting to and mitigating it. These include identifying sources of emissions, enhancing the production and use of renewable energy and predicting calamities like floods and fires.
+My own research looks at how AI can be harnessed for predicting greenhouse gas emissions from cities and farms or 
+to understand changes in vegetation, biodiversity and terrain from satellite images.
+Here are four different areas where AI has already managed to master some of the smaller tasks necessary for a wider confrontation with the climate crisis.
+AI could help reduce energy-related emissions by more accurately forecasting energy supply and demand.
+AI can learn patterns in how and when people use energy. It can also accurately forecast how much energy will be generated from sources like wind and solar depending on the weather and so help to maximise the use of clean energy.
+For example, by estimating the amount of solar power generated from panels (based on sunlight duration or weather conditions), AI can help plan the timing of laundry or charging of electric vehicles to help consumers make the most of this renewable energy. On a grander scale, it could help grid operators pre-empt and mitigate gaps in supply.
+Researchers in Iran used AI to predict the energy consumption of a research centre by taking account of its occupancy, structure, materials and local weather conditions. The system also used algorithms to optimise the building’s energy use by proposing appropriate insulation measures and heating controls and how much lighting and power was necessary based on the number of people present, ultimately reducing it by 35%.
+
+      AI is supposed to make us more efficient –  but it could mean we waste more energy
+Transport accounts for roughly one-fifth of global CO₂ emissions. AI models can encourage green travel options by suggesting the most efficient routes for drivers, with fewer hills, less traffic and constant speeds, and so minimise emissions.
+An AI-based system suggested routes for electric vehicles in the city of Gothenburg, Sweden. The system used features like vehicle speed and the location of charging points to find optimal routes that minimised energy use.
+Studies have shown that better farming practices can reduce emissions. AI can ensure that space and fertilisers (which contribute to climate change) are used sparingly.
+By predicting how much of a crop people will buy in a particular market, AI can help producers and distributors minimise waste. A 2017 study conducted by Stanford University in the US even showed that advanced AI models can predict county-level soybean yields.
+This was possible using images from satellites to analyse and track the growth of crops. Researchers compared multiple models to accurately predict crop yields and the best performing one could predict a crop’s yield based on images of growing plants and other features, including the climate.
+Knowing a crop’s probable yield weeks in advance can help governments and agencies plan alternative means of procuring food in advance of a bad harvest.
+The prediction and management of disasters is a field where AI has made major contributions. AI models have studied images from drones to predict flood damage in the Indus basin in Pakistan.
+The system is also useful for detecting the onset of a flood, helping with real-time rescue operation planning. The system could be used by government authorities to plan prompt relief measures.
+These potential uses don’t erase the problem of AI’s energy consumption, however, To ensure AI can be a force for good in the fight against climate change, something will still have to be done about this.
+Don’t have time to read about climate change as much as you’d like?
+Get a weekly roundup in your inbox instead. Every Wednesday, The Conversation’s environment editor writes Imagine, a short email that goes a little deeper into just one climate issue. Join the 30,000+ readers who’ve subscribed so far.

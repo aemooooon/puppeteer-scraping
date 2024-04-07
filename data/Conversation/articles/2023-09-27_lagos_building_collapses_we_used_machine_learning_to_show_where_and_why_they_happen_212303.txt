@@ -1,0 +1,27 @@
+Building collapses have become a major menace in Lagos, Nigeria. Lagos is the business hub of the country and has its largest seaport and airport. With an estimated population of 15.4 million, it is the largest city in sub-Saharan Africa and the second largest in Africa after Cairo.
+The city has two distinct geographical areas: Lagos Island and Lagos Mainland, connected by three bridges. Lagos Island is the historical nucleus of the city. This area is renowned for its eclectic mix of architectural styles, a blend of modern skyscrapers, remnants of colonial-era structures and bustling traditional markets. It serves as the centre of the city’s financial, entertainment and corporate activities. Ikoyi, Victoria Island and Lekki are popularly regarded as an extension of Lagos Island.
+Lagos Mainland has residential areas, markets and industrial zones.
+There have been numerous building collapses in both areas.
+Using machine learning techniques, we built a model that ranked the factors affecting building construction collapses in order of relevance. We also modelled the number of casualties by location.
+
+      Knowing what leads to building collapses can help make African cities safer
+The study classified causes of building collapses into human factors, natural disasters and unspecified causes. Human factors included sub-standard material, structural defects, onsite changes of plan, bad supervision, demolition processes, non-adherence to building standards and regulations, lack of geotechnical information, poor maintenance, construction defects and overload.
+Based on our results we made two findings.
+First, location was the most relevant factor contributing to building collapses in Lagos. We found that more buildings collapsed on the island than on the mainland.
+Second, building collapses on the mainland had a higher number of casualties than those on the island.
+Based on our findings, we recommended proper onsite geotechnical inspection before the start of construction in both locations.
+Our study showcased the applicability of supervised machine learning models for a range of purposes. Supervised machine learning models are algorithms that learn from labelled data, where the input (features) and corresponding desired output (labels or targets) are provided. These models are trained to recognise patterns and relationships in the data, allowing them to make predictions or classifications on new, unseen data.
+Our study provided a comprehensive analysis of building collapse statistics in Lagos from 2000 to 2021. The buildings ranged from bungalows to multi-storey buildings and skyscrapers.
+On average, four buildings collapse each year, resulting in approximately 31 casualties annually.
+The highest number of collapses occurred in 2011, with 10 buildings involved, followed by 2000 and 2006, with nine each. The peak casualty count, 140, occurred in 2014. It was concentrated in the Ikotun-Egbe area of the Lagos mainland.
+Our model suggested that the higher number of collapses on the island was due to the soil there. The island soil’s geotechnical properties give it poorer  capacity to bear building loads.
+We identified three factors for the higher number of deaths from building collapses on the mainland:
+Our study emphasised the importance of understanding the causes of building collapses in Lagos, and the potential of machine learning algorithms for prediction.
+We made a number of recommendations.
+First, that it is important to carry out basic soil investigation using the right professionals and building engineers to ascertain the geological properties or bearing capacity of the soil.
+This information would clearly identify the type of building that the soil can support.
+Second, assigning the right job to the right professional is paramount. For instance, the job of a civil engineer should not be assigned to an architect.
+Third, eradication of substandard materials is key to a durable structure.
+Fourth, many property owners add extra floors and extensions to maximise profit. Yet the higher the building, the deeper the foundation. Geotechnical properties of the soil will determine the choice and quality of the foundation. In addition, location should determine the choice of a building foundation.
+Last, there should be policies in place to enhance proper onsite geotechnical inspection.
+We also recommend the use of machine learning for predicting building collapses.

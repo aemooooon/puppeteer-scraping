@@ -1,0 +1,37 @@
+For the first time in 60 years, the Writers Guild of America (WGA) and the Screen Actors Guild (SAG) are simultaneously facing off against the Alliance of Motion Picture and Television Producers.
+The key points of contention? Working conditions, adequate pay, and the increasing encroachment of artificial intelligence (AI) into their professions.
+The use of AI in the film and television industry isn’t new. Many common post-production techniques use AI technology in special effects, colour grading, animation and video editing.
+Not only was the Lord of the Rings trilogy a defining moment of the early 2000s, it also illuminated how AI could be used in film production. The Battle of Helm’s Deep features computer-generated AI armies to create one of the most memorable scenes in cinematic history.
+But in the current strike, the specific concern is a subset of AI known as generative AI. It is crucial that an equilibrium is reached between protections for creative professionals, and the application of generative AI as a useful tool.
+
+      How Ronald Reagan led the 1960 actors' strike – and then became an anti-union president
+Like all AI, a generative AI model is fed existing data (content), using algorithms to process this data, identify patterns and produce outputs – such as an image or a piece of writing. What is significant about generative AI is the capacity to undertake the so-called “learning” process relatively autonomously and to generate original content.
+Many of us are most familiar with generative AI as the technical process that gives us increasingly sophisticated deepfakes.
+The now infamous image of Pope Francis wearing an oversized puffer jacket? Courtesy of a 31-year-old construction worker using the AI image generator Midjourney.
+Generative AI has taken off in the mainstream through companies such as Midjourney, Stable Diffusion, Meta and OpenAI. The latter is now infamous for its large image model Dall-E and large language model ChatGPT.
+Hollywood workers have valid reason for their unease. The fear is AI will not only be used for  supporting technical jobs such as colour grading or adding characters in the far background, but it will also replace creative jobs.
+For both the WGA and SAG, there is also a legitimate worry that entry level jobs (such as writers’ assistants and background extras on sets) will be largely replaced by AI.
+This would significantly reduce opportunities for people entering the workforce to gain necessary expertise in their craft.
+
+With the staggering improvements in each ChatGPT iteration, screenwriters have also been grappling with the possibility they will be sharing creative control over scripts with large language models.
+Questions arise around how these works would be attributed, who or what would be given credit, and consequently how payment would be allocated.
+These unions aren’t entirely against the use of AI. The WGA has proposed a model for human-AI collaboration where generative AI could produce early versions of a script which human screenwriters will then refine. But many experts and industry professionals see this proposal as alienating writers from the creative process, repositioning writers as copy editors.
+One of the most dystopian scenarios to be put on the table by big studios has been termed “performance cloning”. This involves paying background actors a one-off fee to scan their likeness. This likeness can then be owned and used by companies in perpetuity.
+While creating a regressive payment model, it also raises issues of consent: what happens if your AI body double is used in a way you would never agree to?
+
+With generative AI, consent is closely bound together with issues of copyright.
+Comedian Sarah Silverman is currently suing OpenAI and Meta for copyright infringement. She alleges their AI models were trained on her work without her consent, and were consequently able to roughly reproduce her comedy style.
+That her oeuvre is part of the machine learning dataset is unsurprising. This dataset encompasses billions of data points – essentially all that has made its way onto the internet.
+Though generative AI is said to produce original content, a better way to view this content is as a remix. These models regurgitate what they have been trained on.
+
+If they become foundational to the film and television industry, the originality of our cultural products is up for debate.
+Streaming services have already primed audiences in the algorithmic curation of taste. Generative AI extends this existing trajectory. If studios become overly reliant on these technologies, chances are the “new” content offered to us will only echo what has come before. It may even move us further away from equality in representation, with the bias of these AI models well-documented.
+
+      Actors are demanding that Hollywood catch up with technological changes in a sequel to a 1960 strike
+As workers fight for industry regulation to ban the replacement of humans by AI, it is important to reiterate this is not a call to ban the technology outright. Generative AI has already been used in valuable and compelling ways in film.
+An early example is David France’s 2020 documentary Welcome to Chechnya, which explores the persecution of LGBTQ+ people in Russia. France did extensive post-production work using AI, producing synthetic voices and superimposed faces to protect his subjects’ anonymity while retaining their humanity.
+The question at the heart of copyright – how we balance protecting the rights of creatives with the openness needed for cultural production – resurfaces in this context. We need regulatory measures that enable creative collaboration with generative AI while ensuring creative workers are not exploited to further centralised power.
+In June, the Directors Guild of America won protection against being replaced by AI tools in a new labour contract with producers. The hope is that protections will be extended to screenwriters and actors.
+Otherwise, in Hollywood, AI might just steal the show.
+
+      The exploitation of Hollywood's writers is just another symptom of digital feudalism

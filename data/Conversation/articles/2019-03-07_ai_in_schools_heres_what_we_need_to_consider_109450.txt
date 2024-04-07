@@ -1,0 +1,30 @@
+Are you ready for artificial intelligence in schools?
+You may already know that researchers believe AI is likely to predict the onset of diseases in future
+and that you’re already using AI every day when you search online, use voice commands on your phone or use Google Translate.
+Maybe you heard the Canadian government has invested millions of dollars in AI research during the past few years and is emerging as one of the global leaders in AI research.
+But did you know that some companies are developing AI for use in schools, for example in forms such as AI tutoring systems? Such systems can engage students in dialogue and provide feedback in subjects where they need extra help.
+As an educational technology researcher, I am interested in how educators apply technological advancements. My concern is improving and facilitating education by holistically combining educational philosophy, psychology, sociology and technology.
+Parents, educators and the general public need to understand AI and its potential educational implications. This matters so we can we can initiate informed discussions.
+With the advent of each new technology, educators have had the opportunity to see how it impacts learning.
+For example, in the 1930s and  ’40s researchers studied the impact of typewriters in the classroom on elementary student reading skills even while typewriters had wider commercial and economic applications.
+Still, many technological innovations have been met with skepticism. In particular, the potential impact of new technology on youth and children has often been the cause of alarm.
+Yet some skepticism and anxiety is related to tendencies to treat technology as an unavoidable progression that can be quickly embraced without asking pertinent questions about privacy or profit.
+When it comes to technology in schools, there are social, ethical and economic questions. For example, how do schools decide what technologies to invest in?
+Today, the North American and European educational technology markets are expected to grow from $75 billion in 2014 to $120 billion in 2019.
+It is necessary to consider at the policy level how education about new technologies, including AI, fit into larger socio-economic development and how children and youth may be impacted.
+The first digital technology in the form of computers did not enter public schools in a mainstream way before the mid-1980s. Internet-based technology and online learning was becoming a concern for researchers studying educational technology in mid-to-late-2000s because computer and then internet use was becoming more prevalent in schools.
+AI technologies are also a form of internet-based digital technology, but are more advanced: the computer scientist John McCarthy coined the phrase “Artificial Intelligence” to describe the science and engineering of enabling a computer system, software, program and robot to “think” intelligently like humans.
+AI-based systems derive their knowledge firstly from the initial data, programs and algorithms provided by human programmers. Secondly, they “learn” through their own experiences and observations without being explicitly programmed.
+This second source of knowledge is termed machine learning (ML), named by Arthur Samuel in 1959. ML works on different algorithms and a preferred one is called deep learning, which works on artificial neural networks (ANN) consisting of nodes and inter-linkages.
+The word “deep” implies that the data has to pass through many layers of computations. The more data these machines based on deep learning receive, the better they perform.
+Virtual assistants sometimes used today, like Amazon’s Alexa or Apple’s Siri, that are capable of oral interaction use deep learning. So do chatbots that respond to online customer requests.
+
+      Teaching chatbots how to do the right thing
+This is possible because AI technology is programmed to compare the information provided to it by the learner or user with the vast amount of preloaded datasets to find commonalities and patterns.
+Such virtual assistants for the classroom have been seen at the university level. Forbes Magazine reports that several companies are developing tutoring platforms that use AI for pre-kindergarten to college-level students.
+AI for tutoring is possible because the technology is programmed to compare the information provided to it by the learner or user with the vast amount of preloaded datasets to find commonalities and patterns.
+Or here’s a different example of AI at school: AI can be used to float “smarter” opponents in board games. For example, school chess clubs could use AI as a learning tool. AI programs have unseated some of the best global board game players, providing exalting moments to AI developers.
+Some researchers believe AI will not replace teachers. Others point out the need to confront ambiguous questions raised by the reality that teaching-learning interaction can now occur without the personal mediation of a teacher.
+What must be remembered is that AI tutoring or other technologies cannot substitute for teacher or parental engagement and supervision.
+We must also look at what criteria will be used to evaluate the appropriateness of all new technologies for children and youth in schools. Students’ and teachers’ data privacy and security mechanisms should also be taken into consideration before introducing either internet-based or AI programs for learning and teaching.
+Love or hate AI, the truth is that it will keep progressing. Being aware of its nature and potential must guide further development and use.

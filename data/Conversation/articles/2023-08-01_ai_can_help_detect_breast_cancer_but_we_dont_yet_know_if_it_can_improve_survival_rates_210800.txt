@@ -1,0 +1,29 @@
+Around one in seven Australian women will be diagnosed with breast cancer in their life, with 20,000 new breast cancers diagnosed each year.
+Mammograms are a key detection tool for early-stage breast cancer and involve placing the breast tissue between two plates and then doing an x-ray.
+Scans from mammograms are usually analysed by two doctors. But a Swedish study, published today in the Lancet, found using artificial intelligence (AI) to help analyse the scans detected 20% more cancers and reduced the workload by 44%.
+However there is a risk it could detect small cancers in women that would never cause harm, resulting in unnecessary treatment.
+Breast screening using mammography was introduced in Australia more than 30 years ago to detect cancers earlier, allowing more effective and often less invasive treatments. Free mammograms are available to women over the age of 40 and are recommended for all women aged 50-74.
+Currently, a mammogram is studied (or “read”) by two doctors (called radiologists) who decide whether the mammogram looks normal or not. If any abnormality is seen, the woman is referred for further tests to a BreastScreen assessment clinic. These tests may include more mammograms, ultrasounds, needle biopsies and sometimes surgery.
+Most of those referred are cleared of cancer, but around one in ten are eventually diagnosed with a breast cancer.
+This reading and assessment requires a lot of expertise and time, and is performed by an ageing and diminishing workforce who are retiring and leaving the profession. Coupled with a growing population eligible for screening, this adds up to a perfect test bed for an AI solution.
+
+      Biopsies confirm a breast cancer diagnosis after an abnormal mammogram – but structural racism may lead to lengthy delays
+The Swedish study followed 80,000 women aged 40–80 attending a screening program in one area of Sweden.
+The researchers set out to test whether AI could better direct a radiologist’s attention to a suspicious, but often very subtle, abnormal area on a mammogram, using a commercially available AI-supported mammogram reading system.
+They also looked at whether using AI could replace one of the two radiologists who normally read the mammogram. This would make the process more efficient.
+The study was randomised so half of the women received normal screening protocols and the other half the AI-assisted protocol.
+The early findings are very encouraging. In those in whom AI was used, if the AI suggested a suspicious area, the mammogram was still read by two radiologists. But if the AI did not see a suspicious area then only one “live” radiologist read the mammogram.
+This saved nearly six months of radiologists’ time. There were 36,886 fewer screenings read by radiologists in the AI supported group (46,345 vs 83,231), resulting in a 44% reduction in the radiologists’ screening workload.
+Using the AI software to direct the radiologist attention to abnormal areas also seemed to improve the accuracy of their reading. The AI-assisted reading meant slightly more women were referred for further assessment (2.2% versus 2%) and of those assessed from the AI group, more cancers were seen.
+In total, 244 women (28%) from the AI-supported group were found to have cancer, compared to 203 women (25%) in the standard double reading without AI.
+Overall, the AI program picked up one extra cancer for each 1,000 women screened (six per 1,000 vs five per 1,000).
+
+      Cervical, breast, heart, bowel: here’s what women should be getting screened regularly
+But just detecting more cancers is not necessarily a good thing if the cancers found are tiny, non-aggressive tumours that may never grow to harm the woman.
+Of course what we really want to know is can any new test improve survival from cancer – and make the burden of treatment easier.
+“Interval cancers” are faster-growing aggressive cancers that turn up between mammograms. Studies often use the detection of interval cancers as a surrogate for improving cancer survival. But it’s unclear if AI can detect more of these interval cancers.
+Until we understand more about these extra cancers the AI detects, these remain open questions.
+So, despite the positive signals from this study, we are still not ready to use it in our screening programs without more mature data form this and other work, including data that currently is being collected in Australia.
+
+      29,000 cancers overdiagnosed in Australia in a single year
+Correction: this article originally said 20,000 new breast cancers were diagnosed in Australia each week, rather than each year.

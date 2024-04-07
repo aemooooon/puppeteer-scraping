@@ -1,0 +1,27 @@
+Humankind lost another important battle with artificial intelligence (AI) last month, when AlphaGo beat the world’s leading Go player Ke Jie by three games to zero.
+AlphaGo is an AI program developed by DeepMind, part of Google’s parent company Alphabet. Last year it beat another leading player, Lee Se-dol, by four games to one, but since then AlphaGo has substantially improved.
+Ke Jie described AlphaGo’s skill as “like a God of Go”.
+AlphaGo will now retire from playing Go, leaving behind a legacy of games played against itself. They’ve been described by one Go expert as like “games from far in the future”, which humans will study for years to improve their own play.
+Go is an ancient game that essentially pits two players – one playing black pieces the other white – for dominance on board usually marked with 19 horizontal and 19 vertical lines.
+Go is a far more difficult game for computers to play than chess, because the number of possible moves in each position is much larger. This makes searching many moves ahead – feasible for computers in chess – very difficult in Go.
+DeepMind’s breakthrough was the development of general-purpose learning algorithms that can, in principle, be trained in more societal-relevant domains than Go.
+DeepMind says the research team behind AplhaGo is looking to pursue other complex problems, such as finding new cures for diseases, dramatically reducing energy consumption or inventing revolutionary new materials. It adds:
+This does open up many opportunities for the future, but challenges still remain.
+AlphaGo combines the two most powerful ideas about learning to emerge from the past few decades: deep learning and reinforcement learning. Remarkably, both were originally inspired by how biological brains learn from experience.
+In the human brain, sensory information is processed in a series of layers. For instance, visual information is first transformed in the retina, then in the midbrain, and then through many different areas of the cerebral cortex.
+This creates a hierarchy of representations where simple, local features are extracted first, and then more complex, global features are built from these.
+The AI equivalent is called deep learning; deep because it involves many layers of processing in simple neuron-like computing units.
+But to survive in the world, animals need to not only recognise sensory information, but also act on it. Generations of scientists and psychologists have studied how animals learn to take a series of actions that maximise their reward.
+This has led to mathematical theories of reinforcement learning that can now be implemented in AI systems. The most powerful of these is temporal difference learning, which improves actions by maximising its expectation of future reward.
+By combining deep learning and reinforcement learning in a series of artificial neural networks, AlphaGo first learned human expert-level play in Go from 30 million moves from human games.
+But then it started playing against itself, using the outcome of each game to relentlessly refine its decisions about the best move in each board position. A value network learned to predict the likely outcome given any position, while a policy network learned the best action to take in each situation.
+Although it couldn’t sample every possible board position, AlphaGo’s neural networks extracted key ideas about strategies that work well in any position. It is these countless hours of self-play that led to AlphaGo’s improvement over the past year.
+Unfortunately, as yet there is no known way to interrogate the network to directly read out what these key ideas are. Instead we can only study its games and hope to learn from these.
+This is one of the problems with using such neural network algorithms to help make decisions in, for instance, the legal system: they can’t explain their reasoning.
+We still understand relatively little about how biological brains actually learn, and neuroscience will continue to provide new inspiration for improvements in AI.
+Humans can learn to become expert Go players based on far less experience than AlphaGo needed to reach that level, so there is clearly room for further developing the algorithms.
+Also much of AlphaGo’s power is based on a technique called back-propagation learning that helps it correct errors. But the relationship between this and learning in real brains is still unclear.
+The game of Go provided a nicely constrained development platform for optimising these learning algorithms. But many real world problems are messier than this, and have less opportunity for the equivalent of self-play (for instance self-driving cars).
+So are there problems to which the current algorithms can be fairly immediately applied?
+One example may be optimisation in controlled industrial settings. Here the goal is often to complete a complex series of tasks while satisfying multiple constraints and minimising cost.
+As long as the possibilities can be accurately simulated, these algorithms can explore and learn from a vastly larger space of outcomes than will ever be possible for humans. Thus DeepMind’s bold claims seem likely to be realised, and as the company says, we can’t wait to see what comes next.

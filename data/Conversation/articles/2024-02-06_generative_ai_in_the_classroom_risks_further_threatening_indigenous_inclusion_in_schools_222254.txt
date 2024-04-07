@@ -1,0 +1,30 @@
+It is well documented that Australian teachers face challenges incorporating Indigenous perspectives and content in their classrooms. The approach can sometimes be somewhat tokenistic, as if the teacher is “ticking a box”. We need a more culturally responsive teaching workforce.
+Generative AI is advancing at a fast pace and quickly finding a place within education. Tools such as ChatGPT (or Chatty G as the kids say) continue to dominate conversations in education as these technologies are explored and developed.
+
+There are many concerns around academic integrity and things to consider on how to best introduce and control this technology in practice.
+As teachers continue to look for ways to meet Indigenous content requirements, it makes sense they would turn to generative AI to assist them in an area they struggle with. But using these tools could do more harm than good.
+Indigenous people have raised a range of concerns around generative AI. These include the risks these technologies pose for Indigenous people and knowledges.
+For example, AI-generated art is causing a significant threat to Indigenous peoples’ incomes, art and cultural knowledges.
+The lead image of this article was created using the generative AI platform Midjourney. The prompts included the terms Indigenous, artwork, colourful, artificial intelligence, Aboriginal, Western Sydney and painting styles.
+This shows that with AI, anyone can easily produce “Indigenous-style” art and content. This poses a threat to Indigenous cultural and intellectual property rights.
+With AI being trained on vast data sets primarily from the western corpus of knowledge, there are also concerns relating to Indigenous data sovereignty – the right to “govern the collection, ownership and application of data about Indigenous communities, peoples, lands and resources”.
+Generative AI can also perpetuate misinformation that harms Indigenous communities. This happened during the Voice referendum campaign, when fake, AI-generated images of Indigenous “no” voters were published on social media.
+
+Importantly, there is also the potential impact to Country due to the environmental costs of data centres – an issue that must be addressed as more generative AI tools come online.
+
+      The environmental cost of data centres is substantial, and making them energy-efficient will only solve half the problem
+All students should see themselves reflected in the classroom. This especially applies to Indigenous students, as attested by Closing the Gap targets for educational attainment.
+A 2022 report by the Australian Institute for Teaching and School Leadership states:
+Children need both “windows and mirrors” in the classroom. American education scholar Rudine Sims-Bishop has aptly put this in the context of children’s literature:
+Students need to see themselves reflected in the curriculum, including the technologies used.
+By using generative AI, teachers risk perpetrating and promoting inaccuracies and spreading false information instead of meaningfully engaging with Indigenous values and knowledge systems.
+This can potentially harm the student–teacher relationship, which is incredibly important, particularly for Indigenous students.
+Late last year, the Australian government released a framework for generative AI in schools. It offers “guidance on understanding, using and responding to generative AI” to everyone involved in Australian school education.
+The framework also affirms the necessity of respecting Indigenous cultural and intellectual property rights. But we need more extensive work to ensure teachers can do this appropriately. Currently, there is a lack of research that looks at the intersection between generative AI and Indigenous content inclusion in the classroom.
+
+Generative AI, and other forms of AI, have extensive potential to benefit Indigenous people and their communities. Many Indigenous people are engaging with the technologies to this effect.
+For example, you can take a virtual trip to the Torres Strait Islands, spend time at the AI Marae in New Zealand or engage with the Indigenous Protocols and AI Laboratory
+But to make room for what is seemingly an inevitable future that involves AI, work needs to be done in policy and professional bodies to ensure Indigenous inclusion at all levels – from development to use.
+Teachers and students must be supported with the necessary resourcing to promote critical thinking when engaging with generative AI. Teachers will look to the relevant government bodies, whereas students will look to their teachers for guidance.
+It is clear we need further guidance on Indigenous cultural and intellectual property rights, and culturally appropriate AI use for educators.
+Generative AI still has much to learn, and Indigenous knowledges have much to teach it.

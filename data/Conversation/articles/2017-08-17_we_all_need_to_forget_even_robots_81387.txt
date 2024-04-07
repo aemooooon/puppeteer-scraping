@@ -1,0 +1,26 @@
+We all know what it’s like to forget something. A loved one’s birthday. A childhood memory. Even people capable of extraordinary memory feats – say, memorising the order of a deck of cards in less than 20 seconds – will still forget where they left their keys. People, it seems, are never in complete control of their memories.
+Forgetting is a tricky business, both for humans and for artificial intelligence (AI), and researchers are exploring the idea of robot memory in many different ways.
+
+      Robot sculpture, coming to a gallery near you
+This raises not only technical issues, but concerns related to privacy, law and ethics. Imagine if your household robot witnessed you having a sneaky cigarette despite you promising your spouse that you had quit smoking? What about if they saw you commit a murder?
+It’s an important question: who, if anyone, should have the power to make a robot forget what it witnessed? But first, researchers need to work out the best way to make AI to forget in the first place.
+A popular metaphor to explain why people forget is that our brains become full, and thus we forget things to “make space”.
+Yet some people have a rare condition called “hyperthymesia”, which allows them to remember almost every detail of their lives. This suggests that the idea of “fullness” is not the complete story.
+So if we don’t forget things to make room for new memories, then why do we forget? One explanation is that memories help us understand the world, rather than merely to remember it. In this way, we seem to retain memories that are useful, valuable and relevant, while forgetting information of lower value.
+For example, some studies suggest that people can be better at remembering conflicting information than repetitive information. Other factors include the importance and novelty of the event, as well as our emotions and mood at the time of the experience. Consider September 11, 2001 – many of us remember vividly where we were and what we were doing on that day.
+Memory in computers is typically used to describe both its capacity to store information subject to recall, as well as the physical components of the computer in which such information is stored.
+For example, a computer’s working memory “forgets” data when it is no longer needed for a task, freeing up computational resources for other tasks.
+This also applies to AI, but while forgetting something might cause us frustration, it is the way in which we forget that makes people still superior to AI. Machine learning algorithms in particular are poor at knowing when to keep old information and when to discard outdated information.
+For example, connectionist AI (AI that often uses neural networks modelled on the structure of the brain) faces several problems related to “forgetting”. These include over-fitting, which is when a learning machine stores overly detailed information from past experiences, hindering its ability to generalise and predict future events.
+Another problem is “catastrophic forgetting”. Researchers are trying to build artificial neural networks that can appropriately adjust to new information without abruptly forgetting what they learned before.
+Finally, sometimes the neurons of an artificial neural network adopt undesirable activation patterns early in the learning process, damaging the future learning ability of the AI.
+An alternative approach to storing memories in robots is symbolic memory representations where knowledge is represented by logical facts (“birds fly”, “Tweety is a bird”, so therefore, “Tweety can fly”). These highly structured human-created representations can be easily deleted, just like deleting a file on a computer.
+These memories can range in fidelity from raw sensorimotor data (a recording from a camera) to logical facts stored in a knowledge base (“Christmas Day is the 25th of December”).
+Understanding how our brains decide what is worth remembering and what is worth forgetting is important for creating better AI.
+Just like people, AI should remember important and useful information, while forgetting low value, irrelevant knowledge. However, determining what is relevant and valuable may include factors besides the task at hand, such as questions of ethics, law and privacy.
+Chatbots make medical diagnoses, smart home devices monitor our movements and security robots perform patrols with videos cameras and thermal imaging. That’s a lot of stored data.
+
+      Computer says no: robo-advice is growing but we still don't trust it
+Amazon’s home assistant Echo, for example, is a voice-controlled hands-free speaker that is always listening for a command prompt. Arkansas police recently demanded that Amazon turn over information apparently collected from a murder suspect’s Echo.
+Alternatively, consider the AI in sex bots. Should sex bots remember or forget their clients, and what those clients did with them? Who owns the robot’s data, and who can view it and delete it?
+When it comes to memories, deciding when a robot should forget is a profoundly human challenge.

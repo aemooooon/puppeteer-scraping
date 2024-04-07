@@ -1,0 +1,26 @@
+Last week, artificial intelligence pioneers and experts urged major AI labs to immediately pause the training of AI systems more powerful than GPT-4 for at least six months.
+An open letter penned by the Future of Life Institute cautioned that AI systems with “human-competitive intelligence” could become a major threat to humanity. Among the risks, the possibility of AI outsmarting humans, rendering us obsolete, and taking control of civilisation.
+The letter emphasises the need to develop a comprehensive set of protocols to govern the development and deployment of AI. It states:
+Typically, the battle for regulation has pitted governments and large technology companies against one another. But the recent open letter – so far signed by more than 5,000 signatories including Twitter and Tesla CEO Elon Musk, Apple co-founder Steve Wozniak and OpenAI scientist Yonas Kassa – seems to suggest more parties are finally converging on one side.
+Could we really implement a streamlined, global framework for AI regulation? And if so, what would this look like?
+
+      I used to work at Google and now I'm an AI researcher. Here's why slowing down AI development is wise
+In Australia, the government has established the National AI Centre to help develop the nation’s AI and digital ecosystem. Under this umbrella is the Responsible AI Network, which aims to drive responsible practise and provide leadership on laws and standards.
+However, there is currently no specific regulation on AI and algorithmic decision-making in place. The government has taken a light touch approach that widely embraces the concept of responsible AI, but stops short of setting parameters that will ensure it is achieved.
+Similarly, the US has adopted a hands-off strategy. Lawmakers have not shown any urgency in attempts to regulate AI, and have relied on existing laws to regulate its use. The US Chamber of Commerce recently called for AI regulation, to ensure it doesn’t hurt growth or become a national security risk, but no action has been taken yet.
+Leading the way in AI regulation is the European Union, which is racing to create an Artificial Intelligence Act. This proposed law will assign three risk categories relating to AI:
+Although some groups argue the EU’s approach will stifle innovation, it’s one Australia should closely monitor, because it balances offering predictability with keeping pace with the development of AI.
+China’s approach to AI has focused on targeting specific algorithm applications and writing regulations that address their deployment in certain contexts, such as algorithms that generate harmful information, for instance. While this approach offers specificity, it risks having rules that will quickly fall behind rapidly evolving technology.
+
+      AI chatbots with Chinese characteristics: why Baidu's ChatGPT rival may never measure up
+There are several arguments both for and against allowing caution to drive the control of AI.
+On one hand, AI is celebrated for being able to generate all forms of content, handle mundane tasks and detect cancers, among other things. On the other hand, it can deceive, perpetuate bias, plagiarise and – of course – has some experts worried about humanity’s collective future. Even OpenAI’s CTO, Mira Murati, has suggested there should be movement toward regulating AI.
+Some scholars have argued excessive regulation may hinder AI’s full potential and interfere with “creative destruction” – a theory which suggests long-standing norms and practices must be pulled apart in order for innovation to thrive.
+Likewise, over the years business groups have pushed for regulation that is flexible and limited to targeted applications, so that it doesn’t hamper competition. And industry associations have called for ethical “guidance” rather than regulation – arguing that AI development is too fast-moving and open-ended to adequately regulate.
+But citizens seem to advocate for more oversight. According to reports by Bristows and KPMG, about two-thirds of Australian and British people believe the AI industry should  be regulated and held accountable.
+A six-month pause on the development of advanced AI systems could offer welcome respite from an AI arms race that just doesn’t seem to be letting up. However, to date there has been no effective global effort to meaningfully regulate AI. Efforts the world over have have been fractured, delayed and overall lax.
+A global moratorium would be difficult to enforce, but not impossible. The open letter raises questions around the role of governments, which have largely been silent regarding the potential harms of extremely capable AI tools.
+If anything is to change, governments and national and supra-national regulatory bodies will need take the lead in ensuring accountability and safety. As the letter argues, decisions concerning AI at a societal level should not be in the hands of “unelected tech leaders”.
+Governments should therefore engage with industry to co-develop a global framework that lays out comprehensive rules governing AI development. This is the best way to protect against harmful impacts and avoid a race to the bottom. It also avoids the undesirable situation where governments and tech giants struggle for dominance over the future of AI.
+
+      The AI arms race highlights the urgent need for responsible innovation

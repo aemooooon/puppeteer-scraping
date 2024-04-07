@@ -1,0 +1,39 @@
+Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human intervention. Our understanding of AI technologies is largely shaped by where we encounter them, from facial recognition tools and chatbots to photo editing software and self-driving cars.
+If you think of AI you might think of tech companies, from existing giants such as Google, Meta, Alibaba and Baidu, to new players such as OpenAI, Anthropic and others. Less visible are the world’s governments, which are shaping the landscape of rules in which AI systems will operate.
+Since 2016, tech-savvy regions and nations across Europe, Asia-Pacific and North America have been establishing regulations targeting AI technologies. (Australia is lagging behind, still currently investigating the possibility of such rules.)
+Currently, there are more than 1,600 AI policies and strategies globally. The European Union, China, the United States and the United Kingdom have emerged as pivotal figures in shaping the development and governance of AI in the global landscape.
+AI regulation efforts began to accelerate in April 2021, when the EU proposed an initial framework for regulations called the AI Act. These rules aim to set obligations for providers and users, based on various risks associated with different AI technologies.
+As the EU AI Act was pending, China moved forward with proposing its own AI regulations. In Chinese media, policymakers have discussed a desire to be first movers and offer global leadership in both AI development and governance.
+
+      Calls to regulate AI are growing louder. But how exactly do you regulate a technology like this?
+Where the EU has taken a comprehensive approach, China has been regulating specific aspects of AI one after another. These have ranged from algorithmic recommendations, to deep synthesis or “deepfake” technology and generative AI.
+China’s full framework for AI governance will be made up of these policies and others yet to come. The iterative process lets regulators build up their bureaucratic know-how and regulatory capacity, and leaves flexibility to implement new legislation in the face of emerging risks.
+China’s AI regulation may have been a wake-up call to the US. In April, influential lawmaker Chuck Shumer said his country should “not permit China to lead on innovation or write the rules of the road” for AI.
+
+On October 30 2023, the White House issued an executive order on safe, secure and trustworthy AI. The order attempts to address broader issues of equity and civil rights, while also concentrating on specific applications of technology.
+
+      The US just issued the world’s strongest action yet on regulating AI. Here’s what to expect
+Alongside the dominant actors, countries with growing IT sectors including Japan, Taiwan, Brazil, Italy, Sri Lanka and India have also sought to implement defensive strategies to mitigate potential risks associated with the pervasive integration of AI.
+AI regulations worldwide reflect a race against foreign influence. At the geopolitical scale, the US competes with China economically and militarily. The EU emphasises establishing its own digital sovereignty and striving for independence from the US.
+On a domestic level, these regulations can be seen as favouring large incumbent tech companies over emerging challengers. This is because it is often expensive to comply with legislation, requiring resources smaller companies may lack.
+Alphabet, Meta and Tesla have supported calls for AI regulation. At the same time, the Alphabet-owned Google has joined Amazon in investing billions in OpenAI’s competitor Anthropic, and Tesla boss Elon Musk’s xAI has just launched its first product, a chatbot called Grok.
+The EU’s AI Act, China’s AI regulations, and the White House executive order show shared interests between the nations involved. Together, they set the stage for last week’s “Bletchley declaration”, in which 28 countries including the US, UK, China, Australia and several EU members pledged cooperation on AI safety.
+Countries or regions see AI as a contributor to their economic development, national security, and international leadership. Despite the recognised risks, all jurisdictions are trying to support AI development and innovation.
+
+      News coverage of artificial intelligence reflects business and government hype — not critical voices
+By 2026, worldwide spending on AI-centric systems may pass US$300 billion by one estimate. By 2032, according to a Bloomberg report, the generative AI market alone may be worth US$1.3 trillion.
+Numbers like these, and talk of perceived benefits from tech companies, national governments, and consultancy firms, tend to dominate media coverage of AI. Critical voices are often sidelined.
+Beyond economic benefits, countries also look to AI systems for defence, cybersecurity, and military applications.
+At the UK’s AI safety summit, international tensions were apparent. While China agreed with the Bletchley declaration made on the summit’s first day, it was excluded from public events on the second day.
+One point of disagreement is China’s social credit system, which operates with little transparency. The EU’s AI Act regards social scoring systems of this sort as creating unacceptable risk.
+The US perceives China’s investments in AI as a threat to US national and economic security, particularly in terms of cyberattacks and disinformation campaigns.
+These tensions are likely to hinder global collaboration on binding AI regulations.
+Existing AI regulations also have significant limitations. For instance, there is no clear, common set of definitions of different kinds of AI technology in current regulations across jurisdictions.
+Current legal definitions of AI tend to be very broad, raising concern over how practical they are. This broad scope means regulations cover a wide range of systems which present different risks and may deserve different treatments. Many regulations lack clear definitions for risk, safety, transparency, fairness, and non-discrimination, posing challenges for ensuring precise legal compliance.
+
+      Do we need a new law for AI? Sure – but first we could try enforcing the laws we already have
+We are also seeing local jurisdictions launch their own regulations within the national frameworks. These may address specific concerns and help to balance AI regulation and development.
+California has introduced two bills to regulate AI in employment. Shanghai has proposed a system for grading, management and supervision of AI development at the municipal level.
+However, defining AI technologies narrowly, as China has done, poses a risk that companies will find ways to work around the rules.
+Sets of “best practices” for AI governance are emerging from local and national jurisdictions and transnational organisations, with oversight from groups such as the UN’s AI advisory board and the US’s National Institute of Standards and Technology. The existing AI governance frameworks from the UK, the US, the EU, and – to a limited extent – China are likely to be seen as guidance.
+Global collaboration will be underpinned by both ethical consensus and more importantly national and geopolitical interests.

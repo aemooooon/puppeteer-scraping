@@ -1,0 +1,31 @@
+In the pre-digital world, advertising was largely carried by print media, radio and television.
+Today, digital advertising has surpassed those channels, pervading our desktops and laptops, smartphones, tablets and a variety of other internet-connected devices. And perhaps the biggest player in the online advertising space is Google.
+Australia’s competition watchdog, the Australian Competition and Consumer Commission (ACCC), says Google now dominates the country’s online advertising so throughly it must be reined in.
+The ACCC maintains that over the past ten years, Google’s advertising technology has developed to the point of being anti-competitive.
+In a report released on Tuesday, the ACCC said Google had arrived at market dominance through a massive data advantage. The tech giant hoovers up vast quantities of information about the people who use Google Search, YouTube, Gmail, Google Calendar, Google Docs, Google Contacts, Google Sites, Google Meet, Google Chat, Cloud Search and more.
+The watchdog estimates 80–90% of all online ad impressions for Australia passed through at least one Google service in 2020. An “ad impression” is created when an ad is displayed on an app or webpage. It is the benchmark by which advertisers know how many times an ad has been viewed.
+In light of this estimate, it’s fair to say Google has the lion’s share of Australia’s digital advertising industry, which last year reached A$9.5 billion in spending.
+The ACCC has recommended a new industry code to make the end-to-end ad process more transparent. It also wants to impose rules on how user data is collected for digital advertising purposes, and how fees for services are calculated.
+The full list of recommendations is aimed at limiting Google’s potentially monopolistic power in the digital advertising market.
+In response, Google has said the ACCC hasn’t properly taken into account other online advertising channels available to Australian advertisers, such as Facebook, Twitter and Snapchat.
+Google also highlighted a PwC report which estimated three-quarters of the tech giant’s advertising customers in Australia were small to medium-sized enterprises (SMEs) — and that Google’s services contributed A$2.4 billion to Australia’s economy each year.
+A Google spokesperson reaffirmed the company’s willingness to work with the ACCC to engender a “healthy ads ecosystem”, according to The Guardian.
+It may be apocryphal that in the early days of Google, when their only product was a revolutionary search engine, a business advisor is said to have asked the founders how they intended to make money. The reply was along the lines of “we’ll figure something out”. That something, it seems, was Google Ads.
+Last year, Google Ads helped the market value of US company Alphabet (of which Google is a part) surge in excess of US$1 trillion, joining Apple and Microsoft. It places ads in Google Search results, as well on mobile apps, webpages and videos, and is the main tool through which advertisers can reach customers via Google’s services.
+Each time someone uses Google Search, or visits a website hosting ads through Google Ads, an automated ad auction takes place behind the scenes. Advertisers bid on the maximum cost-per-click amount they’re willing to pay for their ad.
+Paying cost-per-click means that rather than paying for the ad space itself, the winning advertiser pays a set amount to Google each time someone clicks on their ad.
+Of course, not everyone who clicks an ad will also make a purchase. It might only be one click in ten that converts to a sale — this depends on how hot or cold the market is.
+So if the cost per click is 50 cents, and the click-to-sale conversion rate is one in ten, the advertiser must sell their product for no less than $5 if they want to break even on their ad purchase. But how does that price compare with their competition’s? They must do their sums carefully.
+For an ad to be displayed in a prime position, the cost-per-click bid must be sufficiently high, the ad must be of a high quality, and must have keywords directly related to the search enquiry.
+
+      ACCC 'world first': Australia's Federal Court found Google misled users about personal location data
+According to Google, ads can be targeted based on a number of factors including audience “demographics” (certain locations, ages, genders and device types) and by picking out “similar audiences”:
+The exact details of the process are murky, however, as Google guards its methods carefully.
+As artificial intelligence (AI) comes increasingly into people’s lives, the job of buying things will conceivably be delegated to AI assistants. This is the vision of Peter Diamandis, one of Silicon Valley’s leaders best known as the founder of the technology nonprofit X Prize Foundation.
+How would it work? Well, over time your personal AI will come to know all about your daily habits, the products you use, how often you use them, what brands you like, where you go, who you meet — everything.
+It will then make product suggestions to you based on these patterns. This is an expanded version of what Google already does with its Google Assistant feature.
+Amazon does this too, sending users messages along the lines of “we notice you’re reading this. Other readers who’ve read that have also read…”
+The next step would be for AI to go ahead and buy the consumables it knows you need, when you need them, and have them delivered to you — without you expressly requesting it. This means you won’t run out of things you didn’t realise you were low on.
+But on the other hand, this potential future raises serious concerns regarding our personal privacy, agency and consumerist behaviours.
+
+      Google is leading a vast, covert human experiment. You may be one of the guinea pigs

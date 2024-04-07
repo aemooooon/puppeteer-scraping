@@ -1,0 +1,37 @@
+For much of his adult life, painter and scholar Harold Cohen has been working in collaboration with a computer to make visual art.
+Cohen has worked almost continuously on this creative artificial intelligence (AI) system since the 1970s, which he affectionately calls AARON.
+In essence, AARON is a piece of computer software that, when connected to a painting machine – a large-scale inkjet printer these days – can create artworks based on instructions given by Cohen.
+Over the years AARON’s artistic style has matured, much like that of a human artist. The earliest images were simple drawings “exploring the line” as a young child learning to draw might do.
+Gradually the images became more figurative, incorporating people, trees and complex shapes. Most recently they have become abstract explorations of colour.
+The works are received and appreciated as fine art, and regularly exhibited at major galleries in the US and Europe.
+Cohen’s work has caused much philosophical debate about the possibility of computer creativity. Cohen and AARON work as collaborators, and Cohen maintains that AARON is not in itself independently creative.
+Nonetheless, he still expects it to be producing new works long after his death.
+Inspired by AARON’s achievements in AI and art, researcher Simon Colton has recently begun a similar lifelong project: to create the world’s first autonomous computer artist.
+Colton is armed with the latest advances in AI, fast computers and the internet – things that were unavailable for most of AARON’s development.
+Colton’s AI painter, known as “The Painting Fool”, has already produced paintings that seemingly display a range of emotions, visual puns based on current world events, even a reasonable knowledge of perspective and composition.
+Colton comes from a background of successfully engineering computational creativity software. His PhD and postdoctoral research developed a system that was able to automatically formulate theories in pure mathematics.
+Colton’s system was creatively able to form new concepts and has made important contributions in a number of domains in pure mathematics.
+But for Colton pure maths is easy; the real challenge is art.
+The idea of a machine being creative goes back to the earliest days of computing. Ada Lovelace was a collaborator and muse to Charles Babbage, who in 1837 designed the “Analytical Engine”, a mechanical precursor to digital computers.
+In considering the possibility of the machine being able to exhibit creativity she wrote expressly that it “can do what ever we know how to order it to perform”, but it “has no pretentions whatever to originate anything”.
+Lovelace espouses a fundamental idea in philosophy attributed to Descartes: that “there must be at least as much reality in the cause as in the effect”. Or in more modern terms: no design can exceed the knowledge and imagination of its designer.
+This dictum of Descartes lasted for hundreds of years, and was left largely unchallenged until the middle of the 20th century.
+Computers, using a variety of methods in AI can in fact break Descartes dictum. Some examples include:
+Game-playing has always been a vulnerable area for belittling human intelligence. Deep Blue’s famous defeat of world champion chess player Gary Kasparov in 1997 (see video above) appeared to be a major blow for human intellectual superiority, the machine seemingly displaying “human-like creativity”.
+It was certainly good publicity for IBM which, shortly after the defeat, dismantled the machine and refused access to the software. While computers are regularly now used as chess opponents, humans seem less interested in watching two machines play each other.
+More interesting is that developments in computational creativity can now operate on networked and socially-embedded computers, allowing the possibility of social evolution and interaction between machines with humans.
+But despite several runs on the board in game-playing (even in games of general knowledge) where computers do very well, their ability to be creative beyond highly specific domains remains minimal.
+Artistic creativity is a very hard problem. Harold Cohen trained as a painter and was a highly successful artist long before he began using a computer. His artistic knowledge and sensibility are evident in AARON’s artworks.
+Simon Colton on the other hand, comes from a background in computer science. While the images produced by Colton’s Painting Fool mimic at the surface the sorts of things we might expect to see in everyday “art”, they don’t yet seem to convey the intention we expect in human art.
+Artists in particular see a lack of sensibility in the Painting Fool’s current oeuvre. Yet Colton is willing to devote the rest of his professional working life trying to imbue this sensibility into a software program. Only time will tell if this is a lifetime of folly.
+But more interesting than the lofty goal of creating individual machines that beat the best humans is to critically look at how technology can enhance our individual and collective creativity.
+Much current technology seeks to homogenise and limit human creativity. We seem happy to defer our creative judgement to software designed with an engineer’s (or focus group’s) view of aesthetics.
+Digital cameras are increasingly shifting creative decision making to the camera instead of the person taking the picture, offering automated modes labelled “Intelligent Auto”, and even deciding for you when to take the picture (based on smiling, for example).
+If we really want our machines to expand our creativity then we need to change the way we teach computer science. Computing is not seen as a creative subject – it doesn’t normally attract artists, designers, or musicians.
+This perception needs to be changed so programming is understood as an engaging creative subject in the same way as science, music and the arts.
+Take a look around you and you’ll notice that so much of the modern world is increasingly mediated and determined by software and networked computer technologies.
+The software is hidden, but its effects are real: it seems most people have their heads bowed and ears covered as they immerse themselves cognitively in their always-online smart phone or tablet.
+Technology has transformed entire industries (music, publishing, and higher education next), helped to bring down governments, unravelled the human genome, and made a few people insanely rich.
+Has it made us more creative?
+Not yet, but I think it can. But in order to achieve this we should look beyond trying to mimic or automate human creativity in our technology.
+Jon McCormack’s recent book, Computers and Creativity is co-edited with Professor Mark d’Inverno and looks at how creativity is being shaped and explored with computers.

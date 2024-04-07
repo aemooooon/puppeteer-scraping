@@ -1,0 +1,33 @@
+Some of the world’s most popular video games track your activity as you play – but they’re not just gathering data for business or marketing purposes.
+They’re accumulating information about the way you and others play the game, the patterns or habits that lead to success or failure.
+The aim is to create systems that can learn about the game, and then coach you to become a more competent player (or at least feel like one).
+
+      We made a moving tectonic map of the Game of Thrones landscape
+It’s another way game developers can make money from gamers (via paid subscriptions). But it’s also seen as a way to keep you playing for longer, and attract new players to complex games that otherwise offer little help or instruction on how to play.
+These coaching tools use machine learning. This is a form of artificial intelligence (AI) in computing systems that, through the capture and analysis of large amounts of information, can improve performance at a particular task over time.
+Machine-learning based assistant tools are particularly noticeable around competitive, multiplayer videogames. These games often require significant effort on your behalf to develop even a modicum of skill.
+A good example is DotaPlus for Valve’s popular multiplayer videogame Dota 2 - a competitive five-versus-five player contest that draws from elements of strategy and role-playing games. (This is a proprietary tool but third-party options are available.)
+Launched in March 2018, DotaPlus provides you with basic functions, such as statistics about your gameplay, and the gameplay activity of others (such as broader play-style trends, and the ability to view other players’ gameplay performance in detail during matches).
+The PlusAssistant feature gives you prompts on how you should play the game, based on Valve’s accumulation of match data from all players.
+This kind of personalised data-driven help is different from more standard hints you often get when playing a game.
+To give some examples, as soon as you enter into a game of Dota 2, you face the often daunting task of selecting the most strategically appropriate character (or hero) to play as.
+But, as a DotaPlus user, the PlusAssistant will make suggestions about what is most appropriate for you to play. Is your chosen character likely to perform well against characters of your opponents? Does it synergise with characters of your teammates?
+As you progress further in the game, DotaPlus provides suggestions about which of the game’s many “items” (which give your character particular skills or bonuses) are most beneficial to you.
+Certain items in Dota 2 are better against certain enemies, support stronger playing as a certain character, and add advantage at particular points of the game.
+For example, when I play the Bristleback hero - one that uses many abilities or “spells” - the game recommends I buy the “Octarine Core” item, which allows me to cast spells more frequently.
+DotaPlus also suggests how you should use your character’s abilities or skills (all of which have unique effects and uses).
+For example, the game might tell me that one ability is what 80% of players picked at level 1. This is the interface nudging me towards a choice that will likely yield the most positive outcome.
+Once again, the predictive capabilities of DotaPlus de-emphasise the need for you as a player to deliberate on what to do in the game. They minimise the need for you to have a large amount of accumulated knowledge of how to play.
+Without this feature, games such as Dota 2 offer you very little help on how to play. As a more simple and cheaper option, many players learn by watching videos produced by members of the game’s community.
+Valve’s move with launching DotaPlus (which costs from A$5.60 a month) is likely, at least in part, a response to this - providing a more user-friendly experience for newer players.
+It’s also likely a move to better monetise the game (previously reliant on microtransactions and other monetisation features).
+But DotaPlus is also likely a hook to keep Dota players playing (and consuming) within Valve’s digital distribution platform.
+The use of data to gain an advantage isn’t new in and of itself.
+The practice, known as “theorycraft”, has been a part of gaming communities for some time. It’s essentially a high-level, specialist kind of number-crunching to help players adapt their style for even the slightest competitive advantage.
+This was particularly prevalent in Blizzard’s once hugely popular World of Warcraft. Players used a program called SimulationCraft to quantify and rank things like items or in-game actions in terms of their performance according to certain in-game metrics (such as how much damage one’s character deals per second).
+Analytics tools can be provided by the game’s developer - as is the case with Battlefield’s BattleLog, an application for tracking users’ gameplay activity in the game.
+
+      It's designers who can make gaming more accessible for people living with disabilities
+But they can also be provided by third-party developers. DotaBuff in Dota 2, or Warcraft Logs in World of Warcraft are good examples. As described above, these allow users to retrieve detailed statistical information about their own and others’ performance at these games.
+The difference with DotaPlus and other such tools is that players negotiate the gameplay itself through a real-time gaze of data, derived from the surveillance tracking of your own and others’ activity - a more sensuous way of experiencing the game through data.
+These subscription-based services are a popular and highly effective way to monetise games. Perhaps Valve’s move, in creating pay-for-use data analytics (as opposed to other more conventional subscriptions) will inspire similar developments.

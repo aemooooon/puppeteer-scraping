@@ -1,0 +1,33 @@
+In 1991, the world was shocked to learn actor Michael J. Fox had been diagnosed with Parkinson’s disease.
+He was just 29 years old and at the height of Hollywood fame, a year after the release of the blockbuster Back to the Future III. This week, documentary Still: A Michael J. Fox Movie will be released. It features interviews with Fox, his friends, family and experts.
+Parkinson’s is a debilitating neurological disease characterised by motor symptoms including slow movement, body tremors, muscle stiffness, and reduced balance. Fox has already broken his arms, elbows, face and hand from multiple falls.
+It is not genetic, has no specific test and cannot be accurately diagnosed before motor symptoms appear. Its cause is still unknown, although Fox is among those who thinks chemical exposure may play a central role, speculating that “genetics loads the gun and environment pulls the trigger”.
+In research published today in ACS Central Science, we built an artificial intelligence (AI) tool that can predict Parkinson’s disease with up to 96% accuracy and up to 15 years before a clinical diagnosis based on the analysis of chemicals in blood.
+While this AI tool showed promise for accurate early diagnosis, it also revealed chemicals that were strongly linked to a correct prediction.
+Parkinson’s is the world’s fastest growing neurological disease with 38 Australians diagnosed every day.
+For people over 50, the chance of developing Parkinson’s is higher than many cancers including breast, colorectal, ovarian and pancreatic cancer.
+Symptoms such as depression, loss of smell and sleep problems can predate clinical movement or cognitive symptoms by decades.
+However, the prevalence of such symptoms in many other medical conditions means early signs of Parkinson’s disease can be overlooked and the condition may be mismanaged, contributing to increased hospitalisation rates and ineffective treatment strategies.
+
+      Drooling is a common symptom of Parkinson's. Could a workout for the swallowing muscles help?
+At UNSW we collaborated with experts from Boston University to build an AI tool that can analyse mass spectrometry datasets (a technique that detects chemicals) from blood samples.
+For this study, we looked at the Spanish European Prospective Investigation into Cancer and Nutrition (EPIC) study which involved over 41,000 participants. About 90 of them developed Parkinson’s within 15 years.
+To train the AI model we used a subset of data consisting of a random selection of 39 participants who later developed Parkinson’s. They were matched to 39 control participants who did not. The AI tool was given blood data from participants, all of whom were healthy at the time of blood donation. This meant the blood could provide early signs of the disease.
+Drawing on blood data from the EPIC study, the AI tool was then used to conduct 100 “experiments” and we assessed the accuracy of 100 different models for predicting Parkinson’s.
+Overall, AI could detect Parkinson’s disease with up to 96% accuracy. The AI tool was also used to help us identify which chemicals or metabolites were likely linked to those who later developed the disease.
+
+      Does methamphetamine use cause Parkinson's? And what do pizza boxes have to do with it?
+Metabolites are chemicals produced or used as the body digests and breaks down things like food, drugs, and other substances from environmental exposure.
+Our bodies can contain thousands of metabolites and their concentrations can differ significantly between healthy people and those affected by disease.
+Our research identified a chemical, likely a triterpenoid, as a key metabolite that could prevent Parkinson’s disease. It was found the abundance of triterpenoid was lower in the blood of those who developed Parkinson’s compared to those who did not.
+Triterpenoids are known neuroprotectants that can regulate oxidative stress – a leading factor implicated in Parkinson’s disease – and prevent cell death in the brain. Many foods such as apples and tomatoes are rich sources of triterpenoids.
+A synthetic chemical (a polyfluorinated alkyl substance) was also linked as  something that might increase the risk of the disease. This chemical was found in higher abundances in those who later developed Parkinson’s.
+More research using different methods and looking at larger populations is needed to further validate these results.
+
+      Bad dreams in children linked to a higher risk of dementia and Parkinson's disease in adulthood – new study
+Every year in Australia, the average person with Parkinson’s spends over A$14,000 in out-of-pocket medical costs.
+The burden of living with the disease can be intolerable.
+Fox acknowledges the disease can be a “nightmare” and a “living hell”, but he has also found that “with gratitude, optimism is sustainable”.
+As researchers, we find hope in the potential use of AI technologies to improve patient quality of life and reduce health-care costs by accurately detecting diseases early.
+We are excited for the research community to try our AI tool, which is publicly available.
+This research was performed with Mr Chonghua Xue and A/Prof Vijaya Kolachalama (Boston University).

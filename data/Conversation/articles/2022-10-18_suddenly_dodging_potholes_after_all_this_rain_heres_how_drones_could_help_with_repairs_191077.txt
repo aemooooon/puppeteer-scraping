@@ -1,0 +1,30 @@
+When it rains, it pours. And when it pours – like it has this year – we get potholes. While minor potholes are an inconvenience, major potholes can destroy car wheels and cause crashes, as dozens of motorists discovered last week on the Hume Freeway.
+Three very rainy years along Australia’s east coast mean potholes are growing in number. In southeast Queensland, thousands of kilometres of potholed roads were awaiting repairs months after floods in the region. In inland New South Wales, road crews have repaired more than 135,000 potholes since February.
+Potholes may even factor in next month’s Victorian election. Labor has promised urgent repairs while the Liberals have pledged A$1 billion per year over ten years towards roads maintenance.
+
+
+Potholes repairs tend to happen long after the damage first appeared. This is especially true in rural areas where councils must maintain vast road networks on a very limited budget. The growing problem has already forced some councils to cut capital works programs to shore up their roads. That’s where our new research may help.
+By using drones or cameras on cars, we can capture the state of an areas’s roads to build a digital model. We can then run a machine learning program on it to accurately predict which potholes are likely to widen into a wheel-destroying pit.
+This could lead to safer roads and save ratepayers and motorists serious amounts of money. Cost benefit analysis suggests it could cut monitoring costs by around 40%.
+
+      'Digital twins' can help monitor infrastructure and save us billions
+Potholes are making news because they’re suddenly everywhere. As we endure our third year of La Nina, we’ve had unprecedented rains and floods in many parts of Australia.
+A pothole typically forms when rain lands on asphalt and flows to lower points on the road. Vehicle tyres force the water deep into small cracks and crevices. Over time, this pressure breaks off small bits of the asphalt. A small pothole can quickly get wider and deeper as more traffic goes over it.
+Potholes can form in other ways, such as when water infiltrates the base of the road and creates cavities underneath the asphalt. After enough cars run over the spot, the asphalt breaks.
+Usually, roads authorities find out about potholes through complaints from the public or when workers drive around looking for them. Potholes are also dealt with by periodic repaving.
+But right now, many councils are finding it hard to keep up with all the potholes that need fixing.
+If enough time passes, a small pothole can become a giant and expensive problem. As a result, in practice, much pothole repair is reactive – and a headache for councils.
+
+      Potholes: how engineers are working to fill in the gaps
+Digital twin technology is becoming increasingly popular as a way to monitor everything from supply chains to apartments to warehouses. The goal is usually to save money.
+Once you build a detailed digital model of real world assets, you can run the model forward in time to see where the stress points are – and where you need to intervene early. Once the model is built, you would need to update it once or twice a year.
+Let’s say you have a network of country roads in outback Queensland. You send up drones, which take thousands of high-resolution images of the roadways. Then you stitch these images together to make a 3D model. Once you have that, you can train a machine learning program on these images to spot telltale issues.
+How do you make the model? In my research, I used two drones to create a 3D model of 250 metres of Turner Street in Port Melbourne, which is often damaged due to high numbers of trucks. The best method of getting quality photos turned out to be manual, rather than relying on the drone’s automatic systems. Once I had enough photos, I converted them into a digital twin and trained a machine learning tool to flag potholes worth repairing.
+Not all potholes are created equal. Some will stay the same size for years, while unusually deep or wide potholes will worsen quickly. Once the program is taught what to look for, it can find the worst offenders and flag them for speedy repair
+A roadworker with 20 years under their belt will usually have a sense for which potholes are going to get worse. Our research captures that knowledge and turns it into a widely available tool.
+So how accurate was AI in learning to flag potholes likely to deteriorate? Around 85% accurate, which is acceptable.
+In my cost benefit analysis, I found this method would be around 40% cheaper than the traditional method where one person drives, and another takes notes. It would require similar investment of time, but the job can be done by one person instead of two. What are the drawbacks? The largest for councils is likely to be storing the large volumes of data generated while ensuring it’s both secure and accessible.
+When people hear phrases such as drones, machine learning and digital twins, they can mentally file it under “interesting but too much work”. That’s a great shame. Using these tools is much easier now than it used to be – and industries from medical science to car manufacturing are taking them up.
+This year’s floods and torrential rains offers councils and other road authorities an excellent opportunity to look at what’s now possible.
+
+      What are digital twins? A pair of computer modeling experts explain

@@ -1,0 +1,43 @@
+Some weeks ago, a nine-year-old macaque monkey called Pager successfully played a game of Pong with its mind.
+While it may sound like science fiction, the demonstration by Elon Musk’s neurotechnology company Neuralink is an example of a brain-machine interface in action (and has been done before).
+A coin-sized disc called a “Link” was implanted by a precision surgical robot into Pager’s brain, connecting thousands of micro threads from the chip to neurons responsible for controlling motion.
+Brain-machine interfaces could bring tremendous benefit to humanity. But to enjoy the benefits, we’ll need to manage the risks down to an acceptable level.
+Pager was first shown how to play Pong in the conventional way, using a joystick. When he made a correct move, he’d receive a sip of banana smoothie. As he played, the Neuralink implant recorded the patterns of electrical activity in his brain. This identified which neurons controlled which movements.
+The joystick could then be disconnected, after which Pager played the game using only his mind — doing so like a boss.
+This Neuralink demo built on an earlier one from 2020, which involved Gertrude the Pig. Gertrude had the Link installed and output recorded, but no specific task was assessed.
+
+      Neuralink put a chip in Gertrude the pig's brain. It might be useful one day
+According to Neuralink, its technology could help people who are paralysed with spinal or brain injuries, by giving them the ability to control computerised devices with their minds. This would provide paraplegics, quadriplegics and stroke victims the liberating experience of doing things by themselves again.
+Prosthetic limbs might also be controlled by signals from the Link chip. And the technology would be able to send signals back, making a prosthetic limb feel real.
+Cochlear implants already do this, converting external acoustic signals into neuronal information, which the brain translates into sound for the wearer to “hear”.
+Neuralink has also claimed its technology could remedy depression, addiction, blindness, deafness and a range of other neurological disorders. This would be done by using the implant to stimulate areas of the brain associated with these conditions.
+Brain-machine interfaces could also have applications beyond the therapeutic. For a start, they could offer a much faster way of interacting with computers, compared to methods that involve using hands or voice.
+A user could type a message at the speed of thought and not be limited by thumb dexterity. They’d only have to think the message and the implant could convert it to text. The text could then be played through software that converts it to speech.
+Perhaps more exciting is a brain-machine interface’s ability to connect brains to the cloud and all its resources. In theory, a person’s own “native” intelligence could then be augmented on demand by accessing cloud-based artificial intelligence (AI).
+Human intelligence could be greatly multiplied by this. Consider for a moment if two or more people wirelessly connected their implants. This would facilitate a high-bandwidth exchange of images and ideas from one to the other.
+In doing so they could potentially exchange more information in a few seconds than would take minutes, or hours, to convey verbally.
+But some experts remain sceptical about how well the technology will work, once it’s applied to humans for more complex tasks than a game of Pong. Regarding Neuralink, Anna Wexler, a professor of medical ethics and health policy at the University of Pennsylvania, said:
+At the same time, concerns about such technology’s potential harm continue to occupy brain-machine interface researchers.
+Without bulletproof security, it’s possible hackers could access implanted chips and cause a malfunction or misdirection of its actions. The consequences could be fatal for the victim.
+Some may worry powerful artificial AI working through a brain-machine interface could overwhelm and take control of the host brain.
+The AI could then impose a master-slave relationship and, the next thing you know, humans could become an army of drones. Elon Musk himself is on record saying artificial intelligence poses an existential threat to humanity.
+He says humans will need to eventually merge with AI, to remove the “existential threat” advanced AI could present:
+
+Musk has famously compared AI research and development with “summoning the demon”. But what can we reasonably make of this statement? It could be interpreted as an attempt to scare the public and, in so doing, pressure governments to legislate strict controls over AI development.
+Musk himself has had to negotiate government regulations governing the operations of autonomous and aerial vehicles such as his SpaceX rockets.
+The crucial challenge with any potentially volatile technology is to devote enough time and effort into building safeguards. We’ve managed to do this for a range of pioneering technologies, including atomic energy and genetic engineering.
+Autonomous vehicles are a more recent example. While research has shown the vast majority of road accidents are attributed to driver behaviour, there are still situations in which AI controlling a car won’t know what to do and could cause an accident.
+
+      Are autonomous cars really safer than human drivers?
+Years of effort and billions of dollars have gone into making autonomous vehicles safe, but we’re still not quite there. And the travelling public won’t be using autonomous cars until the desired safety levels have been reached. The same standards must apply to brain-machine interface technology.
+It is possible to devise reliable security to prevent implants from being hacked. Neuralink (and similar companies such as NextMind and Kernel) have every reason to put in this effort. Public perception aside, they would be unlikely to get government approval without it.
+Last year the US Food and Drug Administration granted Neuralink approval for “breakthrough device” testing, in recognition of the technology’s therapeutic potential.
+Moving forward, Neuralink’s implants must be easy to repair, replace and remove in the event of malfunction, or if the wearer wants it removed for any reason. There must also be no harm caused, at any point, to the brain.
+While brain surgery sounds scary, it has been around for several decades and can be done safely.
+According to Musk, Neuralink’s human trials are set to begin towards the end of this year. Although details haven’t been released, one would imagine these trials will build on previous progress. Perhaps they will aim to help someone with spinal injuries walk again.
+The neuroscience research needed for such a brain-machine interface has been advancing for several decades. What was lacking was an engineering solution that solved some persistent limitations, such as having a wireless connection to the implant, rather than physically connecting with wires.
+
+On the question of whether Neuralink overstates the potential of its technology, one can look to Musk’s record of delivering results in other enterprises (albeit after delays).
+The path seems clear for Neuralink’s therapeutic trials to go ahead. More grandiose predictions, however, should stay on the backburner for now.
+A human-AI partnership could have a positive future as long as humans remain in control. The best chess player on Earth is not an AI, nor a human. It’s a human-AI team known as a Centaur.
+And this principle extends to every field of human endeavour AI is making inroads into.

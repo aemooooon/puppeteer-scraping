@@ -1,0 +1,39 @@
+I have been doing research on intelligence for 30 years. Like most of my colleagues, I did not get involved in the field with the aim of producing technological objects, but because I have an interest in the the abstract nature of the notion of intelligence. I wanted to understand intelligence. That’s what science is: Understanding.
+However, when a group of researchers ends up understanding something new, that knowledge can be exploited for beneficial or harmful purposes.
+That’s where we are   — at a turning point where the science of artificial intelligence is emerging from university laboratories. For the past five or six years, large companies such as Facebook  and Google have become so interested in the field that they are putting hundreds of millions of dollars on the table to buy AI firms and then develop this expertise internally.
+The progression in AI has since been exponential. Businesses are very interested in using this knowledge to develop new markets and products and to improve their efficiency.
+So, as AI spreads in society, there is an impact. It’s up to us to choose how things play out. The future is in our hands.
+From the get-go, the issue that has concerned me is that of lethal autonomous weapons, also known as killer robots.
+While there is a moral question because machines have no understanding of the human, psychological and moral context, there is also a security question because these weapons could destabilize the world order.
+Another issue that quickly surfaced is that of job losses caused by automation. We asked the question: Why? Who are we trying to bring relief to and from what? The trucker isn’t happy on the road? He should be replaced by… nobody?
+We scientists seemingly can’t do much. Market forces determine which jobs will be eliminated or those where the workload will be lessened, according to the economic efficiency of the automated replacements. But we are also citizens who can participate in a unique way in the social and political debate on these issues precisely because of our expertise.
+Computer scientists are concerned with the issue of jobs. That is not because they will suffer personally. In fact, the opposite is true. But they feel they have a responsibility and they don’t want their work to potentially put millions of people on the street.
+So strong support exists, therefore, among computer scientists —  especially those in AI —  for a revision of the social safety net to allow for a sort of guaranteed wage, or what I would call a form of guaranteed human dignity.
+The objective of technological innovation is to reduce human misery, not increase it.
+It is also not meant to increase discrimination and injustice. And yet, AI can contribute to both.
+Discrimination is not so much due, as we sometimes hear, to the fact AI was conceived by men because of the alarming lack of women in the technology sector. It is mostly due to AI leading on data that reflects people’s behaviour. And that behaviour is unfortunately biased.
+In other words, a system that relies on data that comes from people’s behaviour will have the same biases and discrimination as the people in question. It will not be “politically correct.” It will not act according to the moral notions of society, but rather according to common denominators.
+Society is discriminatory and these systems, if we’re not careful, could perpetuate or increase that discrimination.
+There could also be what is called a feedback loop. For example, police forces use this kind of system to identify neighbourhoods or areas that are more at-risk. They will send in more officers… who will report more crimes. So the statistics will strengthen the biases of the system.
+The good news is that research is currently being done to develop algorithms that will minimize discrimination. Governments, however, will have to bring in rules to force businesses to use these techniques.
+There is also good news on the horizon. The medical field will be one of those most affected by AI —  and it’s not just a matter of saving money.
+Doctors are human and therefore make mistakes. So the more we develop systems with more data, fewer mistakes will occur. Such systems are more precise than the best doctors. They are already using these tools so they don’t miss important elements such as cancerous cells that are difficult to detect in a medical image.
+There is also the development of new medications. AI can do a better job of analyzing the vast amount of data (more than what a human would have time to digest) that has been accumulated on drugs and other molecules. We’re not there yet, but the potential is there, as is more efficient analysis of a patient’s medical file.
+We are headed toward tools that will allow doctors to make links that otherwise would have been very difficult to make and will enable physicians to suggest treatments that could save lives.
+The chances of the medical system being completely transformed within 10 years are very high and, obviously, the importance of this progress for everyone is enormous.
+I am not concerned about job losses in the medical sector. We will always need the competence and judgment of health professionals. However, we need to strengthen social norms (laws and regulations) to allow for the protection of privacy (patients’ data should not be used against them) as well as to aggregate that data to enable AI to be used to heal more people and in better ways.
+Because of all these issues and others to come, the Montréal Declaration for Responsible Development of Artificial Intelligence is important. It was signed Dec. 4 at the Society for Arts and Technology in the presence of about 500 people.
+It was forged on the basis of vast consensus. We consulted people on the internet and in bookstores and gathered opinion in all kinds of disciplines. Philosophers, sociologists, jurists and AI researchers took part in the process of creation, so all forms of expertise were included.
+There were several versions of this declaration. The first draft was at a forum on the socially responsible development of AI organized by the Université de Montréal on Nov. 2, 2017.
+That was the birthplace of the declaration.
+Its goal is to establish a certain number of principles that would form the basis of the adoption of new rules and laws to ensure AI is developed in a socially responsible manner. Current laws are not always well adapted to these new situations.
+And that’s where we get to politics.
+Matters related to ethics or abuse of technology ultimately become political and therefore belong in the sphere of collective decisions.
+How is society to be organized? That is political.
+What is to be done with knowledge? That is political.
+I sense a strong willingness on the part of provincial governments as well as the federal government to commit to socially responsible development.
+Because Canada is a scientific leader in AI, it was one of the first countries to see all its potential and to develop a national plan. It also has the will to play the role of social leader.
+Montréal has been at the forefront of this sense of awareness for the past two years. I also sense the same will in Europe, including France and Germany.
+Generally speaking, scientists tend to avoid getting too involved in politics. But when there are issues that concern them and that will have a major impact on society, they must assume their responsibility and become part of the debate.
+And in this debate, I have come to realize that society has given me a voice — that governments and the media were interested in what I had to say on these topics because of my role as a pioneer in the scientific development of AI.
+So, for me, it is now more than a responsibility. It is my duty. I have no choice.

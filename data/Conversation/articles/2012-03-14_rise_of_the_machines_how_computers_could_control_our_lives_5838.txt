@@ -1,0 +1,23 @@
+Predicting the future is a risky business. If it wasn’t, we’d all be very wealthy by now. The Danish physicist Neils Bohr famously opined: “Prediction is very difficult, especially about the future”.
+Despite this, I confidently predict that machines will come to run our lives. And I’m not alone in this view. US mathematician Claude Shannon, one of the fathers of computation, wrote: “I visualize a time when we will be to robots what dogs are to humans, and I’m rooting for the machines.”
+And physicist Stephen Hawking, who is never short of a quote on life, the universe and everything has said that: “Unless mankind redesigns itself by changing our DNA through altering our genetic makeup, computer-generated robots will take over our world”.
+So how can we be so sure? Well, in a sense, it’s already happened. Computers are in charge of many aspects of our lives and it’s probably too late to turn them off.
+Last month, medical bills in Australia couldn’t be paid. The cause? Computer software in the Australian Health Industry Claims and Payments Service (HICAPS) system that didn’t know about the leap day.
+In November 2009, the entire air traffic control system of the United States crashed, causing chaos to travellers. The cause? The failure of a single router board.
+And in August 2003, a powercut in the United States put 55 million people in the dark. The cause? Faulty software on a single computer that failed to detect what should have been a harmless local outage.
+And there are many more examples. When computers fail, we see just how dependent we have become on them.
+Historians will probably look back from the 22nd century and observe that the rise of machines became inevitable the day we first picked up a rock and started using it as a tool. Since then, we’ve been using machines to amplify our physical and, more recently, our mental capabilities.
+Computers are now embedded into almost every aspect of our lives. Sometimes they’re even making life and death decisions:
+Given these incidents (and others), it is unsurprising there is concern in some quarters about the risk of giving up control to machines. As a scientist, I welcome this discussion.
+Roman Yampolskiy, a computer scientist at the University of Louisville in Kentucky, recently joined this debate with an article in the March issue of the Journal of Consciousness Studies (yes, such a scholarly tome does exist).
+Yampolskiy proposed that any artificial intelligence we develop should be confined within a secure computing environment. In practical terms, this could mean severely limiting the ability of the AI to interact with the outside world. The AI would live in a virtual “prison”.
+Confining AI in this way would prevent harmful effects since the computer would not be able to take direct actions, only offer advice. However, it would still allowing humanity to benefit from the AI’s super-intelligence.
+This might sound like a good idea, but there are many arguments against this strategy.
+First, it’s probably not possible. Where mankind has faced other, similar threats, confinement has been a controversial option.
+For instance, while the smallpox virus is now confined to just two laboratories around the world, many believe this leaves us exposed to bioterrorist threats.
+And cinema is full of examples where artificial intelligence manages to escape any such controls – think of films such as Blade Runner, The Matrix series and The Terminator series. Sure, these are just films, but fiction has a terrible habit of becoming fact. Our imaginations are often the best tool we have for predicting the future.
+Second, confining AI is not desirable. Artificial intelligence can help us tackle many of the environmental, financial and other problems facing society today. This just won’t be possible if we isolate machines. If you isolate a child, they will struggle to learn and develop intelligence.
+Many scientists, myself included, believe intelligence doesn’t exist in isolation, but emerges from our interaction with the ever-changing world.
+Third, confining AI creates a false sense of security. Isaac Asimov had the right idea here: we need to ensure the DNA of any machine is designed to prevent harm. Asimov’s First Law of Robotics – which appeared in his 1942 short story, Runaround – states:
+“A robot may not injure a human being or, through inaction, allow a human being to come to harm.”
+Like all technologies, computers offer immense potential for good and for bad. It is our duty to properly train the next generation of computer scientists so “good” is programmed into the very DNA of future computers.

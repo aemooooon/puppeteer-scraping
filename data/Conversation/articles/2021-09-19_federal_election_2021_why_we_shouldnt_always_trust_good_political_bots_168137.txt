@@ -1,0 +1,29 @@
+During the 2019 federal election campaign, concerns about foreign interference and scary “Russian bots” dominated conversation. In contrast, throughout the 2021 election cycle, new political bots have been getting noticed for their potentially helpful contributions.
+From detecting online toxicity to replacing traditional polling, political bot creators are experimenting with artificial intelligence (AI) to automate analysis of social media data. These kinds of political bots can be framed as “good” uses of AI, but even if they can be helpful, we need to be critical.
+The cases of SAMbot and Polly can help us understand what to expect and demand from people when they choose to use AI in their political activities.
+SAMbot was created by Areto Labs in partnership with the Samara Centre for Democracy. It’s a tool that automatically analyzes tweets to assess harassment and toxicity directed at political candidates.
+Advanced Symbolics Inc. deployed a tool called Polly to analyze social media data and predict who will win the election.
+Both are receiving media attention and having an impact on election coverage.
+We know little about how these tools work yet we trust them largely because they are being used by non-partisan players. But these bots are setting the stage and standards for how this kind of AI will be used moving forward.
+It is tempting to think of SAMbot or Polly as friends, helping us understand the confusing mess of political chatter on social media. Samara, Areto Labs and Advanced Symbolics Inc. all promote the things their bots do, all the data their bots have analyzed and all the findings their bots have unearthed.
+SAMbot is depicted as an adorable robot with big eyes, five fingers on each hand, and a nametag.
+
+Polly has been personified as a woman. However, these bots are still tools that require humans to be used. People decide what data to collect, what kind of analysis is appropriate and how to interpret the results.
+
+But when we personify, we risk losing sight of the agency and responsibility bot creators and bot users have. We need to think about these bots as tools used by people.
+AI is a catch-all phrase for a wide range of technology, and the techniques are evolving. Explaining the process is a challenge even in lengthy academic articles, so it’s not surprising most political bots are presented with scant information about how they work.
+Bots are black boxes — meaning their inputs and operations aren’t visible to users or other interested parties — and right now bot creators are mostly just suggesting: “It’s doing what we want it to, trust us.”
+The problem is, what goes on in those black boxes can be extremely varied and messy, and small choices can have massive knock-on effects. For example, Jigsaw’s (Google) Perspective API — aimed at identifying toxicity — infamously and unintentionally embedded racist and homophobic tendencies into their tool.
+Jigsaw only discovered and corrected the issues once people started asking questions about unexpected results.
+We need to establish a base set of questions to ask when we see new political bots. We must develop digital literacy skills so we can question the information that shows up on our screens.
+What data is being used? Does it actually represent the population we think it does?
+SAMbot is only applied to tweets mentioning incumbent candidates, and we know that better known politicians are likely to engender higher levels of negativity. The SAMbot website does make this clear, but most media coverage of their weekly reports throughout this election cycle misses this point.
+Polly is used to analyze social media content. But that data isn’t representative of all Canadians. Advanced Symbolics Inc. works hard to mirror the general population of Canadians in their analysis, but the population that simply never posts on social media is still missing. This means there is an unavoidable bias that needs to be explicitly acknowledged in order for us to situate and interpret the findings.
+How was the bot trained to analyze the data? Are there regular checks to make sure the analysis is still doing what the creators initially intended?
+Each political bot might be designed very differently. Look for a clear explanation of what was done and how the bot creators or users check to make sure their automated tool is in fact on target (validity) and consistent (reliability).
+The training processes to develop both SAMbot and Polly aren’t explained in detail on their respective websites. Methods data has been added to the SAMbot website throughout the 2021 election campaign, but it’s still limited. In both cases you can find a link to a peer-reviewed academic article that explains part, but not all, of their approaches.
+While it’s a start, linking to often complex academic articles can actually make understanding the tool difficult. Instead, simple language helps.
+Some additional questions to ponder: How do we know what counts as “toxic?” Are human beings checking the results to make sure they are still on target?
+SAMbot and Polly are tools created by non-partisan entities with no interest in creating disinformation, sowing confusion or influencing who wins the election on Monday. But the same tools could be used for very different purposes. We need to know how to identify and critique these bots.
+Any time a political bot, or indeed any type of AI in politics, is employed, information about how it was created and tested is essential.
+It’s important we set expectations for transparency and clarity early. This will help everyone develop better digital literacy skills and will allows us to distinguish between trustworthy and untrustworthy uses of these kinds of tools.

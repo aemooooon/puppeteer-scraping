@@ -1,0 +1,37 @@
+We’ve all had some kind of interaction with a chatbot. It’s usually a little pop-up in the corner of a website, offering customer support – often clunky to navigate – and almost always frustratingly non-specific.
+But imagine a chatbot, enhanced by artificial intelligence (AI), that can not only expertly answer your questions, but also write stories, give life advice, even compose poems and code computer programs.
+It seems ChatGPT, a chatbot released last week by OpenAI, is delivering on these outcomes. It has generated much excitement, and some have gone as far as to suggest it could signal a future in which AI has dominion over human content producers.
+What has ChatGPT done to herald such claims? And how might it (and its future iterations) become indispensable in our daily lives?
+
+
+ChatGPT builds on OpenAI’s previous text generator, GPT-3. OpenAI builds its text-generating models by using machine-learning algorithms to process vast amounts of text data, including books, news articles, Wikipedia pages and millions of websites.
+By ingesting such large volumes of data, the models learn the complex patterns and structure of language and acquire the ability to interpret the desired outcome of a user’s request.
+ChatGPT can build a sophisticated and abstract representation of the knowledge in the training data, which it draws on to produce outputs. This is why it writes relevant content, and doesn’t just spout grammatically correct nonsense.
+While GPT-3 was designed to continue a text prompt, ChatGPT is optimised to conversationally engage, answer questions and be helpful. Here’s an example:
+ChatGPT immediately grabbed my attention by correctly answering exam questions I’ve asked my undergraduate and postgraduate students, including questions requiring coding skills. Other academics have had similar results.
+In general, it can provide genuinely informative and helpful explanations on a broad range of topics.
+ChatGPT is also potentially useful as a writing assistant. It does a decent job drafting text and coming up with seemingly “original” ideas.
+Why does ChatGPT seem so much more capable than some of its past counterparts? A lot of this probably comes down to how it was trained.
+During its development ChatGPT was shown conversations between human AI trainers to demonstrate desired behaviour. Although there’s a similar model trained in this way, called InstructGPT, ChatGPT is the first popular model to use this method.
+And it seems to have given it a huge leg-up. Incorporating human feedback has helped steer ChatGPT in the direction of producing more helpful responses and rejecting inappropriate requests.
+Refusing to entertain inappropriate inputs is a particularly big step towards improving the safety of AI text generators, which can otherwise produce harmful content, including bias and stereotypes, as well as fake news, spam, propaganda and false reviews.
+Past text-generating models have been criticised for regurgitating gender, racial and cultural biases contained in training data. In some cases, ChatGPT successfully avoids reinforcing such stereotypes.
+Nevertheless, users have already found ways to evade its existing safeguards and produce biased responses.
+The fact that the system often accepts requests to write fake content is further proof that it needs refinement.
+ChatGPT is arguably one of the most promising AI text generators, but it’s not free from errors and limitations. For instance, programming advice platform Stack Overflow temporarily banned answers by the chatbot for a lack of accuracy.
+One practical problem is that ChatGPT’s knowledge is static; it doesn’t access new information in real time.
+However, its interface does allow users to give feedback on the model’s performance by indicating ideal answers, and reporting harmful, false or unhelpful responses.
+OpenAI intends to address existing problems by incorporating this feedback into the system. The more feedback users provide, the more likely ChatGPT will be to decline requests leading to an undesirable output.
+
+
+One possible improvement could come from adding a “confidence indicator” feature based on user feedback. This tool, which could be built on top of ChatGPT, would indicate the model’s confidence in the information it provides – leaving it to the user to decide whether they use it or not.  Some  question-answering systems already do this.
+
+      What's the secret to making sure AI doesn't steal your job? Work with it, not against it
+Despite its limitations, ChatGPT works surprisingly well for a prototype.
+From a research point of view, it marks an advancement in the development and deployment of human-aligned AI systems. On the practical side, it’s already effective enough to have some everyday applications.
+It could, for instance, be used as an alternative to Google. While a Google search requires you to sift through a number of websites and dig deeper yet to find the desired information, ChatGPT directly answers your question – and often does this well.
+Also, with feedback from users and a more powerful GPT-4 model coming up, ChatGPT may significantly improve in the future. As ChatGPT and other similar chatbots become more popular, they’ll likely have applications in areas such as education and customer service.
+However, while ChatGPT may end up performing some tasks traditionally done by people, there’s no sign it will replace professional writers any time soon.
+While they may impress us with their abilities and even their apparent creativity, AI systems remain a reflection of their training data – and do not have the same capacity for originality and critical thinking as humans do.
+
+      Rather than threaten jobs, artificial intelligence should collaborate with human writers

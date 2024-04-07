@@ -1,0 +1,32 @@
+Today marks an important milestone in the history of the internet: Google’s 25th birthday. With billions of search queries submitted each day, it’s difficult to remember how we ever lived without the search engine.
+What was it about Google that led it to revolutionise information access? And will artificial intelligence (AI) make it obsolete, or enhance it?
+Let’s look at how our access to information has changed through the decades – and where it might lead as advanced AI and Google Search become increasingly entwined.
+In the years following the second world war, it became generally accepted that a successful post-war city was one that could provide civic capabilities – and that included open access to information.
+So in the 1950s information in Western countries was primarily provided by local libraries. Librarians themselves were a kind of “human search engine”. They answered phone queries from businesses and responded to letters – helping people find information quickly and accurately.
+Libraries were more than just a place to borrow books. They were where parents went to look for health information, where tourists requested travel tips, and where businesses sought marketing advice.
+The searching was free, but required librarians’ support, as well as a significant amount of labour and catalogue-driven processes. Questions we can now solve in minutes took hours, days or even weeks to answer.
+By the 1990s, libraries had expanded to include personal computers and online access to information services. Commercial search companies thrived as libraries could access information through expensive subscription services.
+These systems were so complex that only trained specialists could search, with consumers paying for results. Dialog, developed at Lockheed Martin in the 1960s, remains one of the best examples. Today it claims to provide its customers access “to over 1.7 billion records across more than 140 databases of peer-reviewed literature”.
+Another commercial search system, The Financial Times’ FT PROFILE, enabled access to articles in every UK broadsheet newspaper over a five-year period.
+But searching with it wasn’t simple. Users had to remember typed commands to select a collection, using specific words to reduce the list of documents returned. Articles were ordered by date, leaving the reader to scan for the most relevant items.
+FT PROFILE made valuable information rapidly accessible to people outside business circles, but at a high price. In the 1990s access cost £1.60 a minute – the equivalent of £4.65 (or A$9.00) today.
+Following the world wide web’s launch in 1993, the number of websites grew exponentially.
+Libraries provided public web access, and services such as the State Library of Victoria’s Vicnet offered low-cost access for organisations. Librarians taught users to find information online and build websites. However, the complex search systems struggled with exploding volumes of content and high numbers of new users.
+In 1994, the book Managing Gigabytes, penned by three New Zealand computer scientists, presented solutions for this problem. Since the 1950s researchers had imagined a search engine that was fast, accessible to all, and which sorted documents by relevance.
+In the 1990s, a Silicon Valley startup began to apply this knowledge – Larry Page and Sergey Brin used the principles in Managing Gigabytes to design Google’s iconic architecture.
+After launching on September 4 1998, the Google revolution was in motion. People loved the simplicity of the search box, as well as a novel presentation of results that summarised how the retrieved pages matched the query.
+In terms of functionality, Google Search was effective for a few reasons. It used the innovative approach of delivering results by counting web links in a page (a process called PageRank). But more importantly, its algorithm was very sophisticated; it not only matched search queries with the text within a page, but also with other text linking to that page (this was called anchor text).
+Google’s popularity quickly surpassed competitors such as AltaVista and Yahoo Search. With more than 85% of the market share today, it remains the most popular search engine.
+
+
+As the web expanded, however, access costs were contested.
+Although consumers now search Google for free, payment is required to download certain articles and books. Many consumers still rely on libraries – while libraries themselves struggle with the rising costs of purchasing material to provide to the public for free.
+Google has expanded far beyond Search. Gmail, Google Drive, Google Calendar, Pixel devices and other services show Google’s reach is vast.
+With the introduction of AI tools, including Google’s Bard and the recently announced Gemini (a direct competitor to ChatGPT), Google is set to revolutionise search once again.
+As Google continues to roll generative AI capabilities into Search, it will become common to read a quick information summary at the top of the results page, rather than dig for information yourself. A key challenge will be ensuring people don’t become complacent to the point that they blindly trust the generated outputs.
+Fact-checking against original sources will remain as important as ever. After all, we have seen generative AI tools such as ChatGPT make headlines due to “hallucinations” and misinformation.
+If inaccurate or incomplete search summaries aren’t revised, or are further paraphrased and presented without source material, the misinformation problem will only get worse.
+Moreover, even if AI tools revolutionise search, they may fail to revolutionise access. As the AI industry grows, we’re seeing a shift towards content only being accessible for a fee, or through paid subscriptions.
+The rise of AI provides an opportunity to revisit the tensions between public access and increasingly powerful commercial entities.
+
+      The hidden cost of the AI boom: social and environmental exploitation

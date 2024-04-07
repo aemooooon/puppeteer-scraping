@@ -1,0 +1,33 @@
+ChatGPT has cast long shadows over the media as the latest form of disruptive technology. For some, ChatGPT is a harbinger of the end of academic and scientific integrity, and a threat to white collar jobs and our democratic institutions.
+How concerned should we be about generative artificial intelligence (AI)? The developers of ChatGPT describe it as “a model… which interacts in a conversational way” while also calling it a “horrible product” for its inconsistent results.
+It can write emails, summarize documents, review code and provide comments, translate documents, create content, play games, and, of course, chat. This is hardly the stuff of a dystopian future.
+
+      Unlike with academics and reporters, you can't check when ChatGPT's telling the truth
+We should not fear the introduction of technologies, but neither should we assume they serve our interests. Societies are in a constant process of cultural evolution defined by inertia from the past, temporary consensus and disruptive technologies that introduce new ideas and approaches.
+We must understand and embrace the co-evolution of humans and technology by considering what a technology is designed to do, how it relates to us and how our lives will change from it.
+Along with intelligence, creativity is often considered a uniquely human ability. But creativity is not exclusive to humans — it is a property that has emerged across species as a product of convergent evolution.
+Species as diverse as crows, octopuses, dolphins and chimpanzees can improvize and use tools as well.
+Despite the liberal use of the term, creativity is notoriously hard to capture. Its features include the quantity of output, identifying connections between seemingly unrelated things (remote associations) and providing atypical solutions to problems.
+Creativity does not simply reside in the individual; our social networks and values are also important. As the presence of cultural variants increases, we have a larger pool of ideas, products and processes to draw from.
+Our cultural experiences are resources for creativity. The more diverse ideas we are exposed to, the more novel connections we can make. Studies have suggested that multicultural experience is positively associated with creativity. The greater the distance between cultures, the more creative products we can observe.
+Creativity can also lead to convergence. Different individuals can create similar ideas independent of one another, a process referred to as scientific co-discovery. The invention of calculus and the theory of natural selection are the most prominent examples of this.
+Artificial intelligence is defined by its ability to learn, identify patterns and use decision-making rules.
+If linguistic and artistic products are patterns, then AI — especially those like ChatGPT and DALL-E — should be capable of creativity by assimilating and combining divergent patterns from different artists. Microsoft’s Bing chatbot claims that as one of its core values.
+There is a fundamental problem with such programs: art is now data. By scooping up these products through a process of analysis and synthesis, we can ignore the contributions and cultural traditions of human creators. Without citing and crediting these sources, they can be seen as high-tech plagiarism, appropriating artistic products that have taken generations to accumulate. Concerns of cultural appropriation must also be applicable to AI.
+AI might someday evolve in unpredictable ways, but for the moment, they still rely on humans for their data, design and operations, and the social and ethical challenges they present.
+Humans are still needed for quality control. These efforts often reside within the impenetrable black box of AI, with these operations often outsourced to markets where labour is cheaper.
+The recent high-profile story of CNET’s “AI journalist” presents another example of why skilled human interventions are needed.
+CNET started discretely using an AI bot to write articles in November 2020. After significant errors were pointed out by other news sites, the website ended up publishing lengthy corrections for the AI-written content and did a full audit of the tool.
+At present, there are no rules to determine whether AI products are creative, coherent or meaningful. These are decisions that must be made by people.
+As industries adopt AI, old roles occupied by humans will be lost. Research tells us these losses will be felt the most by those in already vulnerable positions. This pattern follows a general trend of adopting technologies before we understand — or care about — their social and ethical implications.
+Industries rarely consider how a displaced workforce will be re-trained, leaving those individuals and their communities to address these disruptions.
+DALL-E has been portrayed as a threat to artistic integrity because of its ability to automatically generate images of people, exotic worlds and fantastical imagery. Others claim ChatGPT has killed the essay.
+Rather than seeing AI as the cause of new problems, we might better understand AI ethics as bringing attention to old ones. Academic misconduct is a common problem caused by underlying issues including peer influence, perceived consensus and perception of penalties.
+Programs like ChatGPT and DALL-E will merely facilitate such behaviour. Institutions need to acknowledge these vulnerabilities and develop new policies, procedures and ethical norms to address these issues.
+
+      ChatGPT: students could use AI to cheat, but it's a chance to rethink assessment altogether
+Questionable research practices are also not uncommon. Concerns over AI-authored research papers are simply an extension of inappropriate authorship practices, such as ghost and gift authorship in the biomedical sciences. They hinge on discipline conventions, outdated academic reward systems and a lack of personal integrity.
+As publishers reckon with questions of AI authorship, they must confront deeper issues, like why the mass production of academic papers continues to be incentivized.
+Before we shift responsibility to institutions, we need to consider whether we are providing them with sufficient resources to meet these challenges. Teachers are already burned out and the peer review system is overtaxed.
+One solution is to fight AI with AI using plagiarism detection tools. Other tools can be developed to attribute art work to its creators, or detect the use of AI in written papers.
+The solutions to AI are hardly simple, but they can be stated simply: the fault is not in our AI, but in ourselves. To paraphrase Nietzsche, if you stare into the AI abyss, it will stare back at you.

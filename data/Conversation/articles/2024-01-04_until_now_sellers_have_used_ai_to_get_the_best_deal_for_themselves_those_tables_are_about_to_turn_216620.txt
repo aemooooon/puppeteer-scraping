@@ -1,0 +1,27 @@
+It’s no accident we are seeing record profits from some of our biggest consumer-facing companies, among them Qantas andthe big four banks.
+They are among the firms - alongside our grocery duopoly - investing the most in artificial intelligence in the form of data analytics and machine learning.
+Their investments include staff – often hundreds of data scientists – plus information technology systems and external consultants.
+It isn’t cheap, and ultimately much of it will be paid for by customers.
+While some of the initiatives target costs by improving planning and reducing waste and fraud and theft, most target revenue via marketing and personalisation with the aim of getting the best deals to the customers who insist on them and the worst deals to the customers who will buy anyway.
+To the extent that these firms are successful in charging different prices to different customers, it’s a fair bet they are keeping up the cost of living.
+In simpler times, only a few customers needed to do the hard yakka of comparing the prices displayed in shops or on websites and voting with their feet in order to force sellers to keep published prices in check for everyone.
+Now, there’s often no such thing as a single published price.
+Booking a holiday now comes with a bewildering set of frequent flyer rules, hotel loyalty programs, credit card points, cashback offers, possibly buy-now pay-later options, and vouchers and coupons sprinkled across social media.
+Retailers, airlines, phone companies and insurers use sophisticated machine learning algorithms and real-time experiments to continuously tweak the prices and deals they offer individual customers, meaning there is often no such thing as a standard price.
+(The fact they refer to what they are doing as offering discounts doesn’t change the reality that what they are doing is charging higher prices to the customers least likely to notice or complain.)
+To succeed at this game requires vast amounts of customer data, which they have via loyalty schemes and information about past online purchases but their customers do not. That’s about to change.
+For some time now online communities of “points hackers” have been running massive spreadsheets squeezing out the best deals for shoppers and swapping tips.
+But for most of us, it hasn’t seemed worth the effort – so much so that for four years the Victorian government offered a $250 Power Saving Bonus to residents who simply put their name and email address into a price-comparison website.
+But there’s something that does tedious mind-numbing chores extremely well. It’s artificial intelligence of the kind that only became widely available a year ago with the launch of ChatGPT.
+Already, websites are offering AI assistants or “copilots” to pore over our financial records and scour the web, tirelessly haggling with providers’ automated copilots on our behalf.
+These new agents, with names like Comparison and Haggle It use information about our long-term spending patterns, preferences and broad financial goals to benefit us rather than the firms who are trying to sell things to us.
+ChatGPT already has travel plug-ins from providers that can take vague instructions about your timing, preferred locations and budget and build an itinerary with links for buying.
+The next step – not far away – will see it negotiating purchases on our behalf that strike the right balance of points, cashback, miles and vouchers across multiple providers and transactions in a way that will make even the most obsessive points hacker swoon.
+There are already ChatGPT plug-ins for e-commerce, restaurants and groceries.
+Around the world, new and established firms are building Generative AI applications for optimising our household budgets and personal finances across ever-expanding categories.
+A recent survey from Credit Karma found 43% of United States residents would be happy for an artificial intelligence bot to manage their personal finances to reduce their money problems.
+Comparison shopping is the cornerstone of a well-functioning market economy, helping moderate profits and keeping costs down.
+While the last wave of AI was used by big companies to make that task harder, the next wave is about to put that technology in the hands of consumers.
+It is set to force our oligopolies to compete in ways they’ve not been used to,  putting downward pressure on prices rather than helping keep them high.
+
+      Hotel booking sites actually make it hard to get cheap deals, but there's a way around it

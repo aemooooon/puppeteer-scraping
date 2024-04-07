@@ -1,0 +1,32 @@
+Today, almost a quarter of Australians are digitally excluded. This means they miss out on the social, educational and economic benefits online connectivity provides.
+In the face of this ongoing “digital divide”, countries are now talking about a future of inclusive artificial intelligence (AI).
+However, if we don’t learn from current problems with digital exclusion, it will likely spill over into people’s future experiences with AI. That’s the conclusion from our new research published in the journal AI and Ethics.
+The digital divide is a well-documented social schism. People on the wrong side of it face difficulties when it comes to accessing, affording, or using digital services. These disadvantages significantly reduce their quality of life.
+Decades of research have provided us with a rich understanding of who is most at risk. In Australia, older people, those living in remote areas, people on lower incomes and First Nations peoples are most likely to find themselves digitally excluded.
+Zooming out, reports show that one-third of the world’s population – representing the poorest countries – remains offline. Globally, the digital gender divide also still exists: women, particularly in low and middle-income countries, face substantially more barriers to digital connectivity.
+During the COVID pandemic, the impacts of digital inequity became much more obvious. As large swathes of the world’s population had to “shelter in place” – unable to go outside, visit shops, or seek face-to-face contact – anyone without digital access was severely at risk.
+Consequences ranged from social isolation to reduced employment opportunities, as well as a lack of access to vital health information. The UN Secretary-General stated in 2020 that “the digital divide is now a matter of life and death”.
+
+      ‘Digital inclusion’ and closing the gap: how First Nations leadership is key to getting remote communities online
+As with most forms of exclusion, the digital divide functions in multiple ways. It was originally defined as a gap between those who have access to computers and the internet and those who do not. But research now shows it’s not just an issue of access.
+Having little or no access leads to reduced familiarity with digital technology, which then erodes confidence, fuels disengagement, and ultimately sets in motion an intrinsic sense of not being “digitally capable”.
+As AI tools increasingly reshape our workplaces, classrooms and everyday lives, there is a risk AI could deepen, rather than narrow, the digital divide.
+
+      Artificial intelligence holds great potential for both students and teachers – but only if used wisely
+To assess the impact of digital exclusion on people’s experiences with AI, in late 2023 we surveyed a representative selection of hundreds of Australian adults. We began by asking them to rate their confidence with digital technology.
+We found digital confidence was lower for women, older people, those with reduced salaries, and those with less digital access.
+We then asked these same people to comment on their hopes, fears and expectations of AI. Across the board, the data showed that people’s perceptions, attitudes and experiences with AI were linked to how they felt about digital technology in general.
+In other words, the more digitally confident people felt, the more positive they were about AI.
+
+      Giving AI direct control over anything is a bad idea – here's how it could do us real harm
+To build truly inclusive AI, these findings are important to consider for several reasons. First, they confirm that digital confidence is not a privilege shared by all.
+Second, they show us digital inclusion is about more than just access, or even someone’s digital skills. How confident a person feels in their ability to interact with technology is important too.
+Third, they show that if we don’t contend with existing forms of digital exclusion, they are likely to spill over into perceptions, attitudes and experiences with AI.
+Currently, many countries are making headway in their efforts to reduce the digital divide. So we must make sure the rise of AI doesn’t slow these efforts, or worse still, exacerbate the divide.
+While there is a slew of associated risks, when deployed responsibly, AI can make significant positive impacts on society. Some of these can directly target issues of inclusivity.
+For example, computer vision can track the trajectory of a tennis ball during a match, making it audible for blind or low-vision spectators.
+AI has been used to analyse online job postings to help boost employment outcomes in under-represented populations such as First Nations peoples. And, while they’re still in the early stages of development, AI-powered chatbots could increase accessibility and affordability of medical services.
+
+      To boost Indigenous employment, we need to map job opportunities to skills and qualifications. Our new project does just that
+But this responsible AI future can only be delivered if we also address what keeps us digitally divided. To develop and use truly inclusive AI tools, we first have to ensure the feelings of digital exclusion don’t spill over.
+This means not only tackling pragmatic issues of access and infrastructure, but also the knock-on effects on people’s levels of engagement, aptitude and confidence with technology.

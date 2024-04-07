@@ -1,0 +1,31 @@
+OpenAI’s artificial intelligence (AI) chatbot ChatGPT was unleashed onto an unsuspecting public exactly one year ago.
+It quickly became the fastest-growing app ever, in the hands of 100 million users by the end of the second month. Today, it’s available to more than a billion people via Microsoft’s Bing search, Skype and Snapchat – and OpenAI is predicted to collect more than US$1 billion in annual revenue.
+We’ve never seen a technology roll out so quickly before. It took about a decade or so before most people started using the web. But this time the plumbing was already in place.
+As a result, ChatGPT’s impact has gone way beyond writing poems about Carol’s retirement in the style of Shakespeare. It has given many people a taste of our AI-powered future. Here are five ways this technology has changed the world.
+ChatGPT forced governments around the world to wise up to the idea that AI poses significant challenges – not just economic challenges, but also societal and existential challenges.
+United States President Joe Biden catapulted the US to the forefront of AI regulations with a presidential executive order that establishes new standards for AI safety and security. It looks to improve equity and civil rights, while also promoting innovation and competition, and American leadership in AI.
+Soon after, the United Kingdom held the first ever intergovernmental AI Safety Summit in Bletchley Park – the place where the computer was born in World War II to crack the German Enigma code.
+And more recently, the European Union has appeared to be sacrificing its early lead in regulating AI, as it struggled to adapt its AI Act with potential threats posed by frontier models such as ChatGPT.
+Although Australia continues to languish towards the back of the pack in terms of regulation and investment, nations around the world are increasingly directing their money, time and attention towards addressing this issue which, five years ago, didn’t cross most people’s minds.
+
+      The hidden cost of the AI boom: social and environmental exploitation
+Before ChatGPT, it was perhaps car workers and other blue collar workers who most feared the arrival of robots. ChatGPT and other generative AI tools have changed this conversation.
+White collar workers such as graphic designers and lawyers have now also started to worry for their jobs. One recent study of an online job marketplace found earnings for writing and editing jobs have fallen more than 10% since ChatGPT was launched. The gig economy might be the canary in this coalmine.
+There’s huge uncertainty whether more jobs get destroyed by AI than created. But one thing is now certain: AI will be hugely disruptive in how we work.
+The education sector reacted with some hostility to ChatGPT’s arrival, with many schools and education authorities issuing immediate bans over its use. If ChatGPT can write essays, what will happen to homework?
+Of course, we don’t ask people to write essays because there’s a shortage of them, or even because many jobs require this. We ask them to write essays because it demands research skills, improves communication skills, critical thinking and domain knowledge. No matter what ChatGPT offers, these skills will still be needed, even if we spend less time developing them.
+
+      Dumbing down or wising up: how will generative AI change the way we think?
+And it isn’t only school children cheating with AI. Earlier this year, a US judge fined two lawyers and a law firm US$5,000 for a court filing written with ChatGPT that included made-up legal citations.
+I imagine these are growing pains. Education is an area in which AI has much to offer. Large language models such as ChatGPT can, for example, be fine-tuned into excellent Socratic tutors. And intelligent tutoring systems can be infinitely patient when generating precisely targeted revision questions.
+This one is personal. Authors around the world were outraged to discover that many large language models such as ChatGPT were trained on hundreds of thousands of books, downloaded from the web without their consent.
+The reason AI models can converse fluently about everything from AI to zoology is because they’re trained on books about everything from AI to zoology. And the books about AI include my own copyrighted books about AI.
+The irony isn’t lost on me that an AI professor’s books about AI are controversially being used to train AI. Multiple class action suits are now in play in the US to determine if this is a violation of copyright laws.
+Users of ChatGPT have even pointed out examples where chatbots have generated entire chunks of text, verbatim, taken from copyrighted books.
+
+      No, the Lensa AI app technically isn’t stealing artists' work – but it will majorly shake up the art world
+In the short term, one challenge which worries me most is the use of generative AI tools such as ChatGPT to create misinformation and disinformation.
+This concern goes beyond synthetic text, to deepfake audio and videos that are indistinguishable from real ones. A bank has already been robbed using AI-generated cloned voices.
+Elections also now appear threatened. Deepfakes played an unfortunate role in the 2023 Slovak parliamentary election campaign. Two days prior to the election, a fake audio clip about electoral fraud that allegedly featured a well-known journalist from an independent news platform and the chairman of the Progressive Slovakia party reached thousands of social media users. Commentators have suggested such fake content could have a material impact on election outcomes.
+According to The Economist, more than four billion people will be asked to vote in various elections next year. What happens in such elections when we combine the reach of social media to with the power and persuasion of AI-generated fake content? Will it unleash a wave of misinformation and disinformation onto our already fragile democracies?
+It’s hard to predict what will unfold next year. But if 2023 is anything to go by, I suggest we buckle up.

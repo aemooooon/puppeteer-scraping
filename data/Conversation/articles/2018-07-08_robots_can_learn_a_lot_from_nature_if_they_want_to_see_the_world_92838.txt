@@ -1,0 +1,29 @@
+Vision is one of nature’s amazing creations that has been with us for hundreds of millions of years. It’s a key sense for humans, but one we often take for granted: that is, until we start losing it or we try and recreate it for a robot.
+Many research labs (including our own) have been modelling aspects of the vision systems found in animals and insects for decades. We draw heavily upon studies like those done in ants, in bees and even in rodents.
+To model a biological system and make it useful for robots, you typically need to understand both the behavioural and neural basis of that vision system.
+
+      In an ant's world, the smaller you are the harder it is to see obstacles
+The behavioural component is what you observe the animal doing and how that behaviour changes when you mess with what it can see, for example by trying different configurations of landmarks. The neural components are the circuits in the animal’s brain underlying visual learning for tasks, such as navigation.
+Recognition is a fundamental visual process for all animals and robots. It’s the ability to recognise familiar people, animals, objects and landmarks in the world.
+Because of its importance, facial recognition comes partly “baked in” to natural systems such as a baby. We’re able to recognise faces quite early on.
+Along those lines, some artificial face recognition systems are based on how biological systems are thought to function. For example, researchers have created sets of neural networks that mimic different levels of the visual processing hierarchy in primates to create a system that is capable of face recognition.
+Visual place recognition is an important process for anything that navigates through the world.
+Place recognition is the process by which a robot or animal looks at the world around it and is able to reconcile what it’s currently seeing with some past memory of a place, or in the case of humans, a description or expectation of that place.
+Before the advent of GPS navigation, we may have been given instructions like “drive along until you see the church on the left and take the next right hand turn”. We know what a typical church looks like and hence can recognise one when we see it.
+This place recognition may sound like an easy task, until one encounters challenges such as appearance-change – for example the change in the appearance caused by day-night cycles or by adverse weather conditions.
+Another challenge in visually recognising a place is viewpoint change: changes in how a place appears if you view it from a different perspective.
+An extreme example of this is encountered when retracing a route along a road for the first time - you are encountering everything in the environment from the opposite viewpoint.
+Creating a robotic system that can recognise this place despite these challenges requires the vision system to have a deeper understanding of what is in the environment around it.
+Visual sensing hardware has advanced rapidly over the past decade, in part driven by the proliferation of highly capable cameras in smartphones. Modern cameras are now matching or surpassing even the more capable natural vision systems, at least in certain aspects.
+For example, a consumer camera can now see as well as an adjusted human eye in the dark.
+New smartphone cameras can also record video at 1,000 frames per second, enabling the potential for robotic vision systems that operate at a higher frequency than a human vision system.
+Specialist robotic vision sensing such as the Dynamic Vision Sensor (DVS) are even faster but only report the change in the brightness of a pixel, rather than its absolute colour. You can see the difference here in a walk around Hyde Park in London:
+Not all robot cameras have to be like conventional cameras either: roboticists use specialist cameras based on how animals such as ants see the world.
+One of the fundamental questions in all vision-based research for robots and animals is what visual resolution (or visual acuity) is required to “get the job done”.
+For many insects and animals such as rodents, a relatively low visual resolution is all they have access to - equivalent to a camera with a few thousand pixels in many cases (compared with a modern smartphone which has camera resolutions ranging from 8 Megapixels to 40 Megapixels).
+The required resolution varies greatly depending on the task - for some navigation tasks, only a few pixels are required for both animals such as ants and bees and robots.
+But for more complex tasks - such as self-driving cars - much higher camera resolutions are likely to be required.
+If cars are ever to reliably recognise and predict what a human pedestrian is doing, or intending to do, they will likely require high resolution visual sensing systems that can pick up subtle facial expressions and body movement.
+For roboticists looking to nature for inspiration, there is a constant tension between mimicking biology and capitalising on the constant advances in camera technology.
+While biological vision systems were clearly superior to cameras in the past, constant rapid advancement in technology has resulted in cameras with superior sensing capabilities to natural systems in many instances. It’s only sensible that these practical capabilities should be exploited in the pursuit of creating high performance and safe robots and autonomous vehicles.
+But biology will still play a key role in inspiring roboticists. The natural kingdom is superb at making highly capable vision systems that consume minimal space, computational and power resources, all key challenges for most robotic systems.

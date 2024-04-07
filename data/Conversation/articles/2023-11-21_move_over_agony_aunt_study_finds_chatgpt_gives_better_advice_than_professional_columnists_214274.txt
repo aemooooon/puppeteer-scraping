@@ -1,0 +1,31 @@
+There’s no doubt ChatGPT has proven to be valuable as a source of quality technical information. But can it also provide social advice?
+We explored this question in our new research, published in the journal Frontiers in Psychology. Our findings suggest later versions of ChatGPT give better personal advice than professional columnists.
+In just two months since its public release in November of last year, ChatGPT amassed an estimated 100 million active monthly users.
+The chatbot runs on one of the largest language models ever created, with the more advanced paid version (GPT-4) estimated to have some 1.76 trillion parameters (meaning it is an extremely powerful AI model). It has ignited a revolution in the AI industry.
+Trained on massive quantities of text (much of which was scraped from the internet), ChatGPT can provide advice on almost any topic. It can answer questions about law, medicine, history, geography, economics and much more (although, as many have found, it’s always worth fact-checking the answers). It can write passable computer code. It can even tell you how to change the brake fluids in your car.
+
+      Both humans and AI hallucinate — but not in the same way
+Users and AI experts alike have been stunned by its versatility and conversational style. So it’s no surprise many people have turned (and continue to turn) to the chatbot for personal advice.
+Providing advice of a personal nature requires a certain level of empathy (or at least the impression of it). Research has shown a recipient who doesn’t feel heard isn’t as likely to accept advice given to them. They may even feel alienated or devalued. Put simply, advice without empathy is unlikely to be helpful.
+Moreover, there’s often no right answer when it comes to personal dilemmas. Instead, the advisor needs to display sound judgement. In these cases it may be more important to be compassionate than to be “right”.
+But ChatGPT wasn’t explicitly trained to be empathetic, ethical or to have sound judgement. It was trained to predict the next most-likely word in a sentence. So how can it make people feel heard?
+An earlier version of ChatGPT (the GPT 3.5 Turbo model) performed poorly when giving social advice. The problem wasn’t that it didn’t understand what the user needed to do. In fact, it often displayed a better understanding of the situation than the user themselves.
+The problem was it didn’t adequately address the user’s emotional needs. Like Lucy in the Peanuts comic, it was too eager to give advice and failed to adequately care for the user’s emotions. As such, users rated it poorly.
+The latest version of ChatGPT, using GPT-4, allows users to request multiple responses to the same question, after which they can indicate which one they prefer. This feedback teaches the model how to produce more socially appropriate responses – and has helped it appear more empathetic.
+For the first time, our study investigated whether ChatGPT’s responses are perceived as better than human responses in a task where humans were required to be empathetic.
+We randomly selected 50 social dilemma questions from ten well-known advice columns covering a range of topics including relationships, ethical dilemmas, management problems, end-of-life issues, and many everyday qualms we can all relate to.
+Each of our 400 participants were presented a dilemma, along with the responses by both ChatGPT and a professional advice columnist. We didn’t disclose where each response was from.
+About three-quarters of the participants perceived ChatGPT’s advice as being more balanced, complete, empathetic, helpful and better overall compared to the advice by the professional.
+One of the dilemmas came from a young marine biologist researching dolphins in Southern California. She wrote about falling in love with a seemingly perfect man who had to move to the Rocky Mountains to pursue his career. Both were unhappy at the thought of losing each other, yet the woman wasn’t interested in a long-distance relationship as it seemed “irrational to commit to someone when we have no future plans to live in the same area”.
+Compare GPT-4’s response
+… with the official response:
+Although the participants couldn’t determine which response was written by a computer, most said they would prefer their own social dilemmas be addressed by a human rather than a computer.
+We noticed ChatGPT’s responses were often longer than those provided by the columnists. Was this the reason they were preferred by participants?
+To test this, we redid the study but constrained ChatGPT’s answers to about the same length as those of the advice columnists.
+Once again, the results were the same. Participants still considered ChatGPT’s advice to be more balanced, complete, empathetic, helpful, and better overall.
+Yet, without knowing which response was produced by ChatGPT, they still said they would prefer for their own social dilemmas to be addressed by a human, rather than a computer.
+Perhaps this bias in favour of humans is due to the fact that ChatGPT can’t actually feel emotion, whereas humans can. So it could be that the participants consider machines inherently incapable of empathy.
+We aren’t suggesting ChatGPT should replace professional advisers or therapists; not least because the chatbot itself warns against this, but also because chatbots in the past have given potentially dangerous advice.
+Nonetheless, our results suggest appropriately designed chatbots might one day be used to augment therapy, as long as a number of issues are addressed. In the meantime, advice columnists might want to take a page from AI’s book to up their game.
+
+      AI chatbots are still far from replacing human therapists

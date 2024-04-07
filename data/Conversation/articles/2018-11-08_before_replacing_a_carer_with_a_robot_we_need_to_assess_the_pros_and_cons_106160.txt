@@ -1,0 +1,34 @@
+If you have seen science fiction television series such as Humans or Westworld, you might be imagining a near future where intelligent, humanoid robots play an important role in meeting the needs of people, including caring for children or older relatives.
+The reality is that current technologies in this sector are not yet very humanoid, but nonetheless, a range of robots are being used in our care services including disability, aged care, education, and health.
+Our new research, published today by the Australia and New Zealand School of Government, finds that governments need to carefully plan for the inevitable expansion of these technologies to safeguard vulnerable people.
+Australia, like a number of other advanced liberal democracies, is anticipating a future with an older population, with a more complex mix of chronic illness and disease. A number of care organisations already operate under tight fiscal constraints and report challenges recruiting enough qualified staff.
+
+      Robots in health care could lead to a doctorless hospital
+In the future, fewer numbers in the working-age population and increased numbers of retirees will compound this problem. If we then add to this equation the fact consumer expectations are increasing, it starts to look like future care services are facing a somewhat perfect storm.
+Robots are increasingly becoming a feature of our care services, capable of fulfilling a number of roles from manual tasks through to social interaction. Their wider use has been heralded as an important tool in dealing with our impending care crisis. Countries such as Japan see robots playing a key role in filling their workforce gaps in care services.
+A number of Australian residential aged care facilities are using Paro, a therapeutic robot that looks and sounds like a baby harp seal. Paro interacts by moving its head, heavily-lashed wide eyes and flippers, making sounds and responding to particular forms of touch on its furry coat.
+Paro has been used extensively in aged care in the United States, Europe and parts of Asia, typically among people living with dementia.
+Nao is an interactive companion robot developed in a humanoid form but standing just 58cm tall in height.
+Nao has gone through a number of different iterations and has been used for a variety of different applications worldwide, including to help children engaged in paediatric rehabilitation and in various educational and research institutes.
+
+      Robots can help young patients engage in rehab
+Robots are capable of enhancing productivity and improving quality and safety. But there is a potential for misuse or unintended consequences.
+Concerns have been expressed about the use of robots potentially reducing privacy, exposing people to data hacking, or even inflicting physical harm.
+We also lack evidence about the potential long-term implications of human-machine interactions.
+
+      We need robots that can improvise, but it's not easy to teach them right from wrong
+Our research explored the roles robots should and, even more critically, should not play in care delivery. We also investigated the role of government as a steward in shaping this framework through interviews with 35 policy, health care and academic experts from across Australia and New Zealand.
+We found that despite these technologies already being in use in aged care facilities, schools and hospitals, government agencies don’t typically think strategically about their use and often aren’t aware of the risks and potential unintended consequences.
+This means the sector is largely being driven by the interests of technology suppliers. Providers in some cases are purchasing these technologies to differentiate them in the market, but are also not always engaging in critical analysis.
+Our study participants identified that robots were “leveraged” as something new and attractive to keep young people interested in learning, or as “a conversation starter” with prospective families exploring aged care providers.
+But there are significant risks as the technologies become more developed. Drawing on research in other emerging technologies, our participants raised concerns about addiction and reliance on the robot. What would happen if the robot broke or became obsolete, and who would be responsible if a robot caused harm?
+As artificial intelligence develops, robots will develop different levels of capabilities for “knowing” the human they are caring for. This raises concerns about potential hacking and security issues. On the flip side, it raises questions of inequity if different levels of care available at different price points.
+Participants were also concerned about the unintended consequences of robot relationships on human relationships. Families may feel that the robot proxy is sufficient companionship, for instance, and leave their aged relative socially isolated.
+Government has an important role to play by regulating the rapidly developing market.
+We suggest a responsive regulatory approach, which relies on the sector to self- and peer-regulate, and to escalate issues as they arise for subsequent regulation. Such engagement will require education, behaviour change, and a variety of regulatory measures that go beyond formal rules.
+
+      Asimov’s Laws won’t stop robots harming humans so we’ve developed a better solution
+Government has an important role in helping providers understand the different technologies available and their evidence base. Care providers often struggle to access good evidence about technologies and their effectiveness. As such, they’re largely being informed by the market, rather than high quality evidence.
+Many of the stakeholders we spoke to for our research also see a role for government in helping generate an evidence base that’s accessible to providers. This is particularly important where technologies may have been tested, but in a different national context.
+Many respondents called for establishment of industry standards to protect against data and privacy threats, and the loss of jobs.
+Finally, governments have a responsibility to ensure vulnerable people aren’t exploited or harmed by technologies. And they must also ensure robots don’t replace human care and lead to greater social isolation.

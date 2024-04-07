@@ -1,0 +1,25 @@
+Machine learning and other artificial intelligence (AI) methods have had immense success with scientific and technical tasks such as predicting how protein molecules fold and recognising faces in a crowd. However, the application of these methods to the humanities are yet to be fully explored.
+What can AI tell us about philosophy and religion, for example? As a starting point for such an exploration, we used deep learning AI methods to analyse English translations of the Bhagavad Gita, an ancient Hindu text written originally in Sanskrit.
+Using a deep learning-based language model called BERT, we studied sentiment (emotions) and semantics (meanings) in the translations. Despite huge variations in vocabulary and sentence structure, we found that the patterns of emotion and meaning were broadly similar in all three.
+This research opens a path to the use of AI-based technologies for comparing translations and reviewing sentiments in a wide range of texts.
+The Bhagavad Gita is one of the central Hindu sacred and philosophical texts. Written more than 2,000 years ago, it has been translated into more than 100 languages and has been of interest to western philosophers since the 18th century.
+The 700-verse poem is a part of the larger Mahabharata epic, which recounts the events of an ancient war believed to have occurred at Kurukshetra near modern-day Delhi in India.
+
+      Indian philosophy helps us see clearly, act wisely in an interconnected world
+The text of the Bhagavad Gita relates a conversation between the Hindu deity Lord Krishna and a prince called Arjuna. They discuss whether a soldier should go to war for ethics and duty (or “dharma”) if they have close friends or family on the opposing side.
+The text has been instrumental in laying the foundations of Hinduism. Among many other things, it is where the philosophy of karma (a spiritual principle of cause and effect) originates.
+Scholars have also regarded the Bhagavad Gita as a book of psychology, management, leadership and conflict resolution.
+There have been countless English translations of the Bhagavad Gita, but there is not much work that validates their quality. Translations of songs and poems not only break rhythm and rhyming patterns, but can also result in the loss of semantic information.
+In our research, we used deep learning language models to analyse three selected translations of the Bhagavad Gita (from Sanskrit to English) with semantic and sentiment analyses which help in the evaluation of translation quality.
+We used a pre-trained language model known as BERT, developed by Google. We further tuned the model using a human-labelled training dataset based on Twitter posts, which captures 10 different sentiments.
+These sentiments (optimistic, thankful, empathetic, pessimistic, anxious, sad, annoyed, denial, surprise, and joking) were adopted from our previous research into social media sentiment during the onset of the COVID-19 pandemic.
+The three translations we studied used very different vocabulary and syntax, but the language model recognised similar sentiments in the different chapters of the respective translations. According to our model, optimistic, annoyed and surprised sentiments are the most expressed.
+Moreover, the model showed how the overall sentiment polarity changes (from negative to positive) over the course of the conversation between Arjuna and Lord Krishna.
+Arjuna is pessimistic towards the beginning and becomes optimistic as Lord Krisha imparts knowledge of Hindu philosophy to him. The sentiments expressed by Krishna show that with philosophical knowledge of dharma and mentorship, a troubled mind can get clarity for making the right decisions in times of conflict.
+One limitation of our model is that it was trained on data from Twitter, so it recognises “joking” as a common sentiment. It applies this label inappropriately to some parts of the Bhagavad Gita. Humour is complicated and strongly culturally constrained, and understanding it is too much to ask of our model at this stage.
+Due to the nature of the Sanskrit language, the fact that the Bhagavad Gita is a song with rhythm and rhyme, and the varied dates of the translations, different translators used different vocabulary to describe the same concepts.
+The table below shows some of the most semantically similar verses from the three translations.
+
+Our research points the way to the use of AI-based technologies for comparing translations and reviewing sentiments in a wide range of texts.
+This technology can also be extended to review sentiments expressed in entertainment media. Another potential application is analysing movies and songs to provide insights to parents and authorities about the suitability of content for children.
+The author would like to acknowledge the invaluable contribution of Venkatesh Kulkarni to this research.

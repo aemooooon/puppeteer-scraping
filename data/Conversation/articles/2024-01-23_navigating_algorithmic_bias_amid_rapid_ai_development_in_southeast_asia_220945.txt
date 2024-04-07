@@ -1,0 +1,34 @@
+Artificial intelligence (AI) is no longer an emerging technology in Southeast Asia.
+Countries across the region are aggressively adopting AI systems for everything from smart city surveillance to credit scoring apps, promising more financial inclusion.
+But there are growing rumblings that this headlong rush towards automation is outpacing ethical checks and balances. Looming over glowing promises of precision and objectivity is the spectre of algorithmic bias.
+AI bias refers to cases where automated systems produce discriminatory results due to technical limitations or issues with the underlying data or development process. This can propagate unfair prejudices against vulnerable demographic groups.
+For instance, a facial recognition tool trained predominantly on Caucasian faces may have drastically lower accuracy at identifying Southeast Asian individuals.
+As Southeast Asia attempts to navigate the new terrain of automated decision-making, this article delves into the swelling chorus of dissent questioning whether Southeast Asia’s AI ascent could leave marginalised communities even further behind.
+In Southeast Asia, the prevalence of AI bias is evident in various forms, such as flawed speech and image recognition, as well as biased credit risk assessments.
+These algorithmic biases often lead to unjust outcomes, disproportionately affecting minority ethnic groups.
+A notable example from Indonesia demonstrates this. An AI-based job recommendation system unintentionally excluded women from certain job opportunities, a result of historical biases ingrained in the data.
+The diversity of the region, with its array of languages, skin tones and cultural nuances, often gets overlooked or inaccurately represented in AI models that rely on Western-centric training data.
+Consequently, these AI systems, which are often perceived as neutral and objective, inadvertently perpetuate real-world inequalities rather than eliminating them.
+The rapid evolution of technology in Southeast Asia presents significant ethical challenges in AI applications, due in large part to the breakneck pace at which automation and other advanced technologies are being adopted.
+This rapid adoption outpaces the development of ethical guidelines.
+Limited local involvement in AI development sidelines critical regional expertise and widens the democracy deficit
+The “democracy deficit” refers to the lack of public participation in AI decision-making – facial recognition rolled out by governments without consulting impacted communities being one case.
+For example, Indigenous groups like the Aeta in the Philippines are already marginalised and could face particular threats from unchecked automation. Without data or input from rural Indigenous communities, they could be excluded from AI opportunities.
+Meanwhile, biased data sets and algorithms risk exacerbating discrimination. The region’s colonial history and continuous marginalisation of Indigenous communities casts a significant shadow.
+The uncritical implementation of automated decision-making, without addressing underlying historical inequalities and the potential for AI to reinforce discriminatory patterns, presents a profound ethical concern.
+Regulatory frameworks lag behind the swift pace of technological implementation, leaving vulnerable ethnic and rural communities to deal with harmful AI errors without recourse.
+Southeast Asia finds itself at a crucial juncture, strategically positioned at the heart of AI advancements and geopolitical interests.
+Both the United States and China seemingly leverage artificial intelligence (AI) to expand their influence in the region.
+During President Biden’s 2023 trip to Vietnam, the US government revealed initiatives for increased collaboration and investment by American corporations, including Microsoft, Nvidia and Google, in Southeast Asian countries to gain access to data and engineering talent. This data and talent is seen as crucial for training advanced AI systems.
+At the same time, China has been rapidly investing in digital infrastructure projects in the region through its Belt and Road Initiative, sparking concerns about technological colonialism.
+There are also worries that Southeast Asia may become a battleground for US–China AI competition, escalating security tensions and risks of an AI arms race.
+With major powers vying for economic, military and ideological influence, Southeast Asian nations face complex challenges in managing these multifaceted interests around AI.
+Crafting policies that balance benefits and risks, while maintaining autonomy, will be critical.
+Considering Southeast Asia’s immense diversity of ethnicity, languages and socio-cultural traditions, the region has both unique vulnerabilities but also tremendous opportunities regarding AI ethics.
+Constructing more inclusive technological futures requires sustained collaboration across governments, companies and community groups.
+No single prescription can “solve” algorithmic bias, but emphasising representation, accountability and transparency will point the way.
+In Southeast Asia, civil society groups and scholars are increasingly vocal about the need for guardrails on AI adoption, better representation in datasets and protections against automated discrimination.
+While there are growing number of local start-ups contributing to regional specific AI-based technologies, such as Kata.AI in Indonesian language, the first natural language processing algorithms in Indonesia, or Bindez in Myanmar, more is needed to ensure local experts contribute to nuanced AI system tailored for Southeast Asia.
+To support this vision, more funding and collaboration should be fostered not only between ASEAN members, but also with global experts on AI technology.
+Fundamentally, the path ahead necessitates vigilance. Technologies do not stand apart from the societies shaping them.
+Therefore, in questioning pervasive assumptions encoded in AI systems, perhaps we move closer towards the emancipatory promise of automation. Ensuring all voices are heard, not just the privileged and powerful, remains vital even in our algorithmic age.

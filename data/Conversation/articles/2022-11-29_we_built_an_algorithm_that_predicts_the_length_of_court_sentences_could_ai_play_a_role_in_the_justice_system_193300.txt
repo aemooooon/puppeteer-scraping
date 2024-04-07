@@ -1,0 +1,32 @@
+The rapid development of artificial intelligence (AI) has led to its deployment in courtrooms overseas. In China, robot judges decide on small claim cases, while in some Malaysian courts, AI has been used to recommend sentences for offences such as drug possession.
+Is it time New Zealand considers AI in its own judicial system?
+Intuitively, we do not want to be judged by a computer. And there are good reasons for our reluctance – with valid concerns over the potential for bias and discrimination. But does this mean we should be afraid of any and all use of AI in the courts?
+In our current system, a judge sentences a defendant once they have been found guilty. Society trusts judges to hand down fair sentences based on their knowledge and experience.
+But sentencing is a task AI may be able to perform instead – after all, AI machines are already used to predict some criminal behaviour, such as financial fraud. Before considering the role of AI in the court room, then, we need a clear understanding of what it actually is.
+AI simply refers to a machine behaving in a way that humans identify as “intelligent”. Most modern AI is machine learning, where a computer algorithm learns the patterns within a set of data. For example, a machine learning algorithm could learn the patterns in a database of houses on Trade Me in order to predict house prices.
+So, could AI sentencing be a feasible option in New Zealand’s courts? What might it look like? Or could AI at least assist judges in the sentencing process?
+
+In New Zealand, judges must weigh a number of mitigating and aggravating variables before deciding on a sentence for a convicted criminal. Each judge uses their discretion in deciding the outcome of a case. At the same time, judges must strive for consistency across the judicial system.
+Consistency means similar offences should receive similar penalties in different courts with different judges. To enhance consistency, the higher level courts have prepared guideline judgements that judges refer to during sentencing.
+
+      Criminal justice algorithms: Being race-neutral doesn’t mean race-blind
+But discretion works the opposite way. In our current system, judges should be free to individualise the sentence after a complete evaluation of the case.
+Judges need to factor in individual circumstances, societal norms, the human condition and the sense of justice. They can use their experience and sense of humanity, make moral decisions and even sometimes change the law.
+In short, there is a “desirable inconsistency” that we cannot currently expect from a computer. But there may also be some “undesirable inconsistency”, such as bias or even extraneous factors like hunger. Research has shown that in some Israeli courts, the percentage of favourable decisions drops to nearly zero before lunch.
+This is where AI may have a role in sentencing decisions. We set up a machine learning algorithm and trained it using 302 New Zealand assault cases, with sentences between zero and 14.5 years of imprisonment.
+Based on this data, the algorithm built a model that can take a new case and predict the length of a sentence.
+The beauty of the algorithm we used is that the model can explain why it made certain predictions. Our algorithm quantifies the phrases the model weighs most heavily when calculating the sentence.
+
+      People are using artificial intelligence to help sort out their divorce. Would you?
+To evaluate our model, we fed it 50 new sentencing scenarios it had never seen before. We then compared the model’s predicted sentence length with the actual sentences.
+The relatively simple model worked quite well. It predicted sentences with an average error of just under 12 months.
+The model learned that words or phrases such as “sexual”, “young person”, “taxi” and “firearm” correlated with longer sentences, while words such as “professional”, “career”, “fire” and “Facebook” correlated with shorter sentences.
+Many of the phrases are easily explainable – “sexual” or “firearm” may be linked with aggravated forms of assault. But why does “young person” weigh towards more time in prison and “Facebook” towards less? And how does an average error of 12 months compare to variations in human judges?
+The answers to those questions are possible avenues for future research. But it is a useful tool to help us understand sentencing better.
+
+Clearly, we cannot test our model by employing it in the courtroom to deliver sentences. But it gives us an insight into our sentencing process.
+Judges could use this type of modelling to understand their sentencing decisions, and perhaps remove extraneous factors. AI models could also be used by lawyers, providers of legal technology and researchers to analyse the sentencing and justice system.
+
+      From robodebt to racism: what can go wrong when governments let algorithms make the decisions
+Maybe the AI model could also help create some transparency around controversial decisions, such as showing the public that seemingly controversial sentences like a rapist receiving home detention may not be particularly unusual.
+Most would argue that the final assessments and decisions on justice and punishment should be made by human experts. But the lesson from our experiment is that we should not be afraid of the words “algorithm” or “AI” in the context of our judicial system. Instead, we should be discussing the real (and not imagined) implications of using those tools for the common good.

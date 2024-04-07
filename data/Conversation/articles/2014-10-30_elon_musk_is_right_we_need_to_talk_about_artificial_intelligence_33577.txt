@@ -1,0 +1,25 @@
+Last week, Elon Musk warned an audience at MIT that:
+Musk is the serial entrepeneur, inventor and investor famous for founding PayPal, Tesla, and SpaceX. Having seriously disrupted the banking sector, the car industry and space travel, he knows a thing or two about the ability of technology, especially computing, to disrupt the world.
+He was also the movie role-model for Tony Stark, the invincible Iron Man from Marvel comics.
+It’s not the first time that Musk has raised concerns about artificial intelligence (AI).
+Talking to CNBC in June this year about his investments in AI companies, he said:
+The field of artificial intelligence, the study of how to build intelligent computers, has a long history of receiving such dire predictions.
+Even one of the finest visionaries of the future, science fiction writer Arthur C. Clarke foretold dangerous consequences to building artificial intelligence.
+Clarke predicted many technologies that have come into existence including geosynchronous satellites, a global library (which we now call the internet), machine translation and more.
+But his HAL 9000 computer in the novel 2001 famously demonstrated the consequences of AI taking control.
+Is Musk right? Is AI really our biggest existential threat?
+We first have to agree what we mean by “biggest”. If we mean “most certain to destroy mankind” then there are other threats which have almost no other outcome than our complete destruction.
+Large asteroids in near-Earth orbits have had a habit of knocking the dominant species off the face of this planet; and no cast of ageing movie actors is going to save us from this fate.
+If “biggest” means “most likely” to impact on mankind “seriously” in the near future then a majority of scientists would probably name climate change over artificial intelligence as a bigger imminent threat. Or an Ebola pandemic.
+Indeed, the Future of Humanity Institute at the University of Oxford has a long list of threats besides artificial intelligence including nanotechnology, biotechnology, resource depletion, and overpopulation.
+So it is not at all certain that AI is really our biggest threat.
+Actually my suspicion is that AI’s biggest threat is to your job.
+Even previously considered safe professions like medicine and law are starting to see the impact of smart systems.
+Technologies such as IBM’s Watson and Apple’s Siri are paving the way for many tasks to be automated.
+The workplace of today is very different to that of 50 years ago. And the workplace of 50 years time is going to be almost unrecognisable compared to the workplace of today.
+And this really will have a big impact on society, how we view work, and how wealth is distributed.
+Indeed, one of the biggest threats of artificial intelligence may well be to enlarge the already widening gap between the rich and the poor. If AI increases the rate of return on capital, then the wealth inequality that Thomas Piketty has charted will only become even more extreme.
+This is the sort of serious debate that we need to start having soon for it will impact on all of us.
+Within the field of artificial intelligence, such a debate is starting to happen. I, for example, will chair a workshop on this topic at the next annual meeting of the Association for the Advancement of Artificial Intelligence.
+Our goal is to ensure the outcomes are good. I encourage you to join this debate.
+The first international workshop on AI and ethics takes place in January 2015. Details here.

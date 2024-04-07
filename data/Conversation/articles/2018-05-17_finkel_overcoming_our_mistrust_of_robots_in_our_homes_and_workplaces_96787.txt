@@ -1,0 +1,58 @@
+Here’s a question: do you consider yourself to be a trusting person? Or let me put it another way: would you put your life in the hands of a total stranger?
+You do. Hundreds if not thousands of times, every day.
+Take me, for example. This morning I woke up. I switched on the light – trusting that I wouldn’t be electrocuted by a faulty lamp, or cord, or socket. I prepared my breakfast – trusting that I wouldn’t be poisoned by salmonella in my factory-processed muesli.
+I walked from my hotel across Elizabeth Street in peak hour. Hundreds of cars bearing down on me. Sydney drivers. And nothing to protect me except a red light and a white line.
+All of these decisions make sense to us, because we know that we live in a society where human behaviour is governed by conventions and rules.
+That capacity to trust in unknown humans, not because of a belief in our innate goodness, but because of the systems that we humans have made, is the true genius of our species.
+We can collaborate – and innovate – because we can trust.
+Now let’s replace a fellow human in these day-to-day interactions with artificial intelligence: AI. What would it take for you to put the same level of trust in AI as in a human?
+To chat with your child? To drive your taxi? To read your brain scan? To scan your face at a concert, at work, or in a supermarket?
+What is it about AI that unnerves us? I suspect it’s a combination of two things.
+First, we lack information. The knowledge seems concentrated in a small community of experts. Perhaps 22,000 worldwide are qualified to the level of a PhD in AI.
+People with rare skills in high demand come at an eye-watering price. That makes them very hard to keep in universities and public agencies.
+It’s not unknown for technology developers to buy up IT faculties. And whether these experts work in industry, or the public sector, or universities, there are often commercial or security reasons to keep quiet about their activities.
+Consider Google. In footage beamed around the world last week, Google debuted an AI that makes phone calls on your behalf, in a human voice, and chats with the human who answers.
+Now for 68 years the world has been waiting for an AI that could fool us into thinking it was human. We call it the Turing test, after the scientist who proposed it in 1950, Alan Turing.
+He began with the question: “Can machines think?” Since we can’t agree on a single test for “thinking”, Turing replaced it with a thought experiment he called the “imitation game”: can we build a machine that would pass as human, to humans, if we couldn’t see it and judged it by its words?
+Watching Google’s AI book a haircut and a table at a restaurant, some observers say the Turing test was met. And, as a result, your world has changed - because every phone call you make or receive now carries a niggling doubt. That could be a machine.
+Hand in hand with our lack of knowledge is our lack of foreknowledge. We give up our data today without knowing what others might be able to do with it tomorrow.
+When you uploaded your photos to Facebook, did you expect that Facebook would be able to scan them, name all the people, identify your tastes in food and clothing and hobbies, diagnose certain genetic disorders, like Down Syndrome, decide on your personality type, and package all that information for advertisers?
+Probably not. But we can’t unpick our choices.
+One response to these questions would be to conclude that the only safe way forward is to ban AI. That would be a tragic mistake for Australia.
+It wouldn’t halt progress, because I find it difficult to believe that China and France and the United Kingdom and the United States and every other nation that has staked its future on AI would now step back from the race.
+Why would they, when they see that for all the risks, the future has infinite promise?
+Health care, available to all, tailored precisely to the individual. Your personal chauffeur, a privilege previously only available to the super wealthy. An AI assistant for each of us, to manage our appointments and remind us of the things we would doubtless forget. We want those benefits in Australia.
+A ban would simply discourage research and development in the places where we most want to see it: reputable institutions, like CSIRO’s Data61, and our universities.
+Of course, the fastest way to end up with a total ban is to allow a free-for-all. That allows unscrupulous and unthinking and just plain incompetent people to do their worst.
+No, we want rules that allow us to trust AI, just as they allow us to trust our fellow humans. So my question again: what would it take for you to extend your trust?
+Think back to the web of rules that protect us every time we walk across a pedestrian crossing.
+We could think of that web of rules as a spectrum. On the extreme left, we have light-touch rules: manners and customs. As we move to the right, the rules become more binding.
+There are industry codes, standards and regulations. Further along, the criminal law. To the extreme right, international prohibitions against chemical and biological weapons.
+Different human behaviours are regulated at different points, depending on their capacity for harm.
+The challenge is to develop a similar spectrum for AI, not expecting a single solution, but instead an evolving web.
+At the left-hand, light-touch end, would be consumer expectations for things like digital assistants. At the other extreme, global governance for weapons of war: military devices that can select and kill their targets without a human in the loop.
+I’ll leave that particular discussion on weapons to another occasion.
+Instead, I’ve been thinking about the role that Australia could play at the left-hand end of the spectrum, where we interact with technology providers as everyday consumers.
+We would expect a government department to vet the provider of a service that, for example, replaced social workers with algorithms that predict the likelihood that a particular child will be violent.
+But how many consumers are going to have the knowledge or the time to individually vet every AI they encounter? When was the last time you read the terms and conditions before clicking “Accept”?
+What we need is an agreed standard and a clear signal, so we individual consumers don’t need expert knowledge to make ethical choices, and companies that want your business know from the outset how they are expected to behave.
+So my proposal is a trustmark. Its working title is “the Turing Certificate”, in honour of Alan Turing.
+Companies can apply for Turing certification and, if they meet the standards and comply with the auditing requirements, they can display the Turing Stamp.
+Then consumers and governments could use their purchasing power to reward and encourage ethical AI, just as they currently look for the “Fairtrade” logo on coffee.
+The first response to a certification scheme is always “but that costs money”.
+I understand that response, because I thought that way myself when I was building my company Axon Instruments in San Francisco. I was making a device that was designed to be surgically inserted into people’s brains.
+I expected to face a long and tortuous process to meet the exacting international ISO 9000 standards for good manufacturing practice. What I discovered was that the standards were the scaffold I needed to build a competitive company. They baked in the expectation of quality from the start.
+True quality is achieved by design, not by test and reject.
+We maintained these exacting design and business practices for our non-medical products, too, because they made us a better company and gave us a commercial edge. Done right, the costs of securing certification should then be covered by increased sales to customers prepared to pay a premium.
+Would the Turing Stamp be granted to organisations or products? Both. It is the model that has long been accepted in the manufacturing sector.
+And when you trade with an AI developer you expect to have an ongoing relationship. If you buy a washing machine, it will still be the same washing machine in five years’ time. If you download an app, it may well be radically different in five weeks.
+I think you would want the company that stores your data and develops your upgrades to be ethical through and through.
+Of course, in the manufacturing sector, the standards are both mandatory and enforceable: manufacturing is a highly visible process.
+For AI, mandatory certification would be cumbersome. The voluntary Turing system would allow responsible companies to opt in.
+A voluntary system does not mean self-certification. It means that the companies would voluntarily submit themselves to an external process. Smart companies, trading on quality, would welcome an auditing system that weeded out poor behaviour. And consumers would rightly insist on a stamp with proven integrity.
+Is this a global measure that Australia could help to foster?
+Surely we have more to gain than most. Where we compete in the global market, we compete on quality.
+A system that verifies quality and prioritises ethics will reward Australia.
+Last week’s federal budget made what I have described as a “promising first instalment”. A$30 million has been allocated for AI, including an AI roadmap and a national AI ethics framework.
+I hope we can use our influence to shape a responsible direction for the world.
+This article is an extract of a keynote speech Alan Finkel delivered to a Committee for Economic Development of Australia (CEDA) event in Sydney on artificial intelligence.

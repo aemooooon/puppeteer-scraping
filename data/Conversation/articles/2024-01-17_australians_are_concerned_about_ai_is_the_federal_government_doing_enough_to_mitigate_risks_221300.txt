@@ -1,0 +1,26 @@
+Today, the federal Minister for Industry and Science Ed Husic revealed an interim response from the Australian government on the safe and responsible use of artificial intelligence (AI).
+The public, especially the Australian public, have real concerns about AI. And it’s appropriate that they should.
+AI is a powerful technology entering our lives quickly. By 2030, it may increase the Australian economy by 40%, adding A$600 billion to our annual gross domestic product.  A recent International Monetary Fund report estimates AI might also impact 40% of jobs worldwide, and 60% of jobs in developed nations like Australia.
+In half of those jobs, the impacts will be positive, lifting productivity and reducing drudgery. But in the other half, the impacts may be negative, taking away work, even eliminating some jobs completely. Just as lift attendants and secretaries in typing pools had to move on and find new vocations, so might truck drivers and law clerks.
+Perhaps not surprisingly then, in a recent market researcher Ipsos survey of 31 countries, Australia was the nation most nervous about AI. Some 69% of Australians, compared to just 23% of Japanese, were worried about the use of AI. And only 20% of us thought it would improve the job market.
+The Australian government’s new interim response is therefore to be welcomed. It’s a somewhat delayed reply to last year’s public consultation on AI. It received over 500 submissions from business, civil society and academia. I contributed to multiple of these submissions.
+Like any good plan, the government’s response has three legs.
+First, there’s a plan to work with industry to develop voluntary AI Safety Standards. Second, there’s also a plan to work with industry to develop options for voluntary labelling and watermarking of AI-generated materials. And finally, the government will set up an expert advisory body to “support the development of options for mandatory AI guardrails”.
+These are all good ideas. The International Organisation for Standardisation have been working on AI standards for multiple years. For example, Standards Australia just helped launch a new international standard that supports the responsible development of AI management systems.
+An industry group containing Microsoft, Adobe, Nikon and Leica has developed open tools for labelling and watermarking digital content. Keep a look out for the new “Content Credentials” logo that is starting to appear on digital content.
+And the New South Wales government set up an 11-member advisory committee of experts to advise it on the appropriate use of artificial intelligence back in 2021.
+It’s hard not to conclude then that the federal government’s most recent response is a little light and a little late.
+Over half the world’s democracies get to vote this year. Over 4 billion people will go to the polls. And we’re set to see AI transform those elections.
+
+      How AI could take over elections – and undermine democracy
+We’ve already seen deepfakes used in recent elections in Argentina and Slovakia. The Republican party in the US have put out a campaign advert that uses entirely AI-generated imagery.
+Are we prepared for a world in which everything you see or hear could be fake? And will voluntary guidelines be enough to protect the integrity of these elections? Sadly, many of the tech companies are reducing staff in this area, just at the time when they are needed the most.
+The European Union has led the way in the regulation of AI – it started drafting regulation back in 2020. And we are still a year or so away before the EU AI Act comes into force. This emphasises how far behind Australia is.
+Like the EU, the Australian government’s interim response proposes a risk-based approach. There are plenty of harmless uses of AI that are of little concern. For example, you likely get a lot less spam email thanks to AI filters. And there’s little regulation needed to ensure those AI filters do an appropriate job.
+But there are other areas, such as the judiciary and policing, where the impact of AI could be more problematic. What if AI discriminates on who gets interviewed for a job? Or bias in facial recognition technologies result in even more Indigenous people being incorrectly incarcerated?
+The interim response identifies such risks but takes few concrete steps to avoid them.
+However, the biggest risk the report fails to address is the risk of missing out. AI is a great opportunity, as great or greater than the internet.
+When the United Kingdom government put out a similar report on AI risks last year, they addressed this risk by announcing another 1 billion pounds (A$1.9 billion) of investment to add to the more than 1 billion pounds of previous investment.
+The Australian government has so far announced less than A$200 million. Our economy and population is around a third of the UK. Yet the investment so far has been 20 times smaller. We risk missing the boat.
+
+      AI: the real threat may be the way that governments choose to use it

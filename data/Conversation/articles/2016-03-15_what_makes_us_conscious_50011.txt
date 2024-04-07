@@ -1,0 +1,26 @@
+Do you think that the machine you are reading this story on, right now, has a feeling of “what it is like” to be in its state?
+What about a pet dog? Does it have a sense of what it’s like to be in its state? It may pine for attention, and appear to have a unique subjective experience, but what separates the two cases?
+These are by no means simple questions. How and why particular circumstances may give rise to our experience of consciousness remain some of the most puzzling questions of our time.
+Newborn babies, brain-damaged patients, complicated machines and animals may display signs of consciousness. However, the extent or nature of their experience remains a hotbed of intellectual enquiry.
+Being able to quantify consciousness would go a long way toward answering some of these problems. From a clinical perspective, any theory that might serve this purpose also needs to be able to account for why certain areas of the brain appear critical to consciousness, and why the damage or removal of other regions appears to have relatively little impact.
+One such theory has been gaining support in the scientific community. It’s called Integrated Information Theory (IIT), and was proposed in 2008 by Guilio Tononi, a US-based neuroscientist.
+It also has one rather surprising implication: consciousness can, in principle, be found anywhere where there is the right kind of information processing going on, whether that’s in a brain or a computer.
+The theory says that a physical system can give rise to consciousness if two physical postulates are met.
+The first is that the physical system must be very rich in information.
+If a system is conscious of an enormous number of things, like every frame in a film, but if each frame is clearly distinct, then we’d say conscious experience is highly differentiated.
+Both your brain and your hard drive are capable of containing such highly differentiated information. But one is conscious and the other is not.
+So what is the difference between your hard drive and your brain? For one, the human brain is also highly integrated. There are many billions of cross links between individual inputs that far exceed any (current) computer.
+This brings us to the second postulate, which is that for consciousness to emerge, the physical system must also be highly integrated.
+Whatever information you are conscious of is wholly and completely presented to your mind. For, try as you might, you are unable to segregate the frames of a film into a series of static images. Nor can you completely isolate the information you receive from each of your senses.
+The implication is that integration is a measure of what differentiates our brains from other highly complex systems.
+By borrowing from the language of mathematics, IIT attempts to generate a single number as a measure of this integrated information, known as phi (Φ, pronounced “fi”).
+Something with a low phi, such as a hard drive, won’t be conscious. Whereas something with a high enough phi, like a mammalian brain, will be.
+What makes phi interesting is that a number of its predictions can be empirically tested: if consciousness corresponds to the amount of integrated information in a system, then measures that approximate phi should differ during altered states of consciousness.
+Recently, a team of researchers developed an instrument capable of measuring a related quantity to integrated information in the human brain, and tested this idea.
+They used electromagnetic pulses to stimulate the brain, and were able to distinguish awake and anaesthetised brains from the complexity of the resulting neural activity.
+The same measure was even capable of discriminating between brain injured patients in vegetative compared to minimally conscious states. It also increased when patients went from non-dream to the dream-filled states of sleep.
+IIT also predicts why the cerebellum, an area at the rear of the human brain, seems to contribute only minimally to consciousness. This is despite it containing four times more neurons than the rest of the cerebral cortex, which appears to be the seat of consciousness.
+The cerebellum has a comparatively simple crystalline arrangement of neurons. So IIT would suggest this area is information rich, or highly differentiated, but it fails IIT’s second requirement of integration.
+Although there’s a lot more work to be done, some striking implications remain for this theory of consciousness.
+If consciousness is indeed an emergent feature of a highly integrated network, as IIT suggests, then probably all complex systems – certainly all creatures with brains – have some minimal form of consciousness.
+By extension, if consciousness is defined by the amount of integrated information in a system, then we may also need to move away from any form of human exceptionalism that says consciousness is exclusive to us.
